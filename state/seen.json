@@ -1,27 +1,127 @@
 {
-  "-ask-jaishankar-indian-american-congressman-ro-khanna-says-t": {
-    "firstSeen": "2026-06-30T10:24:35.761Z",
-    "signature": "khan",
-    "norm": 15
+  "-don-t-believe-me-ask-jaishankar-indian-american-congressman": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "congress|jaishankar|khan|mp|trump|trump|us ties",
+    "norm": 30.9
   },
-  "ahead-of-key-maharashtra-poll-sena-ubt-leader-sachin-ahir-sw": {
+  "-will-cut-off-those-hands-pakistan-minister-s-stark-warning-": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "minister|pakistan|star|war|warning",
+    "norm": 30.5
+  },
+  "-he-ll-be-up-he-s-like-me-when-trump-wanted-to-call-pm-modi-": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "modi|modi|mp|trump|trump",
+    "norm": 23.9
+  },
+  "-lose-vote-lose-benefits-dk-shivakumar-s-big-warning-as-sir-": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "vote|war|warning",
+    "norm": 23.2
+  },
+  "why-ayodhya-lawyers-refusal-to-represent-accused-in-ram-mand": {
     "firstSeen": "2026-06-30T10:24:35.761Z",
-    "signature": "",
+    "signature": "ayodhya|mp|ram mandir",
+    "norm": 22.2
+  },
+  "videos-roads-melt-tram-tracks-buckle-as-europe-struggles-wit": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "heatwave|video",
+    "norm": 21.4
+  },
+  "india-semiconductor-mission-2-0-gets-rs-1-25-lakh-crore-nod-": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "crore|lakh|mp",
+    "norm": 20.2
+  },
+  "us-supreme-court-vastly-expands-trump-s-presidential-powers-": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "mp|president|ruling|supreme court|trump|trump",
+    "norm": 19.8
+  },
+  "stock-market-today-live-june-30-sensex-flat-nifty-tests-23-9": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "nifty|sensex|stock market",
+    "norm": 16.1
+  },
+  "shiv-sena-ubt-s-sachin-ahir-joins-shinde-faction-files-mahar": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "maharashtra",
+    "norm": 15.8
+  },
+  "-even-death-penalty-would-not-be-adequate-pune-court-awards-": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "death|war",
+    "norm": 14.3
+  },
+  "cara-delevingne-confirms-romance-with-amber-heard-amid-johnn": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "actress|tax",
     "norm": 14.1
+  },
+  "monsoon-tracker-live-akasa-air-spicejet-issue-travel-advisor": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "weather",
+    "norm": 13.4
+  },
+  "what-is-iran-looking-for-in-any-upcoming-talks-with-the-us-": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "iran",
+    "norm": 13.4
   },
   "2-lawyers-in-siya-goyal-case-and-a-rs-10-crore-defamation-su": {
     "firstSeen": "2026-06-30T10:24:35.761Z",
     "signature": "crore",
-    "norm": 13
+    "norm": 12
   },
-  "why-ayodhya-lawyers-refusal-to-represent-accused-in-ram-mand": {
-    "firstSeen": "2026-06-30T10:24:35.761Z",
-    "signature": "",
-    "norm": 8.6
+  "internet-slams-entitled-ram-kapoor-over-his-behaviour-in-loc": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "slam|slams",
+    "norm": 11.6
   },
-  "what-is-iran-looking-for-in-any-upcoming-talks-with-the-us-a": {
-    "firstSeen": "2026-06-30T10:24:35.761Z",
+  "u-s-quake-relief-efforts-collide-with-anger-at-venezuela-s-g": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "anger",
+    "norm": 10.9
+  },
+  "why-persistent-ceo-sandeep-kalra-calls-nagarro-acquisition-a": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "acquisition",
+    "norm": 9.5
+  },
+  "fiio-s-noise-cancelling-wireless-headphones-want-to-challeng": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
     "signature": "",
-    "norm": 8.6
+    "norm": 9
+  },
+  "drop-tests-photos-parts-of-iphone-18-pro-battery-and-cameras": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "photos",
+    "norm": 7.7
+  },
+  "-lured-out-for-momos-woman-alleges-sexual-harassment-inside-": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "",
+    "norm": 6.5
+  },
+  "samsung-hints-the-galaxy-ring-2-could-do-something-no-galaxy": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "",
+    "norm": 6.5
+  },
+  "apple-s-biggest-leak-in-years-shows-the-iphone-18-pro-surviv": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "",
+    "norm": 4.1
+  },
+  "sonakshi-sinha-and-zaheer-iqbal-enjoy-family-dinner-with-sha": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "",
+    "norm": 2.5
+  },
+  "dji-brings-the-worlds-leading-pocket-creator-camera-to-ayc-m": {
+    "firstSeen": "2026-06-30T11:34:45.257Z",
+    "signature": "",
+    "norm": 1.4
   }
 }
