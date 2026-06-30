@@ -153,7 +153,7 @@ export function rankRun(stories, now = new Date()) {
   for (const st of scored) {
     st.confidence = confidence(st, now);
     // Only HOLD genuinely high-impact single-source stories (not every fresh routine item).
-    const majorBreaking = (st.intensities.safety >= 0.6 || st.intensities.emotion >= 0.75 || st.norm >= 55);
+    const majorBreaking = (st.intensities.safety >= 0.6 || st.intensities.emotion >= 0.75 || st.raw >= 34);
     if (majorBreaking && st.distinctSources < CONFIG.twoSourceMinForBreaking) {
       st.status = "HOLD";
       st.confidence = Math.min(st.confidence, 55); // unverified major claim -> below threshold

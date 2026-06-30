@@ -20,7 +20,7 @@ export const CONFIG = {
   // lights up all 9 dims, so a strong lead only reaches ~35/110 raw. This curve maps
   // raw -> an intuitive 0-100 where a strong lead reads ~70-90. Ranking is unchanged
   // (monotonic); the per-variable breakdown still shows the raw contributions.
-  calibration: { ref: 50, gamma: 0.62 },
+  calibration: { ref: 62, gamma: 0.72 },
 
   // ALL keyed sources + free no-key sources are queried in parallel and MERGED.
   // More sources => more corroboration => higher confidence => better ranking.
