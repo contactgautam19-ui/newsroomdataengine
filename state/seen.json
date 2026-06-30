@@ -1,301 +1,141 @@
 {
-  "iran-us-interim-peace-deal-may-support-india-s-growth-rbi": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "deal|economy|fund|iran|mp|rbi|row",
-    "norm": 82.2
+  "pm-modi-speaks-with-iran-president-in-1st-call-after-ceasefi": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "diplomacy|fire|fire|ipl|iran|minister|modi|modi|president|prime minister",
+    "norm": 85.7
   },
-  "k-c-venugopal-moves-privilege-notice-against-rajnath-for-mis": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "attack|attack|congress|parliament|terror|terror",
-    "norm": 81.3
+  "14-children-killed-as-tuition-centre-roof-collapses-in-lahor": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "collapse|collapse|collapse|hospital|injured|killed|killed|tragedy",
+    "norm": 82.1
   },
-  "congress-slams-mp-govt-over-lease-renewals-alleges-rs-306-cr": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "congress|crore|mp|slam|slams",
-    "norm": 74.6
+  "ttd-allocates-6-crore-srivani-funds-to-develop-kadapa-sivala": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "budget|crore|fund|lakh|mla|mp|vote|war",
+    "norm": 76.9
   },
-  "cjp-protest-day-11-wangchuk-sugar-level-drops-dipke-slams-bj": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "bjp|protest|protest|slam|slams",
-    "norm": 71.5
+  "beth-mooney-gardner-power-australia-into-eighth-women-s-t20-": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "fire|fire|opposition|storm|world cup",
+    "norm": 76.3
   },
-  "man-wearing-modi-mask-tries-burglary-in-rajasthan-his-failed": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "caught on camera|cctv|footage|modi|modi|mp",
-    "norm": 71
+  "pm-speaks-to-iranian-president-ahead-of-state-burial-of-supr": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "diplomacy|ipl|iran|minister|modi|modi|president|prime minister",
+    "norm": 72.6
   },
-  "congress-terms-donation-theft-at-ayodhya-ram-temple-a-maha-p": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "aap|ayodhya|congress|mp",
-    "norm": 63.5
+  "sc-orders-status-quo-on-karnataka-hc-direction-to-reopen-eth": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "mp|petrol|petrol|policy",
+    "norm": 68
   },
-  "sir-process-lacks-transparency-aap": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "aap|election|election|election commission",
-    "norm": 63.5
+  "three-dead-including-toddler-in-road-accident": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "accident|dead|dead",
+    "norm": 62.9
   },
-  "finance-ministry-panel-to-clear-1-25-lakh-crore-outlay-for-i": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "budget|crore|lakh|row",
-    "norm": 63.5
+  "scary-scenes-deandra-dottin-carried-off-moments-before-women": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "mp|star|world cup",
+    "norm": 62.5
   },
-  "kanchivaram-maheshwari-silk-muradabadi-brass-tortoise-part-o": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "minister|president|prime minister|war",
-    "norm": 61.8
-  },
-  "boy-4-falls-into-220-foot-borewell-in-ambala-rescue-ops-unde": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "mp|rescue|rescue",
-    "norm": 61.1
-  },
-  "oneplus-n6-vs-realme-p4-power-display-processor-battery-came": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "mp|price",
-    "norm": 57.9
-  },
-  "monsoon-tracker-live-monsoon-intensifies-across-maharashtra-": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "heavy rain|maharashtra",
+  "senior-citizens-found-dead-near-varkala": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "dead|dead",
     "norm": 57.6
   },
-  "ayodhya-bar-boycott-sc-has-said-even-the-wicked-have-the-rig": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "ayodhya|supreme court",
-    "norm": 57.1
+  "n-prasanth-makes-a-veiled-attack-on-a-jayathilak": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "attack|attack",
+    "norm": 57.6
   },
-  "twisha-death-case-court-asks-defence-to-file-written-plea-on": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "death|defence",
-    "norm": 57.1
-  },
-  "-hands-off-strait-of-hormuz-iran-says-foreign-intervention-t": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "iran|mp",
-    "norm": 57.1
-  },
-  "ram-temple-trust-prepones-key-meeting-to-decide-champat-rai-": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "mp|row",
-    "norm": 55.4
-  },
-  "wife-can-t-be-denied-maintenance-because-parents-support-her": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "high court|war",
-    "norm": 55.4
-  },
-  "fifa-world-cup-2026-germany-netherland-exit-creates-rare-top": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "record|world cup",
-    "norm": 55.4
-  },
-  "centre-extends-credit-support-to-businesses-under-eclgs-5-0": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "crore|minister",
-    "norm": 55
-  },
-  "chhattisgarh-deputy-cm-vijay-sharma-offers-prayers-at-kanaka": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "mp|sharma",
-    "norm": 53.5
-  },
-  "restrictive-regulations-will-slow-indian-startup-formation-b": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "mp|star",
-    "norm": 53.5
-  },
-  "meta-on-contractors-posing-as-teens-to-ask-rival-chatbots-se": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "actor|mp",
-    "norm": 51.7
-  },
-  "ajmer-court-gives-jail-till-death-for-rape-of-5-year-old-jai": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "death",
-    "norm": 51.2
-  },
-  "iiser-iat-result-2026-final-answer-key-out-here-are-the-deta": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "result",
-    "norm": 51.2
-  },
-  "jas-officer-beaten-to-death-over-land-dispute-in-ramgarh-ran": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "death",
-    "norm": 51.2
-  },
-  "tania-raymonde-brian-austin-green-steve-agee-join-horror-com": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "horror",
-    "norm": 51.2
-  },
-  "aqua-farmers-and-feed-shops-observe-bandh-against-hike-in-pr": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "price|prices",
+  "anitha-radhakrishnan-seeks-anticipatory-bail-in-case-booked-": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "gen-dhiraj-seth-takes-charge-as-31st-army-chief": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "army",
-    "norm": 49
+  "gujarat-can-anchor-drive-for-self-reliance-in-defence-says-r": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "defence|minister",
+    "norm": 48.7
   },
-  "odisha-successfully-completes-first-phase-of-census-exercise": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "-she-never-avoided-ketan-siya-goyal-s-mother-denies-love-tri": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
+  "sanmar-group-eyes-entry-into-warehousing": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "war",
-    "norm": 48.2
+    "norm": 46.3
   },
-  "monthly-average-rainfall-over-india-expected-to-be-below-nor": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "weather",
-    "norm": 48.2
+  "bengaluru-s-key-toll-roads-to-get-revised-user-fee-from-july": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "toll",
+    "norm": 46.3
   },
-  "filming-for-ranveer-singh-pralay-to-begin-in-australia-this-": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "film",
-    "norm": 47.4
-  },
-  "suriya-reunites-with-jai-bhim-director-tj-gnanavel-for-ambit": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "film",
-    "norm": 47.4
-  },
-  "restart-govt-to-roll-out-pm-e-buses-from-next-month-across-s": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "star",
-    "norm": 47.4
-  },
-  "pizza-franchise-is-all-set-to-return-with-fourth-film": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "film",
-    "norm": 47.4
-  },
-  "tribal-university-invites-applications-for-m-a-in-public-pol": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "policy",
+  "pm-asks-secretaries-to-focus-on-ease-of-doing-business-ease-": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "cabinet",
     "norm": 45.9
   },
-  "svu-develops-healthier-fruit-pops-alternative-to-address-cho": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
+  "amit-shah-launches-fcra-2-0-portal-and-e-oci-card": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "amit shah",
+    "norm": 45.9
+  },
+  "rights-groups-seek-government-aid-for-families-of-deceased-f": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "telangana-mla-raja-singh-acquitted-in-case-for-remarks-again": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "mla",
-    "norm": 45.9
+  "actors-vinay-rajkumar-and-megha-shetty-rejoice-at-bcu-utsava": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
+    "signature": "actor",
+    "norm": 44.3
   },
-  "sir-in-karnataka-a-complete-guide-to-the-enumeration-process": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
+  "monthly-average-rainfall-expected-to-be-below-normal-in-july": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "mp",
-    "norm": 45.9
-  },
-  "who-is-dr-muskan-soni-dentist-suspended-after-mocking-ketan-": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "instagram",
-    "norm": 44.3
-  },
-  "1st-t20i-fresh-start-beckons-as-india-seek-clarity-against-e": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "star",
-    "norm": 44.3
-  },
-  "court-rejects-love-affair-defence-man-gets-20-year-jail-for-": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "defence",
     "norm": 44
   },
-  "5-beauty-products-femina-beauty-editor-is-obsessed-with": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "sudha-kongara-seeks-stay-on-idhayam-murali-release-over-para": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "teacher-counsellor-translator-and-college-planner-san-diego-": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "association-honours-eminent-library-professionals": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "most-global-datacentres-face-climate-risk-what-happens-to-in": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "ketan-agarwal-murder-lohagad-fort-closed-for-visitors-as-lon": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "green-hydrogen-portal-strengthens-india-clean-energy-mission": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "india-battery-storage-capacity-gathers-pace-as-power-demand-": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "siya-said-chetan-was-just-a-friend-so-didn-t-tell-parents-ab": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
+  "-did-we-check-her-background-ketan-had-suspected-siya-s-affa": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "",
     "norm": 36
   },
-  "police-station-in-belagavi-moves-to-new-premises": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
+  "15-year-old-abandoned-boy-appeals-to-police-for-family-reuni": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "",
     "norm": 36
   },
-  "yadgir-deputy-commissioner-inspects-ongoing-civic-works": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
+  "after-june-deficit-july-to-see-below-normal-rainfall-too-imd": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "",
     "norm": 36
   },
-  "sinner-rallies-to-beat-kecmanovic-in-5-sets-in-opener": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
+  "after-trent-noel-tata-to-step-down-as-voltas-chairman": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "",
     "norm": 36
   },
-  "cm-omar-abdullah-aims-to-restore-kashmir-role-in-cinematic-p": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
+  "criminal-justice-system-s-digital-push-aims-for-a-full-roll-": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "",
     "norm": 36
   },
-  "entrepreneurship-key-to-meghalaya-economic-transformation-co": {
-    "firstSeen": "2026-06-30T13:21:25.661Z",
+  "gruha-jyothi-beneficiaries-verification-to-begin-on-july-1": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "",
     "norm": 36
   },
-  "-june-was-5th-driest-below-normal-rain-likely-in-july-too-mo": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
+  "two-bangladeshi-nationals-detained-at-guwahati-airport-with-": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "",
     "norm": 36
   },
-  "what-is-epfo-s-new-system-explained": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
-    "signature": "",
-    "norm": 36
-  },
-  "telangana-hc-asks-eci-to-consider-urdu-forms-in-sir-exercise": {
-    "firstSeen": "2026-06-30T13:11:53.079Z",
+  "nhai-resumes-elevated-corridor-work-on-chennai-bengaluru-hig": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "",
     "norm": 33.9
   },
-  "minors-detained-over-murder-made-to-do-sexual-acts-bengaluru": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
+  "how-severe-is-russia-s-energy-shortage-because-of-ukrainian-": {
+    "firstSeen": "2026-06-30T17:31:24.532Z",
     "signature": "",
     "norm": 33.9
   }
