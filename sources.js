@@ -140,7 +140,43 @@ async function googlerss() {
   return out;
 }
 
-const PROVIDERS = { newsdata, newsapiorg, newsapiai, worldnews, thenewsapi, webz, serpapi, googlerss };
+// 9) GDELT DOC 2.0 — FREE, no key, real-time (15-min latency), India filter via FIPS "IN".
+async function gdelt() {
+  const u = new URL("https://api.gdeltproject.org/api/v2/doc/doc");
+  u.searchParams.set("query", "sourcecountry:IN sourcelang:english");
+  u.searchParams.set("mode", "ArtList");
+  u.searchParams.set("format", "json");
+  u.searchParams.set("timespan", `${Math.max(1, CONFIG.freshnessHours)}h`);
+  u.searchParams.set("sort", "DateDesc");
+  u.searchParams.set("maxrecords", "75");
+  const j = await J(u);
+  return (j.articles || []).map((a) => mk({
+    title: a.title, description: "", publisher: a.domain || "GDELT",
+    url: a.url, imageUrl: a.socialimage || null,
+    publishedAt: ts((a.seendate || "").replace(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z/, "$1-$2-$3T$4:$5:$6Z")),
+  }));
+}
+// 10) Direct Indian-publisher RSS feeds — FREE, no key, real-time, distinct publishers.
+async function rssfeeds() {
+  const pick = (b, tag) => (b.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`)) || [, ""])[1].replace(/<!\[CDATA\[|\]\]>/g, "").trim();
+  const out = [];
+  await Promise.all((CONFIG.indiaFeeds || []).map(async (feed) => {
+    try {
+      const xml = await (await fetch(feed.url)).text();
+      for (const m of [...xml.matchAll(/<item[\s>]([\s\S]*?)<\/item>/g)].slice(0, 20)) {
+        const b = m[1], title = pick(b, "title");
+        if (!title) continue;
+        out.push(mk({
+          title, description: pick(b, "description").replace(/<[^>]+>/g, " ").slice(0, 300),
+          publisher: feed.name, url: pick(b, "link"), publishedAt: ts(pick(b, "pubDate")),
+        }));
+      }
+    } catch { /* skip a dead feed */ }
+  }));
+  return out;
+}
+
+const PROVIDERS = { newsdata, newsapiorg, newsapiai, worldnews, thenewsapi, webz, serpapi, googlerss, gdelt, rssfeeds };
 
 /* --------------------- fetch ALL, then merge + dedupe --------------------- */
 export async function fetchTopStories() {

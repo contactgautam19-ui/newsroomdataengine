@@ -98,11 +98,17 @@ export function scoreStory(s, now = new Date()) {
            dominant: dominantVar(intensities) };
 }
 
+// Calibrated editorial scale: maps raw (rarely > ~40/110) onto an intuitive 0-100
+// where a strong lead reads ~70-90. Monotonic, so ranking is identical to raw.
+function calibrate(raw) {
+  const { ref, gamma } = CONFIG.calibration;
+  return +Math.min(100, 100 * Math.pow(Math.min(raw, ref) / ref, gamma)).toFixed(1);
+}
 function totals(intensities) {
   let raw = 0;
   for (const k in CONFIG.weights) raw += intensities[k] * CONFIG.weights[k];
   raw = +raw.toFixed(2);
-  return { raw, norm: +((raw / WEIGHT_SUM) * 100).toFixed(1) };
+  return { raw, norm: calibrate(raw) };
 }
 const dominantVar = (i) => Object.entries(i).sort((a, b) => b[1] - a[1])[0][0];
 

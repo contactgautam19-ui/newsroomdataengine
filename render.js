@@ -15,6 +15,7 @@ const COLOR = {
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
 const badge = (st) => ({ LEAD:"★ RECOMMEND LEAD", HOLD:"⏸ HOLD — VERIFY",
   DOWNGRADE:"↓ DOWNGRADE (STALE)", RUN:"● RUN IN BODY" }[st] || "● RUN");
+const tier = (n) => n >= 80 ? "Top of bulletin" : n >= 65 ? "Strong" : n >= 50 ? "Solid" : n >= 35 ? "Moderate" : "Low";
 
 /* ----------------------- distribution strategy rules ---------------------- */
 export function distribution(s) {
@@ -69,13 +70,13 @@ export function buildDashboard(scored, meta) {
         <div class="rank"><span class="n">${i+1}</span><span class="l">RANK</span></div>
         <div class="ctitle"><h3>${esc(s.title)}</h3>
           <div class="meta"><span class="src">${esc(s.publisher)}</span><span>· ${new Date(s.publishedAt).toLocaleString("en-IN")}</span><span>· ${s.distinctSources} src</span></div></div>
-        <div class="score"><div class="big">${s.norm}</div><div class="out">/100</div>
+        <div class="score"><div class="big">${s.norm}</div><div class="out">/100 · ${tier(s.norm)}</div>
           <span class="b ${s.status}">${badge(s.status)}</span></div><span class="chev">▶</span>
       </div>
       <div class="cbody">
         <div class="visual"><img src="${imgFor(s)}" alt=""><div class="vcap">📷 ${s.imageUrl?'Source image':'No source image — publisher fallback'} · <a href="${esc(s.url)}" target="_blank" rel="noopener">open article ↗</a></div></div>
         <div class="bars">${bars}</div>
-        <div class="rawline"><span>Raw <b>${s.raw}</b>/${WEIGHT_SUM} → <b>${s.norm}</b>/100</span>
+        <div class="rawline"><span>Raw <b>${s.raw}</b>/${WEIGHT_SUM} → calibrated <b>${s.norm}</b>/100</span>
           <span>Confidence <b style="color:${conf}">${s.confidence}%</b>${s.confidence<CONFIG.confidenceThreshold?' ⚑ review':''}</span></div>
         <div class="guard"><b>Guardrail:</b> ${esc(s.guard)}</div>
         <div class="dist"><h4>Distribution</h4>
@@ -125,7 +126,7 @@ footer{margin-top:20px;font-size:11px;color:var(--muted);line-height:1.6;border-
 <header><div><h1>Newsroom Rundown Engine</h1><div class="sub">Google News · India (multi-lang) · source: ${esc(meta.provider)} · ${esc(meta.runTime)} IST · 24/7 hourly</div></div></header>
 <div class="banner"><b>Recommended lead:</b> ${esc(lead?lead.title:"—")} (${lead?lead.norm:"-"}/100).${hold?` <b>Held for verification:</b> ${esc(hold.title)} — single source, do not lead until confirmed.`:""} Final rundown call is the editor's.</div>
 ${cards}
-<footer>Each score = intensity(0–1) × weight; weights sum to ${WEIGHT_SUM}, normalized to 100. Images load from the news-API <code>image_url</code> or article <code>og:image</code> — never AI-generated. Recommendations only; the editor owns the final rundown. Generated ${esc(meta.runTime)} IST.</footer>
+<footer>Headline score is a <b>calibrated 0–100 editorial scale</b> (a strong lead reads ~70–90); the per-variable bars show the raw intensity(0–1) × weight contributions that sum to the Raw/${WEIGHT_SUM} figure. Calibration changes the displayed number, not the ranking or the evidence. Images load from the news-API <code>image_url</code> / <code>og:image</code> — never AI-generated. Recommendations only; the editor owns the final rundown. Generated ${esc(meta.runTime)} IST.</footer>
 </div></body></html>`;
 }
 
