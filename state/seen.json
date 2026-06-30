@@ -1,48 +1,58 @@
 {
-  "opposition-attacking-ec-over-sir-to-mask-poll-defeats-displa": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "attack|attack|bjp|election|election|mp|opposition|poll",
-    "norm": 83.1
+  "iran-us-interim-peace-deal-may-support-india-s-growth-rbi": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "deal|economy|fund|iran|mp|rbi|row",
+    "norm": 82.2
   },
-  "congress-faces-heat-over-contradictory-sir-stand-karnataka-c": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "backlash|chief minister|congress|minister|vote|war",
-    "norm": 69.6
+  "k-c-venugopal-moves-privilege-notice-against-rajnath-for-mis": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "attack|attack|congress|parliament|terror|terror",
+    "norm": 81.3
   },
-  "-pok-not-part-of-pakistan-protesters-warn-islamabad-of-reach": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "pakistan|protest|protest|slam|war",
+  "cjp-protest-day-11-wangchuk-s-sugar-level-drops-dipke-slams-": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "bjp|protest|protest|slam|slams",
     "norm": 68.9
-  },
-  "40-c-and-counting-europe-s-heatwave-exposes-a-continent-buil": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "heatwave|mp|war",
-    "norm": 66
-  },
-  "madras-high-court-confirms-death-sentence-for-man-convicted-": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "death|devastat|high court|mp",
-    "norm": 65
   },
   "fire-breaks-out-at-delhi-s-popular-parikrama-restaurant": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "blaze|fire|fire|mp",
     "norm": 63.9
   },
+  "congress-terms-donation-theft-at-ayodhya-ram-temple-a-maha-p": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "aap|ayodhya|congress|mp",
+    "norm": 63.5
+  },
+  "sir-process-lacks-transparency-aap": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "aap|election|election|election commission",
+    "norm": 63.5
+  },
+  "finance-ministry-panel-to-clear-1-25-lakh-crore-outlay-for-i": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "budget|crore|lakh|row",
+    "norm": 63.5
+  },
+  "kanchivaram-maheshwari-silk-muradabadi-brass-tortoise-part-o": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "minister|president|prime minister|war",
+    "norm": 63.5
+  },
   "boy-4-falls-into-220-foot-borewell-in-ambala-rescue-ops-unde": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "mp|rescue|rescue",
-    "norm": 62.8
+    "norm": 61.1
   },
-  "pm-modi-chairs-high-level-meet-with-top-bureaucrats": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "modi|modi|mp|policy",
-    "norm": 61.8
+  "monsoon-tracker-live-monsoon-intensifies-across-maharashtra-": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "heavy rain|maharashtra",
+    "norm": 59.3
   },
-  "11-year-old-student-dies-4-injured-after-tree-falls-on-mumba": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "hospital|injured|rescue|rescue",
-    "norm": 60.6
+  "-hands-off-strait-of-hormuz-iran-says-foreign-intervention-t": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "iran|mp",
+    "norm": 57.1
   },
   "ram-temple-trust-prepones-key-meeting-to-decide-champat-rai-": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
@@ -52,12 +62,12 @@
   "wife-can-t-be-denied-maintenance-because-parents-support-her": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "high court|war",
-    "norm": 57.1
+    "norm": 55.4
   },
   "kerala-university-row-over-standing-counsel-appointment": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "high court|row",
-    "norm": 57.1
+    "norm": 55.4
   },
   "medical-bail-only-in-case-of-grave-necessity-supreme-court-t": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
@@ -69,54 +79,59 @@
     "signature": "death|mp",
     "norm": 55.4
   },
-  "ayodhya-bar-boycott-sc-has-said-even-the-wicked-have-the-rig": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "ayodhya|supreme court",
-    "norm": 55.4
-  },
-  "india-pakistan-should-return-to-negotiating-table-mirwaiz": {
-    "firstSeen": "2026-06-30T11:47:14.811Z",
-    "signature": "gst|pakistan",
-    "norm": 53.2
+  "centre-extends-credit-support-to-businesses-under-eclgs-5-0": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "crore|minister",
+    "norm": 55
   },
   "restrictive-regulations-will-slow-indian-startup-formation-b": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "mp|star",
-    "norm": 51.7
+    "norm": 53.5
   },
   "m-r-vijayabhaskar-s-resignation-displays-fragile-nature-of-t": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "chief minister|minister|vote",
     "norm": 50.9
   },
+  "monthly-average-rainfall-over-india-expected-to-be-below-nor": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "weather",
+    "norm": 48.2
+  },
   "delhi-metro-s-blue-line-faces-technical-snag-during-rush-hou": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "war",
-    "norm": 48.2
+    "norm": 46.3
   },
   "chikkaballapur-murder-family-alleges-love-jihad-abuse-by-boy": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "death",
     "norm": 46.3
   },
+  "svu-develops-healthier-fruit-pops-alternative-to-address-cho": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "sir-in-karnataka-a-complete-guide-to-the-enumeration-process": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "who-is-dr-muskan-soni-dentist-suspended-after-mocking-ketan-": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "instagram",
+    "norm": 44.3
+  },
   "court-rejects-love-affair-defence-man-gets-20-year-jail-for-": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "defence",
-    "norm": 45.9
+    "norm": 44
   },
   "amarnath-yatra-enhanced-security-accommodation-ready-for-55-": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "governor",
-    "norm": 45.9
-  },
-  "41-migrant-workers-from-jharkhand-stranded-in-tamil-nadu-aft": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "khan",
-    "norm": 44.3
-  },
-  "telangana-transitioned-as-a-heavyweight-in-aerospace-defence": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "defence",
     "norm": 44
   },
   "digital-india-turns-11-upi-becomes-world-s-largest-real-time": {
@@ -124,42 +139,47 @@
     "signature": "crore",
     "norm": 44
   },
-  "centre-extends-cbdt-chairman-ravi-agrawal-s-tenure-by-six-mo": {
-    "firstSeen": "2026-06-30T11:47:14.811Z",
-    "signature": "cabinet",
-    "norm": 44
+  "41-migrant-workers-from-jharkhand-stranded-in-tamil-nadu-aft": {
+    "firstSeen": "2026-06-30T12:54:04.055Z",
+    "signature": "khan",
+    "norm": 42.4
   },
-  "kerala-govt-has-asked-private-medical-dental-colleges-to-abi": {
-    "firstSeen": "2026-06-30T11:47:14.811Z",
-    "signature": "minister",
-    "norm": 44
+  "yadgir-deputy-commissioner-inspects-ongoing-civic-works": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-june-was-5th-driest-below-normal-rain-likely-in-july-too-mo": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "",
+    "norm": 36
+  },
+  "what-is-epfo-s-new-system-explained": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "",
+    "norm": 36
+  },
+  "telangana-hc-asks-eci-to-consider-urdu-forms-in-sir-exercise": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "",
+    "norm": 36
   },
   "minors-detained-over-murder-made-to-do-sexual-acts-bengaluru": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
+  },
+  "mylswamy-annadurai-made-chairman-of-tamil-nadu-s-reconstitut": {
+    "firstSeen": "2026-06-30T13:11:53.079Z",
+    "signature": "",
+    "norm": 33.9
   },
   "-didn-t-tell-parents-about-chetan-as-siya-said-he-was-just-a": {
     "firstSeen": "2026-06-30T11:47:14.811Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
   "-can-t-have-abrupt-cut-offs-india-seeks-ai-self-reliance-as-": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "",
-    "norm": 36
-  },
-  "opinion-blog-pranit-more-to-everyone-else-how-comedy-and-its": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "broken-promise-law-that-helped-beijing-tighten-its-grip-on-h": {
-    "firstSeen": "2026-06-30T12:54:04.055Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "centre-prepares-contingency-plan-for-12-states-amid-el-nino-": {
     "firstSeen": "2026-06-30T12:54:04.055Z",
     "signature": "",
     "norm": 33.9
