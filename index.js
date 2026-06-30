@@ -15,8 +15,13 @@ const selftest = process.argv.includes("--selftest");
 
 async function pull() {
   const { provider, stories } = await fetchTopStories();
-  const top = stories.slice(0, CONFIG.runSize);
-  return { provider, scored: rankRun(top) };
+  const sorted = [...stories].sort((a, b) => b.publishedAt - a.publishedAt);   // newest first
+  const cutoff = Date.now() - CONFIG.freshnessHours * 3600 * 1000;
+  const fresh = sorted.filter((s) => s.publishedAt.getTime() >= cutoff);        // last-hour only
+  const pool = (fresh.length >= CONFIG.runSize ? fresh : sorted).slice(0, CONFIG.candidatePool);
+  const ranked = rankRun(pool);                       // score + guardrails ALL, sorted by norm desc
+  console.log(`[run] pool ${pool.length} (fresh ${fresh.length}/${stories.length}) -> showing top ${CONFIG.runSize}`);
+  return { provider, scored: ranked.slice(0, CONFIG.runSize) };                 // present the TOP scorers
 }
 
 async function run() {

@@ -9,29 +9,38 @@ import { CONFIG, WEIGHT_SUM } from "./config.js";
 /* ----------------------------- LEXICONS ----------------------------------- */
 // Editing these is how you tune editorial judgement. Each match is traceable.
 const LEX = {
-  emotion:   ["killed","dead","death","grief","mourning","tragedy","tragic","outrage","fury","anger",
-              "fear","panic","horror","shock","terror","dread","heartbreak","devastat","trauma","cry"],
-  political: ["prime minister","modi","chief minister","president","supreme court","high court",
-              "election commission","parliament","lok sabha","rajya sabha","cabinet","minister",
-              "governor","cji","army","defence","verdict","ruling","policy","bill","ordinance"],
-  celebrity: ["actor","actress","bollywood","star","singer","cricketer","captain","film","movie",
-              "box office","kohli","gavaskar","sharma","ambani","khan","celebrity","wedding","fan"],
-  money:     ["crore","lakh","billion","rupee","sensex","nifty","market","fpi","gdp","inflation",
-              "jobs","layoff","tax","budget","ipo","fund","economy","price","fuel","investor","stocks"],
-  safety:    ["fire","flood","blast","explosion","attack","accident","crash","collapse","outbreak",
-              "evacuat","landslide","earthquake","cyclone","rescue","killed","injured","toll","derail",
-              "stampede","hospital","alert","warning","disaster","rain","storm"],
-  visual:    ["drone","footage","video","viral","caught on camera","cctv","fire","flood","explosion",
-              "crowd","rescue","clash","rally","protest","blaze","smoke","collapse"],
-  unexpected:["sudden","unexpected","shock","surprise","freak","unprecedented","first-ever","record",
-              "earthquake","collapse","mystery","stuns","upset"],
-  // search-trend PROXY: India over-indexes on cricket / film / big-name events.
-  search:    ["cricket","ipl","world cup","match","bollywood","viral","trending","election","result",
-              "weather","gold","petrol","exam","recruitment"],
+  emotion:   ["killed","dead","death","died","grief","mourning","tragedy","tragic","outrage","fury","anger",
+              "fear","panic","horror","shock","shocking","terror","dread","heartbreak","devastat","trauma","cry",
+              "slam","slams","fury","backlash","protest","riot","clash","war","attack","threat","row","controversy",
+              "viral","emotional","brutal","horrific","massacre","scam","fraud","betray"],
+  political: ["prime minister","modi","chief minister","president","supreme court","high court","cji",
+              "election commission","parliament","lok sabha","rajya sabha","cabinet","minister","mp","mla",
+              "governor","army","defence","navy","air force","verdict","ruling","policy","bill","ordinance",
+              "bjp","congress","aap","jaishankar","rahul gandhi","kejriwal","mamata","yogi","amit shah","trump",
+              "election","poll","vote","by-election","coalition","alliance","defection","sanction","diplomacy",
+              "summit","border","china","pakistan","us ties","g20","brics","opposition","rally","manifesto"],
+  celebrity: ["actor","actress","bollywood","superstar","star","singer","cricketer","captain","film","movie",
+              "box office","kohli","gavaskar","rohit","sharma","ambani","adani","khan","celebrity","wedding","fan",
+              "trailer","teaser","instagram","viral video","sooryavanshi","dhoni","bumrah","tendulkar","oscar"],
+  money:     ["crore","lakh","billion","trillion","rupee","sensex","nifty","stock market","fpi","gdp","inflation",
+              "jobs","layoff","layoffs","tax","gst","budget","ipo","fund","economy","price","prices","fuel","petrol",
+              "diesel","investor","stocks","rbi","repo rate","rupee falls","record high","crash","recession","deal","acquisition"],
+  safety:    ["fire","flood","floods","blast","explosion","attack","terror","accident","crash","collapse","outbreak",
+              "evacuat","landslide","earthquake","cyclone","tsunami","rescue","killed","injured","dead","toll","derail",
+              "stampede","hospital","alert","red alert","warning","disaster","heavy rain","storm","heatwave","drowned",
+              "shooting","bomb","hijack","gas leak","building collapse","drown"],
+  visual:    ["drone","footage","video","viral","caught on camera","cctv","fire","flood","explosion","watch",
+              "crowd","rescue","clash","rally","protest","blaze","smoke","collapse","visuals","photos","pictures","aerial"],
+  unexpected:["sudden","suddenly","unexpected","shock","surprise","surprising","freak","unprecedented","first-ever",
+              "record","earthquake","collapse","mystery","stuns","stunned","upset","twist","shocker","out of nowhere","unbelievable"],
+  // search-trend PROXY: India over-indexes on cricket / film / politics / weather / exams.
+  search:    ["cricket","ipl","world cup","match","india vs","bollywood","viral","trending","election","result","results",
+              "weather","gold","gold price","petrol","exam","results","recruitment","neet","upsc","modi","trump",
+              "maharashtra","ayodhya","ram mandir","iran","israel","share price","live score"],
 };
 
-// saturating intensity from a hit count: 0->0, 1->0.40, 2->0.64, 3->0.78, 4->0.87
-const sat = (hits) => +(1 - Math.pow(0.6, hits)).toFixed(3);
+// saturating intensity from a hit count: 0->0, 1->0.50, 2->0.72, 3->0.85, 4->0.92
+const sat = (hits) => +(1 - Math.pow(0.5, hits)).toFixed(3);
 
 function lexHits(text, terms) {
   const t = (text || "").toLowerCase();
@@ -45,8 +54,9 @@ export function scoreStory(s, now = new Date()) {
   const minutesOld = Math.max(0, (now - s.publishedAt) / 60000);
 
   // breaking = recency + explicit "breaking/just in/live" cue
-  let recency = minutesOld < 60 ? 0.9 : minutesOld < 180 ? 0.7 : minutesOld < 360 ? 0.5
-              : minutesOld < 720 ? 0.35 : minutesOld < 1440 ? 0.2 : 0.1;
+  let recency = minutesOld < 30 ? 1.0 : minutesOld < 60 ? 0.92 : minutesOld < 120 ? 0.8
+              : minutesOld < 180 ? 0.66 : minutesOld < 360 ? 0.48 : minutesOld < 720 ? 0.3
+              : minutesOld < 1440 ? 0.18 : 0.1;
   const cue = /breaking|just in|live updates?/i.test(text) ? 0.1 : 0;
   const breaking = Math.min(1, recency + cue);
 
@@ -108,10 +118,10 @@ function saveSeen(seen) {
 // Confidence from source corroboration, recency, image, and signal clarity.
 function confidence(st, now) {
   const minutesOld = (now - st.publishedAt) / 60000;
-  let c = 45;
-  c += st.distinctSources >= 3 ? 32 : st.distinctSources === 2 ? 22 : 8;
+  let c = 48;
+  c += st.distinctSources >= 4 ? 38 : st.distinctSources === 3 ? 32 : st.distinctSources === 2 ? 24 : 12;
   c += st.imageUrl ? 5 : 0;
-  c += minutesOld < 360 ? 8 : 2;
+  c += minutesOld < 120 ? 8 : minutesOld < 360 ? 5 : 2;
   const vals = Object.values(st.intensities).sort((a, b) => b - a);
   c += (vals[0] - vals[1] > 0.25) ? 6 : 0; // decisive top signal => more confident
   return Math.max(20, Math.min(95, Math.round(c)));
@@ -136,7 +146,8 @@ export function rankRun(stories, now = new Date()) {
   // ---- confidence + status ----
   for (const st of scored) {
     st.confidence = confidence(st, now);
-    const majorBreaking = (st.intensities.safety >= 0.5 || st.intensities.breaking >= 0.7);
+    // Only HOLD genuinely high-impact single-source stories (not every fresh routine item).
+    const majorBreaking = (st.intensities.safety >= 0.6 || st.intensities.emotion >= 0.75 || st.norm >= 55);
     if (majorBreaking && st.distinctSources < CONFIG.twoSourceMinForBreaking) {
       st.status = "HOLD";
       st.confidence = Math.min(st.confidence, 55); // unverified major claim -> below threshold

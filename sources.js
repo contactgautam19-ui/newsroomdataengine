@@ -1,138 +1,171 @@
-// sources.js — fetch the top stories, normalize to one common shape.
-// Priority: NewsData.io (primary)  ->  SerpAPI Google News  ->  Google News RSS (free, no key).
-// Every story is normalized to:
+// sources.js — fetch top India stories from MANY providers in parallel and merge.
+// More providers => the same event shows up from multiple publishers => higher
+// corroboration (distinctSources) => higher confidence => better ranking.
+// Each provider is skipped automatically if its key (env var) is not set or it errors.
+// Normalized story shape:
 //   { id, title, description, publisher, url, publishedAt(Date),
-//     imageUrl, videoUrl, sourceIds:Set, category, country, language }
+//     imageUrl, videoUrl, sourceIds:Set<publisher>, category, country, language }
 import { CONFIG } from "./config.js";
 
 const ts = (s) => { const d = new Date(s); return isNaN(d) ? new Date() : d; };
 const idOf = (t) => (t || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").slice(0, 60);
+const mk = (o) => ({ videoUrl: null, imageUrl: null, category: "top",
+  country: CONFIG.region.country, language: CONFIG.region.languages[0],
+  sourceIds: new Set([o.publisher].filter(Boolean)), ...o, id: idOf(o.title) });
+const J = async (url, opt) => { const r = await fetch(url, opt); if (!r.ok) throw new Error(`${r.status}`); return r.json(); };
 
-// ---------- 1) NewsData.io (primary) ----------
-// Docs: https://newsdata.io/documentation  | key -> env NEWSDATA_KEY
-async function fromNewsData() {
-  const key = process.env.NEWSDATA_KEY;
-  if (!key) return [];
-  const { country, languages } = CONFIG.region;
-  const url = new URL("https://newsdata.io/api/1/latest");
-  url.searchParams.set("apikey", key);
-  url.searchParams.set("country", country);
-  url.searchParams.set("language", languages.join(","));
-  url.searchParams.set("image", "1");      // prefer stories that carry an image
-  url.searchParams.set("removeduplicate", "1");
-  const r = await fetch(url);
-  if (!r.ok) throw new Error(`NewsData ${r.status}`);
-  const j = await r.json();
-  return (j.results || []).map((a) => ({
-    id: idOf(a.title),
-    title: a.title,
-    description: a.description || a.content || "",
-    publisher: a.source_name || a.source_id || "Unknown",
-    url: a.link,
-    publishedAt: ts(a.pubDate),
-    imageUrl: a.image_url || null,
-    videoUrl: a.video_url || null,
-    sourceIds: new Set([a.source_id].filter(Boolean)),
+/* ----------------------------- PROVIDERS ---------------------------------- */
+// 1) NewsData.io  — env NEWSDATA_KEY   (docs: newsdata.io/documentation)
+async function newsdata() {
+  const key = process.env.NEWSDATA_KEY; if (!key) return [];
+  const u = new URL("https://newsdata.io/api/1/latest");
+  u.searchParams.set("apikey", key);
+  u.searchParams.set("country", CONFIG.region.country);
+  u.searchParams.set("language", CONFIG.region.languages.join(","));
+  u.searchParams.set("removeduplicate", "1");
+  const j = await J(u);
+  return (j.results || []).map((a) => mk({
+    title: a.title, description: a.description || a.content || "", publisher: a.source_name || a.source_id || "NewsData",
+    url: a.link, publishedAt: ts(a.pubDate), imageUrl: a.image_url || null, videoUrl: a.video_url || null,
     category: (a.category || ["top"])[0],
-    country, language: (a.language || languages[0]),
   }));
 }
-
-// ---------- 2) SerpAPI – Google News engine (backup) ----------
-// Docs: https://serpapi.com/google-news-api | key -> env SERPAPI_KEY
-async function fromSerpApi() {
-  const key = process.env.SERPAPI_KEY;
-  if (!key) return [];
-  const url = new URL("https://serpapi.com/search.json");
-  url.searchParams.set("engine", "google_news");
-  url.searchParams.set("gl", CONFIG.region.country);
-  url.searchParams.set("hl", CONFIG.region.languages[0]);
-  url.searchParams.set("api_key", key);
-  const r = await fetch(url);
-  if (!r.ok) throw new Error(`SerpAPI ${r.status}`);
-  const j = await r.json();
+// 2) NewsAPI.org — env NEWSAPI_ORG_KEY (docs: newsapi.org/docs)
+async function newsapiorg() {
+  const key = process.env.NEWSAPI_ORG_KEY; if (!key) return [];
+  const u = new URL("https://newsapi.org/v2/top-headlines");
+  u.searchParams.set("country", CONFIG.region.country);
+  u.searchParams.set("pageSize", "40");
+  u.searchParams.set("apiKey", key);
+  const j = await J(u, { headers: { "User-Agent": "newsroom-engine" } });
+  return (j.articles || []).map((a) => mk({
+    title: a.title, description: a.description || "", publisher: a.source?.name || "NewsAPI.org",
+    url: a.url, publishedAt: ts(a.publishedAt), imageUrl: a.urlToImage || null,
+  }));
+}
+// 3) NewsAPI.ai / Event Registry — env NEWSAPI_AI_KEY (docs: newsapi.ai/documentation)
+async function newsapiai() {
+  const key = process.env.NEWSAPI_AI_KEY; if (!key) return [];
+  const body = { action: "getArticles", resultType: "articles", articlesSortBy: "date",
+    articlesCount: 40, includeArticleImage: true, dataType: ["news"],
+    lang: ["eng", "hin"], sourceLocationUri: ["http://en.wikipedia.org/wiki/India"], apiKey: key };
+  const j = await J("https://eventregistry.org/api/v1/article/getArticles",
+    { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+  return ((j.articles && j.articles.results) || []).map((a) => mk({
+    title: a.title, description: (a.body || "").slice(0, 400), publisher: a.source?.title || "NewsAPI.ai",
+    url: a.url, publishedAt: ts(a.dateTimePub || a.dateTime), imageUrl: a.image || null,
+  }));
+}
+// 4) World News API — env WORLDNEWS_KEY (docs: worldnewsapi.com/docs)
+async function worldnews() {
+  const key = process.env.WORLDNEWS_KEY; if (!key) return [];
+  const u = new URL("https://api.worldnewsapi.com/search-news");
+  u.searchParams.set("source-country", CONFIG.region.country);
+  u.searchParams.set("language", "en");
+  u.searchParams.set("sort", "publish-time");
+  u.searchParams.set("sort-direction", "DESC");
+  u.searchParams.set("number", "40");
+  u.searchParams.set("api-key", key);
+  const j = await J(u);
+  return (j.news || []).map((a) => mk({
+    title: a.title, description: (a.text || "").slice(0, 400),
+    publisher: (a.authors && a.authors[0]) || a.source_country?.toUpperCase() || "WorldNews",
+    url: a.url, publishedAt: ts(a.publish_date), imageUrl: a.image || null,
+  }));
+}
+// 5) The News API — env THENEWSAPI_KEY (docs: thenewsapi.com/documentation)
+async function thenewsapi() {
+  const key = process.env.THENEWSAPI_KEY; if (!key) return [];
+  const u = new URL("https://api.thenewsapi.com/v1/news/top");
+  u.searchParams.set("locale", CONFIG.region.country);
+  u.searchParams.set("language", "en");
+  u.searchParams.set("limit", "25");
+  u.searchParams.set("api_token", key);
+  const j = await J(u);
+  return (j.data || []).map((a) => mk({
+    title: a.title, description: a.description || a.snippet || "", publisher: a.source || "TheNewsAPI",
+    url: a.url, publishedAt: ts(a.published_at), imageUrl: a.image_url || null,
+  }));
+}
+// 6) Webz.io News API Lite — env WEBZ_KEY (docs: docs.webz.io/reference/news-api-lite)
+async function webz() {
+  const key = process.env.WEBZ_KEY; if (!key) return [];
+  const u = new URL("https://api.webz.io/newsApiLite");
+  u.searchParams.set("token", key);
+  u.searchParams.set("q", "site.country:IN language:english");
+  const j = await J(u);
+  return (j.posts || []).map((p) => mk({
+    title: p.title, description: (p.text || "").slice(0, 400), publisher: p.thread?.site || "Webz.io",
+    url: p.url, publishedAt: ts(p.published), imageUrl: p.thread?.main_image || null,
+  }));
+}
+// 7) SerpAPI Google News — env SERPAPI_KEY (fallback)
+async function serpapi() {
+  const key = process.env.SERPAPI_KEY; if (!key) return [];
+  const u = new URL("https://serpapi.com/search.json");
+  u.searchParams.set("engine", "google_news");
+  u.searchParams.set("gl", CONFIG.region.country);
+  u.searchParams.set("hl", CONFIG.region.languages[0]);
+  u.searchParams.set("api_key", key);
+  const j = await J(u);
   const items = (j.news_results || []).flatMap((n) => (n.stories ? n.stories : [n]));
-  return items.map((a) => ({
-    id: idOf(a.title),
-    title: a.title,
-    description: a.snippet || "",
-    publisher: a.source?.name || "Google News",
-    url: a.link,
-    publishedAt: ts(a.date),
-    imageUrl: a.thumbnail || a.thumbnail_small || null,
-    videoUrl: null,
-    sourceIds: new Set([a.source?.name].filter(Boolean)),
-    category: "top",
-    country: CONFIG.region.country, language: CONFIG.region.languages[0],
+  return items.map((a) => mk({
+    title: a.title, description: a.snippet || "", publisher: a.source?.name || "Google News",
+    url: a.link, publishedAt: ts(a.date), imageUrl: a.thumbnail || null,
   }));
 }
-
-// ---------- 3) Google News RSS (free fallback; no images) ----------
-// We fetch the article's og:image afterwards so cards still have a picture.
-async function fromGoogleRss() {
-  const { country, languages } = CONFIG.region;
-  const u = `https://news.google.com/rss?hl=${languages[0]}-${country.toUpperCase()}` +
-            `&gl=${country.toUpperCase()}&ceid=${country.toUpperCase()}:${languages[0]}`;
-  const r = await fetch(u);
-  if (!r.ok) throw new Error(`GoogleRSS ${r.status}`);
-  const xml = await r.text();
-  const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].slice(0, 15);
-  const pick = (b, tag) => (b.match(new RegExp(`<${tag}>([\\s\\S]*?)</${tag}>`)) || [, ""])[1]
-    .replace(/<!\[CDATA\[|\]\]>/g, "").trim();
-  const out = items.map((m) => {
-    const b = m[1];
-    const rawTitle = pick(b, "title");
-    const source = pick(b, "source") || (rawTitle.split(" - ").pop() || "Google News");
-    return {
-      id: idOf(rawTitle),
-      title: rawTitle.replace(new RegExp(`\\s-\\s${source}$`), ""),
-      description: pick(b, "description").replace(/<[^>]+>/g, " ").slice(0, 400),
-      publisher: source,
-      url: pick(b, "link"),
-      publishedAt: ts(pick(b, "pubDate")),
-      imageUrl: null, videoUrl: null,
-      sourceIds: new Set([source]),
-      category: "top", country, language: languages[0],
-    };
-  });
-  // Enrich the top few with og:image so the dashboard has real pictures.
-  await Promise.all(out.slice(0, CONFIG.runSize + 3).map(async (s) => {
+// 8) Google News RSS — no key, always-on baseline. Pulls the last-hour search feed + top stories.
+async function googlerss() {
+  const { country, languages } = CONFIG.region; const C = country.toUpperCase(), L = languages[0];
+  const feeds = [
+    `https://news.google.com/rss/search?q=when:${CONFIG.freshnessHours}h&hl=${L}-${C}&gl=${C}&ceid=${C}:${L}`,
+    `https://news.google.com/rss?hl=${L}-${C}&gl=${C}&ceid=${C}:${L}`,
+  ];
+  const pick = (b, tag) => (b.match(new RegExp(`<${tag}>([\\s\\S]*?)</${tag}>`)) || [, ""])[1].replace(/<!\[CDATA\[|\]\]>/g, "").trim();
+  const out = [];
+  for (const f of feeds) {
     try {
-      const res = await fetch(s.url, { redirect: "follow" });
-      const html = await res.text();
-      const og = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-      if (og) s.imageUrl = og[1];
-    } catch { /* leave imageUrl null -> publisher-logo fallback in render */ }
-  }));
+      const xml = await (await fetch(f)).text();
+      for (const m of [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].slice(0, 25)) {
+        const b = m[1], rawTitle = pick(b, "title");
+        const source = pick(b, "source") || (rawTitle.split(" - ").pop() || "Google News");
+        out.push(mk({
+          title: rawTitle.replace(new RegExp(`\\s-\\s${source}$`), ""),
+          description: pick(b, "description").replace(/<[^>]+>/g, " ").slice(0, 300),
+          publisher: source, url: pick(b, "link"), publishedAt: ts(pick(b, "pubDate")),
+        }));
+      }
+    } catch { /* skip this feed */ }
+  }
   return out;
 }
 
-const PROVIDERS = { newsdata: fromNewsData, serpapi: fromSerpApi, googlerss: fromGoogleRss };
+const PROVIDERS = { newsdata, newsapiorg, newsapiai, worldnews, thenewsapi, webz, serpapi, googlerss };
 
-// Try sources in configured priority order; return {stories, provider}.
+/* --------------------- fetch ALL, then merge + dedupe --------------------- */
 export async function fetchTopStories() {
-  for (const name of CONFIG.sources) {
-    try {
-      const stories = await PROVIDERS[name]();
-      if (stories && stories.length) {
-        return { provider: name, stories: dedupe(stories) };
-      }
-    } catch (e) {
-      console.warn(`[sources] ${name} failed: ${e.message} -> trying next`);
-    }
-  }
-  return { provider: "none", stories: [] };
+  const names = CONFIG.sources.filter((n) => PROVIDERS[n]);
+  const results = await Promise.allSettled(names.map((n) => PROVIDERS[n]()));
+  const used = [], all = [];
+  results.forEach((r, i) => {
+    if (r.status === "fulfilled" && r.value.length) { used.push(names[i]); all.push(...r.value); }
+    else if (r.status === "rejected") console.warn(`[sources] ${names[i]} failed: ${r.reason?.message}`);
+  });
+  return { provider: used.join("+") || "none", providers: used, stories: dedupe(all) };
 }
 
-// Merge near-duplicate stories across sources; union their sourceIds (used for the 2-source rule).
+// Merge near-duplicate stories across providers; union their publisher sourceIds.
 function dedupe(stories) {
+  const sig = (t) => (t || "").toLowerCase().replace(/[^a-z0-9 ]+/g, " ")
+    .split(/\s+/).filter((w) => w.length >= 4).slice(0, 6).join("-");
   const map = new Map();
   for (const s of stories) {
-    const key = s.id.split("-").slice(0, 6).join("-");
+    const key = sig(s.title) || s.id;
     if (map.has(key)) {
       const e = map.get(key);
       s.sourceIds.forEach((x) => e.sourceIds.add(x));
       if (!e.imageUrl && s.imageUrl) e.imageUrl = s.imageUrl;
+      if (s.publishedAt > e.publishedAt) e.publishedAt = s.publishedAt; // keep freshest timestamp
     } else map.set(key, s);
   }
   return [...map.values()];

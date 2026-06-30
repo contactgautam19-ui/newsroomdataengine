@@ -89,13 +89,26 @@ Turn on 2-Step Verification, create a 16-char **App Password** at
 ## 4. Add the keys as GitHub Secrets
 Repo → **Settings → Secrets and variables → Actions → New repository secret**. Add:
 
+News sources — **all optional**; every key you add is queried in parallel and merged,
+which raises corroboration and improves ranking. `googlerss` always runs free (no key).
+
+| Secret name       | Source                                  |
+|-------------------|-----------------------------------------|
+| `NEWSDATA_KEY`    | NewsData.io                             |
+| `NEWSAPI_ORG_KEY` | NewsAPI.org                             |
+| `NEWSAPI_AI_KEY`  | NewsAPI.ai (Event Registry)             |
+| `WORLDNEWS_KEY`   | WorldNewsAPI.com                        |
+| `THENEWSAPI_KEY`  | TheNewsAPI.com                          |
+| `WEBZ_KEY`        | Webz.io News API Lite                   |
+| `SERPAPI_KEY`     | SerpAPI Google News                     |
+
+Email + delivery:
+
 | Secret name      | Value                                              |
 |------------------|----------------------------------------------------|
-| `NEWSDATA_KEY`   | your NewsData.io key                               |
 | `RESEND_API_KEY` | your Resend API key                                |
 | `MAIL_FROM`      | `Newsroom Engine <onboarding@resend.dev>`         |
 | `MAIL_TO`        | your Resend signup email (or a verified-domain to) |
-| `SERPAPI_KEY`    | optional — SerpAPI fallback                        |
 | `SMTP_USER` / `SMTP_PASS` | optional — Gmail fallback only            |
 
 Never commit real keys. `.env` is git-ignored; on GitHub only Secrets are used.
