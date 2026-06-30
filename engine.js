@@ -99,7 +99,12 @@ export function scoreStory(s, now = new Date(), trends = []) {
   const signature = [E, P, C, M, S, U, SR, V].flatMap((x) => x.hits).sort().join("|");
   const distinctSources = s.sourceIds ? s.sourceIds.size : 1;
 
-  return { ...s, intensities, justify: j, raw, norm, signature, distinctSources,
+  // Virality = how shareable the HEADLINE is, from the arousal/shareability drivers
+  // (emotion, visuals, surprise, search velocity, celebrity). Separate from overall score.
+  const virality = Math.round(100 * Math.min(1,
+    0.30 * E.intensity + 0.20 * visual + 0.20 * U.intensity + 0.20 * search + 0.10 * C.intensity));
+
+  return { ...s, intensities, justify: j, raw, norm, virality, signature, distinctSources,
            dominant: dominantVar(intensities) };
 }
 

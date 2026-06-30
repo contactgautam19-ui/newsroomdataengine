@@ -76,7 +76,7 @@ export function buildDashboard(scored, meta) {
       <div class="cbody">
         <div class="visual"><img src="${imgFor(s)}" alt=""><div class="vcap">📷 ${s.imageUrl?'Source image':'No source image — publisher fallback'} · <a href="${esc(s.url)}" target="_blank" rel="noopener">open article ↗</a></div></div>
         <div class="bars">${bars}</div>
-        <div class="rawline"><span>Raw <b>${s.raw}</b>/${WEIGHT_SUM} → calibrated <b>${s.norm}</b>/100</span>
+        <div class="rawline"><span>Raw <b>${s.raw}</b>/${WEIGHT_SUM} → engagement <b>${s.norm}</b>/100 · 🔥 virality <b>${s.virality}</b>/100</span>
           <span>Confidence <b style="color:${conf}">${s.confidence}%</b>${s.confidence<CONFIG.confidenceThreshold?' ⚑ review':''}</span></div>
         <div class="guard"><b>Guardrail:</b> ${esc(s.guard)}</div>
         <div class="dist"><h4>Distribution</h4>
@@ -135,25 +135,56 @@ ${cards}
 /* -------------------------------- BRIEF ----------------------------------- */
 export function buildBrief(scored, meta) {
   const lead = scored.find((s) => s.status === "LEAD") || scored[0];
-  const hold = scored.find((s) => s.status === "HOLD");
-  const rows = scored.map((s, i) => ` ${i+1}. ${String(s.norm).padStart(4)}  ${s.status.padEnd(9)} ${s.title.slice(0,46)}`).join("\n");
+  const counts = Object.entries(meta.counts || {}).map(([k, v]) => `${k} ${v}`).join(" · ") || "—";
+
+  // ---- plain-text fallback ----
+  const rows = scored.map((s, i) => ` ${i+1}. eng ${String(s.norm).padStart(4)} | vir ${String(s.virality).padStart(3)} | ${s.status.padEnd(9)} ${s.title.slice(0,52)}`).join("\n");
   const text =
-`NEWSROOM HOURLY BRIEF — ${meta.runTime} IST (24/7)
-Source: ${meta.provider} · Google News India · ${scored.length} stories
-──────────────────────────────────────────
-RECOMMENDED LEAD ▸ ${lead?lead.title:"—"}
-  ${lead?`Score ${lead.norm}/100 · Conf ${lead.confidence}% · ${lead.distinctSources} source(s)`:""}
-${hold?`\n⚑ HOLD ▸ ${hold.title}\n  ${hold.norm}/100 · single source — do NOT lead until confirmed.\n`:""}
-RUNDOWN
+`NEWSROOM HOURLY RUNDOWN — ${meta.runTime} IST
+Sources: ${counts}
+RECOMMENDED LEAD: ${lead ? lead.title : "—"} (engagement ${lead?lead.norm:"-"}/100, virality ${lead?lead.virality:"-"}/100)
+
+RUNDOWN  (engagement | virality)
 ${rows}
 
-DISTRIBUTION (lead)
-${lead?` X : ${distribution(lead).x}\n IG: ${distribution(lead).i}\n FB: ${distribution(lead).f}`:" —"}
+Recommendations only — the editor owns the final rundown. Full dashboard:
+https://contactgautam19-ui.github.io/newsroomdataengine/`;
 
-GUARDRAILS: ${scored.filter(s=>s.status==='HOLD').length} held · ${scored.filter(s=>s.stale).length} stale · ${scored.filter(s=>s.confidence<CONFIG.confidenceThreshold).length} below confidence bar.
-Recommendations only — the editor owns the final rundown.
-──────────────────────────────────────────`;
+  // ---- detailed HTML email (inline styles for Gmail compatibility) ----
+  const bar = (k, pts, max) => `<tr><td style="padding:2px 8px 2px 0;color:#69748a;font-size:12px;white-space:nowrap">${LABEL[k]}</td><td style="width:99%;padding:2px 0"><div style="background:#e6ebf2;border-radius:4px;height:8px"><div style="background:${COLOR[k]};height:8px;border-radius:4px;width:${Math.round((pts/max)*100)}%"></div></div></td><td style="padding:2px 0 2px 8px;color:#16202e;font-size:12px;white-space:nowrap">${pts.toFixed(1)}/${max}</td></tr>`;
 
-  const html = `<pre style="font:12px ui-monospace,Menlo,monospace;background:#f6f8fb;border:1px solid #dde3ec;border-radius:8px;padding:14px;white-space:pre-wrap;color:#2a3340">${esc(text)}</pre>`;
-  return { text, html, subject: `📰 Rundown ${meta.runTime} IST — lead: ${lead?lead.title.slice(0,48):"n/a"}` };
+  const cards = scored.map((s, i) => {
+    const d = distribution(s);
+    const bars = Object.keys(CONFIG.weights).map((k) => bar(k, s.intensities[k] * CONFIG.weights[k], CONFIG.weights[k])).join("");
+    const stColor = { LEAD:"#c0282e", HOLD:"#8a6312", DOWNGRADE:"#69748a", RUN:"#1f7a3d" }[s.status] || "#1f7a3d";
+    return `<div style="border:1px solid #dde3ec;border-radius:10px;padding:16px;margin:0 0 14px;font-family:Arial,Helvetica,sans-serif">
+      <div style="font-size:12px;color:#69748a">#${i+1} · ${esc(s.publisher)} · ${new Date(s.publishedAt).toLocaleString("en-IN")} · ${s.distinctSources} source(s)</div>
+      <div style="font-size:17px;font-weight:bold;color:#16202e;margin:5px 0 8px;line-height:1.35">${esc(s.title)}</div>
+      <div style="margin:0 0 10px;font-size:14px">
+        <span style="display:inline-block;font-size:11px;font-weight:bold;color:#fff;background:${stColor};border-radius:5px;padding:3px 8px;margin-right:8px">${badge(s.status)}</span>
+        <b>Engagement ${s.norm}/100</b> (${tier(s.norm)}) &nbsp; 🔥 <b>Virality ${s.virality}/100</b> &nbsp;<span style="color:#69748a">Conf ${s.confidence}%</span>
+      </div>
+      <table style="border-collapse:collapse;width:100%;margin:0 0 10px">${bars}</table>
+      <div style="font-size:12px;background:#fdf6e3;border:1px solid #ecd49a;color:#6e5414;border-radius:6px;padding:8px 10px;margin:0 0 10px"><b>Guardrail:</b> ${esc(s.guard)}</div>
+      <div style="font-size:12px;color:#3c485a;line-height:1.55"><b>Distribution</b><br><b style="color:#111">X:</b> ${esc(d.x)}<br><b style="color:#c2389a">IG:</b> ${esc(d.i)}<br><b style="color:#2563eb">FB:</b> ${esc(d.f)}</div>
+      <div style="margin-top:8px"><a href="${esc(s.url)}" style="font-size:12px;color:#2563eb">Open article ↗</a></div>
+    </div>`;
+  }).join("");
+
+  const html = `<div style="max-width:680px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;color:#16202e">
+    <div style="border-bottom:2px solid #16202e;padding-bottom:10px;margin-bottom:14px">
+      <div style="font-size:20px;font-weight:bold">📰 Newsroom Hourly Rundown</div>
+      <div style="font-size:13px;color:#69748a">${esc(meta.runTime)} IST · India (multi-language) · 24/7</div>
+    </div>
+    <div style="background:#fdf6e3;border:1px solid #ecd49a;border-radius:8px;padding:12px 14px;margin-bottom:12px;font-size:13px;color:#6e5414">
+      <b>Recommended lead:</b> ${esc(lead?lead.title:"—")} — Engagement ${lead?lead.norm:"-"}/100, Virality ${lead?lead.virality:"-"}/100.${scored.find(s=>s.status==='HOLD')?` &nbsp;<b>Note:</b> top items are single-sourced — verify before leading.`:""}
+    </div>
+    <div style="background:#eef4ff;border:1px solid #cfe0fb;border-radius:8px;padding:8px 12px;margin-bottom:16px;font-size:12px;color:#33507e">📡 <b>Sources this run:</b> ${esc(counts)} &nbsp;|&nbsp; 🔥 ${(meta.trends||[]).length} live trends &nbsp;|&nbsp; ${scored.filter(s=>s.status==='HOLD').length} held · ${scored.filter(s=>s.status==='LEAD').length} lead</div>
+    ${cards}
+    <div style="font-size:11px;color:#69748a;border-top:1px solid #dde3ec;padding-top:12px;line-height:1.6">
+      <b>How to read this.</b> <b>Engagement</b> = calibrated 0–100 from 9 weighted news-value signals (the bars). <b>Virality</b> = headline shareability from emotion, visuals, surprise, search velocity &amp; celebrity. Evidence-based recommendations only; the editor owns the final rundown. Live dashboard: <a href="https://contactgautam19-ui.github.io/newsroomdataengine/">open ↗</a>.
+    </div>
+  </div>`;
+
+  return { text, html, subject: `📰 Rundown ${meta.runTime} IST — ${lead?lead.title.slice(0,52):"n/a"} (${lead?lead.norm:"-"}/100)` };
 }
