@@ -28,13 +28,18 @@ jobs:
 
       - name: Run rundown engine
         env:
-          NEWSDATA_KEY:   ${{ secrets.NEWSDATA_KEY }}
-          SERPAPI_KEY:    ${{ secrets.SERPAPI_KEY }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          MAIL_FROM:      ${{ secrets.MAIL_FROM }}
-          MAIL_TO:        ${{ secrets.MAIL_TO }}
-          SMTP_USER:      ${{ secrets.SMTP_USER }}
-          SMTP_PASS:      ${{ secrets.SMTP_PASS }}
+          NEWSDATA_KEY:    ${{ secrets.NEWSDATA_KEY }}
+          NEWSAPI_ORG_KEY: ${{ secrets.NEWSAPI_ORG_KEY }}
+          NEWSAPI_AI_KEY:  ${{ secrets.NEWSAPI_AI_KEY }}
+          WORLDNEWS_KEY:   ${{ secrets.WORLDNEWS_KEY }}
+          THENEWSAPI_KEY:  ${{ secrets.THENEWSAPI_KEY }}
+          WEBZ_KEY:        ${{ secrets.WEBZ_KEY }}
+          SERPAPI_KEY:     ${{ secrets.SERPAPI_KEY }}
+          RESEND_API_KEY:  ${{ secrets.RESEND_API_KEY }}
+          MAIL_FROM:       ${{ secrets.MAIL_FROM }}
+          MAIL_TO:         ${{ secrets.MAIL_TO }}
+          SMTP_USER:       ${{ secrets.SMTP_USER }}
+          SMTP_PASS:       ${{ secrets.SMTP_PASS }}
         run: npm start
 
       - name: Commit dashboard + state
