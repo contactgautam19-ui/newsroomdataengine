@@ -94,7 +94,8 @@ export function buildDashboard(scored, meta) {
 .wrap{max-width:1100px;margin:0 auto;padding:20px 16px 60px}
 header{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;border-bottom:1px solid var(--line);padding-bottom:14px;margin-bottom:16px}
 h1{font-size:18px;margin:0}.sub{color:var(--muted);font-size:12px;margin-top:3px}
-.banner{background:#fdf6e3;border:1px solid #ecd49a;border-radius:10px;padding:12px 14px;margin-bottom:16px;font-size:13px;color:#6e5414}
+.banner{background:#fdf6e3;border:1px solid #ecd49a;border-radius:10px;padding:12px 14px;margin-bottom:12px;font-size:13px;color:#6e5414}
+.health{background:#eef4ff;border:1px solid #cfe0fb;border-radius:8px;padding:8px 12px;margin-bottom:16px;font-size:12px;color:#33507e}.health b{color:#1d3a6b}
 .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;margin-bottom:12px;overflow:hidden;box-shadow:0 1px 3px rgba(20,30,50,.05)}
 .card.lead{border-color:#f0b4b6}.card.hold{border-color:#ecd49a}
 .chead{display:flex;gap:12px;align-items:center;padding:12px 14px;cursor:pointer}
@@ -125,6 +126,7 @@ footer{margin-top:20px;font-size:11px;color:var(--muted);line-height:1.6;border-
 </style></head><body><div class="wrap">
 <header><div><h1>Newsroom Rundown Engine</h1><div class="sub">Google News · India (multi-lang) · source: ${esc(meta.provider)} · ${esc(meta.runTime)} IST · 24/7 hourly</div></div></header>
 <div class="banner"><b>Recommended lead:</b> ${esc(lead?lead.title:"—")} (${lead?lead.norm:"-"}/100).${hold?` <b>Held for verification:</b> ${esc(hold.title)} — single source, do not lead until confirmed.`:""} Final rundown call is the editor's.</div>
+<div class="health">📡 <b>Sources this run:</b> ${Object.entries(meta.counts||{}).map(([k,v])=>`${esc(k)} <b>${v}</b>`).join(" · ")||"none"} &nbsp;|&nbsp; 🔥 <b>${(meta.trends||[]).length}</b> live Google Trends</div>
 ${cards}
 <footer>Headline score is a <b>calibrated 0–100 editorial scale</b> (a strong lead reads ~70–90); the per-variable bars show the raw intensity(0–1) × weight contributions that sum to the Raw/${WEIGHT_SUM} figure. Calibration changes the displayed number, not the ranking or the evidence. Images load from the news-API <code>image_url</code> / <code>og:image</code> — never AI-generated. Recommendations only; the editor owns the final rundown. Generated ${esc(meta.runTime)} IST.</footer>
 </div></body></html>`;

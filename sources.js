@@ -182,12 +182,24 @@ const PROVIDERS = { newsdata, newsapiorg, newsapiai, worldnews, thenewsapi, webz
 export async function fetchTopStories() {
   const names = CONFIG.sources.filter((n) => PROVIDERS[n]);
   const results = await Promise.allSettled(names.map((n) => PROVIDERS[n]()));
-  const used = [], all = [];
+  const used = [], all = [], counts = {};
   results.forEach((r, i) => {
-    if (r.status === "fulfilled" && r.value.length) { used.push(names[i]); all.push(...r.value); }
+    if (r.status === "fulfilled" && r.value.length) { used.push(names[i]); counts[names[i]] = r.value.length; all.push(...r.value); }
     else if (r.status === "rejected") console.warn(`[sources] ${names[i]} failed: ${r.reason?.message}`);
   });
-  return { provider: used.join("+") || "none", providers: used, stories: dedupe(all) };
+  return { provider: used.join("+") || "none", providers: used, counts, stories: dedupe(all) };
+}
+
+// Google Trends — real-time daily trending searches for the region (free, no key).
+// Returns a list of currently-trending query terms used to boost the search variable.
+export async function fetchTrends() {
+  try {
+    const u = `https://trends.google.com/trends/trendingsearches/daily/rss?geo=${CONFIG.trendsGeo}`;
+    const xml = await (await fetch(u, { headers: { "User-Agent": "Mozilla/5.0" } })).text();
+    const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)];
+    return items.map((m) => (m[1].match(/<title>([\s\S]*?)<\/title>/) || [, ""])[1]
+      .replace(/<!\[CDATA\[|\]\]>/g, "").trim().toLowerCase()).filter(Boolean).slice(0, 30);
+  } catch { return []; }
 }
 
 // Merge near-duplicate stories across providers; union their publisher sourceIds.

@@ -5,6 +5,8 @@ export const CONFIG = {
   candidatePool: 60,      // how many fresh stories to fetch & score before picking the top runSize
   freshnessHours: 1,      // only consider stories published within this many hours (relaxes if too few)
   rePollMinutes: 5,       // re-poll if the hour's set shows no engagement signal
+  alertThreshold: 80,     // push a breaking alert when the top story's calibrated score >= this
+  trendsGeo: "IN",        // Google Trends region for the real-time search signal
   confidenceThreshold: 70, // < this  => flag for human review (HOLD)
   twoSourceMinForBreaking: 2, // major breaking needs >= this many distinct sources
   staleHours: 6,          // a story unchanged for longer than this gets a decay penalty

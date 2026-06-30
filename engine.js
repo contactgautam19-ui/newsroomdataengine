@@ -49,8 +49,9 @@ function lexHits(text, terms) {
 }
 
 /* --------------------------- PER-STORY SCORING ---------------------------- */
-export function scoreStory(s, now = new Date()) {
+export function scoreStory(s, now = new Date(), trends = []) {
   const text = `${s.title} ${s.description}`;
+  const ltext = text.toLowerCase();
   const minutesOld = Math.max(0, (now - s.publishedAt) / 60000);
 
   // breaking = recency + explicit "breaking/just in/live" cue
@@ -69,12 +70,16 @@ export function scoreStory(s, now = new Date()) {
   const SR = lexHits(text, LEX.search);
   const V = lexHits(text, LEX.visual);
 
+  // search = lexicon proxy, OVERRIDDEN upward when the story matches a live Google Trend
+  const trendHits = (trends || []).filter((t) => t.length >= 4 && ltext.includes(t));
+  const search = Math.min(1, Math.max(SR.intensity, trendHits.length ? 0.85 : 0));
+
   // visual gets a hard boost from real assets returned by the source
   const visual = Math.min(1, V.intensity + (s.imageUrl ? 0.25 : 0) + (s.videoUrl ? 0.35 : 0));
 
   const intensities = {
     breaking, emotion: E.intensity, political: P.intensity, celebrity: C.intensity,
-    money: M.intensity, safety: S.intensity, visual, unexpected: U.intensity, search: SR.intensity,
+    money: M.intensity, safety: S.intensity, visual, unexpected: U.intensity, search,
   };
 
   // human-readable, evidence-based justification per variable
@@ -87,7 +92,7 @@ export function scoreStory(s, now = new Date()) {
     safety:   S.hits.length ? `Public-safety signals: ${S.hits.join(", ")}.` : "No safety stakes.",
     visual:   `${V.hits.length ? "Visual words: " + V.hits.join(", ") + ". " : ""}${s.videoUrl ? "Video asset present. " : ""}${s.imageUrl ? "Image asset present." : "No image from source."}`,
     unexpected:U.hits.length ? `Surprise signals: ${U.hits.join(", ")}.` : "Expected / routine.",
-    search:   SR.hits.length ? `Trend proxy hits: ${SR.hits.join(", ")} (proxy — wire Google Trends for real velocity).` : "Low trend proxy.",
+    search:   trendHits.length ? `🔥 Live Google Trend: ${trendHits.slice(0,3).join(", ")}.` : (SR.hits.length ? `Trend-proxy hits: ${SR.hits.join(", ")}.` : "Low search signal."),
   };
 
   const { raw, norm } = totals(intensities);
@@ -133,9 +138,9 @@ function confidence(st, now) {
   return Math.max(20, Math.min(95, Math.round(c)));
 }
 
-export function rankRun(stories, now = new Date()) {
+export function rankRun(stories, now = new Date(), trends = []) {
   const seen = loadSeen();
-  let scored = stories.map((s) => scoreStory(s, now));
+  let scored = stories.map((s) => scoreStory(s, now, trends));
 
   // ---- stale-decay: seen before, aged past staleHours, signature unchanged ----
   for (const st of scored) {
