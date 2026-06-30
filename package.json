@@ -1,0 +1,17 @@
+{
+  "name": "newsroom-rundown-engine",
+  "version": "0.1.0",
+  "description": "Hourly Google-News (India) scrape -> evidence-weighted ranking -> dashboard + email brief. Runs 24/7 on GitHub Actions.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "selftest": "node index.js --selftest"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {},
+  "optionalDependencies": {
+    "nodemailer": "^6.9.14"
+  },
+  "license": "MIT"
+}

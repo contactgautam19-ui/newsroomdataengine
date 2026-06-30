@@ -1,0 +1,63 @@
+# .github/workflows/hourly.yml
+# Runs the newsroom engine every hour, 24/7, on GitHub's servers (your laptop can be off).
+name: hourly-rundown
+
+on:
+  schedule:
+    - cron: "5 * * * *"   # 5 min past every hour (UTC). GitHub cron can lag a few min.
+  workflow_dispatch: {}    # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write          # allow committing state/ and public/ back to the repo
+
+concurrency:
+  group: rundown
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm ci || npm install
+
+      - name: Run rundown engine
+        env:
+          NEWSDATA_KEY:   ${{ secrets.NEWSDATA_KEY }}
+          SERPAPI_KEY:    ${{ secrets.SERPAPI_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          MAIL_FROM:      ${{ secrets.MAIL_FROM }}
+          MAIL_TO:        ${{ secrets.MAIL_TO }}
+          SMTP_USER:      ${{ secrets.SMTP_USER }}
+          SMTP_PASS:      ${{ secrets.SMTP_PASS }}
+        run: npm start
+
+      - name: Commit dashboard + state
+        run: |
+          git config user.name  "rundown-bot"
+          git config user.email "actions@github.com"
+          git add public state || true
+          git commit -m "rundown $(date -u +%FT%TZ)" || echo "nothing to commit"
+          git push || echo "push skipped"
+
+  # publishes public/ to GitHub Pages so you can open the dashboard from any browser
+  pages:
+    needs: run
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: public }
+      - uses: actions/deploy-pages@v4
