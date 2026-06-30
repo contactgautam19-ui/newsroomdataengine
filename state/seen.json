@@ -1,142 +1,107 @@
 {
-  "pm-modi-speaks-with-iran-president-in-1st-call-after-ceasefi": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "diplomacy|fire|fire|ipl|iran|minister|modi|modi|president|prime minister",
-    "norm": 85.7
+  "-ready-for-war-iran-draws-red-line-for-us-says-no-final-talk": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "iran|mp|parliament|star|war|warning",
+    "norm": 86
   },
-  "14-children-killed-as-tuition-centre-roof-collapses-in-lahor": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "collapse|collapse|collapse|hospital|injured|killed|killed|tragedy",
-    "norm": 82.1
+  "sir-kicks-off-in-karnataka-dks-urges-voters-to-co-operate": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "election|election|election commission|record|star|vote",
+    "norm": 74
   },
-  "ttd-allocates-6-crore-srivani-funds-to-develop-kadapa-sivala": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "budget|crore|fund|lakh|mla|mp|vote|war",
-    "norm": 76.9
+  "sit-links-tdb-officials-to-sabarimala-gold-theft": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "fraud|gold|mp",
+    "norm": 67.6
   },
-  "beth-mooney-gardner-power-australia-into-eighth-women-s-t20-": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "fire|fire|opposition|storm|world cup",
-    "norm": 76.3
+  "eci-to-call-rival-tmc-factions-to-delhi-for-adjudication": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "crore|election|election",
+    "norm": 63.9
   },
-  "pm-speaks-to-iranian-president-ahead-of-state-burial-of-supr": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "diplomacy|ipl|iran|minister|modi|modi|president|prime minister",
-    "norm": 72.6
+  "bjp-has-made-telangana-a-special-mission-nitin-nabin": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "bjp|election|election",
+    "norm": 61.4
   },
-  "sc-orders-status-quo-on-karnataka-hc-direction-to-reopen-eth": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "mp|petrol|petrol|policy",
-    "norm": 68
+  "-india-uk-fta-most-economically-significant-pact-": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "bill|billion|deal|gdp",
+    "norm": 61.4
   },
-  "three-dead-including-toddler-in-road-accident": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "accident|dead|dead",
-    "norm": 62.9
-  },
-  "scary-scenes-deandra-dottin-carried-off-moments-before-women": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "mp|star|world cup",
-    "norm": 62.5
-  },
-  "senior-citizens-found-dead-near-varkala": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "dead|dead",
+  "economy-ai-defence-ties-in-focus-at-india-japan-summit": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "defence|economy|summit",
     "norm": 57.6
   },
-  "n-prasanth-makes-a-veiled-attack-on-a-jayathilak": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "attack|attack",
-    "norm": 57.6
+  "uttam-invites-global-aerospace-firms-to-invest-in-telangana": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "minister|row",
+    "norm": 57.1
   },
-  "anitha-radhakrishnan-seeks-anticipatory-bail-in-case-booked-": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
+  "finmin-flags-risks-of-deficient-monsoon": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "economy|row",
+    "norm": 57.1
   },
-  "gujarat-can-anchor-drive-for-self-reliance-in-defence-says-r": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "defence|minister",
+  "rs-54-crore-gold-haul-assam-police-bust-international-smuggl": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "crore|gold",
+    "norm": 55.4
+  },
+  "centre-extends-crpf-cover-to-six-rebel-shiv-sena-mps": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "maharashtra|mp",
+    "norm": 55.4
+  },
+  "kerala-assembly-seeks-reform-of-national-entrance-exams": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "exam|neet",
+    "norm": 52.1
+  },
+  "prant-pracharak-meeting-to-discuss-ayodhya-donation-case-exa": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "ayodhya|exam",
+    "norm": 52.1
+  },
+  "cleared-by-sc-diversionary-tactic-by-opposition-bjp-on-cji-l": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "bjp|cji|opposition",
+    "norm": 50.9
+  },
+  "amid-opposition-amit-shah-launches-new-fcra-portal-e-oci-car": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "amit shah|opposition",
     "norm": 48.7
   },
-  "sanmar-group-eyes-entry-into-warehousing": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
+  "sc-orders-status-quo-on-ethanol-supply-allocation": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "mp|supreme court",
+    "norm": 48.7
+  },
+  "don-t-broadcast-sheikh-hasina-speeches-bangladesh-warns-its-": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
     "signature": "war",
-    "norm": 46.3
+    "norm": 48.2
   },
-  "bengaluru-s-key-toll-roads-to-get-revised-user-fee-from-july": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "toll",
-    "norm": 46.3
-  },
-  "pm-asks-secretaries-to-focus-on-ease-of-doing-business-ease-": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "cabinet",
+  "up-govt-directs-lekhpals-to-hold-regular-office-hours-at-gra": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "yogi",
     "norm": 45.9
   },
-  "amit-shah-launches-fcra-2-0-portal-and-e-oci-card": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "amit shah",
-    "norm": 45.9
-  },
-  "rights-groups-seek-government-aid-for-families-of-deceased-f": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "actors-vinay-rajkumar-and-megha-shetty-rejoice-at-bcu-utsava": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
+  "naidu-dissatisfied-as-amaratavi-works-lag": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
     "signature": "actor",
     "norm": 44.3
   },
-  "monthly-average-rainfall-expected-to-be-below-normal-in-july": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "mp",
+  "general-dhiraj-seth-takes-charge-as-chief-of-army-staff": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "army",
     "norm": 44
   },
-  "-did-we-check-her-background-ketan-had-suspected-siya-s-affa": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "",
-    "norm": 36
-  },
-  "15-year-old-abandoned-boy-appeals-to-police-for-family-reuni": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "",
-    "norm": 36
-  },
-  "after-june-deficit-july-to-see-below-normal-rainfall-too-imd": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "",
-    "norm": 36
-  },
-  "after-trent-noel-tata-to-step-down-as-voltas-chairman": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "",
-    "norm": 36
-  },
-  "criminal-justice-system-s-digital-push-aims-for-a-full-roll-": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "",
-    "norm": 36
-  },
-  "gruha-jyothi-beneficiaries-verification-to-begin-on-july-1": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "",
-    "norm": 36
-  },
-  "two-bangladeshi-nationals-detained-at-guwahati-airport-with-": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "",
-    "norm": 36
-  },
-  "nhai-resumes-elevated-corridor-work-on-chennai-bengaluru-hig": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "how-severe-is-russia-s-energy-shortage-because-of-ukrainian-": {
-    "firstSeen": "2026-06-30T17:31:24.532Z",
-    "signature": "",
-    "norm": 33.9
+  "sc-denies-suspension-of-pocso-sentence-bail-to-asaram": {
+    "firstSeen": "2026-06-30T22:54:12.858Z",
+    "signature": "supreme court",
+    "norm": 44
   }
 }
