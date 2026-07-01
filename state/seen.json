@@ -1,107 +1,142 @@
 {
-  "-ready-for-war-iran-draws-red-line-for-us-says-no-final-talk": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "iran|mp|parliament|star|war|warning",
-    "norm": 86
+  "-tree-falling-isn-t-in-anyone-s-control-minister-s-remark-on": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "collapse|collapse|collapse|death|maharashtra|minister|opposition|outrage|row",
+    "norm": 97.8
   },
-  "sir-kicks-off-in-karnataka-dks-urges-voters-to-co-operate": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "election|election|election commission|record|star|vote",
-    "norm": 74
+  "mahua-moitra-shares-video-of-egg-attack-during-tmc-meeting-i": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "attack|attack|crowd|mp|row|video|war|watch",
+    "norm": 82.4
   },
-  "sit-links-tdb-officials-to-sabarimala-gold-theft": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "fraud|gold|mp",
-    "norm": 67.6
+  "maharashtra-minister-privately-admitted-he-didn-t-know-tet-e": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "bjp|exam|maharashtra|minister|mla|mp|war",
+    "norm": 79.4
   },
-  "eci-to-call-rival-tmc-factions-to-delhi-for-adjudication": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "crore|election|election",
+  "falling-boulder-kills-woman-in-himachal-pradesh-s-mandi-as-t": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "flood|flood|killed|killed|landslide",
+    "norm": 70.9
+  },
+  "bata-billed-customer-rs-67-over-mrp-told-to-refund-and-pay-c": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "bill|fund|mp|price|prices",
+    "norm": 65.6
+  },
+  "cabinet-clears-rs-14-115-crore-delhi-up-highway-projects-up-": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "cabinet|crore|war",
     "norm": 63.9
   },
-  "bjp-has-made-telangana-a-special-mission-nitin-nabin": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "bjp|election|election",
+  "eggs-hurled-at-tmc-mp-mahua-moitra-outside-bengal-eatery-wat": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "mp|protest|protest|watch",
+    "norm": 63.9
+  },
+  "shiv-sena-ubt-mlc-sachin-ahir-elected-maharashtra-legislativ": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "maharashtra|minister|opposition",
     "norm": 61.4
   },
-  "-india-uk-fta-most-economically-significant-pact-": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "bill|billion|deal|gdp",
+  "union-cabinet-approves-construction-of-six-lane-dwarka-tunne": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "cabinet|mp|war",
     "norm": 61.4
   },
-  "economy-ai-defence-ties-in-focus-at-india-japan-summit": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "defence|economy|summit",
+  "kerala-assembly-passes-resolution-urging-centre-to-withdraw-": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "chief minister|ipl|minister",
+    "norm": 59.7
+  },
+  "kerala-takes-another-step-towards-becoming-keralam-assembly-": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "bill|president|war",
+    "norm": 59.7
+  },
+  "implementation-of-vb-g-ram-g-without-opposition-amounts-to-f": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "mp|opposition|rally|rally",
+    "norm": 58.6
+  },
+  "foreign-medical-graduates-allowed-to-take-up-crmi-in-36-non-": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "exam|hospital",
     "norm": 57.6
   },
-  "uttam-invites-global-aerospace-firms-to-invest-in-telangana": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "minister|row",
-    "norm": 57.1
+  "sensex-today-stock-market-highlights-stock-markets-bounce-ba": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "mp|sensex|stock market",
+    "norm": 57.6
   },
-  "finmin-flags-risks-of-deficient-monsoon": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "economy|row",
-    "norm": 57.1
+  "bengaluru-woman-finds-intimate-videos-on-reddit-four-years-a": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "match|video",
+    "norm": 54.2
   },
-  "rs-54-crore-gold-haul-assam-police-bust-international-smuggl": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "crore|gold",
-    "norm": 55.4
+  "plot-to-topple-vijay-govt-tvk-vs-dmk-after-3-arrested-over-r": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "mla|mp",
+    "norm": 50.5
   },
-  "centre-extends-crpf-cover-to-six-rebel-shiv-sena-mps": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "maharashtra|mp",
-    "norm": 55.4
+  "scientists-use-budget-tech-to-probe-long-standing-physics-my": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "budget|mystery",
+    "norm": 50.2
   },
-  "kerala-assembly-seeks-reform-of-national-entrance-exams": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "exam|neet",
-    "norm": 52.1
+  "monsoon-tracker-live-helicopter-services-suspended-amid-adve": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "weather",
+    "norm": 48.2
   },
-  "prant-pracharak-meeting-to-discuss-ayodhya-donation-case-exa": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "ayodhya|exam",
-    "norm": 52.1
+  "centre-concerned-over-whatsapp-s-new-username-feature-likely": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "fraud",
+    "norm": 48.2
   },
-  "cleared-by-sc-diversionary-tactic-by-opposition-bjp-on-cji-l": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "bjp|cji|opposition",
-    "norm": 50.9
-  },
-  "amid-opposition-amit-shah-launches-new-fcra-portal-e-oci-car": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "amit shah|opposition",
-    "norm": 48.7
-  },
-  "sc-orders-status-quo-on-ethanol-supply-allocation": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "mp|supreme court",
-    "norm": 48.7
-  },
-  "don-t-broadcast-sheikh-hasina-speeches-bangladesh-warns-its-": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
+  "cpi-m-cpi-leaders-meet-tamil-nadu-cm-vijay-press-various-dem": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
     "signature": "war",
     "norm": 48.2
   },
-  "up-govt-directs-lekhpals-to-hold-regular-office-hours-at-gra": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "yogi",
+  "why-managing-fiscal-is-a-tightrope-for-state-governments": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "air-marshal-ashutosh-dixit-takes-charge-as-new-vice-chief-of": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "make-learning-and-innovation-lifelong-pursuits-president-mur": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "president",
     "norm": 45.9
   },
-  "naidu-dissatisfied-as-amaratavi-works-lag": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "actor",
-    "norm": 44.3
+  "delhi-hc-orders-take-down-of-defamatory-posts-against-raghav": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "alliance",
+    "norm": 45.9
   },
-  "general-dhiraj-seth-takes-charge-as-chief-of-army-staff": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "army",
+  "the-mass-exodus-from-team-uddhav-how-many-ubt-leaders-have-j": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "defection",
+    "norm": 45.9
+  },
+  "6-budget-friendly-vande-bharat-routes-you-can-travel-for-und": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "budget",
     "norm": 44
   },
-  "sc-denies-suspension-of-pocso-sentence-bail-to-asaram": {
-    "firstSeen": "2026-06-30T22:54:12.858Z",
-    "signature": "supreme court",
+  "senior-ips-officer-overseeing-delhi-airport-security-arreste": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "madras-high-court-registrar-general-alli-retires-pending-rec": {
+    "firstSeen": "2026-07-01T11:35:28.928Z",
+    "signature": "high court",
     "norm": 44
   }
 }
