@@ -1,121 +1,36 @@
 {
-  "trump-nearly-went-back-to-war-with-iran-to-finish-the-job-re": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "defence|iran|mp|trump|trump|war",
-    "norm": 76.9
+  "qatar-says-us-iran-doha-talks-make-positive-progress-on-14-p": {
+    "firstSeen": "2026-07-02T00:20:52.973Z",
+    "signature": "deal|iran|pakistan",
+    "norm": 63.9
   },
-  "satellite-data-shows-over-58-000-buildings-damaged-or-destro": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "earthquake|earthquake|injured|killed|killed",
-    "norm": 70.9
+  "rajasthan-cid-arrests-maharashtra-man-for-funding-isi-linked": {
+    "firstSeen": "2026-07-02T00:20:52.973Z",
+    "signature": "fund|maharashtra",
+    "norm": 57.1
   },
-  "four-nepalese-nationals-arrested-after-street-brawl-outside-": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "viral|viral|viral",
-    "norm": 64.9
+  "empire-state-building-climb-couple-arrested-after-proposal-a": {
+    "firstSeen": "2026-07-02T00:20:52.973Z",
+    "signature": "mp|summit|video",
+    "norm": 56.4
   },
-  "cm-bhupendra-patel-unveils-viksit-gujarat-2047-implementatio": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "minister|modi|modi|mp|prime minister",
-    "norm": 62.9
+  "in-peak-wedding-season-mutton-goes-off-kashmir-8217-s-wazwan": {
+    "firstSeen": "2026-07-02T00:20:52.973Z",
+    "signature": "wedding",
+    "norm": 44.3
   },
-  "scorpio-falls-into-under-construction-bridge-near-atal-tunne": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "accident|killed|killed",
-    "norm": 62.9
+  "13-kg-opium-rs-30-lakh-drug-linked-property-seized-in-haryan": {
+    "firstSeen": "2026-07-02T00:20:52.973Z",
+    "signature": "lakh",
+    "norm": 44
   },
-  "imd-issues-red-alert-for-coastal-karnataka-on-july-2-and-3": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "alert|disaster|record|red alert",
-    "norm": 62.3
-  },
-  "cbi-arrests-accused-in-digital-arrest-case": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "lakh|threat",
-    "norm": 55.4
-  },
-  "russia-turns-to-india-for-gasoline-amid-fuel-shortages-repor": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "fuel|mp",
-    "norm": 53.2
-  },
-  "bjp-rss-leaders-looted-donations-received-at-ram-temple-alle": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "bjp|congress|mp",
-    "norm": 52.7
-  },
-  "bengaluru-college-student-alleges-private-photos-leaked-onli": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "photos|threat",
-    "norm": 52.4
-  },
-  "family-of-indian-seafarer-who-died-in-venezuela-alleges-cove": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "died",
-    "norm": 46.3
-  },
-  "monsoon-tracker-updates-on-july-1-2026-helicopter-services-s": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "weather",
-    "norm": 46.3
-  },
-  "odisha-to-supply-school-textbooks-afresh-following-massive-c": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "controversy",
-    "norm": 46.3
-  },
-  "ajith-reddy-assumes-charge-as-amd-of-hmrl": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
+  "chhattisgarh-for-3-years-cops-8216-inflated-8217-salaries-th": {
+    "firstSeen": "2026-07-02T00:20:52.973Z",
     "signature": "",
     "norm": 36
   },
-  "four-persons-held-for-possession-of-gutka-in-tiruvannamalai": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "",
-    "norm": 36
-  },
-  "driver-held-for-illegal-sand-mining-from-palar-river-in-tiru": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "",
-    "norm": 36
-  },
-  "drive-to-vaccinate-cattle-against-fmd-begins-in-vellore-rani": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "",
-    "norm": 36
-  },
-  "t-n-govt-gives-nod-for-acquiring-reserve-forest-land-to-buil": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "",
-    "norm": 36
-  },
-  "book-on-friendships-amid-ai-era-launched-in-chennai": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "",
-    "norm": 36
-  },
-  "tnea-2026-rank-list-released-counselling-for-general-categor": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "",
-    "norm": 36
-  },
-  "businessman-mubeen-shah-s-property-attached-in-srinagar-unde": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "",
-    "norm": 36
-  },
-  "migrant-workers-robbed-at-knifepoint-near-electronics-city-c": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "the-hindu-home-expo-at-kochi-lulu-mall-on-july-4-5": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "all-services-of-tamil-nadu-housing-board-to-shift-online": {
-    "firstSeen": "2026-07-01T19:15:07.768Z",
+  "1-5-hrs-travel-time-new-highway-to-link-kanpur-with-kabrai": {
+    "firstSeen": "2026-07-02T00:20:52.973Z",
     "signature": "",
     "norm": 33.9
   }
