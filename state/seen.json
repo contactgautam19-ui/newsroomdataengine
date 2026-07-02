@@ -1,181 +1,131 @@
 {
-  "seven-killed-as-boulder-collapses-at-stone-quarry-on-outskir": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "collapse|collapse|collapse|death|fear|killed|killed|toll",
-    "norm": 84.7
+  "ayodhya-lawyers-hold-protest-march-demand-fir-against-champa": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "ayodhya|mp|protest|protest|storm",
+    "norm": 82.5
   },
-  "petrol-diesel-price-cut-soon-as-brent-crude-slips-to-pre-war": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "diesel|fuel|minister|petrol|petrol|price|prices|war",
-    "norm": 82.7
-  },
-  "why-zelenskyy-wants-to-build-us-patriot-missiles-in-ukraine-": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "attack|attack|dead|dead|injured|president|riot",
+  "-heard-them-all-screaming-crying-three-gujarat-family-member": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "cry|died|fire|fire|killed|killed|rescue|rescue",
     "norm": 80.7
   },
-  "-wrote-about-ending-his-life-pilot-who-hit-beijing-s-tallest": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "crash|crash|result|row",
-    "norm": 75.9
+  "madhya-pradesh-judge-faces-mob-fury-as-suo-motu-case-to-prot": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "fury|fury|mp|record|slam|slams|supreme court|threat",
+    "norm": 74.7
   },
-  "faridabad-man-crushed-in-rampage-sparked-by-tip-off-about-su": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "mp|video|viral|viral|viral",
-    "norm": 75.5
+  "rajasthan-royals-get-major-relief-as-hc-removes-key-hurdle-t": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "cricket|election|election|high court|ipl",
+    "norm": 67.5
   },
-  "sensex-settles-550-pts-higher-nifty-closes-above-24-150-us-i": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "actor|iran|mp|nifty|sensex",
-    "norm": 74.6
+  "dr-trump-us-president-shares-ai-video-prescribing-treatment-": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "mp|president|trump|trump|video",
+    "norm": 67.3
   },
-  "this-apple-privacy-feature-may-have-leaked-emails-for-millio": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "attack|attack|bill|billion",
-    "norm": 74
+  "indian-railways-registers-growth-in-freight-passenger-servic": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "crore|mp|row",
+    "norm": 63.9
   },
-  "-eetha-shraddha-kapoor-triples-her-paycheque-to-rs-15-crore-": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "actress|crore|film|ipl|mp",
-    "norm": 74
+  "delhi-snabbit-worker-held-after-using-fake-rape-case-to-exto": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "lakh|mp|threat",
+    "norm": 63.9
   },
-  "-jana-nayagan-leak-case-1-2-crore-people-watched-vijay-starr": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "crore|high court|movie|star|watch",
-    "norm": 69.4
+  "west-bengal-cabinet-approves-panel-to-examine-draft-uniform-": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "bill|cabinet|exam|minister|supreme court",
+    "norm": 62.9
   },
-  "tiruvallur-ammonia-gas-leak-death-toll-rises-to-17": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "death|gas leak|hospital|toll",
-    "norm": 65.5
-  },
-  "kerala-high-court-asks-law-secretary-and-cabinet-secretary-t": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "bill|cabinet|election|election|election commission|high court",
-    "norm": 65.1
-  },
-  "bomb-threat-email-to-isro-bengaluru-headquarters-evacuated-f": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "bomb|evacuat|threat",
-    "norm": 64.5
-  },
-  "isro-s-bengaluru-facility-receives-bomb-threat-email-evacuat": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "bomb|evacuat|threat",
-    "norm": 64.5
-  },
-  "delhi-police-bust-isi-backed-terror-module-4-arrested-plot-t": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "drone|terror|terror",
-    "norm": 63.2
-  },
-  "pinarayi-vijayan-alleges-finance-bill-passed-in-violation-of": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "bill|chief minister|minister|mp|opposition|tax",
-    "norm": 63
-  },
-  "sabarimala-gold-loss-former-tdb-president-p-s-prasanth-denie": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "gold|high court|president",
+  "free-and-rules-based-indo-pacific-a-shared-priority-for-indi": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "modi|modi|mp",
     "norm": 61.4
   },
-  "ai-defence-healthcare-what-was-discussed-in-modi-s-meet-with": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "defence|modi|modi",
-    "norm": 59.7
+  "chennai-corporation-fixes-september-30-as-deadline-for-road-": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "dead|dead",
+    "norm": 59.3
   },
-  "foreign-medical-graduates-allowed-to-take-up-internship-in-3": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "exam|hospital",
-    "norm": 57.6
+  "bjp-urges-state-govt-to-hand-over-to-cbi-misappropriation-of": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "bjp|crore|fund",
+    "norm": 59.3
   },
-  "rooftop-solar-failed-to-cut-bills-consumer-wins-rs-25-265-co": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "bill|fund|mp",
-    "norm": 57.6
+  "-ethanol-is-used-in-racing-cars-oil-minister-defends-govt-s-": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "fuel|minister",
+    "norm": 55
   },
-  "-murdered-organs-removed-wife-of-indian-sailor-who-died-in-v": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "died|mp",
-    "norm": 55.4
-  },
-  "congress-brs-confrontation-escalates-into-showdown-in-hydera": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "congress|scam",
-    "norm": 55.4
-  },
-  "rules-governing-cr-ches-in-india-explained": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "mp|outrage",
-    "norm": 55.4
-  },
-  "ktr-demands-debate-with-telangana-govt-slams-police-action-a": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "slam|slams",
-    "norm": 53.9
-  },
-  "as-visakhapatnam-rises-skyward-groundwater-sinks-in-yendada-": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "row|war",
-    "norm": 52.1
-  },
-  "can-cbse-skip-parliamentary-panel-queries-ministry-oppositio": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "opposition|parliament",
-    "norm": 50.5
-  },
-  "monsoon-tracker-live-man-dies-after-falling-into-manhole-ami": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "heavy rain",
-    "norm": 48.2
-  },
-  "heavy-rainfall-forecast-in-five-telangana-districts-on-july-": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "heavy rain",
+  "maharashtra-government-stays-rti-rules-two-days-before-anna-": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "maharashtra",
     "norm": 46.3
   },
-  "-a-new-chapter-india-japan-unveil-roadmap-on-energy-tech-def": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "defence",
+  "iran-s-supreme-leader-mojtaba-khamenei-absent-from-wife-s-fu": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "iran",
+    "norm": 46.3
+  },
+  "will-bring-out-policy-to-make-getting-education-loans-easier": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "policy",
     "norm": 45.9
   },
-  "new-epfo-rules-are-here-7-questions-every-salaried-employee-": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
+  "centre-amends-drugs-rules-1945-to-ensure-uniform-regulation-": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "assam-labourer-shows-15-documents-but-fails-citizenship-test": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "high court",
     "norm": 44
   },
-  "kanchi-shankaracharya-s-punjab-outreach-new-trust-temple-a-c": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "mp",
+  "accused-cannot-claim-default-bail-for-non-filing-of-charge-s": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "supreme court",
     "norm": 44
   },
-  "contract-of-134-kerala-s-kudumbashree-staff-terminated": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "mp",
-    "norm": 44
+  "no-word-on-hike-in-minimum-pension-allege-trade-unions": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "",
+    "norm": 36
   },
-  "unprecedented-security-in-place-as-first-batch-of-amarnath-p": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "unprecedented",
-    "norm": 42.7
+  "hurdles-persist-for-persons-with-rare-diseases-seeking-disab": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "",
+    "norm": 36
   },
-  "air-india-express-restarts-flights-to-west-asia-salalah-kuwa": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
-    "signature": "star",
-    "norm": 42.4
+  "malayalam-translations-of-stories-by-vasily-shukshin-release": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "",
+    "norm": 36
   },
-  "iraqi-godfather-of-traffickers-found-in-uk-seeking-asylum-un": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
+  "accountant-general-office-accountant-caught-accepting-13-000": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "",
+    "norm": 36
+  },
+  "gruha-jyothi-verification-raises-concern-over-benefits": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
+    "signature": "",
+    "norm": 36
+  },
+  "commuters-caught-off-guard-as-hyderabad-receives-widespread-": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
     "signature": "",
     "norm": 33.9
   },
-  "retired-si-arrested-under-pocso-act-for-sexually-assaulting-": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
+  "india-should-not-chase-costly-llm-race-instead-it-should-foc": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
     "signature": "",
     "norm": 33.9
   },
-  "annapurna-yojana-who-gets-rs-3-000-every-month-and-who-could": {
-    "firstSeen": "2026-07-02T11:14:24.959Z",
+  "first-batch-of-amarnath-pilgrims-flagged-off-from-jammu": {
+    "firstSeen": "2026-07-02T18:19:18.451Z",
     "signature": "",
     "norm": 33.9
   }
