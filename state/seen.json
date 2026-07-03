@@ -1,206 +1,166 @@
 {
-  "watch-falling-fertility-rate-antibiotic-resistance-and-a-rar": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "exam|gst|mp|row|threat|watch",
-    "norm": 83.9
+  "europe-s-deadly-heatwave-why-the-world-is-warming-at-differe": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "dead|dead|heatwave|mp|war",
+    "norm": 75.9
   },
-  "dmk-moves-supreme-court-to-bar-tvk-leaders-from-making-threa": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "chief minister|minister|mp|stampede|supreme court|threat",
-    "norm": 74.6
+  "after-ayodhya-donation-theft-row-rocks-badrinath-temple-comm": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "ayodhya|mp|row",
+    "norm": 66
   },
-  "-when-all-else-fails-people-still-repose-their-trust-in-the-": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "cji|election|election|maharashtra|mp|opposition",
-    "norm": 69.6
+  "channi-holds-show-of-strength-randhawa-shah-meet-sets-of-spe": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "amit shah|congress|minister|mp|row",
+    "norm": 64.6
   },
-  "arvind-kejriwal-urges-pm-to-rollback-of-e20-fuel-programme": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "fuel|kejriwal|petrol|petrol",
-    "norm": 69.6
+  "ram-temple-row-congress-wants-pm-to-break-silence-questions-": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "congress|mp|row|supreme court",
+    "norm": 63.5
   },
-  "indian-american-billionaire-ceo-says-half-of-these-jobs-will": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "bill|billion|jobs|row",
-    "norm": 69.6
+  "pm-modi-shares-glimpse-of-new-jodhpur-airport-ahead-of-inaug": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "minister|modi|modi|mp|prime minister",
+    "norm": 62.9
   },
-  "-police-regime-stalin-slams-tamil-nadu-cm-vijay-over-ex-dmk-": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "chief minister|minister|mla|opposition|slam|slams",
-    "norm": 68
+  "m-p-high-court-orders-protection-for-judge-facing-threats-af": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "high court|threat|verdict",
+    "norm": 61.4
   },
-  "ram-mandir-donation-case-ayodhya-priest-questioned-by-sit-se": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "ayodhya|mp|ram mandir",
-    "norm": 60.8
+  "watch-anitha-radhakrishnan-s-arrest-triggers-dmk-tvk-standof": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "chief minister|minister|mla|opposition|ruling|watch",
+    "norm": 58.5
   },
-  "-ireland-hangover-karthik-on-shreyas-iyer-s-toss-decision-vs": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "captain|match|surprising",
-    "norm": 59.7
-  },
-  "kerala-cm-promises-new-models-beyond-ppp-to-make-real-estate": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "fund|row|tax",
-    "norm": 59.7
-  },
-  "kochi-corporation-s-health-standing-committee-to-consider-pr": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "drone|mp|star",
-    "norm": 59.3
-  },
-  "sukhjinder-randhawa-s-meeting-with-amit-shah-fuels-buzz-amid": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "amit shah|congress|fuel",
-    "norm": 59.3
-  },
-  "shashi-tharoor-recalls-past-security-concerns-amid-adani-s-p": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "adani|congress|mp",
-    "norm": 57.9
-  },
-  "monsoon-tracker-live-former-deputy-mayor-s-son-dies-after-co": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "died|hospital",
-    "norm": 57.6
-  },
-  "-35-crore-tvk-mla-bribery-case-senthilbalaji-s-brother-ashok": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "crore|high court|mla",
-    "norm": 57.6
-  },
-  "ram-temple-donation-theft-prevailing-confusion-uncertainty-m": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "mp|war",
+  "interdisciplinary-research-key-to-scientific-innovation-ou-p": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "fund|ipl",
     "norm": 57.1
   },
-  "-dhoni-sir-is-very-similar-deepti-compares-india-s-legend-to": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "dhoni|mp|sharma",
+  "team-india-coach-s-clear-message-on-vaibhav-sooryavanshi-s-d": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "mp|sharma|sooryavanshi",
     "norm": 55.4
   },
-  "fraud-forgery-case-against-up-officer-after-mother-files-com": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "fraud|mp",
-    "norm": 55.4
+  "state-to-revive-defunct-lift-irrigation-schemes-says-rama-na": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "crore|minister",
+    "norm": 55
   },
-  "stock-market-highlights-sensex-today-sensex-settles-261-poin": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "nifty|price|prices|sensex|stock market",
-    "norm": 54.4
-  },
-  "central-govt-notifies-employees-provident-fund-scheme-2026": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "fund|mp",
+  "kombukuthy-residents-alarmed-as-elephants-breach-mitigation-": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "crore|defence",
     "norm": 53.2
   },
-  "madras-high-court-denies-advance-bail-to-anitha-r-radhakrish": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "chief minister|high court|minister|mla",
-    "norm": 52.1
+  "she-walked-from-kanpur-to-lucknow-to-meet-cm-yogi-a-year-lat": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "chief minister|minister|yogi",
+    "norm": 52.7
   },
-  "watch-hpv-vaccination-roll-out-climate-change-metabolic-dise": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "mp|watch",
-    "norm": 52
+  "naregal-group-clash-bommai-seeks-sit-probe": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "clash|clash",
+    "norm": 52.4
   },
-  "up-govt-makes-ai-for-all-mandatory-in-skill-training-targets": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "cctv|lakh",
-    "norm": 50.2
+  "cabinet-sub-committee-will-decide-on-cloud-seeding-karnataka": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "cabinet|minister",
+    "norm": 50.5
   },
-  "asi-finds-erode-s-kalingarayan-canal-aqueduct-structurally-s": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "rally|rally",
-    "norm": 50.2
+  "sai-krishna-death-sit-seizes-bones-burnt-ash-blood-stained-l": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "death",
+    "norm": 48.2
   },
-  "indian-navy-sends-p-8i-to-rimpac-the-world-s-largest-naval-e": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "mp|navy",
-    "norm": 48.7
+  "mehbooba-mufti-salman-khurshid-pay-respects-to-khamenei-in-t": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "iran",
+    "norm": 48.2
   },
-  "can-the-ed-attach-a-company-s-assets-after-it-enters-insolve": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "mla|mp",
-    "norm": 48.7
+  "-siya-chetan-used-sign-coded-language-in-chats-cops-reveal-w": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "death",
+    "norm": 48.2
   },
-  "ram-temple-donation-irregularities-congress-s-venugopal-seek": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "congress|mp",
-    "norm": 48.7
-  },
-  "digital-arrest-scam-cbi-arrests-three-accused-after-searches": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "scam",
+  "statues-of-telugu-theatre-stalwarts-unveiled-in-vijayawada": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "war",
     "norm": 46.3
   },
-  "v-d-savarkar-was-not-released-from-jail-due-to-public-pressu": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "congress",
+  "russia-planning-armed-incursion-into-this-nato-country-repor": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "bomb",
+    "norm": 46.3
+  },
+  "india-reacts-cautiously-to-dhaka-s-plan-to-develop-teesta-ri": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "china",
     "norm": 45.9
   },
-  "ram-temple-donation-theft-rss-calls-incident-unfortunate-urg": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
+  "inside-patrick-and-brittany-mahomes-8m-mansion-and-its-dream": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
     "signature": "mp",
-    "norm": 45.9
-  },
-  "-username-feature-facilitates-cybercrime-centre-on-it-notice": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "hafiz-saeed-still-calling-the-shots-intel-points-to-major-le": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "pakistan",
     "norm": 44
   },
-  "up-govt-highlights-expansion-of-pm-awas-ujjwala-and-swachh-b": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "bjp",
-    "norm": 44
+  "jsw-plant-in-kadapa-finalised-during-ysrcp-term-claims-jagan": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "star",
+    "norm": 42.4
   },
-  "indus-treaty-fallout-leaked-ispr-directives-reveal-pakistan-": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "pakistan",
-    "norm": 44
-  },
-  "-have-to-respect-cm-madras-hc-backs-vijay-denies-anticipator": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "mla",
-    "norm": 44
-  },
-  "wife-s-thousand-husbands-barb-grave-provocation-that-led-to-": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "sudden",
-    "norm": 42.7
-  },
-  "watch-from-uranium-in-breast-milk-to-superbugs-amr-week-expl": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "watch",
+  "up-sets-new-record-in-rooftop-solar-installations-under-pm-s": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "record",
     "norm": 40.7
   },
-  "bengaluru-creche-abuse-case-caregiver-arrested-more-arrests-": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
-    "signature": "video",
-    "norm": 40.7
-  },
-  "-8216-democracy-is-in-jeopardy-8217-india-bloc-in-letter-to-": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
+  "former-vp-jagdeep-dhankhar-undergoes-successful-angioplasty-": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
     "signature": "",
     "norm": 36
   },
-  "aadhaar-app-launches-email-update-feature-service-to-be-free": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
+  "cm-instructs-energy-department-officials-to-be-prepared-amid": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "",
+    "norm": 36
+  },
+  "industry-integrated-training-vital-for-ai-driven-job-market-": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "",
+    "norm": 36
+  },
+  "karnataka-urges-centre-to-expand-prescribed-quantity-of-tota": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "",
+    "norm": 36
+  },
+  "ritabrata-banerjee-faction-seizes-control-of-tmc-s-kolkata-h": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "",
+    "norm": 36
+  },
+  "swr-general-manager-inspects-mysuru-railway-workshop": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
     "signature": "",
     "norm": 33.9
   },
-  "govt-lens-on-e-rickshaw-remote-shutdown-issue-two-apps-remov": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
+  "mahesh-goud-accuses-brs-leaders-of-resorting-to-lies-to-cove": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
     "signature": "",
     "norm": 33.9
   },
-  "-carry-20-000-tbh-confirmed-return-tickets-india-issues-11-p": {
-    "firstSeen": "2026-07-03T10:12:25.980Z",
+  "11-000-sc-students-may-lose-chance-at-cet-counselling-over-d": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "intermediate-board-director-praises-junior-college-staff-for": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "your-blo-may-share-your-confusion-of-what-next-after-filling": {
+    "firstSeen": "2026-07-03T16:17:04.017Z",
     "signature": "",
     "norm": 33.9
   }
