@@ -1,61 +1,181 @@
 {
-  "indus-waters-treaty-will-be-in-abeyance-till-pakistan-irrevo": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
-    "signature": "border|minister|pakistan|terror|terror",
-    "norm": 72
+  "maharashtra-deputy-cm-eknath-shinde-hospitalised-due-to-feve": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "chief minister|hospital|maharashtra|minister|mp|viral|viral|viral",
+    "norm": 91.2
   },
-  "m-p-high-court-orders-protection-for-judge-facing-threats-af": {
-    "firstSeen": "2026-07-03T16:17:04.017Z",
-    "signature": "high court|khan|threat|verdict",
-    "norm": 66.7
+  "jaipur-jeweller-attacked-robbed-of-8-kg-silver-gold-and-cash": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "attack|attack|gold|sharma",
+    "norm": 74.6
   },
-  "india-japan-relations-should-not-target-third-party-china": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
-    "signature": "anger|china|mp",
+  "delhi-ends-work-from-home-revises-office-hours-as-west-asia-": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "fuel|minister|modi|modi|mp|policy|prime minister",
+    "norm": 73.1
+  },
+  "-why-is-everyone-pointing-the-gun-at-me-ex-india-selector-de": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "ipl|match|mp|record|sooryavanshi",
+    "norm": 73
+  },
+  "pm-modi-inaugurates-new-jodhpur-airport-terminal-launches-mo": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "chief minister|governor|minister|modi|modi|mp|sharma",
+    "norm": 71.8
+  },
+  "-wedding-that-would-never-happen-siya-goyal-s-snapchat-messa": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "viral|viral|viral|wedding",
+    "norm": 71.6
+  },
+  "battery-apps-taken-down-in-india-after-stalled-e-rickshaw-ri": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "video|viral|viral|viral",
+    "norm": 66
+  },
+  "-lift-sanctions-we-re-ready-to-iran-s-ac-suggestion-to-europ": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "heatwave|iran|sanction",
+    "norm": 66
+  },
+  "-1-000-husbands-remark-leads-court-to-cut-man-s-life-term-in": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "killed|killed|war",
+    "norm": 64.5
+  },
+  "monsoon-tracker-july-4-live-imd-issues-red-alert-in-five-dis": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "alert|flood|flood|red alert",
+    "norm": 62.3
+  },
+  "citing-ketan-murder-case-rajya-sabha-mp-calls-for-national-c": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "bill|mp|parliament|rajya sabha|video",
     "norm": 59.7
   },
-  "indian-firms-will-have-to-leave-comfort-zone-to-achieve-1-tr": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
-    "signature": "minister|trillion",
-    "norm": 53.2
+  "govt-asks-telegram-to-act-in-15-days-as-pirated-films-ott-co": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "film|flood|flood",
+    "norm": 59.7
   },
-  "bihar-guv-hasnain-and-mos-margherita-attend-ali-khamenei-s-f": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
-    "signature": "congress|minister",
-    "norm": 48.7
+  "alcohol-addiction-years-of-assault-agra-woman-s-chilling-con": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "killed|killed",
+    "norm": 57.6
   },
-  "two-feared-missing-after-boat-capsizes-in-thrissur-s-kole-we": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
-    "signature": "fear",
+  "gujarat-revises-land-compensation-policy-for-power-transmiss": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "mp|policy|rbi",
+    "norm": 57.6
+  },
+  "america-turns-250-on-july-4-new-jersey-family-business-is-ol": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "mp|war",
+    "norm": 57.1
+  },
+  "ai-hiring-outpaces-overall-it-recruitment-in-india-report-sh": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "jobs|recruitment",
+    "norm": 55.4
+  },
+  "pm-modi-launches-new-terminal-building-of-jodhpur-airport-wh": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "day-15-of-cjp-protest-fasting-wangchuk-s-health-worsens-why-": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "centre-gives-15-day-ultimatum-to-telegram-seeks-action-again": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "economy|film",
+    "norm": 53.5
+  },
+  "heavy-to-very-heavy-rain-alert-in-seven-districts-on-july-4": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "alert|heavy rain",
+    "norm": 52.1
+  },
+  "delhi-cm-rekha-gupta-orders-rollback-of-work-from-home-stagg": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
+  },
+  "telangana-govt-approves-recruitment-for-6-424-police-dept-po": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "recruitment",
+    "norm": 48.2
+  },
+  "expired-dairy-products-poor-storage-practices-found-at-wareh": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "war",
     "norm": 46.3
   },
-  "kannur-corporation-to-launch-online-septic-tank-cleaning-boo": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
+  "did-siya-goyal-really-wear-a-30k-sweatshirt-in-custody-": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "slam",
+    "norm": 46.3
+  },
+  "kerala-rains-water-from-idukki-pambla-dam-released-residents": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "heavy rain",
+    "norm": 46.3
+  },
+  "the-rise-of-mahjong-in-visakhapatnam": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "kheer-sleeping-pills-and-a-hidden-grave-how-agra-woman-conce": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "puducherry-court-asks-t-n-minister-to-appear-on-july-5-in-as": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
-    "signature": "minister",
+  "from-aldur-to-orbit-the-remarkable-journey-of-chikkamagaluru": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "rbi",
     "norm": 44
   },
-  "-will-never-win-genuine-recognition-china-on-india-japan-fre": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
-    "signature": "china",
-    "norm": 44
+  "amma-crisis-women-actors-accuse-shwetha-menon-of-communal-po": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "actor",
+    "norm": 42.4
   },
-  "decide-plea-against-dhruv-rathee-s-video-within-15-days-delh": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
-    "signature": "video",
-    "norm": 40.7
+  "cpi-m-in-kerala-alleges-ias-officer-s-removal-as-vizhinjam-m": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "adani",
+    "norm": 42.4
   },
-  "migrant-workers-alone-cannot-be-blamed-for-perumbavoor-s-dru": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
+  "no-full-runway-shutdown-at-srinagar-airport-this-year-airpor": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "",
+    "norm": 36
+  },
+  "nhrc-seeks-action-from-rpf-chief-on-harassment-of-rights-act": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "",
+    "norm": 36
+  },
+  "assam-district-orders-deportation-of-man-declared-foreigner": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "",
+    "norm": 36
+  },
+  "absenteeism-crackdown-sparks-calls-for-systemic-reforms-in-t": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
     "signature": "",
     "norm": 33.9
   },
-  "centre-orders-blocking-of-battery-management-apps-used-to-tu": {
-    "firstSeen": "2026-07-03T20:44:37.711Z",
+  "bandra-is-disappearing-is-this-what-mumbai-calls-development": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "cabo-verde-give-messi-ultimate-scare-as-they-sign-off-in-sty": {
+    "firstSeen": "2026-07-04T07:32:48.185Z",
     "signature": "",
     "norm": 33.9
   }
