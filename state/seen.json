@@ -1,36 +1,301 @@
 {
-  "fresh-political-support-pours-in-on-15th-day-of-cjp-protest-": {
-    "firstSeen": "2026-07-04T20:31:59.515Z",
-    "signature": "exam|hospital|parliament|protest|protest",
-    "norm": 82.5
+  "7-year-old-girl-killed-after-speeding-car-hits-her-in-mahara": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "cctv|dead|dead|horror|hospital|killed|killed|maharashtra",
+    "norm": 89
   },
-  "how-arrested-gangster-goldy-dhillon-used-pre-recorded-voice-": {
-    "firstSeen": "2026-07-04T20:31:59.515Z",
-    "signature": "gold|gst|mp|record",
-    "norm": 71
+  "weather-today-live-updates-imd-issues-red-alert-for-delhi-wa": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "alert|heavy rain|maharashtra|red alert|war|weather",
+    "norm": 81.8
   },
-  "two-dmk-mlas-were-offered-ministry-post-money-to-join-tvk-al": {
-    "firstSeen": "2026-07-04T20:31:59.515Z",
-    "signature": "cabinet|governor|mla|ruling",
-    "norm": 52.1
+  "punjab-horror-man-visiting-in-laws-to-reconcile-with-wife-se": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "died|fire|fire|horror|rescue|rescue|video",
+    "norm": 78.8
   },
-  "ndps-cases-arrests-double-in-kochi-in-a-month": {
-    "firstSeen": "2026-07-04T20:31:59.515Z",
-    "signature": "record",
-    "norm": 40.7
+  "escape-routes-sealed-more-troops-in-j-amp-k-army-s-hunt-for-": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "army|mp|terror|terror",
+    "norm": 71.6
   },
-  "ninth-edition-of-the-hindu-home-expo-commences-at-lulu-mall": {
-    "firstSeen": "2026-07-04T20:31:59.515Z",
+  "vhp-asks-ayodhya-police-to-question-arvind-kejriwal-priyanka": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "ayodhya|exam|kejriwal|mp|opposition",
+    "norm": 68.6
+  },
+  "trump-one-shot-could-take-out-iran-leaders": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "iran|mp|trump|trump",
+    "norm": 67.7
+  },
+  "u-s-actions-as-world-police-can-cause-diplomatic-strife-u-s-": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "adani|fraud|ipl",
+    "norm": 66.3
+  },
+  "government-withdraws-emergency-gas-curbs-imposed-during-horm": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "fire|fire|mp",
+    "norm": 62.8
+  },
+  "aamir-khan-gauri-spratt-wedding-ambani-convoy-caught-in-rain": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "ambani|khan|war|wedding",
+    "norm": 62.2
+  },
+  "growing-vegetables-in-pots-how-to-grow-vegetables-in-pots-ev": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "mp|row",
+    "norm": 60
+  },
+  "-no-fancy-resume-but-he-has-something-first-year-college-stu": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "fan|lakh|star",
+    "norm": 58.3
+  },
+  "market-recap-top-10-firms-add-rs-1-lakh-crore-in-market-capi": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "crore|lakh|mp",
+    "norm": 57.6
+  },
+  "monsoon-tracker-july-5-live-low-pressure-in-bay-of-bengal-in": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "alert|heavy rain|red alert",
+    "norm": 54.9
+  },
+  "isha-ambani-makes-a-statement-in-custom-schiaparelli-haute-c": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "ambani|mp",
+    "norm": 54.7
+  },
+  "e20-fuel-safety-dealers-experts-refute-engine-damage-claims": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "deal|fuel",
+    "norm": 51.7
+  },
+  "bjp-eyes-repeat-of-2017-uttar-pradesh-poll-performance-begin": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "bjp|poll",
+    "norm": 51.7
+  },
+  "kurnool-district-police-intensify-enforcement-to-curb-road-a": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "accident",
+    "norm": 51.2
+  },
+  "weather-update-mumbai-crippled-with-waterlogging-flights-roa": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "weather",
+    "norm": 51.2
+  },
+  "all-allies-united-nda-to-focus-on-repeating-2017-poll-win-bj": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "bjp|coalition|poll",
+    "norm": 50.9
+  },
+  "-govt-presence-cant-be-ignored-cpi-m-brittas-on-ram-mandir-t": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "ram mandir",
+    "norm": 49.4
+  },
+  "lit-slashes-reserve-price-to-182cr-in-fresh-bid-to-auction-i": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "price",
+    "norm": 49
+  },
+  "u-p-bjp-tries-to-shore-up-women-voter-numbers-with-sir-leavi": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "bjp|vote",
+    "norm": 48.7
+  },
+  "he-sold-his-business-for-rs-4-000-crore-within-four-years-he": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "crore",
+    "norm": 47.1
+  },
+  "psychology-says-burnout-doesnt-always-make-employees-quit-in": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "why-some-temples-were-protected-and-others-targeted-in-medie": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "from-hardship-to-high-tech-the-journey-of-a-global-company-f": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "m-cap-of-6-of-top-10-most-valued-firms-surges-rs-1-lakh-cr-a": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "lakh",
+    "norm": 47.1
+  },
+  "nagaland-cm-neiphiu-rio-flags-off-tractor-pickup-truck-dist": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "actor",
+    "norm": 45.5
+  },
+  "government-issues-stern-notice-to-meta-on-child-sexual-abuse": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "instagram",
+    "norm": 44.3
+  },
+  "thousands-witness-kumbabishekam-at-pazhamudircholai-murugan-": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "bjp-will-register-a-decisive-victory-in-u-p-says-party-chief": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "bjp",
+    "norm": 44
+  },
+  "prepare-contingency-plan-for-sowing-amid-delayed-monsoon-off": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "stocks",
+    "norm": 44
+  },
+  "bring-ram-janmabhoomi-trust-within-rti-purview-cpi-m-leader-": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "rajya sabha",
+    "norm": 44
+  },
+  "odisha-vigilance-nabs-subarnapur-sarpanch-for-taking-rs-20-0": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "naga-vamsi-hypes-prabha-fauzi": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "jagan-capital-ideas-are-flowing-non-stop-": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "venus-in-leo-2026-horoscope-predictions-for-all-12-zodiac-si": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "-8-things-children-secretly-wish-parents-knew": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "lock-upp-2-brings-in-shilpa-shinde-as-first-wildcard-entry-a": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "aiims-trained-doctor-shares-5-science-backed-reasons-to-drin": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "microsoft-creates-new-business-unit-to-help-large-enterprise": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "no-mojtaba-at-ali-khamenei-funeral-three-other-sons-make-app": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "buy-lodha-developers-aditya-birla-real-estate-organised-play": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "how-this-pune-engineer-brings-free-electricity-to-families-i": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "frustration-mounts-over-doyang-mangmetong-road-delay": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "new-toyota-hilux-india-launch-28th-july-more-capable-more-te": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "reena-roy-not-first-choice-for-naagin-": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "psychology-says-people-reporting-alien-contact-arent-necessa": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "india-to-require-500-000-tonnes-of-additional-copper-refinin": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "bengaluru-born-man-visiting-from-us-says-city-has-a-fresh-au": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "india-at-un-first-ai-governance-dialogue": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "cg-power-aims-for-16m-chips-day-g1-qualification": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "cm-dhami-flags-off-kailash-mansarovar-yatra-2026": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "tuchel-altitude-headache-england-vs-mexico-wc-2026": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "india-leads-at-un-global-ai-governance-dialogue": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "noida-woman-takes-e-rickshaw-to-sector-18-multi-level-parkin": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
     "signature": "",
     "norm": 33.9
   },
-  "traffic-snarls-worsen-around-kochi-metro-extension-nhai-flyo": {
-    "firstSeen": "2026-07-04T20:31:59.515Z",
+  "mumbai-ahmedabad-bullet-train-project-india-8217-s-largest-r": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
     "signature": "",
     "norm": 33.9
   },
-  "j-k-l-g-administration-suspends-8-officials-over-pro-separat": {
-    "firstSeen": "2026-07-04T20:31:59.515Z",
+  "stale-food-cockroaches-rat-droppings-found-at-hyderabad-rest": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "crest-gates-of-tunga-reservoir-lifted-to-release-excess-wate": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "pandavani-legend-teejan-bai-dies-at-70": {
+    "firstSeen": "2026-07-05T08:27:22.274Z",
     "signature": "",
     "norm": 33.9
   }
