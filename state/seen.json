@@ -1,171 +1,131 @@
 {
-  "software-engineer-killed-after-car-crashes-into-lorry-on-orr": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "crash|crash|killed|killed|sudden|suddenly|war",
-    "norm": 85
+  "j-amp-k-heavy-rain-triggers-landslide-near-kwar-power-projec": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "flood|flood|floods|heavy rain|landslide|mp|war",
+    "norm": 79.9
   },
-  "18-killed-as-russia-fires-68-missiles-351-drones-at-ukraine": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "defence|drone|fire|fire|killed|killed|riot",
-    "norm": 83.5
+  "two-members-of-a-kerala-family-killed-in-saudi-road-crash": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "crash|crash|killed|killed",
+    "norm": 72.6
   },
-  "china-submarine-test-fires-nuclear-capable-missile-into-paci": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "china|fire|fire|navy|war|warning",
-    "norm": 80.1
+  "pak-drone-spotted-over-loc-in-j-amp-k-s-rajouri-search-op-la": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "aerial|drone|mp|pakistan|war",
+    "norm": 69.6
   },
-  "tmc-submits-response-to-ec-rejects-rebel-faction-s-claim-as-": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "election|election|election commission|fraud|mp",
-    "norm": 73.6
+  "trump-rings-wall-street-opening-bell-as-he-ties-presidency-t": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "mp|stock market|trump|trump",
+    "norm": 68
   },
-  "-why-diljit-dosanjh-chooses-controversial-films-fwice-presid": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "film|mp|president|row|war",
-    "norm": 73.3
-  },
-  "xi-sends-rare-july-4-greeting-to-trump-days-after-he-ranked-": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "mp|threat|trump|trump",
-    "norm": 70
-  },
-  "twist-in-balogun-row-belgium-allowed-to-appeal-against-fifa-": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "match|row|twist|world cup",
-    "norm": 68.4
-  },
-  "mamata-hits-out-at-trinamool-rebels-dares-them-to-join-bjp": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "betray|bjp|chief minister|mamata|minister|mla|mp|poll",
-    "norm": 65.4
-  },
-  "ram-temple-donation-row-vhp-urges-sit-to-question-opposition": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "aap|congress|kejriwal|mp|opposition|rajya sabha|row",
+  "nc-to-stage-protest-at-jantar-mantar-for-j-amp-k-statehood-o": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "mp|poll|protest|protest",
     "norm": 65.3
   },
-  "man-dies-after-police-chase-ends-in-a-crash-in-rajasthan-acc": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "crash|crash|mp",
-    "norm": 63.9
+  "chief-minister-joseph-vijay-writes-to-prime-minister-narendr": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "chief minister|minister|modi|modi|prime minister",
+    "norm": 64.6
   },
-  "4-year-old-mauled-to-death-by-stray-dogs-in-punjab-s-hoshiar": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "death|lakh|mp",
-    "norm": 63.9
-  },
-  "pm-modi-arrives-in-indonesia-to-further-strengthen-india-s-a": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "modi|modi|policy|president",
+  "e-v-velu-moves-madras-high-court-to-quash-dvac-fir-in-highwa": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "high court|mla|mp|scam",
     "norm": 63.5
   },
-  "eci-asks-both-factions-of-tmc-to-submit-responses-on-organis": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "election|election|poll",
+  "drug-traffickers-dangerous-than-terrorists-says-dgp-c-v-anan": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "anger|terror|terror",
+    "norm": 62.9
+  },
+  "yogi-govt-to-roll-out-mega-statewide-social-security-drive-f": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "mp|war|yogi",
     "norm": 61.4
   },
-  "amit-shah-announces-new-cooperative-life-insurance-company-o": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "amit shah|minister|mp|tax",
-    "norm": 61.4
+  "157-houses-for-wayanad-landslide-survivors-to-be-completed-b": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "landslide|minister|mp",
+    "norm": 59.7
   },
-  "ram-temple-donation-row-exposed-power-struggle-within-bjp-ak": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "bjp|mp|row",
-    "norm": 61.4
+  "fresh-bomb-threat-email-to-isro-headquarters-declared-hoax": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "bomb|threat",
+    "norm": 59.3
   },
-  "indian-origin-man-poses-as-cia-agent-to-secure-indonesia-def": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "deal|defence|minister|president",
-    "norm": 61.4
+  "residents-flag-dangerous-road-conditions-across-east-bengalu": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "anger|hospital",
+    "norm": 59.3
   },
-  "pm-modi-begins-3-nation-indo-pacific-tour-lands-to-a-grand-w": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "air force|modi|modi",
-    "norm": 61.4
+  "safe-footpath-campaign-runs-into-conflict-with-street-vendor": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "mp|war",
+    "norm": 57.1
   },
-  "telangana-gears-up-for-second-edition-of-global-investors-su": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "investor|summit",
-    "norm": 53.2
+  "sit-probe-reveals-police-conspiracy-in-sai-krishna-custodial": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "death|mp",
+    "norm": 55.4
   },
-  "450-private-buses-stay-off-roads-in-kasaragod-as-operators-p": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
+  "non-state-actors-from-outside-india-overwhelming-kuki-areas-": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "actor|coalition",
+    "norm": 53.5
+  },
+  "sfi-protests-marred-by-police-leaders-demand-withdrawal-of-c": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "jalalabad-is-now-parshurampuri-as-yogi-govt-approves-renamin": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "mp|poll|yogi",
-    "norm": 50.9
+  "rtc-jac-to-hold-protests-on-july-7-8-as-talks-with-governmen": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "meghalaya-cm-meets-amit-shah-conveys-fcra-amendment-concerns": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "amit shah|mp",
-    "norm": 48.7
+  "bikers-perform-wheelies-in-front-of-ambulance-endanger-patie": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "anger",
+    "norm": 48.2
   },
-  "sathya-sai-police-recover-141-stolen-phones-worth-29-lakh-in": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "lakh",
+  "mba-felicitates-justice-v-mohana-first-woman-from-tamil-nadu": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "supreme court",
     "norm": 45.9
   },
-  "new-road-to-integrated-bus-stand-to-be-completed-in-18-month": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "india-s-indo-pacific-push-puts-china-on-notice": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "china",
-    "norm": 44
-  },
-  "301-ticketless-passengers-on-single-train-fined-in-tamil-nad": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "lakh",
-    "norm": 44
-  },
-  "-delhi-lucknow-power-struggle-akhilesh-questions-sit-probe-i": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "india-helps-unlock-universe-s-secrets-from-god-particle-to-d": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
+  "state-government-appoints-r-krishnappa-as-the-director-of-ki": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
     "signature": "",
     "norm": 36
   },
-  "sunni-students-federation-palakkad-district-literary-festiva": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
+  "telangana-man-survives-fall-nurse-wife-kills-him-by-injectin": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
     "signature": "",
     "norm": 36
   },
-  "csir-iict-director-d-srinivasa-reddy-conferred-with-crsi-sil": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "",
-    "norm": 36
-  },
-  "violation-of-tariff-conditions-kseb-slaps-fine-for-letting-o": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "",
-    "norm": 36
-  },
-  "delhi-police-bust-interstate-racket-selling-fake-governmentt": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
-    "signature": "",
-    "norm": 36
-  },
-  "pmk-seeks-removal-encroachments-from-elephant-corridors-in-c": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
+  "pocso-pendency-and-torturous-process-further-victimise-child": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
     "signature": "",
     "norm": 33.9
   },
-  "bdu-s-distance-learning-centre-gets-ugc-deb-extension": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
+  "exhumation-of-man-s-body-ordered-over-alleged-medical-neglig": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
     "signature": "",
     "norm": 33.9
   },
-  "farmers-demand-coconut-industrial-park-on-ppp-model-at-perav": {
-    "firstSeen": "2026-07-06T13:03:54.682Z",
+  "bus-conductor-sentenced-to-5-years-ri-for-sexually-abusing-m": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "migrant-remittances-are-not-reverse-cmid-counters-cm-s-remar": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "man-held-on-charge-of-sexually-abusing-minor": {
+    "firstSeen": "2026-07-06T19:23:49.139Z",
     "signature": "",
     "norm": 33.9
   }
