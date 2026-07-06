@@ -1,26 +1,171 @@
 {
-  "15-of-20-fertiliser-ships-stuck-at-hormuz-set-sail-relief-fo": {
-    "firstSeen": "2026-07-05T22:37:07.224Z",
-    "signature": "mp|stocks",
-    "norm": 55
+  "software-engineer-killed-after-car-crashes-into-lorry-on-orr": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "crash|crash|killed|killed|sudden|suddenly|war",
+    "norm": 85
   },
-  "more-crude-ahead-as-opec-hikes-august-output-by-188-000-barr": {
-    "firstSeen": "2026-07-05T22:37:07.224Z",
-    "signature": "mp|price",
+  "18-killed-as-russia-fires-68-missiles-351-drones-at-ukraine": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "defence|drone|fire|fire|killed|killed|riot",
+    "norm": 83.5
+  },
+  "china-submarine-test-fires-nuclear-capable-missile-into-paci": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "china|fire|fire|navy|war|warning",
+    "norm": 80.1
+  },
+  "tmc-submits-response-to-ec-rejects-rebel-faction-s-claim-as-": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "election|election|election commission|fraud|mp",
+    "norm": 73.6
+  },
+  "-why-diljit-dosanjh-chooses-controversial-films-fwice-presid": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "film|mp|president|row|war",
+    "norm": 73.3
+  },
+  "xi-sends-rare-july-4-greeting-to-trump-days-after-he-ranked-": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "mp|threat|trump|trump",
+    "norm": 70
+  },
+  "twist-in-balogun-row-belgium-allowed-to-appeal-against-fifa-": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "match|row|twist|world cup",
+    "norm": 68.4
+  },
+  "mamata-hits-out-at-trinamool-rebels-dares-them-to-join-bjp": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "betray|bjp|chief minister|mamata|minister|mla|mp|poll",
+    "norm": 65.4
+  },
+  "ram-temple-donation-row-vhp-urges-sit-to-question-opposition": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "aap|congress|kejriwal|mp|opposition|rajya sabha|row",
+    "norm": 65.3
+  },
+  "man-dies-after-police-chase-ends-in-a-crash-in-rajasthan-acc": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "crash|crash|mp",
+    "norm": 63.9
+  },
+  "4-year-old-mauled-to-death-by-stray-dogs-in-punjab-s-hoshiar": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "death|lakh|mp",
+    "norm": 63.9
+  },
+  "pm-modi-arrives-in-indonesia-to-further-strengthen-india-s-a": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "modi|modi|policy|president",
+    "norm": 63.5
+  },
+  "eci-asks-both-factions-of-tmc-to-submit-responses-on-organis": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "election|election|poll",
+    "norm": 61.4
+  },
+  "amit-shah-announces-new-cooperative-life-insurance-company-o": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "amit shah|minister|mp|tax",
+    "norm": 61.4
+  },
+  "ram-temple-donation-row-exposed-power-struggle-within-bjp-ak": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "bjp|mp|row",
+    "norm": 61.4
+  },
+  "indian-origin-man-poses-as-cia-agent-to-secure-indonesia-def": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "deal|defence|minister|president",
+    "norm": 61.4
+  },
+  "pm-modi-begins-3-nation-indo-pacific-tour-lands-to-a-grand-w": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "air force|modi|modi",
+    "norm": 61.4
+  },
+  "telangana-gears-up-for-second-edition-of-global-investors-su": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "investor|summit",
     "norm": 53.2
   },
-  "stop-child-sex-abuse-ads-on-insta-at-once-govt-to-meta": {
-    "firstSeen": "2026-07-05T22:37:07.224Z",
-    "signature": "instagram",
-    "norm": 42.4
+  "450-private-buses-stay-off-roads-in-kasaragod-as-operators-p": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "childcare-housework-keep-69-urban-women-out-of-work-nso": {
-    "firstSeen": "2026-07-05T22:37:07.224Z",
+  "jalalabad-is-now-parshurampuri-as-yogi-govt-approves-renamin": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "mp|poll|yogi",
+    "norm": 50.9
+  },
+  "meghalaya-cm-meets-amit-shah-conveys-fcra-amendment-concerns": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "amit shah|mp",
+    "norm": 48.7
+  },
+  "sathya-sai-police-recover-141-stolen-phones-worth-29-lakh-in": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "lakh",
+    "norm": 45.9
+  },
+  "new-road-to-integrated-bus-stand-to-be-completed-in-18-month": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "india-s-indo-pacific-push-puts-china-on-notice": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "china",
+    "norm": 44
+  },
+  "301-ticketless-passengers-on-single-train-fined-in-tamil-nad": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "lakh",
+    "norm": 44
+  },
+  "-delhi-lucknow-power-struggle-akhilesh-questions-sit-probe-i": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "india-helps-unlock-universe-s-secrets-from-god-particle-to-d": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
     "signature": "",
     "norm": 36
   },
-  "cm-highly-optimistic-about-destination-tripura-business-conc": {
-    "firstSeen": "2026-07-05T22:37:07.224Z",
+  "sunni-students-federation-palakkad-district-literary-festiva": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "",
+    "norm": 36
+  },
+  "csir-iict-director-d-srinivasa-reddy-conferred-with-crsi-sil": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "",
+    "norm": 36
+  },
+  "violation-of-tariff-conditions-kseb-slaps-fine-for-letting-o": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "",
+    "norm": 36
+  },
+  "delhi-police-bust-interstate-racket-selling-fake-governmentt": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "",
+    "norm": 36
+  },
+  "pmk-seeks-removal-encroachments-from-elephant-corridors-in-c": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "bdu-s-distance-learning-centre-gets-ugc-deb-extension": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "farmers-demand-coconut-industrial-park-on-ppp-model-at-perav": {
+    "firstSeen": "2026-07-06T13:03:54.682Z",
     "signature": "",
     "norm": 33.9
   }
