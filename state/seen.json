@@ -1,47 +1,172 @@
 {
-  "-integral-part-of-india-diplomat-protests-wrong-depiction-of": {
-    "firstSeen": "2026-07-06T23:47:56.027Z",
-    "signature": "ipl|mp|pakistan|protest|protest",
-    "norm": 75.3
+  "delhi-storm-chaos-heavy-rain-uproots-trees-cars-crushed-acro": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "collapse|collapse|collapse|heavy rain|ipl|shock|shock|shocking|storm|visuals|weather",
+    "norm": 99.3
   },
-  "up-cabinet-approves-ai-ready-data-center-policy-2026-with-rs": {
-    "firstSeen": "2026-07-06T23:47:56.027Z",
-    "signature": "cabinet|crore|lakh|minister|mp|policy|sharma",
-    "norm": 71.7
+  "heartwarming-welcome-stuns-the-world-india-indonesia-friends": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "diplomacy|emotional|ipl|minister|modi|modi|prime minister|stuns|war",
+    "norm": 89
   },
-  "-expect-concrete-outcomes-indian-envoy-says-pm-modi-indonesi": {
-    "firstSeen": "2026-07-06T23:47:56.027Z",
-    "signature": "acquisition|deal|modi|modi",
+  "family-with-children-attacked-by-mob-on-bengaluru-mysuru-exp": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "attack|attack|mp|shock|shock|shocking|video",
+    "norm": 83.7
+  },
+  "debris-slip-at-wayanad-tunnel-road-project-site-eight-feared": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "collapse|collapse|collapse|dead|dead|fear|rescue|rescue",
+    "norm": 83.4
+  },
+  "stake-sale-deal-in-vizhinjam-port-detrimental-to-public-inte": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "adani|chief minister|deal|exam|minister|opposition",
+    "norm": 78.1
+  },
+  "wayanad-debris-slip-live-updates-eight-feared-dead-one-offic": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "dead|dead|fear|hospital|rescue|rescue",
+    "norm": 77.3
+  },
+  "wayanad-landslide-leaves-two-dead-several-feared-missing-at-": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "alert|dead|dead|fear|landslide|red alert|video",
+    "norm": 77
+  },
+  "monsoon-tracker-live-imd-issues-red-orange-alerts-as-rain-la": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "alert|died|maharashtra|red alert",
+    "norm": 74.6
+  },
+  "pm-modi-hails-india-indonesia-ties-calls-jakarta-natural-spa": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "minister|modi|modi|prime minister|row",
+    "norm": 72
+  },
+  "5-dead-in-landslide-at-tunnel-project-site-in-kerala-s-wayan": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "dead|dead|landslide|mp",
+    "norm": 71
+  },
+  "kerala-man-arrested-charged-under-uapa-for-supporting-pahalg": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "attack|attack|terror|terror",
     "norm": 69.6
   },
-  "amit-shah-lays-foundation-stone-for-statue-of-syama-prasad-m": {
-    "firstSeen": "2026-07-06T23:47:56.027Z",
-    "signature": "amit shah|minister|modi|modi|prime minister",
+  "-dance-with-me-iran-takes-swipe-at-trump-as-belgium-ends-us-": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "iran|mp|trump|trump|world cup",
+    "norm": 67.5
+  },
+  "imd-issues-red-alert-for-wayanad-kozhikode-districts-in-kera": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "alert|heavy rain|red alert|war|warning",
+    "norm": 66.8
+  },
+  "-bond-rooted-in-ramayana-mahabharat-pm-modi-highlights-india": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "minister|modi|modi|parliament|prime minister",
     "norm": 62.9
   },
-  "pm-narendra-modi-8217-s-three-nation-tour-defence-critical-m": {
-    "firstSeen": "2026-07-06T23:47:56.027Z",
-    "signature": "defence|modi|modi",
+  "the-biggest-hurdle-in-india-s-chip-race-isn-t-the-plan-it-s-": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "killed|killed|row",
+    "norm": 62.9
+  },
+  "-stop-the-genocide-baloch-protesters-in-germany-raise-alarm-": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "pakistan|protest|protest",
+    "norm": 61.1
+  },
+  "all-efforts-on-to-rescue-those-trapped-in-wayanad-debris-sli": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "mp|rescue|rescue",
+    "norm": 61.1
+  },
+  "what-caused-wayanad-landslide-kerala-minister-calls-incident": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "landslide|minister|mp",
     "norm": 59.7
   },
-  "odisha-sir-malkangiri-records-27-653-deletions-highest-in-th": {
-    "firstSeen": "2026-07-06T23:47:56.027Z",
-    "signature": "record|vote",
+  "-i-copy-your-career-indonesia-s-president-praises-pm-modi-s-": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "modi|modi|president",
+    "norm": 59.7
+  },
+  "dead-lizard-found-in-mid-day-meal-at-west-delhi-school-case-": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "dead|dead",
+    "norm": 57.6
+  },
+  "-brought-two-nations-closer-why-pm-modi-lauded-biju-patnaik-": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "nothing-phone-4b-launched-in-india-price-features-and-availa": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "mp|price",
+    "norm": 53.2
+  },
+  "several-parts-of-delhi-noida-waterlogged-as-monsoon-showers-": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "heavy rain|watch",
+    "norm": 52.4
+  },
+  "vice-president-t-n-governor-arlekar-cm-vijay-pay-tributes-to": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "governor|president",
+    "norm": 50.5
+  },
+  "three-officials-shunted-from-environment-minister-s-office-i": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "minister|unprecedented",
     "norm": 50.2
   },
-  "island-wide-blackout-hits-cuba-as-its-fuel-reserve-dwindles": {
-    "firstSeen": "2026-07-06T23:47:56.027Z",
+  "monsoon-live-updates-mumbai-schools-and-colleges-closed-imd-": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "alert",
+    "norm": 48.2
+  },
+  "baruipur-rape-murder-case-west-bengal-police-intensify-probe": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "exam",
+    "norm": 46.3
+  },
+  "traffic-bottleneck-outside-sarath-city-capital-mall-leaves-m": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "lakh",
+    "norm": 45.9
+  },
+  "penalty-for-late-admission-for-puc-students-abolished-in-kar": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "e25-fuel-coming-soon-centre-breaks-silence-e25-testing-still": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
     "signature": "fuel",
     "norm": 45.9
   },
-  "cng-ev-make-up-record-40-car-sales-in-june": {
-    "firstSeen": "2026-07-06T23:47:56.027Z",
-    "signature": "record",
-    "norm": 40.7
+  "ethanol-blending-in-fuel-what-brazil-does-and-where-other-co": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "fuel",
+    "norm": 44
   },
-  "controversial-book-police-search-samagra-shiksha-office-in-j": {
-    "firstSeen": "2026-07-06T23:47:56.027Z",
+  "can-a-wife-be-forced-to-repay-her-husband-s-debts-telangana-": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "high court",
+    "norm": 44
+  },
+  "strong-surface-winds-likely-in-12-telangana-districts-on-jul": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
+  },
+  "karnataka-rain-all-22-crest-gates-of-tunga-dam-at-gajanur-op": {
+    "firstSeen": "2026-07-07T11:25:26.621Z",
+    "signature": "",
+    "norm": 36
   }
 }
