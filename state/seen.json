@@ -1,36 +1,211 @@
 {
-  "-mouths-sealed-with-fevicol-on-waqf-cm-yogi-s-sharp-attack-o": {
-    "firstSeen": "2026-07-07T23:32:25.016Z",
-    "signature": "attack|attack|congress|ram mandir|yogi",
+  "bloodbath-on-dalal-street-sensex-nifty50-tank-2-top-reasons-": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "crash|crash|fear|iran|mp|nifty|president|sensex|stock market|trump|trump",
+    "norm": 99.8
+  },
+  "us-iran-war-live-updates-trump-says-iran-ceasefire-over-but-": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "attack|attack|fire|fire|iran|mp|trump|trump|war",
+    "norm": 99.7
+  },
+  "sensex-crashes-by-1700-points-after-trump-hints-at-iran-war-": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "crash|crash|iran|mp|sensex|trump|trump|war",
+    "norm": 96.8
+  },
+  "-i-think-it-s-over-donald-trump-says-iran-ceasefire-a-waste-": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "fire|fire|iran|mp|trump|trump",
+    "norm": 81.6
+  },
+  "stock-market-live-updates-sensex-today-sensex-sheds-1-600-po": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "deal|iran|mp|nifty|sensex|stock market|trump|trump",
     "norm": 81.3
   },
-  "-1-4-billion-aspirations-in-motion-pm-narendra-modi-sums-up-": {
-    "firstSeen": "2026-07-07T23:32:25.016Z",
-    "signature": "bill|billion|modi|modi|row",
-    "norm": 77.9
+  "lawsuit-alleges-trump-administration-of-giving-asylum-seeker": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "fund|iran|mp|trump|trump",
+    "norm": 73
   },
-  "-it-got-rs-160-crore-from-tmc-ed-searches-kolkata-company-ov": {
-    "firstSeen": "2026-07-07T23:32:25.016Z",
-    "signature": "crore|deal|fund|mp",
+  "konkan-railway-expresses-grief-over-wayanad-landslide-that-k": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "grief|killed|killed|landslide",
+    "norm": 69.6
+  },
+  "ndtv-ground-report-manipur-highway-struggles-in-monsoon-desp": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "crore|mp|sanction|weather",
+    "norm": 68
+  },
+  "cultural-heritage-connect-us-thank-indonesian-people-for-pre": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "modi|modi|mp|star",
+    "norm": 66.7
+  },
+  "sensex-today-stock-market-live-sensex-crashes-over-1-600-poi": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "crash|crash|nifty|sensex|stock market",
+    "norm": 62.9
+  },
+  "chief-minister-vijay-blackmailed-children-by-appealing-to-th": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "chief minister|election|election|high court|minister",
+    "norm": 62.9
+  },
+  "ajay-chautala-calls-haryana-cm-saini-a-dummy-at-chanot-prote": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "bjp|protest|protest",
+    "norm": 61.1
+  },
+  "-will-company-compensate-if-kejriwal-s-letter-to-maruti-toyo": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "aap|fuel|kejriwal|mp|policy",
+    "norm": 60.8
+  },
+  "pm-modi-leaves-for-australia-after-indonesia-visit-14-pacts-": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "modi|modi|president",
     "norm": 59.7
   },
-  "west-asia-war-highlights-three-ships-struck-within-24-hours-": {
-    "firstSeen": "2026-07-07T23:32:25.016Z",
-    "signature": "war",
+  "totapuri-mango-farmers-slip-further-into-distress-as-price-c": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "crash|crash|price",
+    "norm": 59.7
+  },
+  "12-000-cops-drones-odisha-rolls-out-security-plan-for-puri-r": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "aerial|crowd|drone|row",
+    "norm": 58.6
+  },
+  "case-against-sena-corporator-on-charges-of-assaulting-doctor": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "hospital|outrage",
+    "norm": 57.6
+  },
+  "dombivli-doctor-assault-ima-announces-statewide-strike-gives": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "dead|dead",
+    "norm": 57.6
+  },
+  "wayanad-debris-slip-updates-at-least-three-dead-five-others-": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "dead|dead",
+    "norm": 57.6
+  },
+  "wayanad-disaster-amit-shah-speaks-to-kerala-cm-extends-centr": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "amit shah|disaster",
+    "norm": 57.1
+  },
+  "ram-temple-theft-accused-tinnu-yadav-mere-driver-or-man-with": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "mp|photos|video",
+    "norm": 55
+  },
+  "us-firm-corrohealth-closure-kochi-employees-remain-locked-ou": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "minister|mp|record",
+    "norm": 54.7
+  },
+  "intimidatory-speech-case-abhishek-banerjee-does-not-appear-b": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "high court|mp|record",
+    "norm": 54.7
+  },
+  "nandagovindam-bhajans-launches-the-first-bhajan-clubbing-eve": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "neet|surprise",
+    "norm": 54.2
+  },
+  "t-n-bjp-chief-nainar-nagenthran-criticises-congress-manickam": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "bjp|cabinet|congress",
+    "norm": 52.7
+  },
+  "debutant-vs-debutant-who-is-abhishek-kumar-bjp-s-pick-agains": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "bjp|poll|president",
+    "norm": 52.7
+  },
+  "bjp-councillor-r-sugathan-suffers-fresh-setback-as-kaapa-adv": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "aap|bjp|high court",
+    "norm": 50.9
+  },
+  "glasgow-8217-s-mistaken-identity-case-punjab-poll-battle-ram": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "mp|poll",
+    "norm": 50.5
+  },
+  "kerala-rains-wayanad-among-nine-districts-on-orange-alert": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "alert",
     "norm": 46.3
   },
-  "pmo-takes-stock-of-el-nino-impact-monitoring-level-038-prepa": {
-    "firstSeen": "2026-07-07T23:32:25.016Z",
+  "allegations-of-school-students-being-used-for-sir-voter-veri": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "vote",
+    "norm": 45.9
+  },
+  "sop-implemented-in-four-trekking-trails-in-kudremukh-wildlif": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "tamil-nadu-drew-lower-quantity-of-rice-than-its-share-under-": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "lakh",
+    "norm": 44
+  },
+  "wayanad-debris-slip-live-search-on-for-5-missing-amit-shah-p": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "amit shah",
+    "norm": 44
+  },
+  "no-reference-to-judicial-corruption-no-backlog-inside-ncert-": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "verdict",
+    "norm": 44
+  },
+  "ysr-was-a-legendary-leader-who-changed-crores-of-lives-says-": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "why-are-tamil-nadu-and-kerala-opposed-to-the-proposed-change": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "minister",
+    "norm": 44
+  },
+  "ground-report-inside-madhya-pradesh-s-paper-empire-of-teache": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
     "signature": "mp",
     "norm": 44
   },
-  "9-indian-ships-with-over-190-seafarers-still-near-hormuz": {
-    "firstSeen": "2026-07-07T23:32:25.016Z",
+  "patna-court-reserves-order-on-khan-sir-s-anticipatory-bail-p": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "ambulance-unavailable-woman-loses-quadruplets-after-deliveri": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
     "signature": "",
     "norm": 36
   },
-  "four-beneficiary-states-sign-pact-on-narmada-outstanding-due": {
-    "firstSeen": "2026-07-07T23:32:25.016Z",
+  "-canada-never-shared-evidence-ex-envoy-says-trudeau-s-nijjar": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "",
+    "norm": 36
+  },
+  "messi-pulls-off-another-miracle-comeback-to-bury-egypt": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "eu-court-rejects-apple-challenge-to-landmark-tech-rules": {
+    "firstSeen": "2026-07-08T09:31:22.162Z",
     "signature": "",
     "norm": 33.9
   }
