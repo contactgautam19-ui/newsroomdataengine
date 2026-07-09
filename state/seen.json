@@ -1,91 +1,111 @@
 {
-  "union-minister-ravneet-bittu-calls-diljit-dosanjh-impostor-a": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "actor|controversy|film|minister|mp|neet|row|singer",
-    "norm": 86
+  "iran-s-khamenei-buried-in-mashhad-four-months-after-us-israe": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "crowd|died|iran|israel|killed|killed|row|toll",
+    "norm": 91.3
   },
-  "patient-collapses-and-dies-after-waiting-in-queue-at-neyyatt": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "collapse|collapse|collapse|hospital|minister|mp",
-    "norm": 75.6
+  "syria-says-isis-was-behind-damascus-bombings-during-macron-s": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "blast|bomb|president|slam",
+    "norm": 71
   },
-  "-american-jobs-ought-to-go-to-american-workers-jd-vance-as-u": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "fraud|fund|jobs|president|tax",
-    "norm": 71.6
+  "messi-words-inspire-argentina-before-world-cup-clash": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "clash|clash|world cup",
+    "norm": 66
   },
-  "national-conference-protest-in-delhi-farooq-abdullah-demands": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "mp|opposition|protest|protest",
-    "norm": 65.3
+  "toddler-slips-in-waterlogged-lane-outside-home-in-ghaziabad-": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "drown|row",
+    "norm": 60.4
   },
-  "pm-modi-in-australia-updates-india-australia-seal-landmark-p": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "defence|modi|modi|mp",
-    "norm": 61.8
+  "mob-barges-in-on-gambling-raid-attacks-smc-team-rajkot-news": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "attack|attack",
+    "norm": 60.4
   },
-  "bandi-bhagirath-bail-order-telangana-hc-lays-down-conditions": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "high court|lakh|minister|mp",
-    "norm": 61.4
+  "delhi-10-rounds-fired-over-banquet-hall-lease-dispute-in-mad": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "fire|fire|injured",
+    "norm": 57.9
   },
-  "panel-to-be-formed-soon-to-examine-liquor-retail-models-in-o": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "exam|minister|mp",
-    "norm": 59.7
+  "india-australia-ink-defence-pacts-fast-track-trade-deal": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "deal|defence",
+    "norm": 53.2
   },
-  "3-former-tmc-mps-get-bjp-ticket-for-rajya-sabha-bypolls-post": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "bjp|congress|mp|poll|rajya sabha",
-    "norm": 52.6
+  "india-australia-seal-uranium-deal-to-enhance-defence-and-mar": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "deal|defence",
+    "norm": 53.2
   },
-  "bankipur-bypoll-voters-say-the-battle-will-be-between-bjp-an": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "bjp|mp|poll|vote",
-    "norm": 52.1
+  "mbappe-reaches-20-wc-goals-joins-messi-in-golden-boot-race": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "gold",
+    "norm": 49.4
   },
-  "india-questions-wto-s-interim-e-commerce-deal-says-it-sidest": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "deal",
+  "maharashtra-acb-registers-392-corruption-trap-cases-in-first": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "maharashtra",
+    "norm": 49.4
+  },
+  "think-tank-csds-likely-to-face-funding-cuts-from-centre": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "fund",
     "norm": 45.9
   },
-  "us-man-charged-after-cutting-off-private-part-setting-it-abl": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "blaze",
-    "norm": 42.7
+  "congress-leader-harish-rawat-misses-organisational-review-me": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "congress",
+    "norm": 44
   },
-  "telangana-woman-marries-man-from-different-caste-parents-dra": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
-    "signature": "wedding",
-    "norm": 42.4
-  },
-  "tihar-food-too-spicy-oily-deep-fried-us-mercenary-seeks-chic": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
+  "civil-supplies-corporation-managing-director-orders-probe-in": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
     "signature": "",
-    "norm": 36
+    "norm": 37.4
   },
-  "from-grocery-truck-to-fighter-jet-inside-ali-khamenei-s-fina": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
+  "operation-hard-ball-former-envoy-welcomes-probe-if-guilt-pro": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
     "signature": "",
-    "norm": 36
+    "norm": 37.4
   },
-  "man-sent-to-20-years-ri-for-raping-minor": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
+  "madhya-pradesh-to-launch-india-first-unified-digital-propert": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
     "signature": "",
-    "norm": 36
+    "norm": 37.4
   },
-  "2-000-new-karnataka-public-schools-in-state": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
+  "3-migrant-workers-from-bihar-die-in-hit-and-run-driver-held": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
     "signature": "",
-    "norm": 36
+    "norm": 37.4
   },
-  "cm-revanth-turns-chef-for-his-grandson": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
+  "angel-number-444-here-what-spiritual-experts-say-this-angel-": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "-who-can-stop-him-dmk-tks-elangovan-says-not-bothered-by-tvk": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
     "signature": "",
     "norm": 33.9
   },
-  "world-s-oldest-fortresses-that-have-stood-strong-for-thousan": {
-    "firstSeen": "2026-07-09T18:15:00.636Z",
+  "delhi-at-120-among-173-nations-in-global-liveability-index": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "rainfall-in-eastern-river-basins-down-20-since-1951-study-on": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "lift-nfsa-rice-in-advance-caf-": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "thoughts-on-mandatory-training-before-enrollment-": {
+    "firstSeen": "2026-07-09T23:48:14.870Z",
     "signature": "",
     "norm": 33.9
   }
