@@ -1,186 +1,106 @@
 {
-  "15-killed-in-philippines-landslides-as-typhoon-bavi-wreaks-h": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "evacuat|flood|flood|killed|killed|landslide|result|storm|tragic",
-    "norm": 87
+  "aap-asks-pm-to-rise-above-partisan-politics-over-attacks-on-": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "aap|attack|attack|minister|mp|prime minister",
+    "norm": 73
   },
-  "vijay-s-karur-contrition-memorial-for-stampede-victims-rs-1-": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "attack|attack|jobs|mourning|mp|stampede",
-    "norm": 85
-  },
-  "cheque-bounce-cases-delhi-hc-upholds-rajpal-yadav-s-convicti": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "crore|mp|sharma|war",
-    "norm": 72.3
-  },
-  "kanimozhi-targets-cm-vijay-over-karur-visit-dmk-vs-tvk-war-a": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "mp|stampede|tragedy|war",
+  "suspected-chinese-state-linked-hackers-spying-on-all-weather": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "pakistan|slam|threat|weather",
     "norm": 71
   },
-  "monsoon-tracker-live-monsoon-fury-batters-several-states-ove": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "dead|dead|fury|fury|heavy rain",
-    "norm": 70.5
+  "noida-rain-tragedy-28-year-old-aryan-dies-after-falling-into": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "died|heavy rain|tragedy|tragic",
+    "norm": 67.1
   },
-  "up-cm-s-forbidden-love-20-years-her-senior-a-romance-that-ev": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "chief minister|controversy|minister|rbi",
-    "norm": 69.6
+  "monsoon-tracker-highlights-highways-blocked-after-landslides": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "evacuat|flood|flood|floods|injured|landslide",
+    "norm": 62.6
   },
-  "-i-ll-do-everything-in-my-power-to-salah-reacts-to-egypt-s-w": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "captain|emotional|fan|world cup",
-    "norm": 68
+  "mamata-banerjee-led-tmc-moves-calcutta-hc-seeking-permission": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "high court|mamata|rally|rally",
+    "norm": 58.6
   },
-  "cjp-protest-day-21-wangchuk-says-hunger-has-stabilised-warns": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "mp|protest|protest|war",
-    "norm": 67.9
+  "ncert-blacklists-firm-skips-court-date-to-defend-decision-pr": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "exam|war",
+    "norm": 57.6
   },
-  "lego-trump-funeral-iranians-target-us-president-at-khamenei-": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "iran|mp|president|trump|trump",
-    "norm": 67
+  "punjab-congress-rift-eases-channi-camp-agrees-to-meet-bhupes": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "chief minister|congress|minister|mp",
+    "norm": 53.9
   },
-  "vijay-s-karur-visit-updates-t-n-chief-minister-announces-mem": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "chief minister|minister|mp|president|stampede",
-    "norm": 64.6
+  "headmistress-suspended-for-screening-chief-minister-s-functi": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "chief minister|minister|mp",
+    "norm": 52.7
   },
-  "pm-modi-sends-wedding-wishes-to-anshula-kapoor-and-rohan-tha": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "modi|modi|wedding",
-    "norm": 62.5
+  "as-kashmir-varsities-cull-objectionable-books-fear-of-losing": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "fear|row",
+    "norm": 52.1
   },
-  "business-owners-protest-move-to-close-kalhatty-ghat-road-to-": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "high court|protest|protest",
-    "norm": 61.1
+  "headmaster-suspended-after-vijay-s-karur-speech-streamed-liv": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
   },
-  "mirwaiz-umar-farooq-breaks-silence-jantar-mantar-protest-cal": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "controversy|protest|protest",
-    "norm": 59.6
-  },
-  "nia-files-chargesheet-against-six-separatist-leaders-in-1996": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "mp|riot",
-    "norm": 57.1
-  },
-  "totapuri-mango-growers-to-get-subsidy-transparently-no-favou": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "price|row",
-    "norm": 55.4
-  },
-  "ngt-directs-authorities-to-keep-sealed-resort-buildings-shut": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "exam|high court",
-    "norm": 55.4
-  },
-  "maha-bjp-leader-admits-our-own-government-s-delay-in-conferr": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "bjp|war",
-    "norm": 55.4
-  },
-  "there-is-merit-in-kavitha-s-claims-on-brs-s-source-of-funds-": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "congress|fund",
-    "norm": 55
-  },
-  "passenger-nearly-pulled-out-of-ryanair-plane-after-cabin-win": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "mp|rbi",
-    "norm": 53.2
-  },
-  "cpi-m-thiruvananthapuram-district-leaders-reject-reports-of-": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "is-there-any-bar-on-allowing-outsiders-in-cabinet-meetings-e": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "bjp|cabinet",
+  "catholic-body-meets-amit-shah-flags-concerns-over-fcra-bill": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "amit shah|bill",
     "norm": 48.7
   },
-  "-son-caring-for-parents-can-t-high-court-rejects-mp-woman-s-": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "high court|mp",
-    "norm": 48.7
-  },
-  "k-r-puram-triple-murder-police-seek-brain-mapping-test-for-a": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "ipl",
+  "bengaluru-witnessed-sale-of-27-968-homes-in-h1-2026-a-5-year": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "mathematician-abraham-de-moivre-predicted-his-death-through-": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "death",
-    "norm": 46.3
+  "cm-yogi-adityanath-distributes-appointment-letters-for-angan": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
+    "signature": "yogi",
+    "norm": 44
   },
-  "google-moves-delhi-hc-in-appeal-in-case-over-use-of-trademar": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "lakh",
-    "norm": 45.9
-  },
-  "owaisi-demands-permanent-residence-certificate-to-help-telan": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "bengaluru-man-arrested-for-attempting-to-kill-pregnant-wife-": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "tvk-government-changes-the-name-of-free-bus-travel-scheme-fo": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
+  "refugee-camps-to-ceo-avinash-kaul-chronicles-his-journey-in-": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
     "signature": "mp",
     "norm": 44
   },
-  "e20-fuel-may-lead-to-3-5-mileage-hit-in-some-vehicles-govt-a": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "fuel",
-    "norm": 44
-  },
-  "why-satluj-stopped-being-just-a-film": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
-    "signature": "film",
-    "norm": 42.4
-  },
-  "allahabad-hc-issues-notice-on-plea-seeking-curbs-on-minors-a": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
+  "lokayukta-s-p-shivaprakash-devaraju-repatriated-to-state-gov": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
     "signature": "",
     "norm": 36
   },
-  "railway-board-approves-4-new-trains-extends-one-service-chec": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
+  "79-891-seats-allotted-in-eapcet-2026-first-phase": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
     "signature": "",
     "norm": 36
   },
-  "why-is-chhattisgarh-government-asking-farmers-to-adopt-dsr-m": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
+  "one-million-women-lose-access-to-vital-support-amid-aid-cuts": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
     "signature": "",
     "norm": 36
   },
-  "govt-amends-rules-to-strengthen-regulation-of-drug-formulati": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
+  "hetero-pharma-to-recruit-over-300-intermediate-candidates": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
     "signature": "",
     "norm": 36
   },
-  "-critical-3rd-parties-uk-puts-microsoft-google-amazon-oracle": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
+  "malayalam-gets-a-cosy-space-in-australian-public-library": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
     "signature": "",
     "norm": 33.9
   },
-  "kerala-8217-s-birth-rate-has-reached-an-all-time-low-7-takea": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
+  "btc-members-express-concern-over-conditions-for-relocation": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
     "signature": "",
     "norm": 33.9
   },
-  "1996-srinagar-mob-violence-nia-files-chargesheet-against-sha": {
-    "firstSeen": "2026-07-10T11:26:46.080Z",
+  "indian-railways-reservation-rules-every-traveller-should-kno": {
+    "firstSeen": "2026-07-10T18:09:31.139Z",
     "signature": "",
     "norm": 33.9
   }
