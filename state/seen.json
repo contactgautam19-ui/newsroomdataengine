@@ -1,106 +1,26 @@
 {
-  "aap-asks-pm-to-rise-above-partisan-politics-over-attacks-on-": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "aap|attack|attack|minister|mp|prime minister",
-    "norm": 73
+  "trump-says-us-agreed-to-iran-s-request-to-continue-talks-but": {
+    "firstSeen": "2026-07-10T22:38:26.777Z",
+    "signature": "fire|fire|iran|mp|trump|trump",
+    "norm": 81.6
   },
-  "suspected-chinese-state-linked-hackers-spying-on-all-weather": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "pakistan|slam|threat|weather",
-    "norm": 71
+  "aap-to-launch-signature-campaign-for-action-in-ram-temple-do": {
+    "firstSeen": "2026-07-10T22:38:26.777Z",
+    "signature": "aap|minister|modi|modi|mp|prime minister|row",
+    "norm": 73.5
   },
-  "noida-rain-tragedy-28-year-old-aryan-dies-after-falling-into": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "died|heavy rain|tragedy|tragic",
-    "norm": 67.1
+  "-one-nation-one-election-mechanism-may-be-ready-for-rollout-": {
+    "firstSeen": "2026-07-10T22:38:26.777Z",
+    "signature": "election|election",
+    "norm": 55.4
   },
-  "monsoon-tracker-highlights-highways-blocked-after-landslides": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "evacuat|flood|flood|floods|injured|landslide",
-    "norm": 62.6
-  },
-  "mamata-banerjee-led-tmc-moves-calcutta-hc-seeking-permission": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "high court|mamata|rally|rally",
-    "norm": 58.6
-  },
-  "ncert-blacklists-firm-skips-court-date-to-defend-decision-pr": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "exam|war",
-    "norm": 57.6
-  },
-  "punjab-congress-rift-eases-channi-camp-agrees-to-meet-bhupes": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "chief minister|congress|minister|mp",
-    "norm": 53.9
-  },
-  "headmistress-suspended-for-screening-chief-minister-s-functi": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "chief minister|minister|mp",
-    "norm": 52.7
-  },
-  "as-kashmir-varsities-cull-objectionable-books-fear-of-losing": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "fear|row",
-    "norm": 52.1
-  },
-  "headmaster-suspended-after-vijay-s-karur-speech-streamed-liv": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "catholic-body-meets-amit-shah-flags-concerns-over-fcra-bill": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "amit shah|bill",
-    "norm": 48.7
-  },
-  "bengaluru-witnessed-sale-of-27-968-homes-in-h1-2026-a-5-year": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "cm-yogi-adityanath-distributes-appointment-letters-for-angan": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "yogi",
-    "norm": 44
-  },
-  "refugee-camps-to-ceo-avinash-kaul-chronicles-his-journey-in-": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "lokayukta-s-p-shivaprakash-devaraju-repatriated-to-state-gov": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "",
-    "norm": 36
-  },
-  "79-891-seats-allotted-in-eapcet-2026-first-phase": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "",
-    "norm": 36
-  },
-  "one-million-women-lose-access-to-vital-support-amid-aid-cuts": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "",
-    "norm": 36
-  },
-  "hetero-pharma-to-recruit-over-300-intermediate-candidates": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "",
-    "norm": 36
-  },
-  "malayalam-gets-a-cosy-space-in-australian-public-library": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
+  "centre-weighs-meta-reply-on-wa-usernames-rollout-remains-on-": {
+    "firstSeen": "2026-07-10T22:38:26.777Z",
     "signature": "",
     "norm": 33.9
   },
-  "btc-members-express-concern-over-conditions-for-relocation": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "indian-railways-reservation-rules-every-traveller-should-kno": {
-    "firstSeen": "2026-07-10T18:09:31.139Z",
+  "can-t-block-calls-from-1600-no-series-but-can-put-140-series": {
+    "firstSeen": "2026-07-10T22:38:26.777Z",
     "signature": "",
     "norm": 33.9
   }
