@@ -1,111 +1,186 @@
 {
-  "iran-s-khamenei-buried-in-mashhad-four-months-after-us-israe": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "crowd|died|iran|israel|killed|killed|row|toll",
-    "norm": 91.3
+  "15-killed-in-philippines-landslides-as-typhoon-bavi-wreaks-h": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "evacuat|flood|flood|killed|killed|landslide|result|storm|tragic",
+    "norm": 87
   },
-  "syria-says-isis-was-behind-damascus-bombings-during-macron-s": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "blast|bomb|president|slam",
+  "vijay-s-karur-contrition-memorial-for-stampede-victims-rs-1-": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "attack|attack|jobs|mourning|mp|stampede",
+    "norm": 85
+  },
+  "cheque-bounce-cases-delhi-hc-upholds-rajpal-yadav-s-convicti": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "crore|mp|sharma|war",
+    "norm": 72.3
+  },
+  "kanimozhi-targets-cm-vijay-over-karur-visit-dmk-vs-tvk-war-a": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "mp|stampede|tragedy|war",
     "norm": 71
   },
-  "messi-words-inspire-argentina-before-world-cup-clash": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "clash|clash|world cup",
-    "norm": 66
+  "monsoon-tracker-live-monsoon-fury-batters-several-states-ove": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "dead|dead|fury|fury|heavy rain",
+    "norm": 70.5
   },
-  "toddler-slips-in-waterlogged-lane-outside-home-in-ghaziabad-": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "drown|row",
-    "norm": 60.4
+  "up-cm-s-forbidden-love-20-years-her-senior-a-romance-that-ev": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "chief minister|controversy|minister|rbi",
+    "norm": 69.6
   },
-  "mob-barges-in-on-gambling-raid-attacks-smc-team-rajkot-news": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "attack|attack",
-    "norm": 60.4
+  "-i-ll-do-everything-in-my-power-to-salah-reacts-to-egypt-s-w": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "captain|emotional|fan|world cup",
+    "norm": 68
   },
-  "delhi-10-rounds-fired-over-banquet-hall-lease-dispute-in-mad": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "fire|fire|injured",
-    "norm": 57.9
+  "cjp-protest-day-21-wangchuk-says-hunger-has-stabilised-warns": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "mp|protest|protest|war",
+    "norm": 67.9
   },
-  "india-australia-ink-defence-pacts-fast-track-trade-deal": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "deal|defence",
+  "lego-trump-funeral-iranians-target-us-president-at-khamenei-": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "iran|mp|president|trump|trump",
+    "norm": 67
+  },
+  "vijay-s-karur-visit-updates-t-n-chief-minister-announces-mem": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "chief minister|minister|mp|president|stampede",
+    "norm": 64.6
+  },
+  "pm-modi-sends-wedding-wishes-to-anshula-kapoor-and-rohan-tha": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "modi|modi|wedding",
+    "norm": 62.5
+  },
+  "business-owners-protest-move-to-close-kalhatty-ghat-road-to-": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "high court|protest|protest",
+    "norm": 61.1
+  },
+  "mirwaiz-umar-farooq-breaks-silence-jantar-mantar-protest-cal": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "controversy|protest|protest",
+    "norm": 59.6
+  },
+  "nia-files-chargesheet-against-six-separatist-leaders-in-1996": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "mp|riot",
+    "norm": 57.1
+  },
+  "totapuri-mango-growers-to-get-subsidy-transparently-no-favou": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "price|row",
+    "norm": 55.4
+  },
+  "ngt-directs-authorities-to-keep-sealed-resort-buildings-shut": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "exam|high court",
+    "norm": 55.4
+  },
+  "maha-bjp-leader-admits-our-own-government-s-delay-in-conferr": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "bjp|war",
+    "norm": 55.4
+  },
+  "there-is-merit-in-kavitha-s-claims-on-brs-s-source-of-funds-": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "congress|fund",
+    "norm": 55
+  },
+  "passenger-nearly-pulled-out-of-ryanair-plane-after-cabin-win": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "mp|rbi",
     "norm": 53.2
   },
-  "india-australia-seal-uranium-deal-to-enhance-defence-and-mar": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "deal|defence",
-    "norm": 53.2
+  "cpi-m-thiruvananthapuram-district-leaders-reject-reports-of-": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "mbappe-reaches-20-wc-goals-joins-messi-in-golden-boot-race": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "gold",
-    "norm": 49.4
+  "is-there-any-bar-on-allowing-outsiders-in-cabinet-meetings-e": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "bjp|cabinet",
+    "norm": 48.7
   },
-  "maharashtra-acb-registers-392-corruption-trap-cases-in-first": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "maharashtra",
-    "norm": 49.4
+  "-son-caring-for-parents-can-t-high-court-rejects-mp-woman-s-": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "high court|mp",
+    "norm": 48.7
   },
-  "think-tank-csds-likely-to-face-funding-cuts-from-centre": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "fund",
+  "k-r-puram-triple-murder-police-seek-brain-mapping-test-for-a": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "ipl",
+    "norm": 46.3
+  },
+  "mathematician-abraham-de-moivre-predicted-his-death-through-": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "death",
+    "norm": 46.3
+  },
+  "google-moves-delhi-hc-in-appeal-in-case-over-use-of-trademar": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "lakh",
     "norm": 45.9
   },
-  "congress-leader-harish-rawat-misses-organisational-review-me": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "congress",
+  "owaisi-demands-permanent-residence-certificate-to-help-telan": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "bengaluru-man-arrested-for-attempting-to-kill-pregnant-wife-": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "tvk-government-changes-the-name-of-free-bus-travel-scheme-fo": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "mp",
     "norm": 44
   },
-  "civil-supplies-corporation-managing-director-orders-probe-in": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "",
-    "norm": 37.4
+  "e20-fuel-may-lead-to-3-5-mileage-hit-in-some-vehicles-govt-a": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "fuel",
+    "norm": 44
   },
-  "operation-hard-ball-former-envoy-welcomes-probe-if-guilt-pro": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "",
-    "norm": 37.4
+  "why-satluj-stopped-being-just-a-film": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
+    "signature": "film",
+    "norm": 42.4
   },
-  "madhya-pradesh-to-launch-india-first-unified-digital-propert": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
+  "allahabad-hc-issues-notice-on-plea-seeking-curbs-on-minors-a": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
     "signature": "",
-    "norm": 37.4
+    "norm": 36
   },
-  "3-migrant-workers-from-bihar-die-in-hit-and-run-driver-held": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
+  "railway-board-approves-4-new-trains-extends-one-service-chec": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
     "signature": "",
-    "norm": 37.4
+    "norm": 36
   },
-  "angel-number-444-here-what-spiritual-experts-say-this-angel-": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
+  "why-is-chhattisgarh-government-asking-farmers-to-adopt-dsr-m": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
     "signature": "",
-    "norm": 37.4
+    "norm": 36
   },
-  "-who-can-stop-him-dmk-tks-elangovan-says-not-bothered-by-tvk": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
+  "govt-amends-rules-to-strengthen-regulation-of-drug-formulati": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "delhi-at-120-among-173-nations-in-global-liveability-index": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "rainfall-in-eastern-river-basins-down-20-since-1951-study-on": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
+  "-critical-3rd-parties-uk-puts-microsoft-google-amazon-oracle": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
     "signature": "",
     "norm": 33.9
   },
-  "lift-nfsa-rice-in-advance-caf-": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
+  "kerala-8217-s-birth-rate-has-reached-an-all-time-low-7-takea": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
     "signature": "",
     "norm": 33.9
   },
-  "thoughts-on-mandatory-training-before-enrollment-": {
-    "firstSeen": "2026-07-09T23:48:14.870Z",
+  "1996-srinagar-mob-violence-nia-files-chargesheet-against-sha": {
+    "firstSeen": "2026-07-10T11:26:46.080Z",
     "signature": "",
     "norm": 33.9
   }
