@@ -1,176 +1,121 @@
 {
-  "vijay-announces-memorial-for-karur-stampede-victims-faults-p": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "alert|crowd|election|election|mp|row|stampede|tragedy",
-    "norm": 93.9
+  "four-killed-one-injured-after-car-crashes-into-tree-in-kannu": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "crash|crash|injured|killed|killed",
+    "norm": 75.1
   },
-  "pwd-employee-killed-as-temple-dome-collapses-during-road-wid": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "collapse|collapse|collapse|killed|killed|mp",
-    "norm": 82.9
+  "at-least-15-indian-tourists-dead-after-boat-capsizes-near-is": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "dead|dead|rescue|rescue",
+    "norm": 70
   },
-  "-some-rallies-never-end-tendulkar-s-heartfelt-message-to-fed": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "cricket|tendulkar|viral|viral|viral|war",
-    "norm": 79.8
+  "15-indian-tourists-killed-after-boat-capsizes-near-vietnam-s": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "killed|killed|rescue|rescue",
+    "norm": 70
   },
-  "congress-venugopal-questions-pm-modi-s-silence-on-ayodhya-em": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "ayodhya|bjp|congress|fraud|modi|modi|mp",
-    "norm": 77.9
+  "-my-vehicle-has-never-faced-any-issue-bjp-mp-defends-e20-adm": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "bjp|mp|petrol|petrol",
+    "norm": 69.6
   },
-  "jharkhand-assembly-election-dented-in-haryana-denied-in-maha": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "bjp|election|election|khan|maharashtra|opposition|verdict",
-    "norm": 76.2
+  "-want-to-light-a-fire-here-omar-attacks-centre-on-delay-in-r": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "attack|attack|fire|fire",
+    "norm": 68.4
   },
-  "stones-hurled-highway-blocked-for-12-hours-violent-protests-": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "bjp|mla|poll|protest|protest|war",
-    "norm": 73.9
+  "man-held-for-fake-government-hospital-recruitment-scam-in-ch": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "hospital|recruitment|scam",
+    "norm": 68
   },
-  "k-c-venugopal-seeks-sc-monitored-probe-into-ayodhya-ram-temp": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "ayodhya|bjp|congress|mp|scam",
-    "norm": 73.6
-  },
-  "four-of-family-found-dead-at-house-in-bengaluru-s-kottigepal": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "attack|attack|dead|dead|death",
-    "norm": 70.5
-  },
-  "from-seoul-with-warmth-pm-modi-thanks-south-korea-s-lee-for-": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "modi|modi|war",
-    "norm": 67.6
-  },
-  "cag-flags-deficiencies-in-maharashtra-s-ladki-bahin-scheme-q": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "crore|maharashtra|mp",
-    "norm": 65.6
-  },
-  "pm-modi-in-new-zealand-live-india-new-zealand-elevate-ties-t": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "china|minister|modi|modi|prime minister",
-    "norm": 64.6
-  },
-  "pm-modi-must-take-responsibility-for-alleged-misappropriatio": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "amit shah|minister|modi|modi|mp",
-    "norm": 64.6
-  },
-  "cm-yogi-claims-samajwadi-party-congress-allowed-namaz-at-ayo": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "ayodhya|bjp|chief minister|congress|minister|yogi",
-    "norm": 63.4
-  },
-  "new-zealand-pm-recalls-seeing-indians-paid-in-coins-during-9": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "defence|minister|modi|modi|mp|prime minister",
-    "norm": 63.4
-  },
-  "ayodhya-verdict-temple-at-disputed-site-alternative-land-for": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "ayodhya|mp|supreme court|verdict",
-    "norm": 61.8
-  },
-  "ins-mahendragiri-commissioned-defence-minister-says-future-w": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "defence|minister|war",
-    "norm": 61.4
-  },
-  "latur-shocker-three-minors-tied-to-pole-thrashed-over-allege": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "shock|shock|shocker|video",
-    "norm": 61.1
+  "many-of-the-dead-in-vietnam-boat-tragedy-worked-with-lava-mo": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "dead|dead|tragedy",
+    "norm": 64.5
   },
   "monsoon-tracker-live-cloudy-skies-to-persist-in-delhi-highwa": {
     "firstSeen": "2026-07-11T07:19:15.457Z",
     "signature": "heavy rain|landslide|mp",
-    "norm": 60.8
+    "norm": 62.5
   },
-  "ayodhya-verdict-a-victory-of-faith-over-facts-says-asaduddin": {
+  "karnataka-minister-eshwar-khandre-defends-hmt-land-action-sa": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "khan|minister|war",
+    "norm": 62.5
+  },
+  "ins-mahendragiri-commissioned-defence-minister-says-future-w": {
     "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "ayodhya|mp|verdict",
+    "signature": "defence|minister|war",
     "norm": 59.7
   },
-  "bengal-govt-forms-9-member-panel-to-examine-draft-ucc-bill-l": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "bill|exam|supreme court",
-    "norm": 59.7
+  "lion-kills-11-year-old-boy-on-girnar-hill-in-gujarat": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "attack|attack",
+    "norm": 59.3
   },
-  "girl-7-found-dead-at-ghaziabad-s-under-construction-mall-pol": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "dead|dead",
-    "norm": 57.6
+  "pm-modi-in-new-zealand-live-pm-leaves-for-india-after-conclu": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "modi|modi",
+    "norm": 57.1
   },
-  "economic-survey-2019-20-no-evidence-of-wrong-estimation-of-g": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "gdp|row",
+  "andhra-pradesh-minister-nara-lokesh-reviews-vietnam-boat-acc": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "accident|minister",
     "norm": 55.4
   },
-  "indian-navy-bolsters-fleet-with-stealth-frigate-ins-mahendra": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "navy|threat",
-    "norm": 55.4
+  "panchayat-polls-in-karnataka-likely-in-october-or-november-s": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "minister|mp|poll",
+    "norm": 50.9
   },
-  "the-new-cold-war-america-invents-china-deploys": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "china|war",
-    "norm": 55.4
+  "odisha-cm-orders-criminal-investigation-into-errors-in-schoo": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
   },
-  "swiggy-instamart-gets-food-regulator-s-notice-for-selling-ex": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "fan|mp",
-    "norm": 51.7
-  },
-  "tamil-nadu-s-biryani-binge-keeps-cash-registers-ringing": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "crore|record",
-    "norm": 50.2
-  },
-  "pawan-kalyan-undergoes-shoulder-surgery-in-mumbai": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "injured",
-    "norm": 48.2
-  },
-  "decision-pending-on-direct-purchase-of-land-in-ayyankuzhi-fo": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "acquisition",
+  "tvk-govt-keen-on-getting-elected-mlas-to-quit-not-focused-on": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "mla",
     "norm": 45.9
   },
-  "on-a-bird-quest-doctors-in-chennai-turn-avid-bird-photograph": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "khan",
-    "norm": 44.3
+  "state-won-t-oppose-kamduni-rape-murder-victim-s-kin-in-supre": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "supreme court",
+    "norm": 45.9
   },
-  "14-invasive-plants-behind-grassland-loss-in-one-of-india-s-f": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "",
-    "norm": 36
+  "-rotten-eggs-expired-mixture-fssai-issues-9-notices-to-swigg": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "wayanad-debris-slip-search-intensified-for-lone-missing-proj": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "",
-    "norm": 36
+  "kushare-scripts-history-on-diamond-league-debut-becomes-firs": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "standard-kavach-commissioned-on-solapur-wadi-section-of-cent": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "",
-    "norm": 36
+  "film-crew-member-held-with-suspected-mdma-in-kochi": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "film",
+    "norm": 42.4
   },
-  "celebrities-keep-telling-us-to-embrace-ai-and-it-s-making-me": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
-    "signature": "",
-    "norm": 36
+  "sub-inspectors-to-be-back-as-shos-in-414-police-stations-in-": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "u-p-govt-changes-state-university-name-partially-": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
+  "aero-india-2027-to-be-held-in-bengaluru-from-february-8-12": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
     "signature": "",
     "norm": 33.9
   },
-  "sunlight-on-demand-us-approves-plans-to-build-60-foot-mirror": {
-    "firstSeen": "2026-07-11T07:19:15.457Z",
+  "karnataka-cm-inaugurates-syed-mohammad-gesu-daraz-research-a": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "aiadmk-to-launch-online-membership-enrollment-drive-soon": {
+    "firstSeen": "2026-07-11T11:34:00.473Z",
     "signature": "",
     "norm": 33.9
   }
