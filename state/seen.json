@@ -1,47 +1,302 @@
 {
+  "vietnam-tragedy-15-indian-tourists-killed-as-boat-capsizes-n": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "deal|died|injured|killed|killed|mp|rescue|rescue|tragedy",
+    "norm": 90.8
+  },
+  "political-showdown-samajwadi-party-s-sanatana-strategy-spark": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "bjp|controversy|election|election|fire|fire|fuel|mp",
+    "norm": 82.5
+  },
   "8-dead-14-rescued-1-missing-in-moshi-waste-plant-building-co": {
     "firstSeen": "2026-07-11T19:56:11.601Z",
     "signature": "army|building collapse|collapse|collapse|collapse|dead|dead|disaster|rescue|rescue",
-    "norm": 87.9
+    "norm": 79.7
+  },
+  "ambala-police-station-blast-case-pak-terrorist-shehzad-among": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "attack|attack|blast|bomb|gst|pakistan|terror|terror",
+    "norm": 78.8
+  },
+  "trump-threatens-iran-with-1000-missiles-as-both-sides-shoot-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "iran|mp|row|threat|trump|trump",
+    "norm": 71.2
+  },
+  "trump-trades-threats-with-iran-s-leader-araghchi-holds-talks": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "iran|mp|threat|trump|trump",
+    "norm": 69.8
+  },
+  "3-un-special-rapporteurs-flag-opaque-sir-process-ec-dismisse": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "election|election|election commission|poll|vote|war",
+    "norm": 67.8
+  },
+  "pune-building-collapse-death-count-rises-to-8-one-still-miss": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "building collapse|collapse|collapse|collapse|death|rescue|rescue",
+    "norm": 66.4
+  },
+  "pm-modi-flags-fcra-nod-for-golden-temple-to-woo-sikh-diaspor": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "gold|minister|modi|modi|mp|prime minister",
+    "norm": 65.6
+  },
+  "iran-officials-admit-to-mistake-after-attacks-on-ships-in-ho": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "attack|attack|derail|iran",
+    "norm": 64.1
+  },
+  "vietnam-boat-capsize-two-people-from-andhra-killed-3-others-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "accident|hospital|killed|killed|rescue|rescue",
+    "norm": 63.2
+  },
+  "india-new-zealand-upgrade-their-made-for-each-other-ties": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "crore|modi|modi",
+    "norm": 61.4
+  },
+  "families-of-vanniyar-reservation-martyrs-also-deserve-state-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "chief minister|jobs|minister|mp|stampede",
+    "norm": 61
+  },
+  "vck-turns-its-focus-to-tamil-nationalism-post-election": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "election|election|mp|rally|rally",
+    "norm": 58.2
+  },
+  "some-jumped-out-i-saw-him-get-stuck-friend-of-man-killed-in-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "killed|killed|mp|tragedy",
+    "norm": 58.2
+  },
+  "top-5-richest-wnba-players-in-2026-caitlin-clark-angel-reese": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "row|star|war",
+    "norm": 56.8
+  },
+  "2-arrested-after-houses-set-on-fire-in-manipur-security-forc": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "clash|clash|fire|fire",
+    "norm": 56.7
+  },
+  "15-indian-tourists-killed-as-boat-overturns-in-vietnam": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "killed|killed|rescue|rescue",
+    "norm": 55.3
   },
   "narottam-mishra-summoned-to-bhopal-day-after-protests-rock-d": {
     "firstSeen": "2026-07-11T19:56:11.601Z",
     "signature": "clash|clash|protest|protest",
-    "norm": 62.5
+    "norm": 55.2
+  },
+  "vietnam-boat-capsize-holiday-updates-for-kin-back-home-turn-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "death|tragedy",
+    "norm": 53.9
+  },
+  "vietnam-boat-tragedy-updates-boat-had-barely-begun-moving-ti": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "killed|killed|tragedy",
+    "norm": 53.4
+  },
+  "-i-have-something-unique-to-offer-indian-origin-us-democrat-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "israel|khan|president",
+    "norm": 53
+  },
+  "new-zealand-s-space-sector-played-key-role-in-chandrayaan-3-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 52.3
+  },
+  "-compromised-leaders-congress-sees-infighting-over-replacing": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "congress|mp|president|war",
+    "norm": 52.3
+  },
+  "the-big-e20-fuel-debate-india-s-energy-security-solution-or-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "fuel|mp|war",
+    "norm": 50.5
+  },
+  "woman-filed-petition-for-cheaper-cancer-drug-she-died-waitin": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "died|price|verdict",
+    "norm": 50.5
+  },
+  "world-cup-leaves-kerala-fans-sleep-deprived": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "fan|world cup",
+    "norm": 48
   },
   "no-expiry-date-on-anti-terror-fight-how-sia-kashmir-revived-": {
     "firstSeen": "2026-07-11T19:56:11.601Z",
     "signature": "terror|terror",
-    "norm": 57.6
+    "norm": 47.7
   },
-  "pm-modi-his-new-zealand-counterpart-luxon-announce-annual-ma": {
-    "firstSeen": "2026-07-11T19:56:11.601Z",
-    "signature": "modi|modi",
-    "norm": 57.1
+  "7-year-old-gang-raped-in-ghaziabad-body-found-in-mall-s-base": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "killed|killed",
+    "norm": 47.7
   },
-  "pm-modi-in-new-zealand-updates-india-new-zealand-elevate-tie": {
-    "firstSeen": "2026-07-11T19:56:11.601Z",
-    "signature": "modi|modi",
-    "norm": 55.4
+  "5-killed-inside-well-due-to-toxic-fumes-from-generator-in-sh": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "killed|killed",
+    "norm": 47.7
   },
-  "s-janaki-not-kerala-born-but-forever-its-voice": {
-    "firstSeen": "2026-07-11T19:56:11.601Z",
-    "signature": "emotional|singer",
-    "norm": 53.9
+  "v-d-satheesan-condoles-s-janaki-s-demise-says-she-was-the-vo": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "chief minister|film|minister",
+    "norm": 46.2
+  },
+  "trinamool-rebel-camp-forms-state-and-district-committees": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "mamata|mp",
+    "norm": 45.9
   },
   "s-janaki-s-fresh-voice-improvisation-made-kerala-groove-to-h": {
     "firstSeen": "2026-07-11T19:56:11.601Z",
     "signature": "film|mp",
-    "norm": 53.5
+    "norm": 45.7
+  },
+  "hyderabad-horror-pocso-accused-kills-6-including-16-yr-old-g": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "horror|mp",
+    "norm": 45.4
+  },
+  "pm-modi-in-new-zealand-updates-india-new-zealand-elevate-tie": {
+    "firstSeen": "2026-07-11T19:56:11.601Z",
+    "signature": "modi|modi",
+    "norm": 45.4
+  },
+  "more-than-1-7-million-evacuated-as-typhoon-bavi-makes-landfa": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "china|evacuat",
+    "norm": 45.4
+  },
+  "boat-travelled-barely-300-metres-before-toppling-indian-witn": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "sudden|suddenly|tragedy",
+    "norm": 45.4
+  },
+  "s-janaki-not-kerala-born-but-forever-its-voice": {
+    "firstSeen": "2026-07-11T19:56:11.601Z",
+    "signature": "emotional|singer",
+    "norm": 43.8
+  },
+  "when-bollywood-jived-to-s-janaki-s-infectious-voice": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "bollywood|bollywood",
+    "norm": 43.8
+  },
+  "us-lawmaker-ro-khanna-detained-by-israeli-settlers-during-we": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "israel|khan",
+    "norm": 43.8
+  },
+  "statehood-or-article-370-why-nc-s-invitation-to-mirwaiz-umar": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "betray|mp",
+    "norm": 43.5
+  },
+  "bihar-government-launches-doorstep-land-and-property-registr": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "chief minister|minister",
+    "norm": 42.5
+  },
+  "committee-suggests-10-crore-project-to-end-undulations-on-s-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "crore|fund",
+    "norm": 42.5
+  },
+  "speedy-completion-of-uapa-trials-a-challenge-says-cji-suryak": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "cji|mp",
+    "norm": 42.5
   },
   "kerala-remembers-the-divine-voice-of-s-janaki": {
     "firstSeen": "2026-07-11T19:56:11.601Z",
     "signature": "mp|singer",
-    "norm": 51.7
+    "norm": 41.4
+  },
+  "j-amp-k-kashmiri-pandit-s-eatery-sparks-ghar-wapsi-calls": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "mp",
+    "norm": 41
+  },
+  "india-s-1-601-day-reign-as-world-no-1-ends-after-england-com": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "mp|record",
+    "norm": 39.7
+  },
+  "mamata-banerjee-s-loyalist-anubrata-mandal-joins-ritabrata-l": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "mamata|president",
+    "norm": 38
+  },
+  "researchers-discover-three-new-species-of-rare-jumping-spide": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "a-lullaby-falls-silent-kannada-cinema-bids-farewell-to-s-jan": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "film",
+    "norm": 35.8
+  },
+  "16-year-old-electrocuted-in-karnataka-parents-file-case-agai": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "died",
+    "norm": 35.5
+  },
+  "5-essential-smartwatch-settings-you-need-to-turn-on-for-ever": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "watch",
+    "norm": 34.1
+  },
+  "claim-hindu-law-is-based-on-manusmriti-wrong-says-sg-tushar-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "india-new-zealand-launch-roadmap-to-2030-boosting-defence-ti": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "defence",
+    "norm": 32.8
+  },
+  "two-more-nabbed-in-perumbavoor-hybrid-ganja-case": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "",
+    "norm": 26.7
   },
   "ai-to-help-check-genuineness-of-farm-data-in-a-p-": {
     "firstSeen": "2026-07-11T19:56:11.601Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
+  },
+  "the-nightingale-who-stole-kerala-s-heart": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "another-headmistress-in-karur-suspended-for-screening-vijay-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "man-arrested-for-raping-12-year-old-neighbour-in-assam-s-siv": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "bengaluru-woman-says-delivery-agent-barged-into-home-to-use-": {
+    "firstSeen": "2026-07-11T22:33:16.864Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
