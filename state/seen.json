@@ -1,26 +1,176 @@
 {
-  "trump-says-us-agreed-to-iran-s-request-to-continue-talks-but": {
-    "firstSeen": "2026-07-10T22:38:26.777Z",
-    "signature": "fire|fire|iran|mp|trump|trump",
-    "norm": 81.6
+  "vijay-announces-memorial-for-karur-stampede-victims-faults-p": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "alert|crowd|election|election|mp|row|stampede|tragedy",
+    "norm": 93.9
   },
-  "aap-to-launch-signature-campaign-for-action-in-ram-temple-do": {
-    "firstSeen": "2026-07-10T22:38:26.777Z",
-    "signature": "aap|minister|modi|modi|mp|prime minister|row",
-    "norm": 73.5
+  "pwd-employee-killed-as-temple-dome-collapses-during-road-wid": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "collapse|collapse|collapse|killed|killed|mp",
+    "norm": 82.9
   },
-  "-one-nation-one-election-mechanism-may-be-ready-for-rollout-": {
-    "firstSeen": "2026-07-10T22:38:26.777Z",
-    "signature": "election|election",
+  "-some-rallies-never-end-tendulkar-s-heartfelt-message-to-fed": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "cricket|tendulkar|viral|viral|viral|war",
+    "norm": 79.8
+  },
+  "congress-venugopal-questions-pm-modi-s-silence-on-ayodhya-em": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "ayodhya|bjp|congress|fraud|modi|modi|mp",
+    "norm": 77.9
+  },
+  "jharkhand-assembly-election-dented-in-haryana-denied-in-maha": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "bjp|election|election|khan|maharashtra|opposition|verdict",
+    "norm": 76.2
+  },
+  "stones-hurled-highway-blocked-for-12-hours-violent-protests-": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "bjp|mla|poll|protest|protest|war",
+    "norm": 73.9
+  },
+  "k-c-venugopal-seeks-sc-monitored-probe-into-ayodhya-ram-temp": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "ayodhya|bjp|congress|mp|scam",
+    "norm": 73.6
+  },
+  "four-of-family-found-dead-at-house-in-bengaluru-s-kottigepal": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "attack|attack|dead|dead|death",
+    "norm": 70.5
+  },
+  "from-seoul-with-warmth-pm-modi-thanks-south-korea-s-lee-for-": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "modi|modi|war",
+    "norm": 67.6
+  },
+  "cag-flags-deficiencies-in-maharashtra-s-ladki-bahin-scheme-q": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "crore|maharashtra|mp",
+    "norm": 65.6
+  },
+  "pm-modi-in-new-zealand-live-india-new-zealand-elevate-ties-t": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "china|minister|modi|modi|prime minister",
+    "norm": 64.6
+  },
+  "pm-modi-must-take-responsibility-for-alleged-misappropriatio": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "amit shah|minister|modi|modi|mp",
+    "norm": 64.6
+  },
+  "cm-yogi-claims-samajwadi-party-congress-allowed-namaz-at-ayo": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "ayodhya|bjp|chief minister|congress|minister|yogi",
+    "norm": 63.4
+  },
+  "new-zealand-pm-recalls-seeing-indians-paid-in-coins-during-9": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "defence|minister|modi|modi|mp|prime minister",
+    "norm": 63.4
+  },
+  "ayodhya-verdict-temple-at-disputed-site-alternative-land-for": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "ayodhya|mp|supreme court|verdict",
+    "norm": 61.8
+  },
+  "ins-mahendragiri-commissioned-defence-minister-says-future-w": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "defence|minister|war",
+    "norm": 61.4
+  },
+  "latur-shocker-three-minors-tied-to-pole-thrashed-over-allege": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "shock|shock|shocker|video",
+    "norm": 61.1
+  },
+  "monsoon-tracker-live-cloudy-skies-to-persist-in-delhi-highwa": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "heavy rain|landslide|mp",
+    "norm": 60.8
+  },
+  "ayodhya-verdict-a-victory-of-faith-over-facts-says-asaduddin": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "ayodhya|mp|verdict",
+    "norm": 59.7
+  },
+  "bengal-govt-forms-9-member-panel-to-examine-draft-ucc-bill-l": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "bill|exam|supreme court",
+    "norm": 59.7
+  },
+  "girl-7-found-dead-at-ghaziabad-s-under-construction-mall-pol": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "dead|dead",
+    "norm": 57.6
+  },
+  "economic-survey-2019-20-no-evidence-of-wrong-estimation-of-g": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "gdp|row",
     "norm": 55.4
   },
-  "centre-weighs-meta-reply-on-wa-usernames-rollout-remains-on-": {
-    "firstSeen": "2026-07-10T22:38:26.777Z",
+  "indian-navy-bolsters-fleet-with-stealth-frigate-ins-mahendra": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "navy|threat",
+    "norm": 55.4
+  },
+  "the-new-cold-war-america-invents-china-deploys": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "china|war",
+    "norm": 55.4
+  },
+  "swiggy-instamart-gets-food-regulator-s-notice-for-selling-ex": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "fan|mp",
+    "norm": 51.7
+  },
+  "tamil-nadu-s-biryani-binge-keeps-cash-registers-ringing": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "crore|record",
+    "norm": 50.2
+  },
+  "pawan-kalyan-undergoes-shoulder-surgery-in-mumbai": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "injured",
+    "norm": 48.2
+  },
+  "decision-pending-on-direct-purchase-of-land-in-ayyankuzhi-fo": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "acquisition",
+    "norm": 45.9
+  },
+  "on-a-bird-quest-doctors-in-chennai-turn-avid-bird-photograph": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "khan",
+    "norm": 44.3
+  },
+  "14-invasive-plants-behind-grassland-loss-in-one-of-india-s-f": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "",
+    "norm": 36
+  },
+  "wayanad-debris-slip-search-intensified-for-lone-missing-proj": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "",
+    "norm": 36
+  },
+  "standard-kavach-commissioned-on-solapur-wadi-section-of-cent": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "",
+    "norm": 36
+  },
+  "celebrities-keep-telling-us-to-embrace-ai-and-it-s-making-me": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
+    "signature": "",
+    "norm": 36
+  },
+  "u-p-govt-changes-state-university-name-partially-": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
     "signature": "",
     "norm": 33.9
   },
-  "can-t-block-calls-from-1600-no-series-but-can-put-140-series": {
-    "firstSeen": "2026-07-10T22:38:26.777Z",
+  "sunlight-on-demand-us-approves-plans-to-build-60-foot-mirror": {
+    "firstSeen": "2026-07-11T07:19:15.457Z",
     "signature": "",
     "norm": 33.9
   }
