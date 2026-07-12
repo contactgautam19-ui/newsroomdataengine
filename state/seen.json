@@ -1,302 +1,137 @@
 {
-  "vietnam-tragedy-15-indian-tourists-killed-as-boat-capsizes-n": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "deal|died|injured|killed|killed|mp|rescue|rescue|tragedy",
-    "norm": 90.8
+  "-close-friend-of-india-pm-modi-condoles-death-of-qatar-s-for": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "death|minister|modi|modi|prime minister",
+    "norm": 73.6
   },
-  "political-showdown-samajwadi-party-s-sanatana-strategy-spark": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "bjp|controversy|election|election|fire|fire|fuel|mp",
-    "norm": 82.5
+  "beyond-the-quad-how-india-is-expanding-its-defence-arc-acros": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "defence|minister|modi|modi|prime minister|row",
+    "norm": 73
   },
-  "8-dead-14-rescued-1-missing-in-moshi-waste-plant-building-co": {
-    "firstSeen": "2026-07-11T19:56:11.601Z",
-    "signature": "army|building collapse|collapse|collapse|collapse|dead|dead|disaster|rescue|rescue",
-    "norm": 79.7
+  "-deeply-worrisome-india-condemns-attack-on-gfs-galaxy-vessel": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "attack|attack|iran|war",
+    "norm": 73
   },
-  "ambala-police-station-blast-case-pak-terrorist-shehzad-among": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "attack|attack|blast|bomb|gst|pakistan|terror|terror",
-    "norm": 78.8
+  "india-condemns-attack-on-vessel-carrying-11-indians-off-oman": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "attack|attack|rescue|rescue",
+    "norm": 68.4
   },
-  "trump-threatens-iran-with-1000-missiles-as-both-sides-shoot-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "iran|mp|row|threat|trump|trump",
-    "norm": 71.2
+  "tiruchi-residents-among-those-killed-in-vietnam-boat-acciden": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "accident|killed|killed",
+    "norm": 62.9
   },
-  "trump-trades-threats-with-iran-s-leader-araghchi-holds-talks": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "iran|mp|threat|trump|trump",
-    "norm": 69.8
+  "-lured-with-cold-drink-chips-7-year-old-gangraped-killed-in-": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "anger|killed|killed",
+    "norm": 62.9
   },
-  "3-un-special-rapporteurs-flag-opaque-sir-process-ec-dismisse": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "election|election|election commission|poll|vote|war",
-    "norm": 67.8
+  "hyderabad-student-missing-in-finland-for-over-two-months-fou": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "dead|dead|death",
+    "norm": 62.9
   },
-  "pune-building-collapse-death-count-rises-to-8-one-still-miss": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "building collapse|collapse|collapse|collapse|death|rescue|rescue",
-    "norm": 66.4
+  "lionel-messi-s-fifa-world-cup-scoring-streak-ends-fails-to-": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "match|mp|world cup",
+    "norm": 60.8
   },
-  "pm-modi-flags-fcra-nod-for-golden-temple-to-woo-sikh-diaspor": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "gold|minister|modi|modi|mp|prime minister",
-    "norm": 65.6
+  "naidu-pawan-kalyan-durgesh-mourn-s-janaki-s-demise": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "chief minister|death|minister",
+    "norm": 59.7
   },
-  "iran-officials-admit-to-mistake-after-attacks-on-ships-in-ho": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "attack|attack|derail|iran",
-    "norm": 64.1
+  "lindsey-graham-us-senator-and-donald-trump-s-close-aide-dies": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
   },
-  "vietnam-boat-capsize-two-people-from-andhra-killed-3-others-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "accident|hospital|killed|killed|rescue|rescue",
-    "norm": 63.2
+  "-10-rescused-1-missing-india-condemns-attack-on-vessel-carry": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "attack|attack",
+    "norm": 59.3
   },
-  "india-new-zealand-upgrade-their-made-for-each-other-ties": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "crore|modi|modi",
-    "norm": 61.4
+  "s-janaki-1938-2026-a-collection-recalling-the-singer-s-pan-i": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "film|singer|war",
+    "norm": 57.6
   },
-  "families-of-vanniyar-reservation-martyrs-also-deserve-state-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "chief minister|jobs|minister|mp|stampede",
-    "norm": 61
+  "ncp-sp-leader-eknath-khadse-admits-delhi-visit-but-says-will": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "bjp|war",
+    "norm": 55.4
   },
-  "vck-turns-its-focus-to-tamil-nationalism-post-election": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "election|election|mp|rally|rally",
-    "norm": 58.2
+  "covid-19-scare-in-andhra-pradesh-kadapa-records-two-deaths-e": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "death|record",
+    "norm": 54.2
   },
-  "some-jumped-out-i-saw-him-get-stuck-friend-of-man-killed-in-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "killed|killed|mp|tragedy",
-    "norm": 58.2
-  },
-  "top-5-richest-wnba-players-in-2026-caitlin-clark-angel-reese": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "row|star|war",
-    "norm": 56.8
-  },
-  "2-arrested-after-houses-set-on-fire-in-manipur-security-forc": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "clash|clash|fire|fire",
-    "norm": 56.7
-  },
-  "15-indian-tourists-killed-as-boat-overturns-in-vietnam": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "killed|killed|rescue|rescue",
-    "norm": 55.3
-  },
-  "narottam-mishra-summoned-to-bhopal-day-after-protests-rock-d": {
-    "firstSeen": "2026-07-11T19:56:11.601Z",
-    "signature": "clash|clash|protest|protest",
-    "norm": 55.2
-  },
-  "vietnam-boat-capsize-holiday-updates-for-kin-back-home-turn-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "death|tragedy",
+  "legendary-singer-s-janaki-will-be-alive-through-her-songs-sa": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "singer|war",
     "norm": 53.9
-  },
-  "vietnam-boat-tragedy-updates-boat-had-barely-begun-moving-ti": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "killed|killed|tragedy",
-    "norm": 53.4
-  },
-  "-i-have-something-unique-to-offer-indian-origin-us-democrat-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "israel|khan|president",
-    "norm": 53
-  },
-  "new-zealand-s-space-sector-played-key-role-in-chandrayaan-3-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "minister|modi|modi|prime minister",
-    "norm": 52.3
-  },
-  "-compromised-leaders-congress-sees-infighting-over-replacing": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "congress|mp|president|war",
-    "norm": 52.3
-  },
-  "the-big-e20-fuel-debate-india-s-energy-security-solution-or-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "fuel|mp|war",
-    "norm": 50.5
-  },
-  "woman-filed-petition-for-cheaper-cancer-drug-she-died-waitin": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "died|price|verdict",
-    "norm": 50.5
-  },
-  "world-cup-leaves-kerala-fans-sleep-deprived": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "fan|world cup",
-    "norm": 48
-  },
-  "no-expiry-date-on-anti-terror-fight-how-sia-kashmir-revived-": {
-    "firstSeen": "2026-07-11T19:56:11.601Z",
-    "signature": "terror|terror",
-    "norm": 47.7
-  },
-  "7-year-old-gang-raped-in-ghaziabad-body-found-in-mall-s-base": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "killed|killed",
-    "norm": 47.7
-  },
-  "5-killed-inside-well-due-to-toxic-fumes-from-generator-in-sh": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "killed|killed",
-    "norm": 47.7
   },
   "v-d-satheesan-condoles-s-janaki-s-demise-says-she-was-the-vo": {
     "firstSeen": "2026-07-11T22:33:16.864Z",
     "signature": "chief minister|film|minister",
-    "norm": 46.2
+    "norm": 49.9
   },
-  "trinamool-rebel-camp-forms-state-and-district-committees": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "mamata|mp",
-    "norm": 45.9
+  "mother-and-son-pakistani-father-and-3-other-kids-indian-curi": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "pakistan|vote",
+    "norm": 48.7
   },
-  "s-janaki-s-fresh-voice-improvisation-made-kerala-groove-to-h": {
-    "firstSeen": "2026-07-11T19:56:11.601Z",
-    "signature": "film|mp",
-    "norm": 45.7
+  "ensure-pilgrim-safety-on-tirumala-footpath-after-leopard-sig": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
   },
-  "hyderabad-horror-pocso-accused-kills-6-including-16-yr-old-g": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "horror|mp",
-    "norm": 45.4
-  },
-  "pm-modi-in-new-zealand-updates-india-new-zealand-elevate-tie": {
-    "firstSeen": "2026-07-11T19:56:11.601Z",
-    "signature": "modi|modi",
-    "norm": 45.4
-  },
-  "more-than-1-7-million-evacuated-as-typhoon-bavi-makes-landfa": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "china|evacuat",
-    "norm": 45.4
-  },
-  "boat-travelled-barely-300-metres-before-toppling-indian-witn": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "sudden|suddenly|tragedy",
-    "norm": 45.4
+  "youth-congress-worker-assault-case-kerala-government-seeks-l": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "congress|minister",
+    "norm": 48.7
   },
   "s-janaki-not-kerala-born-but-forever-its-voice": {
     "firstSeen": "2026-07-11T19:56:11.601Z",
     "signature": "emotional|singer",
-    "norm": 43.8
+    "norm": 48
   },
-  "when-bollywood-jived-to-s-janaki-s-infectious-voice": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "bollywood|bollywood",
-    "norm": 43.8
-  },
-  "us-lawmaker-ro-khanna-detained-by-israeli-settlers-during-we": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "israel|khan",
-    "norm": 43.8
-  },
-  "statehood-or-article-370-why-nc-s-invitation-to-mirwaiz-umar": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "betray|mp",
-    "norm": 43.5
-  },
-  "bihar-government-launches-doorstep-land-and-property-registr": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "chief minister|minister",
-    "norm": 42.5
-  },
-  "committee-suggests-10-crore-project-to-end-undulations-on-s-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "crore|fund",
-    "norm": 42.5
-  },
-  "speedy-completion-of-uapa-trials-a-challenge-says-cji-suryak": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "cji|mp",
-    "norm": 42.5
+  "s-janaki-s-fresh-voice-improvisation-made-kerala-groove-to-h": {
+    "firstSeen": "2026-07-11T19:56:11.601Z",
+    "signature": "film|mp",
+    "norm": 46
   },
   "kerala-remembers-the-divine-voice-of-s-janaki": {
     "firstSeen": "2026-07-11T19:56:11.601Z",
     "signature": "mp|singer",
-    "norm": 41.4
+    "norm": 46
   },
-  "j-amp-k-kashmiri-pandit-s-eatery-sparks-ghar-wapsi-calls": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "mp",
-    "norm": 41
+  "supreme-court-to-hear-plea-seeking-guidelines-to-curb-unpred": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "supreme court",
+    "norm": 44
   },
-  "india-s-1-601-day-reign-as-world-no-1-ends-after-england-com": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "mp|record",
-    "norm": 39.7
+  "missing-for-2-months-in-finland-hyderabad-teen-s-body-found-": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "",
+    "norm": 36
   },
-  "mamata-banerjee-s-loyalist-anubrata-mandal-joins-ritabrata-l": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "mamata|president",
-    "norm": 38
+  "three-publishers-arrested-over-books-with-inappropriate-cont": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
+    "signature": "",
+    "norm": 36
   },
-  "researchers-discover-three-new-species-of-rare-jumping-spide": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "a-lullaby-falls-silent-kannada-cinema-bids-farewell-to-s-jan": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "film",
-    "norm": 35.8
-  },
-  "16-year-old-electrocuted-in-karnataka-parents-file-case-agai": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "died",
-    "norm": 35.5
-  },
-  "5-essential-smartwatch-settings-you-need-to-turn-on-for-ever": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "watch",
-    "norm": 34.1
-  },
-  "claim-hindu-law-is-based-on-manusmriti-wrong-says-sg-tushar-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
+  "police-bulldozers-deployed-against-amaravati-land-givers-all": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
     "signature": "",
     "norm": 33.9
   },
-  "india-new-zealand-launch-roadmap-to-2030-boosting-defence-ti": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "defence",
-    "norm": 32.8
-  },
-  "two-more-nabbed-in-perumbavoor-hybrid-ganja-case": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
+  "s-janaki-s-last-rites-to-be-conducted-with-full-state-honour": {
+    "firstSeen": "2026-07-12T07:40:12.429Z",
     "signature": "",
-    "norm": 26.7
-  },
-  "ai-to-help-check-genuineness-of-farm-data-in-a-p-": {
-    "firstSeen": "2026-07-11T19:56:11.601Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "the-nightingale-who-stole-kerala-s-heart": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "another-headmistress-in-karur-suspended-for-screening-vijay-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "man-arrested-for-raping-12-year-old-neighbour-in-assam-s-siv": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "bengaluru-woman-says-delivery-agent-barged-into-home-to-use-": {
-    "firstSeen": "2026-07-11T22:33:16.864Z",
-    "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   }
 }
