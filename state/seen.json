@@ -1,151 +1,171 @@
 {
-  "monsoon-tracker-live-cloudburst-floods-hotels-houses-in-paha": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "collapse|collapse|collapse|fear|flood|flood|floods|heavy rain|landslide|mla",
-    "norm": 89.4
+  "self-immolation-protests-youth-backed-nepal-government-faces": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "fire|fire|minister|prime minister|protest|protest|sharma",
+    "norm": 84.2
   },
-  "congress-seeks-to-recast-ayodhya-narrative-amid-ram-temple-d": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "ayodhya|congress|controversy|mp|row",
-    "norm": 75
+  "india-declares-1-day-national-mourning-for-former-qatar-emir": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "minister|modi|modi|mourning|prime minister|row",
+    "norm": 78.4
   },
-  "need-to-train-more-skilled-cardiovascular-technologists-to-m": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "hospital|killed|killed|mp",
+  "india-declares-a-day-of-mourning-for-father-amir-of-qatar": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "death|minister|modi|modi|mourning|prime minister",
+    "norm": 78.4
+  },
+  "rayanapadu-railway-station-set-for-inauguration-after-35-cro": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "crore|minister|modi|modi|mp|prime minister",
     "norm": 72.6
   },
-  "constable-cycling-to-sunday-with-cycle-event-killed-in-ongol": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "crash|crash|killed|killed",
-    "norm": 72.6
+  "real-culprits-being-protected-in-ram-temple-donation-embezzl": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "congress|mp|supreme court|war",
+    "norm": 63.5
   },
-  "92-yr-old-veteran-of-china-pak-wars-now-battles-to-reclaim-h": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "china|fraud|mp|war",
-    "norm": 65
+  "new-voters-must-provide-parents-sir-details-to-get-on-electo": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "election|election|election commission|vote",
+    "norm": 61.8
   },
-  "-violations-of-law-vietnam-arrests-boat-captain-after-capsiz": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "captain|killed|killed",
-    "norm": 64.6
-  },
-  "when-myths-become-diagnoses-why-mental-illnesses-remain-so-m": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "ipo|mp|war",
-    "norm": 63.9
-  },
-  "delhi-man-killed-after-speeding-scorpio-runs-him-over-in-raj": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "accident|killed|killed",
-    "norm": 62.9
-  },
-  "cloudburst-triggers-flash-floods-in-j-k-s-pahalgam-hotels-an": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "flood|flood|floods|video",
-    "norm": 62.5
-  },
-  "pm-modi-s-statehood-promise-should-carry-weight-omar-abdulla": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "modi|modi|parliament",
+  "telangana-bjp-chief-accuses-congress-govt-of-delaying-kalesh": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "bjp|congress|war",
     "norm": 61.4
   },
-  "vietnam-boat-tragedy-injured-a-p-tourist-recovering-repatria": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "injured|tragedy",
+  "five-minors-arrested-for-stabbing-35-year-old-man-to-death-a": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "accident|death",
     "norm": 59.3
   },
-  "s-janaki-1938-2026-a-collection-recalling-the-singer-s-pan-i": {
-    "firstSeen": "2026-07-12T07:40:12.429Z",
-    "signature": "film|singer|war",
+  "wayanad-debris-slip-lone-missing-project-manager-s-body-reco": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "death|toll",
     "norm": 59.3
   },
-  "cloudburst-triggers-flooding-in-pahalgam-stream-pdp-flags-wa": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "flood|flood|sudden",
-    "norm": 58.3
+  "man-killed-after-speeding-suv-hits-him-in-delhi-driver-arres": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "killed|killed",
+    "norm": 57.6
   },
-  "piyush-goyal-crisis-manager": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "deal|minister",
+  "wisdom-youth-calls-for-action-against-startup-investment-fra": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "fraud|star",
+    "norm": 55.7
+  },
+  "cpi-m-criticises-undavalli-land-acquisition-seeks-fair-compe": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "acquisition|mp",
     "norm": 55
   },
-  "congress-out-of-punjab-poll-race-says-bjp-leader-fatehjung-s": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "bjp|congress|mp|poll",
-    "norm": 53.9
+  "chandigarh-hit-and-run-speeding-mercedes-hits-2-outside-nigh": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "injured|record",
+    "norm": 52.4
   },
-  "s-janaki-the-isai-arasi-who-established-the-voice-of-the-rur": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "fear",
+  "stock-market-this-week-earnings-inflation-data-to-steer-d-st": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "inflation|investor|stock market",
+    "norm": 50.9
+  },
+  "esic-to-add-seven-more-healthcare-facilities": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "crore|lakh",
+    "norm": 50.5
+  },
+  "nehru-trophy-boat-race-s-annual-grant-prize-money-increased": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "congress|mp",
+    "norm": 50.5
+  },
+  "tripura-cm-opens-new-public-hospital-in-agartala": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "hospital",
     "norm": 48.2
   },
-  "goyal-to-visit-spain-belgium-finland-this-week": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
+  "india-declares-one-day-national-mourning-for-qatar-s-father-": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "mourning",
+    "norm": 48.2
+  },
+  "ai-engineer-stabs-girlfriend-to-death-in-gurugram-pg-dies-by": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "death",
+    "norm": 48.2
+  },
+  "vck-remains-strong-despite-attempts-to-weaken-it-thirumavala": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "new-voters-have-to-also-submit-parents-sir-details-for-inclu": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "vote",
+  "bengaluru-hosts-first-completely-plastic-free-climate-action": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "telangana-to-conduct-statewide-deworming-drive-for-96-81-lak": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "lakh",
+  "ssf-literary-fest-concludes": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "s-janaki-s-demise-maestro-ilaiyaraaja-singer-p-susheela-pay-": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "singer",
-    "norm": 44.3
+  "driving-road-roller-over-seized-narcotics-himanta-biswa-sarm": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "electrification-of-pattukottai-karaikudi-broad-gauge-section": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
+  "juvenile-held-for-aiding-elderly-woman-s-murder-at-kozhinjam": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-taken-to-babas-forced-to-drink-cow-urine-ex-sena-ubt-mp-s-d": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
     "signature": "mp",
     "norm": 44
   },
-  "will-tamil-nadu-s-tvk-and-dmk-be-together-in-india-bloc-nati": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "cpi-hardens-its-stance-on-deputy-leader-of-the-opposition-po": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "opposition",
-    "norm": 44
-  },
-  "ncert-revises-class-8-history-textbook-says-congress-widely-": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "congress",
-    "norm": 44
-  },
-  "janaki-second-to-none-in-talent-says-ilayaraaja-ahead-of-sin": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "singer",
-    "norm": 42.4
-  },
-  "s-janaki-1938-2026-the-voice-that-belonged-to-every-state-in": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "pictures",
-    "norm": 40.7
-  },
-  "when-janaki-became-the-constant-soundtrack-of-a-family-in-ke": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "record",
-    "norm": 40.7
-  },
-  "watch-sonam-wangchuk-looks-visibly-weak-as-hunger-strike-ent": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
-    "signature": "watch",
-    "norm": 40.7
-  },
-  "3-publishers-arrested-in-j-k-for-books-that-8216-glorified-s": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
+  "i-want-cinema-to-be-a-discussion-point-says-lgbt-a-legal-bat": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
     "signature": "",
     "norm": 36
   },
-  "s-janaki-who-had-the-voice-for-every-human-emotion": {
-    "firstSeen": "2026-07-12T11:46:21.992Z",
+  "first-atirudram-ceremony-for-global-peace-held-in-us": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "",
+    "norm": 36
+  },
+  "could-indians-ride-their-first-bullet-train-by-independence-": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-narayana-on-wheels-mobile-clinic-offers-affordable-care-to-": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "",
+    "norm": 36
+  },
+  "three-bus-crew-members-held-in-hyderbad-for-smuggling-41-kg-": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "",
+    "norm": 36
+  },
+  "over-70-traffic-violation-cases-against-police-patrol-vehicl": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "",
+    "norm": 36
+  },
+  "elected-representatives-from-karnataka-to-be-allowed-to-part": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "",
+    "norm": 36
+  },
+  "the-quad-at-bengaluru-airport-getting-bigger-and-better": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
+    "signature": "",
+    "norm": 36
+  },
+  "flipkart-sacks-delivery-agent-after-bengaluru-woman-alleges-": {
+    "firstSeen": "2026-07-12T15:40:18.379Z",
     "signature": "",
     "norm": 36
   }
