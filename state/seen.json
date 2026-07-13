@@ -1,76 +1,196 @@
 {
-  "oil-jumps-3-after-us-iran-escalate-strikes-in-mideast": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "gst|iran|mp|row",
-    "norm": 74
+  "amid-satluj-row-khalra-s-wife-paramjit-kaur-urges-akal-takht": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "attack|attack|gold|mp|row",
+    "norm": 80.7
   },
-  "gfs-galaxy-tanker-attack-mea-condemns-attack-on-tanker-off-o": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "attack|attack|rescue|rescue",
-    "norm": 71
+  "rapido-rider-chases-woman-over-alleged-unpaid-fare-she-threa": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "film|threat|video|viral|viral|viral",
+    "norm": 79.1
   },
-  "-to-hold-iranian-forces-accountable-us-launches-fresh-strike": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "attack|attack|iran",
-    "norm": 70.7
+  "bangkok-bar-fire-among-world-s-deadliest-nightclub-fires-a-l": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "crowd|dead|dead|fire|fire|row",
+    "norm": 77.5
   },
-  "liquor-gangs-in-bihar-liquor-gangs-go-to-war-in-dry-bihar-3-": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "dead|dead|war",
-    "norm": 65.6
+  "narottam-mishra-gets-emotional-at-bjp-rally-for-datia-bypoll": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "bjp|emotional|minister|poll|rally|rally|video|war",
+    "norm": 77.5
   },
-  "why-apex-court-s-wading-into-darbhanga-s-ponds": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "supreme court|threat",
+  "former-athens-olympic-hall-destroyed-by-fire": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "fire|fire|mp|star",
+    "norm": 69.6
+  },
+  "day-24-of-cjp-protest-wangchuk-loses-8-2-kg-as-fast-enters-1": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "aap|chief minister|minister|protest|protest",
+    "norm": 69
+  },
+  "-completely-false-piyush-goyal-on-report-india-rejected-quic": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "deal|fan|minister|mp",
+    "norm": 64.6
+  },
+  "modi-government-silent-on-corruption-in-education-time-for-r": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "minister|modi|modi|rahul gandhi",
+    "norm": 63.5
+  },
+  "ex-us-soldier-held-near-india-nepal-border-without-documents": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "border|row|video",
+    "norm": 62.8
+  },
+  "calcutta-high-court-to-hear-tmc-mamata-banerjee-led-faction-": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "congress|high court|mamata|rally|rally",
+    "norm": 59.7
+  },
+  "-an-assault-on-collective-memory-sukhbir-badal-slams-removal": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "film|slam|slams",
+    "norm": 59.4
+  },
+  "legal-questions-behind-the-row-over-satluj-movie-explained": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "film|movie|row",
+    "norm": 57.6
+  },
+  "satluj-row-khalra-s-wife-paramjit-kaur-urges-akal-takht-to-f": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "film|row|star",
+    "norm": 57.6
+  },
+  "centre-brings-amnesty-scheme-for-pf-trusts-to-regularise-the": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "fund|mp|tax",
+    "norm": 57.6
+  },
+  "days-after-going-on-murder-spree-pocso-accused-found-dead-in": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "dead|dead",
+    "norm": 57.6
+  },
+  "ram-temple-trust-seeks-first-ceo-on-3-year-contract-age-limi": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "mp|ram mandir",
     "norm": 57.1
   },
-  "opinion-can-ai-help-hyderabad-grow-without-losing-its-ecolog": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "row",
-    "norm": 49.4
+  "jharkhand-panchayat-seeks-to-settle-3-year-old-s-rape-case-w": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "fund|khan|lakh",
+    "norm": 56.1
   },
-  "libra-horoscope-today-july-13-2026-quiet-money-grows-better-": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "row",
-    "norm": 49.4
+  "mizoram-government-urges-tourists-to-defer-travel-as-heavy-r": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "heavy rain|landslide",
+    "norm": 53.9
   },
-  "central-vista-should-be-called-kartavya-bhawan-area-union-mi": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "minister",
+  "bihar-prashant-kishor-bjp-s-neeraj-sinha-file-nomination-pap": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "bjp|mp|poll|president",
+    "norm": 53.9
+  },
+  "retrenchments-in-kerala-labour-codes-and-its-rules-explained": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "fund|mp",
+    "norm": 53.2
+  },
+  "sc-asks-centre-to-place-on-record-new-aviation-rules-to-regu": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "parliament|record",
+    "norm": 52
+  },
+  "4-techies-die-after-car-rams-truck-they-were-driving-to-jim-": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "khan|mp",
+    "norm": 51.7
+  },
+  "punjab-governor-gave-nod-to-ordinance-on-capping-fees-by-pri": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "cabinet|governor|ordinance",
+    "norm": 50.9
+  },
+  "india-japan-hold-key-dialogue-to-boost-ties-in-defence-indus": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "defence|policy",
+    "norm": 50.5
+  },
+  "haryana-chief-minister-nayab-singh-saini-directs-portal-for-": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
+  },
+  "supreme-court-seeks-centre-s-airfare-regulation-rules-in-sea": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "parliament|supreme court",
+    "norm": 48.7
+  },
+  "one-hospitalised-two-suffer-breathing-difficulties-after-mum": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "hospital",
+    "norm": 48.2
+  },
+  "kozhikode-police-widen-net-in-probe-into-narco-mule-network": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "gst",
+    "norm": 45.9
+  },
+  "karnataka-gender-minority-and-intersex-community-representat": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "ordinance",
+    "norm": 45.9
+  },
+  "philips-hue-promises-free-bridge-pro-replacements-after-a-ro": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "educationist-ishari-k-ganesh-withdraws-plea-in-madras-high-c": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "high court",
     "norm": 44
   },
-  "scorpio-horoscope-today-july-13-2026-avoid-unnecessary-debat": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "",
-    "norm": 37.4
+  "ayushman-card-limit-to-be-raised-to-10-lakh-what-the-latest-": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "lakh",
+    "norm": 44
   },
-  "-tamil-nadu-must-lead-india-in-green-power-chennai-news": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "how-sriperumbudur-emerged-as-a-global-electronics-hub": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "bengaluru-delivery-agent-incident-delivery-agent-barges-into": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "iphone-18-pro-release-date-apple-s-strategic-choice-can-defe": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
+  "five-rest-stops-for-gig-workers-to-come-up-in-cyberabad-unde": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
     "signature": "",
     "norm": 36
   },
-  "dhar-s-saraswati-is-gayatri-science-ends-900-year-mix-up": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
+  "delhi-lakshmi-yojana-launch-soon-check-eligibility-monthly-b": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "",
+    "norm": 36
+  },
+  "tvk-functionary-layola-mani-appointed-chairman-of-tamil-nadu": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "",
+    "norm": 36
+  },
+  "which-states-have-banned-cow-slaughter-in-india-": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "",
+    "norm": 36
+  },
+  "beyond-the-70-headline-h-1b-workers-becoming-more-educated-b": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
     "signature": "",
     "norm": 33.9
   },
-  "why-norwegian-air-changed-insta-logo-to-british-airways-afte": {
-    "firstSeen": "2026-07-13T00:14:39.726Z",
+  "commission-orders-redbus-to-pay-rs-10k-for-cancelling-ticket": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "india-s-northeast-buzzes-with-discovery-2-new-solitary-bee-s": {
+    "firstSeen": "2026-07-13T12:19:00.729Z",
     "signature": "",
     "norm": 33.9
   }
