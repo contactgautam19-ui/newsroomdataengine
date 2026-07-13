@@ -1,41 +1,76 @@
 {
-  "thailand-fire-horror-at-least-27-dead-after-midnight-blaze-t": {
-    "firstSeen": "2026-07-12T20:08:24.759Z",
-    "signature": "blaze|dead|dead|fire|fire|horror|hospital|injured",
-    "norm": 79.5
+  "oil-jumps-3-after-us-iran-escalate-strikes-in-mideast": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "gst|iran|mp|row",
+    "norm": 74
   },
-  "cm-omar-adullah-to-bjp-should-i-ask-trump-for-j-amp-k-stateh": {
-    "firstSeen": "2026-07-12T20:08:24.759Z",
-    "signature": "bjp|chief minister|minister|mp|protest|protest|trump|trump",
-    "norm": 78.7
+  "gfs-galaxy-tanker-attack-mea-condemns-attack-on-tanker-off-o": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "attack|attack|rescue|rescue",
+    "norm": 71
   },
-  "j-amp-k-pahalgam-cloudburst-damages-hotels-huts-washes-away-": {
-    "firstSeen": "2026-07-12T20:08:24.759Z",
-    "signature": "flood|flood|floods|mp",
-    "norm": 66.3
+  "-to-hold-iranian-forces-accountable-us-launches-fresh-strike": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "attack|attack|iran",
+    "norm": 70.7
   },
-  "doctor-who-flagged-equipment-shortage-lauds-kerala-governmen": {
-    "firstSeen": "2026-07-12T20:08:24.759Z",
-    "signature": "hospital",
-    "norm": 46.3
+  "liquor-gangs-in-bihar-liquor-gangs-go-to-war-in-dry-bihar-3-": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "dead|dead|war",
+    "norm": 65.6
   },
-  "u-p-minister-s-reply-sought-over-discrepancies-in-income-ass": {
-    "firstSeen": "2026-07-12T20:08:24.759Z",
+  "why-apex-court-s-wading-into-darbhanga-s-ponds": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "supreme court|threat",
+    "norm": 57.1
+  },
+  "opinion-can-ai-help-hyderabad-grow-without-losing-its-ecolog": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "row",
+    "norm": 49.4
+  },
+  "libra-horoscope-today-july-13-2026-quiet-money-grows-better-": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "row",
+    "norm": 49.4
+  },
+  "central-vista-should-be-called-kartavya-bhawan-area-union-mi": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
     "signature": "minister",
-    "norm": 45.9
-  },
-  "ex-mp-h-hanumanthappa-passes-away": {
-    "firstSeen": "2026-07-12T20:08:24.759Z",
-    "signature": "mp",
     "norm": 44
   },
-  "singer-janaki-cremated-with-state-honours-in-mysuru": {
-    "firstSeen": "2026-07-12T20:08:24.759Z",
-    "signature": "singer",
-    "norm": 42.4
+  "scorpio-horoscope-today-july-13-2026-avoid-unnecessary-debat": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "",
+    "norm": 37.4
   },
-  "cm-launches-kochi-corporation-s-third-ro-ro-vessel": {
-    "firstSeen": "2026-07-12T20:08:24.759Z",
+  "-tamil-nadu-must-lead-india-in-green-power-chennai-news": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "how-sriperumbudur-emerged-as-a-global-electronics-hub": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "bengaluru-delivery-agent-incident-delivery-agent-barges-into": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "iphone-18-pro-release-date-apple-s-strategic-choice-can-defe": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "",
+    "norm": 36
+  },
+  "dhar-s-saraswati-is-gayatri-science-ends-900-year-mix-up": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "why-norwegian-air-changed-insta-logo-to-british-airways-afte": {
+    "firstSeen": "2026-07-13T00:14:39.726Z",
     "signature": "",
     "norm": 33.9
   }
