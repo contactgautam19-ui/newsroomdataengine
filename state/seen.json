@@ -1,46 +1,246 @@
 {
-  "us-iran-war-live-updates-us-launches-new-strikes-on-iran-aft": {
-    "firstSeen": "2026-07-13T22:15:16.075Z",
-    "signature": "iran|mp|shock|shock|trump|trump|war",
-    "norm": 86.3
+  "chatur-from-3-idiots-urges-people-to-support-sonam-wangchuk-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "actor|deal|exam|minister|protest|protest",
+    "norm": 85.4
   },
-  "us-launches-strikes-on-iran-for-third-consecutive-night": {
-    "firstSeen": "2026-07-13T22:15:16.075Z",
-    "signature": "attack|attack|deal|iran|row|war",
-    "norm": 83.1
+  "rift-in-amma-no-end-to-impasse-in-kerala-film-body-as-rival-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "dead|dead|film|mp",
+    "norm": 74.2
   },
-  "series-of-blasts-heard-in-kyiv-after-missile-alert": {
-    "firstSeen": "2026-07-13T22:15:16.075Z",
-    "signature": "air force|alert|blast|explosion|explosion|war",
-    "norm": 80.2
+  "mea-summons-iranian-diplomat-over-hormuz-tanker-strike-that-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "ipl|iran|killed|killed",
+    "norm": 73
   },
-  "supreme-court-seeks-ram-mandir-fund-probe-status-report-in-a": {
-    "firstSeen": "2026-07-13T22:15:16.075Z",
-    "signature": "ayodhya|fund|ipl|ram mandir|supreme court",
-    "norm": 73.1
+  "18-mothers-dead-in-2-months-numbers-rise-yet-rajasthan-s-mat": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "dead|dead|death|mystery",
+    "norm": 70
   },
-  "tragedy-at-sea-vietnam-boat-capsize-survivors-recount-harrow": {
-    "firstSeen": "2026-07-13T22:15:16.075Z",
-    "signature": "row|tragedy",
-    "norm": 53.9
+  "elderly-man-killed-in-elephant-attack-in-coimbatore-district": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "attack|attack|killed|killed",
+    "norm": 69.6
   },
-  "fair-reasoned-process-must-decide-citizenship-supreme-court": {
-    "firstSeen": "2026-07-13T22:15:16.075Z",
-    "signature": "high court|supreme court",
+  "crude-oil-today-us-iran-conflict-puts-pressure-on-global-ene": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "diesel|iran|petrol|petrol|price|prices",
+    "norm": 69.6
+  },
+  "rupee-back-in-red-impact-of-rbi-s-forex-boost-fades-currency": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "mp|rbi|rupee|war",
+    "norm": 68
+  },
+  "centre-summons-iranian-envoy-after-indian-killed-in-strikes-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "iran|killed|killed",
+    "norm": 68
+  },
+  "kerala-bjp-councillor-detained-under-kaapa-retakes-oath-insi": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "aap|bjp|high court|row|unprecedented",
+    "norm": 67.3
+  },
+  "supreme-court-seeks-police-report-on-attack-on-lawyer-in-del": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "attack|attack|supreme court",
+    "norm": 66
+  },
+  "-my-entire-world-is-gone-ketan-agarwal-s-mother-pens-emotion": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "emotional|modi|modi",
+    "norm": 66
+  },
+  "beyond-low-cost-why-foreigners-choose-india-s-healthcare-ove": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "bill|billion|row",
+    "norm": 65.6
+  },
+  "-iron-rods-hurled-car-windows-smashed-family-chased-for-15-k": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "attack|attack|video",
+    "norm": 64.9
+  },
+  "modi-cabinet-reshuffle-bjp-s-organisational-reset-on-hold-fo": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "bjp|cabinet|modi|modi",
+    "norm": 63.5
+  },
+  "virat-kohli-gautam-gambhir-avoid-interaction-ahead-of-india-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "captain|india vs|kohli|rohit|sharma",
+    "norm": 61.9
+  },
+  "survey-for-bidadi-township-ends-in-chaos-as-women-farmers-ch": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "chief minister|minister|mp|row",
+    "norm": 61.8
+  },
+  "fadnavis-visits-pawan-kalyan-in-mumbai-hospital-after-should": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "chief minister|hospital|minister",
+    "norm": 61.4
+  },
+  "we-will-face-the-2028-elections-under-the-leadership-of-form": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "election|election|minister",
+    "norm": 61.4
+  },
+  "anthropic-starts-india-pricing-for-claude-ai-pro-plan-at-rs-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "bill|rupee|star",
+    "norm": 60.4
+  },
+  "jaishankar-discusses-global-developments-including-west-asia": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "ipl|jaishankar|mp",
+    "norm": 59.7
+  },
+  "no-murder-affair-proof-sc-clears-woman-of-killing-husband-af": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "iran|ruling|supreme court",
+    "norm": 59.7
+  },
+  "prashant-kishor-has-rs-96-crore-assets-wife-richer-with-rs-1": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "bjp|crore|poll",
+    "norm": 59.3
+  },
+  "shraddha-walkar-case-how-aftab-poonawala-s-exams-medical-vis": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "controversy|exam",
+    "norm": 57.6
+  },
+  "dowry-taunts-mother-in-law-wanted-full-salary-big-claims-by-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "dead|dead",
+    "norm": 57.6
+  },
+  "fodder-scam-cases-supreme-court-refuses-to-revoke-lalu-prasa": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "scam|supreme court",
+    "norm": 57.1
+  },
+  "rare-fossil-goose-may-rewrite-story-of-new-zealand-s-giant-f": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "exam|mp",
+    "norm": 57.1
+  },
+  "-sheikh-hasina-will-have-to-go-to-jail-bangladesh-minister-o": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "minister|slam",
+    "norm": 55.4
+  },
+  "why-tamil-nadu-does-not-need-privatisation-of-power-distribu": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "fund|row",
+    "norm": 55.4
+  },
+  "living-in-relative-s-house-for-free-you-can-t-later-claim-te": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "high court|threat",
+    "norm": 55.4
+  },
+  "bidadi-controversy-explained-why-bengaluru-farmers-are-fight": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "controversy|crore",
+    "norm": 55.4
+  },
+  "supreme-court-refuses-to-cancel-lalu-yadav-s-bail-in-fodder-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "scam|supreme court",
+    "norm": 55.4
+  },
+  "sir-digitisation-reaches-18-in-secunderabad-cantonment-polit": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "lakh|mp",
+    "norm": 55
+  },
+  "karnataka-cabinet-expansion-soon-dk-shivakumar-in-delhi-cong": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "cabinet|chief minister|congress|minister|sanction",
+    "norm": 54.4
+  },
+  "cjp-protest-day-25-wanghcuk-s-health-worsens-fast-enters-17t": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "karnataka-will-establish-india-s-first-government-driven-ai-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "-comprehensive-sex-education-coming-soon-to-schools-govt-tel": {
-    "firstSeen": "2026-07-13T22:15:16.075Z",
-    "signature": "mp|supreme court",
+  "hcltech-s-new-hiring-play-elite-engineers-bigger-pay-ai-focu": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "crore|jobs",
     "norm": 48.7
+  },
+  "alia-bhatt-joins-sohum-shah-nawazuddin-siddiqui-for-tumbbad-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "fan|film",
+    "norm": 46.3
+  },
+  "heavy-lpg-cylinders-may-soon-become-history-here-s-what-to-k": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "sam-altman-makes-fun-of-anthropic-s-ad-campaign-asking-peopl": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "three-get-five-years-jail-for-red-sanders-smuggling-in-tirup": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "lakh",
+    "norm": 44
+  },
+  "woman-puts-mustard-seeds-on-karnataka-judge-s-chair-arrested": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "star",
+    "norm": 42.4
   },
   "union-ministers-rajnath-gadkari-inaugurate-lucknow-kanpur-ex": {
     "firstSeen": "2026-07-13T22:15:16.075Z",
     "signature": "minister",
-    "norm": 44
+    "norm": 39.1
   },
-  "new-google-pixel-11-renders-show-it-in-three-colors-gsmarena": {
-    "firstSeen": "2026-07-13T22:15:16.075Z",
+  "man-accused-in-2020-sacrilege-case-beheaded-in-punjab": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "",
+    "norm": 36
+  },
+  "autonomous-hill-councils-to-be-extended-to-all-seven-distric": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "",
+    "norm": 36
+  },
+  "no-political-entry-jr-ntr-clarifies-amid-buzz-over-july-18-t": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "",
+    "norm": 36
+  },
+  "who-is-anil-menon-the-indian-origin-nasa-astronaut-of-malaya": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "",
+    "norm": 36
+  },
+  "cbse-sees-practical-way-out-of-three-language-resource-crunc": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "one-of-two-books-barred-by-j-038-k-government-available-in-j": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-taunted-woman-harassed-nashik-family-chased-for-15km-after-": {
+    "firstSeen": "2026-07-14T07:19:52.756Z",
     "signature": "",
     "norm": 33.9
   }
