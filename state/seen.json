@@ -1,147 +1,27 @@
 {
-  "assam-floods-death-toll-rises-to-4-over-37-000-affected-acro": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "death|flood|flood|floods|lakh|mp|toll",
-    "norm": 87.7
+  "us-resumes-hormuz-blockade-against-iran-launches-new-strikes": {
+    "firstSeen": "2026-07-14T21:34:09.220Z",
+    "signature": "attack|attack|deal|fire|fire|iran|mp|row|war",
+    "norm": 99.6
   },
-  "incentives-warnings-and-assurances-how-an-indian-sailor-tran": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "iran|mp|navy|threat|war|warning",
-    "norm": 86
-  },
-  "maharashtra-ats-questions-66-youth-to-uncover-pakistani-gang": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "gst|maharashtra|pakistan|terror|terror",
-    "norm": 83.5
-  },
-  "government-summons-iran-envoy-after-indian-national-killed-i": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "attack|attack|iran|killed|killed",
-    "norm": 79.4
-  },
-  "delhi-police-constable-wanted-for-wife-s-murder-found-dead-w": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "dead|dead|died|shooting",
+  "us-resumes-iran-naval-blockade-launches-fourth-straight-day-": {
+    "firstSeen": "2026-07-14T21:34:09.220Z",
+    "signature": "attack|attack|iran",
     "norm": 69.6
   },
-  "ed-summons-tmc-mla-madan-mitra-s-wife-two-sons-in-municipal-": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "mla|recruitment|scam",
-    "norm": 66
+  "west-bengal-govt-allocates-1-000-km-of-land-to-set-up-border": {
+    "firstSeen": "2026-07-14T21:34:09.220Z",
+    "signature": "border|chief minister|minister",
+    "norm": 50.9
   },
-  "how-technopark-in-thiruvananthapuram-is-soaking-in-the-spiri": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "fan|mp|world cup",
-    "norm": 64.2
+  "this-101-yr-old-journo-still-works-lives-independently-her-3": {
+    "firstSeen": "2026-07-14T21:34:09.220Z",
+    "signature": "mp|surprise",
+    "norm": 50.2
   },
-  "one-more-body-found-from-tragic-trawler-in-sundarbans-death-": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "death|toll|tragic",
-    "norm": 62.9
-  },
-  "government-to-monitor-indian-sailors-status-in-real-time-as-": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "attack|attack",
-    "norm": 59.3
-  },
-  "chief-warder-two-warders-arrested-for-the-death-of-a-remand-": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "death|died|war",
-    "norm": 56.6
-  },
-  "home-minister-ramesh-chennithala-to-meet-tamil-nadu-chief-mi": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "chief minister|fan|minister",
-    "norm": 56.1
-  },
-  "tragedy-at-sea-vietnam-boat-capsize-survivors-from-tamil-nad": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "row|tragedy",
-    "norm": 52.1
-  },
-  "bengaluru-restaurants-can-remain-open-till-3-30-a-m-for-fifa": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "match|world cup",
-    "norm": 52.1
-  },
-  "18th-international-documentary-and-short-film-festival-of-ke": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "film|mp",
-    "norm": 51.7
-  },
-  "museum-housing-rare-palm-leaf-manuscripts-gets-5-crore-fundi": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "crore|fund",
-    "norm": 48.7
-  },
-  "spiritual-leader-dhirendra-shastri-s-brother-3-others-booked": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "chatbot-that-helps-you-skip-hospital-queues-among-vijay-s-ne": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "hospital",
-    "norm": 48.2
-  },
-  "u-s-national-held-at-nepal-border-giving-contradictory-accou": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "border",
-    "norm": 44
-  },
-  "from-120m-monastery-to-miami-home-alex-karp-s-property-portf": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "skip-bathtub-curtains-this-vintage-trick-can-make-bathrooms-": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "china",
-    "norm": 44
-  },
-  "farooq-abdullah-s-brother-mustafa-kamal-ex-minister-who-bala": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
+  "bengaluru-to-launch-freedom-from-waste-drive-on-august-1-pro": {
+    "firstSeen": "2026-07-14T21:34:09.220Z",
     "signature": "minister",
     "norm": 44
-  },
-  "bengaluru-capgemini-creche-case-management-claims-footage-ma": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "footage",
-    "norm": 40.7
-  },
-  "who-is-anil-menon-the-indian-origin-nasa-astronaut-of-malaya": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "",
-    "norm": 36
-  },
-  "energy-department-adds-opt-out-option-to-the-gruha-jyothi-fo": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "",
-    "norm": 36
-  },
-  "contractual-appointment-of-ex-servicemen-as-gatemen-at-level": {
-    "firstSeen": "2026-07-14T12:50:37.250Z",
-    "signature": "",
-    "norm": 36
-  },
-  "graham-staines-murder-as-prime-convict-dara-singh-seeks-rele": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "",
-    "norm": 36
-  },
-  "a-p-government-removes-pulladigunta-lands-from-prohibited-li": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "",
-    "norm": 36
-  },
-  "injury-scare-for-india-shubman-gill-walks-off-retired-hurt-i": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "d-k-shivakumar-seeks-central-team-to-assess-drought-situatio": {
-    "firstSeen": "2026-07-14T17:38:14.052Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
