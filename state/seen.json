@@ -1,146 +1,291 @@
 {
-  "tvk-worker-expelled-after-alleged-bribe-video-goes-viral-tvk": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "bjp|controversy|ipl|video|viral|viral|viral",
-    "norm": 85
+  "us-launches-fifth-straight-day-of-strikes-on-iran-targets-mi": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "attack|attack|explosion|explosion|iran|parliament",
+    "norm": 87.2
   },
-  "us-stocks-today-markets-open-in-green-despite-iran-war-tensi": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "inflation|investor|iran|price|stock market|stocks|war",
-    "norm": 73.5
+  "attacks-on-seafarers-hit-hiring-raise-costs-for-shipping-com": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "attack|attack|mp",
+    "norm": 68.7
   },
-  "jones-act-waiver-extension-on-the-table-as-iran-tensions-thr": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "fuel|iran|price|prices|threat",
-    "norm": 72
+  "olympic-medallist-aman-sehrawat-storms-to-gold-at-budapest-r": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "gold|mp|storm",
+    "norm": 66
   },
-  "trump-wanted-20-hormuz-toll-how-gulf-leaders-shut-it-down-in": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "mp|toll|trump|trump",
-    "norm": 70
+  "ukrainian-drone-kills-chief-engineer-at-zaporizhzhia-nuclear": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "drone|killed|killed",
+    "norm": 64.9
   },
-  "pm-modi-to-virtually-inaugurate-upgraded-hi-tech-city-railwa": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "crore|modi|modi|mp",
-    "norm": 68
+  "pm-modi-approves-rs-11-000-crore-elevated-corridor-in-varana": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "crore|modi|modi",
+    "norm": 63.9
   },
-  "repeated-intimacy-doesn-t-mean-consensual-relationship-rules": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "fraud|gst|high court",
-    "norm": 65.6
+  "gujarat-police-arrest-alleged-accomplice-in-rs-46-16-lakh-fa": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "lakh|mp|scam",
+    "norm": 63.9
   },
-  "roads-ministry-issues-public-consultation-guidelines-for-hig": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "actor|mp|toll",
-    "norm": 64.2
+  "noida-building-fire-the-dos-and-donts-of-charging-evs-at-hou": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "fire|fire|mp",
+    "norm": 63.9
   },
-  "doc-killed-in-dharwad-flat-mentally-ill-son-found-injured": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "injured|killed|killed",
-    "norm": 62.9
-  },
-  "supreme-court-asks-if-panel-monitoring-the-safety-of-people-": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "death|record|supreme court",
-    "norm": 62.8
-  },
-  "proposed-apartment-law-may-not-be-perfect-but-it-is-a-good-s": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "minister|row|star",
+  "ed-files-pmla-complaint-in-alleged-visa-fraud-racket": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "fraud|mla|mp",
     "norm": 62.5
   },
-  "mysuru-yathindra-siddaramaiah-hints-at-induction-of-new-face": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "cabinet|election|election|rajya sabha",
-    "norm": 61.8
-  },
-  "bengaluru-apartment-residents-seek-builder-accountability-pa": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "bill|election|election",
-    "norm": 61.4
-  },
-  "badrinath-temple-treasurer-removed-amidst-probe-into-irregul": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "cctv|exam|mp",
+  "chennai-grand-masters-2026-world-champion-gukesh-to-face-nih": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "clash|clash|mp",
     "norm": 61.1
   },
-  "doctor-found-dead-in-dharwad-8-year-old-son-battling-for-lif": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
+  "icc-calls-for-early-sri-lanka-cricket-elections-keeps-slc-ou": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "cricket|election|election",
+    "norm": 60.8
+  },
+  "kumaraswamy-slams-karnataka-govt-over-fresh-bidadi-land-acqu": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "acquisition|slam|slams",
+    "norm": 60.8
+  },
+  "jammu-and-kashmir-in-mourning-cm-omar-adhullah-says-delhi-pr": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "mourning|protest|protest",
+    "norm": 60.8
+  },
+  "hurriyat-conference-chairman-mirwaiz-urges-restraint-as-pok-": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
     "signature": "dead|dead",
-    "norm": 57.6
+    "norm": 60.4
   },
-  "no-smart-watches-or-smart-glasses-parliament-issues-advisory": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "mp|parliament|watch",
-    "norm": 56.4
+  "ec-extends-sir-deadline-final-electoral-roll-to-be-out-on-oc": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "dead|dead",
+    "norm": 60.4
   },
-  "complete-road-improvement-works-in-mysuru-a-week-before-dasa": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "minister|mp|star",
-    "norm": 56.1
+  "excise-targets-drug-peddlers-as-dead-drop-trend-soars-in-koc": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "dead|dead",
+    "norm": 60.4
   },
-  "mamata-says-abhishek-fighting-like-a-tiger-vows-to-revive-tm": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "congress|mamata|mla|mp",
-    "norm": 53.9
+  "adani-in-talks-with-accor-itc-hotels-to-manage-jaypee-hospit": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "adani|hospital",
+    "norm": 56.9
   },
-  "centre-approves-two-multitracking-projects-costing-3-907-cro": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "crore|khan",
-    "norm": 53.5
+  "india-and-england-mixed-disability-cricket-teams-to-end-7-ma": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "cricket|match",
+    "norm": 52.1
   },
-  "ram-temple-embezzlement-episode-has-hurt-devotees-says-cm-yo": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "chief minister|minister|mp|opposition|vote|yogi",
-    "norm": 52.9
+  "calcutta-high-court-asks-state-for-report-on-complaints-agai": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "high court|mp",
+    "norm": 51.7
   },
-  "pothundy-twin-murder-prosecution-seeks-death-penalty-for-che": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
+  "after-ed-knock-madan-quits-mamata-camp-joins-rebel-bloc": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "mamata|mp",
+    "norm": 51.7
+  },
+  "indian-woman-murder-united-kingdom-united-kingdom-man-charge": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
     "signature": "death",
-    "norm": 48.2
+    "norm": 49.4
   },
-  "nda-ally-national-people-s-party-seeks-fortification-of-poli": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "minister",
-    "norm": 45.9
+  "guru-randhawa-drops-new-single-six-with-kiran-bajwa": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "iran",
+    "norm": 49.4
   },
-  "agnikul-ropes-in-former-isro-chairman-somanath-ahead-of-miss": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
+  "11-000-kg-108-mango-varieties-iskcon-dwarka-marks-jagannath-": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "war",
+    "norm": 49.4
+  },
+  "kerala-plus-one-result-2026-out-soon-know-how-to-download-dh": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "result",
+    "norm": 49.4
+  },
+  "actis-indigrid-inox-among-companies-in-talks-for-brookfield-": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "jaypee-deal-to-help-dalmia-bharat-have-pan-india-presence": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "deal",
+    "norm": 47.1
+  },
+  "l-t-realty-buys-land-in-central-delhi-for-rs-200-crore": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "crore",
+    "norm": 47.1
+  },
+  "madhuri-dixit-nene-sari-border-features-badla-embroidered-se": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "border",
+    "norm": 47.1
+  },
+  "sukhbir-badal-criticizes-bhagwant-mann-government-over-emplo": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "kol-loses-80-hrs-of-sleep-annually-to-rising-night-temp-3rd-": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "lock-upp-2-madhuri-jain-grover-defends-her-poor-shouldnt-hav": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "backlash",
+    "norm": 46.3
+  },
+  "mohan-bhagwat-to-deliver-lecture-on-8216-contemporary-mother": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "over-10-000-students-from-government-schools-across-chennai-": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "mp",
-    "norm": 45.9
+  "akshay-kumar-saif-ali-khan-haiwaan-first-look-revealed": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "khan",
+    "norm": 45.5
   },
-  "hyderabad-metro-rail-to-explore-additional-coaches-improve-c": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
+  "fact-check-did-deepika-padukone-delete-an-instagram-story-su": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "instagram",
+    "norm": 45.5
+  },
+  "rru-national-maritime-heritage-complex-sign-mou-to-strengthe": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
     "signature": "mp",
     "norm": 44
   },
-  "yathindra-siddaramaiah-reviews-preparations-for-ashada-frida": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
+  "odisha-cm-launches-samarpan-digital-hundi-for-jagannath-temp": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "6-lane-elevated-corridor-will-increase-influx-of-devotees-ge": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
     "signature": "vote",
     "norm": 44
   },
-  "msmes-urged-to-tap-defence-sector-opportunities": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "defence",
+  "bjp-workers-celebrate-in-varanasi-after-centre-approves-gang": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "bjp",
     "norm": 44
   },
-  "gautam-adani-denies-knowledge-of-any-doj-quid-pro-quo-offer-": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
-    "signature": "adani",
-    "norm": 42.4
-  },
-  "telangana-plans-merging-food-safety-and-drugs-control-depart": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
+  "hrithik-roshan-on-15-years-of-zindagi-na-milegi-dobara-": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
     "signature": "",
-    "norm": 36
+    "norm": 37.4
   },
-  "ias-officers-reshuffled-in-tamil-nadu-j-radhakrishnan-supriy": {
-    "firstSeen": "2026-07-15T17:50:40.575Z",
+  "barbault-basket-2026-how-will-this-rare-planetary-event-affe": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "varanasi-celebrates-ganga-varuna-elevated-corridor-approval": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "dr-ashutosh-srivastava": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "why-are-people-practising-buddhist-hindu-and-zen-meditation-": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "jagannath-rath-yatra-2026-best-color-to-wear-for-your-zodiac": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "mahak-maini": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "pune-civic-body-to-spend-rs-167-25-cr-to-redvelop-135-8-km-r": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "west-bengal-govt-forms-judicial-panel-to-probe-corruption-ch": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "why-an-indian-man-was-stabbed-15-times-at-us-mall-details-in": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "swiggy-instamart-and-hpcl-partner-to-deliver-cooking-gas-cyl": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "mncs-shifting-inventory-to-india-amid-west-asia-crisis-dp-wo": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "first-shipment-of-brake-parts-leaves-for-united-kingdom-unde": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "-lost-9-kg-in-17-day-sonam-wangchuk-currently-stable-but-nex": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "rath-yatra-embodies-india-cultural-heritage-unity-in-diversi": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "jaipur-joins-nationwide-flag-off-of-first-exports-to-united-": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "my-vision-is-to-interlink-rivers-across-andhra-says-cm-chand": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-i-play-rocky-based-on-sylvester-stallone-captures-one-of-ho": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "odisha-cm-lop-naveen-patnaik-extend-rath-yatra-greetings-as-": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "hrithik-roshan-on-15-years-of-znmd-deeply-transformative-and": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "skanda-yamala-tantra-hindupad": {
+    "firstSeen": "2026-07-15T21:33:35.500Z",
     "signature": "",
     "norm": 33.9
   }
