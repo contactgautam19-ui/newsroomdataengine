@@ -1,211 +1,186 @@
 {
-  "when-debris-came-crashing-down-how-rains-and-undisposed-mud-": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "crash|crash|devastat|disaster|heavy rain|ipl|result",
-    "norm": 87.7
+  "two-killed-50-rescued-in-fire-in-building-in-noida-village-l": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "fire|fire|killed|killed|petrol|petrol|rescue|rescue",
+    "norm": 90.4
   },
-  "taslima-nasreen-s-kolkata-return-sparks-fresh-political-fire": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "fire|fire|fund|protest|protest|storm",
-    "norm": 78.8
+  "why-modi-govt-s-new-mobile-phone-manufacturing-scheme-could-": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "anger|cabinet|crore|jobs|lakh|modi|modi",
+    "norm": 85
   },
-  "kerala-govt-plans-ppp-model-for-j-c-daniel-international-fil": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "budget|film|ipl|shooting",
-    "norm": 74.2
+  "outrage-grows-over-bmc-s-clean-chit-in-tragic-tree-fall-inci": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "actor|death|heavy rain|outrage|row|tragic",
+    "norm": 75
   },
-  "horrific-videos-show-moment-nashik-family-s-car-was-attacked": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "attack|attack|horrific|video",
+  "iran-threatens-to-block-more-vital-seaways-as-trump-orders-r": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "iran|mp|threat|trump|trump",
+    "norm": 75
+  },
+  "india-joins-the-fifa-momentum": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "clash|clash|fan|world cup",
     "norm": 70
   },
-  "indian-missing-after-attack-on-gfs-galaxy-off-oman-coast-is-": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "attack|attack|dead|dead",
-    "norm": 69.6
+  "madan-mitra-leaves-mamata-banerjee-joins-rebel-trinamool-cam": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "mamata|mp|recruitment|scam",
+    "norm": 70
   },
-  "up-man-s-hands-chopped-off-with-axe-after-argument-at-petrol": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "fuel|mp|petrol|petrol",
-    "norm": 69.6
-  },
-  "warren-buffet-to-donate-his-berkshire-shares-to-these-four-f": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "bill|billion|row|war",
-    "norm": 69
-  },
-  "for-justice-around-the-clock-explained": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "exam|fund|mp|supreme court",
+  "pm-modi-s-big-gift-for-varanasi-cabinet-approves-two-mega-ro": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "cabinet|crore|modi|modi",
     "norm": 68
   },
-  "-if-someone-seeks-bribe-tell-them-vijay-s-remarks-on-corrupt": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "viral|viral|viral",
-    "norm": 63.2
+  "india-u-k-trade-deal-will-boost-india-s-farmers-entrepreneur": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "deal|modi|modi|mp",
+    "norm": 68
   },
-  "-ram-temple-s-stolen-donations-weren-t-given-with-true-faith": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "mp|opposition|row",
-    "norm": 61.4
+  "can-you-legally-record-the-police-in-india-here-s-what-law-s": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "rally|rally|rbi|record|video",
+    "norm": 67.3
   },
-  "-fastest-implementation-uk-trade-minister-on-trade-deal-with": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "deal|minister|mp",
-    "norm": 59.3
+  "construction-worker-dies-of-asphyxiation-in-kozhikode": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "hospital|mp|rescue|rescue",
+    "norm": 66.3
   },
-  "ram-temple-donation-row-sit-to-give-clean-chit-to-champat-ra": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "mp|row",
+  "assam-allows-restaurants-to-remain-open-till-3-30-a-m-for-fo": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "fan|match|watch|world cup",
+    "norm": 65
+  },
+  "tamil-nadu-engagement-called-off-man-attacks-former-fianc-e-": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "attack|attack|death",
+    "norm": 62.9
+  },
+  "setback-for-prashant-kishor-4-jan-suraaj-leaders-switch-to-b": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "bjp|election|election|poll",
+    "norm": 61.8
+  },
+  "bjp-scared-says-cong-after-revocation-of-go-ahead-for-rahul-": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "bjp|exam|mp|rahul gandhi",
+    "norm": 61.8
+  },
+  "cpi-no-longer-in-dmk-led-alliance-in-tamil-nadu-says-veerapa": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "alliance|election|election",
+    "norm": 59.7
+  },
+  "-sweeping-welcome-how-bjp-s-swachhata-se-swagat-is-redefinin": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "bjp|modi|modi",
+    "norm": 59.7
+  },
+  "several-jan-suraaj-leaders-join-bjp-ahead-of-bihar-s-bankipu": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "bjp|election|election",
+    "norm": 59.7
+  },
+  "lottery-sambad-today-july-17-2026-nagaland-punjab-maharashtr": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "maharashtra|result|results|results",
+    "norm": 58
+  },
+  "cabinet-approves-1-27-lakh-crore-for-semicon-mission-2-0": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "cabinet|crore|lakh",
+    "norm": 57.6
+  },
+  "lakshadweep-mp-writes-to-satheesan-seeks-kerala-s-support-fo": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "hospital|mp",
     "norm": 57.1
   },
-  "kerala-hc-seeks-response-from-transport-commissioner-morth-o": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "modi|modi",
+  "-204-crore-tender-gives-wings-to-warangal-airport-dream-turn": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "crore|war",
     "norm": 57.1
   },
-  "fake-ias-officer-assaults-husband-demands-40-lakhs-to-build-": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "hospital|lakh",
+  "3-burnt-alive-global-outrage-cm-change-why-staines-murder-th": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "outrage|supreme court",
+    "norm": 57.1
+  },
+  "supreme-court-raises-students-frustration-over-cbse-osm-glit": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "result|supreme court",
     "norm": 55.4
   },
-  "india-uk-trade-deal-kicks-in-what-gets-cheaper-which-sectors": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "deal|mp",
-    "norm": 55
-  },
-  "what-are-the-gains-from-the-india-u-k-trade-deal-explained": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "deal|mp",
-    "norm": 55
-  },
-  "lost-over-8-kg-blood-sugar-levels-drop-plea-in-delhi-hc-seek": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "gangster-rohit-godara-s-home-razed-overnight-cops-say-we-did": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "gst|rohit",
+  "kerala-home-minister-ramesh-chennithala-meets-tamil-nadu-cm-": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "fan|minister",
     "norm": 53.5
   },
-  "jaishankar-meets-european-council-president-values-his-role-": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "jaishankar|minister|president",
-    "norm": 52.7
+  "2-varanasi-highway-projects-worth-rs-25-44-cr-approved-how-t": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "cabinet|crore",
+    "norm": 53.2
   },
-  "zubeen-garg-s-last-recorded-duet-with-predeceased-co-singer-": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "film|record|singer",
+  "drone-warfare-2-0-unmanned-vehicles-outfitted-with-long-rang": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "drone|war",
     "norm": 52.4
   },
-  "mob-vandalises-assam-rifles-camp-torches-vehicles-after-sear": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "defence|mp",
+  "jantar-mantar-protest-tharoor-appeals-to-wangchuk-to-end-fas": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "fresh-setback-for-mamata-as-senior-tmc-leader-madan-mitra-jo": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "mamata|minister|mp",
+    "norm": 50.9
+  },
+  "cabinet-okays-new-urea-policy-what-changes-": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "cabinet|policy",
     "norm": 50.5
   },
-  "matrimonial-disputes-kerala-hc-says-courts-must-not-assume-b": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "gold",
-    "norm": 48.2
+  "form-panel-to-find-permanent-solution-for-inam-land-disputes": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "mp|supreme court",
+    "norm": 48.7
   },
-  "caught-on-cam-bengaluru-delivery-agent-steals-clothes-wears-": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "iran",
+  "inside-india-s-esports-boom-why-leagues-careers-and-homegrow": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "-force-feed-sonam-wangchuk-plea-in-delhi-hc-seeks-liquid-die": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "daughter-turned-away-from-mudragada-s-bier-state-honours-for": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "bihar-cm-samrat-choudhary-inaugurates-state-level-sahyog-pro": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "samsung-s-entire-galaxy-unpacked-lineup-appears-in-leaked-re": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "two-law-students-arrested-for-hurling-abuses-in-supreme-cour": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "supreme court",
-    "norm": 45.9
-  },
-  "speculations-abuzz-after-ncp-ncp-sp-leaders-meet-cm-fadnavis": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "who-is-anil-menon-the-indian-origin-nasa-astronaut-of-malaya": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "rbi",
-    "norm": 45.9
-  },
-  "irctc-rolls-out-major-changes-to-online-train-ticket-booking": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
+  "india-u-k-dcc-not-applicable-to-indians-working-in-the-u-k-b": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
     "signature": "mp",
     "norm": 44
   },
-  "up-medical-university-bans-cooking-non-veg-in-hostels-after-": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "governor",
+  "as-sonam-wangchuk-hangs-on-to-hunger-strike-weight-loss-appr": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "minister",
     "norm": 44
   },
-  "preferred-seats-fare-calendar-less-captchas-what-s-new-for-p": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
+  "an-anthem-for-a-vanishing-craft-thazhappattu-makes-it-to-sch": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
     "signature": "mp",
     "norm": 44
   },
-  "food-vlogger-s-video-at-sonam-wangchuk-s-hunger-strike-leave": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "video",
-    "norm": 42.7
+  "-government-cruel-for-ignoring-wangchuk-s-fast-says-dipke-as": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "sc-refuses-to-entertain-plea-against-influencer-nazia-elahi-": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "khan",
-    "norm": 42.4
-  },
-  "taslima-nasreen-left-kolkata-in-2007-what-brings-her-back-ne": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "",
-    "norm": 36
-  },
-  "red-fort-closed-to-public-till-august-15-ahead-of-independen": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "",
-    "norm": 36
-  },
-  "india-uk-ceta-comes-into-force-telangana-well-poised-to-reap": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "",
-    "norm": 36
-  },
-  "from-kerala-to-latex-tracing-london-based-designer-harri-ks-": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
+  "inside-princess-margaret-s-former-retreat-now-listed-for-3-9": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
     "signature": "",
     "norm": 33.9
   },
-  "west-bengal-government-seeks-support-of-dmsc-for-cervical-ca": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "can-a-person-be-declared-a-foreigner-without-a-fair-hearing-": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "on-run-since-2025-criminal-posing-as-peer-baba-arrested-by-h": {
-    "firstSeen": "2026-07-15T06:32:06.712Z",
+  "cpi-has-no-plan-to-join-tvk-led-tamil-nadu-government-veerap": {
+    "firstSeen": "2026-07-15T12:06:18.953Z",
     "signature": "",
     "norm": 33.9
   }
