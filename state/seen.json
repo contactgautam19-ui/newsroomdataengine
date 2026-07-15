@@ -1,27 +1,212 @@
 {
-  "us-resumes-hormuz-blockade-against-iran-launches-new-strikes": {
-    "firstSeen": "2026-07-14T21:34:09.220Z",
-    "signature": "attack|attack|deal|fire|fire|iran|mp|row|war",
-    "norm": 99.6
+  "when-debris-came-crashing-down-how-rains-and-undisposed-mud-": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "crash|crash|devastat|disaster|heavy rain|ipl|result",
+    "norm": 87.7
   },
-  "us-resumes-iran-naval-blockade-launches-fourth-straight-day-": {
-    "firstSeen": "2026-07-14T21:34:09.220Z",
-    "signature": "attack|attack|iran",
+  "taslima-nasreen-s-kolkata-return-sparks-fresh-political-fire": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "fire|fire|fund|protest|protest|storm",
+    "norm": 78.8
+  },
+  "kerala-govt-plans-ppp-model-for-j-c-daniel-international-fil": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "budget|film|ipl|shooting",
+    "norm": 74.2
+  },
+  "horrific-videos-show-moment-nashik-family-s-car-was-attacked": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "attack|attack|horrific|video",
+    "norm": 70
+  },
+  "indian-missing-after-attack-on-gfs-galaxy-off-oman-coast-is-": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "attack|attack|dead|dead",
     "norm": 69.6
   },
-  "west-bengal-govt-allocates-1-000-km-of-land-to-set-up-border": {
-    "firstSeen": "2026-07-14T21:34:09.220Z",
-    "signature": "border|chief minister|minister",
-    "norm": 50.9
+  "up-man-s-hands-chopped-off-with-axe-after-argument-at-petrol": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "fuel|mp|petrol|petrol",
+    "norm": 69.6
   },
-  "this-101-yr-old-journo-still-works-lives-independently-her-3": {
-    "firstSeen": "2026-07-14T21:34:09.220Z",
-    "signature": "mp|surprise",
-    "norm": 50.2
+  "warren-buffet-to-donate-his-berkshire-shares-to-these-four-f": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "bill|billion|row|war",
+    "norm": 69
   },
-  "bengaluru-to-launch-freedom-from-waste-drive-on-august-1-pro": {
-    "firstSeen": "2026-07-14T21:34:09.220Z",
-    "signature": "minister",
+  "for-justice-around-the-clock-explained": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "exam|fund|mp|supreme court",
+    "norm": 68
+  },
+  "-if-someone-seeks-bribe-tell-them-vijay-s-remarks-on-corrupt": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "viral|viral|viral",
+    "norm": 63.2
+  },
+  "-ram-temple-s-stolen-donations-weren-t-given-with-true-faith": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "mp|opposition|row",
+    "norm": 61.4
+  },
+  "-fastest-implementation-uk-trade-minister-on-trade-deal-with": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "deal|minister|mp",
+    "norm": 59.3
+  },
+  "ram-temple-donation-row-sit-to-give-clean-chit-to-champat-ra": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "mp|row",
+    "norm": 57.1
+  },
+  "kerala-hc-seeks-response-from-transport-commissioner-morth-o": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "fake-ias-officer-assaults-husband-demands-40-lakhs-to-build-": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "hospital|lakh",
+    "norm": 55.4
+  },
+  "india-uk-trade-deal-kicks-in-what-gets-cheaper-which-sectors": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "deal|mp",
+    "norm": 55
+  },
+  "what-are-the-gains-from-the-india-u-k-trade-deal-explained": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "deal|mp",
+    "norm": 55
+  },
+  "lost-over-8-kg-blood-sugar-levels-drop-plea-in-delhi-hc-seek": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "gangster-rohit-godara-s-home-razed-overnight-cops-say-we-did": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "gst|rohit",
+    "norm": 53.5
+  },
+  "jaishankar-meets-european-council-president-values-his-role-": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "jaishankar|minister|president",
+    "norm": 52.7
+  },
+  "zubeen-garg-s-last-recorded-duet-with-predeceased-co-singer-": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "film|record|singer",
+    "norm": 52.4
+  },
+  "mob-vandalises-assam-rifles-camp-torches-vehicles-after-sear": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "defence|mp",
+    "norm": 50.5
+  },
+  "matrimonial-disputes-kerala-hc-says-courts-must-not-assume-b": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "gold",
+    "norm": 48.2
+  },
+  "caught-on-cam-bengaluru-delivery-agent-steals-clothes-wears-": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "iran",
+    "norm": 46.3
+  },
+  "-force-feed-sonam-wangchuk-plea-in-delhi-hc-seeks-liquid-die": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "hospital",
+    "norm": 46.3
+  },
+  "daughter-turned-away-from-mudragada-s-bier-state-honours-for": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "bihar-cm-samrat-choudhary-inaugurates-state-level-sahyog-pro": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "samsung-s-entire-galaxy-unpacked-lineup-appears-in-leaked-re": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "two-law-students-arrested-for-hurling-abuses-in-supreme-cour": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "speculations-abuzz-after-ncp-ncp-sp-leaders-meet-cm-fadnavis": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "who-is-anil-menon-the-indian-origin-nasa-astronaut-of-malaya": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "rbi",
+    "norm": 45.9
+  },
+  "irctc-rolls-out-major-changes-to-online-train-ticket-booking": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "mp",
     "norm": 44
+  },
+  "up-medical-university-bans-cooking-non-veg-in-hostels-after-": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "governor",
+    "norm": 44
+  },
+  "preferred-seats-fare-calendar-less-captchas-what-s-new-for-p": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "food-vlogger-s-video-at-sonam-wangchuk-s-hunger-strike-leave": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "video",
+    "norm": 42.7
+  },
+  "sc-refuses-to-entertain-plea-against-influencer-nazia-elahi-": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "taslima-nasreen-left-kolkata-in-2007-what-brings-her-back-ne": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "",
+    "norm": 36
+  },
+  "red-fort-closed-to-public-till-august-15-ahead-of-independen": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "",
+    "norm": 36
+  },
+  "india-uk-ceta-comes-into-force-telangana-well-poised-to-reap": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "",
+    "norm": 36
+  },
+  "from-kerala-to-latex-tracing-london-based-designer-harri-ks-": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "west-bengal-government-seeks-support-of-dmsc-for-cervical-ca": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "can-a-person-be-declared-a-foreigner-without-a-fair-hearing-": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "on-run-since-2025-criminal-posing-as-peer-baba-arrested-by-h": {
+    "firstSeen": "2026-07-15T06:32:06.712Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
