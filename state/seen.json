@@ -2,161 +2,301 @@
   "rath-yatra-news-2026-2-dead-over-100-injured-in-puri-rath-ya": {
     "firstSeen": "2026-07-16T17:47:57.681Z",
     "signature": "crowd|dead|dead|injured|mp|row|stampede|vote",
-    "norm": 88.6
+    "norm": 78.9
   },
-  "1-dead-several-vehicles-crushed-after-crane-collapses-from-h": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "collapse|collapse|collapse|dead|dead|died|injured|mp",
-    "norm": 88.3
+  "weather-highlights-orange-alert-issued-for-heavy-rainfall-in": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "alert|heavy rain|mp|storm|war|warning|weather",
+    "norm": 75.9
   },
-  "-don-t-appoint-smriti-irani-in-place-of-dharmendra-pradhan-a": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "aap|bjp|iran|parliament|protest|protest|war",
-    "norm": 82
+  "panic-in-mira-road-as-crane-falls-from-under-construction-to": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "collapse|collapse|collapse|injured|killed|killed|panic",
+    "norm": 72.4
   },
   "caught-on-camera-karnataka-woman-waiting-for-bus-hacked-to-d": {
     "firstSeen": "2026-07-16T17:47:57.681Z",
     "signature": "attack|attack|caught on camera|death|shock|shock|shocking",
-    "norm": 78.8
+    "norm": 68.6
   },
-  "voices-from-opposition-film-industry-rally-in-wangchuk-s-sup": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "actor|congress|film|khan|opposition|rally|rally",
-    "norm": 69
+  "neet-ug-2026-results-11-21-lakh-candidates-qualify-in-re-tes": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "exam|lakh|mp|neet|result|results|results",
+    "norm": 68.2
+  },
+  "avoid-deploying-indian-sailors-on-vessels-moving-via-strait-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "attack|attack|mp",
+    "norm": 67.6
+  },
+  "odisha-government-confirms-2-deaths-denies-stampede-at-puri-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "death|mp|stampede|vote",
+    "norm": 67.6
+  },
+  "2-dead-78-in-hospital-after-rath-yatra-crowd-surge-in-puri": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "crowd|dead|dead|hospital|riot|row",
+    "norm": 67
+  },
+  "-crude-and-arrogant-brazil-hits-out-at-marco-rubio-over-rema": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "attack|attack|minister|president",
+    "norm": 64.7
+  },
+  "us-iran-war-news-live-us-launches-5th-consecutive-night-of-s": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "iran|toll|war",
+    "norm": 64.7
+  },
+  "us-launches-fresh-strikes-on-iran-state-tv-says-bandar-abbas": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "attack|attack|iran",
+    "norm": 62.7
+  },
+  "centre-puts-delhi-hospitals-on-alert-as-sonam-wangchuk-fast-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "alert|hospital|protest|protest",
+    "norm": 59.2
+  },
+  "trump-to-accuse-china-of-meddling-in-us-elections-in-primeti": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "china|election|election|mp|trump|trump",
+    "norm": 58.9
+  },
+  "after-ambushes-crpf-tells-forces-in-manipur-to-use-armoured-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "fire|fire|sudden",
+    "norm": 58.3
+  },
+  "pm-narendra-modi-speaks-to-amir-of-qatar-conveys-condolences": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "eu-report-raises-rights-concerns-as-pakistan-reaps-billions-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "bill|billion|mp|pakistan|policy|record",
+    "norm": 57.1
+  },
+  "fact-check-is-kylian-mbapp-really-planning-to-switch-to-span": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "captain|fan|star|world cup",
+    "norm": 56.8
+  },
+  "nsa-ajit-doval-calls-for-stronger-bimstec-cooperation-to-cou": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "row|terror|terror|threat",
+    "norm": 56.2
+  },
+  "neet-ug-results-2026-full-list-of-138-candidates-who-scored-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "exam|lakh|neet|result|results|results",
+    "norm": 56
   },
   "neet-ug-2026-exam-results-declared-11-21-lakh-candidates-qua": {
     "firstSeen": "2026-07-16T17:47:57.681Z",
     "signature": "exam|lakh|neet|result|results|results",
-    "norm": 67
+    "norm": 56
   },
-  "nta-declares-neet-ug-2026-results-over-11-21-lakh-qualify": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "lakh|neet|result|results|results",
-    "norm": 66.3
+  "neet-ug-results-declared-2-score-715-720-19-cross-700": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "neet|result|results|results",
+    "norm": 53.6
   },
-  "neet-ug-2026-results-declared-11-21-lakh-candidates-qualify-": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "exam|lakh|neet|result|results|results",
-    "norm": 65.4
+  "28-year-old-shot-dead-by-friend-in-gurugram-cops": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "dead|dead|hospital",
+    "norm": 53.4
   },
-  "congress-urges-wangchuk-to-end-his-fast-says-opposition-part": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "congress|minister|modi|modi|opposition",
-    "norm": 62.9
+  "man-stabbed-to-death-after-argument-over-borrowed-money-in-m": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "death|result|row",
+    "norm": 53.4
+  },
+  "m-k-stalin-asks-dmk-leaders-to-continue-anti-congress-stand-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "chief minister|congress|emotional|minister",
+    "norm": 52.3
   },
   "neet-ug-2026-result-declared-11-21-lakh-candidates-qualify": {
     "firstSeen": "2026-07-16T17:47:57.681Z",
     "signature": "lakh|neet|result",
-    "norm": 62.5
+    "norm": 51.2
   },
-  "roads-to-frontline-as-crucial-as-weapons-in-modern-warfare-r": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "defence|minister|war",
-    "norm": 59.7
-  },
-  "nia-to-charge-10-for-role-in-j-k-narco-terror-syndicate-": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "terror|terror",
-    "norm": 59.3
-  },
-  "backward-classes-leaders-in-a-p-demand-fair-deal": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "deal|war",
-    "norm": 57.1
-  },
-  "fake-swamiji-dupes-woman-of-43g-gold-1-3-lakh-during-special": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "gold|lakh",
-    "norm": 57.1
-  },
-  "neet-result-2026-live-updates-list-of-official-websites": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "neet|result",
-    "norm": 53.9
-  },
-  "women-outshine-men-in-neet-ug-2026-make-up-over-58-of-qualif": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "exam|neet",
-    "norm": 53.9
-  },
-  "meeting-on-cabinet-expansion-deferred-as-mallikarjun-kharge-": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "cabinet|congress|president",
-    "norm": 52.7
-  },
-  "-there-must-be-room-for-humanity-j-k-cm-expresses-concern-ov": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "will-discuss-if-government-amends-delimitation-bill-as-per-o": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "bill|opposition",
+  "fema-a-civil-law-rbi-alone-can-compound-offences-says-ed": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "mp|rbi",
     "norm": 50.5
   },
-  "leave-with-all-your-belongings-mamata-tells-deserters": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "congress|mamata",
-    "norm": 50.5
+  "trump-administration-tightens-visa-limits-for-foreign-studen": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "mp|trump|trump",
+    "norm": 50
   },
-  "jpc-to-back-govt-s-higher-education-reform-bill-recommend-st": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "bill|parliament",
-    "norm": 48.7
+  "trump-admin-limits-students-visa-tenure-to-fixed-period-of-4": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "mp|trump|trump",
+    "norm": 50
   },
-  "temple-chairman-reviews-cow-shelter-and-facilities-for-devot": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "mp|vote",
-    "norm": 48.7
+  "man-pulls-out-machete-from-bag-kills-woman-waiting-for-bus-i": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "attack|attack",
+    "norm": 47.7
   },
-  "-no-sensitive-data-leaked-govt-refutes-reports-of-kudankulam": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "minister|mp",
-    "norm": 48.7
+  "north-andhra-s-quick-development-will-ensure-more-jobs-for-y": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "jobs|mp",
+    "norm": 47.3
   },
-  "vicky-kaushal-wraps-katrina-kaif-in-a-warm-hug-on-her-birthd": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "war",
-    "norm": 46.3
+  "no-supreme-court-live-stream-in-hearings-for-those-without-l": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "policy|rally|rally|supreme court",
+    "norm": 47
   },
-  "iaf-to-participate-in-exercise-pitch-black-2026-in-australia": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "air force",
-    "norm": 44
+  "neet-ug-results-2026-aryan-gupta-panshul-bansal-top-exam-sco": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "exam|neet|result|results|results",
+    "norm": 47
   },
-  "over-25-nations-to-join-indian-navy-led-maritime-exercise-in": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "navy",
-    "norm": 44
-  },
-  "will-seek-support-of-singapore-for-tirupati-zoo-revamp-speak": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
+  "new-smart-ring-says-it-can-deliver-accurate-blood-pressure-t": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "in-ai-era-it-sector-employees-facing-an-uncertain-future": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "mp",
-    "norm": 44
+  "xi-jinping-to-present-china-s-ai-dream-at-major-conference-t": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "china|president",
+    "norm": 45.9
   },
-  "hmt-land-disputes-hdk-points-fingers-at-dks-over-land-divers": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
+  "supreme-court-judgments-say-state-has-a-duty-to-preserve-lif": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "high court|supreme court",
+    "norm": 45.9
+  },
+  "supreme-court-orders-states-to-frame-policy-for-early-releas": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "policy|supreme court",
+    "norm": 42.5
+  },
+  "third-language-from-class-ix-will-cause-undue-stress-says-su": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "supreme court",
+    "norm": 41
+  },
+  "rotary-club-donates-hbot-chamber-to-omandurar-government-hos": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "hospital",
+    "norm": 40.1
+  },
+  "neet-ug-2026-state-wise-toppers-list-check-top-rankers-from-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "neet",
+    "norm": 40.1
+  },
+  "-project-meghalaya-and-alleged-attempt-to-destabilise-vijay-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "mla|mp",
+    "norm": 38
+  },
+  "left-parties-step-up-opposition-to-proposed-data-centre-proj": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "opposition",
+    "norm": 37.5
+  },
+  "monsoon-season-power-crisis-power-curbs-likely-to-continue-i": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
     "signature": "minister",
-    "norm": 44
+    "norm": 37.5
   },
-  "cyber-police-issue-lookout-circular-against-controversial-ke": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
-    "signature": "visuals",
-    "norm": 40.7
+  "illegal-bike-taxis-in-kochi-pose-risk-to-passengers": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "tax",
+    "norm": 37.5
   },
-  "residents-seek-urgent-measures-to-protect-iruvanjippuzha-che": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
+  "all-hurdles-will-be-resolved-to-complete-irrigation-projects": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "how-russian-oligarch-s-superyacht-used-vanishing-tech-to-cro": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "anger",
+    "norm": 35.5
+  },
+  "ed-questions-tv-host-shefali-bagga-in-mahadev-betting-app-mo": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "exam",
+    "norm": 35.5
+  },
+  "rjd-spokesperson-mrityunjay-tiwari-resigns-says-no-place-for": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "war",
+    "norm": 35.5
+  },
+  "neet-ug-2026-toppers-list-released-check-names-ranks-and-sco": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "neet",
+    "norm": 35.5
+  },
+  "shiv-seva-spokesperson-shaina-nc-s-whatsapp-hacked": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "-politics-must-have-room-for-humanity-says-omar-wonders-why-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "minister",
+    "norm": 32.8
+  },
+  "tirupati-s-bus-shelter-inauguration-evokes-nostalgia": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
     "signature": "",
-    "norm": 36
+    "norm": 30.7
   },
-  "hyderabad-minor-girl-sexually-assaulted-by-neighbour-case-re": {
-    "firstSeen": "2026-07-16T17:47:57.681Z",
+  "health-dept-urges-safe-food-habits-after-3-shigellosis-cases": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 26.7
+  },
+  "govt-reconstitutes-sanskrit-varsity-syndicate": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "cmc-to-host-conference-on-radiology-in-vellore": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "chennai-fishing-boats-detained-in-andhra-pradesh-state-gover": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "texpo-2026-brings-together-299-industrial-exhibitors": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "populations-in-southern-india-among-most-affected-by-sleep-l": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "p-s-senior-secondary-school-wins-chettinad-vidyashram-model-": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "govt-committed-to-protecting-tribals-rights-says-asr-collect": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "-saarc-bimstec-don-t-need-to-be-rivals-bangladesh-at-delhi-m": {
+    "firstSeen": "2026-07-16T21:47:50.766Z",
+    "signature": "",
+    "norm": 26.7
   }
 }
