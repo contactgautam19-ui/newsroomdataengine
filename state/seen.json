@@ -1,176 +1,161 @@
 {
-  "stampede-like-situation-during-jagannath-rath-yatra-in-puri-": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "crowd|dead|dead|hospital|mp|rescue|rescue|row|stampede|vote",
-    "norm": 92.1
+  "rath-yatra-news-2026-2-dead-over-100-injured-in-puri-rath-ya": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "crowd|dead|dead|injured|mp|row|stampede|vote",
+    "norm": 88.6
   },
-  "breaking-stampede-like-situation-during-jagannath-rath-yatra": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "dead|dead|death|fear|hospital|mp|stampede|vote",
-    "norm": 86
+  "1-dead-several-vehicles-crushed-after-crane-collapses-from-h": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "collapse|collapse|collapse|dead|dead|died|injured|mp",
+    "norm": 88.3
   },
-  "puri-rath-yatra-2026-live-updates-one-dead-over-200-hospital": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "dead|dead|hospital|mp|panic|stampede|vote",
-    "norm": 83.6
+  "-don-t-appoint-smriti-irani-in-place-of-dharmendra-pradhan-a": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "aap|bjp|iran|parliament|protest|protest|war",
+    "norm": 82
   },
-  "q1-results-live-updates-polycab-revenue-jumps-39-itc-hotels-": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "mp|result|results|results",
-    "norm": 65.1
+  "caught-on-camera-karnataka-woman-waiting-for-bus-hacked-to-d": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "attack|attack|caught on camera|death|shock|shock|shocking",
+    "norm": 78.8
   },
-  "congress-appeals-to-wangchuk-to-end-fast-says-his-concerns-a": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "congress|minister|modi|modi",
-    "norm": 63.5
+  "voices-from-opposition-film-industry-rally-in-wangchuk-s-sup": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "actor|congress|film|khan|opposition|rally|rally",
+    "norm": 69
   },
-  "mallikarjun-kharge-writes-to-pm-modi-seeks-all-party-meeting": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "minister|modi|modi|opposition|parliament|prime minister",
-    "norm": 63.4
+  "neet-ug-2026-exam-results-declared-11-21-lakh-candidates-qua": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "exam|lakh|neet|result|results|results",
+    "norm": 67
   },
-  "211-chemo-patients-evacuated-us-strikes-near-iran-cancer-hos": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "evacuat|hospital|iran",
+  "nta-declares-neet-ug-2026-results-over-11-21-lakh-qualify": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "lakh|neet|result|results|results",
+    "norm": 66.3
+  },
+  "neet-ug-2026-results-declared-11-21-lakh-candidates-qualify-": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "exam|lakh|neet|result|results|results",
+    "norm": 65.4
+  },
+  "congress-urges-wangchuk-to-end-his-fast-says-opposition-part": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "congress|minister|modi|modi|opposition",
     "norm": 62.9
   },
-  "fourth-trinamool-congress-mp-actor-koel-mallick-resigns-from": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "actor|congress|mp|rajya sabha",
-    "norm": 60
+  "neet-ug-2026-result-declared-11-21-lakh-candidates-qualify": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "lakh|neet|result",
+    "norm": 62.5
   },
-  "did-kushner-witkoff-profit-from-middle-east-war-what-iran-cl": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "iran|war",
-    "norm": 57.6
+  "roads-to-frontline-as-crucial-as-weapons-in-modern-warfare-r": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "defence|minister|war",
+    "norm": 59.7
   },
-  "60-artisans-20-years-and-counting-the-castle-being-built-lik": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "killed|killed",
-    "norm": 57.6
+  "nia-to-charge-10-for-role-in-j-k-narco-terror-syndicate-": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "terror|terror",
+    "norm": 59.3
   },
-  "jagannath-puri-rath-yatra-2026-begins-today-key-dates-devote": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "mp|star|vote",
-    "norm": 56.1
+  "backward-classes-leaders-in-a-p-demand-fair-deal": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "deal|war",
+    "norm": 57.1
   },
-  "ind-vs-eng-why-is-kl-rahul-not-playing-in-india-vs-england-2": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "captain|india vs",
-    "norm": 55.7
+  "fake-swamiji-dupes-woman-of-43g-gold-1-3-lakh-during-special": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "gold|lakh",
+    "norm": 57.1
   },
-  "europe-s-heatwave-has-an-important-lesson-for-smartphone-use": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "heatwave|mp",
-    "norm": 55.4
-  },
-  "india-s-first-privately-developed-orbital-class-rocket-vikra": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "mp|rbi",
-    "norm": 55
-  },
-  "navi-mumbai-guwahati-airports-among-world-s-most-beautiful-": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "adani|war",
+  "neet-result-2026-live-updates-list-of-official-websites": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "neet|result",
     "norm": 53.9
   },
-  "may-rethink-over-delimitation-bill-if-opposition-s-amendment": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "bill|lok sabha|opposition",
-    "norm": 50.9
+  "women-outshine-men-in-neet-ug-2026-make-up-over-58-of-qualif": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "exam|neet",
+    "norm": 53.9
   },
-  "congress-keen-on-ensuring-kamaraj-type-corruption-free-gover": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "congress|minister",
+  "meeting-on-cabinet-expansion-deferred-as-mallikarjun-kharge-": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "cabinet|congress|president",
+    "norm": 52.7
+  },
+  "-there-must-be-room-for-humanity-j-k-cm-expresses-concern-ov": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "will-discuss-if-government-amends-delimitation-bill-as-per-o": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "bill|opposition",
     "norm": 50.5
   },
-  "marriage-certified-by-a-notary-mp-hc-says-they-have-no-such-": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "high court|mp",
+  "leave-with-all-your-belongings-mamata-tells-deserters": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "congress|mamata",
+    "norm": 50.5
+  },
+  "jpc-to-back-govt-s-higher-education-reform-bill-recommend-st": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "bill|parliament",
     "norm": 48.7
   },
-  "kudankulam-nuclear-power-plant-data-leak-what-happened-and-w": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
+  "temple-chairman-reviews-cow-shelter-and-facilities-for-devot": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "mp|vote",
+    "norm": 48.7
+  },
+  "-no-sensitive-data-leaked-govt-refutes-reports-of-kudankulam": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "minister|mp",
+    "norm": 48.7
+  },
+  "vicky-kaushal-wraps-katrina-kaif-in-a-warm-hug-on-her-birthd": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
     "signature": "war",
     "norm": 46.3
   },
-  "deportation-fear-inside-steep-decline-in-indians-illegal-imm": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "fear",
-    "norm": 46.3
+  "iaf-to-participate-in-exercise-pitch-black-2026-in-australia": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "air force",
+    "norm": 44
   },
-  "nurses-in-kerala-s-kannur-call-off-their-62-day-strike-as-ko": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "hospital",
-    "norm": 46.3
+  "over-25-nations-to-join-indian-navy-led-maritime-exercise-in": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "navy",
+    "norm": 44
   },
-  "t-n-forest-department-to-consider-permitting-visitors-to-cha": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
+  "will-seek-support-of-singapore-for-tirupati-zoo-revamp-speak": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "skyroot-s-historic-vikram-1-launch-isro-opens-sriharikota-vi": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "rbi",
-    "norm": 45.9
+  "in-ai-era-it-sector-employees-facing-an-uncertain-future": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "sabarimala-roads-to-be-fully-repaired-before-mandalam-pilgri": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
+  "hmt-land-disputes-hdk-points-fingers-at-dks-over-land-divers": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
     "signature": "minister",
-    "norm": 45.9
-  },
-  "scuffle-breaks-out-between-congress-functionaries-during-kam": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "congress",
-    "norm": 45.9
-  },
-  "why-run-clubs-and-trekking-groups-are-becoming-friendship-hu": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "covid-19-case-at-aiims-mangalagiri-guntur-health-authorities": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "mp",
     "norm": 44
   },
-  "fine-imposed-for-violating-bind-over-conditions": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "mp",
-    "norm": 44
+  "cyber-police-issue-lookout-circular-against-controversial-ke": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
+    "signature": "visuals",
+    "norm": 40.7
   },
-  "ground-water-levels-fall-in-18-districts-telangana-releases-": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
+  "residents-seek-urgent-measures-to-protect-iruvanjippuzha-che": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
     "signature": "",
     "norm": 36
   },
-  "delhi-hc-directs-daily-medical-monitoring-of-sonam-wangchuk-": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "",
-    "norm": 36
-  },
-  "bimstec-security-chiefs-meet-in-delhi-ajit-doval-holds-strat": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "",
-    "norm": 36
-  },
-  "hyderabad-school-sacks-teacher-after-class-2-student-alleged": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "golconda-bonalu-2026-begins-with-gaity-as-thousands-converge": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "isro-issues-memo-to-curb-exodus-of-scientists-and-engineers-": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "ias-officers-reshuffle-in-tamil-nadu-j-radhakrishnan-supriya": {
-    "firstSeen": "2026-07-16T12:11:24.860Z",
+  "hyderabad-minor-girl-sexually-assaulted-by-neighbour-case-re": {
+    "firstSeen": "2026-07-16T17:47:57.681Z",
     "signature": "",
     "norm": 33.9
   }
