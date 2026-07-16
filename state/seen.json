@@ -1,181 +1,176 @@
 {
-  "us-iran-war-live-airport-bombed-air-defences-activated-in-te": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "attack|attack|bomb|defence|iran|mp|war",
-    "norm": 89.1
+  "stampede-like-situation-during-jagannath-rath-yatra-in-puri-": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "crowd|dead|dead|hospital|mp|rescue|rescue|row|stampede|vote",
+    "norm": 92.1
   },
-  "will-gold-head-to-rs-1-45-lakh-10-gm-amp-silver-reach-rs-2-2": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "gold|lakh|modi|modi|mp|price|prices",
-    "norm": 78.8
+  "breaking-stampede-like-situation-during-jagannath-rath-yatra": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "dead|dead|death|fear|hospital|mp|stampede|vote",
+    "norm": 86
   },
-  "former-rbi-governor-raghuram-rajan-2-other-indians-appointed": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "governor|policy|rbi|sharma|war",
-    "norm": 76.2
+  "puri-rath-yatra-2026-live-updates-one-dead-over-200-hospital": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "dead|dead|hospital|mp|panic|stampede|vote",
+    "norm": 83.6
   },
-  "karnataka-sir-extended-nearly-14-lakh-voters-flagged-as-abse": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "dead|dead|lakh|vote",
-    "norm": 74
+  "q1-results-live-updates-polycab-revenue-jumps-39-itc-hotels-": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "mp|result|results|results",
+    "norm": 65.1
   },
-  "high-drama-outside-hyderabad-school-amid-kalma-controversy-b": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "bjp|controversy|protest|protest",
-    "norm": 67.9
+  "congress-appeals-to-wangchuk-to-end-fast-says-his-concerns-a": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "congress|minister|modi|modi",
+    "norm": 63.5
   },
-  "hyderabad-school-controversy-bjp-protests-after-class-2-stud": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "bjp|controversy|protest|protest",
-    "norm": 67.9
+  "mallikarjun-kharge-writes-to-pm-modi-seeks-all-party-meeting": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "minister|modi|modi|opposition|parliament|prime minister",
+    "norm": 63.4
   },
-  "-life-is-precious-delhi-hc-urges-centre-to-regularly-examine": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "exam|high court|war",
-    "norm": 66
+  "211-chemo-patients-evacuated-us-strikes-near-iran-cancer-hos": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "evacuat|hospital|iran",
+    "norm": 62.9
   },
-  "interpretation-of-sexual-offences-should-not-be-limited-only": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "fear|mp|trauma",
-    "norm": 60.8
+  "fourth-trinamool-congress-mp-actor-koel-mallick-resigns-from": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "actor|congress|mp|rajya sabha",
+    "norm": 60
   },
-  "devotees-throng-iskcon-jagannath-temple-in-vijayawada-for-na": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "mp|riot|vote",
-    "norm": 59.7
+  "did-kushner-witkoff-profit-from-middle-east-war-what-iran-cl": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "iran|war",
+    "norm": 57.6
   },
-  "supreme-court-agrees-to-hear-appeal-against-ban-on-animated-": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "film|movie|supreme court",
-    "norm": 57.1
+  "60-artisans-20-years-and-counting-the-castle-being-built-lik": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "killed|killed",
+    "norm": 57.6
   },
-  "hyderabad-pharma-firm-executives-donate-2-crore-to-ttd-schem": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "crore|mp",
+  "jagannath-puri-rath-yatra-2026-begins-today-key-dates-devote": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "mp|star|vote",
+    "norm": 56.1
+  },
+  "ind-vs-eng-why-is-kl-rahul-not-playing-in-india-vs-england-2": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "captain|india vs",
+    "norm": 55.7
+  },
+  "europe-s-heatwave-has-an-important-lesson-for-smartphone-use": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "heatwave|mp",
+    "norm": 55.4
+  },
+  "india-s-first-privately-developed-orbital-class-rocket-vikra": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "mp|rbi",
     "norm": 55
   },
-  "amarnath-yatra-fresh-batch-of-5-201-pilgrims-leaves-jammu-un": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "lakh|vote",
-    "norm": 55
-  },
-  "akhilesh-yadav-to-shabana-azmi-politicians-celebrities-unite": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "kanwariyas-vandalise-pickup-after-contact-with-kanwar-in-utt": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "anger|war",
+  "navi-mumbai-guwahati-airports-among-world-s-most-beautiful-": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "adani|war",
     "norm": 53.9
   },
-  "parliament-s-new-arithmetic-can-nda-push-big-ticket-reforms-": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "bjp|opposition|parliament",
+  "may-rethink-over-delimitation-bill-if-opposition-s-amendment": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "bill|lok sabha|opposition",
     "norm": 50.9
   },
-  "us-china-lead-ai-race-where-india-stands-and-what-s-really-a": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "china|mp",
+  "congress-keen-on-ensuring-kamaraj-type-corruption-free-gover": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "congress|minister",
+    "norm": 50.5
+  },
+  "marriage-certified-by-a-notary-mp-hc-says-they-have-no-such-": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "high court|mp",
     "norm": 48.7
   },
-  "93-hours-a-year-in-chennai-warmer-nights-are-stealing-india-": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
+  "kudankulam-nuclear-power-plant-data-leak-what-happened-and-w": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
     "signature": "war",
     "norm": 46.3
   },
-  "sonam-wangchuk-hunger-strike-day-19-delhi-hc-raises-health-c": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "neet",
+  "deportation-fear-inside-steep-decline-in-indians-illegal-imm": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "fear",
     "norm": 46.3
   },
-  "kerala-agricultural-university-releases-five-new-high-yieldi": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
+  "nurses-in-kerala-s-kannur-call-off-their-62-day-strike-as-ko": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "hospital",
+    "norm": 46.3
+  },
+  "t-n-forest-department-to-consider-permitting-visitors-to-cha": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "t-n-will-take-appropriate-steps-to-get-cauvery-water-for-far": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
+  "skyroot-s-historic-vikram-1-launch-isro-opens-sriharikota-vi": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "rbi",
+    "norm": 45.9
+  },
+  "sabarimala-roads-to-be-fully-repaired-before-mandalam-pilgri": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
     "signature": "minister",
     "norm": 45.9
   },
-  "-cast-iron-support-for-ukraine-keir-starmer-backs-kyiv-on-fi": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "star",
-    "norm": 44.3
+  "scuffle-breaks-out-between-congress-functionaries-during-kam": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "congress",
+    "norm": 45.9
   },
-  "govt-s-first-reaction-to-sonam-wangchuk-s-hunger-strike-can-": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "high court",
+  "why-run-clubs-and-trekking-groups-are-becoming-friendship-hu": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "covid-19-case-at-aiims-mangalagiri-guntur-health-authorities": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "mp",
     "norm": 44
   },
-  "-want-doctors-to-do-regular-checkups-court-tells-centre-on-p": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "high court",
+  "fine-imposed-for-violating-bind-over-conditions": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "mp",
     "norm": 44
+  },
+  "ground-water-levels-fall-in-18-districts-telangana-releases-": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
+    "signature": "",
+    "norm": 36
   },
   "delhi-hc-directs-daily-medical-monitoring-of-sonam-wangchuk-": {
     "firstSeen": "2026-07-16T06:40:36.330Z",
     "signature": "",
     "norm": 36
   },
-  "hc-directs-telangana-govt-to-grant-180-days-maternity-leave-": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
+  "bimstec-security-chiefs-meet-in-delhi-ajit-doval-holds-strat": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
     "signature": "",
     "norm": 36
   },
-  "farmers-told-to-adopt-alternative-methods-to-counter-climate": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "",
-    "norm": 36
-  },
-  "epfo-s-new-system-speeds-up-interest-credits-83-claims-now-a": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "",
-    "norm": 36
-  },
-  "cm-mann-says-punjab-s-journey-to-become-no-1-will-continue-w": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-avoid-deploying-indian-seafarers-on-vessels-crossing-hormuz": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
+  "hyderabad-school-sacks-teacher-after-class-2-student-alleged": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
     "signature": "",
     "norm": 33.9
   },
-  "telangana-state-legislative-assembly-secretariat-and-equippp": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
+  "golconda-bonalu-2026-begins-with-gaity-as-thousands-converge": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
     "signature": "",
     "norm": 33.9
   },
-  "gaganyaan-mission-isro-battles-scientist-exodus-to-keep-indi": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
+  "isro-issues-memo-to-curb-exodus-of-scientists-and-engineers-": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
     "signature": "",
     "norm": 33.9
   },
-  "kanpur-lucknow-expressway-announced-time-vs-actual-time-grou": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-every-life-is-precious-delhi-hc-tells-centre-over-plea-seek": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "don-8217-t-deploy-indian-sailors-on-ships-passing-through-ho": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "mbt-seeks-sit-probe-into-alleged-sexual-exploitation-of-14-y": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "sonam-wangchuk-loses-nearly-9-kg-in-19-days-what-weeks-witho": {
-    "firstSeen": "2026-07-16T06:40:36.330Z",
+  "ias-officers-reshuffle-in-tamil-nadu-j-radhakrishnan-supriya": {
+    "firstSeen": "2026-07-16T12:11:24.860Z",
     "signature": "",
     "norm": 33.9
   }
