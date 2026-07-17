@@ -1,232 +1,162 @@
 {
-  "akhilesh-hits-out-at-bjp-over-demolition-notice-to-universit": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "attack|attack|bjp|khan|mp|rajya sabha",
-    "norm": 80
+  "india-releases-first-anti-terror-policy-prahaar": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "attack|attack|border|mp|policy|terror|terror",
+    "norm": 83.2
   },
-  "protests-erupt-in-maharashtra-after-12-year-old-girl-alleged": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "attack|attack|maharashtra|protest|protest",
-    "norm": 79.7
+  "supreme-court-takes-suo-motu-cognisance-of-matter-regarding-": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "died|high court|price|prices|rbi|supreme court",
+    "norm": 75.5
   },
-  "give-consumers-option-between-100-petrol-and-ethanol-blended": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "lakh|modi|modi|petrol|petrol",
-    "norm": 74.6
-  },
-  "rath-yatra-sc-upholds-temporary-stay-on-animated-movie-clear": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "film|high court|modi|modi|movie|mp",
+  "fast-forward-from-father-to-son-how-sonam-wangchuk-s-protest": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "minister|prime minister|protest|protest|war",
     "norm": 72
   },
-  "gujarat-ats-intensifies-jem-crackdown-five-more-arrested-in-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "bomb|mp|terror|terror",
+  "cocaine-amp-guns-how-fifa-s-world-cup-final-referee-was-caug": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "controversy|match|mp|world cup",
     "norm": 71
   },
-  "bimstec-security-chiefs-vow-joint-action-against-terrorism-e": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "ipl|terror|terror",
-    "norm": 68
+  "tmc-mla-madan-mitra-attends-mamata-camp-s-assembly-protest-d": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "mamata|mla|mp|protest|protest",
+    "norm": 69
   },
-  "three-children-killed-after-train-hits-pool-car-at-open-leve": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "killed|killed|mp",
-    "norm": 67.6
+  "neet-re-test-results-2026-12-students-from-tamil-nadu-score-": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "mp|neet|result|results|results",
+    "norm": 66.3
   },
-  "train-collides-with-school-van-in-west-bengal-s-murshidabad-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "dead|dead|hospital|injured",
-    "norm": 67.1
+  "india-warns-seafarers-against-strait-of-hormuz-deployment-15": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "attack|attack|threat|war",
+    "norm": 65.5
   },
-  "8-convicted-29-acquitted-in-2019-attack-on-forest-officials-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "attack|attack|mp",
-    "norm": 66
+  "pm-modi-announced-ram-temple-trust-in-parliament-must-break-": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "congress|minister|modi|modi|mp|parliament|prime minister",
+    "norm": 65.3
   },
-  "congress-mp-pawan-khera-visits-sonam-wangchuk-slams-insensit": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "congress|mp|slam|slams",
-    "norm": 65
-  },
-  "us-immigration-officer-in-maine-shooting-has-history-of-viol": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "attack|attack|shooting",
-    "norm": 62.9
-  },
-  "us-taps-raghuram-rajan-2-other-indian-origin-experts-for-key": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "governor|rbi|sharma",
-    "norm": 62.1
-  },
-  "jantar-mantar-protest-live-will-stay-alive-till-july-20-at-a": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "protest|protest|star",
-    "norm": 61.4
-  },
-  "india-s-first-hydrogen-train-10-features-that-make-it-specia": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "modi|modi|photos",
-    "norm": 61.1
-  },
-  "-weak-from-outside-strong-inside-sonam-wangchuk-as-fast-ente": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "minister|neet|parliament",
-    "norm": 59.7
-  },
-  "pm-modi-flags-off-india-s-first-hydrogen-train-check-route-t": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "modi|modi|mp",
-    "norm": 59.7
-  },
-  "-will-stay-alive-come-back-as-ghost-if-sonam-wangchuk-urges-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "exam|mp|parliament",
-    "norm": 59.7
-  },
-  "gujarat-ats-arrests-5-alleged-jem-operatives-major-anti-terr": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
+  "five-more-arrested-in-gujarat-anti-terrorist-squad-probe-int": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
     "signature": "terror|terror",
     "norm": 59.3
   },
-  "spacex-short-sellers-make-4-billion-why-investors-are-bettin": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "bill|billion|investor",
-    "norm": 57.6
-  },
-  "pakistan-took-india-to-arbitration-over-indus-waters-treaty-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "bill|pakistan|rbi",
-    "norm": 57.6
-  },
-  "virtual-appearance-no-live-streaming-supreme-court-tightens-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "row|supreme court",
+  "mahasweta-devi-at-100-why-her-greatest-legacy-lies-in-the-ad": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "death|mp",
     "norm": 57.1
   },
-  "telangana-reservoirs-levels-constrict-irrigation-usage-groun": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "mp|weather",
+  "india-s-development-did-not-come-to-standstill-despite-oil-s": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "modi|modi",
     "norm": 57.1
   },
-  "shillong-teer-result-today-july-17-2026-check-winning-number": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "khan|result",
-    "norm": 55.7
-  },
-  "pm-modi-flags-off-india-8217-s-first-hydrogen-train-on-jind-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "modi|modi",
-    "norm": 55.4
-  },
-  "-dream-about-to-come-true-pm-modi-ahead-of-launch-of-1st-hyd": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "modi|modi",
-    "norm": 55.4
-  },
-  "wife-can-t-use-rti-to-access-husband-s-itrs-for-maintenance-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "tax|war",
-    "norm": 55.4
-  },
-  "chembur-tree-fall-incident-mumbai-bmc-mayor-orders-fresh-thi": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "actor|mp",
+  "aimplb-opposes-demolition-notice-to-azam-khan-s-jauhar-unive": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "khan|mp",
     "norm": 53.5
   },
-  "rbi-compounds-fema-violations-in-apothecon-pharmaceuticals-c": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "mp|rbi",
+  "ex-badrinath-temple-officer-arrested-in-donation-theft-case-": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "cctv|footage|mp",
     "norm": 53.2
   },
-  "the-odyssey-movie-release-and-review-live-first-visuals-emer": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "movie|visuals",
+  "four-minors-school-dropouts-found-living-in-live-in-relation": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "rescue|rescue",
+    "norm": 52.4
+  },
+  "kerala-govt-moves-supreme-court-against-high-court-order-on-": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "high court|opposition|policy|supreme court",
+    "norm": 52.1
+  },
+  "tamil-nadu-governor-appeals-for-public-participation-in-self": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "governor|mp",
     "norm": 50.5
   },
-  "india-gets-its-1st-hydrogen-powered-train-will-run-on-89-km-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "diesel|fuel",
-    "norm": 48.7
+  "parliamentary-panel-on-bill-to-remove-pm-cms-defers-adoption": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "bill|parliament",
+    "norm": 50.5
   },
-  "china-s-xi-says-ai-should-not-be-dominated-by-one-nation": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "china|policy",
-    "norm": 48.7
-  },
-  "up-to-tamil-nadu-man-begins-cross-country-foot-march-to-meet": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "chief minister|minister",
-    "norm": 48.7
-  },
-  "bantwal-police-secure-man-accused-of-hacking-woman-in-broad-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "hospital",
+  "call-for-stir-until-sit-probe-into-mysterious-deaths-of-chil": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "death",
     "norm": 48.2
   },
-  "2020-riots-case-hc-notice-to-delhi-police-on-bail-plea-by-sh": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "riot",
+  "karnataka-government-urged-to-declare-drought-announce-relie": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "row",
     "norm": 48.2
   },
-  "weak-monsoon-2026-to-be-key-agenda-of-telangana-cabinet-meet": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "cabinet",
+  "sonam-wangchuk-loses-over-9-kg-weakens-significantly-on-19th": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "alert",
+    "norm": 48.2
+  },
+  "aamir-khan-says-his-character-in-3-idiots-not-based-on-sonam": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "film|khan",
+    "norm": 46.3
+  },
+  "census-self-enumeration-process-in-tamil-nadu-to-commence-on": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "16th-batch-of-over-4600-pilgrims-leave-for-amarnath-cave-fro": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "lakh",
+  "ncp-sp-to-join-nda-only-as-part-of-a-unified-ncp-bjp-tells-m": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "bjp",
     "norm": 45.9
   },
-  "no-diesel-no-overhead-wires-how-india-s-first-hydrogen-train": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "diesel",
-    "norm": 44
+  "how-musicians-are-reinventing-the-centuries-old-abhang": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "jagan-mohan-reddy-launched-ai-super-app-to-connect-with-part": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
+  "andy-burnham-set-to-be-new-uk-pm-takes-over-from-keir-starme": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "star",
+    "norm": 44.3
+  },
+  "-don-t-want-to-be-blamed-sc-wants-details-on-rape-convict-as": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
     "signature": "mp",
     "norm": 44
   },
-  "the-great-indian-flip-people-on-roads-bikes-on-footpaths": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "mp",
-    "norm": 44
+  "watch-census-2027-your-questions-answered-inside-tamil-nadu-": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "watch",
+    "norm": 40.7
   },
-  "sc-clears-all-india-release-of-animated-film-mahaprabhu-jaga": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "film",
-    "norm": 42.4
+  "watch-tamil-nadu-census-2027-why-headcount-matters": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
+    "signature": "watch",
+    "norm": 40.7
   },
-  "ground-water-levels-fall-in-18-districts-telangana-releases-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
+  "indian-railways-a-means-2nd-ac-b-means-3rd-ac-but-what-is-an": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
     "signature": "",
     "norm": 36
   },
-  "-i-will-stay-alive-till-july-20-at-any-cost-wangchuk-as-fast": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
+  "hydraa-fences-3-63-acres-land-in-hyderabad-s-banjara-hills-r": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
     "signature": "",
     "norm": 36
   },
-  "850-kg-of-ghee-seized-on-suspicion-of-adulteration-during-te": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
+  "2-pin-vs-3-pin-plug-what-s-the-difference-find-out-which-one": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
     "signature": "",
     "norm": 36
   },
-  "973-page-chargsheet-filed-in-delhi-irs-officer-s-daughter-ra": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
+  "how-much-does-an-isro-scientist-earn-salary-eligibility-expl": {
+    "firstSeen": "2026-07-17T11:55:25.895Z",
     "signature": "",
-    "norm": 33.9
-  },
-  "mahasweta-devi-s-best-books-grandson-tathagata-bhattacharya-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "major-shake-up-in-delhi-police-anurag-kumar-replaces-satish-": {
-    "firstSeen": "2026-07-17T06:31:21.373Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
