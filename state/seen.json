@@ -1,171 +1,86 @@
 {
-  "at-least-nine-dead-in-blast-and-fire-at-illegal-firecracker-": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "blast|dead|dead|fire|fire|injured|modi|modi",
-    "norm": 90.6
+  "shutdown-over-civilian-death-during-anti-militancy-operation": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "death|killed|killed",
+    "norm": 62.9
   },
-  "-asatya-hinsa-rahul-gandhi-attacks-government-calls-removal-": {
-    "firstSeen": "2026-07-18T11:32:55.171Z",
-    "signature": "attack|attack|congress|ipl|modi|modi|mp|opposition|rahul gandhi",
-    "norm": 87.7
+  "army-opens-fire-after-observing-suspicious-movement-along-lo": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "army|fire|fire",
+    "norm": 62.8
   },
-  "karnataka-to-celebrate-mysuru-dasara-amid-drought-fears-bjp-": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "bjp|congress|fear|lakh|slam|slams",
-    "norm": 75.4
+  "-not-just-statehood-pdp-chief-lists-conditions-for-joining-n": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "protest|protest|slam",
+    "norm": 59.6
   },
-  "rajat-kamal-for-mammootty-a-stamp-of-approval-for-an-iconic-": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "actor|mp|record|star|war",
-    "norm": 72.9
+  "t-n-government-contemplates-reducing-vat-rate-on-aviation-tu": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "fuel|mp|rbi",
+    "norm": 59.3
   },
-  "guntur-incident-reflects-collapse-of-law-and-order-in-andhra": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "collapse|collapse|collapse|ruling",
-    "norm": 68.3
+  "partial-shutdown-in-doda-kishtwar-over-man-s-death-in-run-in": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "death|died|war",
+    "norm": 56.6
   },
-  "bidadi-row-jd-s-plans-march-from-july-30-bjp-keen-on-joint-p": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "bjp|protest|protest|row",
-    "norm": 67.9
+  "mother-son-complete-their-iit-m-programmes-together": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "ipl|mp",
+    "norm": 55.4
   },
-  "sonam-wangchuk-hunger-strike-live-cjp-s-dipke-says-delhi-pol": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "hospital|protest|protest",
-    "norm": 64.9
+  "mehbooba-rejects-farooq-s-invite-to-join-jantar-mantar-prote": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "former-kerala-chief-minister-oommen-chandy-remembered-on-dea": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "chief minister|death|minister",
-    "norm": 61.4
+  "ncb-seizes-5kg-heroin-smuggled-from-pakistan-in-poonch-1-hel": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "border|pakistan",
+    "norm": 48.7
   },
-  "in-srinagar-books-drew-bigger-crowds-than-the-summer-heat-co": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "china|crowd|row",
-    "norm": 61.1
+  "t-n-government-to-celebrate-state-s-history-on-both-july-18-": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
   },
-  "cbse-class-10-second-board-exam-2026-results-declared": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "exam|result|results|results",
-    "norm": 58
-  },
-  "hyderabad-police-book-two-for-rooftop-stunts-on-illegally-mo": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "modi|modi",
-    "norm": 57.1
-  },
-  "-us-blade-your-throat-iran-hardliners-turn-on-leaders-amid-c": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "iran|parliament",
-    "norm": 57.1
-  },
-  "-8216-if-modi-won-8217-t-sack-dharmendra-pradhan-he-is-respo": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "modi|modi",
-    "norm": 57.1
-  },
-  "hydraa-secures-hillocks-near-ammuguda-reclaims-840-acres-of-": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "bill|billion",
-    "norm": 55
-  },
-  "fans-1-productivity-0-how-fifa-world-cup-2026-could-trigger-": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "fan|world cup",
-    "norm": 53.9
-  },
-  "top-maoist-commander-ajay-mahato-carrying-rs-25-lakh-bounty-": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "khan|lakh",
-    "norm": 51.7
-  },
-  "14-injured-after-apsrtc-bus-overturns-in-prakasam-district": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "injured",
-    "norm": 48.2
-  },
-  "kea-allows-ug-neet-candidates-to-register-for-ug-cet-link-th": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "neet",
-    "norm": 48.2
-  },
-  "-no-worries-at-all-morkel-backs-rohit-despite-scrutiny-urges": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "rohit|sharma",
-    "norm": 46.3
-  },
-  "-netanyahu-belongs-in-the-hague-mamdani-considering-israel-p": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "israel",
-    "norm": 46.3
-  },
-  "waqf-board-says-proposed-musi-riverfront-land-acquisition-wi": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "acquisition",
-    "norm": 45.9
-  },
-  "ficci-ladies-organisation-members-call-on-governor": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "governor",
-    "norm": 45.9
-  },
-  "information-commission-orders-police-station-video-footage-b": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "footage|video",
+  "apple-music-and-apple-one-subscriptions-get-more-expensive-g": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "mla",
     "norm": 44
   },
-  "telangana-cm-congratulates-hyderabad-based-skyroot-aerospace": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
+  "inaugural-ilca-open-india-international-sailing-championship": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "harman-collaborates-with-city-university-on-automobile-tech": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
     "signature": "",
     "norm": 36
   },
-  "psc-hands-over-documents-to-crime-branch": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
+  "loyola-college-hosts-workshop-on-digital-accessibility-for-p": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
     "signature": "",
     "norm": 36
   },
-  "plus-one-34-752-students-get-supplementary-allotment-in-kera": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "",
-    "norm": 36
-  },
-  "after-ndtv-report-centre-orders-probe-into-b-ed-colleges-tha": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-vaishu-is-finished-nashik-man-kills-ex-girlfriend-informs-f": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "",
-    "norm": 36
-  },
-  "3a-notification-for-eight-lane-kochi-bypass-to-be-reissued-i": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "",
-    "norm": 36
-  },
-  "ngt-orders-sealing-of-chromium-tainted-wells-in-odisha-s-suk": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
-    "signature": "",
-    "norm": 36
-  },
-  "desi-rice-mela-begins-in-mysuru-over-200-varieties-on-displa": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
+  "new-tool-to-help-cities-quantify-greenhouse-gas-emissions-fr": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
     "signature": "",
     "norm": 33.9
   },
-  "hindutva-activists-booked-for-assault-on-alleged-bangladeshi": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
+  "police-to-step-up-surveillance-at-fifa-final-streaming-venue": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
     "signature": "",
     "norm": 33.9
   },
-  "waqf-case-petitioner-moves-caveat-in-sc": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
+  "anbumani-seeks-white-paper-on-cmda-crisis-": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
     "signature": "",
     "norm": 33.9
   },
-  "first-given-milk-laced-with-sleeping-pills-the-bitten-by-a-s": {
-    "firstSeen": "2026-07-18T15:32:58.710Z",
+  "traffic-diversions-on-nalgonda-x-roads-owaisi-junction-till-": {
+    "firstSeen": "2026-07-18T19:56:16.183Z",
     "signature": "",
     "norm": 33.9
   }
