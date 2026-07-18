@@ -1,67 +1,172 @@
 {
-  "us-hits-iran-7th-night-in-row-tehran-replies-with-no-border-": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "border|iran|row|war|warning",
-    "norm": 80.7
+  "kejriwal-slams-centre-over-sonam-wangchuk-s-hospitalisation-": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "aap|hospital|kejriwal|modi|modi|slam|slams",
+    "norm": 87.8
   },
-  "what-us-iran-russia-say-is-irrelevant-we-have-to-march-forwa": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "iran|war",
-    "norm": 59.3
+  "hiv-outbreak-in-pakistan-how-deadly-safety-lapses-at-sindh-h": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "dead|dead|hospital|outbreak|pakistan",
+    "norm": 75.1
   },
-  "elon-musk-s-spacex-in-talks-to-provide-computing-power-to-pe": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "bill|billion|mp",
-    "norm": 57.6
+  "-still-old-school-believe-in-protocol-says-manish-tewari-on-": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "minister|modi|modi|prime minister|war",
+    "norm": 73.6
   },
-  "babulal-marandi-writes-to-hemant-soren-demanding-a-judicial-": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "mp|scam",
+  "security-tightened-at-jantar-mantar-safdarjung-hospital-afte": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "hospital|protest|protest|row|war",
+    "norm": 70.9
+  },
+  "rescuers-race-to-find-survivors-in-rain-after-landslip-in-ch": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "china|landslide|rescue|rescue",
+    "norm": 67.9
+  },
+  "vikram-1-lifts-off-what-india-s-first-private-orbital-rocket": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "modi|modi|rbi",
+    "norm": 65.6
+  },
+  "axis-bank-q1-profit-rises-23-to-rs-7-114-crore-nii-grows-8-a": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "crore|mp|row",
+    "norm": 63.9
+  },
+  "ethanol-blending-won-t-lower-fuel-rates-ex-hpcl-chief-busts-": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "fuel|petrol|petrol|price|prices",
+    "norm": 62.9
+  },
+  "-sharad-pawar-should-take-the-final-call-on-allying-with-nda": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "mp|row|war",
+    "norm": 62.5
+  },
+  "investors-are-returning-says-suvendu-lays-foundation-stone-f": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "chief minister|crore|investor|minister",
+    "norm": 61.8
+  },
+  "-signed-by-the-people-who-built-it-skyroot-s-vikram-1-rocket": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 61.8
+  },
+  "mark-zuckerberg-s-meta-copies-elon-musk-s-ai-plan-makes-offe": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "bill|billion|deal|mp",
+    "norm": 61.8
+  },
+  "-good-decision-trump-on-fifa-chief-reversing-us-player-s-sus": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "mp|president|trump|trump",
+    "norm": 61.8
+  },
+  "sonam-wangchuk-hunger-strike-live-police-hospitalise-wangchu": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "hospital|parliament",
+    "norm": 57.1
+  },
+  "sir-schedule-revised-for-maharashtra-extended-by-10-days": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "maharashtra|vote",
+    "norm": 57.1
+  },
+  "mars-moon-sun-sea-india-s-space-achievements-as-vikram-1-lif": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "rbi|row",
+    "norm": 57.1
+  },
+  "nothing-should-be-administered-to-sonam-wangchuk-without-my-": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "hospital|minister",
     "norm": 55.4
   },
-  "demolition-order-against-azam-khan-s-varsity-vindictive-unju": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "khan|mp",
-    "norm": 53.5
+  "skyroot-makes-history-6-payloads-put-into-low-earth-orbit-ab": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "mp|rbi",
+    "norm": 55
   },
-  "m-p-police-seize-cash-over-36-lakh-in-datia-ahead-of-bypoll": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "lakh|poll",
-    "norm": 53.2
+  "-3-2-1-lift-off-moment-india-s-1st-private-space-rocket-took": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "mp|watch",
+    "norm": 52
   },
-  "rajasthan-woman-sarpanch-highlights-rural-innovations-at-bri": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "brics|minister",
-    "norm": 48.7
+  "why-kerala-s-two-private-airline-projects-have-hit-an-air-po": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "derail",
+    "norm": 48.2
   },
-  "ladakh-drills-into-history-india-s-first-deepest-geothermal-": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "war",
+  "sonam-wangchuk-s-wife-questions-doctors-at-safdarjung-hospit": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "hospital",
+    "norm": 48.2
+  },
+  "sonam-wangchuk-hunger-strike-live-updates-fully-conscious-pa": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "hospital",
+    "norm": 48.2
+  },
+  "cjp-s-abhijeet-dipke-begins-indefinite-hunger-strike-as-poli": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "hospital",
     "norm": 46.3
   },
-  "1-in-4-kerala-candidates-skips-neet-rajasthan-posts-69-succe": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "neet",
+  "iran-claims-2-oil-tankers-exploded-after-hitting-mines-in-ho": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "iran",
     "norm": 46.3
   },
-  "girls-have-higher-success-rate-but-boys-lead-690-neet-club": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "neet",
+  "fifa-weekend-puts-hyderabad-s-nightlife-to-test-as-hospitali": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "hospital",
     "norm": 46.3
   },
-  "over-1-340-crore-to-overhaul-hyderabad-s-street-illumination": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "crore",
+  "vikram-1-country-s-first-private-orbital-rocket-successfully": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "rbi",
     "norm": 45.9
+  },
+  "india-scripts-new-space-milestone-as-private-orbital-rocket-": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "rbi",
+    "norm": 45.9
+  },
+  "23-andhra-villages-secure-iso-certification-for-quality-citi": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "coastal-lions-depend-mainly-on-wild-prey-study-finds": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "10-big-firsts-of-vikram-1-and-mission-aagaman-by-skyroot": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "rbi",
+    "norm": 45.9
+  },
+  "ram-temple-donation-theft-police-take-custody-of-tinnu-nephe": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "skyroot-s-vikram-1-launch-live-updates-grand-success-says-sk": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "",
+    "norm": 36
+  },
+  "support-swells-for-sonam-wangchuk-s-indefinite-fast": {
+    "firstSeen": "2026-07-18T07:15:25.279Z",
+    "signature": "",
+    "norm": 33.9
   },
   "singareni-assures-seamless-coal-supply-to-state-s-generating": {
     "firstSeen": "2026-07-18T00:12:56.328Z",
     "signature": "",
-    "norm": 36
-  },
-  "leather-jacket-worn-by-nvidia-ceo-auctions-for-nearly-1-mill": {
-    "firstSeen": "2026-07-18T00:12:56.328Z",
-    "signature": "",
-    "norm": 36
+    "norm": 32
   }
 }
