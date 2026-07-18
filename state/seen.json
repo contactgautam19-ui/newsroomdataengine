@@ -1,67 +1,67 @@
 {
-  "dept-of-space-vacancy-rate-at-25-year-high-nearly-3-in-10-po": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
-    "signature": "mp|recruitment|row|sanction",
-    "norm": 70
+  "us-hits-iran-7th-night-in-row-tehran-replies-with-no-border-": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "border|iran|row|war|warning",
+    "norm": 80.7
   },
-  "jantar-mantar-protest-live-opposition-support-grows-as-wangc": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
-    "signature": "opposition|protest|protest|row",
-    "norm": 66.3
+  "what-us-iran-russia-say-is-irrelevant-we-have-to-march-forwa": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "iran|war",
+    "norm": 59.3
   },
-  "congress-to-join-nc-s-jantar-mantar-protest-on-monday-bjp-pl": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
-    "signature": "bjp|congress|protest|protest",
-    "norm": 65.3
+  "elon-musk-s-spacex-in-talks-to-provide-computing-power-to-pe": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "bill|billion|mp",
+    "norm": 57.6
   },
-  "bus-driver-rescues-student-who-jumps-into-periyar": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
-    "signature": "mp|rescue|rescue",
-    "norm": 61.1
+  "babulal-marandi-writes-to-hemant-soren-demanding-a-judicial-": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "mp|scam",
+    "norm": 55.4
   },
-  "dcet-results-announced": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
-    "signature": "result|results|results",
-    "norm": 54.9
+  "demolition-order-against-azam-khan-s-varsity-vindictive-unju": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "khan|mp",
+    "norm": 53.5
   },
-  "jantar-mantar-protest-live-sonam-wangchuk-dehydrated-fasting": {
-    "firstSeen": "2026-07-17T16:38:35.624Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "m-p-police-seize-cash-over-36-lakh-in-datia-ahead-of-bypoll": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "lakh|poll",
+    "norm": 53.2
   },
-  "j-k-s-mansbal-lake-starts-hosting-migratory-birds-again": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
-    "signature": "star",
-    "norm": 44.3
+  "rajasthan-woman-sarpanch-highlights-rural-innovations-at-bri": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "brics|minister",
+    "norm": 48.7
   },
-  "vizag-collector-seeks-comprehensive-action-plan-for-bay-city": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
-    "signature": "mp",
-    "norm": 44
+  "ladakh-drills-into-history-india-s-first-deepest-geothermal-": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "madras-high-court-refuses-to-quash-firs-booked-against-polit": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
-    "signature": "high court",
-    "norm": 44
+  "1-in-4-kerala-candidates-skips-neet-rajasthan-posts-69-succe": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "neet",
+    "norm": 46.3
   },
-  "vizag-film-society-pays-tribute-to-s-janaki": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
-    "signature": "film",
-    "norm": 42.4
+  "girls-have-higher-success-rate-but-boys-lead-690-neet-club": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "neet",
+    "norm": 46.3
   },
-  "kafir-screenshot-case-in-kerala-court-rejects-sit-s-plea-to-": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
+  "over-1-340-crore-to-overhaul-hyderabad-s-street-illumination": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
+    "signature": "crore",
+    "norm": 45.9
+  },
+  "singareni-assures-seamless-coal-supply-to-state-s-generating": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "coir-board-commits-to-setting-up-15-coir-clusters-in-a-p-": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
+  "leather-jacket-worn-by-nvidia-ceo-auctions-for-nearly-1-mill": {
+    "firstSeen": "2026-07-18T00:12:56.328Z",
     "signature": "",
-    "norm": 33.9
-  },
-  "support-swells-for-sonam-wangchuk-s-indefinite-fast": {
-    "firstSeen": "2026-07-17T20:29:21.576Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
