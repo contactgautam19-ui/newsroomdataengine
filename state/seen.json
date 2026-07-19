@@ -1,127 +1,157 @@
 {
-  "kalaburagi-cpi-m-protests-detention-of-sonam-wangchuk-seeks-": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "minister|modi|modi|prime minister|protest|protest",
-    "norm": 78.8
+  "-security-hole-enabled-us-israel-bombing-of-ayatollah-s-resi": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "attack|attack|bomb|iran|israel|minister|toll",
+    "norm": 89.2
   },
-  "pinarayi-vijayan-expresses-solidarity-with-protesters-at-jan": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "defence|modi|modi|opposition|protest|protest",
-    "norm": 77.2
+  "jammu-and-kashmir-rains-live-at-least-12-dead-several-missin": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "amit shah|dead|dead|flood|flood|floods|minister|rescue|rescue",
+    "norm": 86.1
   },
-  "police-clear-ken-betwa-protest-site-on-day-17-shift-fasting-": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "hospital|mp|protest|protest",
-    "norm": 71.4
+  "jammu-and-kashmir-rains-live-10-feared-dead-houses-damaged-i": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "dead|dead|fear|flood|flood|floods|mp",
+    "norm": 83.4
   },
-  "monsoon-session-row-tmc-seeks-all-party-meet-on-fcra-delimit": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "bill|congress|opposition|parliament|row|war",
+  "5-dead-four-more-missing-after-landslides-in-nagaland-s-mon-": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "dead|dead|ipl|landslide|mp",
+    "norm": 80.7
+  },
+  "-pay-rs-5-crore-or-delhi-cafe-owner-receives-threat-call-fro": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "crore|death|gold|gst|threat",
+    "norm": 75
+  },
+  "pakistan-sleeper-cell-alarm-threat-shifts-beyond-j-k-to-guja": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "pakistan|terror|terror|threat|war",
+    "norm": 73.5
+  },
+  "worker-s-death-at-google-data-centre-site-sparks-row": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "death|lakh|mp|row",
+    "norm": 70.6
+  },
+  "lucknow-horror-school-van-driver-rapes-nursery-student-multi": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "horror|hospital|ipl",
     "norm": 68
   },
-  "-this-is-what-i-do-sena-corporator-ramesh-mhatre-defended-as": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "bomb|high court|mp|watch",
-    "norm": 66.9
+  "jantar-mantar-protest-live-wangchuk-will-end-fast-tomorrow-i": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "parliament|protest|protest|row",
+    "norm": 67.9
   },
-  "-dialogue-not-silence-naveen-patnaik-urges-dialogue-with-stu": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "exam|protest|protest",
-    "norm": 63.2
+  "iuml-walks-a-tightrope-over-waqf-row-tells-ministers-to-back": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "minister|row|tax",
+    "norm": 65.6
   },
-  "-convene-separate-all-party-meet-tmc-writes-to-pm-modi-over-": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "bill|modi|modi|parliament",
-    "norm": 61.8
+  "-you-kicked-me-out-now-you-claim-taslima-nasrin-slams-left-f": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "bjp|mp|slam|slams",
+    "norm": 65
   },
-  "ramesh-mhatre-surrenders-a-day-after-bombay-hc-cancels-bail-": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "bomb|high court|hospital",
-    "norm": 60.8
+  "sleeping-on-roof-an-argument-then-a-fall-husband-dead-woman-": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "dead|dead|injured",
+    "norm": 62.9
   },
-  "study-reveals-j-k-mountains-are-warming-up-faster-than-plain": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "war|weather",
-    "norm": 57.6
+  "congress-blames-centre-for-recurring-exam-paper-leaks": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "congress|exam|president",
+    "norm": 61.4
   },
-  "-sharad-pawar-is-eknath-shinde-spills-the-beans-on-his-meeti": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "bjp|war",
+  "officials-told-to-work-in-mission-mode-to-tackle-potential-i": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "minister|mp|war",
+    "norm": 61.4
+  },
+  "cpi-m-accuses-governments-of-neglecting-dalits-warns-of-prot": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "protest|protest|war",
+    "norm": 59.6
+  },
+  "students-must-unite-against-drugs-minister-bindu-krishna": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "minister|war",
     "norm": 57.1
   },
-  "sonam-wangchuk-hunger-strike-live-delhi-hc-declines-interim-": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "high court|hospital",
+  "amid-fiery-demands-for-his-resignation-over-neet-leak-educat": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "minister|neet",
     "norm": 57.1
   },
-  "kerala-declares-monday-holiday-for-schools-and-colleges-afte": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "match|world cup",
-    "norm": 52.1
+  "meritorious-students-to-be-presented-with-shining-star-award": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "star|war",
+    "norm": 53.9
   },
-  "-duty-to-invite-everyone-rijiju-on-inviting-tmc-rebels-to-al": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "bjp|lok sabha|opposition",
-    "norm": 50.9
+  "third-death-anniversary-of-oommen-chandy-observed": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "death",
+    "norm": 48.2
   },
-  "mp-approves-ucc-5-years-jail-for-married-men-in-live-in-rela": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "bill|mp",
-    "norm": 50.5
-  },
-  "goa-bjp-mla-jennifer-monserrate-passes-away-after-prolonged-": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "bjp|mla",
-    "norm": 50.5
-  },
-  "tribal-kids-en-route-to-tn-brought-back-to-rajasthan-bjp-mp-": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "bjp|mp",
-    "norm": 48.7
-  },
-  "sonam-wangchuk-fast-enters-day-22-16-years-of-nasal-tube-to-": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
+  "-no-hospital-can-force-its-treatment-on-patient-sonam-wangch": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
     "signature": "hospital",
     "norm": 46.3
   },
-  "7-million-abusive-comments-aimed-at-players-staff-detected-d": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "world cup",
-    "norm": 46.3
-  },
-  "calcutta-high-court-orders-halt-in-demolition-of-abhishek-ba": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "high court",
+  "supreme-court-holds-abuse-is-uncivil-but-not-obscene": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "supreme court",
     "norm": 45.9
   },
-  "amit-shah-inaugurates-india-s-first-immersive-language-museu": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "amit shah",
-    "norm": 45.9
-  },
-  "call-for-action-against-private-mini-bus-operators-for-colle": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "president",
-    "norm": 45.9
-  },
-  "-worked-15-hours-a-day-got-no-pay-hyderabad-woman-assaulted-": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
+  "trainee-ips-accused-of-sexual-harassment-and-assault-by-fell": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "wangchuk-is-ready-to-end-his-hunger-strike-says-wife-sets-co": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "parliament",
+    "norm": 45.9
+  },
+  "cbi-arrests-man-for-posing-as-government-official-taking-bri": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "governor-congratulates-p-v-sindhu-for-historic-japan-open-vi": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "governor",
+    "norm": 45.9
+  },
+  "acb-raids-adoni-sub-registrar-office-seizes-1-37-lakh-in-cas": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "lakh",
     "norm": 44
   },
-  "kuhs-kvasu-sign-mou-to-strengthen-academic-and-research-coll": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "sena-corporator-who-assaulted-doctors-surrenders-day-after-c": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
+  "private-schools-directed-to-submit-audit-reports-display-fee": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "air-india-group-to-restore-full-middle-east-network-this-win": {
-    "firstSeen": "2026-07-19T11:42:24.884Z",
+  "ttd-offers-financial-aid-to-families-of-deceased-devotional-": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
+  },
+  "revanth-creating-drought-by-not-lifting-godavari-waters-hari": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "",
+    "norm": 36
+  },
+  "two-new-private-medical-colleges-1-300-additional-medical-se": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "",
+    "norm": 36
+  },
+  "jsp-party-office-inaugurated-in-vizianagaram-district": {
+    "firstSeen": "2026-07-19T15:34:42.546Z",
+    "signature": "",
+    "norm": 36
   }
 }
