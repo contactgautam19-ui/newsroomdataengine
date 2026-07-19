@@ -1,157 +1,32 @@
 {
-  "-security-hole-enabled-us-israel-bombing-of-ayatollah-s-resi": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "attack|attack|bomb|iran|israel|minister|toll",
-    "norm": 89.2
+  "watch-donald-trump-makes-dramatic-marine-one-arrival-at-fifa": {
+    "firstSeen": "2026-07-19T20:10:25.237Z",
+    "signature": "fan|match|mp|president|trump|trump|watch|world cup",
+    "norm": 82.7
   },
-  "jammu-and-kashmir-rains-live-at-least-12-dead-several-missin": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "amit shah|dead|dead|flood|flood|floods|minister|rescue|rescue",
-    "norm": 86.1
-  },
-  "jammu-and-kashmir-rains-live-10-feared-dead-houses-damaged-i": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "dead|dead|fear|flood|flood|floods|mp",
-    "norm": 83.4
-  },
-  "5-dead-four-more-missing-after-landslides-in-nagaland-s-mon-": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "dead|dead|ipl|landslide|mp",
-    "norm": 80.7
-  },
-  "-pay-rs-5-crore-or-delhi-cafe-owner-receives-threat-call-fro": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "crore|death|gold|gst|threat",
-    "norm": 75
-  },
-  "pakistan-sleeper-cell-alarm-threat-shifts-beyond-j-k-to-guja": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "pakistan|terror|terror|threat|war",
+  "at-least-eight-dead-15-hurt-in-nagaland-landslide": {
+    "firstSeen": "2026-07-19T20:10:25.237Z",
+    "signature": "dead|dead|injured|lakh|landslide",
     "norm": 73.5
   },
-  "worker-s-death-at-google-data-centre-site-sparks-row": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "death|lakh|mp|row",
-    "norm": 70.6
+  "bihar-cm-opens-130-88-cr-link-to-divert-floodwaters-enhance-": {
+    "firstSeen": "2026-07-19T20:10:25.237Z",
+    "signature": "flood|flood|floods|mp",
+    "norm": 66.3
   },
-  "lucknow-horror-school-van-driver-rapes-nursery-student-multi": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "horror|hospital|ipl",
-    "norm": 68
+  "geo-tagging-of-state-s-forest-locations-opens-the-doors-for-": {
+    "firstSeen": "2026-07-19T20:10:25.237Z",
+    "signature": "war|warning",
+    "norm": 57.6
   },
-  "jantar-mantar-protest-live-wangchuk-will-end-fast-tomorrow-i": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "parliament|protest|protest|row",
-    "norm": 67.9
+  "government-to-move-bill-in-rajya-sabha-today-to-make-insult-": {
+    "firstSeen": "2026-07-19T20:10:25.237Z",
+    "signature": "bill|lok sabha|rajya sabha|supreme court",
+    "norm": 52.1
   },
-  "iuml-walks-a-tightrope-over-waqf-row-tells-ministers-to-back": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "minister|row|tax",
-    "norm": 65.6
-  },
-  "-you-kicked-me-out-now-you-claim-taslima-nasrin-slams-left-f": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "bjp|mp|slam|slams",
-    "norm": 65
-  },
-  "sleeping-on-roof-an-argument-then-a-fall-husband-dead-woman-": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "dead|dead|injured",
-    "norm": 62.9
-  },
-  "congress-blames-centre-for-recurring-exam-paper-leaks": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "congress|exam|president",
-    "norm": 61.4
-  },
-  "officials-told-to-work-in-mission-mode-to-tackle-potential-i": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "minister|mp|war",
-    "norm": 61.4
-  },
-  "cpi-m-accuses-governments-of-neglecting-dalits-warns-of-prot": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "protest|protest|war",
-    "norm": 59.6
-  },
-  "students-must-unite-against-drugs-minister-bindu-krishna": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "minister|war",
-    "norm": 57.1
-  },
-  "amid-fiery-demands-for-his-resignation-over-neet-leak-educat": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "minister|neet",
-    "norm": 57.1
-  },
-  "meritorious-students-to-be-presented-with-shining-star-award": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "star|war",
-    "norm": 53.9
-  },
-  "third-death-anniversary-of-oommen-chandy-observed": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "death",
-    "norm": 48.2
-  },
-  "-no-hospital-can-force-its-treatment-on-patient-sonam-wangch": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "supreme-court-holds-abuse-is-uncivil-but-not-obscene": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "supreme court",
-    "norm": 45.9
-  },
-  "trainee-ips-accused-of-sexual-harassment-and-assault-by-fell": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
+  "kochi-corpn-mulls-hybrid-ro-ro-ferry-for-vypeen-fort-kochi-a": {
+    "firstSeen": "2026-07-19T20:10:25.237Z",
     "signature": "mp",
-    "norm": 45.9
-  },
-  "wangchuk-is-ready-to-end-his-hunger-strike-says-wife-sets-co": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "parliament",
-    "norm": 45.9
-  },
-  "cbi-arrests-man-for-posing-as-government-official-taking-bri": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "governor-congratulates-p-v-sindhu-for-historic-japan-open-vi": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "governor",
-    "norm": 45.9
-  },
-  "acb-raids-adoni-sub-registrar-office-seizes-1-37-lakh-in-cas": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "lakh",
     "norm": 44
-  },
-  "private-schools-directed-to-submit-audit-reports-display-fee": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "",
-    "norm": 36
-  },
-  "ttd-offers-financial-aid-to-families-of-deceased-devotional-": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "",
-    "norm": 36
-  },
-  "revanth-creating-drought-by-not-lifting-godavari-waters-hari": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "",
-    "norm": 36
-  },
-  "two-new-private-medical-colleges-1-300-additional-medical-se": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "",
-    "norm": 36
-  },
-  "jsp-party-office-inaugurated-in-vizianagaram-district": {
-    "firstSeen": "2026-07-19T15:34:42.546Z",
-    "signature": "",
-    "norm": 36
   }
 }
