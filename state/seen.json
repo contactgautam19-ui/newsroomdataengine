@@ -1,302 +1,137 @@
 {
-  "us-military-death-toll-in-iran-war-rises-to-16-after-two-tro": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "attack|attack|death|died|drone|iran|killed|killed|toll|war",
-    "norm": 89.3
+  "jammu-and-kashmir-rains-live-flash-floods-landslips-wreak-ha": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "amit shah|dead|dead|flood|flood|floods|minister",
+    "norm": 82.4
   },
-  "after-row-over-sir-election-commission-launches-credibility-": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "attack|attack|election|election|election commission|opposition|poll|row",
-    "norm": 79
+  "bjp-claiming-fake-credit-for-raising-land-acquisition-compen": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "acquisition|actor|bjp|cabinet|congress|ipl|mp|price",
+    "norm": 81.4
   },
-  "2-us-service-members-killed-1-missing-after-iranian-attack-o": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "attack|attack|died|drone|iran|killed|killed|war",
-    "norm": 78.1
+  "salman-khan-leaves-fans-worried-after-latest-appearance-vide": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "bollywood|bollywood|fan|fuel|khan|mp|video",
+    "norm": 80.7
   },
-  "india-flags-cross-border-terror-threat-at-us-meet": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "border|slam|terror|terror|threat",
-    "norm": 68.3
+  "sonam-wangchuk-hunger-strike-live-gitanjali-angmo-moves-delh": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "hospital|parliament|protest|protest",
+    "norm": 72.9
   },
-  "faith-and-its-fallout": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "ayodhya|mp|row|vote",
-    "norm": 67.6
+  "j-k-flash-floods-landslides-wreak-havoc-in-poonch-rajouri-ei": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "dead|dead|flood|flood|floods|landslide",
+    "norm": 72.1
   },
-  "cbse-2nd-board-results-3-lakh-students-improve-scores": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "lakh|mp|result|results|results",
-    "norm": 66.3
+  "rain-havoc-in-j-038-k-10-killed-several-missing-omar-abdulla": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "killed|killed|protest|protest",
+    "norm": 70
   },
-  "iran-suggests-mou-suspended-as-50-killed-in-us-strikes-in-ju": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "iran|killed|killed",
-    "norm": 65.6
+  "-injustice-been-done-opposition-stages-symbolic-walkout-from": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "congress|mp|opposition|protest|protest",
+    "norm": 67.3
   },
-  "how-much-prize-money-does-the-fifa-world-cup-2026-third-plac": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "layoff|mp|war|world cup",
-    "norm": 65.2
+  "sonam-wangchuk-fast-and-composed": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "minister|mp|protest|protest",
+    "norm": 66.9
   },
-  "another-house-panel-defers-education-reforms-report-adoption": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "bill|opposition|parliament|protest|protest",
-    "norm": 64.9
+  "rahul-kharge-write-to-pm-seek-probe-into-theft-of-donations-": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "ayodhya|congress|mp|vote",
+    "norm": 63.5
   },
-  "weather-office-predicts-very-heavy-rainfall-across-up-over-n": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "heavy rain|war|warning|weather",
-    "norm": 64.1
+  "police-action-forces-end-to-tribal-protest-against-mp-s-ken-": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "mp|protest|protest",
+    "norm": 62.8
   },
-  "-worthless-devoid-of-credibility-mojtaba-tears-into-trump-ov": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "deal|iran|mp|trump|trump",
-    "norm": 64.1
+  "kerala-government-declares-july-20-an-educational-holiday-on": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "fan|match|world cup",
+    "norm": 61.1
   },
-  "2-us-soldiers-killed-1-missing-after-iranian-strikes-on-jord": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "died|iran|killed|killed",
-    "norm": 64.1
+  "-silence-unacceptable-rahul-kharge-press-modi-for-8216-indep": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "modi|modi|mp",
+    "norm": 59.7
   },
-  "sonam-wangchuk-s-fast-ram-mandir-row-to-dominate-all-party-m": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "bill|lok sabha|rajya sabha|ram mandir|row",
-    "norm": 63.1
-  },
-  "sonam-wangchuk-hunger-strike-live-wangchuk-continues-his-fas": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "hospital|mp|protest|protest",
-    "norm": 62.4
-  },
-  "weather-woes-amarnath-vaishno-devi-yatras-temporarily-suspen": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "alert|heavy rain|mp|weather",
-    "norm": 62
-  },
-  "ktr-says-rahul-gandhi-failed-telangana-s-youth-calls-congres": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "congress|election|election|rahul gandhi",
+  "love-turns-toxic-up-woman-her-boyfriend-release-snake-in-hus": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "lakh|mp|policy",
     "norm": 59.3
   },
-  "us-iran-war-news-live-iran-s-supreme-leader-in-a-new-stateme": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "fuel|iran|war",
-    "norm": 58.9
+  "sonam-wangchuk-calls-july-20-parliament-march-india-s-second": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "fear|parliament",
+    "norm": 55.4
   },
-  "-huge-win-delhi-cafes-to-stay-open-till-4-am-for-fifa-world-": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "chief minister|fan|minister|world cup",
-    "norm": 57.4
+  "stalin-s-dmk-agreed-to-support-nda-s-delimitation-bill-insid": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "bill|lok sabha|mp",
+    "norm": 52.7
   },
-  "the-world-cup-s-biggest-surprise-winner-isn-t-argentina-or-s": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "surprise|world cup",
-    "norm": 54.2
+  "opposition-briefly-boycotts-all-party-meet-over-invite-to-re": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "mp|opposition",
+    "norm": 48.7
   },
-  "shutdown-over-civilian-death-during-anti-militancy-operation": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
-    "signature": "death|killed|killed",
-    "norm": 53.4
+  "opposition-walks-out-of-all-party-meeting-over-presence-of-r": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "opposition",
+    "norm": 45.9
   },
-  "army-opens-fire-after-observing-suspicious-movement-along-lo": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
-    "signature": "army|fire|fire",
-    "norm": 51.5
+  "final-rites-of-chennamma-deve-gowda-at-foothills-of-ranganat": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "minister",
+    "norm": 44
   },
-  "bjp-starts-outreach-campaign-in-muslim-dominated-assembly-se": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "bjp|chief minister|minister|mp|star",
-    "norm": 49.7
-  },
-  "using-abusive-language-swearing-don-t-count-as-obscenity-und": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "fan|supreme court",
-    "norm": 49
-  },
-  "-not-just-statehood-pdp-chief-lists-conditions-for-joining-n": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
-    "signature": "protest|protest|slam",
-    "norm": 48.1
-  },
-  "t-n-government-contemplates-reducing-vat-rate-on-aviation-tu": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
-    "signature": "fuel|mp|rbi",
-    "norm": 47.7
-  },
-  "rice-federation-tells-t-n-chief-minister-to-take-up-waiver-f": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "chief minister|gst|minister",
-    "norm": 47.7
-  },
-  "mother-son-complete-their-iit-m-programmes-together": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
-    "signature": "ipl|mp",
-    "norm": 45.4
-  },
-  "2-robberies-1-chilling-pattern-bihar-village-fears-hair-chop": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "fear|fuel",
-    "norm": 45.4
-  },
-  "sonam-wangchuk-hospitalised-highlights-hospital-says-sonam-w": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "high court|hospital",
-    "norm": 45.4
-  },
-  "centre-signals-recognition-of-ncpi-with-trinamool-rebels-tri": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "lok sabha|row",
-    "norm": 45.4
-  },
-  "during-10-year-brs-regime-youngsters-carried-hall-tickets-an": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "gst|minister",
-    "norm": 43
-  },
-  "ex-lover-stabs-nashik-woman-to-death-tells-fiance-in-chillin": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "death|died",
-    "norm": 41.8
-  },
-  "nda-ranks-boosted-as-om-birla-okays-6-rebel-ubt-mps-joining-": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
+  "mount-olympus-mythological-home-of-greek-gods-may-get-unesco": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
     "signature": "mp",
-    "norm": 41
+    "norm": 44
   },
-  "t-n-government-to-celebrate-state-s-history-on-both-july-18-": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
-    "signature": "chief minister|minister",
-    "norm": 38
+  "opposition-rejoins-all-party-meeting-after-walkout-over-govt": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "opposition",
+    "norm": 44
   },
-  "nc-expels-ladakh-leader-akhoon-as-he-refuses-to-step-down-as": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "congress|poll",
-    "norm": 38
+  "-unlock-my-house-don-t-just-promise-13-year-old-boy-angrily-": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "video",
+    "norm": 42.7
   },
-  "medical-colleges-to-decide-own-faculty-appointments-promotio": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "mp",
-    "norm": 37.5
+  "gisele-b-ndchen-shares-rare-photos-with-child-from-tahiti-va": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
+    "signature": "photos",
+    "norm": 40.7
   },
-  "palaniswami-criticises-tvk-govt-s-approach-on-custodial-deat": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "death",
-    "norm": 35.5
-  },
-  "-vaishu-is-finished-man-calls-ex-girlfriend-s-fiance-after-k": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "death",
-    "norm": 35.5
-  },
-  "om-birla-gives-nod-to-merger-of-uddhav-rebels-with-shinde-se": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "war",
-    "norm": 35.5
-  },
-  "inaugural-ilca-open-india-international-sailing-championship": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "mines-and-geology-department-recommends-referring-ballari-mi": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "as-volkswagen-puts-100-sheep-to-work-director-says-sheep-pro": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "nirmohi-akhara-moves-top-court-seeking-reconstitution-of-ram": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "up-to-host-200-japanese-ceos-green-energy-tourism-deals-on-c": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "deal",
-    "norm": 32.8
-  },
-  "up-pitches-textile-hub-vision-at-bharat-tex-2026-showcases-h": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "harman-collaborates-with-city-university-on-automobile-tech": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
+  "man-found-murdered-in-kozhikode": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 33.9
   },
-  "loyola-college-hosts-workshop-on-digital-accessibility-for-p": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
+  "-forced-to-work-15-hours-a-day-no-salary-for-4-months-hydera": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 33.9
   },
-  "new-tool-to-help-cities-quantify-greenhouse-gas-emissions-fr": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
+  "samsung-poised-to-unveil-new-foldable-phones-smart-glasses": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "police-to-step-up-surveillance-at-fifa-final-streaming-venue": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
+  "plan-to-cut-4-000-trees-for-bhaniyawala-rishikesh-road-on-ho": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "anbumani-seeks-white-paper-on-cmda-crisis-": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
+  "the-fine-art-of-creating-blood-donors-at-home-and-resources-": {
+    "firstSeen": "2026-07-19T07:39:14.704Z",
     "signature": "",
-    "norm": 21.2
-  },
-  "traffic-diversions-on-nalgonda-x-roads-owaisi-junction-till-": {
-    "firstSeen": "2026-07-18T19:56:16.183Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "cyberabad-she-teams-conduct-127-decoy-operations-31-petty-ca": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "skyroot-s-vikram-1-launch-highlights-grand-success-says-skyr": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "local-holiday-for-tiruvallur-on-aug-6-for-aadi-krithigai-fes": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "india-rolls-out-white-rabbit-tech-to-secure-indian-time-netw": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "boy-16-dies-by-suicide-after-classmate-s-remarks-about-skin-": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "-vaishu-is-finished-nashik-man-kills-ex-girlfriend-informs-f": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "combustion-cars-are-finally-getting-as-smart-and-upgradable-": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "telangana-government-to-enact-stringent-anti-adulteration-la": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "varuna-corridor-how-govt-plans-to-ease-traffic-and-cut-airpo": {
-    "firstSeen": "2026-07-18T22:34:05.798Z",
-    "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   }
 }
