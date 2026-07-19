@@ -1,136 +1,126 @@
 {
-  "jammu-and-kashmir-rains-live-flash-floods-landslips-wreak-ha": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "amit shah|dead|dead|flood|flood|floods|minister",
-    "norm": 82.4
+  "kalaburagi-cpi-m-protests-detention-of-sonam-wangchuk-seeks-": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "minister|modi|modi|prime minister|protest|protest",
+    "norm": 78.8
   },
-  "bjp-claiming-fake-credit-for-raising-land-acquisition-compen": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "acquisition|actor|bjp|cabinet|congress|ipl|mp|price",
-    "norm": 81.4
+  "pinarayi-vijayan-expresses-solidarity-with-protesters-at-jan": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "defence|modi|modi|opposition|protest|protest",
+    "norm": 77.2
   },
-  "salman-khan-leaves-fans-worried-after-latest-appearance-vide": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "bollywood|bollywood|fan|fuel|khan|mp|video",
-    "norm": 80.7
+  "police-clear-ken-betwa-protest-site-on-day-17-shift-fasting-": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "hospital|mp|protest|protest",
+    "norm": 71.4
   },
-  "sonam-wangchuk-hunger-strike-live-gitanjali-angmo-moves-delh": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "hospital|parliament|protest|protest",
-    "norm": 72.9
+  "monsoon-session-row-tmc-seeks-all-party-meet-on-fcra-delimit": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "bill|congress|opposition|parliament|row|war",
+    "norm": 68
   },
-  "j-k-flash-floods-landslides-wreak-havoc-in-poonch-rajouri-ei": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "dead|dead|flood|flood|floods|landslide",
-    "norm": 72.1
-  },
-  "rain-havoc-in-j-038-k-10-killed-several-missing-omar-abdulla": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "killed|killed|protest|protest",
-    "norm": 70
-  },
-  "-injustice-been-done-opposition-stages-symbolic-walkout-from": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "congress|mp|opposition|protest|protest",
-    "norm": 67.3
-  },
-  "sonam-wangchuk-fast-and-composed": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "minister|mp|protest|protest",
+  "-this-is-what-i-do-sena-corporator-ramesh-mhatre-defended-as": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "bomb|high court|mp|watch",
     "norm": 66.9
   },
-  "rahul-kharge-write-to-pm-seek-probe-into-theft-of-donations-": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "ayodhya|congress|mp|vote",
-    "norm": 63.5
+  "-dialogue-not-silence-naveen-patnaik-urges-dialogue-with-stu": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "exam|protest|protest",
+    "norm": 63.2
   },
-  "police-action-forces-end-to-tribal-protest-against-mp-s-ken-": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
+  "-convene-separate-all-party-meet-tmc-writes-to-pm-modi-over-": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "bill|modi|modi|parliament",
+    "norm": 61.8
   },
-  "kerala-government-declares-july-20-an-educational-holiday-on": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "fan|match|world cup",
-    "norm": 61.1
+  "ramesh-mhatre-surrenders-a-day-after-bombay-hc-cancels-bail-": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "bomb|high court|hospital",
+    "norm": 60.8
   },
-  "-silence-unacceptable-rahul-kharge-press-modi-for-8216-indep": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "modi|modi|mp",
-    "norm": 59.7
+  "study-reveals-j-k-mountains-are-warming-up-faster-than-plain": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "war|weather",
+    "norm": 57.6
   },
-  "love-turns-toxic-up-woman-her-boyfriend-release-snake-in-hus": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "lakh|mp|policy",
-    "norm": 59.3
+  "-sharad-pawar-is-eknath-shinde-spills-the-beans-on-his-meeti": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "bjp|war",
+    "norm": 57.1
   },
-  "sonam-wangchuk-calls-july-20-parliament-march-india-s-second": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "fear|parliament",
-    "norm": 55.4
+  "sonam-wangchuk-hunger-strike-live-delhi-hc-declines-interim-": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "high court|hospital",
+    "norm": 57.1
   },
-  "stalin-s-dmk-agreed-to-support-nda-s-delimitation-bill-insid": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "bill|lok sabha|mp",
-    "norm": 52.7
+  "kerala-declares-monday-holiday-for-schools-and-colleges-afte": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "match|world cup",
+    "norm": 52.1
   },
-  "opposition-briefly-boycotts-all-party-meet-over-invite-to-re": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "mp|opposition",
+  "-duty-to-invite-everyone-rijiju-on-inviting-tmc-rebels-to-al": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "bjp|lok sabha|opposition",
+    "norm": 50.9
+  },
+  "mp-approves-ucc-5-years-jail-for-married-men-in-live-in-rela": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "bill|mp",
+    "norm": 50.5
+  },
+  "goa-bjp-mla-jennifer-monserrate-passes-away-after-prolonged-": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "bjp|mla",
+    "norm": 50.5
+  },
+  "tribal-kids-en-route-to-tn-brought-back-to-rajasthan-bjp-mp-": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "bjp|mp",
     "norm": 48.7
   },
-  "opposition-walks-out-of-all-party-meeting-over-presence-of-r": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "opposition",
+  "sonam-wangchuk-fast-enters-day-22-16-years-of-nasal-tube-to-": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "hospital",
+    "norm": 46.3
+  },
+  "7-million-abusive-comments-aimed-at-players-staff-detected-d": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "world cup",
+    "norm": 46.3
+  },
+  "calcutta-high-court-orders-halt-in-demolition-of-abhishek-ba": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "high court",
     "norm": 45.9
   },
-  "final-rites-of-chennamma-deve-gowda-at-foothills-of-ranganat": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "minister",
-    "norm": 44
+  "amit-shah-inaugurates-india-s-first-immersive-language-museu": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "amit shah",
+    "norm": 45.9
   },
-  "mount-olympus-mythological-home-of-greek-gods-may-get-unesco": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
+  "call-for-action-against-private-mini-bus-operators-for-colle": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "president",
+    "norm": 45.9
+  },
+  "-worked-15-hours-a-day-got-no-pay-hyderabad-woman-assaulted-": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
     "signature": "mp",
     "norm": 44
   },
-  "opposition-rejoins-all-party-meeting-after-walkout-over-govt": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "opposition",
+  "kuhs-kvasu-sign-mou-to-strengthen-academic-and-research-coll": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
+    "signature": "mp",
     "norm": 44
   },
-  "-unlock-my-house-don-t-just-promise-13-year-old-boy-angrily-": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "video",
-    "norm": 42.7
-  },
-  "gisele-b-ndchen-shares-rare-photos-with-child-from-tahiti-va": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "photos",
-    "norm": 40.7
-  },
-  "man-found-murdered-in-kozhikode": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
+  "sena-corporator-who-assaulted-doctors-surrenders-day-after-c": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
     "signature": "",
     "norm": 33.9
   },
-  "-forced-to-work-15-hours-a-day-no-salary-for-4-months-hydera": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "samsung-poised-to-unveil-new-foldable-phones-smart-glasses": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "plan-to-cut-4-000-trees-for-bhaniyawala-rishikesh-road-on-ho": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "the-fine-art-of-creating-blood-donors-at-home-and-resources-": {
-    "firstSeen": "2026-07-19T07:39:14.704Z",
+  "air-india-group-to-restore-full-middle-east-network-this-win": {
+    "firstSeen": "2026-07-19T11:42:24.884Z",
     "signature": "",
     "norm": 33.9
   }
