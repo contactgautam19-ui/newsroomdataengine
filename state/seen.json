@@ -1,192 +1,37 @@
 {
-  "monsoon-session-pm-modi-urges-parliament-to-engage-in-respec": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "minister|modi|modi|neet|opposition|parliament|prime minister|protest|protest",
-    "norm": 84.9
+  "monsoon-session-off-to-a-stormy-start-amid-opposition-protes": {
+    "firstSeen": "2026-07-20T20:50:37.841Z",
+    "signature": "congress|lok sabha|mp|neet|opposition|protest|protest|star|storm",
+    "norm": 93.6
   },
-  "4-indians-killed-one-critical-after-attack-on-ship-at-odesa-": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "attack|attack|gold|killed|killed",
-    "norm": 79.4
+  "rain-continues-to-play-havoc-in-jammu-toll-goes-up-to-28": {
+    "firstSeen": "2026-07-20T20:50:37.841Z",
+    "signature": "collapse|collapse|collapse|death|flood|flood|floods|landslide|rescue|rescue|toll",
+    "norm": 82
   },
-  "mea-condemns-strike-on-commercial-vessel-near-ukraine-s-odes": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "attack|attack|gold|killed|killed",
-    "norm": 79.4
+  "several-hurt-in-crackdown-on-cjp-parliament-march": {
+    "firstSeen": "2026-07-20T20:50:37.841Z",
+    "signature": "brutal|hospital|mp|parliament",
+    "norm": 70
   },
-  "pakistan-politician-reminds-islamabad-how-its-army-refused-d": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "army|dead|dead|pakistan|president|slam|war",
-    "norm": 79.3
+  "four-indian-seafarers-killed-near-ukrainian-port-odessa": {
+    "firstSeen": "2026-07-20T20:50:37.841Z",
+    "signature": "killed|killed|minister",
+    "norm": 66
   },
-  "cjp-protest-in-delhi-live-jantar-mantar-stage-dismantled-aft": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "injured|parliament|protest|protest|storm",
-    "norm": 77.8
-  },
-  "over-1-7-lakh-people-affected-in-assam-floods-army-launches-": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "army|flood|flood|floods|lakh",
-    "norm": 74.3
-  },
-  "trainee-ips-officer-booked-for-sexual-assault-collapses-afte": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "collapse|collapse|collapse|hospital|mp",
-    "norm": 73.3
-  },
-  "4-indians-killed-1-critically-injured-after-cargo-ship-attac": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "attack|attack|injured|killed|killed",
-    "norm": 72.1
-  },
-  "explained-why-punjab-s-mgnrega-protest-is-a-political-test-f": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "aap|khan|mp|protest|protest",
-    "norm": 72
-  },
-  "pak-s-victim-card-on-indus-waters-can-t-change-india-s-decis": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 67.6
-  },
-  "trump-scores-own-goal-as-world-cup-overflows-with-politics": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "mp|trump|trump|world cup",
-    "norm": 65
-  },
-  "in-literature-there-are-no-left-or-right-camps-only-the-side": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "khan|mp|war",
-    "norm": 64.2
-  },
-  "shabana-azmi-falls-ill-during-protests-at-jantar-mantar-safe": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "actor|protest|protest",
-    "norm": 59.7
-  },
-  "warangal-airport-project-gets-in-principle-nod-aai-floats-te": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "ipl|war",
-    "norm": 59.3
-  },
-  "-207-crore-boost-for-tourism-projects-in-a-p-union-minister": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "crore|minister|sanction",
-    "norm": 59.3
-  },
-  "probe-ordered-into-cyber-attack-against-k-c-venugopal": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "attack|attack",
-    "norm": 59.3
-  },
-  "man-attacks-wife-with-knife-at-police-station-in-khammam": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "attack|attack",
-    "norm": 59.3
-  },
-  "get-10-year-tax-waiver-in-delhi-by-scrapping-old-commercial-": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "lakh|mp|tax",
-    "norm": 57.6
-  },
-  "60-000-people-duped-of-rs-100-crore-in-job-scam-6-arrested-i": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "crore|scam",
-    "norm": 55.4
-  },
-  "coca-cola-adds-fizz-to-india-bottling-unit-ipo-plan-appoints": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "ipo|mp",
-    "norm": 55
-  },
-  "neet-ug-submitting-fake-omr-sheets-for-scrutiny-will-invite-": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "neet|record",
-    "norm": 54.2
-  },
-  "cjp-march-police-say-detained-protesters-not-students-more-a": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "parliament-monsoon-session-begins-who-are-the-most-active-mp": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "bjp|congress|mp|parliament",
-    "norm": 52.1
-  },
-  "current-politics-will-not-allow-a-kapu-leader-to-become-cm-o": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "bjp|president",
-    "norm": 50.5
-  },
-  "don-t-surrender-thekkinkadu-maidan-to-communal-forces-says-c": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "war",
+  "world-sees-8-fall-in-road-deaths-in-even-as-vehicle-numbers-": {
+    "firstSeen": "2026-07-20T20:50:37.841Z",
+    "signature": "death",
     "norm": 48.2
   },
-  "class-11-student-stabbed-to-death-after-quarrel-in-delhi-s-k": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "death",
-    "norm": 46.3
-  },
-  "former-corrohealth-employees-say-compensation-promise-a-huge": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "mp",
+  "can-t-force-parents-to-create-apaar-ids-for-students-supreme": {
+    "firstSeen": "2026-07-20T20:50:37.841Z",
+    "signature": "supreme court",
     "norm": 45.9
   },
-  "bhatti-vikramarka-inaugurates-integrated-oil-palm-complex-ca": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "three-minor-girls-from-migrant-families-leave-homes-with-lug": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "",
-    "norm": 36
-  },
-  "pilots-association-writes-to-aviation-ministry-and-dgca-flag": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "",
-    "norm": 36
-  },
-  "bengaluru-to-host-india-u-s-civil-space-joint-working-group-": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "",
-    "norm": 36
-  },
-  "krishna-byre-gowda-targets-paper-plantation-in-bengaluru": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "",
-    "norm": 36
-  },
-  "five-arrested-in-guntur-for-murders-linked-to-missing-person": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "",
-    "norm": 36
-  },
-  "chennamma-laid-to-rest-with-state-honours": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "",
-    "norm": 36
-  },
-  "13-boats-seized-for-illegal-sand-mining-in-rajamahendravaram": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "",
-    "norm": 36
-  },
-  "tdp-shifts-focus-to-proddatur-amid-internal-factional-tensio": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "",
-    "norm": 36
-  },
-  "karnataka-govt-monitoring-epidemic-diseases": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "",
-    "norm": 36
-  },
-  "no-detailed-project-report-received-for-metro-rail-extension": {
-    "firstSeen": "2026-07-20T16:01:03.977Z",
-    "signature": "",
-    "norm": 33.9
+  "supreme-court-seeks-more-exclusive-uapa-ndps-courts-to-speed": {
+    "firstSeen": "2026-07-20T20:50:37.841Z",
+    "signature": "supreme court",
+    "norm": 44
   }
 }
