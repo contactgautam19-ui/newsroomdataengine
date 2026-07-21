@@ -1,37 +1,42 @@
 {
-  "monsoon-session-off-to-a-stormy-start-amid-opposition-protes": {
-    "firstSeen": "2026-07-20T20:50:37.841Z",
-    "signature": "congress|lok sabha|mp|neet|opposition|protest|protest|star|storm",
-    "norm": 93.6
+  "-they-will-pay-many-times-over-trump-as-us-carries-out-10th-": {
+    "firstSeen": "2026-07-21T00:16:07.978Z",
+    "signature": "attack|attack|fire|fire|ipl|iran|mp|trump|trump",
+    "norm": 97.5
   },
-  "rain-continues-to-play-havoc-in-jammu-toll-goes-up-to-28": {
-    "firstSeen": "2026-07-20T20:50:37.841Z",
-    "signature": "collapse|collapse|collapse|death|flood|flood|floods|landslide|rescue|rescue|toll",
-    "norm": 82
+  "protests-find-echo-in-both-lok-sabha-rajya-sabha-as-monsoon-": {
+    "firstSeen": "2026-07-21T00:16:07.978Z",
+    "signature": "lok sabha|protest|protest|rajya sabha",
+    "norm": 66.9
   },
-  "several-hurt-in-crackdown-on-cjp-parliament-march": {
-    "firstSeen": "2026-07-20T20:50:37.841Z",
-    "signature": "brutal|hospital|mp|parliament",
-    "norm": 70
+  "india-moldova-discuss-unsc-reforms-fight-against-terror": {
+    "firstSeen": "2026-07-21T00:16:07.978Z",
+    "signature": "terror|terror",
+    "norm": 59.3
   },
-  "four-indian-seafarers-killed-near-ukrainian-port-odessa": {
-    "firstSeen": "2026-07-20T20:50:37.841Z",
-    "signature": "killed|killed|minister",
-    "norm": 66
-  },
-  "world-sees-8-fall-in-road-deaths-in-even-as-vehicle-numbers-": {
-    "firstSeen": "2026-07-20T20:50:37.841Z",
+  "fake-snakebite-deaths-forged-autopsies-chhattisgarh-probe-le": {
+    "firstSeen": "2026-07-21T00:16:07.978Z",
     "signature": "death",
     "norm": 48.2
   },
-  "can-t-force-parents-to-create-apaar-ids-for-students-supreme": {
-    "firstSeen": "2026-07-20T20:50:37.841Z",
-    "signature": "supreme court",
+  "6-months-a-plan-to-kill-038-an-ai-tool-what-police-found-in-": {
+    "firstSeen": "2026-07-21T00:16:07.978Z",
+    "signature": "ipl",
+    "norm": 46.3
+  },
+  "2-ips-trainees-harassment-complaint-suicide-attempt-case-tha": {
+    "firstSeen": "2026-07-21T00:16:07.978Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "supreme-court-seeks-more-exclusive-uapa-ndps-courts-to-speed": {
-    "firstSeen": "2026-07-20T20:50:37.841Z",
-    "signature": "supreme court",
+  "defence-ministry-seeks-firms-for-rs-15-000-cr-high-altitude-": {
+    "firstSeen": "2026-07-21T00:16:07.978Z",
+    "signature": "defence",
     "norm": 44
+  },
+  "indus-waters-treaty-government-focus-on-chenab-projects-rene": {
+    "firstSeen": "2026-07-21T00:16:07.978Z",
+    "signature": "",
+    "norm": 36
   }
 }
