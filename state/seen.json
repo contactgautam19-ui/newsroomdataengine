@@ -1,57 +1,37 @@
 {
-  "assam-flood-toll-rises-21-killed-in-a-day-over-5-6-lakh-affe": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "flood|flood|killed|killed|lakh|toll",
-    "norm": 78.7
+  "assam-flood-fury-21-killed-in-single-day-toll-rises-to-31-as": {
+    "firstSeen": "2026-07-22T00:11:32.481Z",
+    "signature": "anger|flood|flood|fury|fury|killed|killed|lakh|toll",
+    "norm": 86.9
   },
-  "government-rescinds-incorrect-rajya-sabha-election-results-n": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "election|election|rajya sabha|result|results|results",
-    "norm": 68.8
+  "pok-polls-under-cloud-schedule-overhaul-fuels-allegations-of": {
+    "firstSeen": "2026-07-22T00:11:32.481Z",
+    "signature": "election|election|fuel|poll",
+    "norm": 68
   },
-  "nia-court-allows-special-dietary-arrangements-for-u-s-nation": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "defence|terror|terror",
-    "norm": 66
-  },
-  "thousands-brave-rain-and-regroup-at-cjp-protest-site-day-aft": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "brutal|crowd|protest|protest|row",
-    "norm": 65.1
-  },
-  "three-of-family-from-hyderabad-killed-in-california-road-acc": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "accident|killed|killed",
+  "jammu-and-kashmir-grapples-weather-fury-for-third-day-civili": {
+    "firstSeen": "2026-07-22T00:11:32.481Z",
+    "signature": "fury|fury|weather",
     "norm": 62.9
   },
-  "ukraine-s-zelensky-sacks-army-chief-amid-war": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "army|president|war",
-    "norm": 59.7
+  "trump-says-imported-generic-drugs-to-face-100-tariff-from-au": {
+    "firstSeen": "2026-07-22T00:11:32.481Z",
+    "signature": "mp|president|trump|trump",
+    "norm": 61.8
   },
-  "sikkim-tunnel-collapse-20-bodies-recovered-from-site-11-from": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "collapse|collapse|collapse",
-    "norm": 58.3
+  "-nothing-can-shame-us-now-ram-temple-donation-theft-row-mark": {
+    "firstSeen": "2026-07-22T00:11:32.481Z",
+    "signature": "mp|row|ruling",
+    "norm": 61.4
   },
-  "pakistan-intruder-detained-along-international-border-in-j-a": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "border|mp|pakistan",
-    "norm": 52.7
+  "congress-demands-action-against-former-home-secretary-over-1": {
+    "firstSeen": "2026-07-22T00:11:32.481Z",
+    "signature": "bjp|congress",
+    "norm": 48.7
   },
-  "wangchuk-shifted-from-safdarjung-hospital-to-medanta-in-guru": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "hospital",
+  "us-military-launches-11th-consecutive-night-of-strikes-on-ir": {
+    "firstSeen": "2026-07-22T00:11:32.481Z",
+    "signature": "iran",
     "norm": 48.2
-  },
-  "ksu-stages-railway-blockade-in-kannur": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "",
-    "norm": 36
-  },
-  "food-safety-drive-six-eateries-inspected-in-kochi": {
-    "firstSeen": "2026-07-21T20:53:46.797Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
