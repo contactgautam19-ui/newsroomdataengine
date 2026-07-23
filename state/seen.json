@@ -1,201 +1,191 @@
 {
-  "e20-clean-fuel-no-plan-to-return-to-pure-petrol-centre-in-pa": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "fuel|parliament|petrol|petrol|policy|war",
-    "norm": 81.7
+  "at-least-1-200-rescued-as-torrential-rain-pounds-south-gujar": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "alert|amit shah|death|modi|modi|red alert|rescue|rescue",
+    "norm": 91.6
   },
-  "death-toll-in-flash-floods-rises-to-26-in-jammu-region-as-wo": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "death|flood|flood|floods|ipo|toll",
-    "norm": 80.2
-  },
-  "anna-hazare-holds-maun-vrat-in-support-of-protesting-student": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "minister|modi|modi|prime minister|protest|protest",
-    "norm": 78.8
-  },
-  "eu-slaps-1-billion-fine-on-google-over-play-store-search-pra": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "bill|billion|exam|mp|result|results|results",
-    "norm": 78.2
-  },
-  "cjp-protests-from-exam-paper-leaks-to-unemployment-a-generat": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "anger|exam|mp|protest|protest",
+  "union-ministers-to-hold-high-level-talks-with-cjp-delegation": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "minister|neet|protest|protest|row",
     "norm": 77.8
-  },
-  "warnings-issued-against-sale-of-seeds-at-excessive-prices-in": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "price|prices|war|warning",
-    "norm": 71.6
   },
   "-jana-nayagan-movie-review-thalapathy-vijay-bids-adieu-to-ci": {
     "firstSeen": "2026-07-23T12:16:04.912Z",
     "signature": "crowd|film|manifesto|movie|row",
     "norm": 71.4
   },
-  "houses-of-two-terrorists-blasted-after-anantnag-attack-j-k-c": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "attack|attack|blast|terror|terror",
-    "norm": 70.5
+  "centre-changes-education-secretary-amid-student-protests-ang": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "anger|exam|protest|protest",
+    "norm": 70
   },
-  "wayne-gretzky-s-leadership-lessons-you-miss-100-of-the-shots": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "exam|ipl|mp|record",
+  "delhi-metro-update-17-metro-stations-to-remain-closed-tomorr": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "mp|protest|protest|row",
     "norm": 67.9
   },
-  "opinion-opinion-a-new-us-israel-defence-bill-has-opened-an-u": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "bill|defence|israel|mp|unexpected",
-    "norm": 67.3
+  "-committed-jihadist-uk-born-pakistani-man-jailed-over-milita": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "pakistan|terror|terror",
+    "norm": 66
   },
-  "omar-abdullah-contests-union-minister-nadda-s-claim-on-j-k-p": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "governor|minister|protest|protest",
-    "norm": 66.9
+  "no-debate-without-pradhan-s-resignation-opposition-tells-gov": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "opposition|parliament|protest|protest",
+    "norm": 65.3
   },
-  "kerala-government-accords-top-priority-to-empowerment-of-wom": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "chief minister|minister|mp|war",
+  "17-metro-stations-in-delhi-to-remain-closed-tomorrow-startin": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "protest|protest|row|star",
+    "norm": 65
+  },
+  "-it-s-a-dream-emotional-ashok-sharma-dedicates-india-debut-t": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "cricket|emotional|sharma",
+    "norm": 64.6
+  },
+  "students-disappointment-understandable-tendulkar-issues-stat": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "neet|tendulkar|war",
+    "norm": 64.6
+  },
+  "govt-to-sell-quality-rice-at-subsidised-prices-through-rythu": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "minister|mp|price|prices",
     "norm": 63.5
   },
-  "govt-s-resolve-to-ensure-bright-future-for-youth-amit-shah-o": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "amit shah|minister|modi|modi|mp",
-    "norm": 62.9
+  "-baseless-india-rejects-pakistan-minister-ishaq-dar-s-remark": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "minister|pakistan|war",
+    "norm": 59.7
   },
-  "-3-000-cr-203-km-kazipet-balharshah-rail-tripling-works-comp": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "ipl|mp|result",
-    "norm": 62.5
+  "no-plan-to-increase-ethanol-blending-beyond-20-in-petrol-pre": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "fuel|petrol|petrol",
+    "norm": 59.7
   },
-  "pm-modi-s-fast-track-courts-announcement-for-paper-leaks-dra": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "minister|modi|modi",
-    "norm": 61.4
+  "education-secretary-vineet-joshi-shifted-naresh-pal-gangwar-": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "neet|war",
+    "norm": 59.3
   },
-  "-save-yourself-from-loss-connaught-place-traders-asked-to-sh": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "mp|protest|protest",
-    "norm": 61.1
+  "-dharmendra-pradhan-should-join-us-at-jantar-mantar-abhijeet": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "lakh|minister|mp",
+    "norm": 57.6
   },
-  "video-over-50-cars-submerged-as-rain-floods-parking-lot-in-g": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "flood|flood|floods|video",
-    "norm": 60.8
+  "detentions-demolitions-will-worsen-situation-omar-abdullah-a": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "terror|terror",
+    "norm": 57.6
   },
-  "-will-plant-drugs-mumbai-cop-threatens-protesting-students-p": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "protest|protest|threat|video",
-    "norm": 60.8
-  },
-  "cjp-calls-nationwide-protest-tomorrow-against-police-brutali": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "brutal|protest|protest|row",
-    "norm": 60.6
-  },
-  "cjp-protest-delhi-police-eyes-passport-cancellation-of-riot-": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "protest|protest|riot",
-    "norm": 59.6
-  },
-  "jantar-mantar-protest-live-cjp-rejects-centre-s-talk-offer-c": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "brutal|protest|protest",
-    "norm": 59.6
-  },
-  "cjp-protest-live-updates-cjp-calls-for-nationwide-protests-t": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "protest|protest|row",
-    "norm": 59.6
-  },
-  "fssai-must-finalise-notify-front-of-pack-nutrition-labelling": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "exam|parliament",
+  "delhi-hc-designates-special-judge-anu-baliga-for-fast-paper-": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "exam|high court",
     "norm": 57.1
   },
-  "another-exam-leak-2-papers-cancelled-in-uttarakhand-technica": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "exam|khan",
-    "norm": 55.7
-  },
-  "russia-revives-28-000-tonne-cold-war-nuclear-giant-with-hype": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "mp|war",
-    "norm": 55.4
-  },
-  "gurugram-s-office-boom-hits-a-new-high-with-100-million-sq-f": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "bill|billion",
-    "norm": 55
-  },
-  "mayank-yadav-scripts-a-rare-record-with-first-ball-wicket-in": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "match|record",
-    "norm": 54.2
-  },
-  "pandemonium-in-both-houses-of-the-legislature-over-patna-pro": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
+  "jantar-mantar-protest-live-17-delhi-metro-stations-to-remain": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "centre-invites-protesters-for-talks-at-j-p-nadda-s-office-cj": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
+  "the-national-democratic-alliance-s-increased-strength-in-the": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "alliance|congress|lok sabha|mp",
+    "norm": 53.9
+  },
+  "cure-bill-changes-formula-proposes-steep-hike-in-property-ta": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "bill|tax",
+    "norm": 53.2
+  },
+  "555-cases-pending-against-sitting-and-former-mps-mlas-in-ker": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "high court|mla|mp",
+    "norm": 52.7
+  },
+  "bengaluru-rallies-behind-delhi-student-protest-demand-resign": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "osmania-university-postpones-july-24-examinations-amid-telan": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "exam",
+  "delhi-school-announces-hybrid-mode-classes-amid-protests": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "-may-invite-legal-action-delhi-university-asks-students-to-s": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "women-s-reservation-should-be-implemented-without-delimitati": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "high court|lok sabha|mp",
+    "norm": 50.9
+  },
+  "bangladesh-pm-tarique-rahman-invited-to-brics-summit-in-delh": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "brics|minister|summit",
+    "norm": 50.9
+  },
+  "15-of-39-posts-in-national-testing-agency-lie-vacant-says-mi": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "minister|mp|rajya sabha",
+    "norm": 50.9
+  },
+  "over-6-17-lakh-waqf-properties-approved-on-umeed-portal": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "lakh|record",
+    "norm": 50.2
+  },
+  "kerala-university-syndicate-scraps-2-crore-sculpture-park-pr": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "budget|crore",
+    "norm": 48.7
+  },
+  "pawan-calls-for-enhanced-surveillance-to-combat-red-sanders-": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
+  },
+  "iran-flew-irgc-commanders-missile-gear-to-yemen-s-houthis-re": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "iran",
     "norm": 46.3
   },
-  "congress-other-political-parties-should-not-misguide-youth-n": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "congress",
+  "literary-critic-m-leelavathy-chosen-for-prof-m-k-sanoo-award": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "police-should-better-equip-themselves-to-deal-with-changing-": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
+    "signature": "deal",
     "norm": 45.9
   },
-  "centre-makes-another-appeal-for-talks-cjp-s-neutral-venue-re": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "resigned-here-s-what-labour-laws-say-about-final-settlement": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
+  "18-storey-building-of-an-apartment-complex-to-be-demolished": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
     "signature": "mp",
     "norm": 44
   },
-  "left-parties-seek-withdrawal-of-data-centre-projects-in-visa": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "us-alleges-china-s-moonshot-used-anthropic-to-build-powerful": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "china",
-    "norm": 44
-  },
-  "samastha-general-secretary-alikutty-musliar-passes-away": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
+  "27-years-of-kargil-victory-operation-safed-sagar-architect-d": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
     "signature": "",
     "norm": 36
   },
-  "-at-your-convenience-any-place-any-time-govt-invites-cockroa": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
+  "govt-reshuffles-top-bureaucrats-in-ministries-education-secr": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
     "signature": "",
     "norm": 36
   },
-  "new-draft-rules-unpaid-traffic-e-challans-may-freeze-vehicle": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
+  "western-ganga-theme-chosen-for-lalbagh-s-independence-day-fl": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
     "signature": "",
     "norm": 33.9
   },
-  "decades-old-extortion-racket-why-manipur-s-real-crisis-isn-t": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "30k-ft-health-scare-british-airways-launches-probe-after-3-p": {
-    "firstSeen": "2026-07-23T12:16:04.912Z",
+  "16-yr-old-canadian-student-built-ai-robot-turtle-that-hunts-": {
+    "firstSeen": "2026-07-23T17:59:29.999Z",
     "signature": "",
     "norm": 33.9
   }
