@@ -1,302 +1,202 @@
 {
-  "centre-vs-opposition-protest-showdown-outside-parliament-ami": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "exam|mp|neet|opposition|parliament|protest|protest|storm",
-    "norm": 92.6
+  "e20-clean-fuel-no-plan-to-return-to-pure-petrol-centre-in-pa": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "fuel|parliament|petrol|petrol|policy|war",
+    "norm": 81.7
   },
-  "pm-modi-warns-strict-action-against-paper-leak-accused-amid-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "modi|modi|protest|protest|war",
-    "norm": 80.3
+  "death-toll-in-flash-floods-rises-to-26-in-jammu-region-as-wo": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "death|flood|flood|floods|ipo|toll",
+    "norm": 80.2
   },
-  "patna-neet-protest-firs-registered-against-500-protesters-cc": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "bjp|cctv|footage|neet|protest|protest",
-    "norm": 76.8
+  "anna-hazare-holds-maun-vrat-in-support-of-protesting-student": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "minister|modi|modi|prime minister|protest|protest",
+    "norm": 78.8
   },
-  "jantar-mantar-protest-live-cjp-demands-dharmendra-pradhan-s-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "modi|modi|protest|protest",
-    "norm": 72.9
+  "eu-slaps-1-billion-fine-on-google-over-play-store-search-pra": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "bill|billion|exam|mp|result|results|results",
+    "norm": 78.2
   },
-  "bengaluru-voices-at-freedom-park-jaldi-resign-kar-dharmendra": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "neet|parliament|protest|protest",
-    "norm": 72.9
+  "cjp-protests-from-exam-paper-leaks-to-unemployment-a-generat": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "anger|exam|mp|protest|protest",
+    "norm": 77.8
   },
-  "cjp-protest-live-updates-won-t-spare-those-who-harm-future-o": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "modi|modi|protest|protest",
-    "norm": 72.9
+  "warnings-issued-against-sale-of-seeds-at-excessive-prices-in": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "price|prices|war|warning",
+    "norm": 71.6
   },
-  "delhi-acp-injured-in-cjp-protest-violence-suffers-head-injur": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "hospital|injured|protest|protest",
-    "norm": 72.6
+  "-jana-nayagan-movie-review-thalapathy-vijay-bids-adieu-to-ci": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "crowd|film|manifesto|movie|row",
+    "norm": 71.4
   },
-  "protests-are-wake-up-call-mk-stalin-accuses-centre-demands-a": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "exam|neet|protest|protest",
-    "norm": 72.6
+  "houses-of-two-terrorists-blasted-after-anantnag-attack-j-k-c": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "attack|attack|blast|terror|terror",
+    "norm": 70.5
   },
-  "gujarat-rain-fury-imd-issues-red-alert-for-central-northern-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "alert|fury|fury|red alert",
-    "norm": 72.3
+  "wayne-gretzky-s-leadership-lessons-you-miss-100-of-the-shots": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "exam|ipl|mp|record",
+    "norm": 67.9
   },
-  "google-q2-earnings-ai-drives-alphabet-growth-as-cloud-jumps-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "bill|billion|mp|row",
-    "norm": 72.3
+  "opinion-opinion-a-new-us-israel-defence-bill-has-opened-an-u": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "bill|defence|israel|mp|unexpected",
+    "norm": 67.3
   },
-  "rohit-in-samson-out-ex-india-cricketer-picks-india-squad-for": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "cricket|cricketer|kohli|rohit|sharma|world cup",
-    "norm": 67.1
-  },
-  "-will-intervene-cji-surya-kant-to-step-in-if-supreme-court-m": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "cji|protest|protest|supreme court",
+  "omar-abdullah-contests-union-minister-nadda-s-claim-on-j-k-p": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "governor|minister|protest|protest",
     "norm": 66.9
   },
-  "-8216-no-discussion-without-education-minister-8217-s-resign": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "minister|opposition|protest|protest",
-    "norm": 66.9
+  "kerala-government-accords-top-priority-to-empowerment-of-wom": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "chief minister|minister|mp|war",
+    "norm": 63.5
   },
-  "parliament-monsoon-session-day-4-live-rajya-sabha-adjourned-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "lok sabha|minister|neet|opposition|parliament|rajya sabha",
-    "norm": 65.1
+  "govt-s-resolve-to-ensure-bright-future-for-youth-amit-shah-o": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "amit shah|minister|modi|modi|mp",
+    "norm": 62.9
   },
-  "3-500-vba-workers-detained-ahead-of-maharashtra-bandh-called": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "maharashtra|protest|protest",
-    "norm": 64.9
+  "-3-000-cr-203-km-kazipet-balharshah-rail-tripling-works-comp": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "ipl|mp|result",
+    "norm": 62.5
   },
-  "-doesnt-have-courage-to-stand-up-in-parliament-jairam-ramesh": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "modi|modi|parliament",
-    "norm": 64.2
-  },
-  "rahul-gandhi-accuses-pm-modi-of-failing-students-demands-dha": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "modi|modi|rahul gandhi",
-    "norm": 64.2
-  },
-  "oil-prices-hit-six-week-highs-surge-past-96-as-renewed-us-ir": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "iran|price|prices",
-    "norm": 64.2
-  },
-  "salman-khan-supports-student-protest-condemns-paper-leak-and": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "khan|protest|protest",
-    "norm": 64.2
-  },
-  "salman-khan-backs-student-protest-calls-paper-leak-issue-ver": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "khan|protest|protest",
-    "norm": 64.2
-  },
-  "jantar-mantar-protest-annamalai-urges-bjp-government-to-enga": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "bjp|protest|protest",
-    "norm": 62.8
-  },
-  "ex-tdb-chief-fears-arrest-alleges-political-vendetta-in-saba": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "fear|gold",
-    "norm": 62.1
-  },
-  "parliament-monsoon-session-2026-day-4-live-updates-centre-ur": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "neet|opposition|parliament",
+  "pm-modi-s-fast-track-courts-announcement-for-paper-leaks-dra": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "minister|modi|modi",
     "norm": 61.4
   },
-  "police-constable-found-dead": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "dead|dead",
-    "norm": 59.3
+  "-save-yourself-from-loss-connaught-place-traders-asked-to-sh": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "mp|protest|protest",
+    "norm": 61.1
   },
-  "moon-is-drifting-3-8-cm-away-from-earth-every-year-what-happ": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "mp|result",
+  "video-over-50-cars-submerged-as-rain-floods-parking-lot-in-g": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "flood|flood|floods|video",
+    "norm": 60.8
+  },
+  "-will-plant-drugs-mumbai-cop-threatens-protesting-students-p": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "protest|protest|threat|video",
+    "norm": 60.8
+  },
+  "cjp-calls-nationwide-protest-tomorrow-against-police-brutali": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "brutal|protest|protest|row",
+    "norm": 60.6
+  },
+  "cjp-protest-delhi-police-eyes-passport-cancellation-of-riot-": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "protest|protest|riot",
+    "norm": 59.6
+  },
+  "jantar-mantar-protest-live-cjp-rejects-centre-s-talk-offer-c": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "brutal|protest|protest",
+    "norm": 59.6
+  },
+  "cjp-protest-live-updates-cjp-calls-for-nationwide-protests-t": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "protest|protest|row",
+    "norm": 59.6
+  },
+  "fssai-must-finalise-notify-front-of-pack-nutrition-labelling": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "exam|parliament",
     "norm": 57.1
   },
-  "the-right-to-protest-cant-be-denied": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "protest|protest",
-    "norm": 57.1
+  "another-exam-leak-2-papers-cancelled-in-uttarakhand-technica": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "exam|khan",
+    "norm": 55.7
   },
-  "city-pulse-share-price-city-pulse-stock-price-city-pulse-mul": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "price|share price",
-    "norm": 57.1
+  "russia-revives-28-000-tonne-cold-war-nuclear-giant-with-hype": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "mp|war",
+    "norm": 55.4
   },
-  "india-solar-push-idles-factories-unable-to-shake-reliance-on": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "actor|china",
-    "norm": 56.4
-  },
-  "zinc-futures-set-to-rally-the-hindubusinessline": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "rally|rally",
+  "gurugram-s-office-boom-hits-a-new-high-with-100-million-sq-f": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "bill|billion",
     "norm": 55
   },
-  "home-visits-whatsapp-location-how-mumbai-cops-are-trying-to-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
+  "mayank-yadav-scripts-a-rare-record-with-first-ball-wicket-in": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "match|record",
+    "norm": 54.2
+  },
+  "pandemonium-in-both-houses-of-the-legislature-over-patna-pro": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "oil-prices-scorch-indian-bonds-rising-treasury-yields-add-to": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "price|prices",
-    "norm": 53.5
+  "centre-invites-protesters-for-talks-at-j-p-nadda-s-office-cj": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "heavy-showers-ahead-massive-10-000-km-rain-band-spotted-stre": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "mp|star",
-    "norm": 53.5
+  "osmania-university-postpones-july-24-examinations-amid-telan": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "exam",
+    "norm": 46.3
   },
-  "mumbai-tragedy-22-year-old-property-agent-dies-after-17th-fl": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "tragedy",
-    "norm": 51.2
-  },
-  "jana-nayagan-movie-review-thalapathy-vijay-final-film-is-a-m": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "film|movie",
-    "norm": 51.2
-  },
-  "-nothing-done-so-far-sp-mp-ram-gopal-yadav-asks-govt-to-reve": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "dr-reddy-shares-sink-nearly-9-q1-profit-slumps-69-2-and-stoc": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "mahindra-thar-roxx-scorpio-price-hike-july-2026-up-to-rs-78k": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "price",
-    "norm": 49
-  },
-  "4-chandigarh-university-law-graduates-become-judicial-office": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "jobs",
-    "norm": 49
-  },
-  "iqiyi-premieres-mystic-tales-the-spider-lady-vendetta-bringi": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "china",
-    "norm": 49
-  },
-  "where-have-all-india-s-sparrows-gone-the-silent-crisis-unfol": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "row",
-    "norm": 48.2
-  },
-  "a-mountain-school-and-wangchuk-s-experiments-with-educationa": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "mp",
+  "congress-other-political-parties-should-not-misguide-youth-n": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "congress",
     "norm": 45.9
   },
-  "who-are-saurav-das-and-ashutosh-ranka-the-cjp-faces-leading-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
+  "centre-makes-another-appeal-for-talks-cjp-s-neutral-venue-re": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
     "signature": "minister",
     "norm": 45.9
   },
-  "bmw-group-india-bets-on-14-new-launches-expansion-to-50-citi": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "record",
-    "norm": 45.9
+  "resigned-here-s-what-labour-laws-say-about-final-settlement": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "new-toyota-innova-hycross-facelift-front-spied-gets-hilux-in": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
+  "left-parties-seek-withdrawal-of-data-centre-projects-in-visa": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "trafficking-ring-used-fb-ad-to-lure-2-karnataka-men-police": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
+  "us-alleges-china-s-moonshot-used-anthropic-to-build-powerful": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "china",
+    "norm": 44
   },
-  "-i-felt-like-sobbing-it-was-so-disillusioning-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "why-are-ai-costs-rising-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "nasa-isro-nisar-satellite-antarctica-image-captures-a-giant-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "icici-bank-sets-initial-guidance-for-first-dollar-bond-in-ne": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "paper-leak-probe-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "ai-glasses-the-next-big-thing-or-just-plain-creepy-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "mahesh-babu-nephew-jayakrishna-says-ram-charan-is-his-bigges": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "registrations-open-for-delhi-half-marathon-2026-race-day-set": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "ai-camera-fines-from-august-1": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "india-panama-chart-new-maritime-partnership-focused-on-logis": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "wangchuk-fast-ends-if-students-not-charged": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "fbi-arrests-harmanveer-singh-on-charges-of-drug-trafficking-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "mht-cet-2026-provisional-merit-list-released-for-be-btech-ad": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "karnataka-rain-holiday-declared-in-joida-dandeli-taluks": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
+  "samastha-general-secretary-alikutty-musliar-passes-away": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
     "signature": "",
     "norm": 36
   },
-  "centre-weighs-easing-cross-ownership-rules-between-airlines-": {
-    "firstSeen": "2026-07-23T06:38:52.102Z",
+  "-at-your-convenience-any-place-any-time-govt-invites-cockroa": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
     "signature": "",
     "norm": 36
+  },
+  "new-draft-rules-unpaid-traffic-e-challans-may-freeze-vehicle": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "decades-old-extortion-racket-why-manipur-s-real-crisis-isn-t": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "30k-ft-health-scare-british-airways-launches-probe-after-3-p": {
+    "firstSeen": "2026-07-23T12:16:04.912Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
