@@ -1,181 +1,131 @@
 {
-  "cjp-protest-raf-probes-excessive-force-pellet-gun-charges-in": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "attack|attack|clash|clash|exam|protest|protest|video",
-    "norm": 85.8
+  "narendra-modi-thanks-friends-in-instagram-reel-after-paper-l": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "instagram|minister|modi|modi|prime minister|protest|protest|video",
+    "norm": 86
   },
-  "mumbai-street-artist-tyler-on-his-stencil-becoming-a-protest": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "exam|minister|modi|modi|neet|prime minister|protest|protest",
-    "norm": 84.3
+  "pm-asks-ministers-to-get-going-on-instagram-after-raging-stu": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "cabinet|crore|gst|instagram|minister|protest|protest",
+    "norm": 83.5
   },
-  "janpath-metro-station-covered-with-newspapers-amid-jantar-ma": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "mp|protest|protest|video|viral|viral|viral",
-    "norm": 81.6
+  "delhi-high-court-hears-multiple-pils-on-jantar-mantar-protes": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "high court|ipl|protest|protest|video",
+    "norm": 74
   },
-  "students-march-through-central-hyderabad-over-neet-row-deman": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "minister|neet|parliament|protest|protest|row",
-    "norm": 80.1
+  "-do-i-need-a-character-certificate-sonam-wangchuk-slams-crit": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "deal|protest|protest|slam|slams",
+    "norm": 68.9
   },
-  "ministers-mlas-turn-emotional-as-cm-vijay-starrer-jana-nayag": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "election|election|emotional|minister|mla|star",
-    "norm": 80
+  "ravneet-singh-bittu-resigns-as-union-minister-after-his-rajy": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "election|election|minister|neet|rajya sabha",
+    "norm": 67
   },
-  "-control-jorabat-development-otherwise-assam-cm-s-warning-to": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "dead|dead|flood|flood|floods|row|war|warning",
-    "norm": 79.4
+  "union-minister-ravneet-singh-bittu-resigns-likely-to-contest": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "election|election|minister|neet|poll",
+    "norm": 67
   },
-  "-he-is-fit-delhi-police-debunks-fake-newspaper-clipping-clai": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "death|protest|protest|viral|viral|viral|war",
-    "norm": 74.7
+  "congress-leader-kanhaiya-kumar-arrested-in-delhi-on-complain": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "congress|mp|protest|protest",
+    "norm": 66.9
   },
-  "palani-math-land-row-municipality-chairperson-moves-madras-h": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "exam|fraud|high court|row",
-    "norm": 72.6
+  "ccb-arrests-rowdy-sheeter-seizes-eight-deadly-weapons": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "dead|dead|row",
+    "norm": 62.9
   },
-  "sensex-down-900-points-nifty50-ends-below-23-800-why-stock-m": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "crash|crash|fuel|investor|mp|nifty|price|prices|sensex|stock market",
-    "norm": 72
+  "-kafir-screenshot-case-sit-arrests-dyfi-leader-ribesh-ramakr": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "election|election|lok sabha",
+    "norm": 61.4
   },
-  "-create-reels-stay-active-on-instagram-pm-modi-tells-cabinet": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "cabinet|instagram|minister|modi|modi|prime minister",
-    "norm": 71.3
-  },
-  "youngsters-are-not-afraid-of-cbi-or-ed-ktr-tells-modi": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "gst|modi|modi|president",
-    "norm": 68
-  },
-  "india-israel-conclude-second-round-of-trade-pact-negotiation": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "israel|mp|war",
-    "norm": 67.6
-  },
-  "students-demands-raised-in-hyderabad-during-protest-against-": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "neet|protest|protest",
-    "norm": 64.9
-  },
-  "six-policemen-injured-in-clash-with-villagers-in-chhattisgar": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "clash|clash|injured",
-    "norm": 63.2
-  },
-  "telangana-minister-supports-student-movement-calls-on-centre": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
+  "power-crisis-cpi-m-announces-candle-light-protest-on-july-26": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
     "signature": "minister|protest|protest",
-    "norm": 62.8
-  },
-  "jantar-mantar-protest-live-pradhan-s-resignation-non-negotia": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "minister|protest|protest",
-    "norm": 62.8
-  },
-  "government-orders-github-to-remove-bluetooth-based-chat-app-": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "mp|protest|protest",
     "norm": 61.1
   },
-  "bhavya-rasayan-scheme-cabinet-approves-rs-3-030-crore-for-th": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "cabinet|crore|mp|yogi",
-    "norm": 59.7
+  "baseless-allegations-says-india-on-pakistan-s-claims-of-crea": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "flood|flood|pakistan",
+    "norm": 61.1
   },
-  "-anna-part-2-congress-mp-accuses-wangchuk-of-striking-a-deal": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "bjp|congress|deal|mp",
-    "norm": 59.7
+  "in-new-late-night-video-modi-thanks-students-for-constructiv": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "modi|modi|video",
+    "norm": 61.1
   },
-  "cabinet-approves-1-264-crore-rail-line-expansion-project-in-": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "cabinet|crore|mp",
+  "three-teenagers-drown-in-irrigation-canal-in-konaseema-distr": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "drown|row",
     "norm": 59.3
   },
-  "nine-indian-fishermen-from-rameswaram-arrested-by-sri-lankan": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "navy|war",
-    "norm": 57.1
-  },
-  "brigade-moves-madras-high-court-against-revocation-of-enviro": {
-    "firstSeen": "2026-07-24T07:41:49.462Z",
-    "signature": "high court|mp|rally|rally",
-    "norm": 56.9
-  },
-  "govt-has-sought-time-till-tomorrow-on-dharmendra-pradhan-s-r": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "mp|row",
+  "protest-venue-under-a-web-of-cameras-and-facial-recognition-": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "cctv|protest|protest",
     "norm": 55.4
   },
-  "raf-orders-inquiry-into-alleged-pellet-gun-use-during-delhi-": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "fire|fire",
-    "norm": 52.4
+  "supreme-court-seeks-centre-s-response-on-neet-reforms": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "neet|supreme court",
+    "norm": 55.4
   },
-  "-walking-is-the-new-commute-delhi-office-goers-feel-the-heat": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "keo-pc-is-ready-for-rollout-deployments-across-karnataka-sha": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "mp|price",
+    "norm": 53.2
   },
-  "india-name-chess-olympiad-squads-as-gukesh-pragg-vaishali-le": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "defence|mp",
+  "ldf-alleges-massive-cut-in-local-body-development-funds": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "crore|fund",
     "norm": 50.5
   },
-  "india-israel-conclude-second-round-of-negotiations-for-fta-g": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "israel",
+  "ringconn-gen-3-is-here-now-with-vibration-alerts-here-s-what": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "alert",
     "norm": 48.2
   },
-  "delhi-high-court-refuses-to-entertain-pil-seeking-nia-probe-": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "high court",
+  "sonam-wangchuk-hits-back-at-deal-with-govt-allegations-after": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "deal",
     "norm": 45.9
   },
-  "fishermen-to-stay-off-fishing-for-three-days-condemn-arrest-": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "navy",
-    "norm": 45.9
+  "us-updates-list-of-h-1b-debarred-disqualified-companies-here": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "resolve-technical-issues-in-guarantee-schemes-without-delay-": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
+  "horoscope-today-daily-astrological-predictions-for-july-25": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "bus-driver-booked-for-allegedly-trying-to-assault-lawyer": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "how-kerala-keeps-its-karkkadakam-rituals-alive": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
+  "kerala-hc-directs-ksdma-to-conduct-hazard-checks-at-places-s": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "tamil-nadu-s-public-healthcare-steps-in-as-workplace-injurie": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
+  "iimb-s-happiness-and-wellness-fest-today": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "standardised-vending-carts-planned-for-proposed-model-food-s": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
+  "cbse-south-zone-i-girls-chess-meet-begins-in-visakhapatnam": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "singai-ramachandran-quits-aiadmk": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "govt-s-cyber-arm-i4c-orders-github-to-disable-bitchat-reposi": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "punjab-roadways-contractual-workers-announce-three-day-strik": {
-    "firstSeen": "2026-07-24T13:07:23.685Z",
+  "collector-urges-parents-teachers-to-shape-students-into-glob": {
+    "firstSeen": "2026-07-24T19:04:35.135Z",
     "signature": "",
     "norm": 33.9
   }
