@@ -1,81 +1,166 @@
 {
-  "flood-toll-climbs-to-47-in-assam-over-7-lakh-affected": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "chief minister|devastat|flood|flood|heavy rain|lakh|minister|toll|unprecedented",
-    "norm": 94.6
+  "pm-modi-promises-more-strict-actions-against-paper-leaks-ami": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "bill|cabinet|minister|modi|modi|prime minister|protest|protest|record|video",
+    "norm": 86.2
   },
-  "assam-floods-6-more-deaths-in-24-hours-over-7-lakh-people-af": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "death|flood|flood|floods|lakh|toll",
-    "norm": 78.7
+  "parliament-monsoon-session-day-5-live-lok-sabha-adjourned-fo": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "lok sabha|mp|neet|opposition|parliament|protest|protest|rahul gandhi",
+    "norm": 80.2
+  },
+  "crpf-verifying-reports-of-pellet-guns-used-against-protester": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "fire|fire|parliament|protest|protest",
+    "norm": 74
+  },
+  "delhi-hc-to-hear-plea-against-internet-suspension-around-stu": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "exam|minister|protest|protest",
+    "norm": 71.4
   },
   "bjp-leaders-allies-urge-centre-to-treat-youth-protests-with-": {
     "firstSeen": "2026-07-23T21:42:54.678Z",
     "signature": "bjp|minister|mp|neet|protest|protest",
-    "norm": 77.2
+    "norm": 68.7
+  },
+  "arundhati-roy-we-are-being-pushed-to-the-wall-": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "mp|protest|protest|war",
+    "norm": 66.3
   },
   "international-waterways-must-remain-safe-and-unimpeded-s-jai": {
     "firstSeen": "2026-07-23T21:42:54.678Z",
     "signature": "attack|attack|jaishankar|minister|mp|pakistan|summit",
-    "norm": 75.1
+    "norm": 65.4
   },
-  "student-protests-are-the-consequence-of-modi-government-s-po": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "modi|modi|protest|protest",
-    "norm": 71.4
+  "iit-m-students-rally-in-support-of-delhi-protests-ordered-to": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "protest|protest|rally|rally",
+    "norm": 63.9
   },
-  "opposition-mps-visit-gandhi-smriti-pay-tribute-to-students-w": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "died|mp|neet|opposition",
-    "norm": 70
+  "-before-coming-to-parliament-dismiss-dharmendra-pradhan-cong": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "congress|modi|modi|opposition|parliament",
+    "norm": 62.9
   },
-  "fir-filed-over-mamata-banerjee-s-martyrs-day-rally-for-alleg": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "high court|ipl|mamata|rally|rally",
-    "norm": 67.3
-  },
-  "jantar-mantar-protest-live-wangchuk-breaks-26-day-fast-relie": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "minister|mp|protest|protest",
-    "norm": 65.3
-  },
-  "no-cases-against-protesters-talks-on-education-reforms-govt-": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "minister|protest|protest",
+  "will-cjp-protesters-lose-their-passports-delhi-police-issues": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "mp|protest|protest",
     "norm": 62.8
   },
-  "protests-over-paper-leak-intensify-in-states": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "minister|protest|protest",
-    "norm": 61.1
+  "sc-says-it-will-closely-monitor-steps-taken-to-curb-neet-pap": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "mp|neet|supreme court",
+    "norm": 61.4
   },
-  "trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abra": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "mp|trump|trump",
-    "norm": 59.7
+  "brigade-moves-madras-high-court-against-revocation-of-enviro": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "high court|mp|rally|rally",
+    "norm": 58.6
   },
-  "cpi-criticises-kerala-chief-minister-on-waqf-issue": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "chief minister|minister|row",
-    "norm": 59.7
+  "kerala-govt-issues-order-suspending-adgp-m-r-ajith-kumar-cit": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "congress|ipl",
+    "norm": 57.1
   },
-  "2-500-detained-homes-of-2-let-terrorists-razed-in-kashmir-af": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
-    "signature": "terror|terror",
-    "norm": 57.6
+  "-pellet-shards-stuck-to-skin-hospital-report-contradicts-del": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "hospital|mp",
+    "norm": 55.4
   },
-  "three-days-since-july-20-violence-delhi-police-mha-yet-to-ac": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
+  "saudi-has-trillions-in-oil-wealth-but-here-s-why-it-wants-nu": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "budget|record|trillion",
+    "norm": 54.7
+  },
+  "jantar-mantar-protest-live-crpf-verifying-reports-of-pellet-": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "pawan-sangle-sandeep-lamba-sonia-sehrawat-why-3-security-per": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "pawan-khera-appears-before-assam-police-crime-branch-again-i": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "flood|flood",
+    "norm": 52.4
+  },
+  "jantar-mantar-protest-live-govt-has-agreed-to-our-request-to": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "sonam-wangchuk-has-broken-his-fast-says-leh-apex-body-co-con": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
+  "vijay-s-cmo-to-be-shifted-to-namakkal-kavingar-maaligai-due-": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
+  },
+  "why-gujarat-hc-ordered-muslim-family-to-shift-buried-body-to": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "high court|mp",
+    "norm": 48.7
+  },
+  "wanted-waris-punjab-de-member-u-s-national-nabbed-while-ente": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "raf-manual-explained-negotiations-first-pellet-guns-second-l": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "riot",
+    "norm": 46.3
+  },
+  "8-069-cancer-patients-receive-free-treatment-under-punjab-s-": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "crore",
+    "norm": 45.9
+  },
+  "rhiya-ahir-how-an-army-man-s-daughter-became-mumbai-s-face-o": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "army",
+    "norm": 45.9
+  },
+  "bandh-call-shuts-educational-institutes-in-telangana-on-july": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
     "signature": "minister",
+    "norm": 45.9
+  },
+  "don-t-cultivate-paddy-this-kharif-andhra-pradesh-tells-krish": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "historic-first-at-commonwealth-games-as-braille-medals-debut": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "adani-denies-plans-to-enter-airline-business-calls-reports-b": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "adani",
+    "norm": 44.3
+  },
+  "bahuda-yatra-begins-in-puri-amid-tight-security-lakhs-witnes": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "lakh",
     "norm": 44
   },
-  "-long-negotiations-sonam-wangchuk-ends-hunger-strike-after-2": {
-    "firstSeen": "2026-07-23T21:42:54.678Z",
+  "vivek-shanbhag-on-hyphen-and-bridging-the-gap-in-india-s-tra": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "",
+    "norm": 36
+  },
+  "government-bars-communication-infra-providers-from-sharing-d": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
+    "signature": "",
+    "norm": 36
+  },
+  "kerala-power-crisis-state-may-face-deficit-in-coming-months-": {
+    "firstSeen": "2026-07-24T07:41:49.462Z",
     "signature": "",
     "norm": 33.9
   }
