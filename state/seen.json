@@ -1,46 +1,181 @@
 {
-  "six-cops-injured-as-villagers-clash-with-police-in-chhattisg": {
-    "firstSeen": "2026-07-24T22:42:59.376Z",
-    "signature": "acquisition|attack|attack|clash|clash|injured|mp|protest|protest",
-    "norm": 93.1
+  "centre-lying-about-pellet-gun-use-against-protesters-says-ra": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "attack|attack|congress|minister|modi|modi|prime minister|protest|protest|rahul gandhi",
+    "norm": 94
   },
-  "aisa-calls-for-bihar-bandh-on-july-25-against-police-lathi-c": {
-    "firstSeen": "2026-07-24T22:42:59.376Z",
-    "signature": "fire|fire|neet|protest|protest",
-    "norm": 75.9
+  "-arrest-me-viral-video-shows-sonam-wangchuk-confronting-hosp": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "hospital|video|viral|viral|viral|viral video",
+    "norm": 82.3
   },
-  "assam-flood-toll-reaches-61-cm-says-relief-yet-to-reach-80k-": {
-    "firstSeen": "2026-07-24T22:42:59.376Z",
-    "signature": "disaster|flood|flood|lakh|toll",
-    "norm": 70.5
+  "-sack-pradhan-from-cabinet-rahul-says-ministerial-reshuffle-": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "cabinet|minister|modi|modi|mp|protest|protest",
+    "norm": 79.7
   },
-  "mirwaiz-mp-rashid-mp-ruhullah-lone-question-mass-arrests-dem": {
-    "firstSeen": "2026-07-24T22:42:59.376Z",
-    "signature": "attack|attack|mp",
-    "norm": 66
+  "-shifting-dharmendra-pradhan-to-another-ministry-not-accepta": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "congress|modi|modi|protest|protest|rahul gandhi",
+    "norm": 78.8
   },
-  "saudi-strikes-houthi-rebel-controlled-hodeidah-province-in-y": {
-    "firstSeen": "2026-07-24T22:42:59.376Z",
-    "signature": "attack|attack|governor",
-    "norm": 66
+  "delhi-cops-add-attempt-to-murder-charge-in-cjp-protest-viole": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "gst|mp|parliament|protest|protest",
+    "norm": 73.3
   },
-  "gen-z-outreach-pm-modi-asks-ministers-to-shore-up-presence-o": {
-    "firstSeen": "2026-07-24T22:42:59.376Z",
-    "signature": "minister|modi|modi",
-    "norm": 59.7
+  "-if-i-die-of-stress-wangchuk-s-confrontation-with-police-in-": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "hospital|viral|viral|viral",
+    "norm": 73.3
   },
-  "bill-moots-10-years-in-prison-fine-of-rs-10-crore-for-paper-": {
-    "firstSeen": "2026-07-24T22:42:59.376Z",
-    "signature": "bill|crore",
-    "norm": 53.2
+  "bill-gates-once-dragged-his-rival-software-boss-to-traffic-c": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "bill|diesel|star|war",
+    "norm": 70.7
   },
-  "sc-bans-posting-court-clips-on-social-media": {
-    "firstSeen": "2026-07-24T22:42:59.376Z",
+  "army-rescues-57-stranded-as-major-flood-relief-operation-beg": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "army|flood|flood|rescue|rescue",
+    "norm": 70.6
+  },
+  "assam-flood-death-toll-climbs-to-61-14-more-people-lost-thei": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "death|flood|flood|toll",
+    "norm": 70
+  },
+  "pib-debunks-ai-deepfakes-of-pm-modi-piyush-goyal-says-pakist": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "modi|modi|pakistan|video",
+    "norm": 65.3
+  },
+  "why-maharashtra-waived-farmers-power-dues-amid-msedcl-ipo-pl": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "ipo|maharashtra|mp",
+    "norm": 63.9
+  },
+  "activist-gets-bail-husband-remains-in-jail-over-protest-agai": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "minister|protest|protest",
+    "norm": 62.8
+  },
+  "jantar-mantar-protest-live-moving-dharmendra-pradhan-to-anot": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "protest|protest|rahul gandhi",
+    "norm": 62.8
+  },
+  "-8216-no-reshuffle-sack-pradhan-8217-rahul-gandhi-backs-prot": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "protest|protest|rahul gandhi",
+    "norm": 62.8
+  },
+  "army-gets-demo-of-indigenous-counter-drone-system-bhargavast": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "army|drone|war",
+    "norm": 62.8
+  },
+  "home-minister-amit-shah-talks-to-slain-policeman-s-family-in": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "amit shah|bjp|minister|opposition|sharma",
+    "norm": 61.1
+  },
+  "-dharmendra-pradhan-has-to-be-sacked-non-negotiable-rahul-ga": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "protest|protest|rahul gandhi",
+    "norm": 61.1
+  },
+  "-proposal-to-designate-sri-city-as-a-dry-port-under-examinat": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "exam|minister",
+    "norm": 57.1
+  },
+  "chhattisgarh-govt-to-table-ucc-bill-during-winter-session-cm": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "bill|mp|star",
+    "norm": 56.1
+  },
+  "robbers-decamp-with-atm-in-andhra-s-madanapalle": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "lakh|mp",
+    "norm": 55
+  },
+  "jantar-mantar-protest-live-updates-cjp-accuses-delhi-police-": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "rajasthan-youtuber-kidnapped-from-studio-rescued-two-men-arr": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "rescue|rescue",
+    "norm": 54.2
+  },
+  "cjp-says-ab-aayega-aur-maza-as-farmers-to-join-jantar-mantar": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "why-did-cci-reject-abuse-of-dominance-claims-against-zomato-": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "mp|watch",
+    "norm": 52
+  },
+  "kozhikode-keltron-unit-drives-affordable-healthcare-with-8-0": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "budget|crore",
+    "norm": 50.5
+  },
+  "live-through-others-after-death-by-eye-skin-and-body-donatio": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "death",
+    "norm": 48.2
+  },
+  "low-pressure-area-formed-in-bay-of-bengal-likely-to-bring-he": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "heavy rain",
+    "norm": 48.2
+  },
+  "-felt-like-north-korea-sonam-wangchuk-says-he-was-treated-li": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "hospital",
+    "norm": 46.3
+  },
+  "nicobar-project-to-safeguard-indo-pacific-interests-rajnath-": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "congress",
+    "norm": 45.9
+  },
+  "cyberabad-civic-body-cracks-down-on-illegal-c-d-waste-dumpin": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "adani-airline-plans-why-the-centre-may-ease-airport-airline-": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "adani",
+    "norm": 44.3
+  },
+  "kerala-8217-s-vizhinjam-set-to-become-latest-gateway-for-ind": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "telangana-rolls-out-digital-advertising-services-at-meeseva-": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
     "signature": "",
     "norm": 36
   },
-  "nta-sacks-47-officials-in-rejig-to-hire-4-gms-16-young-profe": {
-    "firstSeen": "2026-07-24T22:42:59.376Z",
+  "caught-on-cam-bengaluru-woman-alleges-sexual-harassment-on-b": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "",
+    "norm": 36
+  },
+  "andhra-cm-thanks-pm-for-approving-new-railway-lines-between-": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "india-s-para-cyclist-lisha-das-rejects-federation-s-support-": {
+    "firstSeen": "2026-07-25T07:29:23.600Z",
     "signature": "",
     "norm": 33.9
   }
