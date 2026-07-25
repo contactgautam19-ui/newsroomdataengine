@@ -1,181 +1,196 @@
 {
-  "centre-lying-about-pellet-gun-use-against-protesters-says-ra": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "attack|attack|congress|minister|modi|modi|prime minister|protest|protest|rahul gandhi",
-    "norm": 94
+  "dharmendra-pradhan-in-the-eye-of-the-storm": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "exam|minister|modi|modi|protest|protest|storm",
+    "norm": 90.8
   },
-  "-arrest-me-viral-video-shows-sonam-wangchuk-confronting-hosp": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "hospital|video|viral|viral|viral|viral video",
-    "norm": 82.3
+  "pm-modi-dials-assam-cm-to-enquire-about-flood-relief-offers-": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "devastat|flood|flood|minister|modi|modi|prime minister",
+    "norm": 86.6
   },
-  "-sack-pradhan-from-cabinet-rahul-says-ministerial-reshuffle-": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "cabinet|minister|modi|modi|mp|protest|protest",
-    "norm": 79.7
-  },
-  "-shifting-dharmendra-pradhan-to-another-ministry-not-accepta": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "congress|modi|modi|protest|protest|rahul gandhi",
+  "dharmendra-pradhan-resignation-news-live-bjp-defends-pradhan": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "bjp|minister|neet|opposition|protest|protest",
     "norm": 78.8
   },
-  "delhi-cops-add-attempt-to-murder-charge-in-cjp-protest-viole": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "gst|mp|parliament|protest|protest",
-    "norm": 73.3
+  "from-neet-exam-paper-leak-to-cjp-protest-wangchuk-s-fast-pra": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "exam|mp|neet|protest|protest",
+    "norm": 76.3
   },
-  "-if-i-die-of-stress-wangchuk-s-confrontation-with-police-in-": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "hospital|viral|viral|viral",
-    "norm": 73.3
+  "from-v-c-appointments-to-ncert-syllabus-controversies-during": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "minister|modi|modi|protest|protest",
+    "norm": 75.3
   },
-  "bill-gates-once-dragged-his-rival-software-boss-to-traffic-c": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "bill|diesel|star|war",
-    "norm": 70.7
+  "-huge-step-towards-reforming-education-rahul-gandhi-lauds-st": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "modi|modi|rahul gandhi|war",
+    "norm": 71.6
   },
-  "army-rescues-57-stranded-as-major-flood-relief-operation-beg": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "army|flood|flood|rescue|rescue",
-    "norm": 70.6
+  "supreme-court-to-hear-petitions-against-alleged-police-exces": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "brutal|photos|protest|protest|supreme court|video",
+    "norm": 70.4
   },
-  "assam-flood-death-toll-climbs-to-61-14-more-people-lost-thei": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "death|flood|flood|toll",
-    "norm": 70
+  "dharmendra-pradhan-out-what-next-for-education-ministry-neet": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "exam|neet|protest|protest",
+    "norm": 68.4
   },
-  "pib-debunks-ai-deepfakes-of-pm-modi-piyush-goyal-says-pakist": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "modi|modi|pakistan|video",
+  "suvendu-warns-of-action-against-abhishek-banerjee-over-sebaa": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "bjp|ipo|mp|war",
+    "norm": 68
+  },
+  "sexual-harassment-case-registered-after-bmtc-bus-assault-vid": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "video|viral|viral|viral",
+    "norm": 67.6
+  },
+  "-proud-of-you-pradhan-s-exit-a-signal-let-s-get-rid-of-this-": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "minister|protest|protest|rahul gandhi",
+    "norm": 66.9
+  },
+  "-victory-of-democracy-sonam-wangchuk-s-first-reaction-after-": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "fear|minister|protest|protest",
+    "norm": 66.3
+  },
+  "dharmendra-pradhan-resigns-the-career-path-of-a-student-lead": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "minister|policy|protest|protest",
     "norm": 65.3
   },
-  "why-maharashtra-waived-farmers-power-dues-amid-msedcl-ipo-pl": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "ipo|maharashtra|mp",
-    "norm": 63.9
+  "students-are-india-s-future-modi-is-past-past-can-never-figh": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "modi|modi|mp|rahul gandhi",
+    "norm": 63.5
   },
-  "activist-gets-bail-husband-remains-in-jail-over-protest-agai": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "minister|protest|protest",
-    "norm": 62.8
+  "left-wing-students-hold-demonstration-clash-with-police-in-s": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "clash|clash|protest|protest",
+    "norm": 62.5
   },
-  "jantar-mantar-protest-live-moving-dharmendra-pradhan-to-anot": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "protest|protest|rahul gandhi",
-    "norm": 62.8
+  "dharmendra-pradhan-resigns-what-it-means-for-stormy-monsoon-": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "bill|parliament|storm",
+    "norm": 61.4
   },
-  "-8216-no-reshuffle-sack-pradhan-8217-rahul-gandhi-backs-prot": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "protest|protest|rahul gandhi",
-    "norm": 62.8
-  },
-  "army-gets-demo-of-indigenous-counter-drone-system-bhargavast": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "army|drone|war",
-    "norm": 62.8
-  },
-  "home-minister-amit-shah-talks-to-slain-policeman-s-family-in": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "amit shah|bjp|minister|opposition|sharma",
-    "norm": 61.1
-  },
-  "-dharmendra-pradhan-has-to-be-sacked-non-negotiable-rahul-ga": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
+  "-time-has-come-to-remove-this-government-rahul-gandhi-says-a": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
     "signature": "protest|protest|rahul gandhi",
     "norm": 61.1
   },
-  "-proposal-to-designate-sri-city-as-a-dry-port-under-examinat": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "exam|minister",
+  "probes-protests-amp-pressure-what-led-to-dharmendra-pradhan-": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "mp|protest|protest",
+    "norm": 61.1
+  },
+  "president-murmu-lauds-indian-diaspora-in-romania-calls-them-": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "economy|mp|president",
+    "norm": 57.6
+  },
+  "great-nicobar-project-commercial-not-strategic-ramesh-tells-": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "congress|fund|mp",
+    "norm": 57.6
+  },
+  "watch-delhi-police-to-protesters-all-metro-gates-reopened-pl": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "protest|protest|watch",
     "norm": 57.1
   },
-  "chhattisgarh-govt-to-table-ucc-bill-during-winter-session-cm": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "bill|mp|star",
-    "norm": 56.1
+  "shreyas-iyer-s-remarkable-streak-ends-india-captain-loses-fi": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "captain|mp|sharma",
+    "norm": 55.4
   },
-  "robbers-decamp-with-atm-in-andhra-s-madanapalle": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "lakh|mp",
-    "norm": 55
-  },
-  "jantar-mantar-protest-live-updates-cjp-accuses-delhi-police-": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
+  "jantar-mantar-protest-live-victory-of-democracy-says-sonam-w": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "rajasthan-youtuber-kidnapped-from-studio-rescued-two-men-arr": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "rescue|rescue",
-    "norm": 54.2
+  "senior-officials-of-commerce-ministry-discuss-tobacco-farmer": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "mp|price",
+    "norm": 53.2
   },
-  "cjp-says-ab-aayega-aur-maza-as-farmers-to-join-jantar-mantar": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "protest|protest",
+  "this-is-proof-that-if-you-don-t-get-scared-you-can-win-says-": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "crowd|row",
     "norm": 52.4
   },
-  "why-did-cci-reject-abuse-of-dominance-claims-against-zomato-": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "mp|watch",
-    "norm": 52
-  },
-  "kozhikode-keltron-unit-drives-affordable-healthcare-with-8-0": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "budget|crore",
+  "-this-is-only-the-beginning-how-opposition-reacted-to-dharme": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "congress|opposition",
     "norm": 50.5
   },
-  "live-through-others-after-death-by-eye-skin-and-body-donatio": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "death",
+  "rahul-says-pradhan-s-resignation-is-a-major-step-toward-refo": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "low-pressure-area-formed-in-bay-of-bengal-likely-to-bring-he": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "heavy rain",
-    "norm": 48.2
-  },
-  "-felt-like-north-korea-sonam-wangchuk-says-he-was-treated-li": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "hospital",
+  "victory-of-democracy-wangchuk-on-pradhan-s-resignation": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "fear",
     "norm": 46.3
   },
-  "nicobar-project-to-safeguard-indo-pacific-interests-rajnath-": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "congress",
+  "punjab-police-bring-back-fugitive-gangster-from-indonesia-af": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "gst",
     "norm": 45.9
   },
-  "cyberabad-civic-body-cracks-down-on-illegal-c-d-waste-dumpin": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
+  "supreme-court-voices-concern-over-in-laws-being-dragged-in-c": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "google-confirms-pixel-price-hikes-across-the-board-gsmarena-": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "price",
+    "norm": 45.9
+  },
+  "-act-of-integrity-how-bjp-reacted-to-dharmendra-pradhan-s-re": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "rajasthan-steps-up-surveillance-as-two-deceased-girls-report": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "adani-airline-plans-why-the-centre-may-ease-airport-airline-": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "adani",
-    "norm": 44.3
-  },
-  "kerala-8217-s-vizhinjam-set-to-become-latest-gateway-for-ind": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "mp",
+  "-time-to-learn-from-gen-z-sonam-wangchuk-s-wife-gitanjali-an": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "minister",
     "norm": 44
   },
-  "telangana-rolls-out-digital-advertising-services-at-meeseva-": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
+  "dharmendra-pradhan-tenders-resignation-as-union-education-mi": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "minister",
+    "norm": 44
+  },
+  "watch-dharmendra-pradhan-s-resignation-trigger-wild-celebrat": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
+    "signature": "watch",
+    "norm": 42.7
+  },
+  "m-k-stalin-urges-tamil-nadu-cm-vijay-to-abandon-talks-with-k": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
     "signature": "",
     "norm": 36
   },
-  "caught-on-cam-bengaluru-woman-alleges-sexual-harassment-on-b": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
+  "after-days-of-high-drama-and-dharmendra-pradhan-s-resignatio": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
     "signature": "",
     "norm": 36
   },
-  "andhra-cm-thanks-pm-for-approving-new-railway-lines-between-": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "india-s-para-cyclist-lisha-das-rejects-federation-s-support-": {
-    "firstSeen": "2026-07-25T07:29:23.600Z",
+  "miami-overtakes-new-york-to-become-america-s-second-most-exp": {
+    "firstSeen": "2026-07-25T11:53:36.939Z",
     "signature": "",
     "norm": 33.9
   }
