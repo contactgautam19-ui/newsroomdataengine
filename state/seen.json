@@ -1,51 +1,156 @@
 {
-  "man-from-a-p-dies-of-cardiac-arrest-near-arunachaleswar-temp": {
-    "firstSeen": "2026-07-25T20:14:22.510Z",
-    "signature": "dead|dead|hospital|mp|war",
-    "norm": 75.9
+  "e20-backlash-delhi-taxi-transport-unions-gear-up-for-parliam": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "backlash|parliament|policy|protest|protest|tax",
+    "norm": 78.2
   },
-  "slain-ayatollah-ali-khamenei-s-jail-diary-sells-like-hot-cak": {
-    "firstSeen": "2026-07-25T20:14:22.510Z",
-    "signature": "iran|toll|war",
-    "norm": 69.6
+  "visakhapatnam-completes-sir-digitisation-of-20-23-lakh-elect": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "dead|dead|lakh|mp|vote",
+    "norm": 77.9
   },
-  "drivers-in-kerala-s-kochi-demand-well-maintained-washrooms-c": {
-    "firstSeen": "2026-07-25T20:14:22.510Z",
-    "signature": "protest|protest|row|tax",
-    "norm": 67.9
+  "mann-ki-baat-india-emerging-as-trusted-global-defence-partne": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "defence|minister|modi|modi|prime minister|war",
+    "norm": 74.6
   },
-  "post-pradhan-s-resignation-protestors-in-chennai-say-abolish": {
-    "firstSeen": "2026-07-25T20:14:22.510Z",
-    "signature": "neet|protest|protest",
-    "norm": 63.2
+  "us-govt-caught-in-fight-between-apple-amp-chip-giant-that-pa": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "china|mp|price|prices|trump|trump",
+    "norm": 74
   },
-  "parties-youth-forums-in-kerala-s-kochi-cheer-delhi-protest-v": {
-    "firstSeen": "2026-07-25T20:14:22.510Z",
-    "signature": "minister|protest|protest",
-    "norm": 62.8
+  "kargil-vijay-diwas-president-murmu-pm-modi-lead-nation-to-pa": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "army|modi|modi|president|war",
+    "norm": 72
   },
-  "madhya-pradesh-sdm-sends-delivery-executive-to-jail-after-re": {
-    "firstSeen": "2026-07-25T20:14:22.510Z",
-    "signature": "controversy|mp",
-    "norm": 55.4
+  "-he-offered-to-resign-on-day-one-kailash-vijayvargiya-on-dha": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "controversy|neet|protest|protest",
+    "norm": 70
   },
-  "district-legal-services-authority-begins-functioning-in-vija": {
-    "firstSeen": "2026-07-25T20:14:22.510Z",
-    "signature": "high court",
-    "norm": 44
+  "assam-flood-situation-improves-as-water-levels-recede-6-5-la": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "flood|flood|lakh|mp",
+    "norm": 69.4
   },
-  "girl-dies-after-being-hit-by-tractor": {
-    "firstSeen": "2026-07-25T20:14:22.510Z",
-    "signature": "actor",
-    "norm": 42.4
+  "arvind-kejriwal-visits-police-station-aap-says-500-students-": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "aap|kejriwal|protest|protest",
+    "norm": 65.3
   },
-  "collegiate-education-department-releases-list-of-129-associa": {
-    "firstSeen": "2026-07-25T20:14:22.510Z",
+  "twisha-sharma-dowry-death-case-5-reasons-court-denied-bail-t": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "death|defence|sharma",
+    "norm": 64.2
+  },
+  "17-teaching-hospitals-in-andhra-pradesh-lack-sewage-treatmen": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "crore|hospital|minister",
+    "norm": 63.9
+  },
+  "no-talks-with-pakistan-except-on-pok-rajnath-singh-on-kargil": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "defence|minister|pakistan|war",
+    "norm": 63.5
+  },
+  "congress-cites-household-expenditure-data-to-slam-govt-says-": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "congress|cry|slam",
+    "norm": 60.8
+  },
+  "telangana-man-dies-in-us-after-rare-brain-complication-follo": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "accident|injured|mp",
+    "norm": 60.8
+  },
+  "india-emerging-as-trusted-partner-to-the-world-pm-modi": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "sea-of-youth-at-mumbai-s-shivaji-park-to-celebrate-dharmendr": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "plea-in-madras-hc-seeks-constitution-of-expert-committee-ove": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "exam|iran",
+    "norm": 52.1
+  },
+  "pav-urges-govt-to-strengthen-disease-surveillance-as-covid-c": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "minister|mp",
+    "norm": 50.5
+  },
+  "-8216-security-forces-answer-to-you-8217-rahul-gandhi-target": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "amit shah|rahul gandhi",
+    "norm": 50.5
+  },
+  "tamil-nadu-gears-up-to-host-31st-southern-zonal-council-meet": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "amit shah|minister",
+    "norm": 50.5
+  },
+  "7-000-acres-of-mangroves-restored-4-000-more-in-2026-27-pawa": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
+  },
+  "stalin-s-remarks-over-cm-vijay-s-inaction-on-cauvery-water-m": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "pradhan-offered-to-quit-on-first-day-of-student-agitation-bj": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "up-adds-46-000-new-homes-in-six-months-thousands-of-delayed-": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "crore",
+    "norm": 45.9
+  },
+  "pralhad-joshi-takes-charge-as-education-minister-a-day-after": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "rooftop-solar-connections-in-apcpdcl-area-rise-from-6-489-to": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "",
+    "norm": 36
+  },
+  "tamil-nadu-government-extends-seventh-state-finance-commissi": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
     "signature": "",
     "norm": 33.9
   },
-  "hpcl-iocl-launch-5kg-10kg-lpg-cylinders-in-chennai": {
-    "firstSeen": "2026-07-25T20:14:22.510Z",
+  "spy-scare-at-nato-headquarters-canadian-intern-arrested-in-b": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-8216-carefully-assess-security-risks-8217-mea-8217-s-adviso": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "nepal-eases-post-demonetisation-curbs-on-indian-currency-all": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-exercise-utmost-caution-india-issues-advisory-for-nationals": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "visakhapatnam-to-host-ap-chambers-business-expo-from-septemb": {
+    "firstSeen": "2026-07-26T07:16:13.557Z",
     "signature": "",
     "norm": 33.9
   }
