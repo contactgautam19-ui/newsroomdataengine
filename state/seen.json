@@ -1,141 +1,156 @@
 {
-  "-not-a-single-paper-leak-case-in-punjab-cm-mann-defends-stat": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "actor|exam|minister|protest|protest|war",
-    "norm": 84.1
+  "assam-flood-toll-66-bjp-seeks-relief-funds-from-party-worker": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "bjp|chief minister|congress|flood|flood|fund|lakh|minister|president|toll",
+    "norm": 86.7
   },
-  "-misleading-mea-fact-checks-viral-claim-on-cjp-protest-forei": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "fund|protest|protest|viral|viral|viral",
-    "norm": 80.3
+  "bjp-seeks-sreelekha-mitra-s-arrest-over-pm-modi-s-obscene-po": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "bjp|modi|modi|mp|protest|protest",
+    "norm": 77.2
   },
-  "two-held-for-impersonating-congress-leader-priyanka-gandhi-s": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "cabinet|congress|crore|fraud|minister|mla|mp|row|scam",
-    "norm": 78.8
+  "-attempt-to-fix-pradhan-mantri-s-image-jairam-ramesh-after-p": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "congress|exam|modi|modi|mp|slam",
+    "norm": 76.9
   },
-  "nep-architect-neet-row-dharmendra-pradhan-s-4-years-as-educa": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "minister|neet|protest|protest|row",
-    "norm": 76.3
+  "germany-suspects-islamic-terror-angle-in-deadly-berlin-pride": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "anger|attack|attack|dead|dead|slam|terror|terror|war",
+    "norm": 75.1
   },
-  "contractor-held-after-6-year-old-drowns-in-pit-in-greater-no": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "actor|drown|mp|row",
-    "norm": 72.7
-  },
-  "pralhad-joshi-braces-for-tough-test-as-education-minister-af": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "exam|minister|protest|protest",
+  "-govt-never-stopped-youth-from-protesting-nirmala-sitharaman": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "minister|neet|protest|protest",
     "norm": 71.4
   },
-  "tej-pratap-arrested-over-neet-paper-leak-protest-before-biha": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "bjp|neet|protest|protest",
-    "norm": 71.4
+  "flash-flood-kills-10-injures-23-in-northwest-china-tourist-s": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "alert|china|flood|flood|floods",
+    "norm": 68.9
   },
-  "after-dharmendra-pradhan-shweta-tiwari-wants-cjp-to-seek-pun": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "exam|minister|scam|war",
-    "norm": 71
-  },
-  "opposition-to-corner-government-in-parliament-on-police-brut": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "brutal|opposition|outrage|parliament|rahul gandhi",
+  "pm-modi-announces-task-force-on-exam-reforms-under-infosys-c": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "exam|minister|modi|modi|prime minister",
     "norm": 68.6
   },
-  "government-never-tried-to-stop-student-protests-nirmala-sith": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "minister|protest|protest|war",
-    "norm": 67.9
+  "ivory-missing-from-eight-dead-wild-elephants-of-malayattoor-": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "accident|dead|dead|death",
+    "norm": 68
   },
-  "chanambam-rishikanta-singh-wins-silver-in-weightlifting-sets": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "gold|ipl|mp|record",
-    "norm": 66.3
+  "who-s-on-pm-modi-s-task-force-for-exam-reforms-here-s-what-w": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "exam|ipl|modi|modi|mp",
+    "norm": 67.5
   },
-  "putin-preparing-to-send-more-russians-to-war-zelenskyy-claim": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "president|recruitment|war",
-    "norm": 66
+  "nandan-nilekani-technocrat-whom-govts-keep-calling-back-to-l": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "exam|modi|modi",
+    "norm": 60.8
   },
-  "-friendship-request-bhej-diya-bjp-on-owaisi-s-up-poll-allian": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "alliance|bjp|election|election|poll",
-    "norm": 64.6
-  },
-  "ai-powered-software-on-the-anvil-to-fast-track-building-plan": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "chief minister|minister|mp|war",
-    "norm": 61.8
-  },
-  "now-bjp-demands-punjab-education-minister-s-exit-bhagwant-ma": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "bjp|exam|minister|mp",
-    "norm": 61.8
-  },
-  "why-are-there-protests-over-the-ken-betwa-project-": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "mp|protest|protest",
-    "norm": 61.1
-  },
-  "roku-increases-streaming-hardware-prices-again-with-new-line": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "price|prices|war",
+  "bjp-forced-pradhan-to-resign-as-gen-z-targeted-modi-s-resign": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "bjp|modi|modi",
     "norm": 59.7
   },
-  "nandyal-s-catch-the-rain-works-find-mention-in-modi-s-mann-k": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "modi|modi|mp",
-    "norm": 59.7
+  "monsoon-session-parliament-returns-after-week-long-washout-p": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "bill|crore|parliament",
+    "norm": 59.3
   },
-  "fm-sitharaman-directs-income-tax-dept-to-work-for-benefit-of": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "minister|tax",
-    "norm": 55
+  "telangana-sanctions-2-278-crore-for-adilabad-joint-use-airpo": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "acquisition|crore|sanction",
+    "norm": 57.6
   },
-  "attempt-to-bribe-tvk-mlas-two-arrested-accused-move-madras-h": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
+  "talks-with-pakistan-will-only-be-on-pok-says-rajnath-singh": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "pakistan|threat",
+    "norm": 55.4
+  },
+  "maharashtra-sir-88-enumeration-forms-distributed-60-digitise": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "maharashtra|record",
+    "norm": 54.2
+  },
+  "missing-forest-team-near-assam-nagaland-border-traced-safe-a": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "border|rbi",
+    "norm": 53.2
+  },
+  "criminal-cases-against-people-s-representatives-in-kerala-fi": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
     "signature": "high court|mla|mp",
+    "norm": 52.7
+  },
+  "mirabai-chanu-wins-india-s-first-gold-at-commonwealth-games-": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "gold|record",
+    "norm": 52.4
+  },
+  "hyderabad-police-warn-of-cyber-fraud-in-name-of-indiramma-ho": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "fraud|war",
+    "norm": 52.1
+  },
+  "siliconandhra-to-attempt-three-guinness-record": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "mp|record",
+    "norm": 52
+  },
+  "karnataka-cabinet-expansion-likely-this-week-as-congress-ste": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "cabinet|congress|minister",
     "norm": 50.9
   },
-  "giri-pradakshina-ten-years-of-oil-for-the-feet-that-walk-the": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "mp|vote",
+  "kerala-chief-minister-calls-on-catholicos-at-devalokam": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "health-age-and-corrupted-arena-siddaramaiah-on-why-he-won-t-": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "congress|poll",
-    "norm": 48.7
-  },
-  "angamaly-sabarimala-rail-line-kerala-begins-land-acquisition": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "acquisition|crore",
-    "norm": 48.7
-  },
-  "bhubaneswar-bound-private-flight-develops-technical-glitch-a": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
+  "hiv-awareness-quiz-marathon-to-be-held-in-ernakulam": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
     "signature": "war",
+    "norm": 48.2
+  },
+  "why-india-s-tiles-and-marble-industry-isn-t-worried-about-th": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "nhai-begins-relocating-unscientifically-located-bus-stops-on": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "accident",
     "norm": 46.3
   },
-  "kargil-vijay-diwas-pakistan-s-problem-isn-t-kashmir-it-s-ind": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "pakistan",
+  "mea-advisory-urges-indian-seafarers-to-assess-security-risks": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "jobs",
     "norm": 45.9
   },
-  "what-happened-on-day-1-of-pralhad-joshi-as-education-ministe": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
-    "signature": "minister",
-    "norm": 44
+  "madhya-pradesh-content-creator-booked-over-highly-abusive-re": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "instagram",
+    "norm": 42.4
   },
-  "rajasthan-s-keoladeo-national-park-faces-water-crisis-as-pan": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
+  "rights-panel-directs-corpn-to-prepare-action-plan-for-mosqui": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
     "signature": "",
     "norm": 36
   },
-  "drugs-in-floor-mats-bedsheets-ncb-seizes-10-99-kg-ephedrine-": {
-    "firstSeen": "2026-07-26T11:55:17.449Z",
+  "encroachment-on-government-land-on-the-rise-in-idukki-s-waga": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-this-is-only-a-beginning-say-youths-in-bengaluru": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "govt-reduces-fresh-a-khata-charge-from-5-to-2-till-august-23": {
+    "firstSeen": "2026-07-26T15:48:03.059Z",
     "signature": "",
     "norm": 33.9
   }
