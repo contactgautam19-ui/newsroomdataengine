@@ -1,167 +1,62 @@
 {
-  "congress-meeting-turns-chaotic-in-belagavi-as-workers-clash-": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "clash|clash|congress|election|election|president|video",
-    "norm": 81.3
+  "raf-fired-anti-riot-gun-twice-during-jantar-mantar-protest-o": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "fire|fire|protest|protest|riot",
+    "norm": 71
   },
-  "madras-high-court-strikes-down-orders-granting-government-jo": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "high court|ipl|jobs|mp|stampede",
-    "norm": 79.4
+  "bihar-drops-legal-action-against-neet-protesters-orders-rele": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "neet|protest|protest",
+    "norm": 64.9
   },
-  "opposition-to-keep-pressure-on-amit-shah-participate-in-deba": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "amit shah|bill|exam|opposition|protest|protest",
-    "norm": 78.8
+  "end-to-parliament-impasse-in-sight-lok-sabha-may-take-up-bil": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "bill|exam|lok sabha|mp|opposition|parliament|rajya sabha",
+    "norm": 63.7
   },
-  "government-tables-bill-on-paper-leaks-parliament-to-debate-i": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "bill|controversy|fuel|lok sabha|mp|opposition|parliament",
-    "norm": 71.5
+  "follow-example-of-dharmendra-pradhan-resign-from-post-naveen": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "exam|minister|mp",
+    "norm": 61.4
   },
-  "mea-summons-ukraine-s-envoy-expresses-strong-concerns-over-a": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "attack|attack|killed|killed",
-    "norm": 69.6
-  },
-  "cjp-protest-delhi-police-says-lathi-charge-was-last-resort-w": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "clash|clash|mp|protest|protest",
-    "norm": 69
-  },
-  "aap-to-hold-national-town-hall-against-e20-on-august-1": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "aap|mp|petrol|petrol",
-    "norm": 68
-  },
-  "pdp-leader-files-complaint-over-t-g-mohandas-comments": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "mp|protest|protest|riot",
-    "norm": 67.9
-  },
-  "for-sangh-parivar-gen-z-protests-strike-close-to-home": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "bjp|minister|protest|protest",
-    "norm": 66.9
-  },
-  "court-rejects-ansiba-s-plea-for-fir-finds-no-cognisable-offe": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "exam|mp|war",
-    "norm": 66
-  },
-  "jantar-mantar-protest-gave-dictator-union-government-message": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
-  },
-  "did-bjp-remove-youth-wing-leader-manika-rana-over-joining-cj": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "bjp|protest|protest",
-    "norm": 62.8
-  },
-  "mehbooba-mufti-s-jantar-mantar-remarks-trigger-political-sto": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "chief minister|minister|storm",
+  "pm-modi-amit-shah-laud-crpf-for-wiping-out-naxalism": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "amit shah|modi|modi",
     "norm": 59.7
   },
-  "okayed-trials-for-polymer-notes-for-10-20-no-plan-to-replace": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "bill|billion|rbi",
-    "norm": 57.6
+  "india-summons-ukraine-envoy-for-ship-attack-kyiv-seeks-talks": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "attack|attack",
+    "norm": 59.3
   },
-  "odisha-crime-branch-to-probe-missing-judicial-report-on-vhp-": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "dead|dead",
-    "norm": 57.6
-  },
-  "maharashtra-tet-paper-leak-close-aide-of-alleged-kingpin-arr": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "maharashtra|mp",
-    "norm": 57.1
-  },
-  "101-murder-accused-among-989-identified-in-cjp-protest-delhi": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "cctv|footage|protest|protest",
-    "norm": 56.9
-  },
-  "ed-questions-accused-in-valappad-financial-fraud-case": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "crore|fraud",
-    "norm": 55.4
-  },
-  "rebel-tmc-mps-to-attend-nda-parliamentary-party-meeting-on-t": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "congress|mp|parliament",
+  "-i-am-a-street-fighter-combative-pradhan-arrives-in-parliame": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "minister|mp|parliament",
     "norm": 52.7
   },
-  "california-ocean-is-4-c-hotter-as-whales-vanish-and-pelicans": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "mp|star",
-    "norm": 51.7
+  "activist-demands-time-bound-prosecution-in-long-pending-pape": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "bjp|mla|ruling",
+    "norm": 52.7
   },
-  "government-likely-to-move-hc-division-bench-on-order-to-take": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "chief minister|minister",
-    "norm": 48.7
+  "maharashtra-bans-fresh-orchestra-permits-blocks-renewals-as-": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "maharashtra",
+    "norm": 46.3
   },
-  "the-rocky-issue-that-has-landed-hydraa-chief-in-trouble": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "high court|mp",
-    "norm": 48.7
+  "ministry-pushing-rbi-to-open-licences-for-more-urban-coopera": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "rbi",
+    "norm": 45.9
   },
-  "supreme-court-seeks-centre-s-reply-on-kapil-sibal-s-plea-ove": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "defection|supreme court",
-    "norm": 48.7
+  "woman-who-stopped-mumbai-police-van-files-complaint-against-": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "patil-puttappa-award-conferred-on-r-k-patil": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "gulf-nations-accounted-for-over-70-of-suicides-by-indian-cit": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "",
-    "norm": 36
-  },
-  "sp-distributes-hearing-aids-to-special-school-students": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "",
-    "norm": 36
-  },
-  "three-nabbed-from-kozhikode-after-alleged-road-rage-assault-": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "",
-    "norm": 36
-  },
-  "tgicet-2026-first-phase-counselling-from-july-31": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "",
-    "norm": 36
-  },
-  "d-raja-calls-for-strengthening-communist-movement-in-india": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "",
-    "norm": 36
-  },
-  "telangana-government-grants-permission-for-construction-of-3": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "",
-    "norm": 36
-  },
-  "two-arrested-from-rajasthan-village-as-hunt-for-400-year-old": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-no-legal-action-firs-being-withdrawn-bihar-govt-gives-assur": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "cwg-bindyarani-devi-wins-bronze-india-claims-5th-weightlifti": {
-    "firstSeen": "2026-07-27T17:22:05.003Z",
-    "signature": "",
-    "norm": 33.9
+  "cwg-ajaya-babu-wins-silver-in-79kg-weightlifting-after-recor": {
+    "firstSeen": "2026-07-27T21:52:59.029Z",
+    "signature": "record",
+    "norm": 42.7
   }
 }
