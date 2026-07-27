@@ -1,201 +1,166 @@
 {
-  "bihar-constable-suspended-but-are-police-allowed-to-use-of-a": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "protest|protest|video|viral|viral|viral|viral video",
+  "congress-meeting-turns-chaotic-in-belagavi-as-workers-clash-": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "clash|clash|congress|election|election|president|video",
+    "norm": 81.3
+  },
+  "madras-high-court-strikes-down-orders-granting-government-jo": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "high court|ipl|jobs|mp|stampede",
+    "norm": 79.4
+  },
+  "opposition-to-keep-pressure-on-amit-shah-participate-in-deba": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "amit shah|bill|exam|opposition|protest|protest",
     "norm": 78.8
   },
-  "keeping-up-with-up-why-it-could-backfire-if-the-bjp-does-not": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "bjp|fire|fire|mp|protest|protest",
-    "norm": 77.9
+  "government-tables-bill-on-paper-leaks-parliament-to-debate-i": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "bill|controversy|fuel|lok sabha|mp|opposition|parliament",
+    "norm": 71.5
   },
-  "ahead-of-onam-kerala-govt-to-release-1-66-mt-of-rice-53-cror": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "crore|lakh|minister|modi|modi|price|prices",
-    "norm": 75
-  },
-  "-ewwww-who-is-birthing-amp-raising-them-kangana-calls-gen-z-": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "actor|instagram|mp|protest|protest",
-    "norm": 72.9
-  },
-  "lucknow-kanpur-expressway-nhai-says-viral-video-shows-slippa": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "video|viral|viral|viral|viral video",
-    "norm": 72.7
-  },
-  "karnataka-high-court-adjourns-till-july-28-further-hearing-o": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "dead|dead|high court|mp|vote",
-    "norm": 72
-  },
-  "parliament-monsoon-session-day-6-live-discussion-on-anti-pap": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "bill|lok sabha|mp|opposition|parliament|protest|protest",
-    "norm": 70.5
-  },
-  "india-summons-ukrainian-envoy-after-indian-sailor-killed-in-": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
+  "mea-summons-ukraine-s-envoy-expresses-strong-concerns-over-a": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
     "signature": "attack|attack|killed|killed",
+    "norm": 69.6
+  },
+  "cjp-protest-delhi-police-says-lathi-charge-was-last-resort-w": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "clash|clash|mp|protest|protest",
+    "norm": 69
+  },
+  "aap-to-hold-national-town-hall-against-e20-on-august-1": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "aap|mp|petrol|petrol",
     "norm": 68
   },
-  "supreme-court-to-seek-nilekani-led-exam-reform-task-force-s-": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "exam|mp|neet|supreme court",
-    "norm": 66.6
+  "pdp-leader-files-complaint-over-t-g-mohandas-comments": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "mp|protest|protest|riot",
+    "norm": 67.9
   },
-  "-up-ke-ladke-to-jantar-mantar-how-rahul-akhilesh-recast-neet": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "neet|protest|protest|watch",
+  "for-sangh-parivar-gen-z-protests-strike-close-to-home": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "bjp|minister|protest|protest",
+    "norm": 66.9
+  },
+  "court-rejects-ansiba-s-plea-for-fir-finds-no-cognisable-offe": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "exam|mp|war",
     "norm": 66
   },
-  "food-poisoning-scare-over-100-tribal-students-hospitalised-i": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "hospital|maharashtra|mp",
-    "norm": 66
+  "jantar-mantar-protest-gave-dictator-union-government-message": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "mp|protest|protest",
+    "norm": 62.8
   },
-  "-my-brother-doesn-t-listen-himanta-draws-from-own-family-bac": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "neet|protest|protest",
-    "norm": 64.9
+  "did-bjp-remove-youth-wing-leader-manika-rana-over-joining-cj": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "bjp|protest|protest",
+    "norm": 62.8
   },
-  "pentagon-created-separate-category-for-iran-war-deaths-makin": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "death|iran|war",
-    "norm": 64.5
-  },
-  "120-000-tourists-visited-antarctica-some-guides-say-it-cross": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "jobs|mp|row",
-    "norm": 63.9
-  },
-  "class-x-student-who-moderated-cm-naidu-s-school-meeting-ends": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "chief minister|exam|minister|mp",
-    "norm": 61.8
-  },
-  "ram-temple-donation-theft-case-sc-tells-sit-to-submit-status": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "ayodhya|mp|supreme court",
-    "norm": 61.4
-  },
-  "amid-allegations-of-paper-leaks-punjab-edu-minister-meets-st": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "bjp|minister|neet",
+  "mehbooba-mufti-s-jantar-mantar-remarks-trigger-political-sto": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "chief minister|minister|storm",
     "norm": 59.7
   },
-  "oil-dives-over-6-as-easing-u-s-iran-tensions-erase-war-drive": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "iran|war",
+  "okayed-trials-for-polymer-notes-for-10-20-no-plan-to-replace": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "bill|billion|rbi",
     "norm": 57.6
   },
-  "how-rich-is-nandan-nilekani-infosys-co-founder-leading-centr": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "exam|mp",
+  "odisha-crime-branch-to-probe-missing-judicial-report-on-vhp-": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "dead|dead",
+    "norm": 57.6
+  },
+  "maharashtra-tet-paper-leak-close-aide-of-alleged-kingpin-arr": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "maharashtra|mp",
     "norm": 57.1
   },
-  "three-indians-die-at-work-every-week-the-gulf-dream-comes-at": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "anger|price",
-    "norm": 57.1
+  "101-murder-accused-among-989-identified-in-cjp-protest-delhi": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "cctv|footage|protest|protest",
+    "norm": 56.9
   },
-  "action-taken-against-police-personnel-seen-firing-ak-47-duri": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "ed-questions-accused-in-valappad-financial-fraud-case": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "crore|fraud",
+    "norm": 55.4
   },
-  "cjp-flags-detention-of-protestors-in-states-asks-centre-to-h": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "bjp-greets-pradhan-with-zindabad-slogans-opposition-counters": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "bjp|mp|opposition|ruling",
-    "norm": 53.9
-  },
-  "inl-alleges-udf-move-to-capture-kerala-waqf-board-implement-": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "chief minister|minister|mp",
+  "rebel-tmc-mps-to-attend-nda-parliamentary-party-meeting-on-t": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "congress|mp|parliament",
     "norm": 52.7
   },
-  "-does-not-end-in-darkness-wangchuk-visits-rajghat-congratula": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "california-ocean-is-4-c-hotter-as-whales-vanish-and-pelicans": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "mp|star",
+    "norm": 51.7
   },
-  "-street-fighter-not-ac-room-activist-dharmendra-pradhan-hits": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "bjp|congress|mp|parliament",
-    "norm": 52.1
+  "government-likely-to-move-hc-division-bench-on-order-to-take": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
   },
-  "-dharmendra-pradhan-s-resignation-just-a-beginning-sonam-wan": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "hospital",
+  "the-rocky-issue-that-has-landed-hydraa-chief-in-trouble": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "high court|mp",
+    "norm": 48.7
+  },
+  "supreme-court-seeks-centre-s-reply-on-kapil-sibal-s-plea-ove": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "defection|supreme court",
+    "norm": 48.7
+  },
+  "patil-puttappa-award-conferred-on-r-k-patil": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "kerala-dental-student-nithin-raj-death-court-grants-crime-br": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "death",
-    "norm": 48.2
-  },
-  "crpf-to-conduct-professional-post-event-assessment-of-raf-ac": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "neet",
-    "norm": 48.2
-  },
-  "sarnath-recognised-as-unesco-world-heritage-site-full-list-o": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "maharashtra",
-    "norm": 46.3
-  },
-  "-jana-nayagan-box-office-collections-day-4-thalapathy-vijay-": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "box office|film",
-    "norm": 46.3
-  },
-  "sonam-wangchuk-discharged-from-medanta-hospital": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "your-keyboard-s-qwerty-layout-wasn-t-built-to-slow-you-down-": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "lok-sabha-speaker-om-birla-urges-consensus-for-debate-on-tou": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "lok sabha",
-    "norm": 45.9
-  },
-  "kerala-govt-launches-digital-square-programme-to-boost-digit": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "tatkal-ticket-booking-rules-change-indian-railways-introduce": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
+  "gulf-nations-accounted-for-over-70-of-suicides-by-indian-cit": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
     "signature": "",
     "norm": 36
   },
-  "madhya-pradesh-uniform-civil-code-marriage-divorce-inheritan": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
+  "sp-distributes-hearing-aids-to-special-school-students": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
     "signature": "",
     "norm": 36
   },
-  "bms-launches-dual-immunotherapy-for-metastatic-melanoma": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
+  "three-nabbed-from-kozhikode-after-alleged-road-rage-assault-": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
     "signature": "",
     "norm": 36
   },
-  "no-consensus-among-who-member-states-on-pathogen-access-and-": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
+  "tgicet-2026-first-phase-counselling-from-july-31": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
     "signature": "",
     "norm": 36
   },
-  "-marriage-instils-dharma-live-in-relationships-reflect-blind": {
-    "firstSeen": "2026-07-27T10:52:00.573Z",
+  "d-raja-calls-for-strengthening-communist-movement-in-india": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "",
+    "norm": 36
+  },
+  "telangana-government-grants-permission-for-construction-of-3": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "",
+    "norm": 36
+  },
+  "two-arrested-from-rajasthan-village-as-hunt-for-400-year-old": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-no-legal-action-firs-being-withdrawn-bihar-govt-gives-assur": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "cwg-bindyarani-devi-wins-bronze-india-claims-5th-weightlifti": {
+    "firstSeen": "2026-07-27T17:22:05.003Z",
     "signature": "",
     "norm": 33.9
   }
