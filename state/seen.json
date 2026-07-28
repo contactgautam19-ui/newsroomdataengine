@@ -1,177 +1,47 @@
 {
-  "maharashtra-cm-directs-withdrawal-of-firs-against-protesters": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "chief minister|maharashtra|minister|neet|opposition|protest|protest|war",
-    "norm": 86.6
+  "assam-floods-death-toll-reaches-75-mlas-to-donate-a-month-s-": {
+    "firstSeen": "2026-07-28T20:41:11.642Z",
+    "signature": "congress|death|flood|flood|floods|mla|opposition|toll",
+    "norm": 84.3
   },
-  "2-days-2-warnings-cjp-threatens-to-restart-protest-if-agitat": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "protest|protest|star|supreme court|threat|war|warning",
-    "norm": 84.9
+  "trump-zelenskyy-discuss-patriot-production-russia-peace-talk": {
+    "firstSeen": "2026-07-28T20:41:11.642Z",
+    "signature": "mp|president|riot|star|trump|trump",
+    "norm": 78.5
   },
-  "pm-needs-to-change-angle-of-his-heart-not-angle-of-cameras-p": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "amit shah|lok sabha|minister|modi|modi|protest|protest|slam",
-    "norm": 84.4
+  "reports-on-alleged-cybersecurity-incident-involving-drdo-are": {
+    "firstSeen": "2026-07-28T20:41:11.642Z",
+    "signature": "actor|attack|attack|threat",
+    "norm": 71.3
   },
-  "kpsc-veterinary-officer-recruitment-row-two-firs-transferred": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "khan|lakh|recruitment|row|scam",
-    "norm": 79.1
+  "trump-netanyahu-hold-excellent-white-house-meeting-as-iran-d": {
+    "firstSeen": "2026-07-28T20:41:11.642Z",
+    "signature": "iran|israel|minister|mp|president|prime minister|trump|trump",
+    "norm": 71
   },
-  "roberto-mancini-returns-to-rescue-italy-after-three-straight": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "mp|rescue|rescue|world cup",
-    "norm": 71.4
+  "neet-violence-supreme-court-debates-yet-to-detail-if-delhi-p": {
+    "firstSeen": "2026-07-28T20:41:11.642Z",
+    "signature": "neet|supreme court|war",
+    "norm": 67.6
   },
-  "parliament-monsoon-session-day-7-live-venugopal-questions-ab": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "amit shah|congress|fire|fire|lok sabha|mp|parliament|rajya sabha",
-    "norm": 70.7
+  "bjp-bids-to-stave-off-jsp-rjd-challenge-as-campaigning-ends-": {
+    "firstSeen": "2026-07-28T20:41:11.642Z",
+    "signature": "bjp|election|election|mp|president|rajya sabha",
+    "norm": 63.4
   },
-  "two-indian-army-personnel-injured-in-mine-blast-near-loc-in-": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "army|blast|explosion|explosion|hospital|injured",
-    "norm": 70.1
+  "release-all-minors-held-over-student-protests-supreme-court": {
+    "firstSeen": "2026-07-28T20:41:11.642Z",
+    "signature": "protest|protest|supreme court",
+    "norm": 62.8
   },
-  "-ear-was-almost-severed-woman-recounts-police-crackdown-duri": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "khan|mla|protest|protest",
-    "norm": 68
-  },
-  "two-army-personnel-injured-in-landmine-blast-in-j-amp-k-s-ba": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "army|blast|injured|mp",
-    "norm": 66.6
-  },
-  "break-silos-work-with-shared-purpose-pm-modi-s-message-to-bu": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "minister|modi|modi|mp|prime minister",
-    "norm": 64.6
-  },
-  "jd-s-alleges-large-scale-duplication-of-voter-names-in-bidar": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "election|election|election commission|mp|vote",
-    "norm": 64.6
-  },
-  "naidu-directs-comprehensive-support-for-farmers-in-a-p-amid-": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "chief minister|minister|mp|threat",
-    "norm": 63.5
-  },
-  "schools-to-remain-shut-in-3-odisha-districts-due-to-heavy-ra": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "heavy rain|war|warning",
-    "norm": 62.9
-  },
-  "gen-z-has-done-more-for-the-country-than-you-cjp-slams-kanga": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "protest|protest|slam|slams",
-    "norm": 60.6
-  },
-  "-unacceptable-cjp-claims-sc-order-contradicts-govt-assurance": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "protest|protest|war",
-    "norm": 57.9
-  },
-  "cpi-m-alleges-delhi-police-tried-to-arrest-student-leader-at": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "anger|mp",
-    "norm": 55.4
-  },
-  "hydel-generation-taken-up-at-jurala-with-flood-from-karnatak": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "flood|flood",
-    "norm": 54.2
-  },
-  "vmc-seizes-640-9-kg-of-single-use-plastic-during-surprise-in": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "surprise|war",
-    "norm": 54.2
-  },
-  "kerala-crime-branch-begins-detailed-probe-into-bus-driver-s-": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "brutal|death",
+  "-no-paper-leaks-under-aap-rule-in-punjab-bhagwant-mann-rejec": {
+    "firstSeen": "2026-07-28T20:41:11.642Z",
+    "signature": "aap|bjp|congress|opposition",
     "norm": 53.9
   },
-  "lok-sabha-debates-anti-paper-leak-bill-opposition-terms-it-a": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "bill|congress|lok sabha|opposition",
-    "norm": 53.9
-  },
-  "family-register-certificates-a-backdoor-route-to-aid-rohingy": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "bjp|vote",
-    "norm": 50.5
-  },
-  "m-s-swaminathan-research-foundation-civic-bodies-ink-pact-on": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "ipl",
-    "norm": 48.2
-  },
-  "perseverance-and-integrity-are-benchmarks-of-success-says-na": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "srisailam-temple-to-celebrate-guru-purnima-and-sakambari-uts": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "bengaluru-revamped-orr-to-include-dedicated-bus-cycle-lanes-": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "yadgir-cmc-s-movable-properties-attached-in-land-acquisition": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "acquisition",
-    "norm": 45.9
-  },
-  "pregnant-women-lured-newborns-sold-cops-bust-trafficking-rac": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "surat-locker-operator-steals-customers-jewellery-worth-rs-2-": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "crore",
-    "norm": 44
-  },
-  "ttd-plans-village-level-rollout-of-srivari-seva-in-telugu-st": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "",
-    "norm": 36
-  },
-  "annamalai-university-professor-secures-indian-patent-for-sea": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "",
-    "norm": 36
-  },
-  "siddaramaiah-makes-brief-visit-to-mysuru": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "",
-    "norm": 36
-  },
-  "nellore-district-targets-50-green-cover-by-2047": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "",
-    "norm": 36
-  },
-  "demand-for-separate-haematology-dept-at-kozhikode-mch-still-": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "",
-    "norm": 36
-  },
-  "india-invites-nepal-pm-balen-shah-for-official-visit": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-gen-z-has-done-more-for-the-country-than-you-cjp-s-explosiv": {
-    "firstSeen": "2026-07-28T15:55:38.011Z",
-    "signature": "",
-    "norm": 33.9
+  "jharkhand-s-only-maoist-politburo-member-misir-besra-wanted-": {
+    "firstSeen": "2026-07-28T20:41:11.642Z",
+    "signature": "khan",
+    "norm": 42.4
   }
 }
