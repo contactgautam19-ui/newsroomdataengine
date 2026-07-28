@@ -1,62 +1,252 @@
 {
-  "raf-fired-anti-riot-gun-twice-during-jantar-mantar-protest-o": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
-    "signature": "fire|fire|protest|protest|riot",
-    "norm": 71
+  "netanyahu-to-join-trump-for-first-face-to-face-meeting-since": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "fan|fire|fire|iran|israel|mp|trump|trump|war",
+    "norm": 99
   },
-  "bihar-drops-legal-action-against-neet-protesters-orders-rele": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
+  "-probe-meaningless-without-fixing-responsibility-supreme-cou": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "clash|clash|crowd|fire|fire|mp|parliament|protest|protest|row|supreme court|war",
+    "norm": 89.8
+  },
+  "gold-price-prediction-today-will-gold-prices-stay-range-boun": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "gold|gold price|khan|modi|modi|price|prices",
+    "norm": 81.8
+  },
+  "kangana-ranaut-slams-generation-gutter-puke-inducing-cjp-pro": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "actor|controversy|mp|protest|protest|slam|slams",
+    "norm": 78.2
+  },
+  "sc-shields-neet-protesters-from-coercive-action-orders-relea": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "neet|protest|protest|record|supreme court",
+    "norm": 76.6
+  },
+  "bombay-high-court-refuses-interim-relief-to-corporator-order": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "bomb|fear|high court|mp|threat",
+    "norm": 75
+  },
+  "opinion-opinion-why-dharmendra-pradhan-s-exit-is-also-about-": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "election|election|vote|war",
+    "norm": 71.6
+  },
+  "supreme-court-moots-independent-probe-into-neet-protest-viol": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "neet|protest|protest|supreme court",
+    "norm": 71.4
+  },
+  "leopard-that-attacked-poultry-captured-in-forest-dept-cage-i": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "attack|attack|killed|killed",
+    "norm": 69.6
+  },
+  "all-assam-mlas-pledge-one-month-salary-for-flood-relief-exce": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "congress|flood|flood|mla|opposition",
+    "norm": 69
+  },
+  "trump-macron-showdown-in-making-us-diplomats-walk-out-on-fra": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "ipl|mp|opposition|trump|trump",
+    "norm": 68.6
+  },
+  "kerala-mimicry-artist-alleges-cyber-abuse-over-viral-clip-re": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "cry|viral|viral|viral",
+    "norm": 68.4
+  },
+  "-ask-rahul-to-get-married-cjp-protestor-recalls-witty-exchan": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "congress|fan|protest|protest",
+    "norm": 68
+  },
+  "supreme-court-orders-all-states-to-release-protesting-studen": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "protest|protest|record|supreme court",
+    "norm": 66.7
+  },
+  "-you-seek-votes-then-hit-people-hc-slams-shiv-sena-corporato": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "high court|slam|slams|vote",
+    "norm": 66.6
+  },
+  "thousands-set-out-on-the-32-km-simhachalam-giri-pradakshina-": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "lakh|mp|riot",
+    "norm": 65.6
+  },
+  "centre-summons-meta-s-global-public-policy-head-over-brief-r": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "modi|modi|policy|video",
+    "norm": 65.3
+  },
+  "neet-protests-sc-says-sit-may-be-set-up-to-probe-police-exce": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
     "signature": "neet|protest|protest",
     "norm": 64.9
   },
-  "end-to-parliament-impasse-in-sight-lok-sabha-may-take-up-bil": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
-    "signature": "bill|exam|lok sabha|mp|opposition|parliament|rajya sabha",
-    "norm": 63.7
+  "-no-paper-leaks-less-anxiety-shashi-tharoor-has-some-suggest": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "exam|protest|protest",
+    "norm": 64.9
   },
-  "follow-example-of-dharmendra-pradhan-resign-from-post-naveen": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
-    "signature": "exam|minister|mp",
-    "norm": 61.4
+  "parliament-monsoon-session-day-7-live-both-houses-adjourned-": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "bill|exam|lok sabha|parliament|rajya sabha",
+    "norm": 64.6
   },
-  "pm-modi-amit-shah-laud-crpf-for-wiping-out-naxalism": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
-    "signature": "amit shah|modi|modi",
+  "odisha-deep-depression-leads-to-heavy-rains-as-baleshwar-rec": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "heavy rain|record|war",
+    "norm": 63.2
+  },
+  "fir-against-19-for-illegal-registration-of-trust-properties-": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "fraud|minister|mp",
     "norm": 59.7
   },
-  "india-summons-ukraine-envoy-for-ship-attack-kyiv-seeks-talks": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
-    "signature": "attack|attack",
+  "jana-nayagan-star-thalapathy-vijay-s-best-teacher-and-mentor": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "died|film|star",
     "norm": 59.3
   },
-  "-i-am-a-street-fighter-combative-pradhan-arrives-in-parliame": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
-    "signature": "minister|mp|parliament",
-    "norm": 52.7
+  "four-storey-building-tilts-in-east-delhi-s-geeta-colony-all-": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "evacuat|war",
+    "norm": 59.3
   },
-  "activist-demands-time-bound-prosecution-in-long-pending-pape": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
-    "signature": "bjp|mla|ruling",
-    "norm": 52.7
+  "heavy-rain-pounds-delhi-ncr-as-imd-issues-red-alert-waterlog": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "alert|heavy rain|red alert|storm",
+    "norm": 58
   },
-  "maharashtra-bans-fresh-orchestra-permits-blocks-renewals-as-": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
-    "signature": "maharashtra",
-    "norm": 46.3
+  "it-ministry-summons-meta-after-pm-modi-s-post-on-strict-acti": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "modi|modi",
+    "norm": 57.1
   },
-  "ministry-pushing-rbi-to-open-licences-for-more-urban-coopera": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
-    "signature": "rbi",
+  "woman-unaware-of-husband-s-existing-marriage-entitled-to-mai": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "high court|war",
+    "norm": 57.1
+  },
+  "after-jantar-mantar-protest-ends-cjp-says-no-protester-will-": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "orange-alert-comes-true-gurugram-lashed-with-rain-keep-your-": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "alert|heavy rain",
+    "norm": 53.9
+  },
+  "west-bengal-assembly-passes-bill-depriving-panchayat-pradhan": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "bill|mla|poll|vote",
+    "norm": 53.9
+  },
+  "guam-s-snake-invasion-began-after-wwii-now-dna-shows-19-000-": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "row|war",
+    "norm": 53.9
+  },
+  "16-maoists-with-six-carrying-39-lakh-bounty-surrender-before": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "khan|lakh",
+    "norm": 53.5
+  },
+  "karur-inam-land-titles-were-never-in-the-name-of-temples-tam": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "minister|mp",
+    "norm": 48.7
+  },
+  "why-are-administrative-and-financial-powers-of-elected-panch": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "death",
+    "norm": 48.2
+  },
+  "rs-12-000-salary-luxury-cars-two-kerala-teachers-arrested-in": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "alert",
+    "norm": 48.2
+  },
+  "thane-court-remands-former-corporator-in-police-custody-for-": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "hospital",
+    "norm": 48.2
+  },
+  "the-long-history-behind-team-nilekani-7-big-committees-india": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "iran",
+    "norm": 48.2
+  },
+  "kerala-minister-o-j-janeesh-urges-nhai-to-finish-nh-544-nh-6": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "woman-who-stopped-mumbai-police-van-files-complaint-against-": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
+  "is-early-retirement-a-mathematical-impossibility-for-over-90": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
     "signature": "mp",
     "norm": 44
   },
-  "cwg-ajaya-babu-wins-silver-in-79kg-weightlifting-after-recor": {
-    "firstSeen": "2026-07-27T21:52:59.029Z",
-    "signature": "record",
-    "norm": 42.7
+  "centre-proposes-3-year-validity-for-vehicle-pollution-certif": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "poll",
+    "norm": 44
+  },
+  "faa-flags-faulty-seats-on-boeing-737-max-jets-will-air-india": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "bob-says-only-1-employee-s-email-was-hacked-so-how-did-1tb-o": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "san-francisco-woman-heard-wall-noises-then-raccoon-broke-int": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "mystery",
+    "norm": 40.7
+  },
+  "akhil-marar-severs-ties-with-twenty20-levels-allegations-aga": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "",
+    "norm": 36
+  },
+  "india-post-introduces-new-rules-for-sending-documents-and-pa": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "",
+    "norm": 36
+  },
+  "kalyan-court-grants-bail-to-corporator-ramesh-mhatre-in-doct": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "",
+    "norm": 36
+  },
+  "police-in-decoy-take-valuables-from-kukatpally-hostels-no-qu": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "",
+    "norm": 36
+  },
+  "t-n-cm-vijay-should-not-engage-with-karnataka-on-mekedatu-an": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "man-held-for-allegedly-sexually-assaulting-four-year-old-gir": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-slip-of-tongue-mehbooba-mufti-apologises-over-banta-hai-rem": {
+    "firstSeen": "2026-07-28T07:48:24.153Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
