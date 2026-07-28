@@ -1,47 +1,52 @@
 {
-  "assam-floods-death-toll-reaches-75-mlas-to-donate-a-month-s-": {
-    "firstSeen": "2026-07-28T20:41:11.642Z",
-    "signature": "congress|death|flood|flood|floods|mla|opposition|toll",
-    "norm": 84.3
+  "neet-protest-all-sops-followed-pellet-gun-use-on-protesters-": {
+    "firstSeen": "2026-07-28T22:14:09.676Z",
+    "signature": "crowd|mp|neet|protest|protest|row",
+    "norm": 78.8
   },
-  "trump-zelenskyy-discuss-patriot-production-russia-peace-talk": {
-    "firstSeen": "2026-07-28T20:41:11.642Z",
-    "signature": "mp|president|riot|star|trump|trump",
-    "norm": 78.5
+  "don-t-touch-water-bodies-under-garb-of-beautification-suprem": {
+    "firstSeen": "2026-07-28T22:14:09.676Z",
+    "signature": "supreme court|war",
+    "norm": 55.4
   },
-  "reports-on-alleged-cybersecurity-incident-involving-drdo-are": {
-    "firstSeen": "2026-07-28T20:41:11.642Z",
-    "signature": "actor|attack|attack|threat",
-    "norm": 71.3
+  "anti-paper-leak-bill-a-visionary-step-towards-safeguarding-y": {
+    "firstSeen": "2026-07-28T22:14:09.676Z",
+    "signature": "bill|war",
+    "norm": 55.4
   },
-  "trump-netanyahu-hold-excellent-white-house-meeting-as-iran-d": {
-    "firstSeen": "2026-07-28T20:41:11.642Z",
-    "signature": "iran|israel|minister|mp|president|prime minister|trump|trump",
-    "norm": 71
+  "cbi-files-charge-sheet-against-13-accused-in-neet-ug-2026-pa": {
+    "firstSeen": "2026-07-28T22:14:09.676Z",
+    "signature": "minister|neet",
+    "norm": 55.4
   },
-  "neet-violence-supreme-court-debates-yet-to-detail-if-delhi-p": {
-    "firstSeen": "2026-07-28T20:41:11.642Z",
-    "signature": "neet|supreme court|war",
-    "norm": 67.6
+  "defence-minister-rajnath-singh-unveils-key-policy-reforms-in": {
+    "firstSeen": "2026-07-28T22:14:09.676Z",
+    "signature": "defence|minister|policy",
+    "norm": 52.7
   },
-  "bjp-bids-to-stave-off-jsp-rjd-challenge-as-campaigning-ends-": {
-    "firstSeen": "2026-07-28T20:41:11.642Z",
-    "signature": "bjp|election|election|mp|president|rajya sabha",
-    "norm": 63.4
+  "congress-bjp-spar-over-pralhad-joshi-s-pick-as-education-min": {
+    "firstSeen": "2026-07-28T22:14:09.676Z",
+    "signature": "bjp|congress|minister|rahul gandhi",
+    "norm": 52.1
   },
-  "release-all-minors-held-over-student-protests-supreme-court": {
-    "firstSeen": "2026-07-28T20:41:11.642Z",
-    "signature": "protest|protest|supreme court",
-    "norm": 62.8
+  "bjp-rejects-report-on-govt-offer-to-change-pradhan-portfolio": {
+    "firstSeen": "2026-07-28T22:14:09.676Z",
+    "signature": "bjp",
+    "norm": 45.9
   },
-  "-no-paper-leaks-under-aap-rule-in-punjab-bhagwant-mann-rejec": {
-    "firstSeen": "2026-07-28T20:41:11.642Z",
-    "signature": "aap|bjp|congress|opposition",
-    "norm": 53.9
+  "cjp-volunteer-moves-supreme-court-alleging-illegal-detention": {
+    "firstSeen": "2026-07-28T22:14:09.676Z",
+    "signature": "supreme court",
+    "norm": 44
   },
-  "jharkhand-s-only-maoist-politburo-member-misir-besra-wanted-": {
-    "firstSeen": "2026-07-28T20:41:11.642Z",
-    "signature": "khan",
-    "norm": 42.4
+  "opp-govt-not-serious-about-education-students-compelled-to-h": {
+    "firstSeen": "2026-07-28T22:14:09.676Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "1st-direct-freight-train-opens-new-india-nepal-chapter": {
+    "firstSeen": "2026-07-28T22:14:09.676Z",
+    "signature": "",
+    "norm": 36
   }
 }
