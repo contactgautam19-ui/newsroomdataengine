@@ -1,192 +1,97 @@
 {
-  "no-shots-fired-at-students-says-union-minister-jitendra-sing": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "bill|crore|exam|fire|fire|lakh|lok sabha|minister|mp",
-    "norm": 89.4
-  },
-  "rahul-gandhi-demands-amit-shah-s-resignation-over-police-bru": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "amit shah|brutal|modi|modi|opposition|protest|protest|rahul gandhi",
-    "norm": 84.4
-  },
-  "rahul-gandhi-attacks-government-rss-over-students-protest-in": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "attack|attack|congress|lok sabha|protest|protest|rahul gandhi",
-    "norm": 82
-  },
-  "nolan-wells-family-seeks-social-media-records-amid-missing-p": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "death|exam|mp|record|war",
-    "norm": 77.8
-  },
-  "west-asia-war-live-at-least-20-people-killed-in-u-s-saudi-st": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "iran|killed|killed|war",
-    "norm": 74.6
-  },
-  "-illegally-occupied-indian-embassy-in-us-slams-foreign-media": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "clash|clash|pakistan|protest|protest|slam|slams",
-    "norm": 74.3
-  },
-  "farmers-climb-bus-break-barricades-in-clash-with-police-duri": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "clash|clash|price|protest|protest|watch",
-    "norm": 72
-  },
-  "will-trump-s-new-russia-oil-tariffs-impact-india-us-trade-de": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "deal|minister|mp|trump|trump",
-    "norm": 70
-  },
-  "pok-on-the-boil-polls-a-deadly-crackdown-by-pakistani-forces": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "dead|dead|pakistan|poll",
-    "norm": 70
-  },
-  "bjp-alleges-rahul-gandhi-spread-misinformation-on-police-act": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "bjp|congress|lok sabha|parliament|protest|protest|rahul gandhi|vote",
-    "norm": 69.1
-  },
-  "suspected-timber-poacher-shot-dead-in-gunfight-with-forest-g": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "dead|dead|fire|fire",
-    "norm": 68.4
-  },
-  "farmers-block-nh-16-in-ongole-seeking-remunerative-prices-fo": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "chief minister|minister|price|prices|sudden",
+  "madhya-pradesh-hikes-moong-procurement-cap-to-60-as-farmers-": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "chief minister|minister|mp|protest|protest",
     "norm": 67.3
   },
-  "13-indian-seafarers-remain-stranded-aboard-mv-amir1-at-chorn": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "attack|attack|rbi",
+  "will-rahul-gandhi-speak-for-the-rights-of-tamil-nadu-on-cauv": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "bjp|congress|rahul gandhi|slam|slams",
+    "norm": 67
+  },
+  "indo-japan-chamber-of-commerce-and-industry-invites-indian-c": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "dead|dead|mp",
     "norm": 66
   },
-  "no-proof-nicki-nicole-dated-lamine-yamal-for-publicity-despi": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "video|viral|viral|viral",
-    "norm": 66
-  },
-  "kanpur-man-kills-wife-applies-sindoor-on-her-head-before-han": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "dead|dead|tragic",
-    "norm": 62.9
-  },
-  "-leave-the-chair-become-an-influencer-cjp-s-abhijeet-dipke-t": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "bill|lok sabha|modi|modi|mp",
-    "norm": 62.9
-  },
-  "neymar-confirms-brazil-retirement-my-time-with-the-national-": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "war|world cup",
-    "norm": 57.6
-  },
-  "centre-trying-to-disrupt-aap-s-aug-1-town-hall-against-e20-f": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "aap|fuel|kejriwal",
-    "norm": 57.6
-  },
-  "cochin-shipyard-launches-seventh-anti-submarine-warfare-vess": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "navy|war",
+  "govt-simplifies-neet-ug-2026-counselling-process": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "mp|neet",
     "norm": 57.1
   },
-  "sonam-raghuvanshi-surrenders-after-supreme-court-cancels-bai": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "supreme court|war",
-    "norm": 55.4
+  "indian-psychiatric-society-urges-mental-health-policy-revamp": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "chief minister|minister|mp|policy",
+    "norm": 53.9
   },
-  "navy-launches-asw-shallow-watercraft-machilipatnam-at-cochin": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "navy|war",
-    "norm": 55.4
+  "ev-start-up-introduces-pothole-alerts-on-its-bikes": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "alert|star",
+    "norm": 53.9
   },
-  "eggs-to-remain-on-mid-day-meal-menu-in-kolkata-schools-wb-cm": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "bjp|chief minister|minister|mp",
-    "norm": 52.1
+  "opposition-8217-s-next-move-in-house-raising-ram-temple-8216": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "amit shah|mp|opposition",
+    "norm": 50.9
   },
-  "sc-verdict-in-a-case-paves-way-for-continuation-of-prlis-ssm": {
-    "firstSeen": "2026-07-29T15:56:25.193Z",
-    "signature": "mp|verdict",
+  "suspense-continues-over-karnataka-cabinet-expansion-as-congr": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "cabinet|congress",
     "norm": 50.5
   },
-  "india-getting-ready-for-xi-putin-visits-in-september": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "brics|summit",
-    "norm": 50.5
+  "centre-coercing-vehicle-manufacturers-into-silence-on-e20-is": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "kejriwal",
+    "norm": 45.9
   },
-  "new-pixel-11-pro-next-obvious-move-teaser-provides-better-lo": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "teaser|video",
-    "norm": 48.7
+  "gitam-to-host-national-moot-court-competition-in-october": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "kerala-police-association-moves-high-court-against-home-dept": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "high court|mp",
-    "norm": 48.7
-  },
-  "legal-education-will-be-modernised-kerala-chief-minister": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "chief minister|minister",
-    "norm": 48.7
-  },
-  "ramp-stairlift-make-napier-museum-in-thiruvananthapuram-disa": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "minister|mp",
-    "norm": 48.7
-  },
-  "chennai-corporation-collects-over-150-crore-in-property-tax-": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "crore|tax",
-    "norm": 48.7
-  },
-  "centre-urged-to-develop-buddhist-circuit-in-krishna-godavari": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
+  "dvac-books-former-dmk-minister-senthilbalaji-conducts-search": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
     "signature": "minister",
     "norm": 45.9
   },
-  "ed-raids-hyderabad-chennai-in-ketamine-trafficking-money-lau": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "lakh",
+  "aiadmk-whip-challenges-amendment-made-to-assembly-resolution": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "high court",
     "norm": 45.9
   },
-  "-menstrual-leave-a-progressive-welfare-step-kerala-hc-urges-": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "policy",
+  "kozhikode-set-to-host-12th-edition-of-malabar-river-festival": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "no-pakistani-kashmir-only-pakistan-occupied-kashmir-indian-e": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
-    "signature": "pakistan",
+  "reports-of-cpi-m-forming-temple-committee-baseless-says-jaya": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "allu-arjun-appears-virtually-before-nampally-court-in-sandhy": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
+  "three-students-from-azim-premji-university-selected-for-envi": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
     "signature": "mp",
     "norm": 44
   },
-  "bengaluru-metropolitan-transport-corporation-refutes-claims-": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
+  "ambedkar-s-photo-should-be-displayed-prominently-vck-council": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
     "signature": "",
     "norm": 36
   },
-  "bihar-man-beheads-sister-in-law-over-delay-in-serving-food": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
+  "textile-associations-demand-measures-to-reduce-power-costs-i": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
     "signature": "",
     "norm": 36
   },
-  "ips-trainee-sent-to-judicial-custody-fellow-trainee-claimed-": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
+  "vijay-to-use-a-common-elevator-at-namakkal-kavignar-maaligai": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "son-in-law-grandson-of-house-owner-emerge-as-dacoity-masterm": {
-    "firstSeen": "2026-07-29T17:25:37.677Z",
+  "the-scourge-beneath-hydraa-s-excesses": {
+    "firstSeen": "2026-07-29T19:39:14.049Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
