@@ -1,51 +1,26 @@
 {
-  "7-killed-in-helicopter-crash-in-argentina-officials": {
-    "firstSeen": "2026-07-29T21:09:24.885Z",
-    "signature": "crash|crash|died|fire|fire|killed|killed",
-    "norm": 83.4
+  "now-just-one-visit-for-neet-ug-counselling": {
+    "firstSeen": "2026-07-29T23:09:22.280Z",
+    "signature": "iran|mp|neet",
+    "norm": 60.8
   },
-  "-there-is-no-pakistani-kashmir-indian-embassy-flags-incorrec": {
-    "firstSeen": "2026-07-29T21:09:24.885Z",
-    "signature": "dead|dead|injured|pakistan|protest|protest",
-    "norm": 82.5
+  "delhi-high-court-refuses-hpv-shots-stay-but-seeks-centre-s-r": {
+    "firstSeen": "2026-07-29T23:09:22.280Z",
+    "signature": "high court|minister|mp",
+    "norm": 50.9
   },
-  "why-russia-is-seeking-telegram-founder-pavel-durov-s-arrest": {
-    "firstSeen": "2026-07-29T21:09:24.885Z",
-    "signature": "mp|recruitment|terror|terror",
-    "norm": 75.9
+  "candace-owens-shares-unseen-charlie-kirk-video-as-alex-jones": {
+    "firstSeen": "2026-07-29T23:09:22.280Z",
+    "signature": "footage|video",
+    "norm": 44
   },
-  "guard-s-accidental-gunshot-kills-man-visiting-bank-in-city": {
-    "firstSeen": "2026-07-29T21:09:24.885Z",
-    "signature": "accident|fire|fire|killed|killed",
-    "norm": 72.5
+  "bihar-cabinet-gives-nod-to-fill-up-22-981-posts-of-anganwadi": {
+    "firstSeen": "2026-07-29T23:09:22.280Z",
+    "signature": "cabinet",
+    "norm": 44
   },
-  "no-ban-on-jagannath-movie-artists-must-enjoy-creative-libert": {
-    "firstSeen": "2026-07-29T21:09:24.885Z",
-    "signature": "film|movie|mp|supreme court",
-    "norm": 59.7
-  },
-  "kerala-tourism-to-push-for-driver-facilities-in-star-rating-": {
-    "firstSeen": "2026-07-29T21:09:24.885Z",
-    "signature": "protest|protest|star",
-    "norm": 59.7
-  },
-  "continue-with-your-duties-fearlessly-crpf-chief-tells-troope": {
-    "firstSeen": "2026-07-29T21:09:24.885Z",
-    "signature": "crowd|fear|row",
-    "norm": 57.9
-  },
-  "murali-sreeshankar-bags-silver-in-thrilling-long-jump-final-": {
-    "firstSeen": "2026-07-29T21:09:24.885Z",
-    "signature": "gold|mp",
-    "norm": 55.4
-  },
-  "ahead-of-dengue-vaccine-rollout-all-4-strains-found-in-circu": {
-    "firstSeen": "2026-07-29T21:09:24.885Z",
-    "signature": "ipl",
-    "norm": 48.2
-  },
-  "workshop-to-draft-action-plans-for-welfare-of-shgs-begins-in": {
-    "firstSeen": "2026-07-29T21:09:24.885Z",
+  "gisele-b-ndchen-opens-up-on-motherhood-struggles-during-marr": {
+    "firstSeen": "2026-07-29T23:09:22.280Z",
     "signature": "",
     "norm": 33.9
   }
