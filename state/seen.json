@@ -1,191 +1,226 @@
 {
-  "why-was-anthony-smith-arrested-ex-ufc-star-faces-three-felon": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "mp|star|terror|terror|threat",
-    "norm": 79.1
+  "elections-in-pak-occupied-j-k-effort-to-cover-up-illegal-occ": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "clash|clash|died|election|election|pakistan|protest|protest",
+    "norm": 84.9
   },
-  "world-news-today-live-updates-on-july-29-2026-iran-proposes-": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "deal|iran|mp|war",
-    "norm": 78.1
+  "-deeply-concerning-india-condemns-attack-on-ships-in-hormuz-": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "attack|attack|injured|iran|killed|killed",
+    "norm": 81.8
   },
-  "iran-proposes-temporary-strait-of-hormuz-deal-with-oman-warn": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "deal|iran|mp|war",
-    "norm": 76.6
+  "gen-alpha-protests-students-in-up-call-out-fatehpur-school-s": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "mp|protest|protest|video|viral|viral|viral",
+    "norm": 80.1
   },
-  "japan-quake-leaves-two-dead-at-mall-another-in-home-collapse": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "collapse|collapse|collapse|dead|dead",
-    "norm": 76.3
+  "ysrcp-protests-across-andhra-seeks-lokesh-s-resignation-over": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "congress|minister|protest|protest|recruitment",
+    "norm": 75.3
   },
-  "trump-zelensky-hold-white-house-talks-on-ukraine-peace-proce": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "mp|riot|trump|trump",
-    "norm": 72.7
+  "paddleboarder-saves-woman-after-shark-attack-then-wins-world": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "attack|attack|mp|record",
+    "norm": 72.9
   },
-  "trump-netanyahu-hold-productive-talks-focused-on-iran-and-se": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "iran|mp|trump|trump",
+  "pellet-guns-non-lethal-measures-were-authorised-by-delhi-pol": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "clash|clash|ipl|protest|protest",
+    "norm": 72.6
+  },
+  "parliament-monsoon-session-2026-live-rahul-gandhi-to-speak-o": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "bill|exam|lok sabha|minister|parliament|rahul gandhi|rbi",
+    "norm": 71.5
+  },
+  "delhi-police-notice-to-x-accounts-over-abusive-posts-on-pm-m": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "modi|modi|protest|protest",
+    "norm": 71.4
+  },
+  "indian-army-contingent-to-participate-in-seychelles-50th-ind": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "army|gold|minister|modi|modi|navy|prime minister",
+    "norm": 70.1
+  },
+  "will-return-to-streets-if-cases-continue-warns-cjp-maharasht": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "maharashtra|protest|protest|war",
+    "norm": 68.4
+  },
+  "gen-z-protest-took-us-by-surprise-delhi-bjp-steps-up-youth-o": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "bjp|protest|protest|surprise",
+    "norm": 66.7
+  },
+  "who-is-v-kamakoti-iit-madras-director-and-exam-task-force-me": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "exam|mp|war",
+    "norm": 66
+  },
+  "gold-rate-today-july-29-check-18-22-and-24-carat-gold-prices": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "gold|gold price|price|prices",
     "norm": 65
   },
-  "mc-staff-strike-enters-day-2-protest-march-held-in-phagwara": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "protest|protest|war",
+  "-they-re-enemies-like-india-khawaja-asif-defends-killing-of-": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "pakistan|protest|protest|video",
+    "norm": 63.9
+  },
+  "hc-declines-to-interfere-with-eci-s-timeline-for-sir-exercis": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "election|election|election commission|high court|mp|poll",
+    "norm": 63.4
+  },
+  "parliament-to-resume-high-voltage-anti-paper-leak-bill-debat": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "amit shah|bill|death|lok sabha|parliament|rahul gandhi",
+    "norm": 63.4
+  },
+  "-clock-it-waste-guna-huiya-gen-z-phrases-echo-in-lok-sabha-a": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "bill|exam|lok sabha|mp|opposition|parliament",
+    "norm": 63.4
+  },
+  "vijay-writes-to-pm-on-mekedatu-to-visit-bengaluru-for-talks-": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "chief minister|minister|modi|modi|prime minister",
+    "norm": 62.9
+  },
+  "from-8216-delulu-8217-to-8216-fomo-8217-after-cjp-protests-o": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "parliament|protest|protest",
+    "norm": 62.8
+  },
+  "-incorrect-unverified-drdo-denies-reports-of-data-breach": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "actor|mp|threat",
+    "norm": 62.5
+  },
+  "govt-has-discretion-to-appoint-hydraa-chief-says-cm-revanth-": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "chief minister|disaster|high court|minister",
+    "norm": 61.8
+  },
+  "-who-is-this-indian-mp-nishikant-dubey-s-conflict-of-interes": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "election|election|mp|parliament",
+    "norm": 61.8
+  },
+  "pillion-rider-cannot-be-denied-compensation-citing-vehicle-r": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "accident|high court|mp",
+    "norm": 61.4
+  },
+  "centre-caps-sugar-stockholding-to-4-000-quintals-amid-surge-": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "deal|mp|price|prices|stocks",
     "norm": 60.8
   },
-  "neet-paper-leak-neet-row-cbi-chargesheets-13-in-paper-leak-i": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "neet|row",
-    "norm": 60.4
+  "define-digital-arrest-as-a-standalone-offence-sc": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "bill|fraud|supreme court",
+    "norm": 59.7
   },
-  "anti-paper-leak-bill-a-visionary-step-towards-safeguarding-y": {
-    "firstSeen": "2026-07-28T22:14:09.676Z",
-    "signature": "bill|war",
-    "norm": 60
+  "flood-safety-essential-tips-every-household-must-follow": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "flood|flood|floods",
+    "norm": 59.6
   },
-  "private-mission-to-rescue-nasa-aging-telescope-runs-into-its": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "rescue|rescue",
+  "flight-snag-leaves-father-son-with-costly-us-trip-court-awar": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "lakh|war",
     "norm": 57.1
   },
-  "chicago-fire-fc-selects-boldyn-networks-for-750m-stadium-dig": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "fire|fire",
+  "kerala-lottery-result-today-live-dhanalekshmi-dl-63-winning-": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "crore|result",
+    "norm": 57.1
+  },
+  "shillong-teer-result-today-july-29-2026-check-winning-number": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "khan|result",
+    "norm": 55.7
+  },
+  "-8216-cow-urine-expert-8217-priyanka-gandhi-mocks-exam-refor": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "exam|lok sabha",
     "norm": 55.4
   },
-  "army-initiates-14-day-training-for-cisf-personnel-to-tackle-": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "army|threat",
-    "norm": 55.4
+  "who-is-misir-besra-last-active-maoist-leader-with-rs-1-crore": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "crore|khan",
+    "norm": 53.5
   },
-  "india-takes-dig-at-pakistan-says-everyone-in-south-asia-is-a": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "pakistan|war",
-    "norm": 55.4
+  "echoes-of-jantar-mantar-in-u-p-as-gen-alpha-school-students-": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "ahead-of-2027-punjab-polls-aap-welfare-spree-sparks-question": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "aap|poll",
-    "norm": 51.7
-  },
-  "bjp-delulu-opposition-thinks-youth-are-with-it-rahul-sufferi": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "bjp|opposition",
-    "norm": 51.7
-  },
-  "scorpio-horoscope-today-july-29-2026-the-full-moon-day-could": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "row",
-    "norm": 51.2
-  },
-  "death-of-easy-money-what-rajan-fed-role-means-for-india": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "death",
-    "norm": 51.2
-  },
-  "centre-may-table-bill-to-make-deepfakes-digital-arrest-separ": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "bill|supreme court",
+  "long-term-mous-between-sanchari-cauvery-apartments-to-counte": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "price|prices",
     "norm": 50.5
   },
-  "goldman-says-japan-ai-stock-trade-not-broken-after-rout": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "gold",
-    "norm": 49.4
+  "neyyar-water-sharing-from-cooperation-to-friction-between-ta": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
   },
-  "ultratech-yuweus-and-abp-one-lead-the-winners-at-maa-awards": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "war",
-    "norm": 49.4
+  "supreme-court-orders-states-to-shield-chambal-forest-staff-f": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "mp|supreme court",
+    "norm": 48.7
   },
-  "tech-employees-call-for-us-backed-global-effort-to-manage-ri": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "mp",
-    "norm": 47.1
+  "probe-into-irregularities-in-kpsc-s-hiring-of-veterinary-off": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "recruitment",
+    "norm": 46.3
   },
-  "chip-rout-sinks-emerging-market-stocks-currencies-trade-mixe": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "stocks",
-    "norm": 47.1
+  "who-is-subhadeep-ghosh-meet-team-india-s-new-fielding-coach": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "cricket",
+    "norm": 46.3
   },
-  "aap-names-dhir-as-jalandhar-north-halqa-in-charge": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "aap",
-    "norm": 47.1
+  "dacl-fine-chem-to-set-up-500-crore-chemical-unit-in-ksez": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "crore",
+    "norm": 45.9
   },
-  "panchang-today-july-29-2026-shukla-purnima-under-uttara-asha": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
+  "-bharathanatyam-3-announced-next-film-in-saiju-kurup-s-franc": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "film",
+    "norm": 44.3
+  },
+  "32-fall-ill-after-eating-snacks-in-kakinada": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
     "signature": "",
-    "norm": 39.4
+    "norm": 36
   },
-  "july-buck-moon-2026-when-is-the-full-moon-and-how-can-you-ob": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "leo-horoscope-today-july-29-2026-the-full-moon-day-brings-wo": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "american-airlines-it-outage-faa-grounds-all-non-air-borne-am": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "pisces-horoscope-today-july-29-2026-the-day-favours-consulta": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "-hit-without-provocation-ranchi-woman-who-suffered-ear-injur": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "capricorn-horoscope-today-july-29-2026-you-may-expect-accola": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "nasdaq-100-is-approaching-a-correction-as-chips-selloff-wors": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "zenity-launches-ai-security-platform-for-autonomous-agents-a": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "yen-relentless-slide-to-test-ueda-capacity-to-calm-traders": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "oil-holds-three-day-drop-as-tensions-in-the-middle-east-cool": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "cpi-m-pdp-condemn-killings-by-security-forces-in-pok": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "more-than-meets-eyes-the-economic-times": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "mbbs-admissions-nmc-puts-focus-on-ability-not-disability": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
+  "150-years-of-the-indian-association-for-the-cultivation-of-s": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
     "signature": "",
     "norm": 33.9
   },
-  "icw-2026-aditi-rao-hydari-siddharth-bring-regal-romance-to-j": {
-    "firstSeen": "2026-07-29T00:06:53.688Z",
+  "one-officer-one-car-centre-ends-extra-official-vehicles-for-": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "cauvery-panel-orders-release-of-water-to-tn": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "india-coordinating-with-ukrainian-authorities-to-search-two-": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "two-prosecutors-assigned-to-fast-track-court": {
+    "firstSeen": "2026-07-29T04:24:36.974Z",
     "signature": "",
     "norm": 33.9
   }
