@@ -1,302 +1,32 @@
 {
-  "supreme-court-no-blanket-ban-on-use-of-pellet-guns-for-crowd": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "crowd|injured|mp|protest|protest|row|supreme court",
-    "norm": 84.1
+  "16-indians-including-10-seamen-killed-in-middle-east-conflic": {
+    "firstSeen": "2026-07-30T22:16:06.184Z",
+    "signature": "died|fan|killed|killed",
+    "norm": 71.3
   },
-  "attacks-on-commercial-vessels-indian-seafarers-absolutely-un": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "attack|attack|jaishankar|minister|war",
-    "norm": 76.5
+  "anti-paper-leak-bill-clears-parliament-pm-modi-says-it-will-": {
+    "firstSeen": "2026-07-30T22:16:06.184Z",
+    "signature": "bill|exam|minister|modi|modi|parliament|prime minister",
+    "norm": 70.1
   },
-  "-i-apologised-threats-did-not-stop-after-jantar-mantar-prote": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "army|death|minister|prime minister|protest|protest|threat",
-    "norm": 76.4
+  "parliament-passes-vande-mataram-bill": {
+    "firstSeen": "2026-07-30T22:16:06.184Z",
+    "signature": "bill|bjp|mp|parliament",
+    "norm": 53.9
   },
-  "uefa-threatens-fifa-world-cup-boycott-over-infantino-20b-inv": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "fan|investor|threat|world cup",
-    "norm": 74.2
-  },
-  "25-year-old-woman-booked-for-expletives-against-pm-modi-at-c": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "modi|modi|protest|protest",
-    "norm": 74
-  },
-  "jaishankar-tells-ukraine-fm-black-sea-attacks-on-indian-seaf": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "attack|attack|jaishankar",
-    "norm": 70.3
-  },
-  "sc-directs-delhi-govt-to-treat-jantar-mantar-protesters-inju": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "injured|protest|protest",
-    "norm": 67.6
-  },
-  "heavy-rainfall-triggers-multiple-landslides-in-longleng": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "heavy rain|ipl|landslide",
-    "norm": 67.3
-  },
-  "attacks-on-seafarers-unacceptable-eam-to-ukraine-fm": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "attack|attack",
-    "norm": 62.1
-  },
-  "shouldnt-selection-panel-on-cec-ecs-have-a-show-of-fairness-": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "election|election",
-    "norm": 60
-  },
-  "banks-in-talks-to-lend-15-billion-for-anthropic-data-center-": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "bill|billion",
-    "norm": 57.9
-  },
-  "no-action-against-protesters-delhi-govt": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "protest|protest",
-    "norm": 57.1
-  },
-  "-huge-question-mark-over-judiciary-cjp-dipke-on-sc-nod-to-fi": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "protest|protest",
-    "norm": 57.1
-  },
-  "from-hope-to-horror-farmer-dreams-of-clear-vision-turn-to-dr": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "dread|horror",
-    "norm": 55
-  },
-  "lok-sabha-clears-vande-mataram-bill-as-dmk-joins-debate-oppo": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "bill|lok sabha",
-    "norm": 53.5
-  },
-  "openai-cuts-prices-on-smaller-models-as-businesses-scrutinis": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "price|prices",
-    "norm": 53.5
-  },
-  "itr-filing-2026-how-to-report-capital-gains-from-shares-mutu": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "fund|tax",
-    "norm": 53.5
-  },
-  "kuruvai-coverage-in-tamil-nadu-s-cauvery-delta-is-down-by-ov": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "lakh|mp",
-    "norm": 53.2
-  },
-  "liti-s-223kg-stunner-denies-lovepreet-cwg-gold-by-1kg-in-wei": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "gold|record",
-    "norm": 52.4
-  },
-  "contract-hostel-workers-stage-protest-demanding-minimum-wage": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "kashmir-s-insha-mushtaq-blinded-by-pellets-shines-light-on-d": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "cwg-2026-lifter-lovepreet-singh-settles-for-silver-after-mis": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "gold",
-    "norm": 51.2
-  },
-  "ukraine-looks-to-other-allies-for-patriot-missiles-after-us-": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "riot",
-    "norm": 51.2
-  },
-  "groundwater-contamination-in-the-late-1990s-a-hidden-nanotec": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "anger",
-    "norm": 51.2
-  },
-  "amazon-walmart-ai-detect-made-in-united-states-fraud-but-do-": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "fraud",
-    "norm": 51.2
-  },
-  "sc-issues-notice-to-bhagwant-mann-on-plea-against-quashing-o": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "riot",
-    "norm": 51.2
-  },
-  "iaf-plans-to-turn-helicopters-into-drone-hunters-with-ai-pow": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "defence|drone",
-    "norm": 50.2
-  },
-  "mumbai-bmc-appoints-three-member-expert-committee-to-reinves": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "tragedy",
-    "norm": 49.4
-  },
-  "ngt-disposes-of-sariska-hotel-growth-plea-as-not-maintainabl": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "row",
-    "norm": 49.4
-  },
-  "priyanka-gandhi-kalyan-banerjee-spar-over-congress-tmc-and-d": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "congress",
-    "norm": 49
-  },
-  "railways-target-2029-completion-of-dimapur-kohima-line": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "mahindra-electric-three-wheeler-arm-turns-unicorn-ahead-of-2": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "ipo",
-    "norm": 49
-  },
-  "cbic-readies-rules-to-facilitate-filing-of-multi-state-gst-a": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "gst",
-    "norm": 49
-  },
-  "nepal-pm-balendra-shah-appeals-for-calm-as-curfew-extends-to": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "toll",
-    "norm": 48.2
-  },
-  "uk-fca-to-publish-daily-stock-trading-data-starting-friday": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "star",
-    "norm": 47.4
-  },
-  "india-china-agree-to-enhance-mutual-cooperation-and-communic": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "china",
-    "norm": 47.1
-  },
-  "pakistan-crackdown-in-pok-revives-focus-on-territory-legal-l": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "pakistan",
-    "norm": 47.1
-  },
-  "dos-isro-launch-major-hiring-drive-for-746-posts-92-will-be-": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "recruitment",
-    "norm": 46.3
-  },
-  "calcutta-hc-seeks-report-from-police-over-encounter-killing-": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "high court",
-    "norm": 45.9
-  },
-  "informal-poll-shows-costa-rica-grynspan-ahead-in-race-to-be-": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "poll",
-    "norm": 45.9
-  },
-  "nolan-wells-update-ben-crump-reveals-new-evidence-review-as-": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "t-n-in-the-process-of-identifying-site-to-build-ai-city-it-m": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "minister",
+  "naveen-patnaik-lambasts-bjp-government-for-changing-indian-h": {
+    "firstSeen": "2026-07-30T22:16:06.184Z",
+    "signature": "bjp",
     "norm": 44
   },
-  "john-legend-to-play-harry-belafonte-in-bill-condon-apartheid": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "bill",
-    "norm": 44
-  },
-  "bira-appoints-lender-nominees-to-its-board-after-ankur-jain-": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
+  "stephen-curry-reveals-when-he-knew-ayesha-curry-was-the-one": {
+    "firstSeen": "2026-07-30T22:16:06.184Z",
     "signature": "",
-    "norm": 39.4
+    "norm": 33.9
   },
-  "omar-mehbooba-appeal-for-peace-and-dialogue": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
+  "release-3-500-cusecs-of-water-to-tamil-nadu-cauvery-authorit": {
+    "firstSeen": "2026-07-30T22:16:06.184Z",
     "signature": "",
-    "norm": 39.4
-  },
-  "india-to-buck-apac-slowdown-despite-oil-trade-and-el-nino-ri": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "nagaland-from-child-labour-to-cyber-slavery-the-evolving-fac": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "farm-to-fork-food-safety-fix-on-niti-aayog-menu-wider-testin": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "-times-of-india": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "sobhita-dhulipala-turns-into-a-modern-day-devi-at-india-cout": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "bryan-johnson-says-he-may-have-gone-too-far-with-longevity-e": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "exelon-data-center-pipeline-cut-as-ai-projects-face-pushback": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "rain-garbage-gridlock-monsoon-mess-in-ludh": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "family-businesses-do-not-think-in-quarters-but-in-generation": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "big-bets-bigger-risks-why-us-oil-majors-are-holding-back-in-": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "gujarat-accounts-for-more-than-a-tenth-of-country-coop-socie": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "suburban-train-held-up-at-park-station-due-to-technical-snag": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "stolen-red-sanders-recovered-near-arakkonam-four-persons-hel": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "ahmedabad-survey-rain-damage-relief-measures": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "nancy-guthrie-update-sheriff-chris-nanos-hits-back-at-fbi-ch": {
-    "firstSeen": "2026-07-30T20:22:55.431Z",
-    "signature": "",
-    "norm": 36
+    "norm": 33.9
   }
 }
