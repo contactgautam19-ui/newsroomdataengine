@@ -1,146 +1,61 @@
 {
-  "-i-forgive-youth-who-abused-me-pm-modi-in-late-night-instagr": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "gst|instagram|modi|modi|protest|protest",
-    "norm": 85.4
-  },
-  "non-local-killed-another-injured-in-kulgam-terror-attack-in-": {
-    "firstSeen": "2026-07-31T16:53:09.295Z",
+  "migrant-worker-killed-another-injured-in-terror-attack-in-j-": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
     "signature": "attack|attack|fire|fire|injured|killed|killed|terror|terror",
-    "norm": 81.5
+    "norm": 80
   },
-  "pm-modi-forgives-students-amid-abusive-video-row-let-s-guide": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "modi|modi|protest|protest|row|video",
-    "norm": 78.8
+  "supreme-court-asks-centre-to-facilitate-dna-testing-of-india": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
+    "signature": "killed|killed|mp|supreme court|war",
+    "norm": 76.5
   },
-  "gujarat-chief-minister-reviews-rain-preparedness-puts-10-dis": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "alert|chief minister|minister|surprise|weather",
-    "norm": 75.3
-  },
-  "-want-to-forgive-them-pm-modi-on-students-who-abused-him-at-": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "modi|modi|protest|protest|video",
-    "norm": 74
-  },
-  "-abuses-never-solve-anything-let-s-guide-the-misguided-pm-mo": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "modi|modi|protest|protest",
-    "norm": 72.9
-  },
-  "-abuses-never-solve-anything-pm-modi-posts-new-video-amid-ro": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "modi|modi|row|video",
-    "norm": 71.4
-  },
-  "sri-lanka-s-ex-police-chief-sentenced-to-death-over-2019-eas": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "attack|attack|death|supreme court",
-    "norm": 71
-  },
-  "man-held-after-attempted-attack-on-police-personnel": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "attack|attack|mp",
+  "apple-loop-iphone-18-pro-release-dates-ios-warning-macbook-p": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
+    "signature": "cji|war|warning",
     "norm": 67.6
   },
-  "entries-invited-for-31st-international-film-festival-of-kera": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "dead|dead|film",
-    "norm": 66.3
+  "sc-slaps-rs-1-lakh-fine-on-rajasthan-government-for-harassin": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
+    "signature": "chief minister|lakh|minister|mp|rupee|sanction|supreme court",
+    "norm": 67.1
   },
-  "india-closely-monitoring-us-bill-proposing-100-tariffs-over-": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "bill|china|mp|president|trump|trump",
-    "norm": 63.4
+  "country-asking-him-to-apologise-but-he-has-forgiven-country-": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
+    "signature": "congress|modi|modi|video",
+    "norm": 65.3
   },
-  "38-persons-stranded-on-sand-ramp-rescued-as-godavari-swells-": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "mp|rescue|rescue",
-    "norm": 61.1
+  "triumph-of-justice-vs-hussain-a-bjp-man-parties-trade-barbs-": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
+    "signature": "aap|bjp|mp|opposition|riot|verdict",
+    "norm": 65.1
   },
-  "feels-like-i-m-back-to-my-country-taslima-nasreen-to-ndtv-on": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "khan|protest|protest",
-    "norm": 59.7
-  },
-  "heavy-rains-lash-parts-of-kodagu-district-holiday-for-school": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "heavy rain|war",
-    "norm": 59.3
-  },
-  "sir-enumeration-deadline-extended-till-august-10": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "dead|dead",
-    "norm": 57.6
-  },
-  "delayed-aid-prolonged-ordeal": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "deal|war",
+  "kin-of-injured-delhi-police-personnel-want-their-views-to-be": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
+    "signature": "injured|parliament",
     "norm": 57.1
   },
-  "after-residents-protest-civic-body-retrieves-government-land": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "supreme-court-moots-protocol-to-access-court-s-livestream-ar": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
+    "signature": "ipl|supreme court",
+    "norm": 57.1
   },
-  "a-genetic-blueprint-for-saving-asia-s-iconic-hornbills": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "bill|mp",
-    "norm": 50.5
+  "pm-modi-burnham-discuss-trade-pact-in-1st-call": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
+    "signature": "modi|modi",
+    "norm": 57.1
   },
-  "how-the-meenachil-river-tells-stories-of-oppression-and-resi": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "ipl",
-    "norm": 46.3
+  "revenue-augmentation-committee-holds-first-meeting-through-v": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
+    "signature": "tax|video",
+    "norm": 50.2
   },
-  "drifting-spacex-rocket-on-high-speed-collision-course-with-m": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "slam",
-    "norm": 46.3
+  "teacher-booked-for-allegedly-beating-up-8-year-old-dalit-boy": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
+    "signature": "sharma",
+    "norm": 42.4
   },
-  "let-the-ink-flow-collectors-and-craftsmen-keep-fountain-pens": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "suresh-rajpurohit-and-s-sreejith-promoted-as-dgps": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "rohit",
-    "norm": 44.3
-  },
-  "seminar-on-computer-vision-forensic-handwriting-analysis": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "brs-ex-mla-peddi-sudarshan-reddy-passes-away-cremated-at-nal": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "mla",
-    "norm": 44
-  },
-  "karnataka-mango-development-and-marketing-corporation-will-d": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "",
-    "norm": 36
-  },
-  "villagers-demand-operation-of-overhead-tank-for-regular-wate": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "",
-    "norm": 36
-  },
-  "cyberabad-to-develop-10-free-lefts-and-five-u-turns-to-ease-": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "",
-    "norm": 36
-  },
-  "gruha-jyoti-survey-82-000-have-either-not-provided-documents": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "in-a-first-india-s-high-commissioner-to-bangladesh-meets-u-s": {
-    "firstSeen": "2026-07-31T18:41:14.918Z",
+  "-you-are-a-fool-to-live-so-openly-mallya-told-nirav-before-h": {
+    "firstSeen": "2026-07-31T20:35:08.029Z",
     "signature": "",
     "norm": 33.9
   }
