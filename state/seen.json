@@ -1,61 +1,211 @@
 {
-  "migrant-worker-killed-another-injured-in-terror-attack-in-j-": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "attack|attack|fire|fire|injured|killed|killed|terror|terror",
-    "norm": 80
+  "us-israel-planning-to-bombard-energy-related-targets-in-iran": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "bomb|iran|israel|mp",
+    "norm": 71
   },
-  "supreme-court-asks-centre-to-facilitate-dna-testing-of-india": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "killed|killed|mp|supreme court|war",
-    "norm": 76.5
+  "for-pak-kashmir-terror-attack-a-ruse-to-divert-attention-fro": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "attack|attack|terror|terror",
+    "norm": 70.7
   },
-  "apple-loop-iphone-18-pro-release-dates-ios-warning-macbook-p": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "cji|war|warning",
-    "norm": 67.6
+  "trump-plans-100-000-fee-for-opt-jobs": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "jobs|mp|trump|trump",
+    "norm": 70.7
   },
-  "sc-slaps-rs-1-lakh-fine-on-rajasthan-government-for-harassin": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "chief minister|lakh|minister|mp|rupee|sanction|supreme court",
-    "norm": 67.1
+  "drdo-challenges-indian-startups-to-build-jam-proof-drone-swa": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "drone|fund|star|war",
+    "norm": 68
   },
-  "country-asking-him-to-apologise-but-he-has-forgiven-country-": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "congress|modi|modi|video",
+  "contractor-ends-life-wife-alleges-threats-by-congress-leader": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "actor|congress|threat",
     "norm": 65.3
   },
-  "triumph-of-justice-vs-hussain-a-bjp-man-parties-trade-barbs-": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "aap|bjp|mp|opposition|riot|verdict",
+  "ethanol-kept-petrol-prices-lower-govt": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "fuel|petrol|petrol|price|prices|rupee",
     "norm": 65.1
   },
-  "kin-of-injured-delhi-police-personnel-want-their-views-to-be": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "injured|parliament",
-    "norm": 57.1
+  "search-on-for-man-missing-in-jampanna-vagu-sp-reviews-rescue": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "mp|rescue|rescue",
+    "norm": 63.9
   },
-  "supreme-court-moots-protocol-to-access-court-s-livestream-ar": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "ipl|supreme court",
-    "norm": 57.1
+  "is-ishowspeed-ok-fans-worried-after-streamer-crashes-during-": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "crash|crash|fan",
+    "norm": 62.5
   },
-  "pm-modi-burnham-discuss-trade-pact-in-1st-call": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "modi|modi",
-    "norm": 57.1
+  "new-delhi-slams-islamabad-over-crackdown-against-protesters-": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "protest|protest|slam|slams",
+    "norm": 60.6
   },
-  "revenue-augmentation-committee-holds-first-meeting-through-v": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "tax|video",
-    "norm": 50.2
+  "jpc-examining-bill-to-remove-pm-cms-gets-extension-rediff-tv": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "bill|exam",
+    "norm": 58.3
   },
-  "teacher-booked-for-allegedly-beating-up-8-year-old-dalit-boy": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
-    "signature": "sharma",
-    "norm": 42.4
+  "sewage-contamination-detected-in-68-of-water-samples-near-bh": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "mp|tragedy",
+    "norm": 58.3
   },
-  "-you-are-a-fool-to-live-so-openly-mallya-told-nirav-before-h": {
-    "firstSeen": "2026-07-31T20:35:08.029Z",
+  "-havent-forgotten-the-causes-sonam-wangchuk-urges-govt-to-fu": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "protest|protest",
+    "norm": 55.4
+  },
+  "july-31-markets-upward-for-third-straight-session-fii-inflow": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "nifty|war",
+    "norm": 55.4
+  },
+  "sanjeev-ahluwalia-techno-protest-a-new-red-flag-is-facing-in": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "protest|protest",
+    "norm": 55.4
+  },
+  "kishan-reddy-slams-cm-remark-on-engineers": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "slam|slams",
+    "norm": 55
+  },
+  "nellore-district-registers-highest-2-90-lakh-uncollectable-e": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "lakh|record",
+    "norm": 53.2
+  },
+  "us-stocks-fluctuate-in-friday-trading": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "stocks",
+    "norm": 47.1
+  },
+  "sir-3-0-draft-rolls-over-1-crore-names-deleted-in-10-states-": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "crore",
+    "norm": 47.1
+  },
+  "mp-old-age-home-sealed-after-boy-found-beating-inmates": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "ib-officer-murder-life-term-for-former-aap-councillor-tahir-": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "aap",
+    "norm": 47.1
+  },
+  "netflix-sued-for-105m-us-after-copy-of-unreleased-nicolas-ca": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "film",
+    "norm": 45.5
+  },
+  "man-held-for-murder-of-wife-infant-daughter-over-infidelity-": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "fan",
+    "norm": 45.5
+  },
+  "kochi-metro-records-operational-profit-lowers-net-loss": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "record",
+    "norm": 44
+  },
+  "rahmani30-student-ubed-alam-secures-all-india-rank-1-in-cma-": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "waqf-registrations-rise-by-35-000-in-west-bengal-after-umeed": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "sudden",
+    "norm": 40.7
+  },
+  "cwg-2026-tejaswin-shankar-wins-historic-bronze-in-men-decath": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "jana-nayagan-9-days-collection-early-trend-jana-nayagan-day-": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "zelensky-flew-to-a-funeral-and-buried-his-last-big-hope": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "blackstone-mortgage-reit-shares-dive-most-since-early-pandem": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "amazon-sued-by-consumers-over-seafood-sustainability-claims": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "singareni-gears-up-to-ensure-uninterrupted-coal-supply-to-th": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "vijayapura-airport-set-to-take-off-as-sc-order-ends-uncertai": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "ysrc-demands-cbi-probe-into-dsc-irregularities": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "pocso-case-20-yr-jail-term-for-convict": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "sc-questions-invocation-of-uapa-in-haldwani-violence-case-re": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "21-girls-fall-ill-after-breakfast-at-residential-school-prob": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "search-fails-to-trace-70-year-old-swept-away-in-miyapur-drai": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "collective-effort-key-to-curb-human-trafficking-judge-hubbal": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "tejaswin-shankar-becomes-first-indian-to-win-decathlon-medal": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "govt-approves-pradhan-mantri-surya-sarovar-yojana-for-develo": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "air-india-and-saudia-sign-mou-to-expand-strategic-cooperatio": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "air-india-and-ministry-of-tourism-to-promote-india-as-a-glob": {
+    "firstSeen": "2026-07-31T22:13:35.898Z",
     "signature": "",
     "norm": 33.9
   }
