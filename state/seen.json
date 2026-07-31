@@ -1,116 +1,186 @@
 {
-  "-first-you-broke-their-bones-now-you-re-rahul-gandhi-attacks": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "attack|attack|neet|protest|protest|rahul gandhi|war|warning",
-    "norm": 94
+  "a-generation-in-waiting-uttar-pradesh-s-govt-job-aspirants-a": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "iran|mp|recruitment|result|war",
+    "norm": 75.1
   },
-  "one-killed-at-least-7-feared-trapped-after-building-collapse": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "building collapse|collapse|collapse|collapse|died|fear|killed|killed|maharashtra",
-    "norm": 92.4
+  "new-spy-agency-higher-defence-spending-lethal-arms-exports-j": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "cabinet|defence|terror|terror|threat",
+    "norm": 75
   },
-  "mumbai-building-collapse-why-families-stay-in-unsafe-buildin": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "building collapse|collapse|collapse|collapse|fear|killed|killed",
-    "norm": 82.4
+  "russia-ukraine-war-sc-directs-centre-to-appoint-nodal-office": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "killed|killed|mp|war",
+    "norm": 72.6
   },
-  "bhiwandi-building-collapse-death-toll-rises-to-six-as-ndrf-c": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "building collapse|collapse|collapse|collapse|death|rescue|rescue|toll",
-    "norm": 79.9
+  "18-killed-trying-to-breach-morocco-border-army-sent-spain-cr": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "army|border|killed|killed",
+    "norm": 71.6
   },
-  "-govt-heard-govt-actioned-govt-delivered-raghav-chadha-break": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "minister|mp|neet|protest|protest",
-    "norm": 76.8
+  "how-vietnam-capital-s-2-4-bn-redevelopment-drive-is-reshapin": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "bill|billion|flood|flood",
+    "norm": 69.4
   },
-  "case-against-meta-india-head-social-media-accounts-over-pm-m": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "modi|modi|protest|protest|video",
-    "norm": 74
+  "calcutta-hc-sets-up-five-fast-track-courts-for-neet-paper-le": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "exam|ipl|mp|neet",
+    "norm": 65.1
   },
-  "meta-india-chief-insta-accounts-named-in-hyderabad-police-ca": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "modi|modi|protest|protest",
-    "norm": 71.4
+  "parliament-monsoon-session-day-10-highlights-lok-sabha-passe": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "bill|death|lok sabha|minister|opposition|parliament",
+    "norm": 65.1
   },
-  "academics-slam-priyanka-gandhi-s-gaumutra-expert-jibe-aimed-": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "ipl|mp|slam|threat",
-    "norm": 71
+  "it-is-pm-modi-s-duty-to-resolve-cauvery-dispute-between-tami": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "congress|modi|modi|rahul gandhi",
+    "norm": 63.5
   },
-  "bjp-blames-aap-govt-in-punjab-for-worsening-drugs-menace-": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "aap|bjp|devastat|protest|protest",
-    "norm": 70.4
+  "-close-to-100-bjp-mps-have-criminal-cases-cjp-defends-woman-": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "bjp|minister|modi|modi|mp|prime minister",
+    "norm": 63.4
   },
-  "-didn-t-want-headlines-wanted-solutions-raghav-chadha-on-why": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "bill|exam|mp|neet|rajya sabha",
-    "norm": 67
-  },
-  "shehzad-poonawalla-resigns-from-bjp-cites-personal-reasons-s": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "bjp|minister|modi|modi|prime minister",
-    "norm": 64.6
-  },
-  "-huge-question-mark-on-judiciary-cjp-s-abhijeet-dipke-on-sc-": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "protest|protest|supreme court",
+  "in-a-first-after-galwan-chinese-president-xi-jinping-may-vis": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "clash|clash|president",
     "norm": 62.8
   },
-  "india-news-live-updates-31-july-2026-bjp-plans-protest-at-ka": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "bjp|protest|protest",
-    "norm": 62.8
-  },
-  "seeking-job-in-us-trump-weighs-100-000-work-permit-fee-from-": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "mp|policy|trump|trump",
+  "karnataka-high-court-stays-conviction-of-former-minister-vin": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "high court|minister|mla|result",
     "norm": 61.8
   },
-  "mileage-may-drop-6-bs-iii-rubber-parts-at-risk-how-e20-petro": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "petrol|petrol",
+  "parliament-monsoon-session-2026-live-updates-rajya-sabha-adj": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "parliament|rajya sabha|row",
+    "norm": 61.4
+  },
+  "audited-financial-statements-for-pm-cares-fund-have-not-been": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "fund|minister|mp|parliament|prime minister",
+    "norm": 60.8
+  },
+  "exiled-bangladeshi-writer-taslima-nasreen-returns-to-kolkata": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "emotional|protest|protest",
+    "norm": 59.6
+  },
+  "gba-s-plantation-drive-draws-236-requests-for-over-43-000-sa": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "dead|dead",
+    "norm": 59.3
+  },
+  "-my-father-was-almost-lynched-near-jantar-mantar-stage-kin-o": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "brutal|injured",
+    "norm": 57.6
+  },
+  "2020-delhi-riots-high-court-seeks-police-s-stand-on-umar-kha": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "high court|riot",
+    "norm": 57.1
+  },
+  "-didn-t-mean-to-mock-them-influencer-who-recreated-toilet-cl": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "protest|protest|video",
+    "norm": 57.1
+  },
+  "7-000-police-personnel-to-be-deployed-for-modi-s-bhogapuram-": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "want-to-drive-a-vande-bharat-train-here-s-the-salary-eligibi": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "election|election",
     "norm": 55.4
   },
-  "shillong-teer-result-today-july-31-2026-check-winning-number": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "khan|result",
-    "norm": 53.9
+  "maharashtra-to-bring-law-ensuring-transparency-in-property-d": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "deal|maharashtra",
+    "norm": 55.4
   },
-  "parliament-monsoon-session-2026-day-10-live-bill-to-increase": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "bill|lok sabha|parliament|supreme court",
-    "norm": 52.1
+  "bengaluru-gba-plans-mandating-gps-for-debris-transport-vehic": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "minister|mp",
+    "norm": 50.5
   },
-  "pune-auto-rides-to-get-costlier-rto-approves-fare-hike-propo": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "fuel",
+  "-i-m-game-trailer-dulquer-salmaan-s-film-promises-a-stylish-": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "film|star|trailer",
+    "norm": 50.1
+  },
+  "karnataka-cm-busy-with-cabinet-expansion-had-no-time-to-meet": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "bjp|cabinet",
+    "norm": 48.7
+  },
+  "supreme-court-agrees-to-july-31-hearing-in-senthilbalaji-s-a": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "high court|supreme court",
+    "norm": 48.7
+  },
+  "two-decades-later-56-accused-in-constable-vinod-murder-case-": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "died",
+    "norm": 46.3
+  },
+  "delhi-hc-issues-notice-on-umar-khalid-s-bail-plea-in-2020-ri": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "riot",
+    "norm": 46.3
+  },
+  "sc-issues-notice-to-centre-on-plea-to-ban-polygamy": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "cwg-2026-india-s-medal-tally-complete-list-of-winners-and-ta": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
+  "-ban-polygamy-protect-muslim-women-supreme-court-seeks-centr": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "-jersey-change-decision-taken-without-my-prior-knowledge-tir": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-no-truth-to-reports-of-ops-contemplating-switch-to-tvk-": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "31-national-highways-in-tamil-nadu-to-get-improved-lighting": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
     "signature": "mp",
     "norm": 44
   },
-  "sir-despite-100-distribution-claim-voters-in-kodagu-bengalur": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
-    "signature": "vote",
+  "can-you-be-jailed-for-abusive-language-here-s-what-bns-rules": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "deal",
     "norm": 44
   },
-  "state-level-carrom-tournament-in-nellore-from-july-31": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
+  "how-has-the-odisha-chhattisgarh-mahanadi-water-dispute-evolv": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
     "signature": "",
     "norm": 36
   },
-  "-judge-in-her-own-cause-karnataka-hc-castigates-judicial-off": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
+  "uber-drivers-launch-fresh-strike-in-kochi": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "can-the-bank-of-japan-reinforce-the-japanese-yen-s-intervent": {
-    "firstSeen": "2026-07-31T04:33:38.188Z",
+  "hamas-reaches-gaza-disarmament-agreement-with-board-of-peace": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
+    "signature": "",
+    "norm": 36
+  },
+  "stone-trader-tullu-mondal-s-house-sealed-as-bengal-police-in": {
+    "firstSeen": "2026-07-31T08:07:43.419Z",
     "signature": "",
     "norm": 33.9
   }
