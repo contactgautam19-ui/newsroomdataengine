@@ -1,31 +1,116 @@
 {
-  "centre-sticks-to-its-stand-on-the-mekedatu-dam-project-reite": {
-    "firstSeen": "2026-07-31T00:12:59.176Z",
-    "signature": "chief minister|lok sabha|minister|modi|modi|prime minister|rajya sabha",
-    "norm": 65.3
+  "-first-you-broke-their-bones-now-you-re-rahul-gandhi-attacks": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "attack|attack|neet|protest|protest|rahul gandhi|war|warning",
+    "norm": 94
   },
-  "amid-opposition-protests-house-clears-bill-criminalising-ins": {
-    "firstSeen": "2026-07-31T00:12:59.176Z",
-    "signature": "bill|opposition|protest|protest",
-    "norm": 65.3
+  "one-killed-at-least-7-feared-trapped-after-building-collapse": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "building collapse|collapse|collapse|collapse|died|fear|killed|killed|maharashtra",
+    "norm": 92.4
   },
-  "formal-retail-credit-access-doubles-over-past-decade": {
-    "firstSeen": "2026-07-31T00:12:59.176Z",
-    "signature": "mp|row",
+  "mumbai-building-collapse-why-families-stay-in-unsafe-buildin": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "building collapse|collapse|collapse|collapse|fear|killed|killed",
+    "norm": 82.4
+  },
+  "bhiwandi-building-collapse-death-toll-rises-to-six-as-ndrf-c": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "building collapse|collapse|collapse|collapse|death|rescue|rescue|toll",
+    "norm": 79.9
+  },
+  "-govt-heard-govt-actioned-govt-delivered-raghav-chadha-break": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "minister|mp|neet|protest|protest",
+    "norm": 76.8
+  },
+  "case-against-meta-india-head-social-media-accounts-over-pm-m": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "modi|modi|protest|protest|video",
+    "norm": 74
+  },
+  "meta-india-chief-insta-accounts-named-in-hyderabad-police-ca": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "modi|modi|protest|protest",
+    "norm": 71.4
+  },
+  "academics-slam-priyanka-gandhi-s-gaumutra-expert-jibe-aimed-": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "ipl|mp|slam|threat",
+    "norm": 71
+  },
+  "bjp-blames-aap-govt-in-punjab-for-worsening-drugs-menace-": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "aap|bjp|devastat|protest|protest",
+    "norm": 70.4
+  },
+  "-didn-t-want-headlines-wanted-solutions-raghav-chadha-on-why": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "bill|exam|mp|neet|rajya sabha",
+    "norm": 67
+  },
+  "shehzad-poonawalla-resigns-from-bjp-cites-personal-reasons-s": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "bjp|minister|modi|modi|prime minister",
+    "norm": 64.6
+  },
+  "-huge-question-mark-on-judiciary-cjp-s-abhijeet-dipke-on-sc-": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "protest|protest|supreme court",
+    "norm": 62.8
+  },
+  "india-news-live-updates-31-july-2026-bjp-plans-protest-at-ka": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "bjp|protest|protest",
+    "norm": 62.8
+  },
+  "seeking-job-in-us-trump-weighs-100-000-work-permit-fee-from-": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "mp|policy|trump|trump",
+    "norm": 61.8
+  },
+  "mileage-may-drop-6-bs-iii-rubber-parts-at-risk-how-e20-petro": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "petrol|petrol",
     "norm": 55.4
   },
-  "india-s-medical-regulator-seeks-inquiry-into-bihar-mbbs-exam": {
-    "firstSeen": "2026-07-31T00:12:59.176Z",
-    "signature": "exam",
-    "norm": 46.3
+  "shillong-teer-result-today-july-31-2026-check-winning-number": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "khan|result",
+    "norm": 53.9
   },
-  "officials-emphasise-sustainable-public-transport-solutions-t": {
-    "firstSeen": "2026-07-31T00:12:59.176Z",
-    "signature": "mp",
+  "parliament-monsoon-session-2026-day-10-live-bill-to-increase": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "bill|lok sabha|parliament|supreme court",
+    "norm": 52.1
+  },
+  "pune-auto-rides-to-get-costlier-rto-approves-fare-hike-propo": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "fuel",
     "norm": 45.9
   },
-  "now-gen-alpha-bihar-school-students-march-4-km-over-lack-of-": {
-    "firstSeen": "2026-07-31T00:12:59.176Z",
+  "cwg-2026-india-s-medal-tally-complete-list-of-winners-and-ta": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "sir-despite-100-distribution-claim-voters-in-kodagu-bengalur": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "vote",
+    "norm": 44
+  },
+  "state-level-carrom-tournament-in-nellore-from-july-31": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-judge-in-her-own-cause-karnataka-hc-castigates-judicial-off": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "can-the-bank-of-japan-reinforce-the-japanese-yen-s-intervent": {
+    "firstSeen": "2026-07-31T04:33:38.188Z",
     "signature": "",
     "norm": 33.9
   }
