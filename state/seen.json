@@ -1,157 +1,302 @@
 {
-  "india-news-live-updates-1-august-2026-kulgam-terror-attack-c": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "attack|attack|lakh|terror|terror",
-    "norm": 77.5
+  "flood-fury-across-india-assam-death-toll-rises-to-82-kerala-": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "alert|death|flood|flood|floods|fury|fury|heavy rain|toll",
+    "norm": 81.5
   },
-  "kerala-heavy-rains-live-four-killed-in-landslips-as-heavy-ra": {
-    "firstSeen": "2026-08-01T10:07:49.752Z",
-    "signature": "alert|flood|flood|floods|heavy rain|killed|killed|red alert",
-    "norm": 73
+  "us-embassies-in-middle-east-warn-americans-as-trump-weighs-f": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "iran|mp|trump|trump|war",
+    "norm": 79.1
   },
-  "only-modi-can-make-india-the-world-s-number-one-nation-by-20": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "modi|modi|protest|protest",
+  "ram-mandir-donation-skit-at-parliament-mps-rahul-gandhi-papp": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "mp|outrage|parliament|rahul gandhi|ram mandir",
+    "norm": 73.6
+  },
+  "safe-return-of-sikhs-from-iran-reflects-commitment-to-all-ci": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "bjp|iran|rescue|rescue",
     "norm": 72.9
   },
-  "jakob-butturff-cause-of-death-update-what-is-known-as-the-pr": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "death|died|fan|shock|shock|star",
-    "norm": 70.9
+  "india-china-trade-through-shipli-la-resumes-after-six-years": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "china|ipl|minister|war",
+    "norm": 71.6
   },
-  "aisa-president-neha-calls-for-focus-on-police-accountability": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "mp|president|protest|protest|row",
-    "norm": 70.4
+  "naidu-and-pawan-rally-behind-modi-leadership": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "modi|modi|rally|rally",
+    "norm": 69.6
   },
-  "explained-what-changes-after-india-s-tougher-anti-paper-leak": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "exam|fraud|mp",
-    "norm": 66
-  },
-  "amit-shah-presents-lokmanya-tilak-award-to-nsa-ajit-doval-ca": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "amit shah|fear|minister|war",
-    "norm": 65
-  },
-  "delhi-cm-launches-lakshmi-yojna-portal": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "budget|crore|mp|star",
-    "norm": 64.6
-  },
-  "burglars-break-into-chandanagar-jewellery-store-removing-exh": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "fan|gold|mp",
+  "karnataka-chief-minister-d-k-shivakumar-faces-political-test": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "chief minister|ipl|minister",
     "norm": 64.2
   },
-  "kabini-inflow-rises-to-15-500-cusecs-thanks-to-rain-in-keral": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "alert|flood|flood|record",
-    "norm": 63.6
-  },
-  "pm-modi-dedicates-bhogapuram-greenfield-airport-to-the-natio": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "minister|modi|modi|prime minister",
+  "on-kore-s-79th-birthday-leaders-hail-his-contribution-to-nor": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "chief minister|minister|parliament|war",
     "norm": 63.5
   },
-  "uttarakhand-cm-approves-227-crore-for-haridwar-kumbh-works-r": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "crore|khan|war",
+  "elections-to-district-planning-committees-in-kerala-from-aug": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "election|election|election commission|poll",
+    "norm": 63.5
+  },
+  "kerala-floods-2026-pathanamthitta-reels-under-floods-as-torr": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "flood|flood|floods",
     "norm": 62.5
   },
-  "-they-called-her-manhoos-family-alleges-mental-physical-hara": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "death|khan|video",
-    "norm": 59.7
-  },
-  "-not-met-a-single-parent-or-student-rahul-slams-pm-over-forg": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "slam|slams|video",
-    "norm": 57.9
-  },
-  "nepal-mountaineer-nirmal-nims-purja-confirmed-dead-in-avalan": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
+  "police-constable-found-dead-at-his-house-in-st-thomas-mount": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
     "signature": "dead|dead",
-    "norm": 57.6
+    "norm": 62.1
   },
-  "heavy-rain-in-malnad-region-of-karnataka-rivers-in-spate": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "heavy rain|mp",
+  "upi-transactions-reach-record-high-of-rs-29-9-lakh-crore-in-": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "crore|lakh|record|record high",
+    "norm": 61.4
+  },
+  "spain-races-to-secure-ceuta-border-with-floating-barrier-aft": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "border|death",
+    "norm": 60
+  },
+  "bhiwani-boxers-preeti-pawar-jasmine-lamboria-win-cwg-golds": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "gold|war",
+    "norm": 59.3
+  },
+  "sir-poses-special-challenges-for-the-most-backward-nomadic-c": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "vote|war",
     "norm": 57.1
   },
-  "from-kovilpatti-to-the-commonwealth-podium-raja-muthupandi-s": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "match|mp",
+  "arrested-jaish-operative-planned-to-target-bengal-cm-suvendu": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "protest|protest",
     "norm": 57.1
   },
-  "dehradun-teacher-dowry-death-case-srishti-kandari-s-husband-": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "death|khan",
-    "norm": 53.9
+  "tripura-ed-attaches-rs-1-05-crore-assets-in-ipl-betting-case": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "crore|ipl",
+    "norm": 57.1
   },
-  "activist-tehseen-poonawalla-alleges-house-arrest-ahead-of-ma": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "fuel|policy",
-    "norm": 53.2
+  "operation-muskan-rescues-664-children-across-cyberabad-in-ju": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "rescue|rescue",
+    "norm": 57.1
   },
-  "army-bids-final-farewell-to-gen-sharma-with-full-military-ho": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "army|sharma",
-    "norm": 51.7
+  "tripura-s-ashmita-dey-wins-india-s-first-commonwealth-judo-g": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "gold|watch",
+    "norm": 54.2
   },
-  "varanasi-police-book-mps-rahul-gandhi-pappu-yadav-and-awades": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "mp|rahul gandhi",
+  "pellet-gun-usage-major-incidents-that-shaped-the-crowd-contr": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "crowd|row",
+    "norm": 54.2
+  },
+  "thousands-protest-encounter-killing": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "ramayana-trailer-clocks-record-breaking-views": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "record|trailer",
+    "norm": 53.5
+  },
+  "india-china-border-trade-resumes-through-shipki-la-after-six": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "border|china",
+    "norm": 53.5
+  },
+  "vaping-may-be-creating-the-next-wave-of-lung-cancer-oncologi": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "anger",
+    "norm": 51.2
+  },
+  "dsp-yellamma-first-look-tomorrow-": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "row",
+    "norm": 51.2
+  },
+  "samudra-manthan-explained-how-india-offshore-oil-gas-explora": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "anger",
+    "norm": 51.2
+  },
+  "tribal-documentation-camp-to-be-held-in-kerala-s-nilambur-on": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "mla|mp",
     "norm": 50.5
   },
-  "raids-on-jewellery-establishments-in-kerala-unearth-tax-supp": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "crore|tax",
-    "norm": 50.5
+  "signature-campaign-against-yettinahole-project-launched": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "mp",
+    "norm": 49
   },
-  "centre-releases-2-597-crore-to-kerala-as-additional-instalme": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "crore|tax",
-    "norm": 48.7
+  "telangana-tourism-launches-one-day-package-covering-chilkur-": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "mp",
+    "norm": 49
   },
-  "party-posts-for-leaders-who-joined-tvk-from-other-parties-so": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "minister|mp",
-    "norm": 48.7
-  },
-  "shivamogga-tumakuru-highway-widening-work-to-be-completed-by": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "minister|mp",
-    "norm": 48.7
-  },
-  "rahane-the-silent-guardian-of-indian-cricket-whose-numbers-u": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "cricket",
+  "rajasthan-guv-calls-for-practical-education-advocates-copy-f": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "exam",
     "norm": 48.2
   },
-  "tgrera-extends-real-estate-project-completion-timelines-by-f": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
+  "iran-reiterates-offer-to-mediate-af-pak-conflict": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "iran",
+    "norm": 48.2
+  },
+  "salman-khan-authenticity-connects-to-gen-z-duo-behind-bhai-k": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "actor|khan",
+    "norm": 48.2
+  },
+  "nhai-rolls-out-barrier-free-tolling-on-delhi-jaipur-highway": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "toll",
+    "norm": 48.2
+  },
+  "free-ayurveda-camp-for-seasonal-ailments-today": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "supreme-court-collegium-s-unexplained-recommendations-risk-b": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
-    "signature": "supreme court",
-    "norm": 44
+  "pakistan-military-led-population-initiative-undermines-state": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "pakistan",
+    "norm": 45.9
   },
-  "thiruvananthapuram-city-to-host-freedom-at-midnight-women-on": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
+  "this-vintage-rolex-is-considered-the-perfect-watch": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "watch",
+    "norm": 45.9
+  },
+  "-under-no-circumstances-can-patna-ssp-be-allowed-to-subvert-": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "poll",
+    "norm": 45.9
+  },
+  "spdcl-handles-record-power-load-energy-demand-in-july": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "record",
+    "norm": 45.9
+  },
+  "mesmerised-by-the-musafir-cafe-learn-about-the-real-location": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "film",
+    "norm": 44.3
+  },
+  "nirmal-purja-evening-news-wrap-nepali-mountaineer-nirmal-pur": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "collector-demands-swift-action-to-address-poor-sanitation-in": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "virgo-weekly-horoscope-august-02-to-august-08-2026-week-offe": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "in-pics-bhogapuram-airport-launch": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "sam-altman-chatgpt-idea-for-school-runs-sparks-parenting-deb": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "from-erra-bu-to-airbus-how-nda-trolled-jagan-": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "mulank-8-career-forecast-4-high-success-fields-where-saturn-": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "visakhapatnam-celebrates-new-airport-inauguration": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "kerala-cpi-m-leader-jaleel-accuses-sadikali-thangal-of-misle": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "govt-pulls-up-departments-over-slow-ridf-projects-patna-news": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "3-women-held-with-liquor-on-train-at-buxar": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "attorney-general-urges-universities-to-remain-centres-of-tru": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
     "signature": "",
     "norm": 36
   },
-  "foreign-citizen-cannot-be-deported-unless-home-country-confi": {
-    "firstSeen": "2026-08-01T10:07:49.752Z",
+  "yogesh-gupta-appointed-bevco-md-in-kerala": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "education-qualification-of-tehseen-poonawalla-from-mit-pune-": {
-    "firstSeen": "2026-08-01T12:09:27.689Z",
+  "cab-driver-held-for-issuing-forged-2-bhk-allotment-orders": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
+  },
+  "not-just-peddlers-drug-abusers-will-face-legal-action-kalabu": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 36
+  },
+  "special-train-services-between-tirupati-mantralayam-road-for": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 36
+  },
+  "court-frames-charges-against-accused-in-the-2011-mother-daug": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 36
+  },
+  "sapta-tandavam-brings-shiva-s-cosmic-dance-alive-through-kuc": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 36
+  },
+  "nathula-trade-resumes-after-six-years-traders-expect-activit": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 36
+  },
+  "allu-arjun-to-open-aaa-vizag-on-august-9-": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 36
+  },
+  "bihar-govt-plans-backup-plan-after-august-10-if-rain-fails-p": {
+    "firstSeen": "2026-08-01T14:39:24.741Z",
+    "signature": "",
+    "norm": 36
   }
 }
