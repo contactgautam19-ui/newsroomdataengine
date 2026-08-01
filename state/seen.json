@@ -1,86 +1,186 @@
 {
-  "the-hopes-of-two-families-are-dashed-as-terror-attack-leaves": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "attack|attack|chief minister|dead|dead|killed|killed|lakh|minister|terror|terror",
-    "norm": 95.5
+  "from-2000-to-2026-migrant-workers-in-kashmir-remain-in-terro": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "attack|attack|fear|terror|terror",
+    "norm": 70.5
   },
-  "call-grows-louder-for-new-water-tank-at-thammanam-in-kochi": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "collapse|collapse|collapse|crore|mp|row",
-    "norm": 85.7
+  "iran-names-energy-targets-in-retaliation-threat": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "iran|threat",
+    "norm": 60.4
   },
-  "heavy-rain-batters-kerala-s-kannur-two-missing-26-shifted-to": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "flood|flood|heavy rain|mp",
-    "norm": 67.9
+  "bjp-all-prepared-for-panchayat-and-local-body-elections-in-r": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "bjp|election|election",
+    "norm": 59.7
   },
-  "israeli-strikes-kill-four-across-gaza-destroy-medical-supply": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "israel|mp|war",
-    "norm": 66
+  "cwg-2026-pm-modi-praises-indian-boxing-para-athletics-winner": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "modi|modi",
+    "norm": 58.3
   },
-  "no-evidence-of-evm-tampering-says-poll-official-on-fourth-da": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "election|election|mp|poll",
-    "norm": 61.8
+  "pm-modi-launches-kannada-translations-of-valmiki-ramayana-an": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "modi|modi",
+    "norm": 58.3
   },
-  "trawling-ban-end-fails-to-cheer-fishers-as-adverse-weather-s": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "war|weather",
-    "norm": 59.3
-  },
-  "health-minister-inaugurates-development-projects-at-ernakula": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "hospital|minister",
+  "j-k-speeds-up-fra-implementation-warns-forest-dept-against-e": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "mp|war",
     "norm": 57.1
   },
-  "incessant-downpour-disrupts-life-in-kerala-s-kozhikode": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "evacuat|mp",
-    "norm": 57.1
+  "bjp-hits-back-at-rahul-gandhi-over-redistricting-comments": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "bjp|rahul gandhi",
+    "norm": 51.7
   },
-  "neet-ug-counselling-to-begin-on-august-4-academic-session-fr": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
+  "priya-ghanghas-wins-cwg-2026-boxing-gold-celebrates-with-jal": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "gold",
+    "norm": 49.4
+  },
+  "more-choices-for-test-centres-among-key-changes-for-neet-pg-": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
     "signature": "neet",
+    "norm": 49.4
+  },
+  "india-wins-7-gold-at-cwg-2026-boxing-best-ever": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "gold",
+    "norm": 49.4
+  },
+  "crpf-group-centre-neemuch-marks-59th-raising-day-with-patrio": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "riot",
+    "norm": 49.4
+  },
+  "sachin-siwach-wins-gold-at-cwg-2026-eyes-asian-games": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "gold",
+    "norm": 49.4
+  },
+  "jaismine-lamboria-wins-historic-cwg-2026-gold-medal": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "gold",
+    "norm": 49.4
+  },
+  "prashant-kishor-alleges-police-bias-in-bankipur-assembly-byp": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "mp|poll",
+    "norm": 48.7
+  },
+  "shipki-la-border-trade-resumes-after-6-7-years": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "border",
+    "norm": 47.1
+  },
+  "-chaddi-baniyan-gang-returns-to-bhopal-steals-4-lakh-from-sc": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "lakh",
+    "norm": 47.1
+  },
+  "cwg-2026-preeti-jaismine-sakshi-sachin-win-as-india-rule-box": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "gold",
     "norm": 46.3
   },
-  "uas-b-introduces-low-cost-technology-to-farmers-to-produce-b": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
+  "gujarat-ahmedabad-civic-body-suspends-sale-of-over-1-700-kg-": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "lakh",
+    "norm": 44
+  },
+  "-he-can-definitely-win-an-olympic-medal-says-selva-prabhu-fa": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
     "signature": "mp",
     "norm": 44
   },
-  "protection-for-certain-royal-estates-from-succession-law-sti": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "high court",
+  "bjp-leader-pranesh-resigns-as-karnataka-mlc-council-vice-cha": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "bjp",
     "norm": 44
   },
-  "amrutanjan-pays-rental-arrears-on-temple-property": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "mp",
-    "norm": 44
+  "rajasthan-cm-launches-drone-seeding-process-calls-for-mass-m": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "drone",
+    "norm": 40.7
   },
-  "dhimsa-jamboree-highlights-tribal-heritage-of-a-p-at-bhogapu": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "record",
-    "norm": 42.7
+  "bhopal-1-018-notices-for-illegal-commercial-units": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
   },
-  "dmk-to-boycott-verification-of-evms-in-kolathur-alleging-lap": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
+  "lovlina-borgohain-wins-cwg-2026-silver-in-boxing": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "ahmedabad-suspends-sale-of-1-768-kg-substandard-ghee": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "junior-officers-get-large-districts-seniors-posted-to-small-": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "us-intensifies-russia-ukraine-peace-push-rubio": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "tripura-cm-agmc-to-become-top-medical-hub-in-northeast": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "telangana-relieves-hyderabad-cyber-crime-dcp-after-firs-agai": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "could-hardik-pandya-leave-mi-csk-among-franchises-monitoring": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "gulveer-singh-wins-historic-cwg-2026-5000m-bronze": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "anjuna-ndps-case-odisha-native-sent-to-14-day-judicial-custo": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "murmu-praises-india-historic-boxing-judo-wins-at-cwg-2026": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "legendary-mountaineer-nimsdai-purja-dies-in-broad-peak-avala": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "eggs-twice-a-week-for-students-in-kolkata-schools-says-benga": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
+    "signature": "",
+    "norm": 36
+  },
+  "cwg-2026-gulveer-makes-history-by-adding-5000m-bronze-to-10-": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
     "signature": "",
     "norm": 33.9
   },
-  "annamalai-requests-the-closure-of-129-tasmac-retail-shops": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
+  "cwg-2026-lovlina-joins-elite-group-of-indian-boxers-by-winni": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
     "signature": "",
     "norm": 33.9
   },
-  "prashant-m-wadnere-posted-as-water-resources-secretary": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "s-n-n-sankaralinga-iyer-s-biography-released-in-city": {
-    "firstSeen": "2026-08-01T20:14:13.727Z",
+  "bmc-issues-1-018-notices-against-illegal-commercial-units-in": {
+    "firstSeen": "2026-08-01T22:06:50.187Z",
     "signature": "",
     "norm": 33.9
   }
