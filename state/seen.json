@@ -2,26 +2,301 @@
   "1-35-lakh-affected-still-affected-by-floods-in-assam-3-more-": {
     "firstSeen": "2026-08-02T20:15:46.505Z",
     "signature": "death|flood|flood|floods|lakh|toll",
-    "norm": 80.2
+    "norm": 76.4
+  },
+  "-respects-sovereignty-of-both-iran-says-close-to-hormuz-deal": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "deal|iran|mp|outbreak|war",
+    "norm": 75.2
+  },
+  "locked-loaded-and-put-on-hold-another-bewildering-trump-pivo": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "deal|ipl|iran|mp|president|threat|trump|trump",
+    "norm": 75.1
+  },
+  "parliament-set-for-stormy-week-govt-eyes-key-bills-as-opposi": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "amit shah|bill|mp|opposition|parliament|protest|protest|row|storm",
+    "norm": 75
+  },
+  "dmk-slams-congress-for-trading-trust-for-berths-": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "anger|betray|bill|bjp|congress|lok sabha|minister|mp|rahul gandhi|slam|slams",
+    "norm": 74.2
+  },
+  "13-killed-in-suicide-blast-during-peace-rally-in-pak-s-khybe": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "blast|killed|killed|pakistan|rally|rally",
+    "norm": 71.6
+  },
+  "-been-receiving-threats-pappu-yadav-to-ndtv-after-shoe-attac": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "attack|attack|lakh|parliament|threat|war",
+    "norm": 69.1
+  },
+  "fir-lodged-against-jharkhand-man-for-threatening-to-kill-pm-": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "khan|modi|modi|mp|threat",
+    "norm": 67.9
+  },
+  "after-terror-attacks-farooq-abdullah-seeks-j-k-statehood-ill": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "attack|attack|bjp|terror|terror",
+    "norm": 67.2
+  },
+  "students-continue-protests-in-ranchi-over-alleged-jpsc-jssc-": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "exam|protest|protest|recruitment",
+    "norm": 65.9
+  },
+  "monsoon-session-congress-set-to-stall-house-over-ram-temple-": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "congress|mp|scam",
+    "norm": 61.4
+  },
+  "-cjp-stands-with-all-students-dipke-backs-jharkhand-students": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "exam|khan|protest|protest",
+    "norm": 61
+  },
+  "-mockery-of-sanatan-culture-bjp-seeks-case-against-rahul-gan": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "ayodhya|bjp|mp|opposition|parliament|rahul gandhi|war",
+    "norm": 60.9
+  },
+  "8-killed-8-missing-13-injured-as-kerala-rains-trigger-landsl": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "alert|flood|flood|injured|killed|killed|landslide",
+    "norm": 60.1
   },
   "slipper-hurled-at-mp-pappu-yadav-opposition-slams-police": {
     "firstSeen": "2026-08-02T20:15:46.505Z",
     "signature": "mp|opposition|slam|slams",
-    "norm": 65
+    "norm": 59.5
+  },
+  "2-killed-after-helicopters-collide-mid-air-while-battling-gr": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "fire|fire|killed|killed",
+    "norm": 59.2
+  },
+  "protests-intensify-in-ranchi-as-jpsc-aspirants-demand-exam-c": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "exam|iran|protest|protest",
+    "norm": 59.2
+  },
+  "petrol-diesel-sales-in-india-rise-by-up-to-10-year-on-year-i": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "diesel|mp|petrol|petrol",
+    "norm": 58.9
+  },
+  "bankipur-bypoll-results-prashant-kishor-s-first-big-politica": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "bjp|poll|result|results|results",
+    "norm": 58.3
+  },
+  "up-husband-beats-wife-to-death-with-stick-runs-car-over-body": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "death|killed|killed|lakh",
+    "norm": 58.2
+  },
+  "iit-guwahati-student-dies-in-brahmaputra-drowning-another-re": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "disaster|drown|rescue|rescue|row",
+    "norm": 58.1
+  },
+  "hunger-strike-against-laterite-quarry-in-kannur-suspended-af": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "mp|protest|protest|threat",
+    "norm": 57.1
   },
   "sc-warns-punjab-for-ignoring-15-yr-old-ruling-on-dues-to-him": {
     "firstSeen": "2026-08-02T20:15:46.505Z",
     "signature": "mp|ruling|supreme court|war",
-    "norm": 61.8
+    "norm": 56.3
   },
   "m-k-sanoo-never-saw-continuous-ldf-rule-as-dangerous-says-pi": {
     "firstSeen": "2026-08-02T20:15:46.505Z",
     "signature": "anger|opposition|president",
-    "norm": 59.7
+    "norm": 54.1
+  },
+  "day-before-bypoll-result-congress-suspends-ex-datia-mla-raje": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "bjp|congress|mla|mp|poll|result",
+    "norm": 54
+  },
+  "how-china-s-surveillance-network-follows-foreigners-into-the": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "bill|billion|china|record",
+    "norm": 53.8
+  },
+  "no-case-against-minor-accused-of-abusing-pm-modi-delhi-polic": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "fan|modi|modi",
+    "norm": 53
+  },
+  "-won-t-tolerate-insult-to-lord-ram-man-held-after-scuffle-at": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "attack|attack|mp",
+    "norm": 52.7
+  },
+  "karnataka-cabinet-expansion-most-likely-on-august-3": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "cabinet|election|election|mp",
+    "norm": 52.3
+  },
+  "bmc-to-monitor-illegal-waste-dumping-through-cctv-surveillan": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "cctv|mp",
+    "norm": 52
+  },
+  "tvk-amp-congress-not-on-same-page-on-cauvery": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "congress|mp",
+    "norm": 50.5
+  },
+  "former-bjp-mp-rebati-tripura-steps-back-from-politics-return": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "bjp|mp|row",
+    "norm": 50
+  },
+  "3-states-3-bypolls-all-eyes-on-pk-ashutosh-tiwari-as-bankipu": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "poll|verdict|war",
+    "norm": 50
+  },
+  "dalal-street-week-ahead-rbi-policy-q1-earnings-fii-flow-geop": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "policy|price|prices|rbi",
+    "norm": 50
+  },
+  "strong-health-systems-for-all-with-better-public-spending": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "budget|war",
+    "norm": 45.4
+  },
+  "sodium-nitrate-suicide-note-pune-family-of-3-dies-over-finan": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "died|mp",
+    "norm": 45.4
+  },
+  "iran-oman-close-to-deal-on-new-strait-of-hormuz-shipping-rou": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "deal|iran",
+    "norm": 45.4
+  },
+  "delhi-sees-humid-weather-maximum-temperature-1-3-degrees-abo": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "mp|weather",
+    "norm": 41
+  },
+  "watch-firefighting-helicopters-collide-mid-air-as-greece-bat": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "fire|fire|watch",
+    "norm": 41
+  },
+  "analysing-the-supreme-court-s-judgment-on-sex-work": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "mp|supreme court",
+    "norm": 38
+  },
+  "taslima-nasreen-pushes-for-ucc-implementation-in-india-much-": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "mp|pakistan",
+    "norm": 38
+  },
+  "jiotag-2-unveiled-in-india-with-find-my-and-find-hub-compati": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "heavy-silt-in-pazhassi-dam-disrupts-drinking-water-treatment": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "rbi",
+    "norm": 32.8
+  },
+  "stand-up-comedian-kunal-kamra-shifts-shows-amid-opposition-f": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "opposition",
+    "norm": 32.8
+  },
+  "forced-placement-of-vibrating-device-on-vagina-is-penetrativ": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "high court",
+    "norm": 32.8
+  },
+  "-spider-man-brand-new-day-scores-second-biggest-box-office-o": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "box office",
+    "norm": 31
+  },
+  "sheikh-hasina-to-make-first-public-appearance-two-years-afte": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "ipl",
+    "norm": 30.7
+  },
+  "tvk-vs-opposition-in-tamil-nadu-over-cauvery-dispute-1st-maj": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "opposition",
+    "norm": 27.8
   },
   "sun-pharma-withdraws-11-eye-medicines": {
     "firstSeen": "2026-08-02T20:15:46.505Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 26.7
+  },
+  "keep-visiting-kolkata-your-safety-is-my-responsibility-west-": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "eluru-collector-urges-citizens-to-share-feedback-on-pgrs-ser": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "is-the-dyson-v15-detect-still-worth-buying-over-a-shark-i-ve": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "cauvery-water-from-kabini-to-reach-tamil-nadu-soon": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "the-state-against-its-students-lessons-to-remember": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "bengaluru-s-civic-woes": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "skills-not-degrees-will-shape-future-says-apsche-chairman-at": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "bhagwant-mann-inaugurates-two-new-schools-of-eminence-in-lud": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "39-medals-top-five-finish-india-ends-cwg-2026-with-several-h": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "how-agent-47-turned-european-teenagers-into-real-life-assass": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "india-s-deep-sea-bet-centre-s-samudra-manthan-to-churn-crude": {
+    "firstSeen": "2026-08-02T22:05:46.194Z",
+    "signature": "",
+    "norm": 15.1
   }
 }
