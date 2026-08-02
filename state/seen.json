@@ -1,116 +1,166 @@
 {
-  "smriti-irani-targets-congress-jmm-over-jharkhand-paper-leak-": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "congress|iran|khan|mp|outrage|protest|protest",
-    "norm": 87.8
+  "assam-floods-82-dead-1-78-lakh-affected-as-relief-efforts-in": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "dead|dead|flood|flood|floods|lakh",
+    "norm": 78.7
   },
-  "kerala-heavy-rains-live-eight-dead-13-injured-8-missing-foll": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "chief minister|dead|dead|heavy rain|injured|minister|mp",
-    "norm": 79.3
+  "kerala-floods-2026-clean-up-begins-in-kottayam-as-rain-fury-": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "flood|flood|floods|fury|fury",
+    "norm": 74.9
   },
-  "census-2027-self-enumeration-begins-in-assam-suspended-in-tw": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "crore|flood|flood|mp|record",
-    "norm": 74.6
+  "kerala-floods-2026-two-taluks-in-idukki-record-over-200-mm-r": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "flood|flood|floods|mp|record",
+    "norm": 73.3
   },
-  "rain-fury-157-families-shifted-to-26-relief-camps-in-kozhiko": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "disaster|fury|fury|mp",
-    "norm": 71
+  "-attempt-to-kill-me-pappu-yadav-attacked-after-scuffle-break": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "attack|attack|mp|video",
+    "norm": 72.9
   },
-  "ngt-impleads-hpcl-fuel-outlet-dealer-in-kovilambakkam-ground": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "deal|fuel|mp|petrol|petrol",
+  "flood-warnings-withdrawn-as-godavari-recedes-at-bhadrachalam": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "flood|flood|war|warning",
     "norm": 70
   },
-  "kerala-floods-2026-kasaragod-district-on-high-alert-for-two-": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "alert|flood|flood|floods|mp",
-    "norm": 68.9
+  "up-man-beats-wife-to-death-runs-car-over-her-to-claim-rs-44-": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "death|lakh|mp",
+    "norm": 63.9
   },
-  "youtube-terminates-delhi-slum-dweller-s-page-following-overn": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "fan|mp|protest|protest",
-    "norm": 68
+  "two-helicopters-collide-as-greece-battles-wildfires-hungary-": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "fire|fire|mp",
+    "norm": 62.8
   },
-  "pak-isi-eyeing-india-s-hinterland-jem-s-bengal-honey-trap-mo": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 67.6
+  "ysrcp-slams-arrest-of-alur-mla-virupakshi-alleges-police-hig": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "mla|slam|slams",
+    "norm": 60.8
   },
-  "gen-z-is-the-first-constituency-defined-by-mindset-not-ident": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "anger|exam|opposition",
-    "norm": 67.6
+  "-job-loss-financial-stress-pune-family-of-3-dies-by-suicide-": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "died|mp|tragic",
+    "norm": 60.8
   },
-  "lt-governor-urges-students-to-become-watchdogs-of-campuses-i": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "emotional|governor|mp|watch",
-    "norm": 65.3
+  "-threw-slipper-carried-a-knife-what-we-know-about-the-attack": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "attack|attack",
+    "norm": 59.3
   },
-  "-ready-to-face-death-pappu-yadav-unfazed-by-fir-over-ram-tem": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "death|mp|opposition|parliament",
-    "norm": 63.5
+  "bhatti-invites-global-investors-to-be-part-of-telangana-s-gr": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "investor|row",
+    "norm": 57.1
   },
-  "72-dead-as-record-60-000-migrants-surge-into-spain-s-ceuta": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "dead|dead|record",
-    "norm": 63.2
+  "action-plan-to-expand-organ-transplant-services-in-govt-teac": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "hospital|minister",
+    "norm": 57.1
   },
-  "drugs-free-youth-crucial-for-developed-india-says-pm-modi-la": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "minister|modi|modi|mp|prime minister",
-    "norm": 62.9
+  "elon-musk-s-net-worth-down-by-600-billion-he-s-still-richer-": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "bill|billion",
+    "norm": 53.2
   },
-  "india-launches-100-week-anti-drug-campaign-a-look-at-5-simil": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "modi|modi|mp",
-    "norm": 59.7
+  "big-karnataka-cabinet-shake-up-expansion-likely-on-july-4-af": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "cabinet|congress|minister",
+    "norm": 52.7
   },
-  "mountaineer-nirmal-purja-s-body-recovered-days-after-avalanc": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "killed|killed",
-    "norm": 57.6
+  "-vijay-is-a-courageous-leader-dks-after-tn-cm-agrees-to-defe": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "sodium-nitrate-suicide-note-pune-family-of-3-die-over-financ": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "died|mp",
-    "norm": 55.4
-  },
-  "california-vineyards-use-owl-boxes-to-cut-rodents-by-up-to-5": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
+  "150-metre-flag-rally-held-in-visakhapatnam-to-mark-pingali-v": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
     "signature": "rally|rally",
-    "norm": 50.2
+    "norm": 52
   },
-  "kerala-high-court-allows-last-chance-to-local-bodies-to-clea": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "high court",
+  "is-there-a-genetic-silver-spoon-what-your-genes-can-and-can-": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "actor|mp",
+    "norm": 51.7
+  },
+  "minister-announces-special-package-for-tribespeople-in-keral": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "minister|mla",
+    "norm": 50.5
+  },
+  "one-more-held-in-alleged-murder-case-in-kozhikode": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "death",
+    "norm": 48.2
+  },
+  "search-for-livelihood-ends-in-tragedy-as-tirthahalli-landsli": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "tragedy",
+    "norm": 46.3
+  },
+  "do-not-become-complacent-as-present-rains-are-temporary-bomm": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "-don-t-befriend-kafirs-pak-general-spews-religious-hate-targ": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "pakistan",
-    "norm": 44
+  "plantation-corporation-s-continued-possession-of-over-3-900-": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "-in-map-of-india-our-north-east-is-missing-medallist-lovlina": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "president",
-    "norm": 44
+  "-excel-shankar-film-launched-in-visakhapatnam": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "film",
+    "norm": 44.3
   },
-  "meghalaya-records-58-monsoon-rainfall-deficit-imd-raises-con": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
-    "signature": "record",
-    "norm": 42.7
-  },
-  "-want-sheikh-hasina-to-return-remove-ban-on-her-party-taslim": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
+  "book-on-milestones-in-telangana-s-history-launched-at-ata-co": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
     "signature": "",
     "norm": 36
   },
-  "digging-up-newly-tarred-roads-for-water-supply-works-kerala-": {
-    "firstSeen": "2026-08-02T12:11:55.125Z",
+  "kishan-reddy-pushes-for-indigenous-manufacturing-in-ev-secto": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "",
+    "norm": 36
+  },
+  "friendship-day-observed-with-tree-conservation-drive-in-visa": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "",
+    "norm": 36
+  },
+  "bda-site-allottees-criticise-dks-s-proposal-to-take-back-plo": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "",
+    "norm": 36
+  },
+  "green-forums-deny-portraying-farmers-as-mafia-": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "building-a-home-or-shop-in-rural-ladakh-new-land-use-rules-e": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "farm-pond-works-gain-momentum-in-telangana-over-4-300-sites-": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "monsoon-triggers-aquaplaning-concerns-on-kerala-s-nh-66": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "wisconsin-students-pay-500-rent-and-volunteer-with-older-res": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "up-woman-husband-strangle-lover-using-saree-bury-body-in-the": {
+    "firstSeen": "2026-08-02T14:42:01.666Z",
     "signature": "",
     "norm": 33.9
   }
