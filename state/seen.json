@@ -1,186 +1,31 @@
 {
-  "from-2000-to-2026-migrant-workers-in-kashmir-remain-in-terro": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "attack|attack|fear|terror|terror",
-    "norm": 70.5
+  "e20-aap-plans-pro-choice-rally-to-pm-residence": {
+    "firstSeen": "2026-08-02T00:07:23.381Z",
+    "signature": "aap|fuel|kejriwal|minister|petrol|petrol|price|prime minister|rally|rally",
+    "norm": 82.5
   },
-  "iran-names-energy-targets-in-retaliation-threat": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "iran|threat",
-    "norm": 60.4
+  "pawan-kalyan-gets-a-special-handshake-from-pm-modi": {
+    "firstSeen": "2026-08-02T00:07:23.381Z",
+    "signature": "chief minister|minister|modi|modi|prime minister",
+    "norm": 64.6
   },
-  "bjp-all-prepared-for-panchayat-and-local-body-elections-in-r": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "bjp|election|election",
-    "norm": 59.7
+  "cbi-files-epfo-cheating-case-against-anil-ambani": {
+    "firstSeen": "2026-08-02T00:07:23.381Z",
+    "signature": "ambani|crore|fund|mp",
+    "norm": 64.6
   },
-  "cwg-2026-pm-modi-praises-indian-boxing-para-athletics-winner": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "modi|modi",
-    "norm": 58.3
+  "bomb-blast-outside-moscow-restaurant-kills-3-injures-21": {
+    "firstSeen": "2026-08-02T00:07:23.381Z",
+    "signature": "blast|bomb",
+    "norm": 53.9
   },
-  "pm-modi-launches-kannada-translations-of-valmiki-ramayana-an": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "modi|modi",
-    "norm": 58.3
-  },
-  "j-k-speeds-up-fra-implementation-warns-forest-dept-against-e": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "mp|war",
-    "norm": 57.1
-  },
-  "bjp-hits-back-at-rahul-gandhi-over-redistricting-comments": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "bjp|rahul gandhi",
-    "norm": 51.7
-  },
-  "priya-ghanghas-wins-cwg-2026-boxing-gold-celebrates-with-jal": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "gold",
-    "norm": 49.4
-  },
-  "more-choices-for-test-centres-among-key-changes-for-neet-pg-": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "neet",
-    "norm": 49.4
-  },
-  "india-wins-7-gold-at-cwg-2026-boxing-best-ever": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "gold",
-    "norm": 49.4
-  },
-  "crpf-group-centre-neemuch-marks-59th-raising-day-with-patrio": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "riot",
-    "norm": 49.4
-  },
-  "sachin-siwach-wins-gold-at-cwg-2026-eyes-asian-games": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "gold",
-    "norm": 49.4
-  },
-  "jaismine-lamboria-wins-historic-cwg-2026-gold-medal": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "gold",
-    "norm": 49.4
-  },
-  "prashant-kishor-alleges-police-bias-in-bankipur-assembly-byp": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "mp|poll",
-    "norm": 48.7
-  },
-  "shipki-la-border-trade-resumes-after-6-7-years": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "border",
-    "norm": 47.1
-  },
-  "-chaddi-baniyan-gang-returns-to-bhopal-steals-4-lakh-from-sc": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "lakh",
-    "norm": 47.1
-  },
-  "cwg-2026-preeti-jaismine-sakshi-sachin-win-as-india-rule-box": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "gold",
-    "norm": 46.3
-  },
-  "gujarat-ahmedabad-civic-body-suspends-sale-of-over-1-700-kg-": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "lakh",
-    "norm": 44
-  },
-  "-he-can-definitely-win-an-olympic-medal-says-selva-prabhu-fa": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
+  "long-hours-hurting-resident-docs-mental-health-nmc-tells-sc": {
+    "firstSeen": "2026-08-02T00:07:23.381Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "bjp-leader-pranesh-resigns-as-karnataka-mlc-council-vice-cha": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "bjp",
-    "norm": 44
-  },
-  "rajasthan-cm-launches-drone-seeding-process-calls-for-mass-m": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "drone",
-    "norm": 40.7
-  },
-  "bhopal-1-018-notices-for-illegal-commercial-units": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "lovlina-borgohain-wins-cwg-2026-silver-in-boxing": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "ahmedabad-suspends-sale-of-1-768-kg-substandard-ghee": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "junior-officers-get-large-districts-seniors-posted-to-small-": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "us-intensifies-russia-ukraine-peace-push-rubio": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "tripura-cm-agmc-to-become-top-medical-hub-in-northeast": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "telangana-relieves-hyderabad-cyber-crime-dcp-after-firs-agai": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "could-hardik-pandya-leave-mi-csk-among-franchises-monitoring": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "gulveer-singh-wins-historic-cwg-2026-5000m-bronze": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "anjuna-ndps-case-odisha-native-sent-to-14-day-judicial-custo": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "murmu-praises-india-historic-boxing-judo-wins-at-cwg-2026": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "legendary-mountaineer-nimsdai-purja-dies-in-broad-peak-avala": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "eggs-twice-a-week-for-students-in-kolkata-schools-says-benga": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 36
-  },
-  "cwg-2026-gulveer-makes-history-by-adding-5000m-bronze-to-10-": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "cwg-2026-lovlina-joins-elite-group-of-indian-boxers-by-winni": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "bmc-issues-1-018-notices-against-illegal-commercial-units-in": {
-    "firstSeen": "2026-08-01T22:06:50.187Z",
+  "railway-board-panels-suggest-premature-retirement-of-5-offic": {
+    "firstSeen": "2026-08-02T00:07:23.381Z",
     "signature": "",
     "norm": 33.9
   }
