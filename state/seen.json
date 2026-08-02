@@ -1,97 +1,87 @@
 {
-  "govt-must-give-people-choice-between-pure-petrol-e-20-at-pet": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "kejriwal|mp|petrol|petrol|policy|war|warning",
-    "norm": 89.1
+  "kerala-heavy-rains-live-eight-dead-13-injured-8-missing-foll": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "chief minister|dead|dead|heavy rain|injured|minister|mp",
+    "norm": 80.8
   },
-  "trump-blames-minnesota-for-water-system-attack-calls-state-g": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "attack|attack|governor|iran|mp|president|trump|trump",
-    "norm": 87.3
+  "-drugs-part-of-enemy-nations-terror-plan-against-india-pm-mo": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "modi|modi|terror|terror",
+    "norm": 75.9
   },
-  "spain-installs-500-metre-long-sea-barrier-after-60-000-migra": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "died|drown|drowned|killed|killed|mp|row|stampede",
-    "norm": 81.9
+  "rain-fury-34-families-shifted-to-relief-camps-in-kozhikode": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "disaster|fury|fury|mp",
+    "norm": 72.6
   },
-  "they-went-to-j-k-from-chhattisgarh-to-earn-money-for-family-": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "killed|killed|mp|terror|terror",
-    "norm": 77.5
-  },
-  "-right-to-dissent-not-anarchy-smriti-irani-says-govt-respond": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "bjp|iran|neet|protest|protest",
-    "norm": 76.3
-  },
-  "kerala-braces-for-the-possibility-of-heavy-rains-on-august-2": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "alert|flood|flood|floods|heavy rain|war",
-    "norm": 73.7
-  },
-  "-thought-everything-was-over-got-a-second-life-noida-girl-ap": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "modi|modi|protest|protest",
-    "norm": 72.9
-  },
-  "arrested-terror-suspect-had-planned-to-infiltrate-cjp-protes": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "protest|protest|terror|terror",
-    "norm": 70
-  },
-  "second-godavari-flood-warning-in-force-releif-operation-in-f": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
+  "second-godavari-flood-warning-in-force-relief-operation-in-f": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
     "signature": "flood|flood|war|warning",
     "norm": 70
   },
-  "from-mere-pyare-deshvasiyon-to-hi-friends-pm-modi-s-message-": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "anger|modi|modi",
-    "norm": 66
+  "-don-t-think-iran-has-ever-faced-a-president-like-trump-rubi": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "iran|mp|president|trump|trump",
+    "norm": 67
   },
-  "-cops-busy-doing-business-not-maintaining-law-and-order-alla": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "ipl|slam|slams",
-    "norm": 64.5
+  "tamil-nadu-govt-to-withdraw-cases-registered-against-student": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "neet|protest|protest",
+    "norm": 64.9
   },
-  "-what-does-new-generation-know-pawan-kalyan-on-abuses-agains": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "modi|modi",
+  "pm-modi-launches-nasha-mukt-yuva-abhiyan-says-drug-free-yout": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "modi|modi|mp",
+    "norm": 61.4
+  },
+  "-substance-abuse-takes-youth-away-from-their-dreams-pm-modi-": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "modi|modi|mp",
+    "norm": 59.7
+  },
+  "eight-deaths-confirmed-in-rain-related-incidents-in-kerala-c": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "death|mp",
     "norm": 57.1
   },
-  "-rs-18cr-stolen-every-year-raj-thackeray-alleges-siddhivinay": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "mp|scam",
+  "taslima-nasrin-s-exile-to-homecoming-a-journalist-s-account-": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "fear|mp",
     "norm": 55.4
   },
-  "shillong-teer-result-today-august-2-2026-check-winning-numbe": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "khan|result",
-    "norm": 53.9
+  "technology-must-be-backed-by-process-reforms-epfo-ceo": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "fund|mp",
+    "norm": 55
   },
-  "dissent-is-fine-but-should-stay-within-constitutional-limits": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "hours-long-wait-vip-movement-leave-mahankali-bonalu-devotees": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "mp|vote",
+    "norm": 50.5
   },
-  "punjab-s-dalits-power-politics-with-the-purse": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "war",
-    "norm": 46.3
+  "odisha-govt-suspends-ifs-officer-over-involvement-in-forest-": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "death",
+    "norm": 48.2
   },
-  "-prepare-to-depart-us-advisory-for-its-citizens-in-mideast-a": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "israel",
-    "norm": 46.3
+  "two-year-old-dies-after-falling-into-water-logged-courtyard": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "hospital",
+    "norm": 48.2
   },
-  "eggs-vs-paneer-vs-whey-who-really-wins-india-s-protein-math-": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "crore",
+  "-amit-shah-greater-than-balasaheb-thackeray-for-you-sanjay-r": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "amit shah",
     "norm": 45.9
   },
-  "google-rolls-back-ai-image-generation-in-google-earth-over-p": {
-    "firstSeen": "2026-08-02T04:32:57.404Z",
-    "signature": "policy",
-    "norm": 44
+  "-farmers-more-important-than-politics-karnataka-cm-shivakuma": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "weaponising-extraordinary-laws-to-silence-dissent-congress-o": {
+    "firstSeen": "2026-08-02T07:39:14.634Z",
+    "signature": "congress",
+    "norm": 45.9
   }
 }
