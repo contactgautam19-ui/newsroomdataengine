@@ -1,87 +1,82 @@
 {
+  "friendship-day-celebrations-turn-tragic-as-two-youths-feared": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "crash|crash|drown|drowned|fear|mp|row|tragic",
+    "norm": 88.2
+  },
   "kerala-heavy-rains-live-eight-dead-13-injured-8-missing-foll": {
     "firstSeen": "2026-08-02T07:39:14.634Z",
     "signature": "chief minister|dead|dead|heavy rain|injured|minister|mp",
     "norm": 80.8
   },
-  "-drugs-part-of-enemy-nations-terror-plan-against-india-pm-mo": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "modi|modi|terror|terror",
-    "norm": 75.9
+  "iit-guwahati-student-drowns-in-brahmaputra-after-accidental-": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "accident|drown|mp|rescue|rescue|row",
+    "norm": 80.2
+  },
+  "-modi-govt-s-familiar-script-cong-decries-nsa-detention-of-a": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "iran|modi|modi|protest|protest",
+    "norm": 76.3
+  },
+  "-he-gave-jeevandaan-by-forgiving-her-mother-of-girl-who-abus": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "modi|modi|protest|protest",
+    "norm": 71.4
   },
   "rain-fury-34-families-shifted-to-relief-camps-in-kozhikode": {
     "firstSeen": "2026-08-02T07:39:14.634Z",
     "signature": "disaster|fury|fury|mp",
-    "norm": 72.6
+    "norm": 71
   },
-  "second-godavari-flood-warning-in-force-relief-operation-in-f": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "flood|flood|war|warning",
-    "norm": 70
+  "ernakulam-gets-relief-from-rain-scare-as-water-level-recedes": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "alert|flood|flood|mla|mp",
+    "norm": 70.4
   },
-  "-don-t-think-iran-has-ever-faced-a-president-like-trump-rubi": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "iran|mp|president|trump|trump",
-    "norm": 67
+  "5-dead-41-missing-after-ferry-catches-fire-off-indonesia-s-m": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "dead|dead|fire|fire",
+    "norm": 68.4
   },
-  "tamil-nadu-govt-to-withdraw-cases-registered-against-student": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "neet|protest|protest",
-    "norm": 64.9
+  "dalal-street-outlook-rbi-policy-earnings-and-other-cues-to-d": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "investor|mp|policy|price|prices|rbi|stock market",
+    "norm": 67.1
   },
-  "pm-modi-launches-nasha-mukt-yuva-abhiyan-says-drug-free-yout": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "modi|modi|mp",
-    "norm": 61.4
+  "prashant-kishor-demands-action-against-patna-ssp-for-alleged": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "chief minister|election|election|minister",
+    "norm": 63.5
   },
-  "-substance-abuse-takes-youth-away-from-their-dreams-pm-modi-": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "modi|modi|mp",
-    "norm": 59.7
+  "-chaiwalaz-founder-rohit-sharma-dies-by-suicide-in-rajasthan": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "died|rohit|sharma",
+    "norm": 57.6
   },
-  "eight-deaths-confirmed-in-rain-related-incidents-in-kerala-c": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "death|mp",
-    "norm": 57.1
+  "karnataka-cm-urges-opposition-farmers-and-kannada-organisati": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "opposition|supreme court|watch",
+    "norm": 56.4
   },
-  "taslima-nasrin-s-exile-to-homecoming-a-journalist-s-account-": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "fear|mp",
+  "muslim-cleric-backs-pm-modi-s-message-urges-youth-to-say-no-": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "modi|modi",
     "norm": 55.4
   },
   "technology-must-be-backed-by-process-reforms-epfo-ceo": {
     "firstSeen": "2026-08-02T07:39:14.634Z",
     "signature": "fund|mp",
-    "norm": 55
+    "norm": 53.2
   },
-  "hours-long-wait-vip-movement-leave-mahankali-bonalu-devotees": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "mp|vote",
-    "norm": 50.5
+  "two-tvk-functionaries-in-aruppukottai-arrested-for-taking-22": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "lakh",
+    "norm": 44
   },
-  "odisha-govt-suspends-ifs-officer-over-involvement-in-forest-": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "death",
-    "norm": 48.2
-  },
-  "two-year-old-dies-after-falling-into-water-logged-courtyard": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "hospital",
-    "norm": 48.2
-  },
-  "-amit-shah-greater-than-balasaheb-thackeray-for-you-sanjay-r": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "amit shah",
-    "norm": 45.9
-  },
-  "-farmers-more-important-than-politics-karnataka-cm-shivakuma": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "weaponising-extraordinary-laws-to-silence-dissent-congress-o": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "congress",
-    "norm": 45.9
+  "anbumani-says-mekedatu-dam-would-block-cauvery-flows-to-tn": {
+    "firstSeen": "2026-08-02T10:05:49.951Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
