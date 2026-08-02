@@ -1,81 +1,116 @@
 {
-  "friendship-day-celebrations-turn-tragic-as-two-youths-feared": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "crash|crash|drown|drowned|fear|mp|row|tragic",
-    "norm": 88.2
+  "smriti-irani-targets-congress-jmm-over-jharkhand-paper-leak-": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "congress|iran|khan|mp|outrage|protest|protest",
+    "norm": 87.8
   },
   "kerala-heavy-rains-live-eight-dead-13-injured-8-missing-foll": {
     "firstSeen": "2026-08-02T07:39:14.634Z",
     "signature": "chief minister|dead|dead|heavy rain|injured|minister|mp",
-    "norm": 80.8
+    "norm": 79.3
   },
-  "iit-guwahati-student-drowns-in-brahmaputra-after-accidental-": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "accident|drown|mp|rescue|rescue|row",
-    "norm": 80.2
+  "census-2027-self-enumeration-begins-in-assam-suspended-in-tw": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "crore|flood|flood|mp|record",
+    "norm": 74.6
   },
-  "-modi-govt-s-familiar-script-cong-decries-nsa-detention-of-a": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "iran|modi|modi|protest|protest",
-    "norm": 76.3
-  },
-  "-he-gave-jeevandaan-by-forgiving-her-mother-of-girl-who-abus": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "modi|modi|protest|protest",
-    "norm": 71.4
-  },
-  "rain-fury-34-families-shifted-to-relief-camps-in-kozhikode": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
+  "rain-fury-157-families-shifted-to-26-relief-camps-in-kozhiko": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
     "signature": "disaster|fury|fury|mp",
     "norm": 71
   },
-  "ernakulam-gets-relief-from-rain-scare-as-water-level-recedes": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "alert|flood|flood|mla|mp",
-    "norm": 70.4
+  "ngt-impleads-hpcl-fuel-outlet-dealer-in-kovilambakkam-ground": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "deal|fuel|mp|petrol|petrol",
+    "norm": 70
   },
-  "5-dead-41-missing-after-ferry-catches-fire-off-indonesia-s-m": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "dead|dead|fire|fire",
-    "norm": 68.4
+  "kerala-floods-2026-kasaragod-district-on-high-alert-for-two-": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "alert|flood|flood|floods|mp",
+    "norm": 68.9
   },
-  "dalal-street-outlook-rbi-policy-earnings-and-other-cues-to-d": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "investor|mp|policy|price|prices|rbi|stock market",
-    "norm": 67.1
+  "youtube-terminates-delhi-slum-dweller-s-page-following-overn": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "fan|mp|protest|protest",
+    "norm": 68
   },
-  "prashant-kishor-demands-action-against-patna-ssp-for-alleged": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "chief minister|election|election|minister",
+  "pak-isi-eyeing-india-s-hinterland-jem-s-bengal-honey-trap-mo": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "pakistan|terror|terror",
+    "norm": 67.6
+  },
+  "gen-z-is-the-first-constituency-defined-by-mindset-not-ident": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "anger|exam|opposition",
+    "norm": 67.6
+  },
+  "lt-governor-urges-students-to-become-watchdogs-of-campuses-i": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "emotional|governor|mp|watch",
+    "norm": 65.3
+  },
+  "-ready-to-face-death-pappu-yadav-unfazed-by-fir-over-ram-tem": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "death|mp|opposition|parliament",
     "norm": 63.5
   },
-  "-chaiwalaz-founder-rohit-sharma-dies-by-suicide-in-rajasthan": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "died|rohit|sharma",
+  "72-dead-as-record-60-000-migrants-surge-into-spain-s-ceuta": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "dead|dead|record",
+    "norm": 63.2
+  },
+  "drugs-free-youth-crucial-for-developed-india-says-pm-modi-la": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "minister|modi|modi|mp|prime minister",
+    "norm": 62.9
+  },
+  "india-launches-100-week-anti-drug-campaign-a-look-at-5-simil": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "modi|modi|mp",
+    "norm": 59.7
+  },
+  "mountaineer-nirmal-purja-s-body-recovered-days-after-avalanc": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "killed|killed",
     "norm": 57.6
   },
-  "karnataka-cm-urges-opposition-farmers-and-kannada-organisati": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "opposition|supreme court|watch",
-    "norm": 56.4
-  },
-  "muslim-cleric-backs-pm-modi-s-message-urges-youth-to-say-no-": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "modi|modi",
+  "sodium-nitrate-suicide-note-pune-family-of-3-die-over-financ": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "died|mp",
     "norm": 55.4
   },
-  "technology-must-be-backed-by-process-reforms-epfo-ceo": {
-    "firstSeen": "2026-08-02T07:39:14.634Z",
-    "signature": "fund|mp",
-    "norm": 53.2
+  "california-vineyards-use-owl-boxes-to-cut-rodents-by-up-to-5": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "rally|rally",
+    "norm": 50.2
   },
-  "two-tvk-functionaries-in-aruppukottai-arrested-for-taking-22": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
-    "signature": "lakh",
+  "kerala-high-court-allows-last-chance-to-local-bodies-to-clea": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "high court",
+    "norm": 45.9
+  },
+  "-don-t-befriend-kafirs-pak-general-spews-religious-hate-targ": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "pakistan",
     "norm": 44
   },
-  "anbumani-says-mekedatu-dam-would-block-cauvery-flows-to-tn": {
-    "firstSeen": "2026-08-02T10:05:49.951Z",
+  "-in-map-of-india-our-north-east-is-missing-medallist-lovlina": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "president",
+    "norm": 44
+  },
+  "meghalaya-records-58-monsoon-rainfall-deficit-imd-raises-con": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "record",
+    "norm": 42.7
+  },
+  "-want-sheikh-hasina-to-return-remove-ban-on-her-party-taslim": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
+    "signature": "",
+    "norm": 36
+  },
+  "digging-up-newly-tarred-roads-for-water-supply-works-kerala-": {
+    "firstSeen": "2026-08-02T12:11:55.125Z",
     "signature": "",
     "norm": 33.9
   }
