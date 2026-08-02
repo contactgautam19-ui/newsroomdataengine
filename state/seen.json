@@ -1,32 +1,97 @@
 {
-  "e20-aap-plans-pro-choice-rally-to-pm-residence": {
-    "firstSeen": "2026-08-02T00:07:23.381Z",
-    "signature": "aap|fuel|kejriwal|minister|petrol|petrol|price|prime minister|rally|rally",
-    "norm": 82.5
+  "govt-must-give-people-choice-between-pure-petrol-e-20-at-pet": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "kejriwal|mp|petrol|petrol|policy|war|warning",
+    "norm": 89.1
   },
-  "pawan-kalyan-gets-a-special-handshake-from-pm-modi": {
-    "firstSeen": "2026-08-02T00:07:23.381Z",
-    "signature": "chief minister|minister|modi|modi|prime minister",
-    "norm": 64.6
+  "trump-blames-minnesota-for-water-system-attack-calls-state-g": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "attack|attack|governor|iran|mp|president|trump|trump",
+    "norm": 87.3
   },
-  "cbi-files-epfo-cheating-case-against-anil-ambani": {
-    "firstSeen": "2026-08-02T00:07:23.381Z",
-    "signature": "ambani|crore|fund|mp",
-    "norm": 64.6
+  "spain-installs-500-metre-long-sea-barrier-after-60-000-migra": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "died|drown|drowned|killed|killed|mp|row|stampede",
+    "norm": 81.9
   },
-  "bomb-blast-outside-moscow-restaurant-kills-3-injures-21": {
-    "firstSeen": "2026-08-02T00:07:23.381Z",
-    "signature": "blast|bomb",
+  "they-went-to-j-k-from-chhattisgarh-to-earn-money-for-family-": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "killed|killed|mp|terror|terror",
+    "norm": 77.5
+  },
+  "-right-to-dissent-not-anarchy-smriti-irani-says-govt-respond": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "bjp|iran|neet|protest|protest",
+    "norm": 76.3
+  },
+  "kerala-braces-for-the-possibility-of-heavy-rains-on-august-2": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "alert|flood|flood|floods|heavy rain|war",
+    "norm": 73.7
+  },
+  "-thought-everything-was-over-got-a-second-life-noida-girl-ap": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "modi|modi|protest|protest",
+    "norm": 72.9
+  },
+  "arrested-terror-suspect-had-planned-to-infiltrate-cjp-protes": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "protest|protest|terror|terror",
+    "norm": 70
+  },
+  "second-godavari-flood-warning-in-force-releif-operation-in-f": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "flood|flood|war|warning",
+    "norm": 70
+  },
+  "from-mere-pyare-deshvasiyon-to-hi-friends-pm-modi-s-message-": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "anger|modi|modi",
+    "norm": 66
+  },
+  "-cops-busy-doing-business-not-maintaining-law-and-order-alla": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "ipl|slam|slams",
+    "norm": 64.5
+  },
+  "-what-does-new-generation-know-pawan-kalyan-on-abuses-agains": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "-rs-18cr-stolen-every-year-raj-thackeray-alleges-siddhivinay": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "mp|scam",
+    "norm": 55.4
+  },
+  "shillong-teer-result-today-august-2-2026-check-winning-numbe": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "khan|result",
     "norm": 53.9
   },
-  "long-hours-hurting-resident-docs-mental-health-nmc-tells-sc": {
-    "firstSeen": "2026-08-02T00:07:23.381Z",
-    "signature": "mp",
+  "dissent-is-fine-but-should-stay-within-constitutional-limits": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "punjab-s-dalits-power-politics-with-the-purse": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "-prepare-to-depart-us-advisory-for-its-citizens-in-mideast-a": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "israel",
+    "norm": 46.3
+  },
+  "eggs-vs-paneer-vs-whey-who-really-wins-india-s-protein-math-": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "crore",
     "norm": 45.9
   },
-  "railway-board-panels-suggest-premature-retirement-of-5-offic": {
-    "firstSeen": "2026-08-02T00:07:23.381Z",
-    "signature": "",
-    "norm": 33.9
+  "google-rolls-back-ai-image-generation-in-google-earth-over-p": {
+    "firstSeen": "2026-08-02T04:32:57.404Z",
+    "signature": "policy",
+    "norm": 44
   }
 }
