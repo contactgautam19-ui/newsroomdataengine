@@ -1,156 +1,36 @@
 {
-  "1-28-lakh-people-in-seven-assam-districts-reel-under-floods-": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "death|disaster|flood|flood|floods|lakh|toll",
-    "norm": 81.4
+  "opposition-mps-protest-over-ram-temple-donation-theft": {
+    "firstSeen": "2026-08-03T21:16:28.984Z",
+    "signature": "ayodhya|mp|opposition|protest|protest",
+    "norm": 76.8
   },
-  "mother-s-death-in-road-accident-karnataka-hc-tells-children-": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "accident|death|lakh|mp",
-    "norm": 74
+  "baghel-asks-workers-to-beware-of-traitors-within-punjab-cong": {
+    "firstSeen": "2026-08-03T21:16:28.984Z",
+    "signature": "congress|election|election|war",
+    "norm": 71.6
   },
-  "amid-a-flood-of-holiday-demands-collectors-weather-an-online": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "alert|flood|flood|storm|weather",
-    "norm": 72.5
+  "cauvery-water-issue-dmk-members-walk-out-from-both-houses-in": {
+    "firstSeen": "2026-08-03T21:16:28.984Z",
+    "signature": "congress|mp|protest|protest|rajya sabha",
+    "norm": 69
   },
-  "bankipur-manjalpur-datia-bypoll-election-highlights-did-not-": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "bjp|election|election|poll|result|results|results|vote",
-    "norm": 71.8
+  "delhi-police-move-against-social-media-handles-over-misleadi": {
+    "firstSeen": "2026-08-03T21:16:28.984Z",
+    "signature": "protest|protest|video",
+    "norm": 57.1
   },
-  "-no-feiicitation-i-had-lunch-vd-satheesan-on-meal-during-flo": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "controversy|flood|flood|mp",
-    "norm": 71.4
+  "after-success-of-students-protest-kisan-morcha-plans-to-hit-": {
+    "firstSeen": "2026-08-03T21:16:28.984Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "dmk-protests-in-both-houses-of-parliament-on-cauvery-issue": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "congress|mp|parliament|protest|protest|rajya sabha",
-    "norm": 68.4
-  },
-  "rain-eases-but-swollen-rivers-keep-flood-prone-areas-in-erna": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "alert|flood|flood|mp",
-    "norm": 67.9
-  },
-  "-lathi-charge-students-then-i-ll-resign-priyank-kharge-s-rem": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "exam|mp|row",
-    "norm": 66
-  },
-  "prashant-kishor-breaches-bjp-s-fortress-in-bankipur": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "bjp|congress|election|election",
-    "norm": 63.5
-  },
-  "25-year-old-woman-dies-by-suicide-after-failing-to-clear-up-": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "death|exam|recruitment",
-    "norm": 62.9
-  },
-  "bank-says-it-closed-trump-linked-accounts-over-money-launder": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "mp|president|trump|trump",
-    "norm": 61.8
-  },
-  "a-cabinet-expansion-in-karnataka-with-twists-turns-and-heart": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "cabinet|heartbreak|twist",
-    "norm": 61.1
-  },
-  "-personal-reasons-netaji-s-grand-nephew-chandra-kumar-bose-q": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "congress|election|election",
-    "norm": 59.7
-  },
-  "trump-s-bank-accounts-were-closed-in-2021-over-money-launder": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "mp|trump|trump",
-    "norm": 59.7
-  },
-  "average-data-breach-cost-up-16-to-rs-25-5-crore-in-india-ibm": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "crore|mp|record",
-    "norm": 59
-  },
-  "woman-wanted-to-sell-daughter-for-rs-1-5-lakh-filed-case-whe": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "lakh|mp",
-    "norm": 53.2
-  },
-  "iphone-18-pro-could-start-at-1-399-but-a-300-price-hike-look": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "price|star",
-    "norm": 51.7
-  },
-  "kauvery-hospital-the-hindu-to-host-webinar-on-vascular-healt": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "who-is-vishwesh-negi-mea-joint-secretary-named-india-s-next-": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "iran",
-    "norm": 46.3
-  },
-  "the-dilemma-over-pm-shri-in-kerala": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "fund",
-    "norm": 45.9
-  },
-  "eight-a-p-players-selected-for-national-u-19-chess-champions": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
+  "-flavouring-neutral-alcohol-isn-t-right-in-spirit-": {
+    "firstSeen": "2026-08-03T21:16:28.984Z",
     "signature": "mp",
-    "norm": 45.9
-  },
-  "thirupparankundram-lamp-case-nagenthran-says-sc-not-inclined": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "disappointed-at-not-getting-cabinet-berth-dinesh-gundu-rao": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "cabinet",
     "norm": 44
   },
-  "congress-s-decision-to-name-legislators-for-constitutional-p": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "congress",
-    "norm": 44
-  },
-  "special-rice-sales-counters-opened-in-vizag-rythu-bazars": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "",
-    "norm": 36
-  },
-  "high-power-committee-proposed-to-address-tribal-issues-in-as": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "",
-    "norm": 36
-  },
-  "world-anglo-indian-day-observed-in-visakhapatnam": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "",
-    "norm": 36
-  },
-  "htbf-seeks-andhra-university-support-for-scholarship-outreac": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "",
-    "norm": 36
-  },
-  "21-522-candidates-to-appear-for-ap-tet-in-visakhapatnam": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "",
-    "norm": 36
-  },
-  "treat-water-as-infrastructure-that-must-be-built-paid-for-ce": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
-    "signature": "",
-    "norm": 36
-  },
-  "revised-dpr-not-received-by-cauvery-water-tribunal-mos-choud": {
-    "firstSeen": "2026-08-03T19:52:44.930Z",
+  "honey-to-cow-ghee-fssai-orders-dabur-to-stop-sale-of-product": {
+    "firstSeen": "2026-08-03T21:16:28.984Z",
     "signature": "",
     "norm": 36
   }
