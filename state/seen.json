@@ -1,192 +1,192 @@
 {
-  "opposition-parties-protest-outside-makar-dwar-in-parliament-": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "ayodhya|mp|opposition|parliament|protest|protest|war",
-    "norm": 83.5
+  "stone-pelting-in-hubballi-as-protesters-demanded-ministerial": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "minister|mla|protest|protest|result",
+    "norm": 76.8
   },
-  "a-seat-for-jsp-s-school-bag-why-kishor-s-bankipur-win-is-a-w": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "bjp|election|election|mp|war|warning",
-    "norm": 83.2
+  "cockroach-janata-party-funding-row-aap-link-under-scanner-ca": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "aap|fund|protest|protest|row",
+    "norm": 74.3
   },
-  "centre-hikes-windfall-gains-tax-on-export-of-petrol-diesel-a": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "diesel|iran|petrol|petrol|tax|war",
-    "norm": 76.9
-  },
-  "across-the-spectrum-bankipur-s-voters-say-they-have-chosen-a": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "anger|bjp|exam|neet|vote",
-    "norm": 76.5
-  },
-  "amazon-market-cap-crosses-3-trillion-as-ai-cloud-growth-powe": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "mp|rally|rally|row|trillion",
-    "norm": 74.9
-  },
-  "-zuckerberg-intends-to-destabilise-india-parliament-panel-ch": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "modi|modi|parliament|row",
-    "norm": 70
-  },
-  "2-losses-1-win-bjp-election-scorecard-days-after-gen-z-deliv": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "bjp|election|election|modi|modi|vote",
-    "norm": 69.6
-  },
-  "after-terror-attacks-in-kulgam-and-anantnag-kashmir-police-t": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "attack|attack|terror|terror",
-    "norm": 69.6
-  },
-  "-will-arrest-us-at-hospitals-pok-protesters-risk-death-over-": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "death|hospital|protest|protest",
+  "badarli-s-supporters-stage-protest": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "cabinet|congress|mla|mp|protest|protest",
     "norm": 68.4
   },
-  "health-minister-orders-audit-to-curb-medical-oxygen-procurem": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "hospital|match|minister",
-    "norm": 67.6
+  "whatsapp-puts-multiple-accounts-under-review-blocks-app-acce": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "ipl|war|warning",
+    "norm": 68
   },
-  "govt-revises-fuel-export-duty-rates-petrol-at-rs-3-5-diesel-": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "diesel|fuel|iran|petrol|petrol",
-    "norm": 67
-  },
-  "-disgusting-vijay-s-tvk-slams-udhayanidhi-stalin-over-trisha": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "bjp|mp|slam|slams",
-    "norm": 66.6
-  },
-  "fuel-pump-owner-files-complaint-over-alleged-electronic-chip": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "fraud|fuel|mp",
-    "norm": 65.6
-  },
-  "ai-fear-sank-these-stocks-by-up-to-50-why-experts-see-a-buyi": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "fear|mp|stocks",
-    "norm": 65.6
-  },
-  "centre-raises-windfall-tax-on-petrol-diesel-and-atf-exports-": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "diesel|fuel|petrol|petrol|price|prices|tax",
+  "bjp-opposition-spar-at-panel-meet-over-meta-s-content-modera": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "bjp|minister|modi|modi|mp|opposition|prime minister",
     "norm": 65.3
   },
-  "delhi-police-move-against-social-media-handles-over-misleadi": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "protest|protest|video",
-    "norm": 57.1
+  "-bihar-ke-kejriwal-amit-malviya-s-sharp-dig-at-prashant-kish": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "bjp|election|election|kejriwal|mp|poll",
+    "norm": 65.1
   },
-  "respite-for-over-10-000-families-as-floodwater-in-sabari-god": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "flood|flood",
+  "prashant-kishor-breaks-bjp-s-five-term-bankipur-run-with-dec": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "bjp|congress|election|election|poll",
+    "norm": 64.6
+  },
+  "josh-allen-s-family-stood-by-him-through-rejection-injuries-": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "exam|layoff|mp",
+    "norm": 63.9
+  },
+  "school-van-vandalised-in-lucknow-allegedly-by-kanwariyas": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "mp|row|threat|war",
+    "norm": 63.4
+  },
+  "datia-bypoll-boost-for-congress-reality-check-for-bjp": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "bjp|congress|poll|vote|war",
+    "norm": 62.9
+  },
+  "sir-not-being-done-properly-alleges-mla-tenginakai": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "election|election|election commission|mla|mp",
+    "norm": 62.9
+  },
+  "prashant-kishor-s-jan-suraaj-ends-bjp-s-30-year-bankipur-str": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "bjp|poll|upset|vote|watch",
+    "norm": 62.5
+  },
+  "for-the-bjp-the-result-in-bankipur-goes-beyond-just-a-poll-l": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "bjp|poll|result|vote",
+    "norm": 61.8
+  },
+  "farmers-groups-protest-over-drinking-water-shortage-in-kalab": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "mp|protest|protest",
+    "norm": 61.1
+  },
+  "-gen-z-protest-may-have-aided-bankipur-win-prashant-kishor-a": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "bjp|protest|protest",
+    "norm": 61.1
+  },
+  "confusion-dissent-last-minute-changes-plague-karnataka-cabin": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "cabinet|protest|protest",
+    "norm": 61.1
+  },
+  "statues-of-the-buddha-n-t-rama-rao-unveiled-at-parasam-villa": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "lakh|minister|mla|mp",
+    "norm": 59.7
+  },
+  "-personal-reasons-netaji-s-grand-nephew-chandra-kumar-bose-q": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "congress|election|election",
+    "norm": 59.7
+  },
+  "thane-woman-dies-in-road-accident-after-scooter-loses-balanc": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "accident|tragic",
+    "norm": 59.3
+  },
+  "prashant-kishor-from-election-backrooms-to-bihar-assembly": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "election|election",
+    "norm": 55.4
+  },
+  "found-out-from-tv-mother-of-man-accused-of-throwing-slipper-": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "record|row",
     "norm": 54.2
   },
-  "bankipur-bypoll-victory-reveals-gen-z-backing-for-prashant-k": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "bjp|chief minister|minister|poll",
-    "norm": 53.9
+  "cjp-protest-sc-clarifies-states-can-withdraw-firs-against-st": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "karnataka-cabinet-expansion-sparks-dissent-among-senior-cong": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "cabinet|congress|mla",
-    "norm": 52.7
+  "cauvery-dispute-karnataka-to-challenge-tamil-nadu-s-supreme-": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "mp|supreme court",
+    "norm": 50.5
   },
-  "ruling-bjp-s-plan-to-construct-a-new-building-for-thiruvanan": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "bjp|opposition|ruling",
-    "norm": 52.7
-  },
-  "-disappointed-karnataka-ex-minister-dinesh-gundu-rao-after-c": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "cabinet|minister|mla",
-    "norm": 52.7
-  },
-  "no-alliance-with-any-party-says-prashant-kishor-after-bankip": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "alliance|poll",
+  "namesake-fail-lalu-prasad-and-nitish-kumar-lose-deposits-in-": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "bjp|vote",
     "norm": 48.7
   },
-  "several-students-two-teachers-injured-as-lorry-rams-into-sch": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "injured",
-    "norm": 48.2
+  "under-secretary-suspended-in-kerala-over-letter-which-aided-": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "aap|bjp",
+    "norm": 48.7
   },
-  "government-launches-inquiry-into-recent-tiger-deaths-in-sris": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "death",
-    "norm": 48.2
+  "government-to-sell-6-5-stake-in-lic-for-over-rs-30-000-crore": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "crore|price",
+    "norm": 48.7
   },
-  "cyberabad-police-arrest-two-in-chain-snatching-case-recover-": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "gold",
-    "norm": 48.2
-  },
-  "india-s-monsoon-is-getting-weirder": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "weather",
+  "-you-created-magic-rohit-sharma-hails-t-dilip-as-india-repla": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "rohit|sharma",
     "norm": 46.3
   },
-  "-karnataka-will-have-woman-minister-dk-shivakumar-after-tech": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "minister",
+  "rejig-triggers-unease-in-punjab-bjp-old-guard-pushes-back": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "bjp",
     "norm": 45.9
   },
-  "remove-hazardous-trees-near-schools-says-kerala-minister": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "minister",
+  "679th-foundation-day-of-bahmani-empire-observed-in-kalaburag": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "lic-ofs-announced-govt-to-sell-up-to-6-5-stake-at-rs-382-sha": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "price",
-    "norm": 45.9
-  },
-  "uttam-pushes-for-getting-environmental-clearances-for-pendin": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "verdict",
-    "norm": 45.9
-  },
-  "samagra-shiksha-funds-to-boost-infrastructure-skills-and-stu": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "fund",
-    "norm": 45.9
-  },
-  "glaw-lake-becomes-arunachal-pradesh-s-first-ramsar-site-indi": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
+  "every-dowry-harassment-complaint-serious-advising-compromise": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
     "signature": "mp",
     "norm": 44
   },
-  "-leadership-isn-t-just-about-guiding-but-also-listening-moha": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "tuda-launches-drone-survey-for-settipalle-model-township-pro": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
+  "-had-no-time-to-flee-drone-strikes-russian-beach-kills-7-inj": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
     "signature": "drone",
     "norm": 42.7
   },
-  "over-31-000-people-avail-kerala-police-s-locked-house-servic": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
+  "sheikh-hasina-s-media-event-can-hurt-ties-with-india-banglad": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
     "signature": "",
     "norm": 36
   },
-  "cyberabad-traffic-police-step-up-safety-measures-along-nh-65": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
+  "3-444-students-in-malappuram-receive-plus-one-second-supplem": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
     "signature": "",
     "norm": 36
   },
-  "iit-hyderabad-crimson-energy-launch-nuclear-technology-orien": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
+  "bihar-panchayat-says-woman-at-fault-for-her-rape-makes-her-l": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
     "signature": "",
     "norm": 36
   },
-  "vizag-players-shine-at-state-level-carrom-tournament": {
-    "firstSeen": "2026-08-03T15:50:17.954Z",
+  "study-links-prolonged-heat-exposure-during-pregnancy-to-adve": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
     "signature": "",
     "norm": 36
+  },
+  "cauvery-water-received-by-t-n-in-july-hits-50-year-low": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "",
+    "norm": 36
+  },
+  "continue-commercial-flight-operations-at-vizag-airport-cpi-t": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "",
+    "norm": 36
+  },
+  "choice-filling-for-second-round-of-tnea-2026-counselling-beg": {
+    "firstSeen": "2026-08-03T18:01:26.982Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
