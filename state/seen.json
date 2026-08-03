@@ -1,192 +1,157 @@
 {
-  "stone-pelting-in-hubballi-as-protesters-demanded-ministerial": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "minister|mla|protest|protest|result",
-    "norm": 76.8
+  "1-28-lakh-people-in-seven-assam-districts-reel-under-floods-": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "death|disaster|flood|flood|floods|lakh|toll",
+    "norm": 81.4
   },
-  "cockroach-janata-party-funding-row-aap-link-under-scanner-ca": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "aap|fund|protest|protest|row",
-    "norm": 74.3
+  "mother-s-death-in-road-accident-karnataka-hc-tells-children-": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "accident|death|lakh|mp",
+    "norm": 74
   },
-  "badarli-s-supporters-stage-protest": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "cabinet|congress|mla|mp|protest|protest",
+  "amid-a-flood-of-holiday-demands-collectors-weather-an-online": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "alert|flood|flood|storm|weather",
+    "norm": 72.5
+  },
+  "bankipur-manjalpur-datia-bypoll-election-highlights-did-not-": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "bjp|election|election|poll|result|results|results|vote",
+    "norm": 71.8
+  },
+  "-no-feiicitation-i-had-lunch-vd-satheesan-on-meal-during-flo": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "controversy|flood|flood|mp",
+    "norm": 71.4
+  },
+  "dmk-protests-in-both-houses-of-parliament-on-cauvery-issue": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "congress|mp|parliament|protest|protest|rajya sabha",
     "norm": 68.4
   },
-  "whatsapp-puts-multiple-accounts-under-review-blocks-app-acce": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "ipl|war|warning",
-    "norm": 68
+  "rain-eases-but-swollen-rivers-keep-flood-prone-areas-in-erna": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "alert|flood|flood|mp",
+    "norm": 67.9
   },
-  "bjp-opposition-spar-at-panel-meet-over-meta-s-content-modera": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "bjp|minister|modi|modi|mp|opposition|prime minister",
-    "norm": 65.3
+  "-lathi-charge-students-then-i-ll-resign-priyank-kharge-s-rem": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "exam|mp|row",
+    "norm": 66
   },
-  "-bihar-ke-kejriwal-amit-malviya-s-sharp-dig-at-prashant-kish": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "bjp|election|election|kejriwal|mp|poll",
-    "norm": 65.1
+  "prashant-kishor-breaches-bjp-s-fortress-in-bankipur": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "bjp|congress|election|election",
+    "norm": 63.5
   },
-  "prashant-kishor-breaks-bjp-s-five-term-bankipur-run-with-dec": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "bjp|congress|election|election|poll",
-    "norm": 64.6
-  },
-  "josh-allen-s-family-stood-by-him-through-rejection-injuries-": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "exam|layoff|mp",
-    "norm": 63.9
-  },
-  "school-van-vandalised-in-lucknow-allegedly-by-kanwariyas": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "mp|row|threat|war",
-    "norm": 63.4
-  },
-  "datia-bypoll-boost-for-congress-reality-check-for-bjp": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "bjp|congress|poll|vote|war",
+  "25-year-old-woman-dies-by-suicide-after-failing-to-clear-up-": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "death|exam|recruitment",
     "norm": 62.9
   },
-  "sir-not-being-done-properly-alleges-mla-tenginakai": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "election|election|election commission|mla|mp",
-    "norm": 62.9
-  },
-  "prashant-kishor-s-jan-suraaj-ends-bjp-s-30-year-bankipur-str": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "bjp|poll|upset|vote|watch",
-    "norm": 62.5
-  },
-  "for-the-bjp-the-result-in-bankipur-goes-beyond-just-a-poll-l": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "bjp|poll|result|vote",
+  "bank-says-it-closed-trump-linked-accounts-over-money-launder": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "mp|president|trump|trump",
     "norm": 61.8
   },
-  "farmers-groups-protest-over-drinking-water-shortage-in-kalab": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "mp|protest|protest",
+  "a-cabinet-expansion-in-karnataka-with-twists-turns-and-heart": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "cabinet|heartbreak|twist",
     "norm": 61.1
-  },
-  "-gen-z-protest-may-have-aided-bankipur-win-prashant-kishor-a": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "bjp|protest|protest",
-    "norm": 61.1
-  },
-  "confusion-dissent-last-minute-changes-plague-karnataka-cabin": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "cabinet|protest|protest",
-    "norm": 61.1
-  },
-  "statues-of-the-buddha-n-t-rama-rao-unveiled-at-parasam-villa": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "lakh|minister|mla|mp",
-    "norm": 59.7
   },
   "-personal-reasons-netaji-s-grand-nephew-chandra-kumar-bose-q": {
     "firstSeen": "2026-08-03T18:01:26.982Z",
     "signature": "congress|election|election",
     "norm": 59.7
   },
-  "thane-woman-dies-in-road-accident-after-scooter-loses-balanc": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "accident|tragic",
-    "norm": 59.3
+  "trump-s-bank-accounts-were-closed-in-2021-over-money-launder": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
   },
-  "prashant-kishor-from-election-backrooms-to-bihar-assembly": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "election|election",
-    "norm": 55.4
+  "average-data-breach-cost-up-16-to-rs-25-5-crore-in-india-ibm": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "crore|mp|record",
+    "norm": 59
   },
-  "found-out-from-tv-mother-of-man-accused-of-throwing-slipper-": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "record|row",
-    "norm": 54.2
+  "woman-wanted-to-sell-daughter-for-rs-1-5-lakh-filed-case-whe": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "lakh|mp",
+    "norm": 53.2
   },
-  "cjp-protest-sc-clarifies-states-can-withdraw-firs-against-st": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "iphone-18-pro-could-start-at-1-399-but-a-300-price-hike-look": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "price|star",
+    "norm": 51.7
   },
-  "cauvery-dispute-karnataka-to-challenge-tamil-nadu-s-supreme-": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "mp|supreme court",
-    "norm": 50.5
-  },
-  "namesake-fail-lalu-prasad-and-nitish-kumar-lose-deposits-in-": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "bjp|vote",
-    "norm": 48.7
-  },
-  "under-secretary-suspended-in-kerala-over-letter-which-aided-": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "aap|bjp",
-    "norm": 48.7
-  },
-  "government-to-sell-6-5-stake-in-lic-for-over-rs-30-000-crore": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "crore|price",
-    "norm": 48.7
-  },
-  "-you-created-magic-rohit-sharma-hails-t-dilip-as-india-repla": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "rohit|sharma",
+  "kauvery-hospital-the-hindu-to-host-webinar-on-vascular-healt": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "hospital",
     "norm": 46.3
   },
-  "rejig-triggers-unease-in-punjab-bjp-old-guard-pushes-back": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "bjp",
+  "who-is-vishwesh-negi-mea-joint-secretary-named-india-s-next-": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "iran",
+    "norm": 46.3
+  },
+  "the-dilemma-over-pm-shri-in-kerala": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "fund",
     "norm": 45.9
   },
-  "679th-foundation-day-of-bahmani-empire-observed-in-kalaburag": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
+  "eight-a-p-players-selected-for-national-u-19-chess-champions": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "every-dowry-harassment-complaint-serious-advising-compromise": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
+  "thirupparankundram-lamp-case-nagenthran-says-sc-not-inclined": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "disappointed-at-not-getting-cabinet-berth-dinesh-gundu-rao": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "cabinet",
     "norm": 44
   },
-  "-had-no-time-to-flee-drone-strikes-russian-beach-kills-7-inj": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
-    "signature": "drone",
-    "norm": 42.7
+  "congress-s-decision-to-name-legislators-for-constitutional-p": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
+    "signature": "congress",
+    "norm": 44
   },
-  "sheikh-hasina-s-media-event-can-hurt-ties-with-india-banglad": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
+  "special-rice-sales-counters-opened-in-vizag-rythu-bazars": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
     "signature": "",
     "norm": 36
   },
-  "3-444-students-in-malappuram-receive-plus-one-second-supplem": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
+  "high-power-committee-proposed-to-address-tribal-issues-in-as": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
     "signature": "",
     "norm": 36
   },
-  "bihar-panchayat-says-woman-at-fault-for-her-rape-makes-her-l": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
+  "world-anglo-indian-day-observed-in-visakhapatnam": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
     "signature": "",
     "norm": 36
   },
-  "study-links-prolonged-heat-exposure-during-pregnancy-to-adve": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
+  "htbf-seeks-andhra-university-support-for-scholarship-outreac": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
     "signature": "",
     "norm": 36
   },
-  "cauvery-water-received-by-t-n-in-july-hits-50-year-low": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
+  "21-522-candidates-to-appear-for-ap-tet-in-visakhapatnam": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
     "signature": "",
     "norm": 36
   },
-  "continue-commercial-flight-operations-at-vizag-airport-cpi-t": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
+  "treat-water-as-infrastructure-that-must-be-built-paid-for-ce": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
     "signature": "",
     "norm": 36
   },
-  "choice-filling-for-second-round-of-tnea-2026-counselling-beg": {
-    "firstSeen": "2026-08-03T18:01:26.982Z",
+  "revised-dpr-not-received-by-cauvery-water-tribunal-mos-choud": {
+    "firstSeen": "2026-08-03T19:52:44.930Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
