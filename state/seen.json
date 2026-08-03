@@ -1,156 +1,301 @@
 {
-  "video-shows-delhi-police-warning-cjp-over-crowd-control-befo": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "crowd|protest|protest|row|video|viral|viral|viral|viral video|war|warning",
-    "norm": 93.6
+  "death-toll-in-explosion-during-peace-rally-in-nw-pakistan-ri": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "death|explosion|explosion|pakistan|rally|rally|toll",
+    "norm": 86.6
   },
-  "stock-market-live-updates-sensex-today-sensex-jumps-500-poin": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "crash|crash|iran|mp|nifty|price|prices|sensex|stock market|trump|trump",
-    "norm": 91.2
+  "e20-fuel-arvind-kejriwal-alleges-centre-yielded-to-trump": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "aap|fuel|kejriwal|mp|petrol|petrol|price|trump|trump",
+    "norm": 83.2
   },
-  "video-shows-moment-suicide-bomber-attacked-peace-rally-in-pa": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "attack|attack|blast|bomb|crowd|protest|protest|rally|rally|row|video",
-    "norm": 90
+  "supreme-court-to-decide-when-pellet-guns-can-be-used-plans-d": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "exam|mp|protest|protest|supreme court",
+    "norm": 76.8
   },
-  "parliament-monsoon-session-live-proceedings-to-resume-amid-h": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "amit shah|bill|mp|opposition|parliament|protest|protest|ram mandir|row",
-    "norm": 84.9
-  },
-  "prashant-kishor-takes-early-lead-in-bankipur-bypoll-in-bihar": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "by-election|election|election|poll|protest|protest|vote",
-    "norm": 79.7
-  },
-  "-modi-ji-will-forgive-you-cjp-slams-probe-into-dipke-s-finan": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "fund|modi|modi|slam|slams",
-    "norm": 78.8
-  },
-  "bypoll-results-2026-live-updates-bjp-ahead-in-manjalpur-pras": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "bjp|election|election|poll|result|results|results|watch",
-    "norm": 77.6
-  },
-  "datia-bankipur-manjalpur-bypoll-election-live-updates-counti": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "bjp|election|election|poll|result|results|results|watch",
-    "norm": 77.6
-  },
-  "gorakhpur-9-year-old-boy-killed-in-revenge-attack-over-eve-t": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "attack|attack|killed|killed|mp",
-    "norm": 75.9
-  },
-  "family-of-four-among-five-killed-after-car-rams-into-water-t": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "died|killed|killed|poll|slam",
+  "woman-killed-many-injured-as-ksrtc-bus-skids-off-nelliyampat": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "accident|injured|killed|killed|mp",
     "norm": 75.1
   },
-  "parliament-monsoon-session-2026-live-updates-two-bills-set-t": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "bill|lok sabha|opposition|parliament|protest|protest",
-    "norm": 70
+  "kerala-rains-live-death-toll-reaches-15-seven-remain-missing": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "alert|death|heavy rain|rescue|rescue|toll",
+    "norm": 73.7
   },
-  "bankipur-bypoll-result-2026-live-updates-prashant-kishor-lea": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "bjp|poll|result|results|results",
-    "norm": 69.1
+  "parliament-monsoon-session-day-11-live-indian-statistical-in": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "bill|lok sabha|mp|opposition|parliament|protest|protest",
+    "norm": 70.5
   },
-  "bihar-bypoll-bankipur-byelection-counting-begins-prashant-ki": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "election|election|poll|record|vote",
+  "home-minister-shah-must-explain-in-parliament-lathicharge-pe": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "minister|opposition|parliament|protest|protest",
     "norm": 69
   },
-  "-double-tap-how-terrorists-are-trapping-pakistan-s-security-": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 66
+  "kerala-high-court-grants-bail-to-9-cpi-m-workers-accused-of-": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "attack|attack|high court",
+    "norm": 67.6
   },
-  "manjalpur-bypoll-result-2026-live-updates-bjp-s-satish-patel": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "bjp|congress|poll|result|vote",
-    "norm": 64.6
+  "fraud-alert-scammers-targeting-indiramma-scheme-beneficiarie": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "alert|fraud|scam",
+    "norm": 67.3
   },
-  "independence-day-2026-delhi-police-put-second-hand-car-deale": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "blast|deal|watch",
+  "assam-flood-government-releases-first-tranche-of-75-000-inte": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "chief minister|flood|flood|minister",
+    "norm": 66.9
+  },
+  "slipper-hurled-at-mp-pappu-yadav-opposition-slams-police": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "mp|opposition|slam|slams",
+    "norm": 66.6
+  },
+  "edappadi-palaniswami-slams-tvk-government-for-failing-to-saf": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "chief minister|minister|slam|slams",
+    "norm": 66.6
+  },
+  "kerala-cashew-import-scam-k-a-ratheesh-resigns-from-three-ke": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "fund|mp|scam",
+    "norm": 65.6
+  },
+  "bonalu-rangam-predicts-heavy-rains-floods-natural-calamities": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "flood|flood|floods|heavy rain",
+    "norm": 65.1
+  },
+  "fresh-controversy-hits-ramayana-as-hindu-group-warns-of-prot": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "controversy|protest|protest|war",
+    "norm": 65.1
+  },
+  "kerala-rains-92-of-power-connection-restored-after-monsoon-d": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "flood|flood|minister",
     "norm": 62.8
   },
-  "kerala-lottery-result-today-live-bhagyathara-bt-65-winning-n": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "crore|result",
+  "-my-u-s-studies-funded-by-scholarship-education-loan-cjp-fou": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "fund|protest|protest",
+    "norm": 62.8
+  },
+  "assam-cm-transfers-rs-112-crore-interim-flood-relief-via-dbt": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "crore|flood|flood",
+    "norm": 62.8
+  },
+  "meet-resham-fatma-india-1st-acid-attack-survivor-to-receive-": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "attack|attack",
+    "norm": 62.1
+  },
+  "kerala-rains-15-dead-seven-missing-says-cm-satheesan": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "dead|dead",
+    "norm": 59.3
+  },
+  "-cjp-different-abhijeet-dipke-rubbishes-taslima-s-remark-lik": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "fund|slam",
     "norm": 57.1
   },
-  "-funded-by-boston-scholarship-letter-and-loan-cjp-s-dipke-co": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "fund|row",
-    "norm": 55.4
+  "why-are-our-cities-digging-the-same-roads-again-and-again-": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "fuel|ipl",
+    "norm": 57.1
   },
-  "congress-leader-nana-patole-s-feet-washing-video-draws-bjp-s": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "bjp|congress|video",
-    "norm": 54.7
+  "assam-flood-govt-releases-first-tranche-of-rs-15-000-interim": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "flood|flood",
+    "norm": 57.1
   },
-  "two-coaches-of-samastipur-saharsa-memu-train-catch-fire-in-b": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "fire|fire",
-    "norm": 54.2
-  },
-  "parliament-monsoon-session-day-11-live-updates-indian-statis": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "bill|lok sabha|minister|parliament",
-    "norm": 53.9
-  },
-  "kerala-rains-live-moderate-heavy-rain-continues-cm-to-chair-": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "alert|heavy rain",
-    "norm": 53.9
+  "sensex-nifty-surge-crude-oil-prices-drop-geopolitical-tensio": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "nifty|price|prices|sensex",
+    "norm": 56.8
   },
   "shillong-teer-result-today-august-3-2026-check-winning-numbe": {
     "firstSeen": "2026-08-03T04:40:47.438Z",
     "signature": "khan|result",
+    "norm": 55.7
+  },
+  "as-tvk-government-prepares-its-first-agriculture-budget-in-t": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "budget|mp",
+    "norm": 55
+  },
+  "cjp-protest-sc-clarifies-states-can-withdraw-firs-against-st": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "brij-bhushan-sharan-singh-acquittal-vinesh-phogat-female-wre": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "nolan-well-friend-warren-hudson-family-getting-threatening-a": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "threat|war",
     "norm": 53.9
   },
-  "-necessary-for-safety-uttarakhand-police-enforces-13-ft-heig": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "khan|war",
-    "norm": 53.9
+  "sikka-group-unveils-one-of-ncr-biggest-cinepolis-multiplexes": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "ipl",
+    "norm": 51.2
   },
-  "auqib-nabi-replaces-jasprit-bumrah-in-india-test-squad-for-s": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "bumrah|mp",
-    "norm": 53.5
+  "-mujhe-sanghi-banna-hai-bjp-mp-kangana-ranaut-defends-remark": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "bjp|mp",
+    "norm": 50.5
   },
-  "counting-underway-for-datia-assembly-bypoll-in-madhya-prades": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "congress|mla|mp|poll",
-    "norm": 52.1
-  },
-  "kerala-rains-kozhikode-on-high-alert-as-kakkayam-reservoir-n": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "alert",
-    "norm": 46.3
-  },
-  "nandi-hill-cable-car-forest-clearance-pending-but-constructi": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
+  "delhi-ncr-retail-space-leasing-jumps-78-to-1-3-million-sq-ft": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
     "signature": "mp",
+    "norm": 49
+  },
+  "music-composer-devi-sri-prasad-set-to-make-his-acting-debut": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "mp",
+    "norm": 49
+  },
+  "tanishq-spotlights-natural-diamonds-in-new-campaign-with-ana": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "mp",
+    "norm": 49
+  },
+  "my-us-studies-funded-by-scholarship-loan-abhijeet-dipke": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "fund",
+    "norm": 49
+  },
+  "brij-bhushan-sharan-singh-aide-vinod-tomar-acquitted-in-wome": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "exam",
+    "norm": 48.2
+  },
+  "enquiry-into-award-of-contracts-cbi-claims-non-cooperation-f": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "ai-deflation-middle-east-conflict-weigh-on-growth-of-indian-": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "mea-joint-secy-vishwesh-negi-appointed-as-next-indian-ambass": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "iran",
+    "norm": 48.2
+  },
+  "uae-freezes-assets-of-desi-bling-star-satish-sanpal": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "star",
+    "norm": 47.4
+  },
+  "bill-to-provide-statutory-framework-to-indian-statistical-in": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "bill",
     "norm": 45.9
   },
-  "another-review-on-the-cards-more-changes-likely-in-india-s-b": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
-    "signature": "bumrah",
+  "stand-up-comedian-kunal-kamra-shifts-shows-amid-opposition-f": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "opposition",
+    "norm": 45.9
+  },
+  "-this-moment-today-has-been-made-possible-because-of-your-pr": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "fan",
     "norm": 44.3
   },
-  "education-qualification-of-prashant-kishor-from-master-s-in-": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
+  "include-velama-community-in-obc-list-corporation-chairman-as": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "ihg-expands-luxury-footprint-with-vignette-collection-in-ind": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "de-beers-elevates-luxury-with-desert-diamonds-shanghai-debut": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "sc-declines-to-revisit-fir-order-on-thakur-goli-maaro-remark": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "bengaluru-founder-says-greed-has-no-limit-as-landlady-demand": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "bluorng-unveils-immersive-retail-experience-at-dlf-mall-of-i": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "fashion-apparel-remains-india-largest-retail-leasing-categor": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "the-great-retail-shift-from-transactions-to-experiences": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "mcdonald-india-north-and-east-marks-200-mccaf-milestone": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "homestay-owners-seek-relaxation-of-tourism-curbs-in-kodagu-c": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "n-r-narayana-murthy-there-is-lot-of-confusion-about-ai-": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "the-business-of-being-fit-how-india-wellness-revolution-is-r": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "hindi-name-board-at-coimbatore-north-railway-station-defaced": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
     "signature": "",
     "norm": 36
   },
-  "-one-of-the-longest-nights-of-my-life-taslima-nasreen-recall": {
-    "firstSeen": "2026-08-03T04:40:47.438Z",
+  "-not-giving-up-vinesh-phogat-says-wrestlers-to-appeal-agains": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 36
+  },
+  "former-iata-chief-willie-walsh-takes-charge-as-indigo-ceo": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 36
+  },
+  "rising-cotton-costs-and-shrinking-supply-strengthen-the-case": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
+    "signature": "",
+    "norm": 36
+  },
+  "sonu-nigam-kolkata-hawks-steal-the-spotlight-as-jetsynthesy-": {
+    "firstSeen": "2026-08-03T08:39:19.260Z",
     "signature": "",
     "norm": 36
   }
