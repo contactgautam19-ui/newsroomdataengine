@@ -1,37 +1,157 @@
 {
-  "india-approves-just-1-chinese-fdi-proposal-worth-1-crore-in-": {
-    "firstSeen": "2026-08-03T00:08:02.874Z",
-    "signature": "bill|billion|crore",
-    "norm": 57.6
+  "video-shows-delhi-police-warning-cjp-over-crowd-control-befo": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "crowd|protest|protest|row|video|viral|viral|viral|viral video|war|warning",
+    "norm": 93.6
   },
-  "people-tired-of-brs-congress-turning-to-bjp-says-ramchander-": {
-    "firstSeen": "2026-08-03T00:08:02.874Z",
-    "signature": "bjp|congress",
-    "norm": 50.5
+  "stock-market-live-updates-sensex-today-sensex-jumps-500-poin": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "crash|crash|iran|mp|nifty|price|prices|sensex|stock market|trump|trump",
+    "norm": 91.2
   },
-  "10-000-cases-pending-in-sc-for-10-yrs-80-000-in-hcs-for-30-y": {
-    "firstSeen": "2026-08-03T00:08:02.874Z",
-    "signature": "high court|supreme court",
-    "norm": 50.5
+  "video-shows-moment-suicide-bomber-attacked-peace-rally-in-pa": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "attack|attack|blast|bomb|crowd|protest|protest|rally|rally|row|video",
+    "norm": 90
   },
-  "nta-floats-tender-to-secure-offices-exam-material-24x7": {
-    "firstSeen": "2026-08-03T00:08:02.874Z",
-    "signature": "exam",
-    "norm": 48.2
+  "parliament-monsoon-session-live-proceedings-to-resume-amid-h": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "amit shah|bill|mp|opposition|parliament|protest|protest|ram mandir|row",
+    "norm": 84.9
   },
-  "sudden-evening-showers-lash-parts-of-hyderabad-on-august-2": {
-    "firstSeen": "2026-08-03T00:08:02.874Z",
-    "signature": "sudden",
-    "norm": 42.7
+  "prashant-kishor-takes-early-lead-in-bankipur-bypoll-in-bihar": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "by-election|election|election|poll|protest|protest|vote",
+    "norm": 79.7
   },
-  "kishan-reddy-pushes-for-indigenous-manufacturing-in-ev-secto": {
-    "firstSeen": "2026-08-03T00:08:02.874Z",
+  "-modi-ji-will-forgive-you-cjp-slams-probe-into-dipke-s-finan": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "fund|modi|modi|slam|slams",
+    "norm": 78.8
+  },
+  "bypoll-results-2026-live-updates-bjp-ahead-in-manjalpur-pras": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "bjp|election|election|poll|result|results|results|watch",
+    "norm": 77.6
+  },
+  "datia-bankipur-manjalpur-bypoll-election-live-updates-counti": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "bjp|election|election|poll|result|results|results|watch",
+    "norm": 77.6
+  },
+  "gorakhpur-9-year-old-boy-killed-in-revenge-attack-over-eve-t": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "attack|attack|killed|killed|mp",
+    "norm": 75.9
+  },
+  "family-of-four-among-five-killed-after-car-rams-into-water-t": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "died|killed|killed|poll|slam",
+    "norm": 75.1
+  },
+  "parliament-monsoon-session-2026-live-updates-two-bills-set-t": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "bill|lok sabha|opposition|parliament|protest|protest",
+    "norm": 70
+  },
+  "bankipur-bypoll-result-2026-live-updates-prashant-kishor-lea": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "bjp|poll|result|results|results",
+    "norm": 69.1
+  },
+  "bihar-bypoll-bankipur-byelection-counting-begins-prashant-ki": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "election|election|poll|record|vote",
+    "norm": 69
+  },
+  "-double-tap-how-terrorists-are-trapping-pakistan-s-security-": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "pakistan|terror|terror",
+    "norm": 66
+  },
+  "manjalpur-bypoll-result-2026-live-updates-bjp-s-satish-patel": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "bjp|congress|poll|result|vote",
+    "norm": 64.6
+  },
+  "independence-day-2026-delhi-police-put-second-hand-car-deale": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "blast|deal|watch",
+    "norm": 62.8
+  },
+  "kerala-lottery-result-today-live-bhagyathara-bt-65-winning-n": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "crore|result",
+    "norm": 57.1
+  },
+  "-funded-by-boston-scholarship-letter-and-loan-cjp-s-dipke-co": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "fund|row",
+    "norm": 55.4
+  },
+  "congress-leader-nana-patole-s-feet-washing-video-draws-bjp-s": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "bjp|congress|video",
+    "norm": 54.7
+  },
+  "two-coaches-of-samastipur-saharsa-memu-train-catch-fire-in-b": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "fire|fire",
+    "norm": 54.2
+  },
+  "parliament-monsoon-session-day-11-live-updates-indian-statis": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "bill|lok sabha|minister|parliament",
+    "norm": 53.9
+  },
+  "kerala-rains-live-moderate-heavy-rain-continues-cm-to-chair-": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "alert|heavy rain",
+    "norm": 53.9
+  },
+  "shillong-teer-result-today-august-3-2026-check-winning-numbe": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "khan|result",
+    "norm": 53.9
+  },
+  "-necessary-for-safety-uttarakhand-police-enforces-13-ft-heig": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "khan|war",
+    "norm": 53.9
+  },
+  "auqib-nabi-replaces-jasprit-bumrah-in-india-test-squad-for-s": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "bumrah|mp",
+    "norm": 53.5
+  },
+  "counting-underway-for-datia-assembly-bypoll-in-madhya-prades": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "congress|mla|mp|poll",
+    "norm": 52.1
+  },
+  "kerala-rains-kozhikode-on-high-alert-as-kakkayam-reservoir-n": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "alert",
+    "norm": 46.3
+  },
+  "nandi-hill-cable-car-forest-clearance-pending-but-constructi": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "another-review-on-the-cards-more-changes-likely-in-india-s-b": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
+    "signature": "bumrah",
+    "norm": 44.3
+  },
+  "education-qualification-of-prashant-kishor-from-master-s-in-": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
     "signature": "",
     "norm": 36
   },
-  "hasina-may-make-her-first-public-appearance-this-week-since-": {
-    "firstSeen": "2026-08-03T00:08:02.874Z",
+  "-one-of-the-longest-nights-of-my-life-taslima-nasreen-recall": {
+    "firstSeen": "2026-08-03T04:40:47.438Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
