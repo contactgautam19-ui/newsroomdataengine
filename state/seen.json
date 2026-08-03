@@ -1,37 +1,42 @@
 {
-  "opposition-mps-protest-over-ram-temple-donation-theft": {
-    "firstSeen": "2026-08-03T21:16:28.984Z",
-    "signature": "ayodhya|mp|opposition|protest|protest",
-    "norm": 76.8
+  "trump-slams-big-oil-firms-for-making-too-much-money-amid-ira": {
+    "firstSeen": "2026-08-03T23:15:40.212Z",
+    "signature": "election|election|iran|mp|president|price|prices|slam|slams|trump|trump|war",
+    "norm": 98
   },
-  "baghel-asks-workers-to-beware-of-traitors-within-punjab-cong": {
-    "firstSeen": "2026-08-03T21:16:28.984Z",
-    "signature": "congress|election|election|war",
-    "norm": 71.6
+  "withdraw-cases-allow-youngsters-to-continue-studies-sc-to-st": {
+    "firstSeen": "2026-08-03T23:15:40.212Z",
+    "signature": "fear|gst|protest|protest|record|supreme court",
+    "norm": 79.5
   },
-  "cauvery-water-issue-dmk-members-walk-out-from-both-houses-in": {
-    "firstSeen": "2026-08-03T21:16:28.984Z",
-    "signature": "congress|mp|protest|protest|rajya sabha",
-    "norm": 69
+  "j-amp-k-days-after-kulgam-terror-attack-man-with-grenade-hel": {
+    "firstSeen": "2026-08-03T23:15:40.212Z",
+    "signature": "attack|attack|mp|terror|terror",
+    "norm": 77.5
   },
-  "delhi-police-move-against-social-media-handles-over-misleadi": {
-    "firstSeen": "2026-08-03T21:16:28.984Z",
-    "signature": "protest|protest|video",
-    "norm": 57.1
+  "whatsapp-reviews-multiple-accounts-in-india-temporarily-bloc": {
+    "firstSeen": "2026-08-03T23:15:40.212Z",
+    "signature": "ipl|mp|war|warning",
+    "norm": 77.5
   },
-  "after-success-of-students-protest-kisan-morcha-plans-to-hit-": {
-    "firstSeen": "2026-08-03T21:16:28.984Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "youth-congress-workers-protest-outside-gadkari-s-house-in-na": {
+    "firstSeen": "2026-08-03T23:15:40.212Z",
+    "signature": "congress|mp|protest|protest",
+    "norm": 65.3
   },
-  "-flavouring-neutral-alcohol-isn-t-right-in-spirit-": {
-    "firstSeen": "2026-08-03T21:16:28.984Z",
-    "signature": "mp",
-    "norm": 44
+  "noisy-scenes-in-punjab-assembly-over-paper-leaks": {
+    "firstSeen": "2026-08-03T23:15:40.212Z",
+    "signature": "exam|ipl|opposition",
+    "norm": 60.8
   },
-  "honey-to-cow-ghee-fssai-orders-dabur-to-stop-sale-of-product": {
-    "firstSeen": "2026-08-03T21:16:28.984Z",
-    "signature": "",
-    "norm": 36
+  "india-crosses-20k-organ-transplants-yr-for-1st-time": {
+    "firstSeen": "2026-08-03T23:15:40.212Z",
+    "signature": "china|record",
+    "norm": 52
+  },
+  "census-phase-2-to-begin-aug-17-will-capture-caste-parents-bi": {
+    "firstSeen": "2026-08-03T23:15:40.212Z",
+    "signature": "record",
+    "norm": 40.7
   }
 }
