@@ -1,181 +1,71 @@
 {
-  "-no-saint-involved-yogi-reveals-sit-probe-finding-on-ram-tem": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "controversy|fund|mp|parliament|protest|protest|row|yogi",
-    "norm": 84
-  },
-  "opposition-stalls-rajya-sabha-over-ram-temple-donation-scam-": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "brutal|mp|opposition|panic|rajya sabha|ram mandir|scam",
-    "norm": 79.3
-  },
-  "pok-erupts-in-protest-election-rigging-allegations-crackdown": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "election|election|pakistan|protest|protest",
+  "withdraw-all-cases-against-protesters-cpi-mp-to-modi": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "modi|modi|mp|protest|protest",
     "norm": 75.3
   },
-  "jharkhand-exam-protest-enters-day-7-aspirants-demand-cbi-pro": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "exam|iran|khan|protest|protest",
-    "norm": 75
+  "20-lakh-names-left-out-as-first-phase-of-sir-ends-in-punjab": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "dead|dead|lakh",
+    "norm": 67.6
   },
-  "parliament-clears-bill-for-stronger-birth-death-registration": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "amit shah|bill|death|minister|opposition|parliament|protest|protest|rajya sabha",
-    "norm": 74.1
+  "political-discourse-still-fails-women-leaders": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "backlash|congress|maharashtra",
+    "norm": 66
   },
-  "indian-flagged-ship-attacked-capsizes-in-red-sea-all-14-crew": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "attack|attack|rescue|rescue",
-    "norm": 68.4
+  "three-persons-killed-in-separate-road-accidents-in-vellore": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "accident|killed|killed",
+    "norm": 62.9
   },
-  "siddaramaiah-maintains-studied-silence-over-cabinet-expansio": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "cabinet|chief minister|congress|died|minister|row",
-    "norm": 68
-  },
-  "heavy-rains-lash-kerala-25-dead-4-missing-10-injured-red-ale": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "alert|dead|dead|heavy rain|injured|red alert",
-    "norm": 67.4
-  },
-  "supreme-court-seeks-centre-s-response-on-plea-for-protocol-t": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "crowd|row|supreme court|war",
-    "norm": 66.3
-  },
-  "actor-khushbu-sundar-slams-dmk-s-udhayanidhi-stalin-for-his-": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "actor|actress|controversy|slam|slams",
-    "norm": 65.5
-  },
-  "-was-treated-like-a-terrorist-udhayanidhi-stalin-s-first-rem": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "row|terror|terror",
-    "norm": 64.5
-  },
-  "from-box-office-buddies-to-political-rivals-vijay-udhayanidh": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "box office|film|movie|row",
+  "udhayanidhi-stalin-arrested-for-misogynist-remarks-released-": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "high court|protest|protest",
     "norm": 61.1
   },
-  "supreme-court-extends-third-party-insurance-cover-of-new-veh": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "accident|mp|supreme court",
-    "norm": 59.7
-  },
-  "kerala-rains-2026-death-toll-in-rain-related-incidents-rises": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "death|toll",
-    "norm": 59.3
-  },
-  "punjab-clears-over-6-000-crore-in-pay-commission-arrears-rev": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "crore|high court|mp",
-    "norm": 59.3
-  },
-  "-strongly-condemn-unprovoked-attack-india-after-cargo-ship-s": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "attack|attack",
-    "norm": 57.6
-  },
-  "eu-eyes-tougher-border-controls-after-ceuta-migrant-surge-tr": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "border|fuel|minister",
-    "norm": 57.6
-  },
-  "transport-department-to-crack-down-on-illegal-bike-taxis-in-": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "tax|threat",
+  "crude-extends-decline-on-hopes-for-u-s-iran-deal": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "deal|iran",
     "norm": 57.1
   },
-  "ncp-asks-sharad-pawar-to-seek-congress-apology-or-quit-india": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "congress|war",
-    "norm": 55.4
+  "work-expedited-to-construct-macro-drains-to-carry-flood-wate": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "flood|flood",
+    "norm": 54.2
   },
-  "no-insurance-no-fuel-supreme-court-asks-centre-to-launch-pil": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "fuel|supreme court",
-    "norm": 53.2
+  "ernakulam-steps-up-emergency-measures-after-red-alert": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "alert|red alert",
+    "norm": 53.9
   },
-  "karnataka-cabinet-expansion-brings-back-insider-outsider-deb": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "cabinet|congress|minister",
-    "norm": 52.7
+  "basic-facilities-lacking-in-relief-camps-says-cpi-m-kerala-s": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "chief minister|minister|mp",
+    "norm": 50.9
   },
-  "bengaluru-professor-rescued-from-confinement": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "rescue|rescue",
-    "norm": 52.4
+  "channi-s-options-shrink-as-congress-refuses-to-budge-in-punj": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "congress",
+    "norm": 45.9
   },
-  "what-caused-air-india-flight-s-300-foot-plunge-phuket-delhi-": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "result|sudden",
-    "norm": 52.4
-  },
-  "shashi-tharoor-to-attend-rss-chief-mohan-bhagwat-s-gen-z-gen": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "congress|mp",
-    "norm": 48.7
-  },
-  "madras-high-court-restrains-chennai-police-from-probing-tvk-": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "high court|mla",
-    "norm": 48.7
-  },
-  "bjp-demands-apology-from-congress-in-karnataka-for-insulting": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "bjp|congress",
-    "norm": 48.7
-  },
-  "students-in-severe-pain-need-apology-not-pm-s-forgiveness-ra": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "congress|rahul gandhi",
-    "norm": 48.7
-  },
-  "eyewitness-in-k-m-basheer-death-case-involving-kerala-ias-of": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "death",
-    "norm": 46.3
-  },
-  "muslim-body-denounces-taslima-nasrin-s-inflammatory-remarks-": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "mp",
+  "madras-high-court-adjourns-pallikaranai-construction-ban-cas": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "high court",
     "norm": 44
   },
-  "students-allege-spoiled-food-served-at-au-hostel-v-c-orders-": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "mp",
+  "supree-court-mandates-sops-mechanisms-to-curb-digital-arrest": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
+    "signature": "fund",
     "norm": 44
   },
-  "-will-do-whatever-is-necessary-india-responds-after-pakistan": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "pakistan",
-    "norm": 44
-  },
-  "bengaluru-semiconductor-ecosystem-in-spotlight": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
+  "satyabrata-sahoo-posted-as-commissioner-of-economics-and-sta": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "-my-words-had-only-one-meaning-udhayanidhi-stalin-rejects-tr": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-i-said-nothing-wrong-udhayanidhi-stalin-released-on-bail-af": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "",
-    "norm": 36
-  },
-  "icar-develops-indigenous-vaccine-for-african-swine-fever": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
-    "signature": "",
-    "norm": 36
-  },
-  "explained-why-fssai-has-cracked-down-on-dabur-s-100-product-": {
-    "firstSeen": "2026-08-04T18:00:39.545Z",
+  "engine-failure-leaves-ro-ro-ferry-adrift-off-kochi": {
+    "firstSeen": "2026-08-04T19:51:39.310Z",
     "signature": "",
     "norm": 33.9
   }
