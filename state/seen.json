@@ -1,211 +1,166 @@
 {
-  "india-slams-pok-polls-as-complete-farce-says-90-killed-since": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "inflation|killed|killed|mp|pakistan|poll|protest|protest|slam|slams",
-    "norm": 94.2
+  "-no-sadhu-involved-yogi-cites-sit-report-in-ram-temple-donat": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "mp|parliament|protest|protest|row|yogi",
+    "norm": 72.3
   },
-  "india-tears-into-pakistan-over-crackdown-on-protesters-calls": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "election|election|killed|killed|mp|pakistan|protest|protest",
-    "norm": 91.2
+  "anand-ranganathan-slams-udhayanidhi-stalin-over-trisha-remar": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "actress|controversy|minister|slam|slams",
+    "norm": 71.8
   },
-  "-hollow-electoral-exercise-india-slams-pakistan-over-farce-p": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "border|election|election|pakistan|poll|slam|slams|terror|terror",
-    "norm": 91
+  "champat-rai-visits-ayodhya-temple-in-first-public-appearance": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "ayodhya|controversy|mp|row",
+    "norm": 71
   },
-  "registration-of-births-and-deaths-bill-passed-by-rajya-sabha": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "bill|death|minister|opposition|protest|protest|rajya sabha|record|vote",
-    "norm": 80.5
+  "akhilesh-calls-bypoll-results-bjp-s-12-year-return-gift-lala": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "bjp|poll|result|results|results",
+    "norm": 69.1
   },
-  "-roll-back-e20-punjab-assembly-passes-resolution-against-cen": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "petrol|petrol|policy|war",
-    "norm": 75.5
+  "pakistan-responded-to-pok-discontent-with-bullets-blackouts-": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "death|pakistan|protest|protest",
+    "norm": 67.9
   },
-  "hyderabad-woman-held-after-allegedly-drowning-9-month-old-da": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "actor|death|drown|row",
-    "norm": 69.7
+  "indian-economy-to-hit-5-trillion-mark-in-fy29-as-per-imf-fin": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "economy|gdp|minister|price|prices|rajya sabha|trillion",
+    "norm": 67.1
   },
-  "congress-faces-backlash-over-gungi-gudiya-remark-on-sunetra-": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "backlash|congress|controversy|minister|prime minister|war",
-    "norm": 69.5
-  },
-  "andhra-pradesh-s-growth-rate-at-11-3-ahead-of-telangana-s-sa": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "chief minister|crore|minister|row",
-    "norm": 68
-  },
-  "farmer-killed-by-wild-elephants-near-andhra-pradesh-tamil-na": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "border|killed|killed",
-    "norm": 67.6
-  },
-  "trisha-remark-row-udhayanidhi-stalin-released-hours-after-ar": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "actor|high court|row",
-    "norm": 64.2
-  },
-  "26-year-old-champion-boxer-arrested-in-athens-suitcase-death": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "cctv|death|footage|mp",
-    "norm": 63.9
-  },
-  "-amit-shah-has-amazing-memory-clarity-of-thoughts-anupam-khe": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "amit shah|ipl|minister|mp",
-    "norm": 63.5
-  },
-  "bihar-was-looking-for-a-new-leader-after-lalu-nitish-not-tej": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "bjp|threat|war",
-    "norm": 62.5
-  },
-  "-why-can-t-modi-shah-come-to-house-oppn-cjp-ask-as-parliamen": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "modi|modi|opposition|parliament",
-    "norm": 61.8
-  },
-  "-will-do-whatever-is-necessary-india-after-pak-deploys-250-c": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "election|election|pakistan",
+  "new-birth-and-death-registration-rules-explained-what-change": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "bill|death|parliament",
     "norm": 61.4
   },
-  "centre-summons-meta-public-policy-head-again-amid-row-over-p": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "policy|row|video",
-    "norm": 61.1
+  "no-insurance-no-fuel-supreme-court-proposes-big-rule-change-": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "fuel|mp|supreme court",
+    "norm": 59.3
   },
-  "six-neet-ug-candidates-move-supreme-court-over-alleged-discr": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "neet|supreme court",
-    "norm": 57.1
-  },
-  "-we-thought-we-would-die-air-india-passengers-recall-terrify": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "deal|row",
+  "ncpcr-launches-inquiry-into-meta-over-child-exploitation-adv": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "exam|mp",
     "norm": 55.4
   },
-  "-offensive-remarks-to-detention-6-points-on-udhayanidhi-stal": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "mp|row",
+  "snail-declared-extinct-in-1996-returns-to-norfolk-island-aft": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "anger|mp",
     "norm": 55.4
   },
-  "bombay-high-court-seeks-response-from-state-bar-council-on-s": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "bomb|high court",
-    "norm": 55.4
-  },
-  "telangana-to-unveil-bharat-future-city-master-plan-during-gl": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "investor|summit",
+  "udhayanidhi-s-speech-not-befitting-the-office-he-holds-thiru": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "budget|mp",
     "norm": 55
   },
-  "sir-migration-low-awareness-drive-karnataka-s-high-asddo-num": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "record|war",
+  "silt-fills-almost-half-the-storage-in-kerala-s-malankara-dam": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "flood|flood",
     "norm": 54.2
   },
-  "delhi-high-court-gives-four-weeks-to-kejriwal-other-aap-lead": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "aap|high court|kejriwal|mp",
-    "norm": 53.9
+  "local-body-in-idukki-tackles-flood-by-clearing-streams-and-c": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "flood|flood",
+    "norm": 54.2
   },
-  "watch-guatemala-on-high-alert-as-fuego-volcano-erupts-near-c": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "alert|watch",
-    "norm": 52.4
+  "supreme-court-proposes-no-fuel-for-uninsured-vehicles-asks-c": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "fuel|supreme court",
+    "norm": 53.2
   },
-  "pm-to-visit-kyrgyzstan-uzbekistan-as-india-eyes-bigger-role-": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "china|minister|prime minister|summit",
-    "norm": 52.1
+  "abhimanyu-murder-case-kerala-high-court-directs-completion-o": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "high court|mp",
+    "norm": 50.5
   },
-  "-arrogance-leads-to-destruction-mk-stalin-slams-vijay-over-u": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "slam|slams",
-    "norm": 52.1
-  },
-  "cauvery-water-from-karnataka-s-kabini-reservoir-reaches-hoge": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "mp|record",
-    "norm": 52
-  },
-  "opinion-opinion-inside-the-cabinet-drama-that-has-shook-the-": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "cabinet|congress",
+  "pakistan-boxer-qudratullah-goes-missing-in-glasgow-after-cwg": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "mp|pakistan",
     "norm": 48.7
   },
-  "-cjp-got-30-million-views-bjp-only-10-mn-parl-panel-chief-al": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "bjp|parliament",
-    "norm": 48.7
+  "tamil-nadu-weavers-among-recipients-of-national-handloom-awa": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "war",
+    "norm": 48.2
   },
-  "alluri-sitarama-raju-international-airport-a-new-gateway-for": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "row",
-    "norm": 46.3
+  "kerala-govt-appoints-anjana-m-as-special-secretary-of-disast": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "disaster",
+    "norm": 48.2
   },
-  "udhayanidhi-stalin-education-qualification-from-loyola-colle": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
+  "udhayanidhi-stalin-arrest-live-updates-leader-of-opposition-": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
     "signature": "opposition",
     "norm": 45.9
   },
-  "udhayanidhi-stalin-arrest-live-updates-dmk-calls-it-an-act-o": {
-    "firstSeen": "2026-08-04T09:45:51.609Z",
+  "andhra-pradesh-high-court-advances-hearing-on-kambalakonda-s": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
     "signature": "high court",
     "norm": 45.9
   },
-  "sc-mandates-sops-mechanisms-to-curb-digital-arrests-facilita": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "fund",
+  "civil-supplies-minister-orders-audit-of-cmr-operations-since": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "abvp-calls-for-statewide-college-bandh-over-education-issues": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
+  "bjp-alleges-unscientific-construction-of-canal-on-thrissur-s": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "t-fiber-to-be-sole-internet-provider-for-govt-offices": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "air-india-flight-s-300-feet-mid-air-plunge-what-happens-when": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
-    "signature": "sudden|suddenly",
+  "udhayanidhi-stalin-released-after-questioning-at-sengipatti-": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "actor",
+    "norm": 44.3
+  },
+  "odisha-s-pucca-ghar-yojana-mining-eligibility-process-purpos": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "mp",
     "norm": 44
   },
-  "ksrtc-to-launch-non-ac-sleeper-service-between-bengaluru-and": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
+  "kerala-government-removes-performance-linked-conditions-for-": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
     "signature": "",
     "norm": 36
   },
-  "industry-leaders-seek-better-civic-infrastructure-road-conne": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
+  "udhayanidhi-stalin-walks-out-after-90-minute-police-question": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
     "signature": "",
     "norm": 36
   },
-  "three-common-medicines-classified-as-carcinogenic-by-who-can": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
+  "holiday-in-kerala-s-pathanamthitta-district": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
     "signature": "",
     "norm": 36
   },
-  "tvk-government-does-not-want-udhayanidhi-in-tamil-nadu-assem": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
+  "markfed-makes-profit-in-e-auction-of-nearly-11lt-of-maize-pr": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
     "signature": "",
     "norm": 36
   },
-  "aiadmk-chief-edappadi-palaniswami-condemns-udhayanidhi-stali": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
+  "industry-integrated-phd-research-programme-launched": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "contamination-in-rivers-sc-suggests-rajasthan-come-out-with-": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
+  "konaseema-farmers-declare-crop-holiday-over-irrigation-drain": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "kochi-corporation-writes-to-kerala-govt-seeking-approval-for": {
-    "firstSeen": "2026-08-04T12:11:55.219Z",
+  "trees-felled-on-kaifi-azmi-road-in-banjara-hills-for-h-citi-": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
+    "signature": "",
+    "norm": 36
+  },
+  "sc-calls-to-dismantle-men-s-clubs-in-bar-councils-orders-co-": {
+    "firstSeen": "2026-08-04T15:32:33.935Z",
     "signature": "",
     "norm": 33.9
   }
