@@ -1,137 +1,212 @@
 {
-  "fire-breaks-out-at-electronic-chip-unit-in-noida-two-firefig": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "actor|blaze|collapse|collapse|collapse|fire|fire|injured|killed|killed|mp|sudden|suddenly",
-    "norm": 99.5
+  "viral-video-shows-dolphin-carrying-dead-newborn-in-apparent-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "dead|dead|drone|footage|mourning|video|viral|viral|viral|viral video",
+    "norm": 92.5
   },
-  "meta-under-fire-nishikant-dubey-demands-zuckerberg-s-apology": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "controversy|fire|fire|minister|modi|modi|mp|parliament|prime minister|video",
+  "-time-he-met-this-fate-bjp-hails-udhayanidhi-stalin-s-arrest": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "actor|attack|attack|bjp|chief minister|controversy|minister|protest|protest",
     "norm": 91.9
   },
-  "noida-teen-mother-forced-to-flee-shift-homes-thrice-after-th": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "modi|modi|protest|protest|threat|video|viral|viral|viral",
-    "norm": 87.1
+  "will-gold-prices-stay-range-bound-in-the-current-scenario-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "gold|gold price|iran|khan|modi|modi|price|prices",
+    "norm": 84.5
   },
-  "-wake-up-call-prashant-kishor-has-a-message-for-pm-modi-afte": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "bjp|congress|modi|modi|protest|protest|upset",
-    "norm": 83.8
+  "propriety-in-public-discourse-on-udhayanidhi-stalin-s-double": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "actor|chief minister|crowd|minister|mp|row",
+    "norm": 75.5
   },
-  "puncture-fixers-outnumbered-students-at-jantar-mantar-protes": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "bjp|opposition|protest|protest|row",
-    "norm": 70.4
+  "-tvk-trying-to-suppress-oppn-voice-dmk-s-first-reaction-to-u": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "actor|protest|protest|rally|rally",
+    "norm": 72.3
   },
-  "four-states-saw-deadly-water-outbreaks-centre": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "dead|dead|hospital|outbreak",
+  "-ready-to-face-consequences-udhayanidhi-stalin-after-arrest-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "actor|protest|protest|rally|rally",
+    "norm": 72.3
+  },
+  "-arsenal-of-freedom-us-rushes-to-rebuild-missile-stock-amid-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "ipl|iran|mp|war",
+    "norm": 71
+  },
+  "heavy-rain-lashes-north-kerala-bayar-in-kasaragod-records-hi": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "heavy rain|record|war|warning",
+    "norm": 70
+  },
+  "udhayanidhi-stalin-arrested-after-trisha-remarks-at-rally-ta": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "mp|protest|protest|rally|rally",
+    "norm": 69.6
+  },
+  "congress-stalling-parliament-blocking-debate-on-key-bills-bj": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "bill|bjp|congress|crore|mp|parliament|rupee",
     "norm": 67.1
   },
-  "nishikant-seeks-zuckerberg-s-apology-over-pm-reel-removal": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "minister|modi|modi|mp|parliament|prime minister",
-    "norm": 65.1
+  "udhayanidhi-stalin-detained-from-chennai-home-over-vulgar-re": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "controversy|mp|rally|rally",
+    "norm": 65.3
   },
-  "bjp-opposition-spar-at-panel-meet-over-meta-s-content-modera": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "bjp|minister|modi|modi|mp|opposition|prime minister",
-    "norm": 63.7
+  "my-goal-is-to-remain-at-the-top-and-continue-piling-on-runs-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "cricket|mp|star",
+    "norm": 62.5
   },
-  "for-the-bjp-the-result-in-bankipur-goes-beyond-just-a-poll-l": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "bjp|poll|result|vote",
-    "norm": 61.8
-  },
-  "govt-tables-indian-statistical-institute-bill-2026-in-lok-sa": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "bill|ipl|lok sabha",
+  "fir-against-udhayanidhi-stalin-harassment-obscenity-charges-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "ipl|mp|opposition",
     "norm": 61.4
   },
-  "in-supreme-court-govt-flags-concerns-over-gender-self-identi": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "exam|ipl|supreme court",
+  "parliament-monsoon-session-day-12-live-opposition-mps-raise-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "bill|lok sabha|mp|opposition|parliament|tax",
+    "norm": 61.3
+  },
+  "-remarks-were-directed-at-bjp-not-at-students-priyank-kharge": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "bjp|exam|recruitment",
     "norm": 60.8
   },
-  "sc-summons-top-arunachal-govt-officials-in-probe-against-kha": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "chief minister|khan|minister|supreme court",
-    "norm": 60
-  },
-  "indian-agents-killed-over-30-let-operatives-in-pak-since-202": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "killed|killed",
+  "andhra-intensifies-search-for-elusive-royal-bengal-tiger-exp": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "attack|attack",
     "norm": 57.6
   },
-  "supreme-court-urges-ed-to-consider-releasing-funds-from-froz": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "congress|fund|supreme court",
-    "norm": 57.6
-  },
-  "kerala-lottery-result-today-live-sthree-sakthi-ss-531-winnin": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "crore|result",
+  "udhayanidhi-stalin-arrested-before-trisha-trash-talk-he-spok": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "bjp|slam",
     "norm": 57.1
   },
-  "channi-s-push-warring-s-resolve-and-rahul-s-challenge-inside": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "congress|war",
+  "udhayanidhi-stalin-trisha-row-madras-hc-to-urgently-hear-bai": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "high court|row",
     "norm": 57.1
   },
-  "whatsapp-puts-multiple-accounts-under-review-temporarily-blo": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "ipl|mp",
+  "from-obscenity-to-provocation-udhayanidhi-stalin-faces-these": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "deal|row",
     "norm": 57.1
   },
-  "when-lalu-yadav-got-a-lovely-shock-why-prashant-kishor-s-ban": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "shock|shock|stunned|upset",
-    "norm": 56.9
+  "shillong-teer-result-today-august-4-2026-check-winning-numbe": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "khan|result",
+    "norm": 55.7
   },
-  "whatsapp-reacts-as-multiple-accounts-including-in-india-put-": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "ipl|mp",
+  "report-claims-pakistan-federation-distanced-itself-from-arsh": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "pakistan|row",
     "norm": 55.4
   },
-  "lok-sabha-passes-bill-to-raise-supreme-court-judges-strength": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "bill|lok sabha|ordinance|supreme court|vote",
-    "norm": 54.4
+  "udhayanidhi-stalin-arrested-in-connection-with-complaint-of-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "actor|mp",
+    "norm": 53.5
   },
-  "donation-theft-at-siddhivinayak-trustees-claim-rs-18-crore-a": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "crore|mp",
-    "norm": 53.2
+  "udhayanidhi-stalin-news-live-udhayanidhi-taken-for-questioni": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "rally|rally",
+    "norm": 52
   },
-  "tn-moves-top-court-to-enforce-cauvery-water-release-order": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "mp|supreme court",
+  "virtual-queue-system-for-darshan-begins-at-guruvayur-temple-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "mp|vote",
     "norm": 50.5
   },
-  "no-women-included-as-karnataka-cabinet-under-dk-shivakumar-g": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "cabinet|minister",
-    "norm": 50.5
+  "did-narottam-mishra-s-ticket-snub-cost-bjp-the-datia-bypoll-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "bjp|poll",
+    "norm": 48.7
   },
-  "maharashtra-issues-order-on-safe-food-in-schools": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "maharashtra",
-    "norm": 46.3
+  "telangana-s-sircilla-weaver-crafts-matchbox-size-handloom-sa": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "match",
+    "norm": 48.2
   },
-  "-be-creative-unconventional-us-military-asks-troops-to-find-": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
+  "udhayanidhi-stalin-arrested-will-non-bailable-charges-make-b": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "ipl",
+    "norm": 48.2
+  },
+  "iran-planned-strikes-on-ukraine-but-backed-down-after-kyiv-s": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
     "signature": "iran",
+    "norm": 48.2
+  },
+  "-politically-motivated-defamatory-dmk-s-first-reaction-to-ud": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "storm",
     "norm": 46.3
   },
-  "despite-uptick-in-july-rainfall-kharif-sowing-remains-below-": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
-    "signature": "mp",
+  "public-drinking-and-unruly-groups-kadapa-police-deploy-drone": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "cctv|drone",
     "norm": 45.9
   },
-  "-want-ties-to-improve-bangladesh-urges-india-to-stop-sheikh-": {
-    "firstSeen": "2026-08-04T03:31:43.347Z",
+  "exclusive-big-statement-by-udhayanidhi-stalin-stalin-says-he": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "opposition",
+    "norm": 44
+  },
+  "siddhivinayak-temple-trust-calls-for-audit-after-mns-chief-r": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
     "signature": "mp",
     "norm": 44
+  },
+  "madras-high-court-agrees-to-hear-urgently-the-anticipatory-b": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "high court",
+    "norm": 44
+  },
+  "overnight-downpour-lashes-telangana-between-august-3-and-aug": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "record",
+    "norm": 42.7
+  },
+  "-not-afraid-of-arrest-udhayanidhi-s-first-response-after-pol": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "",
+    "norm": 36
+  },
+  "dmk-youth-wing-says-udhayanidhi-arrested-to-prevent-him-from": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "",
+    "norm": 36
+  },
+  "apple-restores-telegram-on-app-store-after-brief-csam-relate": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "",
+    "norm": 36
+  },
+  "lovlina-hurt-by-missing-northeast-on-india-map-at-glasgow-re": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "",
+    "norm": 36
+  },
+  "justice-ms-liberhan-who-probed-babri-masjid-demolition-dies-": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "tee-offs-by-14-foreign-golfers-come-as-a-shot-in-the-arm-for": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "crpf-officer-kills-two-colleagues-injures-one-before-killing": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "smoking-inside-an-aircraft-toilet-got-this-kerala-man-arrest": {
+    "firstSeen": "2026-08-04T06:37:36.900Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
