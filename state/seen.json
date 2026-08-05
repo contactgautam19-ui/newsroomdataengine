@@ -1,202 +1,162 @@
 {
-  "parliament-monsoon-session-day-13-live-oppn-protests-continu": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "amit shah|bill|dead|dead|lok sabha|parliament|protest|protest",
-    "norm": 84.4
+  "congress-says-e20-hurt-middle-class-favoured-ethanol-produce": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "congress|diesel|minister|modi|modi|petrol|petrol",
+    "norm": 80.3
   },
-  "parliament-deadlock-continues-kiren-rijiju-meets-rahul-gandh": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "dead|dead|minister|opposition|parliament|protest|protest|rahul gandhi",
-    "norm": 84.4
+  "yogi-calls-opposition-conduct-unconstitutional-amid-uttar-pr": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "ayodhya|mla|opposition|protest|protest|yogi",
+    "norm": 78.8
   },
-  "russian-strikes-on-kyiv-kill-14-overnight-warehouses-damaged": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "bomb|fire|fire|result|tragic|war",
-    "norm": 82.9
+  "govt-proposes-3-day-special-parliament-session-from-aug-16-t": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "bill|mp|neet|parliament|protest|protest",
+    "norm": 77.2
   },
-  "tamil-nadu-budget-2026-tvk-targets-dmk-over-10-lakh-crore-de": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "attack|attack|budget|crore|lakh|minister",
-    "norm": 81.3
+  "-don-t-hide-answer-in-parliament-opposition-mps-slam-amit-sh": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "amit shah|congress|mp|opposition|parliament|president|protest|protest|slam",
+    "norm": 75.6
   },
-  "isi-backed-terror-module-busted-in-amritsar-planned-attack-a": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "attack|attack|policy|terror|terror|war",
-    "norm": 79.9
-  },
-  "intelligence-wings-alerts-telangana-govt-of-potential-disrup": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "alert|chief minister|jobs|minister|recruitment",
-    "norm": 79.4
-  },
-  "siddhivinayak-temple-donation-scandal-9-arrested-as-politica": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "alliance|controversy|maharashtra|mp|opposition|ruling|war",
-    "norm": 79.4
-  },
-  "us-iran-conflict-el-nino-why-rbi-did-not-hike-repo-rate-desp": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "actor|economy|governor|iran|rbi|repo rate",
-    "norm": 78.1
-  },
-  "sitharaman-introduces-tax-amendment-bill-to-attract-global-c": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "bill|lok sabha|mp|opposition|protest|protest|tax|vote",
-    "norm": 76.7
-  },
-  "opposition-protests-in-parliament-mps-demand-amit-shah-s-pre": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "amit shah|minister|mp|opposition|parliament|protest|protest|row",
-    "norm": 75.4
-  },
-  "-we-ll-know-in-48-hours-trump-warns-iran-to-open-hormuz-or-g": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "iran|mp|trump|trump|war",
-    "norm": 75
-  },
-  "former-pakistan-cricketers-face-possible-pcb-ban-here-s-why": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "cricket|cricketer|ipl|mp|pakistan|sanction",
-    "norm": 73.7
-  },
-  "why-rbi-held-rates-while-global-central-banks-turned-hawkish": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "inflation|mp|policy|rbi|row",
+  "tamil-nadu-budget-daily-after-school-sports-period-to-be-int": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "budget|crore|gold|minister|mp",
     "norm": 73.6
-  },
-  "opposition-mps-take-out-protest-march-in-parliament-complex-": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "amit shah|congress|mp|opposition|parliament|president|protest|protest",
-    "norm": 70.7
   },
   "tamil-nadu-budget-2026-live-updates-finance-minister-marie-w": {
     "firstSeen": "2026-08-05T06:38:28.971Z",
     "signature": "budget|gold|minister|neet",
     "norm": 70.6
   },
-  "as-ganeshotsav-nears-the-pop-idol-battle-drags-on-in-bombay-": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "bomb|high court|ipl",
-    "norm": 66
+  "bombay-hc-allows-nitin-gadkari-to-sue-meta-google-over-ai-de": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "bomb|high court|minister|policy|video",
+    "norm": 69
   },
-  "bombay-high-court-questions-police-over-refusal-to-file-fir-": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "bomb|death|high court",
-    "norm": 66
+  "tamil-nadu-budget-specialised-government-law-college-to-be-s": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "budget|exam|minister|neet",
+    "norm": 69
   },
-  "bombardier-beetle-carries-its-own-chemical-bomb-against-pred": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "bomb|explosion|explosion|fire|fire",
-    "norm": 65.1
+  "cjp-to-act-as-a-pressure-group-abhijeet-dipke-shifts-focus-t": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "maharashtra|neet|protest|protest",
+    "norm": 68.4
   },
-  "shillong-teer-result-today-august-5-2026-check-winning-numbe": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "khan|result|results|results",
-    "norm": 63.7
+  "kerala-faces-deadly-landslides-amid-intensifying-monsoon-rai": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "dead|dead|landslide|war",
+    "norm": 68
   },
-  "tamil-nadu-budget-300-crore-habitation-development-scheme-fo": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "budget|crore|minister|mp",
-    "norm": 63.5
+  "maharashtra-govt-bans-analogue-paneer-for-one-year-cites-foo": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "lakh|maharashtra|mp",
+    "norm": 63.9
   },
-  "msmes-not-growing-due-to-policy-deficiency-congress-mp-prave": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "congress|mp|policy|row",
+  "street-protests-by-nc-pdp-mark-7th-anniversary-of-abrogation": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "mp|protest|protest",
+    "norm": 62.8
+  },
+  "devendra-mahto-student-leader-on-hunger-strike-in-jharkhand-": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "khan|protest|protest|watch",
+    "norm": 62.5
+  },
+  "delimitation-bill-under-legal-scanner-ex-lok-sabha-secretary": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "bill|lok sabha|parliament|war",
     "norm": 61.8
   },
-  "maharashtra-eci-grants-2nd-sir-extension-draft-roll-to-be-pu": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "election|election|maharashtra",
+  "j-k-ladakh-witnessed-wide-ranging-transformation-since-artic": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 61.8
+  },
+  "siddhivinayak-temple-donation-row-explained-arrests-allegati": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "mp|row|scam",
     "norm": 60.8
   },
-  "himachal-to-launch-new-health-insurance-scheme-with-10-lakh-": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "chief minister|lakh|minister",
+  "seafarers-union-urges-pm-modi-to-deploy-navy-after-indian-ve": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "modi|modi|navy",
+    "norm": 59.7
+  },
+  "faridabad-teacher-murder-accused-planned-attack-months-back-": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "attack|attack",
     "norm": 59.3
   },
-  "tamil-nadu-budget-tvk-led-government-announces-super-clean-s": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "budget|lakh|mp",
-    "norm": 57.6
+  "terrorist-hideout-unearthed-in-j-k-s-poonch": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "terror|terror",
+    "norm": 59.3
   },
-  "right-to-be-forgotten-karnataka-high-court-directs-authoriti": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "high court|mp|record",
-    "norm": 56.4
+  "row-over-kerala-cm-s-helicopter-trip-refuses-to-die-down-as-": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "investor|row",
+    "norm": 57.1
   },
-  "southern-philippines-jolted-by-powerful-6-3-magnitude-earthq": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "earthquake|earthquake",
-    "norm": 54.2
+  "air-india-turbulence-scare-injured-on-a-flight-5-rights-ever": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "deal|injured",
+    "norm": 57.1
   },
-  "-i-could-have-resigned-too-karnataka-cm-shivakumar-recalls-c": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "cabinet|congress|minister|mla",
-    "norm": 52.1
+  "tn-sslc-supplementary-result-2026-out-download-class-10-mark": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "exam|result|results|results",
+    "norm": 56.2
   },
-  "news-outlets-can-report-courts-but-cannot-utilise-audio-vide": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "supreme court|video",
-    "norm": 52
+  "chargesheet-filed-in-actor-dileep-s-media-trial-case-kerala-": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "actor|high court|mp",
+    "norm": 56.1
   },
-  "-heavens-won-t-fall-if-6-stanzas-are-sung-calcutta-hc-on-man": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "high court|mp",
-    "norm": 50.5
+  "fugitive-wanted-in-rs-88-crore-investment-fraud-to-face-depo": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "crore|fraud",
+    "norm": 55.4
   },
-  "tamil-nadu-budget-vetri-skill-training-scheme-to-be-launched": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "budget|lakh",
-    "norm": 50.5
+  "siam-s-now-withdrawn-letter-what-the-science-says-about-chlo": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "petrol|petrol",
+    "norm": 55.4
   },
-  "-thudakkam-trailer-vismaya-mohanlal-s-debut-promises-an-intr": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "actor|film|trailer",
-    "norm": 50.1
+  "microsoft-retires-8-year-old-employee-tool-here-s-hr-s-messa": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "mp|war",
+    "norm": 55.4
   },
-  "aero-india-to-be-held-in-february-2027-in-bengaluru-karnatak": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "chief minister|minister",
-    "norm": 48.7
+  "parliament-monsoon-session-day-13-live-lok-sabha-adjourned-f": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "bill|lok sabha|parliament|rajya sabha",
+    "norm": 53.9
   },
-  "can-trains-transport-human-organs-here-s-how-vande-bharat-he": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "war",
-    "norm": 46.3
+  "three-maoists-carrying-22-lakh-bounty-arrested-in-jharkhand-": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "khan|lakh",
+    "norm": 51.7
   },
-  "racists-are-minority-they-exist-everywhere-australian-minist": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "minister",
+  "special-parliament-session-called-women-s-reservation-delimi": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "bill|opposition|parliament",
+    "norm": 50.9
+  },
+  "if-you-don-t-have-third-party-insurance-for-cars-and-bikes-y": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
+    "signature": "fuel",
     "norm": 45.9
   },
-  "tvk-govt-presents-first-budget-in-assembly-fin-min-hails-vij": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
+  "tamil-nadu-budget-session-to-continue-till-september-8-entir": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
     "signature": "budget",
-    "norm": 44
+    "norm": 45.9
   },
-  "railway-ministry-reiterates-bedroll-kit-directive-for-rac-pa": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "amarnath-yatra-suspended-from-jammu-amid-tight-security-on-a": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "odisha-may-halt-hydropower-generation-to-prioritise-drinking": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
+  "child-rights-panel-directs-goa-govt-to-ban-entry-of-children": {
+    "firstSeen": "2026-08-05T09:44:12.030Z",
     "signature": "",
     "norm": 36
-  },
-  "tn-fin-min-wilson-praises-cm-vijay-as-true-jananayagan-": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "",
-    "norm": 36
-  },
-  "insect-eating-plant-proves-darwin-s-150-year-old-theory-righ": {
-    "firstSeen": "2026-08-05T06:38:28.971Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
