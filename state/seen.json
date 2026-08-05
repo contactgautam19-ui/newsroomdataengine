@@ -1,187 +1,192 @@
 {
-  "uttarakhand-rains-trigger-landslides-boulder-crashes-into-go": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "alert|crash|crash|heavy rain|khan|landslide|storm|war|warning",
-    "norm": 83.5
+  "tvk-vijay-s-first-tamil-nadu-budget-sparks-dmk-attack-zero-b": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "attack|attack|backlash|budget|controversy|economy|opposition|row|trillion",
+    "norm": 87.9
   },
-  "parliament-monsoon-session-day-13-highlights-rajya-sabha-cle": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "bill|lok sabha|mp|opposition|parliament|protest|protest|rajya sabha|scam",
-    "norm": 75.6
+  "-don-t-use-students-for-politics-bjp-attacks-rahul-over-jant": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "attack|attack|bjp|fire|fire|protest|protest|rahul gandhi",
+    "norm": 87.2
   },
-  "tamil-nadu-budget-daily-after-school-sports-period-to-be-int": {
-    "firstSeen": "2026-08-05T09:44:12.030Z",
-    "signature": "budget|crore|gold|minister|mp",
-    "norm": 73.6
+  "cjp-backs-jharkhand-students-protest-will-work-as-a-pressure": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "election|election|election commission|khan|protest|protest",
+    "norm": 83.2
   },
-  "watch-indian-cargo-ship-engulfed-in-flames-amp-smoke-after-p": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "fire|fire|mp|rescue|rescue|smoke|watch",
-    "norm": 72.6
+  "govt-is-open-to-talks-jharkhand-cm-tells-protesting-students": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "exam|khan|mp|protest|protest",
+    "norm": 79.4
   },
-  "tamil-nadu-budget-tvk-led-government-needs-two-years-to-rest": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "budget|minister|row|war",
-    "norm": 70.6
+  "aidso-protest-prompts-vsku-to-reduce-admission-fee-by-1-100": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "fund|mp|protest|protest",
+    "norm": 71
   },
-  "-don-t-need-to-apologise-to-anyone-rahul-gandhi-comes-out-in": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "mp|protest|protest|rahul gandhi",
-    "norm": 66.9
+  "-forcibly-demanding-apology-of-15-year-old-rahul-gandhi-meet": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "gst|protest|protest|rahul gandhi",
+    "norm": 69.4
   },
-  "mark-zuckerberg-apologises-after-modi-govt-s-tough-talk-on-c": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "election|election|modi|modi",
-    "norm": 66.6
+  "kerala-rain-orange-alert-in-7-districts-schools-shut-in-floo": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "alert|flood|flood|mp",
+    "norm": 67.9
   },
-  "ex-bangladesh-pm-sheikh-hasina-s-india-address-return-electi": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "election|election|war",
-    "norm": 66
+  "crpf-constable-dies-by-suicide-in-manipur-police": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "injured|killed|killed",
+    "norm": 64.5
   },
-  "elamanchili-station-footfall-grows-11-halts-sought-for-expre": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "bill|crore|row",
-    "norm": 63.9
+  "two-women-in-flood-hit-polavaram-dist-give-birth-to-two-girl": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "flood|flood|floods|hospital",
+    "norm": 62.3
   },
-  "tamil-nadu-budget-consecration-in-3-000-temples-over-five-ye": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "budget|crore|minister|mp",
-    "norm": 63.5
-  },
-  "tamil-nadu-budget-state-s-outstanding-debt-pegged-at-10-98-l": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "budget|crore|lakh|mp|tax",
-    "norm": 62.5
-  },
-  "j-k-ladakh-witnessed-wide-ranging-transformation-since-artic": {
-    "firstSeen": "2026-08-05T09:44:12.030Z",
-    "signature": "minister|modi|modi|prime minister",
+  "between-placards-and-parliament-what-a-pressure-group-is-and": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "election|election|parliament|policy",
     "norm": 61.8
   },
-  "gurugram-scooter-rider-shocked-by-rs-1-lakh-pending-traffic-": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "lakh|shock|shock",
-    "norm": 61.1
+  "tamil-nadu-budget-tvk-government-merely-changed-the-name-of-": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "budget|chief minister|minister",
+    "norm": 59.3
   },
-  "jharkhand-jpsc-jssc-protest-enters-day-12-government-invites": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "khan|protest|protest",
-    "norm": 59.7
+  "pakistan-deploys-new-drones-hovercraft-and-commandos-near-in": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "border|china|drone|pakistan",
+    "norm": 58.6
   },
-  "tamil-nadu-budget-2026-live-updates-one-sovereign-gold-coin-": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "budget|gold",
+  "tamil-nadu-s-first-mangrove-conservation-centre-coming-up-in": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "crore|war",
     "norm": 57.1
   },
-  "kerala-govt-has-begun-work-on-long-term-disaster-resilience-": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "budget|disaster",
+  "bjp-seeks-action-against-those-denigrating-hindu-religion-te": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "bjp|mp|video",
+    "norm": 56.4
+  },
+  "sheikh-hasina-hails-pm-modi-says-india-has-always-stood-by-b": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "modi|modi",
     "norm": 55.4
   },
-  "tamil-nadu-budget-palaniswami-gives-zero-marks-to-tvk-govern": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "budget|ruling",
-    "norm": 55
+  "police-modernisation-scheme-awaits-finance-ministry-s-nod-ce": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "cctv|death",
+    "norm": 54.2
   },
-  "tamil-nadu-budget-m-k-stalin-terms-tvk-led-government-s-revi": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "budget|mp",
-    "norm": 55
+  "telangana-bjp-to-take-congress-govt-s-anti-people-policies-t": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "bjp|congress|poll|vote",
+    "norm": 53.9
   },
-  "govt-opposition-stand-off-continues-as-rahul-sticks-to-deman": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "minister|opposition|parliament|rahul gandhi",
+  "kanpur-lucknow-expressway-toll-suspended-after-300-metre-sli": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "actor|toll",
+    "norm": 53.9
+  },
+  "nagpur-horror-class-12-girl-held-captive-raped-by-instagram-": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "horror|instagram",
+    "norm": 53.9
+  },
+  "special-session-from-august-16-to-18-for-women-s-quota-delim": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "bill|congress|parliament",
+    "norm": 52.7
+  },
+  "air-india-phuket-delhi-flight-faced-turbulence-for-four-five": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "hospital|injured",
     "norm": 52.1
   },
-  "defamatory-post-against-kerala-chief-minister-cyber-police-r": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "chief minister|congress|minister",
-    "norm": 50.9
+  "west-bengal-mosques-remove-loudspeakers-public-interest-or-r": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "mp|opposition|ruling|supreme court",
+    "norm": 52.1
   },
-  "telangana-cm-makes-strong-pitch-to-centre-for-increase-in-tu": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "minister|mp",
+  "inside-betsey-johnson-s-7-5m-hidden-hills-estate-with-mounta": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "mp|star",
+    "norm": 51.7
+  },
+  "t-n-budget-launches-2-117-crore-cm-s-integrated-urban-missio": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "budget|crore",
     "norm": 50.5
   },
-  "parliament-monsoon-session-day-13-live-lok-sabha-adjourned-f": {
-    "firstSeen": "2026-08-05T09:44:12.030Z",
-    "signature": "lok sabha|parliament",
+  "jagan-has-no-moral-right-to-speak-about-tobacco-farmers-plig": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "coalition|mp",
     "norm": 50.5
   },
-  "kerala-govt-plans-new-housing-project-to-resettle-fishers-sa": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "chief minister|minister",
-    "norm": 48.7
+  "pcb-orders-closure-of-freshcut-poultry-waste-rendering-unit-": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "mp|poll",
+    "norm": 50.5
   },
-  "rajasthan-couple-flee-after-tribal-woman-branded-witch-assau": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "death",
+  "opinion-article-370-seven-years-of-transformation": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "war",
     "norm": 46.3
   },
-  "india-rejects-pakistan-s-youm-e-istehsal-on-article-370-abro": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "pakistan",
+  "cancel-leave-granted-to-jailed-bjp-councillor-sugathan-says-": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "bjp",
     "norm": 45.9
   },
-  "breaking-meta-s-zuckerberg-says-i-am-sorry-as-meta-faces-hea": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "mp",
+  "dc-forms-panel-to-probe-pollution-of-kabini-backwaters": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "poll",
     "norm": 45.9
   },
-  "adulterated-spices-fake-paneer-and-other-violations-detected": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
+  "bharath-reiterates-commitment-to-transform-kurnool-into-a-sm": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "karnataka-transport-department-seizes-263-illegal-bike-taxis": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "tax",
+    "norm": 45.9
+  },
+  "udf-facilitating-sangh-agenda-in-universities-says-pinarayi": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
+    "signature": "governor",
+    "norm": 45.9
+  },
+  "up-woman-mother-of-5-children-marries-lover-husband-arranges": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
     "signature": "mp",
     "norm": 44
   },
-  "sudden-showers-hit-parts-of-hyderabad-on-august-5-after-sunn": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "sudden",
-    "norm": 42.7
-  },
-  "experts-at-the-hindu-s-wellness-webinar-stress-the-need-to-s": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
+  "sexual-abuse-and-murder-of-child-in-palakkad-prime-accused-h": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
     "signature": "",
     "norm": 36
   },
-  "sheikh-hasina-delhi-press-conference-live-ex-bangladesh-pm-t": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
+  "who-is-tewolde-gebremariam-former-ethiopian-airlines-chief-w": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
     "signature": "",
     "norm": 36
   },
-  "iim-kozhikode-launches-bloomberg-finance-lab-to-strengthen-g": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
+  "tirupati-gears-up-for-credai-property-show-from-august-7": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
     "signature": "",
     "norm": 36
   },
-  "ex-home-secretary-gopal-pillai-former-interlocutor-radha-kum": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
+  "farmers-urged-to-adopt-drought-resilient-indigenous-crop-var": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
     "signature": "",
     "norm": 36
   },
-  "india-safely-moved-60-ships-through-strait-of-hormuz-during-": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
+  "-whatever-fate-awaits-me-i-will-return-to-my-people-sheikh-h": {
+    "firstSeen": "2026-08-05T15:24:43.021Z",
     "signature": "",
-    "norm": 33.9
-  },
-  "scientists-explain-how-surface-chlorophyll-reached-1-000-met": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "moving-car-gutted-in-kerala-s-kozhikode-driver-escapes-unhur": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "meta-ceo-zuckerberg-apologises-for-child-abuse-ads-deepfakes": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "zuckerberg-apologises-to-india-over-deepfakes-child-sexual-a": {
-    "firstSeen": "2026-08-05T12:09:19.245Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
