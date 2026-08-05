@@ -1,171 +1,91 @@
 {
-  "jharkhand-sir-over-43-lakh-voters-deleted-in-draft-electoral": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "dead|dead|khan|lakh|record|vote",
-    "norm": 85.4
+  "iran-threatens-to-hit-gulf-states-if-us-launches-new-strikes": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "ipl|iran|mp|president|threat|trump|trump|war|warning",
+    "norm": 94.6
   },
-  "commercial-plane-takes-off-as-trump-s-helicopter-nears-airpo": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "mp|president|tragic|trump|trump",
-    "norm": 72
+  "-may-get-jailed-or-killed-sheikh-hasina-vows-december-return": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "killed|killed|minister|prime minister",
+    "norm": 70
   },
-  "meta-faces-regulatory-scrutiny-in-india-following-prime-mini": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "controversy|minister|parliament|prime minister|video",
-    "norm": 69
-  },
-  "appraiser-of-private-bank-among-three-held-for-1-5-crore-gol": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "crore|fraud|gold",
-    "norm": 67.6
-  },
-  "death-of-student-triggers-protest-at-bu-s-jnanabharathi-camp": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "death|mp|protest|protest",
-    "norm": 66.3
-  },
-  "-pakistan-asked-for-ceasefire-we-kept-them-waiting-ex-defenc": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "defence|fire|fire|pakistan",
-    "norm": 65.3
-  },
-  "bomb-attack-at-shakib-al-hasan-s-house-hours-after-sheikh-ha": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "attack|attack|bomb",
-    "norm": 64.5
-  },
-  "mark-zuckerberg-sends-apologies-for-errors-in-operating-the-": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "minister|modi|modi|policy",
-    "norm": 63.5
-  },
-  "12-rat-miners-who-saved-41-trapped-workers-in-silkyara-award": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "rescue|rescue|war",
+  "assam-cm-meets-family-of-boy-who-died-saving-puppy-from-floo": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "died|flood|flood",
     "norm": 63.2
   },
-  "learn-from-senior-mps-stay-clear-of-delhi-intrigues-pm-to-ne": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "modi|modi|mp",
-    "norm": 59.7
+  "rijiju-meets-rahul-in-bid-to-end-parliament-logjam": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "bill|minister|parliament|row",
+    "norm": 61.8
   },
-  "-grievous-insult-bangladesh-issues-strong-protest-over-sheik": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "outrage|protest|protest",
-    "norm": 59.6
-  },
-  "rain-eases-normalcy-returns-in-ernakulam": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "war|warning",
+  "rinl-employees-ask-pmo-to-clear-pending-salaries-vrs-settlem": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "crore|fund|mp",
     "norm": 57.6
   },
-  "new-nuclear-plan-as-us-updates-war-strategy-against-china-or": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
+  "tamil-nadu-budget-tvk-government-merely-changed-the-name-of-": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "budget|chief minister|minister",
+    "norm": 57.6
+  },
+  "tamil-nadu-budget-2026-updates-one-sovereign-gold-for-brides": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "budget|gold",
+    "norm": 55.4
+  },
+  "tamil-nadu-budget-tvk-government-s-maiden-budget-strikes-rig": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "budget|row",
+    "norm": 55.4
+  },
+  "us-plans-new-nuclear-strategy-in-case-of-war-with-china-or-r": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
     "signature": "china|war",
-    "norm": 57.1
-  },
-  "from-telecom-scale-to-space-tech-samtel-ropes-in-bharti-airt": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "defence|war",
     "norm": 55.4
   },
-  "hyderabad-ca-dies-by-suicide-by-inhaling-helium-over-gaming-": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "mp|tragic",
-    "norm": 55.4
-  },
-  "mob-tires-to-set-shakib-hasan-s-house-on-fire-for-attending-": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "fire|fire",
+  "20-leo-satellites-at-higher-collision-risk-due-to-crowding-s": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "crowd|row",
     "norm": 54.2
   },
-  "dgma-warns-of-cyber-threats-as-ports-automate-operations": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "threat|war",
-    "norm": 53.9
+  "sir-excludes-1-8-lakh-voters-from-meghalaya-s-draft-electora": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "lakh|vote",
+    "norm": 53.2
   },
-  "parliament-clears-bill-to-increase-number-of-judges-in-supre": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "bill|congress|mp|opposition|parliament|supreme court",
-    "norm": 52.9
-  },
-  "amit-shah-responsible-for-action-against-students-lacks-cour": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "amit shah|opposition|parliament|rahul gandhi",
-    "norm": 52.1
-  },
-  "gujarat-bans-analogue-paneer-health-minister-says-it-is-not-": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "minister|mp",
-    "norm": 50.5
-  },
-  "ed-s-search-and-seizure-operations-are-not-independent-civil": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "high court|mp",
+  "t-n-budget-govt-announces-ai-planning-approvals-new-housing-": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "budget|lakh",
     "norm": 48.7
   },
-  "top-official-reviews-independence-day-arrangements-at-parade": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "ibm-consulting-futurenow-centre-now-in-visakhapatnam": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "gujarat-bans-analogue-paneer-cheese-butter-to-protect-public": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "mp",
+  "army-chief-general-dhiraj-seth-visits-central-command-hq-luc": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "army",
     "norm": 44
   },
-  "cm-seeks-simplification-of-h-1b-visa-processing-renewal-and-": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "mp",
+  "google-shakes-up-ai-leadership-demis-hassabis-takes-on-broad": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "gst",
     "norm": 44
   },
-  "next-navic-satellite-ready-for-launch-says-govt-no-lift-off-": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "mp",
+  "allocation-for-higher-education-drops-in-tamil-nadu-budget-2": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
+    "signature": "budget",
     "norm": 44
   },
-  "sudden-showers-hit-parts-of-hyderabad-on-august-5-after-sunn": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "sudden",
-    "norm": 40.7
-  },
-  "bengaluru-traffic-police-introduce-trial-diversions-at-madiw": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
+  "navigation-sat-nvs-03-ready-for-launch-3-more-to-follow-spac": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "ex-pm-sheikh-hasina-announces-plan-to-return-to-bangladesh": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
+  "ysrcp-s-search-for-political-momentum": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "dr-ntruhs-invites-applications-for-admissions-to-mbbs-dental": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "hippo-calf-born-at-bannerughatta-biological-park": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "centre-issues-lois-for-11-new-flying-training-schools-annual": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "aero-india-to-be-back-in-bengaluru-in-february-2027": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "bmrcl-to-energise-underground-metro-third-rail-on-reach-6-fr": {
-    "firstSeen": "2026-08-05T17:51:14.459Z",
+  "tourism-ministry-s-partnership-with-netflix-youtube-can-crea": {
+    "firstSeen": "2026-08-05T19:49:54.001Z",
     "signature": "",
     "norm": 33.9
   }
