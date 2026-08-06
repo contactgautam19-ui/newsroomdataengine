@@ -1,96 +1,106 @@
 {
-  "temjen-says-nagaland-will-examine-assam-mining-concerns-call": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "exam|flood|flood|floods",
-    "norm": 71
+  "six-of-family-including-two-infants-killed-as-century-old-ho": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "alert|collapse|collapse|collapse|fan|heavy rain|hospital|killed|killed|rescue|rescue|tragic",
+    "norm": 91.5
   },
-  "deal-on-hormuz-shipping-route-reached-with-oman-says-iran": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "deal|iran|war",
-    "norm": 67.6
+  "video-shows-petrol-bomb-attack-on-shakib-al-hasan-s-home-aft": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "attack|attack|bomb|petrol|petrol|video",
+    "norm": 85.7
   },
-  "4-tonne-piece-of-spacex-rocket-smashes-into-moon": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "crash|crash|mp",
-    "norm": 63.9
+  "parliament-monsoon-session-2026-live-updates-lok-sabha-deadl": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "bill|dead|dead|lok sabha|parliament",
+    "norm": 73.6
   },
-  "zendaya-becomes-2026-highest-grossing-actor-as-tom-holland-j": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "actor|bill|billion",
-    "norm": 63.2
+  "ramayana-to-clash-with-godzilla-minus-zero-on-nov-6-for-imax": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "box office|clash|clash|film|mp",
+    "norm": 71.4
   },
-  "-will-continue-working-on-them-israeli-media-reports-irgc-ch": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "iran|israel",
+  "3-workers-killed-2-injured-after-gas-leak-at-chemical-plant-": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "gas leak|injured|killed|killed",
+    "norm": 67.1
+  },
+  "pakistan-crackdown-in-pok-draws-protests-on-uk-streets": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "pakistan|protest|protest",
+    "norm": 62.8
+  },
+  "jharkhand-protests-cid-arrests-5-more-students-open-to-dialo": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "khan|protest|protest",
+    "norm": 61.4
+  },
+  "-1-300-crore-to-fund-key-women-welfare-schemes-tvk-govt-sets": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "budget|crore|fund|mp",
+    "norm": 59.7
+  },
+  "assam-flood-toll-rises-to-95-himanta-nadda-visit-worst-hit-v": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "flood|flood|toll",
+    "norm": 57.9
+  },
+  "tuda-tmc-get-down-to-flood-proof-tirupati": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "flood|flood",
+    "norm": 52.4
+  },
+  "education-qualification-of-tukaram-mundhe-from-upsc-air-20-t": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "maharashtra|upsc",
     "norm": 52.1
   },
-  "home-filmed-without-my-consent-cjp-spokesperson-saurav-das": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "film|mp",
-    "norm": 51.7
+  "high-court-to-rule-on-tarun-tejpal-s-acquittal-today-what-is": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "high court|verdict",
+    "norm": 50.5
   },
-  "from-the-hindu-archives-august-6-1976-more-students-fancy-sn": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "fan",
-    "norm": 47.4
+  "delhi-high-court-dismisses-plea-seeking-review-of-parliament": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "high court|parliament",
+    "norm": 48.7
   },
-  "cops-help-usury-victim-recover-property-after-rs-91-lakh-coe": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "lakh",
-    "norm": 47.1
-  },
-  "dri-seizes-13-containers-of-illegally-imported-pak-dates-at-": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "mp",
-    "norm": 47.1
+  "why-mechuka-trout-quest-is-drawing-anglers-to-arunachal-prad": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "row",
+    "norm": 46.3
   },
   "maharashtra-food-and-drug-administration-places-one-year-ban": {
     "firstSeen": "2026-08-05T23:14:42.362Z",
     "signature": "maharashtra",
     "norm": 46.3
   },
-  "calcutta-high-court-dismisses-abhishek-banerjee-s-plea-to-vi": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "high court",
+  "ncp-sp-dissolves-state-spokespersons-panel-national-spokespe": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "us-to-reject-incomplete-visa-green-card-applications-under-n": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "mp",
     "norm": 44
   },
-  "congressman-shri-thanedar-loses-democrat-primary-from-michig": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "congress",
+  "shiv-sena-dispute-supreme-court-calls-for-clear-criteria-to-": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "supreme court",
     "norm": 44
   },
-  "boy-defends-mother-from-being-beaten-kills-intoxicated-fathe": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "",
-    "norm": 37.4
+  "jantar-mantar-done-what-next-for-cjp-ashutosh-ranka-teases-b": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
+    "signature": "video",
+    "norm": 40.7
   },
-  "ed-raids-homes-of-silchar-biz-men-in-burmese-betel-nut-smugg": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
+  "nilekani-panel-s-mandate-largely-overlaps-radhakrishnan-comm": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
     "signature": "",
-    "norm": 37.4
+    "norm": 33.9
   },
-  "draft-electoral-rolls-for-east-khasi-east-garo-hills-release": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "ban-on-heavy-machinery-for-riverbed-mining-in-dimapur-guwaha": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "virgo-horoscope-today-august-06-2026-day-could-bring-small-c": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "tripura-sets-up-4-member-task-force-to-address-smart-meter-i": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "appeals-court-says-fishermen-claim-in-lobster-defamation-sui": {
-    "firstSeen": "2026-08-05T23:14:42.362Z",
+  "who-is-pnc-infratech-lucknow-kanpur-expressway-sinks-yet-fir": {
+    "firstSeen": "2026-08-06T03:30:13.820Z",
     "signature": "",
     "norm": 33.9
   }
