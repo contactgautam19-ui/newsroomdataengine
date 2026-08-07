@@ -1,101 +1,96 @@
 {
-  "thailand-school-shooting-teen-kills-grandparents-at-home-5-a": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "fire|fire|injured|killed|killed|mp|shooting|tragic",
-    "norm": 84.6
+  "goa-neet-protest-stooped-to-lowest-intellectual-level-says-c": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "minister|neet|protest|protest",
+    "norm": 71.4
   },
-  "nhrc-seeks-report-on-deaths-in-assam-factory-explosion": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "actor|death|explosion|explosion|injured",
-    "norm": 75
+  "-little-hope-of-tracing-2-missing-sailors-centre-informs-sup": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "attack|attack|drone|supreme court",
+    "norm": 71.4
   },
-  "fir-lodged-over-death-of-phd-scholar-in-punjab-university-of": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "death|lakh|mp|protest|protest",
-    "norm": 74.3
+  "after-death-of-devotee-entry-to-tiruvannamalai-s-idukku-pill": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "death|died|mp|row|vote",
+    "norm": 67.5
   },
-  "supreme-court-shunts-out-2-coal-scam-judges-on-unusual-delhi": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "high court|scam|sharma|supreme court",
-    "norm": 68.3
+  "gallantry-award-for-former-police-officer-centre-assures-of-": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "high court|mp|supreme court|war",
+    "norm": 61.8
   },
-  "audio-clips-linking-biren-to-manipur-unrest-doctored-governm": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "modi|modi|record|supreme court",
-    "norm": 66.9
-  },
-  "india-s-crude-import-bill-up-26-in-26-27-q1-despite-18-volum": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "bill|billion|fuel|mp|price|prices",
-    "norm": 66.6
-  },
-  "discrepancies-in-validating-kunbi-caste-certificates-jarange": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "dead|dead|threat",
-    "norm": 62.9
-  },
-  "how-whatsapp-clue-mygate-trail-help-cbi-crack-neet-paper-lea": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "exam|neet|scam",
-    "norm": 62.9
-  },
-  "seafarers-safety-highest-priority-says-indian-embassy-in-ukr": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "attack|attack|threat",
-    "norm": 62.9
-  },
-  "more-rains-predicted-in-delhi-imd-issues-yellow-alert": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "alert|rally|rally",
+  "allahabad-hc-dismisses-petition-of-mohammad-ali-jauhar-trust": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "mp|protest|protest",
     "norm": 61.1
   },
-  "india-rejects-us-criticism-of-fcra-bill-mea-calls-it-interna": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "amit shah|bill|congress|fund|minister",
-    "norm": 60.8
-  },
-  "sbsp-chief-rajbhar-targets-akhilesh-through-yadav-plank": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "mp|president|war",
-    "norm": 59.7
-  },
-  "tariffs-conflicts-demand-policy-rethink-c-rangarajan": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "governor|policy|rbi",
-    "norm": 57.6
-  },
-  "post-pahalgam-panel-proposes-security-boost-at-major-j-amp-k": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "cctv|mp|parliament",
-    "norm": 56.4
-  },
-  "27-arunachal-border-locations-get-standard-names-to-snub-chi": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "border|china|mp",
+  "gender-integration-in-india-s-uniformed-services-the-coast-g": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "air force|army|navy",
     "norm": 50.9
   },
-  "rockfall-near-munnar-headworks-dam-in-kerala-disrupts-traffi": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "tragedy",
+  "india-urges-china-for-river-cooperation-presses-for-data-sha": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "border|china",
+    "norm": 50.5
+  },
+  "supreme-court-quashes-2021-order-on-ex-post-facto-environmen": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "supreme court|upset",
+    "norm": 50.2
+  },
+  "govt-had-told-hc-to-reject-petition-on-waqf-board-reconstitu": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "president-murmu-hails-gulveer-singh-harjinder-kaur-for-cwg-2": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
-    "signature": "president",
+  "kerala-rains-monsoon-likely-to-intensify-imd-sounds-orange-a": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "alert",
+    "norm": 46.3
+  },
+  "kerala-lok-ayukta-bans-unregistered-institutions-from-using-": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "-i-got-angry-ashwin-reveals-why-he-stopped-talking-to-sanjay": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "fuel",
+    "norm": 45.9
+  },
+  "i-amp-b-ministry-eyeing-framework-to-regulate-ott-content": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "air-india-s-new-pilot-framework-senior-first-officers-must-j": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "air-india-announces-pay-hikes-for-pilots-raises-salary-by-up": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "mp",
     "norm": 44
   },
-  "need-for-moderation-in-public-speech": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
+  "cyberabad-police-advise-staggered-early-logouts-starting-3-3": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "trainee-ips-officer-arrested-in-sexual-harassment-case": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
     "signature": "",
     "norm": 33.9
   },
-  "bescom-introduces-pm-e-drive-portal-for-private-charge-point": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
+  "tamil-nadu-cm-vijay-hands-over-appointment-orders-to-126-tnp": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
     "signature": "",
     "norm": 33.9
   },
-  "telangana-unlikely-to-face-drinking-water-shortage-major-res": {
-    "firstSeen": "2026-08-07T22:51:25.307Z",
+  "over-25-sir-enumeration-forms-not-returned-to-blos-so-far": {
+    "firstSeen": "2026-08-07T23:43:26.279Z",
     "signature": "",
     "norm": 33.9
   }
