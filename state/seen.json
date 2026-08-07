@@ -1,126 +1,101 @@
 {
-  "assam-floods-death-toll-reaches-75-mlas-to-donate-a-month-s-": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "congress|death|flood|flood|floods|mla|opposition|toll",
-    "norm": 85.8
+  "rajya-sabha-mp-moves-supreme-court-against-use-of-facial-rec": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "match|mp|neet|protest|protest|rajya sabha|supreme court",
+    "norm": 83.5
   },
-  "iltija-faces-fir-questioning-over-assault-on-cop-omar-calls-": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "attack|attack|chief minister|match|minister|mp",
-    "norm": 81.7
+  "biren-singh-s-audio-clip-altered-says-centre-sc-allows-manip": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "chief minister|killed|killed|match|minister",
+    "norm": 81.3
   },
-  "jharkhand-protest-update-government-panel-meets-students-ove": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "exam|khan|protest|protest|recruitment",
-    "norm": 75
+  "kerala-cpi-m-s-self-critical-review-document-preludes-an-org": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "election|election|row|star|vote",
+    "norm": 76.6
   },
-  "cockroaches-spreading-their-filth-who-is-birthing-them-kanga": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "congress|protest|protest|slam",
-    "norm": 67.9
+  "ysrcp-will-intensify-agitation-over-mega-dsc-irregularities-": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "anger|mp|protest|protest|row",
+    "norm": 70.5
   },
-  "india-s-gen-z-wants-pakistan-to-end-terror-activities-govt": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 67.6
+  "indian-army-contingent-to-participate-in-seychelles-50th-ind": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "army|gold|minister|modi|modi|navy|prime minister",
+    "norm": 70.1
   },
-  "ahead-of-2027-punjab-polls-aap-s-welfare-spree-sparks-questi": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "aap|election|election|opposition|poll|vote",
-    "norm": 65.1
+  "ysrcp-stages-protests-across-state-over-dsc-irregularities-d": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "protest|protest|rally|rally",
+    "norm": 63.9
   },
-  "maharashtra-government-decides-to-withdraw-firs-against-prot": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "maharashtra|protest|protest",
-    "norm": 64.9
-  },
-  "unwise-to-link-women-s-quota-with-delimitation-k-t-rama-rao": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "minister|modi|modi|prime minister",
+  "naidu-directs-comprehensive-support-for-farmers-in-a-p-amid-": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "chief minister|minister|mp|threat",
     "norm": 63.5
   },
-  "jharkhand-government-holds-talks-with-student-protesters-in-": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "khan|protest|protest",
-    "norm": 61.4
+  "vmc-seizes-640-9-kg-of-single-use-plastic-during-surprise-in": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "surprise|war",
+    "norm": 54.2
   },
-  "high-onion-prices-costly-gas-push-up-home-cooked-thali-costs": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "budget|mp|price|prices",
-    "norm": 59.7
-  },
-  "police-put-up-posters-of-lashkar-commander-across-j-amp-k-de": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "mp|war",
-    "norm": 55.4
-  },
-  "dmk-reiterates-demand-to-scrap-neet": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "exam|neet",
-    "norm": 53.9
-  },
-  "punjab-assembly-aap-mla-questions-minister-over-non-bidding-": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "aap|minister|mla",
-    "norm": 50.9
-  },
-  "chief-minister-vijay-inaugurates-handloom-expo": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "chief minister|minister",
+  "edappally-aroor-elevated-highway-project-in-kochi-put-on-hol": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "minister|mp",
     "norm": 50.5
   },
-  "no-solar-wind-renewable-energy-project-within-1-km-of-intern": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "border|pakistan",
-    "norm": 50.5
-  },
-  "congress-s-remarks-on-pralhad-joshi-are-misleading-condemnab": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "bjp|congress",
-    "norm": 50.5
-  },
-  "jadavpur-university-ragging-death-after-3-years-of-court-dat": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "death",
+  "residents-of-old-age-home-steal-the-scene-at-fashion-show-fo": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "row",
     "norm": 48.2
   },
-  "eco-tourism-based-livelihood-opportunities-the-only-way-forw": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "war",
+  "dr-ntruhs-v-c-announces-strict-penalties-for-exam-malpractic": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "exam",
     "norm": 48.2
   },
-  "health-department-forms-30-special-teams-to-inspect-hotels-r": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "star",
-    "norm": 44.3
+  "relief-camps-shut-in-kerala-s-ernakulam-as-rain-situation-ea": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "kl-deemed-university-signs-mou-with-vajiram-ravi-for-civil-s": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "record",
-    "norm": 42.7
+  "dacl-fine-chem-to-set-up-500-crore-chemical-unit-in-ksez": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "crore",
+    "norm": 45.9
   },
-  "political-parties-urge-govt-to-convene-all-party-meeting-on-": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
+  "bengaluru-is-part-of-mercedes-benz-s-140-year-global-anniver": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "guntur-police-arrest-six-for-stealing-91-motor-pump-sets": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "former-kerala-cm-pinarayi-vijayan-says-arrest-attempt-of-stu": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "32-fall-ill-after-eating-snacks-in-kakinada": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
     "signature": "",
     "norm": 36
   },
-  "indo-japan-relations-critical-to-stability-of-indo-pacific-r": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
+  "woman-auto-driver-allegedly-denied-right-to-work-reinstated-": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
     "signature": "",
     "norm": 36
   },
-  "vit-chennai-inks-mou-on-technology-training-with-malaysian-s": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
+  "volunteers-extend-support-to-giri-pradakshina-pilgrims": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
     "signature": "",
     "norm": 36
   },
-  "dcre-police-personnel-in-karnataka-to-receive-hardship-allow": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
-    "signature": "",
-    "norm": 36
-  },
-  "scale-reshapes-industry-economics-says-kumar-mangalam-birla": {
-    "firstSeen": "2026-08-07T19:10:37.181Z",
+  "latur-municipal-authorities-visit-ambedkar-memorial-as-part-": {
+    "firstSeen": "2026-08-07T20:53:27.270Z",
     "signature": "",
     "norm": 36
   }
