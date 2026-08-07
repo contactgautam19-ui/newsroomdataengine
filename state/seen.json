@@ -1,47 +1,172 @@
 {
-  "15-indian-seafarers-killed-in-west-asia-and-black-sea-confli": {
-    "firstSeen": "2026-08-07T00:11:48.095Z",
-    "signature": "anger|attack|attack|died|drone|killed|killed|mp|threat",
-    "norm": 85.1
+  "trump-confronted-hegseth-over-weapons-shortage-due-to-iran-w": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "iran|mp|president|trump|trump|war",
+    "norm": 76.9
   },
-  "11-injured-in-yemen-s-houthi-strikes-on-saudi-arabia": {
-    "firstSeen": "2026-08-07T00:11:48.095Z",
-    "signature": "attack|attack|coalition|injured|toll|unprecedented",
-    "norm": 78.7
+  "kiren-rijiju-calls-rahul-gandhi-in-new-bid-to-end-logjam": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "bill|dead|dead|lok sabha|minister|mp|opposition|parliament|rahul gandhi",
+    "norm": 75.4
   },
-  "amid-cyber-threats-it-ministry-asked-to-expedite-hirings": {
-    "firstSeen": "2026-08-07T00:11:48.095Z",
-    "signature": "parliament|recruitment|sanction|threat",
-    "norm": 70
+  "sc-hopeful-of-settlement-in-sunjay-kapur-family-inheritance-": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "actor|cry|record|row|supreme court|war",
+    "norm": 75.4
   },
-  "justice-for-agrigold-victims-brooks-no-delay-naidu-officials": {
-    "firstSeen": "2026-08-07T00:11:48.095Z",
-    "signature": "deal|gold|mp",
-    "norm": 65.6
+  "bumrah-told-to-take-a-break-selectors-urged-to-recall-shami-": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "bumrah|ipl|mp|war",
+    "norm": 74.2
   },
-  "purandeswari-condemns-attack-on-pg-medical-student-in-rajama": {
-    "firstSeen": "2026-08-07T00:11:48.095Z",
-    "signature": "attack|attack|war",
-    "norm": 64.5
+  "centre-nears-completion-of-its-legislative-agenda-amid-oppos": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "bill|lok sabha|mp|opposition|parliament|protest|protest|rajya sabha",
+    "norm": 70.7
   },
-  "kharge-rijiju-face-off-in-rajya-sabha-opposition-stalls-hous": {
-    "firstSeen": "2026-08-07T00:11:48.095Z",
-    "signature": "amit shah|bill|fund|minister|opposition|parliament|rajya sabha",
-    "norm": 63.2
+  "angry-over-cub-s-death-wild-bear-kills-man-sister-in-chhatti": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "attack|attack|death|died|injured",
+    "norm": 70.5
   },
-  "upi-charges-lok-sabha-passes-bill-for-government-to-make-cha": {
-    "firstSeen": "2026-08-07T00:11:48.095Z",
-    "signature": "bill|lok sabha|mp|tax",
-    "norm": 59.7
+  "jharkhand-protest-day-14-hunger-strike-continues-as-bjp-rahu": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "bjp|khan|protest|protest",
+    "norm": 69.6
   },
-  "land-grab-case-supeme-court-grants-interim-bail-to-abhishek-": {
-    "firstSeen": "2026-08-07T00:11:48.095Z",
-    "signature": "mla|mp|supreme court",
+  "brahmos-gets-the-glory-but-india-s-next-defence-export-bet-m": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "defence|drone|surprise|war",
+    "norm": 66.7
+  },
+  "gutkha-a-tehran-novel-and-more-what-did-cops-find-inside-cra": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "crash|crash|slam",
+    "norm": 66
+  },
+  "centre-meta-to-discuss-policies-compliances-algorithms": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "minister|modi|modi|mp|prime minister",
+    "norm": 64.6
+  },
+  "indian-origin-phd-student-who-went-missing-during-hike-in-us": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "dead|dead|died",
+    "norm": 62.9
+  },
+  "-character-assassination-slander-thirteen-years-later-surviv": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "bomb|high court|mp|verdict",
+    "norm": 61.8
+  },
+  "-23k-cr-plan-to-boost-compressed-biogas-production-gets-cabi": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "cabinet|crore|fuel|mp",
+    "norm": 61.8
+  },
+  "tn-unveils-58k-cr-agriculture-budget-focus-on-el-nino-impact": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "budget|minister|mp",
+    "norm": 59.3
+  },
+  "ed-books-ex-kotak-bank-exec-eight-others-in-mc-funds-case": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "fund|mla|mp",
+    "norm": 57.6
+  },
+  "main-lakhimpur-accused-denied-free-hometown-visits": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "lakh|mp|supreme court",
+    "norm": 57.6
+  },
+  "kerala-lottery-result-today-live-suvarna-keralam-sk-64-winni": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "crore|result",
+    "norm": 57.1
+  },
+  "heavy-rain-batters-kerala-imd-issues-red-alert-for-seven-dis": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "alert|heavy rain|red alert",
+    "norm": 56.6
+  },
+  "shillong-teer-result-today-august-7-2026-check-winning-numbe": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "khan|result",
+    "norm": 55.7
+  },
+  "no-upi-charges-for-consumers-rates-apply-only-to-merchants-s": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "bill|tax",
+    "norm": 55
+  },
+  "andhra-cabinet-decides-to-withdraw-disha-bill": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "bill|cabinet|chief minister|congress|minister",
+    "norm": 54.4
+  },
+  "neet-paper-leak-was-multi-state-criminal-conspiracy-3-nta-ex": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "exam|neet",
+    "norm": 53.9
+  },
+  "3-seek-to-turn-approver-in-renukaswamy-murder": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "actor|war",
+    "norm": 53.9
+  },
+  "stock-market-live-updates-sensex-today-sensex-sheds-370-poin": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "nifty|sensex|stock market",
     "norm": 52.7
   },
-  "moderate-rain-in-north-a-p-barely-enough-to-bridge-deficit-i": {
-    "firstSeen": "2026-08-07T00:11:48.095Z",
-    "signature": "record",
+  "dks-unveils-plans-for-3-lalbagh-like-parks-in-bengaluru": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "chief minister|defence|minister|mp",
+    "norm": 52.1
+  },
+  "fcra-bill-debate-likely-on-aug-12-mizoram-cm": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "amit shah|bill|chief minister|minister",
+    "norm": 52.1
+  },
+  "sc-stays-pleas-in-hcs-against-sahyog-portal": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "high court|supreme court",
+    "norm": 48.7
+  },
+  "software-engineer-arrested-over-air-gun-firing-at-parking-ar": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "-lost-trust-in-all-leaders-sonam-wangchuk-says-rahul-gandhi-": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "rahul gandhi",
+    "norm": 45.9
+  },
+  "2-bjp-workers-among-11-named-in-cbi-charge-sheet-for-murder-": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "bjp",
+    "norm": 44
+  },
+  "sc-denies-asaram-bail-allows-24-x-7-caretaker": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "supreme court",
+    "norm": 44
+  },
+  "5-days-without-clothes-here-s-why-women-in-this-village-foll": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "surprising",
     "norm": 42.7
+  },
+  "sugar-mills-to-start-crushing-early-to-ease-festive-season-s": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "-sir-i-have-a-life-outside-office-gen-z-interviewee-refuses-": {
+    "firstSeen": "2026-08-07T04:01:55.879Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
