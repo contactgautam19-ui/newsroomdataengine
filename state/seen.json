@@ -1,210 +1,170 @@
 {
-  "islamic-nato-taking-shape-what-saudi-pak-turkey-mecca-pact-m": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "attack|attack|deal|defence|iran|israel|mp|pakistan|slam",
-    "norm": 98
+  "education-jobs-inflation-cjp-launches-petition-asking-pm-mod": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "inflation|jobs|minister|modi|modi|mp|prime minister",
+    "norm": 75
   },
-  "news-this-week-assam-flood-crisis-cjp-s-outreach-plan-infant": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "fan|flood|flood|rbi|repo rate|row|toll",
-    "norm": 86.3
+  "-rude-wake-up-call-shashi-tharoor-on-pradhan-s-resignation-o": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "neet|protest|protest",
+    "norm": 63.2
   },
-  "5-of-haridwar-family-killed-as-car-plunges-into-uttarakhand-": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "died|khan|killed|killed|rescue|rescue|war",
-    "norm": 83.6
+  "-paper-agreement-with-turkey-pak-will-not-bring-you-security": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "iran|pakistan|parliament|policy",
+    "norm": 61.8
   },
-  "-exercise-restraint-act-according-to-law-us-urges-pakistan-a": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "election|election|mp|pakistan|protest|protest",
-    "norm": 77.2
+  "hyderabad-man-who-bought-rs-51-lakh-ganesh-laddu-booked-in-r": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "crore|fraud|investor|lakh",
+    "norm": 61.8
   },
-  "faction-wars-how-internal-rifts-are-shaping-punjab-s-polls": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "election|election|mp|poll|war",
-    "norm": 72
+  "t-n-minister-jagadeshwari-objects-to-her-name-being-printed-": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "cabinet|minister|war",
+    "norm": 61.4
   },
-  "-fake-news-mea-rejects-report-that-india-approached-israel-f": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "alliance|deal|defence|israel|pakistan",
-    "norm": 70
+  "food-for-thought-global-food-prices-rise-in-july-as-cereals-": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "price|prices|weather",
+    "norm": 59.7
   },
-  "leopard-that-attacked-poultry-captured-in-forest-dept-cage-i": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "attack|attack|killed|killed",
-    "norm": 69.6
+  "heavy-rain-brings-delhi-ncr-to-a-standstill-waterlogging-tra": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "heavy rain|storm|video",
+    "norm": 59.6
   },
-  "akhil-marar-severs-ties-with-twenty20-levels-allegations-aga": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "actor|election|election|president",
-    "norm": 68.3
+  "-we-demand-that-nta-be-dissolved-cjp-on-cbi-charge-sheet-in-": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "mp|neet",
+    "norm": 57.1
   },
-  "watch-delhi-ncr-drowns-in-rain-chaos-7-videos-show-waterlogg": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "drown|row|video|watch",
-    "norm": 67.6
+  "sabarimala-gold-theft-case-sit-secures-custody-of-former-tdb": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "gold|president",
+    "norm": 57.1
   },
-  "allahabad-hc-grants-parole-to-atiq-ahmad-s-sons-ali-umar-to-": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "accident|died|high court",
-    "norm": 67.6
+  "bike-taxi-association-seeks-halt-to-crackdown-urges-clear-po": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "policy|tax",
+    "norm": 55
   },
-  "char-dham-yatra-suspended-for-two-days": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "alert|heavy rain|landslide|weather",
-    "norm": 67.1
+  "flights-from-bhogapuram-to-foreign-destinations-very-soon-sa": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "lakh|minister",
+    "norm": 55
   },
-  "gurugram-man-cheated-of-rs-1-19-crore-in-insurance-scam-4-ar": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "crore|mp|scam",
-    "norm": 65.6
+  "kerala-high-court-stays-mg-university-vice-chancellor-s-orde": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "fund|high court",
+    "norm": 55
   },
-  "pilgrim-killed-five-injured-as-car-plunges-into-gorge-on-tir": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "injured|killed|killed",
-    "norm": 64.5
+  "ncpi-mps-meet-pm-in-delhi-rebel-trinamool-mlas-meet-cm-in-ko": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "bjp|congress|mamata|mla|mp",
+    "norm": 54.4
   },
-  "-no-appellate-body-assam-christian-forum-flags-provisions-of": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "bill|fund|hospital",
-    "norm": 63.9
+  "iran-officials-would-not-be-surprised-if-mojtaba-khamenei-di": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "iran|surprise",
+    "norm": 54.2
   },
-  "lok-sabha-passes-bill-granting-tax-exemption-to-foreign-bond": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "bill|investor|lok sabha|mp|tax",
-    "norm": 63.9
+  "heavy-rain-to-continue-orange-alert-for-seven-districts-on-a": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "alert|heavy rain",
+    "norm": 53.9
   },
-  "congress-cjp-protested-one-didn-t-resonate-as-much-with-stud": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "congress|protest|protest",
-    "norm": 61.1
+  "-personal-ties-will-remain-but-i-am-politically-with-bjp-ama": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "bjp|congress|rahul gandhi",
+    "norm": 52.7
   },
-  "four-storey-building-tilts-in-east-delhi-s-geeta-colony-all-": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "evacuat|war",
-    "norm": 59.3
+  "bjp-mp-to-propose-bills-seeking-age-checks-for-children-curb": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "bill|bjp|mp",
+    "norm": 50.9
   },
-  "72-year-old-man-dies-by-suicide-in-thane-high-rise-case-file": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "accident|death",
-    "norm": 57.6
-  },
-  "16-maoists-with-six-carrying-39-lakh-bounty-surrender-before": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "khan|lakh",
-    "norm": 53.5
-  },
-  "hyderabad-cyber-crime-police-arrest-49-persons-from-15-state": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "fund|lakh",
+  "cm-vijay-to-hold-consultation-with-tamil-nadu-mps-on-delimit": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "bill|mp",
     "norm": 50.5
   },
-  "kerala-welfare-pensions-cag-had-flagged-problems-in-direct-t": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "crore|rupee",
+  "govt-for-immediate-steps-to-implement-contingency-crop-plan": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "minister|mp",
     "norm": 50.5
   },
-  "sc-asks-gujarat-hc-to-decide-narayan-sai-s-appeal-against-ra": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "exam",
+  "rahul-gandhi-s-next-plan-of-action-is-regarding-the-e20-issu": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "congress|rahul gandhi",
+    "norm": 48.7
+  },
+  "delhi-cabinet-okays-bill-allowing-private-universities-25-qu": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "bill|cabinet",
+    "norm": 48.7
+  },
+  "gen-z-of-backward-classes-must-unite-and-oppose-anti-reserva": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "-upi-free-for-consumers-payments-council-of-india-debunks-ru": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "row",
-    "norm": 46.3
+  "students-using-bmtc-buses-on-nice-road-must-pay-toll-fee-say": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "toll",
+    "norm": 48.2
   },
-  "t-n-agriculture-budget-pitches-schemes-to-tackle-farm-sector": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "budget",
-    "norm": 45.9
-  },
-  "network18-becomes-world-s-no-1-digital-news-and-information-": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "sc-directs-rajasthan-to-set-up-coordination-group-river-comm": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "poll",
-    "norm": 45.9
-  },
-  "adi-kruthike-jatra-mahotsava-concludes-in-shivamogga": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "vote",
-    "norm": 45.9
-  },
-  "uncertainty-over-bjp-councillor-s-continuation-following-ker": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "us-judge-compares-meta-to-public-nuisance-orders-567m-payout": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "airline-technical-defects-hit-five-year-high-in-2025-govt-da": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
+  "govt-to-revive-dist-irrigation-advisory-boards-soon": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
     "signature": "minister",
     "norm": 45.9
   },
-  "india-issues-names-for-27-arunachal-locations-in-response-to": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "china",
+  "finance-secretary-appears-before-hc-in-contempt-case": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "foreign-secretary-misri-meets-vice-president-of-chinese-comm": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "president",
+    "norm": 45.9
+  },
+  "charges-of-irregularities-in-mega-dsc-2025-quota-are-baseles": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "policy",
+    "norm": 45.9
+  },
+  "when-to-expect-apple-s-iphone-18-pro-launch": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
+    "signature": "mp",
     "norm": 44
   },
-  "delhi-high-court-stays-fssai-ban-on-dabur-selling-food-produ": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "high court",
-    "norm": 44
-  },
-  "can-banks-charge-for-upi-payments-now-here-is-what-we-know": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "bill",
-    "norm": 44
-  },
-  "govt-working-on-revival-of-handlooms-sector-tummala": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
+  "why-is-an-ahmedabad-youth-on-hunger-strike-in-abhijit-dipke-": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
     "signature": "",
     "norm": 36
   },
-  "indian-government-does-not-endorse-comments-made-at-sheikh-h": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
+  "class-viii-student-electrocuted-at-tribal-welfare-school-in-": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
     "signature": "",
     "norm": 36
   },
-  "kerala-hc-gives-state-govt-two-weeks-to-inform-long-term-mea": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
+  "bengaluru-city-police-to-be-restructured-on-gba-lines-": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
     "signature": "",
     "norm": 36
   },
-  "techie-booked-over-dutch-woman-s-sexual-harassment-allegatio": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
+  "bhogapuram-residents-raise-concerns-over-low-voltage-frequen": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
     "signature": "",
     "norm": 36
   },
-  "usfda-dca-discuss-ways-to-boost-pharma-manufacturing-and-dru": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "",
-    "norm": 36
-  },
-  "police-seize-11-3-kg-of-ganja-in-tindivanam-one-held": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "",
-    "norm": 36
-  },
-  "police-in-decoy-take-valuables-from-kukatpally-hostels-no-qu": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
+  "metro-services-between-baiyappanahalli-and-mg-road-to-be-sus": {
+    "firstSeen": "2026-08-07T16:07:40.235Z",
     "signature": "",
     "norm": 36
   },
   "-no-cabs-waterlogging-non-stop-rain-grinds-life-to-a-halt-in": {
-    "firstSeen": "2026-08-07T15:05:07.715Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "karnataka-sir-draft-electoral-roll-publication-deferred-to-a": {
     "firstSeen": "2026-08-07T15:05:07.715Z",
     "signature": "",
     "norm": 33.9
