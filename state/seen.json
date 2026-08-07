@@ -1,96 +1,101 @@
 {
-  "us-sanctions-dubai-based-crypto-exchange-over-alleged-irgc-f": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "cry|fund|iran|sanction",
-    "norm": 75.5
+  "thailand-school-shooting-teen-kills-grandparents-at-home-5-a": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "fire|fire|injured|killed|killed|mp|shooting|tragic",
+    "norm": 84.6
   },
-  "gba-to-impose-penalty-of-up-to-1-lakh-for-bengaluru-plot-own": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "dead|dead|lakh|mp",
-    "norm": 75.5
+  "nhrc-seeks-report-on-deaths-in-assam-factory-explosion": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "actor|death|explosion|explosion|injured",
+    "norm": 75
   },
-  "bjp-bids-to-stave-off-jsp-rjd-challenge-as-campaigning-ends-": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "bjp|election|election|mp|president|rajya sabha",
-    "norm": 63.4
+  "fir-lodged-over-death-of-phd-scholar-in-punjab-university-of": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "death|lakh|mp|protest|protest",
+    "norm": 74.3
   },
-  "state-highways-expedites-work-on-24-crore-high-level-bridge-": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "crore|fund|mp",
+  "supreme-court-shunts-out-2-coal-scam-judges-on-unusual-delhi": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "high court|scam|sharma|supreme court",
+    "norm": 68.3
+  },
+  "audio-clips-linking-biren-to-manipur-unrest-doctored-governm": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "modi|modi|record|supreme court",
+    "norm": 66.9
+  },
+  "india-s-crude-import-bill-up-26-in-26-27-q1-despite-18-volum": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "bill|billion|fuel|mp|price|prices",
+    "norm": 66.6
+  },
+  "discrepancies-in-validating-kunbi-caste-certificates-jarange": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "dead|dead|threat",
+    "norm": 62.9
+  },
+  "how-whatsapp-clue-mygate-trail-help-cbi-crack-neet-paper-lea": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "exam|neet|scam",
+    "norm": 62.9
+  },
+  "seafarers-safety-highest-priority-says-indian-embassy-in-ukr": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "attack|attack|threat",
+    "norm": 62.9
+  },
+  "more-rains-predicted-in-delhi-imd-issues-yellow-alert": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "alert|rally|rally",
+    "norm": 61.1
+  },
+  "india-rejects-us-criticism-of-fcra-bill-mea-calls-it-interna": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "amit shah|bill|congress|fund|minister",
+    "norm": 60.8
+  },
+  "sbsp-chief-rajbhar-targets-akhilesh-through-yadav-plank": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "mp|president|war",
+    "norm": 59.7
+  },
+  "tariffs-conflicts-demand-policy-rethink-c-rangarajan": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "governor|policy|rbi",
     "norm": 57.6
   },
-  "bjp-suspends-9-workers-over-berating-slogans-during-august-5": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "bjp|rally|rally",
+  "post-pahalgam-panel-proposes-security-boost-at-major-j-amp-k": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "cctv|mp|parliament",
     "norm": 56.4
   },
-  "chennai-based-anicut-capital-to-invest-in-20-startups-with-1": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "crore|fund|star",
-    "norm": 56.1
+  "27-arunachal-border-locations-get-standard-names-to-snub-chi": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "border|china|mp",
+    "norm": 50.9
   },
-  "sashastra-seema-bal-reserves-50-constable-posts-for-ex-agniv": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "army|recruitment",
-    "norm": 55.4
-  },
-  "giri-pradakshina-jams-visakhapatnam-roads-till-past-midnight": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "lakh|watch",
-    "norm": 50.2
-  },
-  "ahead-of-proposed-strike-haryana-energy-minister-anil-vij-sa": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "minister|mp",
-    "norm": 48.7
-  },
-  "us-court-bars-pentagon-from-adding-wuxi-apptec-to-china-mili": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "china|mp",
-    "norm": 48.7
-  },
-  "a-p-inks-pact-with-astrazeneca-to-set-up-genomic-solutions-c": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "hospital",
+  "rockfall-near-munnar-headworks-dam-in-kerala-disrupts-traffi": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "tragedy",
     "norm": 46.3
   },
-  "bengaluru-revamped-orr-to-include-dedicated-bus-cycle-lanes-": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "mp",
-    "norm": 45.9
+  "president-murmu-hails-gulveer-singh-harjinder-kaur-for-cwg-2": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "president",
+    "norm": 44
   },
-  "new-sculpture-of-celebrated-actor-uttam-kumar-in-kolkata-dra": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "actor",
-    "norm": 42.4
-  },
-  "plus-one-student-allegedly-assaulted-by-seniors-in-kerala-s-": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "",
-    "norm": 36
-  },
-  "centre-says-no-timeline-for-namma-metro-red-line-and-approva": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "",
-    "norm": 36
-  },
-  "uttar-pradesh-jal-nigam-ties-up-with-iim-indore-iit-kanpur-f": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "",
-    "norm": 36
-  },
-  "after-arrest-of-3-kerala-teachers-sit-expands-probe-to-track": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-we-were-mum-on-students-stir-u-p-rld-chief-quits-flags-corr": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
+  "need-for-moderation-in-public-speech": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
     "signature": "",
     "norm": 33.9
   },
-  "150-years-of-the-indian-association-for-the-cultivation-of-s": {
-    "firstSeen": "2026-08-07T21:51:48.733Z",
+  "bescom-introduces-pm-e-drive-portal-for-private-charge-point": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "telangana-unlikely-to-face-drinking-water-shortage-major-res": {
+    "firstSeen": "2026-08-07T22:51:25.307Z",
     "signature": "",
     "norm": 33.9
   }
