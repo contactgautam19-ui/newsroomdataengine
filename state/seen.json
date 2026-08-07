@@ -1,197 +1,47 @@
 {
-  "jharkhand-student-protesters-form-11-member-team-to-hold-tal": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "exam|khan|protest|protest|recruitment",
-    "norm": 76.5
+  "15-indian-seafarers-killed-in-west-asia-and-black-sea-confli": {
+    "firstSeen": "2026-08-07T00:11:48.095Z",
+    "signature": "anger|attack|attack|died|drone|killed|killed|mp|threat",
+    "norm": 85.1
   },
-  "2-dead-after-goods-vehicle-crashes-into-truck-in-lucknow": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "crash|crash|dead|dead|war",
-    "norm": 75.9
+  "11-injured-in-yemen-s-houthi-strikes-on-saudi-arabia": {
+    "firstSeen": "2026-08-07T00:11:48.095Z",
+    "signature": "attack|attack|coalition|injured|toll|unprecedented",
+    "norm": 78.7
   },
-  "electric-fans-used-to-dry-repair-site-on-newly-inaugurated-u": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "fan|heavy rain|mp|tax|toll",
-    "norm": 75.6
+  "amid-cyber-threats-it-ministry-asked-to-expedite-hirings": {
+    "firstSeen": "2026-08-07T00:11:48.095Z",
+    "signature": "parliament|recruitment|sanction|threat",
+    "norm": 70
   },
-  "tamil-nadu-budget-daily-after-school-sports-period-to-be-int": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "budget|crore|gold|minister|mp",
-    "norm": 73.6
+  "justice-for-agrigold-victims-brooks-no-delay-naidu-officials": {
+    "firstSeen": "2026-08-07T00:11:48.095Z",
+    "signature": "deal|gold|mp",
+    "norm": 65.6
   },
-  "tamil-nadu-budget-specialised-government-law-college-to-be-s": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "budget|exam|minister|neet",
-    "norm": 70.6
+  "purandeswari-condemns-attack-on-pg-medical-student-in-rajama": {
+    "firstSeen": "2026-08-07T00:11:48.095Z",
+    "signature": "attack|attack|war",
+    "norm": 64.5
   },
-  "-two-minutes-are-enough-chandrababu-naidu-fires-sharpest-sal": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "chief minister|fire|fire|minister",
-    "norm": 66.9
+  "kharge-rijiju-face-off-in-rajya-sabha-opposition-stalls-hous": {
+    "firstSeen": "2026-08-07T00:11:48.095Z",
+    "signature": "amit shah|bill|fund|minister|opposition|parliament|rajya sabha",
+    "norm": 63.2
   },
-  "tamil-nadu-budget-consecration-in-3-000-temples-over-five-ye": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "budget|crore|minister|mp",
-    "norm": 63.5
+  "upi-charges-lok-sabha-passes-bill-for-government-to-make-cha": {
+    "firstSeen": "2026-08-07T00:11:48.095Z",
+    "signature": "bill|lok sabha|mp|tax",
+    "norm": 59.7
   },
-  "tamil-nadu-budget-state-s-outstanding-debt-pegged-at-10-98-l": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "budget|crore|lakh|mp|tax",
-    "norm": 62.5
-  },
-  "meta-s-india-crisis-government-tightens-grip-over-instagram-": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "instagram|mp|row",
-    "norm": 62.5
-  },
-  "car-plunges-in-to-river-in-idukki-one-dies-three-injured": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "hospital|injured|rescue|rescue",
-    "norm": 62.3
-  },
-  "cabinet-clears-gobardhan-scheme-to-boost-compressed-biogas-p": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "cabinet|crore|fuel|mp",
-    "norm": 61.8
-  },
-  "-every-government-should-listen-to-students-rahul-s-first-re": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "khan|protest|protest",
-    "norm": 61.4
-  },
-  "-momentary-blackout-up-police-reveal-what-caused-atiq-ahmed-": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "crash|crash",
-    "norm": 57.1
-  },
-  "south-africa-recalls-envoy-over-presence-at-event-with-one-o": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "president|war",
-    "norm": 55.4
-  },
-  "temple-economy-can-drive-regional-development-says-cuk-vice-": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "economy|mp",
-    "norm": 55
-  },
-  "india-successfully-test-fires-agni-4-medium-range-ballistic-": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "fire|fire",
-    "norm": 54.2
-  },
-  "yusuf-pathan-asks-shah-to-step-in-halt-removal-of-murshidaba": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "amit shah|congress|minister|mp",
-    "norm": 53.9
-  },
-  "-i-m-your-boss-that-makes-it-simpler-what-tarun-tejpal-told-": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "mp|star",
-    "norm": 53.5
-  },
-  "tamil-nadu-budget-2026-delta-region-farmers-welcome-move-to-": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "budget|price|prices",
+  "land-grab-case-supeme-court-grants-interim-bail-to-abhishek-": {
+    "firstSeen": "2026-08-07T00:11:48.095Z",
+    "signature": "mla|mp|supreme court",
     "norm": 52.7
   },
-  "christian-leaders-meet-amit-shah-as-fcra-bill-heads-for-parl": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "amit shah|bill|parliament",
-    "norm": 50.9
-  },
-  "merchant-charges-for-upi-soon-ls-passes-bill-allowing-banks-": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "bill|mp",
-    "norm": 48.7
-  },
-  "orange-alert-for-eight-districts-in-kerala-on-august-7-2026": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "alert",
-    "norm": 48.2
-  },
-  "mohan-bhagwat-education-qualification-from-veterinary-gradua": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "died",
-    "norm": 46.3
-  },
-  "mp-sribharat-seeks-early-release-of-pending-vrs-dues-for-for": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "notorious-burglar-linked-to-80-thefts-arrested-in-tirupati-b": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "lakh",
-    "norm": 45.9
-  },
-  "hyderabad-police-task-force-arrests-serial-housebreakers-rec": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "lakh",
-    "norm": 45.9
-  },
-  "permanent-hatred-is-not-the-solution-rss-chief-mohan-bhagwat": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "pakistan",
-    "norm": 45.9
-  },
-  "bjp-unseated-in-naranganam-grama-panchayat-in-kerala": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "discoms-told-to-accelerate-solar-rooftop-installations-under": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "tamil-nadu-budget-session-to-end-on-september-8-entire-proce": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "budget",
-    "norm": 45.9
-  },
-  "tamil-nadu-budget-2026-efforts-are-on-to-get-centre-s-approv": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "budget",
-    "norm": 45.9
-  },
-  "son-likely-to-be-buried-near-atiq-ahmed-s-grave-in-prayagraj": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "independent-jury-says-telangana-government-forcibly-acquired": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "retired-professor-of-journalism-passes-away-in-mysuru": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "",
-    "norm": 36
-  },
-  "au-hosts-lecture-on-higher-education-semiconductor-research": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "",
-    "norm": 36
-  },
-  "trs-chief-vows-nationwide-stir-for-50-bc-quota-in-legislatur": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "",
-    "norm": 36
-  },
-  "three-booked-for-assault-in-chikkamagaluru": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "",
-    "norm": 36
-  },
-  "survivor-s-resignation-letter-to-tehelka-13-years-ago-fought": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "",
-    "norm": 36
-  },
-  "gen-z-s-grievance-is-genuine-rss-chief-mohan-bhagwat": {
-    "firstSeen": "2026-08-06T15:24:13.897Z",
-    "signature": "",
-    "norm": 33.9
+  "moderate-rain-in-north-a-p-barely-enough-to-bridge-deficit-i": {
+    "firstSeen": "2026-08-07T00:11:48.095Z",
+    "signature": "record",
+    "norm": 42.7
   }
 }
