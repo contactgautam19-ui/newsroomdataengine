@@ -1,205 +1,245 @@
 {
-  "maharashtra-deputy-cm-eknath-shinde-meets-pm-modi-discusses-": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "flood|flood|floods|maharashtra|minister|modi|modi|mp|prime minister",
-    "norm": 87.6
+  "breaking-news-aisa-leader-neha-bora-targeted-in-ink-attack-d": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "attack|attack|exam|iran|jobs|khan|president|protest|protest|recruitment",
+    "norm": 100
   },
-  "-i-wear-this-ink-with-pride-aisa-s-neha-bora-alleges-rss-bjp": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "attack|attack|bjp|khan|protest|protest|video",
-    "norm": 86.6
+  "-attack-on-one-attack-on-all-pak-saudi-turkey-sign-key-defen": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "army|attack|attack|deal|defence|pakistan|row",
+    "norm": 84.5
   },
-  "kerala-rain-death-toll-reaches-26-imd-s-red-alert-in-4-distr": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "alert|death|flood|flood|heavy rain|red alert|toll",
-    "norm": 74.3
+  "india-reacts-to-turkey-pakistan-saudi-defence-deal-closely-f": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "attack|attack|deal|defence|pakistan",
+    "norm": 77.9
   },
-  "jharkhand-protest-man-throws-ink-at-aisa-president-neha-for-": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "khan|president|protest|protest|row",
+  "-our-internal-affair-india-slams-us-lawmaker-s-fcra-remark-s": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "bill|congress|fund|slam|slams",
     "norm": 73
   },
-  "nagaur-hotel-operator-shot-as-trader-displayed-pistol-dies-i": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "accident|crash|crash|died",
-    "norm": 71
+  "supreme-court-refuses-to-entertain-mahua-moitra-s-plea-again": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "fear|mp|parliament|rally|rally|supreme court",
+    "norm": 70
   },
-  "aravali-hills-conservation-is-a-shared-responsibility-haryan": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "crore|minister|modi|modi|mp|prime minister",
-    "norm": 71
-  },
-  "parliament-monsoon-session-day-15-highlights-micro-small-and": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "amit shah|bill|lok sabha|minister|opposition|parliament|protest|protest",
-    "norm": 70.7
-  },
-  "cpi-launches-padayatra-in-visakhapatnam-under-modi-hatao-des": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "chief minister|minister|modi|modi|mp|rally|rally",
-    "norm": 68.9
+  "kolkata-real-estate-60-of-stalled-projects-may-get-clearance": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "collapse|collapse|collapse|war",
+    "norm": 68.7
   },
   "too-big-to-be-cozy-the-bjp-s-expansion-plans-have-problems-a": {
     "firstSeen": "2026-08-07T11:03:30.268Z",
     "signature": "bjp|poll|protest|protest",
     "norm": 66.9
   },
-  "akali-dal-chief-sukhbir-badal-meets-pm-modi-raising-speculat": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "alliance|bjp|modi|modi",
+  "tamil-nadu-udhayanidhi-stalin-slams-cm-vijay-over-makedatu-b": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "chief minister|minister|slam|slams",
+    "norm": 66.6
+  },
+  "from-a-rs-2-crore-proof-of-concept-to-a-full-ai-platform-how": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "crore|mp|row",
+    "norm": 65.6
+  },
+  "amritsar-top-cop-removed-after-jantar-mantar-remarks-bjp-que": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "bjp|mp|protest|protest",
+    "norm": 65.3
+  },
+  "saudi-arabia-pakistan-amp-turkey-sign-mecca-pact-for-mutual-": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "defence|minister|mp|pakistan|president|prime minister|row|summit",
+    "norm": 63.8
+  },
+  "-5-000-crore-credited-to-6-22-lakh-maharashtra-farmers-so-fa": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "crore|fund|lakh|maharashtra",
     "norm": 63.5
   },
-  "madras-high-court-admits-income-tax-appeal-against-k-n-nehru": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "crore|high court|minister|tax",
+  "india-seeing-more-ai-linked-hires-than-layoffs-says-nomura-r": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "layoff|layoffs|mp|record",
+    "norm": 63.2
+  },
+  "news-space-rani-he-ram-clear-chhattisgarh-police-exam-ignite": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "exam|match|row",
+    "norm": 62.9
+  },
+  "amritsar-police-chief-removed-after-isi-jantar-mantar-protes": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "bjp|protest|protest",
+    "norm": 62.8
+  },
+  "-freedom-fighters-took-bullets-you-fear-eggs-sc-tosses-mahua": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "fear|mp|threat",
+    "norm": 62.5
+  },
+  "bjp-flags-sunetra-pawar-prashant-kishor-meeting-warns-agains": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "alliance|bjp|ruling|war",
     "norm": 61.8
   },
-  "abhijeet-dipke-clashes-with-police-outside-his-home-heated-e": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "clash|clash|mp",
-    "norm": 61.1
+  "netanna-sevalo-launched-law-to-protect-bc-interests-soon-say": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "chief minister|crore|minister|opposition",
+    "norm": 61.4
   },
-  "rahul-gandhi-s-favourite-bjp-leader-uncle-amarinder-singh-ma": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "bjp|congress|instagram|rahul gandhi",
-    "norm": 60
-  },
-  "the-covert-funding-war-how-foreign-cash-fake-fronts-hawala-w": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "fuel|fund|war",
+  "-internal-matter-mea-dismisses-us-lawmaker-s-criticism-of-fc": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "bill|congress|fund|parliament",
     "norm": 59.7
   },
-  "anbumani-opposes-ppp-projects-says-privatisation-will-hit-jo": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "budget|jobs|recruitment",
-    "norm": 59.7
+  "saudi-arabia-pakistan-and-turkiye-sign-defence-deal-amid-reg": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "deal|defence|pakistan",
+    "norm": 57.6
   },
-  "80th-independence-day-defence-ministry-adds-full-vande-matar": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "defence|ipl|minister",
-    "norm": 59.7
+  "-i-will-decide-who-i-meet-cjp-s-abhijeet-dipke-throws-rude-p": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "mp|row",
+    "norm": 57.1
   },
-  "supreme-court-expands-cbi-probe-into-builder-bank-subvention": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "mp|scam|supreme court",
-    "norm": 59.7
+  "scientists-discover-titan-s-methane-rainstorms-are-more-inte": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "fan|storm",
+    "norm": 55.7
   },
-  "younger-wider-diverse-how-india-s-investor-base-is-changing": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "investor|row",
+  "beyond-brahmos-india-builds-next-generation-of-cheap-precisi": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "bomb|stocks",
     "norm": 55.4
   },
-  "both-houses-of-parliament-adjourned-till-august-10-amid-oppo": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "amit shah|congress|minister|mp|opposition|parliament|rajya sabha",
-    "norm": 54.8
+  "powergrid-posts-q1-pat-of-3-598-crore-secures-japan-loan-for": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "crore|row",
+    "norm": 55.4
+  },
+  "tamil-nadu-introduces-bill-to-levy-environmental-and-social-": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "bill|fund",
+    "norm": 55
+  },
+  "neet-paper-leak-case-cbi-charge-sheet-cites-evidence-from-ac": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "neet|record",
+    "norm": 54.2
+  },
+  "-us-regulates-flow-of-foreign-funds-too-india-on-us-lawmaker": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "bill|fund",
+    "norm": 53.2
+  },
+  "flights-from-bhogapuram-to-foreign-destinations-very-soon-sa": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "lakh|minister",
+    "norm": 53.2
+  },
+  "home-minister-amit-shah-meets-lok-sabha-speaker-birla-amid-h": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "amit shah|lok sabha|minister|opposition|parliament",
+    "norm": 52.6
   },
   "congress-issues-whip-to-its-mps-in-parliament-asks-them-to-b": {
     "firstSeen": "2026-08-07T11:03:30.268Z",
     "signature": "bill|congress|mp|parliament",
-    "norm": 53.9
+    "norm": 52.1
+  },
+  "minnesota-retiree-lands-2-21-pound-state-record-bluegill-on-": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "mp|record",
+    "norm": 52
+  },
+  "tamil-nadu-s-expectation-of-higher-central-funds-pushes-up-t": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "budget|fund",
+    "norm": 48.7
   },
   "tamil-nadu-chief-minister-vijay-s-wife-sangeetha-withdraws-d": {
     "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "chief minister|minister|mp",
-    "norm": 50.9
+    "signature": "chief minister|minister",
+    "norm": 48.7
+  },
+  "mea-s-riposte-to-us-lawmaker-s-foreign-funding-remarks-our-i": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "fund|ipo",
+    "norm": 48.7
   },
   "uproar-over-u-p-governor-highlighting-shortcomings-oppositio": {
     "firstSeen": "2026-08-07T11:03:30.268Z",
     "signature": "governor|opposition",
-    "norm": 50.5
-  },
-  "breaking-tamil-nadu-cm-vijay-s-wife-sangeetha-withdraws-divo": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "fir-against-hindu-janajagruti-samiti-member-for-false-claim-": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "film|video",
     "norm": 48.7
-  },
-  "kerala-welfare-pensions-cag-had-flagged-problems-in-direct-t": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "crore|rupee",
-    "norm": 48.7
-  },
-  "why-mechuka-trout-quest-is-drawing-anglers-to-arunachal-prad": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "row",
-    "norm": 48.2
   },
   "karthik-manikandan-s-enam-explores-the-inner-life-of-maricha": {
     "firstSeen": "2026-08-07T11:03:30.268Z",
     "signature": "gold",
-    "norm": 46.3
+    "norm": 48.2
   },
-  "-our-internal-affair-india-reacts-to-us-lawmaker-s-remark-ov": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "bill",
+  "pakistan-should-stop-interfering-in-j-k-s-internal-matters-a": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "pakistan",
     "norm": 45.9
   },
-  "how-vijay-met-sangeetha-fell-in-love-married-and-reached-div": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "wedding",
+  "print-dr-ambedkar-s-portrait-on-currency-notes-telangana-min": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "aimim-corporator-held-for-sheltering-tcs-sexual-harassment-c": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "khan",
     "norm": 44.3
   },
-  "aimim-corporator-held-for-sheltering-accused-in-nashik-relig": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "khan",
-    "norm": 42.4
+  "liquor-worth-rs-1-2-crore-seized-in-gujarat-2-rajasthan-men-": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "crore",
+    "norm": 44
   },
-  "vijay-s-wife-sangeetha-withdraws-divorce-proceedings-court-c": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
+  "govt-reacts-to-sheikh-hasina-s-son-s-bangladesh-another-paki": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "pakistan",
+    "norm": 44
+  },
+  "rs-45-crore-meth-seized-from-ambulance-in-mizoram-woman-amon": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "reel-crime-turned-real-delhi-man-copied-the-staircase-plot-t": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
     "signature": "",
     "norm": 36
   },
-  "acceptance-without-marriage-decoding-rss-s-lgbtq-stand-and-t": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
+  "education-qualification-of-vijay-s-wife-sangeetha-her-uk-edu": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
     "signature": "",
     "norm": 36
   },
-  "from-being-manchester-of-kerala-to-fighting-for-survival-kan": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
+  "cbi-files-chargesheet-against-11-accused-in-killing-of-suven": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
     "signature": "",
     "norm": 36
   },
-  "-gen-z-is-our-power-kangana-ranaut-s-u-turn-on-youth-after-g": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
+  "india-court-grants-dabur-interim-relief-against-food-regulat": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
     "signature": "",
     "norm": 36
   },
-  "hal-airport-gets-satellite-guided-navigation-system-for-chop": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
+  "martha-hunt-lists-hidden-tribeca-condo-for-3-75-million": {
+    "firstSeen": "2026-08-07T11:54:41.872Z",
     "signature": "",
     "norm": 36
-  },
-  "tamil-nadu-cm-vijay-s-wife-sangeetha-withdraws-divorce-plea-": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "class-viii-student-electrocuted-at-tribal-welfare-school-in-": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "",
-    "norm": 33.9
   },
   "how-memories-and-motifs-inspire-onam-2026-collections": {
     "firstSeen": "2026-08-07T11:03:30.268Z",
     "signature": "",
     "norm": 33.9
   },
-  "vijay-mallangi-is-south-india-in-charge-national-media-lead-": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "basavaraj-horatti-resigns-as-karnataka-legislative-council-c": {
-    "firstSeen": "2026-08-07T11:03:30.268Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "hal-airport-becomes-first-in-india-to-operationalise-rnp-cat": {
+  "vijay-s-wife-sangeetha-withdraws-divorce-proceedings-court-c": {
     "firstSeen": "2026-08-07T11:03:30.268Z",
     "signature": "",
     "norm": 33.9
