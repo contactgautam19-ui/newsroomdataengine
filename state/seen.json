@@ -1,141 +1,126 @@
 {
-  "army-jawan-kills-pregnant-wife-in-maharashtra-then-tried-to-": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "accident|army|maharashtra|war",
-    "norm": 75.9
+  "assam-floods-death-toll-reaches-75-mlas-to-donate-a-month-s-": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "congress|death|flood|flood|floods|mla|opposition|toll",
+    "norm": 85.8
   },
-  "strangers-rebuild-cumberland-mother-s-stolen-farm-stand-for-": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "anger|mp|rescue|rescue",
-    "norm": 71.4
+  "iltija-faces-fir-questioning-over-assault-on-cop-omar-calls-": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "attack|attack|chief minister|match|minister|mp",
+    "norm": 81.7
   },
-  "too-big-to-be-cozy-the-cracks-within-bjp-s-expansion-plans-a": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "bjp|poll|protest|protest",
-    "norm": 66.9
+  "jharkhand-protest-update-government-panel-meets-students-ove": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "exam|khan|protest|protest|recruitment",
+    "norm": 75
   },
-  "woman-gives-birth-in-hospital-toilet-newborn-found-dead-in-b": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "dead|dead|hospital",
-    "norm": 64.5
+  "cockroaches-spreading-their-filth-who-is-birthing-them-kanga": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "congress|protest|protest|slam",
+    "norm": 67.9
   },
-  "delhi-records-wettest-first-week-of-august-in-15-years-as-mo": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "heavy rain|mp|record",
-    "norm": 62.8
+  "india-s-gen-z-wants-pakistan-to-end-terror-activities-govt": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "pakistan|terror|terror",
+    "norm": 67.6
   },
-  "the-hindu-fic-sri-harini-ias-academy-to-host-seminar-on-upsc": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "exam|mp|upsc",
-    "norm": 62.5
+  "ahead-of-2027-punjab-polls-aap-s-welfare-spree-sparks-questi": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "aap|election|election|opposition|poll|vote",
+    "norm": 65.1
   },
-  "us-senate-passes-sanctions-bill-india-could-face-tariff-over": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "bill|iran|sanction",
+  "maharashtra-government-decides-to-withdraw-firs-against-prot": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "maharashtra|protest|protest",
+    "norm": 64.9
+  },
+  "unwise-to-link-women-s-quota-with-delimitation-k-t-rama-rao": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 63.5
+  },
+  "jharkhand-government-holds-talks-with-student-protesters-in-": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "khan|protest|protest",
     "norm": 61.4
   },
-  "kea-cupeca-urge-aicte-to-extend-admission-deadline-for-engin": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "dead|dead",
-    "norm": 59.3
+  "high-onion-prices-costly-gas-push-up-home-cooked-thali-costs": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "budget|mp|price|prices",
+    "norm": 59.7
   },
-  "former-brs-mla-peddi-sudarshan-reddy-remains-in-critical-con": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "hospital|mla",
-    "norm": 57.1
-  },
-  "assam-releases-ten-more-captive-bred-critically-endangered-v": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "anger|bill",
-    "norm": 57.1
-  },
-  "india-counters-china-s-map-war-assigns-official-names-to-27-": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "china|war",
+  "police-put-up-posters-of-lashkar-commander-across-j-amp-k-de": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "mp|war",
     "norm": 55.4
   },
-  "39-amarnath-pilgrims-injured-in-road-accident-in-kashmir": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "accident|injured",
+  "dmk-reiterates-demand-to-scrap-neet": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "exam|neet",
     "norm": 53.9
   },
-  "shashi-tharoor-s-big-take-on-rahul-gandhi-s-student-campaign": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "mp|rahul gandhi",
+  "punjab-assembly-aap-mla-questions-minister-over-non-bidding-": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "aap|minister|mla",
+    "norm": 50.9
+  },
+  "chief-minister-vijay-inaugurates-handloom-expo": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "handloom-handicraft-programme-helping-weavers-in-backward-ar": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
+  "no-solar-wind-renewable-energy-project-within-1-km-of-intern": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "border|pakistan",
+    "norm": 50.5
+  },
+  "congress-s-remarks-on-pralhad-joshi-are-misleading-condemnab": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "bjp|congress",
+    "norm": 50.5
+  },
+  "jadavpur-university-ragging-death-after-3-years-of-court-dat": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "death",
+    "norm": 48.2
+  },
+  "eco-tourism-based-livelihood-opportunities-the-only-way-forw": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
     "signature": "war",
     "norm": 48.2
   },
-  "lemon-farmers-in-nellore-urged-to-take-crop-insurance-amid-e": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "threat",
-    "norm": 48.2
+  "health-department-forms-30-special-teams-to-inspect-hotels-r": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
+    "signature": "star",
+    "norm": 44.3
   },
-  "bda-to-create-website-to-bring-transparency-in-monitoring-15": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "lakh",
-    "norm": 45.9
-  },
-  "kallakurichi-mp-reviews-schemes-at-disha-meeting": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "man-gets-10-years-rigorous-imprisonment-for-murdering-wife-f": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "mobile-vet-unit-brings-healthcare-to-tribal-livestock-in-nil": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "acb-records-highest-second-quarter-case-registrations-since-": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
+  "kl-deemed-university-signs-mou-with-vajiram-ravi-for-civil-s": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
     "signature": "record",
     "norm": 42.7
   },
-  "revanth-defends-hydraa-commissioner-s-appointment-hails-agen": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
+  "political-parties-urge-govt-to-convene-all-party-meeting-on-": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
     "signature": "",
     "norm": 36
   },
-  "india-draws-the-line-on-arunachal-27-strategic-locations-in-": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
+  "indo-japan-relations-critical-to-stability-of-indo-pacific-r": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
     "signature": "",
     "norm": 36
   },
-  "kannur-corporation-sacks-engineer-on-bribery-charge": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
+  "vit-chennai-inks-mou-on-technology-training-with-malaysian-s": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
     "signature": "",
     "norm": 36
   },
-  "telangana-to-boost-government-ophthalmology-services-with-lv": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
+  "dcre-police-personnel-in-karnataka-to-receive-hardship-allow": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
     "signature": "",
     "norm": 36
   },
-  "london-hosts-grand-bonalu-celebrations-draws-2-500-telangana": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "",
-    "norm": 36
-  },
-  "pg-medico-succumbs-to-injuries-3-days-after-being-hit-by-car": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "",
-    "norm": 36
-  },
-  "apsche-workshop-on-design-thinking-methods-for-vice-chancell": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
-    "signature": "",
-    "norm": 36
-  },
-  "karnataka-dhamma-janjagruti-yatra-to-begin-on-october-5": {
-    "firstSeen": "2026-08-07T17:57:31.300Z",
+  "scale-reshapes-industry-economics-says-kumar-mangalam-birla": {
+    "firstSeen": "2026-08-07T19:10:37.181Z",
     "signature": "",
     "norm": 36
   }
