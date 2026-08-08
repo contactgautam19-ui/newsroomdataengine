@@ -1,32 +1,127 @@
 {
-  "captain-of-turbulence-hit-phuket-delhi-flight-may-have-faile": {
-    "firstSeen": "2026-08-08T22:41:42.829Z",
-    "signature": "captain|hospital|result",
-    "norm": 64.6
+  "deadline-passes-posters-stay-put-on-ernakulam-collectorate-w": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "dead|dead|ipl|mp",
+    "norm": 77.5
   },
-  "vance-calls-pm-after-us-senate-passes-100-tariff-bill-discus": {
-    "firstSeen": "2026-08-08T22:41:42.829Z",
-    "signature": "bill|modi|modi",
+  "man-arrested-for-sexually-abusing-minors-men-600-videos-foun": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "threat|video|viral|viral|viral",
+    "norm": 72.6
+  },
+  "centre-sanctions-14-new-day-care-cancer-centres-for-andhra-p": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "crore|lok sabha|minister|sanction|war",
+    "norm": 71.6
+  },
+  "meta-ramps-up-censorship-of-protest-political-reels": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "instagram|mp|protest|protest",
+    "norm": 69.6
+  },
+  "the-reasons-behind-bhagwant-mann-s-u-turn-on-chief-minister-": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "aap|chief minister|emotional|minister|mp|vote|war",
+    "norm": 68.5
+  },
+  "three-from-tumakuru-die-in-accident-near-kottigehara-in-chik": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "accident|petrol|petrol",
+    "norm": 67.6
+  },
+  "jagan-accuses-government-of-suppressing-protests-over-dsc-ir": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "minister|president|protest|protest",
+    "norm": 66.9
+  },
+  "protesting-students-form-11-member-team-to-hold-talks-with-j": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "khan|protest|protest",
     "norm": 61.4
   },
-  "government-appoints-30-judges-to-high-courts-of-calcutta-mp-": {
-    "firstSeen": "2026-08-08T22:41:42.829Z",
-    "signature": "high court|lakh|mp",
-    "norm": 57.6
+  "heavy-rain-in-hyderabad-throws-evening-traffic-out-of-gear": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "heavy rain|row",
+    "norm": 59.3
   },
-  "government-spending-on-education-below-unesco-s-15-standard": {
-    "firstSeen": "2026-08-08T22:41:42.829Z",
-    "signature": "fund|gdp|mp",
-    "norm": 57.6
+  "govt-plans-expansion-of-green-development-to-all-ordinary-bu": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "mp|war",
+    "norm": 57.1
   },
-  "omcs-refute-chloride-contamination-excess-moisture-in-e20-fu": {
-    "firstSeen": "2026-08-08T22:41:42.829Z",
-    "signature": "fuel",
+  "apsrtc-employees-urge-epfo-to-ensure-higher-pension-resolve-": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "fund|mp",
+    "norm": 55
+  },
+  "heavy-rain-to-continue-orange-alert-for-seven-districts-on-a": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "alert|heavy rain",
+    "norm": 53.9
+  },
+  "bjp-aims-to-expand-outreach-among-tribal-communities-ahead-o": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "bjp|mp|poll",
+    "norm": 52.7
+  },
+  "india-counters-china-formally-names-27-places-in-arunachal-p": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "china|mp",
+    "norm": 50.5
+  },
+  "us-rejects-china-s-attempt-to-enforce-new-restrictions-at-sc": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "china|mp",
+    "norm": 50.5
+  },
+  "kochi-water-metro-set-to-boost-service-frequency-with-15-new": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "high court|mp",
+    "norm": 50.5
+  },
+  "pm-meets-nda-mps-over-breakfast-raises-concern-over-parliame": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "mp|parliament",
+    "norm": 50.5
+  },
+  "epfo-officers-body-contest-claims-about-new-it-system": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "result",
+    "norm": 46.3
+  },
+  "relief-camps-shut-in-kerala-s-ernakulam-as-rain-situation-ea": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "proposed-mdr-for-upi-transactions-will-be-nominal-says-gover": {
-    "firstSeen": "2026-08-08T22:41:42.829Z",
+  "amaravati-pickleball-league-begins-in-vijayawada": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "one-held-after-vehicle-jumps-police-checkpoint-in-j-k-s-ramb": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
     "signature": "mp",
     "norm": 44
+  },
+  "agni-4-fills-key-gaps-in-india-s-missile-arsenal-strengthens": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "china",
+    "norm": 44
+  },
+  "usfda-dca-discuss-ways-to-boost-pharma-manufacturing-and-dru": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "",
+    "norm": 36
+  },
+  "students-urged-to-harness-technology-for-solutions-to-societ": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "",
+    "norm": 36
+  },
+  "with-more-passenger-trains-and-emus-sealdah-station-daily-fo": {
+    "firstSeen": "2026-08-08T23:39:05.322Z",
+    "signature": "",
+    "norm": 36
   }
 }
