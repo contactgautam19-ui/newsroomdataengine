@@ -1,26 +1,21 @@
 {
-  "weather-today-live-updates-heavy-rain-in-parts-of-tamil-nadu": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "alert|heavy rain|mp|war|weather",
-    "norm": 82.2
+  "school-headmaster-shot-dead-by-unidentified-men-in-west-beng": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "attack|attack|congress|dead|dead|slam|slams",
+    "norm": 79.5
   },
-  "70-year-old-woman-killed-as-drunk-son-of-haryana-police-offi": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "crash|crash|killed|killed|mp",
-    "norm": 80.3
+  "supriya-sule-breaks-silence-on-prashant-kishor-s-meeting-wit": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "chief minister|congress|maharashtra|minister|mp|war",
+    "norm": 74.6
   },
-  "pilots-of-helicopter-that-crashed-while-fighting-utah-wildfi": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "crash|crash|fire|fire|killed|killed",
-    "norm": 80.2
+  "jharkhand-exam-stir-government-to-hold-fresh-talks-health-of": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "dead|dead|exam|khan",
+    "norm": 74.6
   },
-  "mild-earthquake-tremors-in-maharashtra-s-nashik-cracks-repor": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "alert|earthquake|earthquake|fear|maharashtra",
-    "norm": 78.2
-  },
-  "shashi-tharoor-clarifies-rahul-gandhi-chhatron-ki-goonj-rema": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
+  "-distorting-it-shashi-tharoor-says-remarks-on-rahul-gandhi-s": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
     "signature": "attack|attack|congress|mp|rahul gandhi",
     "norm": 72
   },
@@ -29,198 +24,98 @@
     "signature": "iran|khan|protest|protest",
     "norm": 71.6
   },
-  "pentagon-asks-defence-firms-to-ramp-up-weapons-production-as": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "defence|iran|mp|war",
-    "norm": 70
+  "bidadi-township-row-why-karnataka-s-big-urban-plan-has-run-i": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "acquisition|crore|protest|protest|row",
+    "norm": 70.4
   },
-  "4-3-magnitude-earthquake-jolts-nashik-tremors-cause-cracks-i": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "earthquake|earthquake|record|shock|shock",
-    "norm": 67.3
+  "pm-modi-jd-vance-hold-key-call-india-us-strategic-ties-trade": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "minister|modi|modi|president|prime minister",
+    "norm": 64.6
   },
-  "-10-lakh-compensation-announced-to-family-of-deceased-studen": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "chief minister|fund|lakh|minister|mp",
-    "norm": 63.9
-  },
-  "-those-made-protectors-have-become-predators-says-bjp-target": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "aap|bjp|minister|mp|scam",
-    "norm": 62.9
-  },
-  "former-high-court-chief-justice-led-panel-set-up-to-review-b": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "chief minister|exam|high court|minister",
+  "amit-shah-offers-prayers-at-arunachaleswar-temple-sri-ramana": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "amit shah|mp|president|war",
     "norm": 61.8
   },
-  "shanghai-cancels-over-1-300-flights-as-china-prepares-for-ty": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "china|mp|storm",
+  "ngt-must-make-public-report-of-panel-that-reviewed-approvals": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "congress|modi|modi",
     "norm": 61.4
   },
-  "no-direct-proof-needed-to-prove-dowry-death-if-harassment-es": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "death|high court|mp",
-    "norm": 61.4
+  "maharashtra-cm-orders-fresh-investigation-of-siddhivinayak-t": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "maharashtra|mp|record",
+    "norm": 61.1
   },
-  "prime-suspect-in-bulandshahr-girl-s-rape-murder-killed-in-en": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "killed|killed",
+  "day-8-of-hunger-strike-devendra-nath-mahto-demands-action-ov": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "exam|row",
     "norm": 59.3
   },
-  "cial-posts-record-502-crore-net-profit": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "crore|mp|record",
-    "norm": 59
+  "iran-releases-video-of-mojtaba-khamenei-amid-health-rumours": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "iran|video",
+    "norm": 52.4
   },
-  "britain-drops-reef-cubes-and-shells-to-revive-native-oysters": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "collapse|collapse|collapse",
-    "norm": 58.3
+  "sfi-calls-for-action-amid-rising-student-suicides-in-a-p-": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "death",
+    "norm": 48.2
   },
-  "bihar-man-killed-after-being-hit-by-speeding-vehicle-of-j-k-": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "killed|killed",
-    "norm": 57.6
+  "neet-ug-paper-leak-what-cbi-chargesheet-reveals-about-conspi": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "neet",
+    "norm": 48.2
   },
-  "90-industrial-units-in-j-k-since-2019-were-set-up-by-locals-": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "crore|jobs|parliament",
-    "norm": 57.6
+  "educators-across-india-gather-in-mumbai-to-brainstorm-on-pri": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "storm",
+    "norm": 46.3
   },
-  "after-gutkha-adulteration-crackdown-what-s-next-on-maharasht": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "maharashtra|mp",
-    "norm": 57.1
+  "jssc-paper-leak-exclusive-120-answers-whatsapp-and-a-bombshe": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "bomb",
+    "norm": 46.3
   },
-  "pm-modi-praises-engineers-with-first-in-my-bloodline-to-buil": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "modi|modi",
-    "norm": 55.4
-  },
-  "-rapid-rigorous-investigations-nta-revamps-top-ranks-creates": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "exam|mp",
-    "norm": 55.4
-  },
-  "shillong-teer-result-today-august-9-2026-check-winning-numbe": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "khan|result",
-    "norm": 53.9
-  },
-  "basant-kumar-meghwal-wins-world-u20-silver-medal-india-high-": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "mp|star",
-    "norm": 53.5
-  },
-  "medico-s-death-police-register-culpable-homicide-charges-aga": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "death|war",
-    "norm": 52.1
-  },
-  "bjp-to-join-nikhil-s-padayatra-from-bidadi-against-township-": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "bjp|chief minister|minister|mp",
-    "norm": 52.1
-  },
-  "basant-meghwal-makes-history-with-silver-at-world-athletics-": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "mp|record",
-    "norm": 52
-  },
-  "palau-removed-invasive-rats-fish-biomass-jumped-183-in-one-y": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "mp|record",
-    "norm": 50.2
-  },
-  "a-p-govt-will-revive-telugu-theatre-restore-artistes-dignity": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "minister|mp",
-    "norm": 48.7
-  },
-  "health-minister-calls-for-collective-action-against-drug-abu": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "minister|mp",
-    "norm": 48.7
-  },
-  "ncpi-mps-from-murshidabad-meet-suvendu-adhikari-rule-out-joi": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "bjp|mp",
-    "norm": 48.7
-  },
-  "why-us-navy-is-adding-more-missile-cells-to-19-virginia-clas": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "navy",
+  "what-happens-if-there-is-no-constitutional-amendment-on-deli": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "lok sabha",
     "norm": 45.9
   },
-  "bhatti-woos-global-investors-in-us": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "investor",
+  "former-aiadmk-ministers-who-joined-tvk-get-party-posts": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "obc-representation-below-quota-in-postal-dept-parliamentary-": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
+    "signature": "parliament",
     "norm": 44
   },
-  "brs-wants-govt-to-boycott-grmb-meet": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "president",
-    "norm": 44
-  },
-  "sedated-with-milk-head-crushed-with-stone-up-woman-kills-hus": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
+  "google-s-30th-employee-jeff-dean-shows-what-he-returned-on-h": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
     "signature": "mp",
     "norm": 44
-  },
-  "delhi-s-wettest-august-day-in-2-years-why-was-the-rain-so-in": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "record",
-    "norm": 42.7
   },
   "air-india-phuket-delhi-pilot-may-have-failed-dope-test-what-": {
     "firstSeen": "2026-08-09T04:32:53.051Z",
     "signature": "",
     "norm": 36
   },
-  "meghalaya-honeymoon-murder-victim-s-brothers-arrested-in-ind": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
+  "hdk-asks-jd-s-legislators-to-raise-drought-bmic-bidadi-towns": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
     "signature": "",
     "norm": 33.9
   },
-  "a-3-000-square-foot-apartment-in-thane-that-makes-neutrals-f": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
+  "mayawati-opposes-creamy-layer-for-scs-sts-in-reservation-hit": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
     "signature": "",
     "norm": 33.9
   },
-  "govt-brings-public-private-agencies-under-one-umbrella-to-ta": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "hmwssb-citizen-services-app-restored": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "private-schools-must-upload-fee-particulars-on-school-ed-por": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "parenting-key-to-teaching-children-equality-respect-and-cons": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "indian-origin-woman-s-partner-arrested-in-canada-7-months-af": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "bc-leaders-meet-at-ponnam-s-house-on-unveiling-of-social-ref": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "bengaluru-four-arrested-for-assaulting-delivery-executive-in": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
+  "aiadmk-defends-its-absence-in-the-meet-on-delimitation": {
+    "firstSeen": "2026-08-09T05:54:45.006Z",
     "signature": "",
     "norm": 33.9
   }
