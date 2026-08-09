@@ -1,131 +1,151 @@
 {
-  "-dialogue-not-batons-j-khand-cm-soren-s-message-to-youth-pro": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "chief minister|exam|khan|minister|mp|protest|protest|recruitment",
-    "norm": 89.6
-  },
   "mamata-visits-residence-of-trinamool-worker-who-died-in-poli": {
     "firstSeen": "2026-08-09T10:48:17.002Z",
     "signature": "attack|attack|chief minister|died|mamata|minister|protest|protest",
-    "norm": 85.8
+    "norm": 84.3
   },
-  "srirangam-temple-s-eastern-gopuram-reopened-after-three-year": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "collapse|collapse|collapse|iran|minister|mp",
-    "norm": 80.4
+  "arunachal-group-wants-government-policy-to-recruit-20-non-re": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "dead|dead|exam|policy|recruitment",
+    "norm": 80.7
   },
-  "-could-have-died-mamata-banerjee-alleges-attack-on-car-near-": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "attack|attack|died|mamata|protest|protest",
-    "norm": 78.7
+  "jpsc-exam-cancellation-demand-met-but-jharkhand-protesters-t": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "exam|khan|minister|protest|protest",
+    "norm": 79.4
   },
-  "-justice-will-be-delivered-jharkhand-chief-minister-amid-stu": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "chief minister|khan|minister|protest|protest|war",
-    "norm": 76.9
+  "jharkhand-students-protest-live-updates-students-announce-ma": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "exam|khan|protest|protest|row",
+    "norm": 76.5
   },
-  "jharkhand-students-protest-live-updates-committed-to-justice": {
-    "firstSeen": "2026-08-09T10:48:17.002Z",
-    "signature": "khan|mp|protest|protest|war",
-    "norm": 74.6
+  "jharkhand-protest-health-of-student-leader-devendra-nath-mah": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "exam|khan|protest|protest|recruitment",
+    "norm": 76.5
   },
-  "citizens-form-human-chain-to-save-lalbagh-from-proposed-tunn": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "high court|president|protest|protest|war",
-    "norm": 72
+  "ensure-vb-g-ram-g-jobs-for-all-eligible-workers-to-check-mig": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "jobs|khan|minister|mp|war",
+    "norm": 76.2
   },
-  "six-killed-as-container-truck-collides-with-car-in-madhya-pr": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "crash|crash|killed|killed",
+  "with-cjp-getting-millions-of-followers-kejriwal-changes-mess": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "aap|instagram|kejriwal|shooting|star|video",
+    "norm": 75.3
+  },
+  "-we-condemn-such-incidents-bjp-s-samik-bhattacharya-denies-p": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "attack|attack|bjp|mamata|mp",
+    "norm": 73.6
+  },
+  "centre-undermining-privacy-increasing-economic-burden-on-peo": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "congress|mp|protest|protest|sudden|suddenly",
+    "norm": 73.3
+  },
+  "jharkhand-protest-govt-considers-cancelling-jpsc-exams-stude": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "exam|khan|protest|protest",
+    "norm": 71.6
+  },
+  "gold-silver-prices-may-rise-next-week-as-us-inflation-data-g": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "gold|inflation|investor|mp|price|prices",
     "norm": 71
   },
-  "-if-you-have-courage-try-controlling-rss-cong-s-jab-at-centr": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "bill|congress|opposition|parliament|protest|protest",
-    "norm": 70
-  },
-  "-no-60-day-cushion-after-layoff-in-us-trump-s-proposal-lacks": {
-    "firstSeen": "2026-08-09T10:48:17.002Z",
-    "signature": "layoff|mp|trump|trump",
+  "india-tick-boxes-in-warm-up-captain-gill-fit-jaiswal-finds-r": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "captain|mp|surprise|war",
     "norm": 68
   },
-  "sukhbir-s-sad-has-only-1-lok-sabha-mp-then-why-is-his-u-turn": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "alliance|bjp|lok sabha|modi|modi|mp|poll",
-    "norm": 65.3
+  "man-dies-in-suspected-tiger-attack-in-gudalur": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "attack|attack|drone",
+    "norm": 63.2
   },
-  "crude-hormuz-amp-more-what-will-drive-stock-market-this-week": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "inflation|investor|mp|price|prices|stock market",
-    "norm": 61.3
+  "freedom-fighters-patriotism-inspires-generations-fadnavis-on": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "maharashtra|riot|war",
+    "norm": 62.9
   },
-  "six-killed-as-car-collides-with-truck-in-madhya-pradesh-s-dh": {
-    "firstSeen": "2026-08-09T10:48:17.002Z",
+  "those-who-participated-in-quit-india-movement-remain-inspira": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "modi|modi|mp",
+    "norm": 59.7
+  },
+  "86-year-old-on-evening-walk-killed-as-car-hits-4-in-kolkata-": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
     "signature": "killed|killed",
     "norm": 57.6
   },
-  "cpi-m-accuses-beypore-police-of-removing-flex-boards-on-ayod": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "ayodhya|mp",
-    "norm": 57.1
+  "-4-4bn-cleanup-turns-ohio-s-fernald-uranium-site-into-wetlan": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "bill|billion",
+    "norm": 55
   },
-  "jharkhand-proposes-cancelling-3-exams-after-talks-with-stude": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "exam|khan",
-    "norm": 55.7
+  "bjp-mp-lists-private-bill-on-social-media-ban-for-children": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "bill|bjp|mp",
+    "norm": 50.9
   },
-  "kerala-s-calicut-university-plans-ascent-to-boost-academic-s": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "mp|row",
-    "norm": 55.4
-  },
-  "russia-to-india-direct-train-link-moscow-considers-move-repo": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "iran|israel",
-    "norm": 52.1
-  },
-  "supreme-court-collegium-recommends-elevation-of-four-judges-": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "high court|supreme court",
-    "norm": 50.5
-  },
-  "amid-taunts-over-no-woman-in-karnataka-cong-cabinet-change-m": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "cabinet|minister",
-    "norm": 48.7
-  },
-  "kdem-enters-mou-with-goodworks-group-to-attract-fresh-invest": {
-    "firstSeen": "2026-08-09T10:48:17.002Z",
-    "signature": "crore|jobs",
-    "norm": 48.7
-  },
-  "you-will-have-to-answer-for-this-crime-rahul-to-shah-on-poli": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "brutal",
+  "air-india-pilot-s-psychoactive-substance-test-requires-confi": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "accident",
     "norm": 48.2
   },
-  "upi-transactions-to-remain-free-for-consumers-amp-small-merc": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "mp",
-    "norm": 44
+  "power-demand-in-andhra-pradesh-projected-to-grow-at-6-90-cag": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "row",
+    "norm": 48.2
   },
-  "-couldn-t-bring-to-complete-stop-why-trainer-aircraft-ran-of": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
-    "signature": "mp",
-    "norm": 44
+  "teacher-suspended-over-controversial-savarkar-question-in-fr": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "ipl",
+    "norm": 46.3
   },
-  "tribal-culture-offers-a-guiding-light-for-humanity-revanth-r": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
+  "ed-files-complaints-against-rinfra-rcom": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "practice-meditation-to-control-your-mind-says-hubballi-dharw": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "j-khand-students-to-intensify-stir-after-talks-with-govt-fai": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "khan",
+    "norm": 44.3
+  },
+  "63-year-old-ragpicker-arrested-for-murdering-wife-in-bengalu": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
     "signature": "",
     "norm": 36
   },
-  "nepal-pm-balendra-shah-to-meet-indian-chinese-envoys-on-augu": {
-    "firstSeen": "2026-08-09T11:39:00.227Z",
+  "varuna-yagam-sahasra-ghatabhishekam-enter-third-day-at-srisa": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
     "signature": "",
     "norm": 33.9
   },
-  "india-hands-over-another-consignment-of-bailey-bridges-to-sr": {
-    "firstSeen": "2026-08-09T10:48:17.002Z",
+  "two-minor-girls-allegedly-sexually-assaulted-near-machilipat": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "two-policemen-stabbed-in-uttara-kannada-village": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "turbulence-hit-ai-flight-pilot-s-dope-test-not-negative-sent": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "india-russia-to-be-linked-by-rail-moscow-floats-proposal-cal": {
+    "firstSeen": "2026-08-09T13:11:39.091Z",
     "signature": "",
     "norm": 33.9
   }
