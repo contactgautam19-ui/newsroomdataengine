@@ -1,241 +1,96 @@
 {
-  "bjp-calls-arrest-of-kerala-hindutva-ideologue-t-g-mohandas-d": {
-    "firstSeen": "2026-08-09T17:42:42.145Z",
-    "signature": "bjp|flood|flood|protest|protest",
-    "norm": 74
+  "rally-to-mark-world-breastfeeding-awareness-week-held-in-vel": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "hospital|rally|rally|war",
+    "norm": 72.9
   },
-  "for-jharkhand-s-adivasi-youth-competitive-exams-are-about-fi": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "exam|iran|khan|mp|star",
-    "norm": 72.6
-  },
-  "bhatkal-two-policemen-among-3-injured-in-knife-attack-in-mur": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "attack|attack|injured|war",
-    "norm": 70.7
-  },
-  "trump-says-us-is-low-keying-it-with-iran-stresses-economic-p": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "iran|mp|trump|trump",
-    "norm": 67.7
-  },
-  "vijayawada-traffic-dcp-daughter-killed-in-road-accident-vija": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "accident|killed|killed",
-    "norm": 65.6
-  },
-  "how-can-there-be-a-fair-delimitation-when-it-is-a-fraud-tncc": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "bill|chief minister|fraud|minister|president",
+  "city-hospital-organises-movie-screening-for-thalassemia-warr": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "hospital|movie|war",
     "norm": 64.6
   },
-  "nine-injured-in-steel-plant-blast-in-jharkhand-s-ramgarh": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "blast|hospital|injured|khan",
-    "norm": 63.7
+  "iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-op": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "deal|iran",
+    "norm": 55.4
   },
-  "jharkhand-agrees-to-cancel-jpsc-pt-but-sixth-round-of-talks-": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "khan|protest|protest",
-    "norm": 62.5
+  "french-firm-completes-consumer-survey-of-over-1-lakh-househo": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "lakh|mp",
+    "norm": 55
   },
-  "congress-urges-ncp-sp-to-press-pm-modi-for-immediate-roll-ou": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "congress|modi|modi|mp",
-    "norm": 61.8
-  },
-  "tiger-attacks-35-year-old-man-in-kanha-core-area-condition-s": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "attack|attack",
-    "norm": 60.4
-  },
-  "pm-modi-celebrates-cwg-2026-medal-winners": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "modi|modi",
-    "norm": 58.3
-  },
-  "pmegp-empowers-bihar-couple-creates-jobs": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "jobs|mp",
-    "norm": 56.1
-  },
-  "priests-members-of-orthodox-and-jacobite-factions-clash-at-c": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
+  "orthodox-jacobite-priests-and-members-clash-at-church": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
     "signature": "clash|clash",
     "norm": 54.2
+  },
+  "cpi-m-accuses-udf-govt-of-surrendering-to-bjp-over-vande-mat": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "bjp|defence|governor|minister",
+    "norm": 53.9
+  },
+  "housing-scheme-for-sc-st-communitieson-the-anvil-kerala-cm": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
   },
   "census-2027-ladakh-to-lead-independent-india-s-first-caste-e": {
     "firstSeen": "2026-08-09T18:56:02.414Z",
     "signature": "defence|record",
-    "norm": 52
+    "norm": 50.2
   },
-  "bjp-holds-high-level-organisational-meeting-in-mp-neemuch": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "bjp|mp",
-    "norm": 51.7
+  "lok-sabha-passes-bill-to-authorise-govt-to-permit-banks-to-l": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "bill|lok sabha",
+    "norm": 48.7
   },
-  "parliament-monsoon-session-kerala-name-bill-banker-books-bil": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "bill|parliament",
-    "norm": 51.7
-  },
-  "leftist-agenda-targets-emotional-gen-z-logical-thinking-cruc": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "emotional",
-    "norm": 51.2
-  },
-  "institute-cautions-growers-against-buying-exotic-coffee-sapl": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "row",
-    "norm": 49.4
-  },
-  "agricultural-extension-education-department-at-vellayani-agr": {
-    "firstSeen": "2026-08-09T17:42:42.145Z",
-    "signature": "gold",
-    "norm": 49.4
-  },
-  "fda-in-police-dept-booked-for-fraudulent-medical-claim-manga": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "fraud",
-    "norm": 49.4
-  },
-  "trau-fc-beat-indian-navy-2-1-in-durand-cup-finale": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "navy",
-    "norm": 47.1
-  },
-  "kasaragod-collectorate-employee-dies-after-reportedly-consum": {
-    "firstSeen": "2026-08-09T17:42:42.145Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "horoscope-today-09-august-2026-these-chinese-zodiac-signs-ma": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "shraddha-kapoor-may-choose-producer-credit-over-reported-20-": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "crore",
-    "norm": 47.1
-  },
-  "mizoram-completes-biometric-enrolment-of-98-9-myanmar-refuge": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "police-to-seek-custody-of-two-accused-in-medico-s-death-case": {
-    "firstSeen": "2026-08-09T17:42:42.145Z",
-    "signature": "death",
-    "norm": 46.3
-  },
-  "sidharth-malhotra-supports-kiara-advani-toxic-trailer": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "trailer",
-    "norm": 45.5
-  },
-  "grok-s-image-tools-get-a-professional-upgrade-with-templates": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "mp",
+  "bjp-urges-tvk-led-government-not-to-pursue-confrontational-a": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "bjp",
     "norm": 44
   },
-  "abhigyan-app-facial-scan-red-fort-security-goes-high-tech-ah": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "anglers-from-across-india-to-vie-for-prized-catch": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "tamil-nadu-study-finds-hidden-costs-burden-cancer-patients-d": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "90-year-old-co-optex-gets-a-gen-z-makeover": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "technical-fault-behind-air-india-phuket-delhi-incident-pilot": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "sovereign-infra-and-sovereign-ai-not-the-same-says-tata-comm": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "us-moves-to-scrap-60-day-h-1b-grace-period-what-it-could-mea": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "adg-panda-set-to-get-promotion-strong-contender-for-dgp-chai": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "punjab-cm-mann-lays-foundation-stone-of-ravidass-study-centr": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "west-bengal-cm-suvendu-adhikari-announces-rs-10-000-monthly-": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "drive-against-illegal-immigrants-in-bengaluru-activists-alle": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "vizag-dsla-reviews-arrangements-for-national-lok-adalat": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "woman-charred-body-found-in-siddipet-district-hyderabad-news": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "india-road-to-progress-is-crumbling": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "colourful-festivals-can-also-be-eco-friendly": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "cops-intensify-vigil-ahead-of-second-shrawan-somvar": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "indian-u-s-navies-to-hold-joint-eod-exercise-in-kochi": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
+  "annual-sports-day-held-in-vellore": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
     "signature": "",
     "norm": 36
   },
-  "don-bosco-india": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
+  "nhai-faces-flak-over-poor-service-roads-on-edappally-aroor-n": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
     "signature": "",
     "norm": 36
   },
-  "man-held-after-allegedly-assaulting-two-men-with-baseball-ba": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
+  "coimbatore-based-industrialist-honoured": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "",
+    "norm": 36
+  },
+  "guruvayur-devaswom-to-discuss-renaming-of-kodathi-vilakku-fo": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "",
+    "norm": 36
+  },
+  "mediating-telangana-s-inter-state-issues": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "",
+    "norm": 36
+  },
+  "india-u-s-navies-to-hold-eod-exercise-in-kochi-from-august-1": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "",
+    "norm": 36
+  },
+  "t-n-police-arrest-837-cyber-criminals-in-two-days": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
+    "signature": "",
+    "norm": 36
+  },
+  "five-held-on-charges-of-smuggling-ivory": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
     "signature": "",
     "norm": 33.9
   },
-  "india-sends-8-mt-of-life-saving-medicines-to-bolivia-to-supp": {
-    "firstSeen": "2026-08-09T18:56:02.414Z",
+  "adivasi-dalit-convention-seeks-justice-for-jogi-muthanga-vio": {
+    "firstSeen": "2026-08-09T19:44:28.423Z",
     "signature": "",
     "norm": 33.9
   }
