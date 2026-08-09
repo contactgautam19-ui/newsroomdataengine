@@ -1,151 +1,171 @@
 {
+  "jharkhand-exam-stir-protesters-stick-to-demand-for-cbi-probe": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "chief minister|exam|khan|minister|protest|protest|recruitment",
+    "norm": 87.8
+  },
   "mamata-visits-residence-of-trinamool-worker-who-died-in-poli": {
     "firstSeen": "2026-08-09T10:48:17.002Z",
     "signature": "attack|attack|chief minister|died|mamata|minister|protest|protest",
+    "norm": 85.8
+  },
+  "mamata-banerjee-attacked-stones-bricks-hurled-amid-protest-o": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "attack|attack|chief minister|death|mamata|minister|protest|protest",
     "norm": 84.3
   },
-  "arunachal-group-wants-government-policy-to-recruit-20-non-re": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "dead|dead|exam|policy|recruitment",
-    "norm": 80.7
+  "backed-into-a-corner-trump-ready-to-end-iran-war-without-nuc": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "deal|iran|mp|trump|trump|war",
+    "norm": 84.1
   },
-  "jpsc-exam-cancellation-demand-met-but-jharkhand-protesters-t": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "exam|khan|minister|protest|protest",
+  "-stones-thrown-to-kill-mamata-on-cm-s-order-tmc-mps-allege-a": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "attack|attack|bjp|congress|mamata|mp|row",
     "norm": 79.4
   },
-  "jharkhand-students-protest-live-updates-students-announce-ma": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "exam|khan|protest|protest|row",
-    "norm": 76.5
+  "three-jharkhand-psc-members-resign-amid-paper-leak-protests": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "governor|khan|protest|protest|war",
+    "norm": 74.6
   },
-  "jharkhand-protest-health-of-student-leader-devendra-nath-mah": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "exam|khan|protest|protest|recruitment",
-    "norm": 76.5
-  },
-  "ensure-vb-g-ram-g-jobs-for-all-eligible-workers-to-check-mig": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "jobs|khan|minister|mp|war",
-    "norm": 76.2
-  },
-  "with-cjp-getting-millions-of-followers-kejriwal-changes-mess": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "aap|instagram|kejriwal|shooting|star|video",
-    "norm": 75.3
-  },
-  "-we-condemn-such-incidents-bjp-s-samik-bhattacharya-denies-p": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "attack|attack|bjp|mamata|mp",
-    "norm": 73.6
-  },
-  "centre-undermining-privacy-increasing-economic-burden-on-peo": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "congress|mp|protest|protest|sudden|suddenly",
-    "norm": 73.3
-  },
-  "jharkhand-protest-govt-considers-cancelling-jpsc-exams-stude": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "exam|khan|protest|protest",
-    "norm": 71.6
-  },
-  "gold-silver-prices-may-rise-next-week-as-us-inflation-data-g": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "gold|inflation|investor|mp|price|prices",
+  "-jo-khelega-woh-khilega-pm-modi-meets-india-s-cwg-2026-medal": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "gst|minister|modi|modi|mp|prime minister",
     "norm": 71
   },
-  "india-tick-boxes-in-warm-up-captain-gill-fit-jaiswal-finds-r": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "captain|mp|surprise|war",
-    "norm": 68
+  "two-rejected-take-off-drills-runway-accident-why-did-trainer": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "accident|crash|crash|mp",
+    "norm": 70.6
   },
-  "man-dies-in-suspected-tiger-attack-in-gudalur": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "attack|attack|drone",
-    "norm": 63.2
+  "-cheer-4-bharat-pm-modi-meets-cwg-medal-winners-shares-new-v": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "instagram|modi|modi|video",
+    "norm": 69.6
   },
-  "freedom-fighters-patriotism-inspires-generations-fadnavis-on": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "maharashtra|riot|war",
-    "norm": 62.9
+  "at-least-nine-injured-in-steel-plant-blast-in-jharkhand-s-ra": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "actor|blast|hospital|injured|khan",
+    "norm": 67.1
   },
-  "those-who-participated-in-quit-india-movement-remain-inspira": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "modi|modi|mp",
+  "paddy-farmers-face-3-07-lakh-crore-loss-samyukta-kisan-morch": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "crore|lakh|protest|protest",
+    "norm": 66.9
+  },
+  "sukhbir-s-sad-has-only-1-lok-sabha-mp-then-why-is-his-u-turn": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "alliance|bjp|lok sabha|modi|modi|mp|poll",
+    "norm": 65.3
+  },
+  "pmay-urban-govt-says-1-25-crore-houses-sanctioned-1-crore-de": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "crore|lakh|mp|sanction",
+    "norm": 63.5
+  },
+  "sait-supporters-protest-denial-of-cabinet-berth": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "cabinet|protest|protest",
+    "norm": 62.8
+  },
+  "kumaraswamy-warns-congress-of-electoral-backlash": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "backlash|congress|war",
+    "norm": 62.5
+  },
+  "-no-60-day-cushion-if-laid-off-in-us-trump-s-proposal-lacks-": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "mp|trump|trump",
     "norm": 59.7
   },
-  "86-year-old-on-evening-walk-killed-as-car-hits-4-in-kolkata-": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "killed|killed",
-    "norm": 57.6
+  "computer-science-allied-courses-continue-to-dominate-kerala-": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "iran|mp",
+    "norm": 57.1
   },
-  "-4-4bn-cleanup-turns-ohio-s-fernald-uranium-site-into-wetlan": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "bill|billion",
-    "norm": 55
+  "row-over-umar-khalid-book-event-jnu-cancels-venue-permission": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "mp|row",
+    "norm": 55.4
   },
-  "bjp-mp-lists-private-bill-on-social-media-ban-for-children": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "bill|bjp|mp",
-    "norm": 50.9
+  "congress-calls-for-defence-of-constitution-and-democracy-in-": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "congress|defence|president",
+    "norm": 52.7
   },
-  "air-india-pilot-s-psychoactive-substance-test-requires-confi": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "accident",
+  "naidu-shines-spotlight-on-tribal-artisans-rich-craft": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "chief minister|minister|mp",
+    "norm": 52.7
+  },
+  "saudi-arabia-says-fire-extinguished-at-aramco-facility-in-ji": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "fire|fire",
+    "norm": 52.4
+  },
+  "government-will-try-to-release-maximum-compensation-to-farme": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "minister|mp",
+    "norm": 50.5
+  },
+  "tribal-culture-offers-a-guiding-light-for-humanity-revanth-r": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
+  },
+  "kerala-state-farm-awards-announced-cheruvayal-raman-wins-fir": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "power-demand-in-andhra-pradesh-projected-to-grow-at-6-90-cag": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "row",
+  "kerala-farm-awards-kozhikode-farmer-sets-a-model-in-organic-": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "teacher-suspended-over-controversial-savarkar-question-in-fr": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "ipl",
-    "norm": 46.3
+  "rajiv-rahadari-property-owners-to-stage-hunger-strike-on-aug": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "acquisition",
+    "norm": 45.9
   },
-  "ed-files-complaints-against-rinfra-rcom": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
+  "navy-joins-search-for-missing-fishermen-in-thiruvananthapura": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "navy",
+    "norm": 45.9
+  },
+  "officials-highlight-education-welfare-for-tribals-on-world-a": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "practice-meditation-to-control-your-mind-says-hubballi-dharw": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "mp",
+  "portfolios-to-19-newly-sworn-in-karnataka-ministers-likely-t": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "j-khand-students-to-intensify-stir-after-talks-with-govt-fai": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
+  "education-qualification-of-hemant-soren-from-aspiring-archit": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
     "signature": "khan",
-    "norm": 44.3
+    "norm": 42.4
   },
-  "63-year-old-ragpicker-arrested-for-murdering-wife-in-bengalu": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
+  "nhai-faces-flak-over-shoddy-service-roads-carriageway-on-eda": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
     "signature": "",
     "norm": 36
   },
-  "varuna-yagam-sahasra-ghatabhishekam-enter-third-day-at-srisa": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
+  "a-strong-people-s-movement-needed-to-protect-constitution-sa": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "two-minor-girls-allegedly-sexually-assaulted-near-machilipat": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
+  "india-gifts-5-peacocks-to-un-45-years-after-indira-gandhi-di": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "two-policemen-stabbed-in-uttara-kannada-village": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "turbulence-hit-ai-flight-pilot-s-dope-test-not-negative-sent": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "india-russia-to-be-linked-by-rail-moscow-floats-proposal-cal": {
-    "firstSeen": "2026-08-09T13:11:39.091Z",
+  "training-aircraft-skids-off-baramati-runway-govt-explains-wh": {
+    "firstSeen": "2026-08-09T14:47:30.857Z",
     "signature": "",
     "norm": 33.9
   }
