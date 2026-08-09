@@ -1,26 +1,56 @@
 {
-  "op-sindoor-showed-india-will-go-to-any-extent-to-protect-its": {
-    "firstSeen": "2026-08-09T20:47:42.950Z",
-    "signature": "defence|maharashtra|minister|mp",
-    "norm": 61.8
+  "let-operative-involved-in-26-11-mumbai-attack-dies-in-pak-po": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
+    "signature": "attack|attack|collapse|collapse|collapse|dead|dead|death|slam",
+    "norm": 84.4
   },
-  "tvk-cadre-s-march-towards-fort-st-george-stopped-by-police-i": {
-    "firstSeen": "2026-08-09T20:47:42.950Z",
-    "signature": "war",
-    "norm": 46.3
+  "group-flags-online-terror-threat-issued-against-pandits-in-k": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
+    "signature": "terror|terror|threat",
+    "norm": 62.9
   },
-  "haryana-power-employees-announce-three-day-strike-from-today": {
-    "firstSeen": "2026-08-09T20:47:42.950Z",
+  "protests-on-nashik-pune-highway-against-revised-nashik-pune-": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
+    "signature": "congress|protest|protest",
+    "norm": 61.1
+  },
+  "government-data-point-to-uneven-implementation-of-nrts-with-": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
+    "signature": "lakh|lok sabha|mp",
+    "norm": 57.6
+  },
+  "bsp-president-mayawati-opposes-creamy-layer-idea-for-scs-sts": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
+    "signature": "president|row",
+    "norm": 55.4
+  },
+  "bjd-sees-potential-opportunity-to-regain-political-ground": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
+    "signature": "bjp|war",
+    "norm": 55.4
+  },
+  "census-2027-ladakh-to-lead-independent-india-s-first-caste-e": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
+    "signature": "defence|record",
+    "norm": 50.2
+  },
+  "7-of-25-high-courts-without-cjs-collegium-recommends-names-f": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
+    "signature": "high court|supreme court",
+    "norm": 48.7
+  },
+  "why-distance-from-crime-scene-matters-in-criminal-law": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
+    "signature": "mp|parliament",
+    "norm": 48.7
+  },
+  "ed-director-rahul-navin-s-tenure-extended-by-a-year": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "search-ops-involving-indian-navy-for-3-missing-fishermen-con": {
-    "firstSeen": "2026-08-09T20:47:42.950Z",
-    "signature": "navy",
-    "norm": 44
-  },
-  "indian-us-navies-kick-off-5-day-specialised-diving-eod-exerc": {
-    "firstSeen": "2026-08-09T20:47:42.950Z",
+  "recent-rain-has-little-impact-on-national-monsoon-deficit": {
+    "firstSeen": "2026-08-09T21:44:07.308Z",
     "signature": "mp",
     "norm": 44
   }
