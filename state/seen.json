@@ -1,121 +1,301 @@
 {
-  "school-headmaster-shot-dead-by-unidentified-men-in-west-beng": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "attack|attack|congress|dead|dead|slam|slams",
-    "norm": 79.5
+  "jharkhand-students-protest-live-updates-fasting-students-dec": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "hospital|iran|khan|protest|protest",
+    "norm": 81.3
   },
-  "supriya-sule-breaks-silence-on-prashant-kishor-s-meeting-wit": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "chief minister|congress|maharashtra|minister|mp|war",
-    "norm": 74.6
+  "p-m-bhargava-the-indian-man-who-saw-tomorrow-in-a-cell": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "fuel|mp|row|war|warning",
+    "norm": 80.3
   },
-  "jharkhand-exam-stir-government-to-hold-fresh-talks-health-of": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "dead|dead|exam|khan",
-    "norm": 74.6
+  "no-attacks-on-allies-compensation-iran-lays-down-six-demands": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "attack|attack|iran|mp",
+    "norm": 80
   },
-  "-distorting-it-shashi-tharoor-says-remarks-on-rahul-gandhi-s": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "attack|attack|congress|mp|rahul gandhi",
-    "norm": 72
+  "up-bsp-leader-alleges-attack-after-replying-to-gauriganj-mla": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "attack|attack|mla",
+    "norm": 70.3
   },
-  "jharkhand-students-protest-live-updates-govt-announces-fresh": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "iran|khan|protest|protest",
-    "norm": 71.6
+  "households-in-india-other-asia-pacific-regions-highly-vulner": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "price|shock|shock",
+    "norm": 65.6
   },
-  "bidadi-township-row-why-karnataka-s-big-urban-plan-has-run-i": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "acquisition|crore|protest|protest|row",
-    "norm": 70.4
+  "ss-rajamouli-varanasi-plot-revealed-mahesh-babu-faces-deadly": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "dead|dead|threat",
+    "norm": 65.6
   },
-  "pm-modi-jd-vance-hold-key-call-india-us-strategic-ties-trade": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "minister|modi|modi|president|prime minister",
-    "norm": 64.6
+  "bengal-government-hospitals-observe-two-minute-silence-in-me": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "hospital|protest|protest",
+    "norm": 64.9
   },
-  "amit-shah-offers-prayers-at-arunachaleswar-temple-sri-ramana": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "amit shah|mp|president|war",
+  "-their-courage-will-always-inspire-pm-modi-remembers-quit-in": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 63.5
+  },
+  "us-tariff-on-russian-oil-buyers-brace-for-possible-120-crude": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "shock|shock|war",
+    "norm": 62.5
+  },
+  "from-ahaan-panday-to-lakshya-7-rising-bollywood-stars-who-al": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "bollywood|bollywood|film|star",
+    "norm": 62.2
+  },
+  "-they-called-mohanlal-a-secondary-artist-jude-anthany-joseph": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "bollywood|bollywood|film|movie",
+    "norm": 62.2
+  },
+  "two-men-held-for-taking-photographs-inside-arunachaleswarar-": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "amit shah|minister|mp|war",
     "norm": 61.8
   },
-  "ngt-must-make-public-report-of-panel-that-reviewed-approvals": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "congress|modi|modi",
+  "milk-prices-in-maharashtra-set-to-increase-by-2-per-litre-fr": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "maharashtra|price|prices",
     "norm": 61.4
   },
-  "maharashtra-cm-orders-fresh-investigation-of-siddhivinayak-t": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "maharashtra|mp|record",
-    "norm": 61.1
+  "j-k-police-searches-multiple-locations-in-sopore-in-uapa-pro": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "ipl|slam",
+    "norm": 60.4
   },
-  "day-8-of-hunger-strike-devendra-nath-mahto-demands-action-ov": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "exam|row",
-    "norm": 59.3
+  "iphone-17-price-hike-from-tomorrow-": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "price|row",
+    "norm": 58.3
   },
-  "iran-releases-video-of-mojtaba-khamenei-amid-health-rumours": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "iran|video",
-    "norm": 52.4
+  "nancy-guthrie-update-tucson-home-to-be-sold-shock-claim-made": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "death|shock|shock",
+    "norm": 57.9
   },
-  "sfi-calls-for-action-amid-rising-student-suicides-in-a-p-": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "death",
-    "norm": 48.2
+  "twist-in-harassment-case-never-met-swarup-biswas-says-woman-": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "twist|war",
+    "norm": 57.1
   },
-  "neet-ug-paper-leak-what-cbi-chargesheet-reveals-about-conspi": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "neet",
-    "norm": 48.2
+  "79-years-ago-a-man-who-had-never-visited-india-knew-little-a": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "mp|pakistan",
+    "norm": 51.7
   },
-  "educators-across-india-gather-in-mumbai-to-brainstorm-on-pri": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "storm",
-    "norm": 46.3
+  "small-car-market-set-to-grow-faster-over-next-five-years-mar": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "row",
+    "norm": 51.2
   },
-  "jssc-paper-leak-exclusive-120-answers-whatsapp-and-a-bombshe": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "bomb",
-    "norm": 46.3
+  "elon-musk-x-is-ending-creator-revenue-sharing-what-creators-": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "war",
+    "norm": 49.4
   },
-  "what-happens-if-there-is-no-constitutional-amendment-on-deli": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "lok sabha",
-    "norm": 45.9
+  "doctor-arrested-for-bid-to-misbehave-with-nurse-in-kodungaiy": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "hospital",
+    "norm": 49.4
   },
-  "former-aiadmk-ministers-who-joined-tvk-get-party-posts": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "obc-representation-below-quota-in-postal-dept-parliamentary-": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
-    "signature": "parliament",
-    "norm": 44
-  },
-  "google-s-30th-employee-jeff-dean-shows-what-he-returned-on-h": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
+  "mp-harda-students-shine-in-tourism-quiz-2026-foundation-of-e": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
     "signature": "mp",
+    "norm": 49
+  },
+  "premiumisation-lifts-liquor-companie-june-quarter-topline-am": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "mp",
+    "norm": 49
+  },
+  "meta-must-comply-with-indian-law-not-merely-global-policies-": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "mp",
+    "norm": 49
+  },
+  "upcoming-ipos-5-mainboard-issues-to-rs-7-500-cr-next-week-th": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "ipo",
+    "norm": 49
+  },
+  "vijayan-trishul-defence-solutions-signs-tech-pact-with-czech": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "defence",
+    "norm": 49
+  },
+  "when-a-french-commander-revolted-joined-nawab-army": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "army",
+    "norm": 49
+  },
+  "saina-nehwal-says-parents-must-be-really-strict-to-raise-a-c": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "udupi-congress-leader-murder-three-shooters-arrested": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "congress",
+    "norm": 47.1
+  },
+  "breezy-bri-missing-latest-update-as-talent-agency-sounds-ale": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "alert",
+    "norm": 46.3
+  },
+  "farmers-association-welcomes-tamil-nadu-cm-vijay-s-move-on-l": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "prabhas-fans-are-madly-waiting-for-independence-day-treat": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "fan",
+    "norm": 45.5
+  },
+  "did-yash-really-give-4-5-years-to-toxic-nayanthara-calls-him": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "actor",
+    "norm": 45.5
+  },
+  "gauahar-khan-reunites-with-ex-boyfriend-kushal-tandon-at-min": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "khan",
+    "norm": 45.5
+  },
+  "g-d-n-movie-review": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "movie",
+    "norm": 45.5
+  },
+  "mahesh-babu-birthday-special-from-child-actor-to-ss-rajamoul": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "actor",
+    "norm": 45.5
+  },
+  "former-chief-justice-of-manipur-high-court-d-krishnakumar-ap": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "high court",
     "norm": 44
   },
-  "air-india-phuket-delhi-pilot-may-have-failed-dope-test-what-": {
-    "firstSeen": "2026-08-09T04:32:53.051Z",
-    "signature": "",
-    "norm": 36
+  "photos-fierce-mahesh-from-the-world-of-varanasi": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "photos",
+    "norm": 44
   },
-  "hdk-asks-jd-s-legislators-to-raise-drought-bmic-bidadi-towns": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
+  "-told-my-son-to-watch-sunset-jaaved-jaaferi-explains-why-pat": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "watch",
+    "norm": 44
+  },
+  "numerology-predictions-today-august-09-2026-read-your-person": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 39.4
+  },
+  "ap-eamcet-2026-phase-1-seat-allotment-out-today-at-cap-apcfs": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "raja-raghuvanshi-brothers-booked-for-serving-liquor-without-": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 37.4
   },
   "mayawati-opposes-creamy-layer-for-scs-sts-in-reservation-hit": {
     "firstSeen": "2026-08-09T05:54:45.006Z",
     "signature": "",
+    "norm": 37.4
+  },
+  "shah-cites-past-experience-says-small-loans-show-strong-reco": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "meta-must-follow-indian-law-not-just-global-rules-say-govern": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "chinese-women-switched-at-birth-grew-up-4km-apart": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "joe-biden-health-worsens-amid-cancer-battle-": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "canada-deportation-drive-indians-top-the-removal-list-": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "spain-turned-a-300-metre-deep-coal-mine-into-a-massive-artif": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "phuket-delhi-air-india-flight-turbulence-pilot-failed-dope-t": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "good-news-for-mumbaikars-4-new-bridges-coming-up-across-mumb": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 36
+  },
+  "bengal-stf-recovers-huge-cache-of-arms-ammunition-from-aband": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 36
+  },
+  "chennai-beaches-to-get-new-wi-fi-poles-45-minutes-of-free-in": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 36
+  },
+  "kerala-nia-arrests-one-more-in-malappuram-explosives-case": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 36
+  },
+  "nia-arrests-main-conspirator-in-kerala-illegal-explosives-se": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
     "norm": 33.9
   },
-  "aiadmk-defends-its-absence-in-the-meet-on-delimitation": {
-    "firstSeen": "2026-08-09T05:54:45.006Z",
+  "redonda-rebounds-6-000-rats-goats-removed-lizards-up-8x-vege": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "where-is-gabriel-thomas-castro-19-year-old-cherokee-county-m": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "us-ice-to-put-every-field-agent-on-camera-by-august-end-why-": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "i-feel-deep-sadness-about-bird-flu-and-environmental-loss-is": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "japan-nuclear-debate-unnerves-proponents-of-pacifism": {
+    "firstSeen": "2026-08-09T07:10:38.973Z",
     "signature": "",
     "norm": 33.9
   }
