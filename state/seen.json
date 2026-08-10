@@ -1,27 +1,27 @@
 {
-  "jharkhand-protest-student-leader-devendra-mahto-critical-aft": {
-    "firstSeen": "2026-08-10T20:56:36.436Z",
-    "signature": "hospital|injured|khan|protest|protest",
-    "norm": 75
+  "jharkhand-protest-cops-to-check-cctv-to-identify-miscreants-": {
+    "firstSeen": "2026-08-10T22:52:08.524Z",
+    "signature": "bjp|cctv|exam|footage|khan|protest|protest",
+    "norm": 81.7
   },
-  "govt-hints-at-jpc-for-fcra-bill-opposition-demands-total-rol": {
-    "firstSeen": "2026-08-10T21:53:51.815Z",
-    "signature": "bill|opposition",
-    "norm": 48.7
+  "russia-court-bans-opposition-anti-war-party-from-elections": {
+    "firstSeen": "2026-08-10T22:52:08.524Z",
+    "signature": "election|election|opposition|parliament|supreme court|war",
+    "norm": 73
   },
-  "number-of-govt-elementary-schools-down-10-000-in-a-year": {
-    "firstSeen": "2026-08-10T21:53:51.815Z",
-    "signature": "",
-    "norm": 33.9
+  "jharkhand-protest-police-defend-mild-force-to-scan-cctv-for-": {
+    "firstSeen": "2026-08-10T22:52:08.524Z",
+    "signature": "cctv|khan|protest|protest",
+    "norm": 62.5
   },
-  "airbus-and-french-agency-to-join-probe-into-phuket-flight": {
-    "firstSeen": "2026-08-10T21:53:51.815Z",
-    "signature": "",
-    "norm": 33.9
+  "iphone-18-pro-bom-cost-estimated-to-be-up-by-40-gsmarena-com": {
+    "firstSeen": "2026-08-10T22:52:08.524Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "what-s-in-a-name-pak-boxer-s-hate-for-narendra-": {
-    "firstSeen": "2026-08-10T21:53:51.815Z",
-    "signature": "",
-    "norm": 33.9
+  "us-records-hottest-month-ever-as-july-heat-shatters-132-year": {
+    "firstSeen": "2026-08-10T22:52:08.524Z",
+    "signature": "record",
+    "norm": 40.7
   }
 }
