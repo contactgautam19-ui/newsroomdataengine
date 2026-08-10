@@ -1,181 +1,166 @@
 {
-  "b-y-vijayendra-plays-down-viral-video-says-there-is-no-ambig": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "bjp|president|video|viral|viral|viral|viral video",
-    "norm": 85.7
+  "jlkm-leader-devendra-nath-mahto-hospitalised-after-9-day-hun": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "exam|hospital|khan|protest|protest|recruitment",
+    "norm": 84.5
   },
-  "ajit-pawar-s-plane-crash-august-9-runway-mishap-why-baramati": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "crash|crash|crore|death|war",
-    "norm": 75
+  "-govt-has-heard-you-jharkhand-cm-hemant-soren-appeals-for-pe": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "chief minister|exam|khan|minister|protest|protest",
+    "norm": 83.2
   },
-  "water-tank-collapses-during-demolition-in-kerala-s-palakkad-": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "actor|collapse|collapse|collapse|injured",
-    "norm": 72
+  "a-warning-bjp-can-no-longer-afford-to-ignore-nda-ally-sounds": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "bjp|mp|protest|protest|war|warning",
+    "norm": 80.1
   },
-  "jharkhand-students-protest-live-police-lathi-charge-proteste": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "injured|khan|protest|protest",
+  "jharkhand-students-protest-live-mahto-hospitalised-as-health": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "bjp|hospital|khan|protest|protest",
+    "norm": 79.4
+  },
+  "violent-clashes-erupt-in-ranchi-as-student-protests-demand-c": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "clash|clash|exam|protest|protest|recruitment",
+    "norm": 77.5
+  },
+  "jharkhand-protest-soren-s-force-vs-students-justice-league-m": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "khan|opposition|outrage|protest|protest",
+    "norm": 74.6
+  },
+  "protesting-maharashtra-farmers-demand-2-lakh-incentive-for-r": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "lakh|maharashtra|protest|protest",
+    "norm": 72.9
+  },
+  "suspecting-wife-s-extramarital-affair-bengaluru-man-kills-2-": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "death|killed|killed|mp",
+    "norm": 72.6
+  },
+  "ethanol-blended-diesel-fails-safety-test-says-govt-wider-use": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "diesel|fuel|mp|petrol|petrol",
     "norm": 71.6
   },
-  "tamil-nadu-assured-pension-scheme-will-be-implemented-as-soo": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "crore|minister|mp|row|sanction",
-    "norm": 71.6
+  "woman-s-family-attempts-self-immolation-after-her-death-in-u": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "death|died|hospital|mp",
+    "norm": 71
   },
-  "ethanol-blending-in-diesel-fails-flash-point-test-government": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "diesel|minister|petrol|petrol",
-    "norm": 69.6
+  "kerala-to-implement-comprehensive-sea-rescue-system-chief-mi": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "chief minister|minister|mp|rescue|rescue",
+    "norm": 69
   },
-  "kerala-bjp-core-committee-meets-first-time-since-assembly-el": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "bjp|election|election|fund",
-    "norm": 69.6
+  "-no-firing-at-jantar-mantar-nadda-slams-rahul-gandhi-claims-": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "congress|lok sabha|parliament|rahul gandhi|slam|slams",
+    "norm": 68
   },
-  "bridge-near-india-china-border-washed-away-by-swollen-river-": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "border|china|mp|video|weather",
-    "norm": 67.3
+  "jharkhand-students-protest-live-use-of-force-against-student": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "khan|protest|protest|rahul gandhi",
+    "norm": 68
   },
-  "deputy-speaker-and-ministers-visit-missing-fisher-s-home": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "minister|mp|rescue|rescue",
-    "norm": 66.9
+  "upi-will-remain-free-for-consumers-nirmala-sitharaman-tells-": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "bill|opposition|rajya sabha|tax",
+    "norm": 61.4
   },
-  "petrol-diesel-prices-to-fall-here-s-what-government-said": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "diesel|fuel|petrol|petrol|price|prices",
-    "norm": 63.4
-  },
-  "rajya-sabha-clears-taxation-bill-government-rules-out-upi-ch": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "bill|mp|rajya sabha|tax",
-    "norm": 59.7
-  },
-  "vande-mataram-to-make-i-day-debut-why-was-india-s-national-s": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "modi|modi|mp",
-    "norm": 59.7
-  },
-  "tgsrtc-driver-who-lost-leg-in-accident-gets-50-lakh-insuranc": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "accident|lakh",
+  "civil-police-officers-to-assist-consumer-dispute-redressal-c": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "high court|war",
     "norm": 57.1
   },
-  "hidden-treasure-scam-four-arrested-for-cheating-11-people-of": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "crore|scam",
-    "norm": 57.1
+  "allahabad-hc-upholds-religious-conversion-of-two-women-order": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "lakh|mp",
+    "norm": 55
   },
-  "why-hepatitis-a-is-no-longer-a-simple-disease-in-kerala": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "mp|row",
-    "norm": 57.1
+  "bharath-offers-20-lakh-aid-to-family-of-deceased-medical-stu": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "lakh|minister",
+    "norm": 55
   },
-  "california-home-sale-record-doubles-to-70m-with-ai-industry-": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "ipl|record",
+  "air-india-ai-2379-scare-300-foot-drop-raises-questions-over-": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "ipl|sudden",
     "norm": 52.4
   },
-  "rss-ideologue-tg-mohandas-gets-bail-over-girls-enjoy-rape-re": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "supriya-sule-s-meeting-with-pm-sets-off-speculation-over-ncp": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "bill|parliament",
+    "norm": 48.7
   },
-  "delhi-hc-seeks-the-caravan-s-reply-in-defamation-case-filed-": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "bjp|minister|president",
-    "norm": 50.9
-  },
-  "janasakshyam-adalat-at-wandoor-in-malappuram-gets-470-compla": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "minister|mp",
-    "norm": 50.5
-  },
-  "forest-department-to-set-up-craft-wood-banks-at-six-location": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "price|prices",
-    "norm": 50.5
-  },
-  "class-11-student-dies-by-suicide-after-father-takes-away-pho": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "death",
+  "ernakulam-general-hospital-plans-mobile-human-milk-collectio": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "hospital",
     "norm": 48.2
   },
-  "bjp-jd-s-to-put-up-joint-fight-to-demand-nagendra-s-ouster": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "bjp",
+  "former-minister-m-r-k-panneerselvam-sparks-lively-exchanges-": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "girl-s-choice-of-clothes-is-personal-can-t-corrupt-boys-delh": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "high court",
+  "land-re-survey-exercise-will-be-completed-by-end-of-2027-say": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "india-donates-five-peacocks-to-un-office-in-geneva": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "state-run-nephro-urology-head-elected-szusi-president": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
+    "signature": "president",
     "norm": 44
   },
-  "-will-get-fitting-reply-nadda-dares-rahul-to-come-for-discus": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "parliament",
-    "norm": 44
-  },
-  "idea-that-a-woman-in-jeans-can-corrupt-young-boys-shows-trou": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "verdict",
-    "norm": 44
-  },
-  "arrested-over-girls-enjoy-rape-remark-right-wing-activist-ge": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "bjp",
-    "norm": 44
-  },
-  "5-abandoned-houses-set-ablaze-by-unknown-armed-individuals-i": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
-    "signature": "blaze",
-    "norm": 42.7
-  },
-  "pathanamthitta-district-police-office-gets-four-iso-certific": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
+  "over-a-fifth-of-the-electors-in-telangana-might-get-deleted-": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
     "signature": "",
     "norm": 36
   },
-  "if-harmful-chemicals-are-found-in-cosmetics-we-will-ban-them": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
+  "not-turbulence-air-india-a320-suffered-rare-flight-control-e": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
     "signature": "",
     "norm": 36
   },
-  "bhatti-vikramarka-visits-quantumscape-headquarters-explores-": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
+  "historic-akkanna-madanna-ghatam-procession-marks-bonalu-fina": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
     "signature": "",
     "norm": 36
   },
-  "world-adivasi-day-marked-with-cultural-fervour-exhibition-of": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
+  "brs-demands-revocation-of-order-against-sc-status-to-dalit-c": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "ahead-of-onam-food-safety-department-intensifies-inspections": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
+  "senior-maoist-leader-samatha-alias-madhavi-surrenders-before": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "air-india-phuket-delhi-flight-loses-altitude-amid-turbulence": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
+  "hc-vacates-order-over-properties-being-acquired-for-metro-co": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "the-hindu-srm-a-p-to-host-seminar-on-career-management-in-vi": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
+  "moving-grass-led-australian-caver-to-discover-one-of-victori": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "girijana-aikya-vedika-demands-better-safeguards-for-tribal-r": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
+  "lake-mead-falls-to-1-040-4-feet-as-colorado-river-crisis-dee": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "thousands-of-vat-69-whisky-smirnoff-vodka-pet-bottles-seized": {
-    "firstSeen": "2026-08-10T15:11:44.040Z",
+  "ethanol-or-evs-india-needs-both-for-cleaner-mobility-says-if": {
+    "firstSeen": "2026-08-10T17:03:59.679Z",
     "signature": "",
     "norm": 33.9
   }
