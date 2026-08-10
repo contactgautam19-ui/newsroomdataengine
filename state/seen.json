@@ -1,141 +1,216 @@
 {
-  "-will-pure-petrol-come-from-your-father-s-house-bjp-mp-on-et": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "backlash|bjp|fuel|mp|petrol|petrol|protest|protest",
-    "norm": 91.2
+  "-not-interested-in-fantasy-conversations-congress-renews-att": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "amit shah|attack|attack|congress|fan|protest|protest|rahul gandhi",
+    "norm": 89.6
   },
-  "child-among-13-killed-in-one-of-deadliest-ukraine-drone-stri": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "attack|attack|dead|dead|drone|killed|killed|result",
-    "norm": 87.6
+  "jharkhand-students-protest-live-use-of-force-against-student": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "exam|khan|protest|protest|rahul gandhi|recruitment",
+    "norm": 84.1
   },
-  "jharkhand-students-protest-live-protestors-reach-state-assem": {
-    "firstSeen": "2026-08-10T10:33:48.190Z",
-    "signature": "exam|khan|protest|protest|recruitment",
-    "norm": 76.5
+  "-pm-modi-or-amit-shah-don-t-have-guts-rahul-turns-up-heat-am": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "amit shah|congress|lok sabha|minister|modi|modi|neet|opposition|parliament|protest|protest|rahul gandhi",
+    "norm": 83.8
   },
-  "-narendra-the-name-feared-in-pakistan-sports-minister-mandav": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "fear|minister|modi|modi|pakistan",
-    "norm": 73.6
+  "3-girls-killed-after-snake-slithers-into-maharashtra-school-": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "death|killed|killed|maharashtra|mp",
+    "norm": 82.2
   },
-  "austin-homeowner-pays-3-000-to-trim-trees-after-insurance-wa": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "aerial|mp|war|warning",
-    "norm": 72.9
-  },
-  "bjp-vs-muslim-league-don-t-provoke-us-rajeev-chandrasekhar-w": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "bjp|clash|clash|controversy|row|war",
-    "norm": 70.1
-  },
-  "amit-shah-to-speak-on-students-protest-says-kiren-rijiju-ami": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "amit shah|minister|opposition|parliament|protest|protest",
+  "-pushpa-joins-psc-jssc-aspirants-ranchi-protest-says-jharkha": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "iran|khan|protest|protest",
     "norm": 70
   },
-  "kerala-to-implement-comprehensive-sea-rescue-system-chief-mi": {
-    "firstSeen": "2026-08-10T10:33:48.190Z",
-    "signature": "chief minister|minister|mp|rescue|rescue",
-    "norm": 69
+  "andhra-pradesh-govt-assures-support-to-fcv-tobacco-farmers-a": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "minister|price|prices|row",
+    "norm": 69.6
   },
-  "tamil-nadu-forest-department-steps-up-efforts-to-identify-ca": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "attack|attack|killed|killed",
+  "-use-of-force-against-protesting-students-in-jharkhand-wrong": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "khan|protest|protest|rahul gandhi",
     "norm": 68
   },
-  "parliament-monsoon-session-day-16-live-govt-is-ready-to-disc": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "parliament|protest|protest",
+  "mla-seeks-constitution-of-sit-to-probe-alleged-gold-fraud-by": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "fraud|gold|mla",
+    "norm": 67.6
+  },
+  "8-injured-in-assam-arunachal-border-firing-situation-almost-": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "border|fire|fire|injured",
+    "norm": 66.3
+  },
+  "aadhaar-data-for-unidentified-bodies-only-as-last-resort-kar": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "alert|match|record",
+    "norm": 64.9
+  },
+  "critically-endangered-indian-vulture-rescued-and-released": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "anger|rescue|rescue",
+    "norm": 64.9
+  },
+  "police-officer-s-daughter-killed-after-truck-hits-suv-in-and": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "killed|killed|war",
+    "norm": 62.9
+  },
+  "citu-seeks-implementation-of-revised-minimum-wages-repeal-of": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "mp|protest|protest",
     "norm": 62.8
   },
-  "18-injured-in-firing-along-assam-arunachal-border-over-encro": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "border|hospital|injured",
-    "norm": 60.8
+  "chief-minister-naidu-to-inaugurate-21-77-km-seed-access-road": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "chief minister|hospital|minister",
+    "norm": 61.4
   },
   "once-a-maoist-stronghold-tummala-now-has-schools-and-roads-s": {
     "firstSeen": "2026-08-10T11:56:02.130Z",
     "signature": "killed|killed",
     "norm": 59.3
   },
-  "rajya-sabha-passes-bill-to-recognise-digital-bank-records-as": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "bill|mp|rajya sabha|record",
-    "norm": 56.9
+  "rain-lashes-delhi-as-imd-issues-yellow-alert-across-capital-": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "alert|weather",
+    "norm": 57.6
   },
-  "parliament-monsoon-session-day-16-live-the-tribunals-reforms": {
-    "firstSeen": "2026-08-10T10:33:48.190Z",
-    "signature": "bill|opposition|parliament",
+  "will-upi-payments-become-chargeable-nirmala-sitharaman-answe": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "bill|parliament|tax",
+    "norm": 57.6
+  },
+  "c-ve-shanmugham-rebuts-agri-krishnamurthy-s-charge-that-dist": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "election|election",
+    "norm": 57.1
+  },
+  "world-news-live-updates-china-evacuates-over-one-million-peo": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "china|evacuat",
+    "norm": 57.1
+  },
+  "8-injured-in-firing-along-assam-arunachal-border-himanta-cal": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "border|injured",
+    "norm": 57.1
+  },
+  "trial-by-spin-with-a-hint-of-reverse-inside-india-s-final-ne": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "khan|match",
+    "norm": 55.7
+  },
+  "6-6-magnitude-earthquake-shakes-colombia-causes-injuries-and": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "earthquake|earthquake",
+    "norm": 54.2
+  },
+  "cabinet-expansion-is-chief-minister-s-prerogative-says-priya": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "cabinet|chief minister|minister",
     "norm": 52.7
   },
-  "lok-sabha-passes-bill-to-set-up-panel-to-appoint-chiefs-memb": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "bill|lok sabha|mp",
-    "norm": 52.7
+  "dmk-pmk-and-dk-demand-law-to-ensure-tamil-thai-vazhthu-is-su": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "bill|minister",
+    "norm": 50.5
   },
-  "woman-farmer-breaks-down-as-over-100-trees-felled-for-power-": {
-    "firstSeen": "2026-08-10T10:33:48.190Z",
-    "signature": "rally|rally",
-    "norm": 52
+  "executive-failure-behind-hc-pulling-up-officials-says-state-": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "bjp|president",
+    "norm": 50.5
   },
-  "calcutta-high-court-tells-police-to-give-former-tmc-mla-asit": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "high court|mla",
+  "tribunals-reforms-bill-2026-what-is-the-proposed-law-and-why": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "bill|mp",
     "norm": 48.7
   },
-  "esports-world-cup-two-indian-teams-reach-pubg-mobile-grand-f": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "world cup",
+  "the-cult-fit-legal-mess-family-feud-forged-sign-claim-and-rs": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "crore|ipo",
+    "norm": 48.7
+  },
+  "yash-education-qualification-from-school-theatre-to-kgf-fame": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "film|star",
+    "norm": 48.2
+  },
+  "vijay-sparks-tamil-thai-vazhthu-row-from-sundaranar-s-1891-w": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "vizag-collector-calls-for-greater-hiv-aids-awareness": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "3-girls-die-1-critical-after-snake-bites-6-at-maharashtra-sc": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "maharashtra",
     "norm": 46.3
   },
-  "kerala-police-seek-five-day-custody-of-arjun-ayanki": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "aap",
-    "norm": 45.9
+  "he-raised-4-children-alone-when-he-died-none-of-them-came-to": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "died",
+    "norm": 46.3
   },
-  "80th-independence-day-in-a-1st-vande-mataram-to-be-sung-from": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
+  "sundar-pichai-net-worth-google-ceo-has-2-million-salary-know": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "kerala-udf-govt-s-100-day-action-plan-faces-scrutiny-as-only": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
+  "-sahasra-ghatabhishekam-performed-at-srisailam-temple": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "kerala-government-to-launch-coconut-rejuvenation-project-to-": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
+  "-india-s-first-temple-for-mahatma-gandhi-readies-for-indepen": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "minister-accuses-ysrcp-of-conspiracy-in-tdp-leader-s-murder-": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
     "signature": "minister",
+    "norm": 45.9
+  },
+  "ram-temple-s-1st-ceo-shortlisted-18-set-for-final-interviews": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "mp",
     "norm": 44
   },
-  "vijay-has-firm-resolve-on-tamil-thai-vazhthu-from-sundaranar": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
+  "google-drive-is-shutting-down-desktop-app-photos-backups-in-": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
+    "signature": "photos",
+    "norm": 42.7
+  },
+  "odisha-hyderabad-drug-trafficking-network-busted-woman-among": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
     "signature": "",
     "norm": 36
   },
-  "air-india-ai2379-probe-france-s-bea-to-join-investigation-in": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
+  "eagle-force-director-sandeep-shandilya-appreciates-lions-clu": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
     "signature": "",
     "norm": 36
   },
-  "massachusetts-cranberry-farm-restored-to-wetland-thousands-o": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
+  "ccb-busts-racket-making-rigged-gambling-cards-man-held-in-be": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
     "signature": "",
     "norm": 36
   },
-  "tech-savvy-anubhava-mantapa-expected-to-open-in-may-2027-in-": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
+  "national-deworming-day-drive-launched-in-yadgir": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
     "signature": "",
     "norm": 36
   },
-  "11-members-of-family-swept-away-in-madhya-pradesh-eight-bodi": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "man-arrested-for-sexually-harassing-girl-9-dies-by-suicide-i": {
-    "firstSeen": "2026-08-10T11:56:02.130Z",
+  "turbulence-or-something-else-probe-widens-in-air-india-300-f": {
+    "firstSeen": "2026-08-10T13:37:45.654Z",
     "signature": "",
     "norm": 33.9
   }
