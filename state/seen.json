@@ -1,27 +1,32 @@
 {
-  "jharkhand-protest-cops-to-check-cctv-to-identify-miscreants-": {
-    "firstSeen": "2026-08-10T22:52:08.524Z",
-    "signature": "bjp|cctv|exam|footage|khan|protest|protest",
-    "norm": 81.7
+  "5-killed-20-injured-in-russian-attack-on-ukraine-s-zaporizhz": {
+    "firstSeen": "2026-08-10T23:46:51.505Z",
+    "signature": "attack|attack|governor|injured|killed|killed",
+    "norm": 79.9
   },
-  "russia-court-bans-opposition-anti-war-party-from-elections": {
-    "firstSeen": "2026-08-10T22:52:08.524Z",
-    "signature": "election|election|opposition|parliament|supreme court|war",
-    "norm": 73
+  "every-hour-20-people-die-on-our-roads-says-nitin-gadkari": {
+    "firstSeen": "2026-08-10T23:46:51.505Z",
+    "signature": "minister|star|war|warning",
+    "norm": 74.2
   },
-  "jharkhand-protest-police-defend-mild-force-to-scan-cctv-for-": {
-    "firstSeen": "2026-08-10T22:52:08.524Z",
-    "signature": "cctv|khan|protest|protest",
-    "norm": 62.5
+  "-nothing-wrong-says-fadnavis-on-ncp-sp-mps-meeting-pm-modi": {
+    "firstSeen": "2026-08-10T23:46:51.505Z",
+    "signature": "maharashtra|modi|modi|mp",
+    "norm": 65
   },
-  "iphone-18-pro-bom-cost-estimated-to-be-up-by-40-gsmarena-com": {
-    "firstSeen": "2026-08-10T22:52:08.524Z",
-    "signature": "mp",
-    "norm": 44
+  "-we-re-reducing-them-trump-s-sweeping-new-us-childhood-vacci": {
+    "firstSeen": "2026-08-10T23:46:51.505Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
   },
-  "us-records-hottest-month-ever-as-july-heat-shatters-132-year": {
-    "firstSeen": "2026-08-10T22:52:08.524Z",
-    "signature": "record",
-    "norm": 40.7
+  "24-kolkata-schoolgirls-hospitalised-after-falling-ill-food-w": {
+    "firstSeen": "2026-08-10T23:46:51.505Z",
+    "signature": "hospital|mp",
+    "norm": 55.4
+  },
+  "west-asia-war-fallout-oil-product-exports-find-many-new-mark": {
+    "firstSeen": "2026-08-10T23:46:51.505Z",
+    "signature": "war",
+    "norm": 48.2
   }
 }
