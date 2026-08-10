@@ -1,136 +1,181 @@
 {
-  "parliamentary-panel-recommends-integrated-security-and-surve": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "attack|attack|killed|killed|parliament|terror|terror",
-    "norm": 82.2
+  "assam-flood-situation-critical-death-toll-reaches-100-nearly": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "anger|death|disaster|flood|flood|lakh|threat|toll",
+    "norm": 85.7
   },
-  "jharkhand-students-assembly-march-today-ranchi-is-under-heav": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "exam|khan|protest|protest|recruitment|war",
-    "norm": 81.3
-  },
-  "cjp-pet-project-of-aap-jantar-mantar-protest-agenda-was-to-t": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "aap|bjp|kejriwal|modi|modi|protest|protest",
-    "norm": 78.2
+  "-young-people-have-awakened-rahul-gandhi-targets-pm-modi-hm-": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "fear|modi|modi|protest|protest|rahul gandhi",
+    "norm": 81.6
   },
   "jharkhand-student-protests-security-tightened-prohibitory-or": {
     "firstSeen": "2026-08-10T04:49:15.036Z",
     "signature": "alert|khan|mp|protest|protest",
-    "norm": 77.9
+    "norm": 79.4
   },
-  "jharkhand-students-protest-live-vidhan-sabha-gherao-over-jps": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "exam|khan|protest|protest|row",
-    "norm": 76.5
+  "jharkhand-students-protest-live-protestors-break-barricades-": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "khan|mp|protest|protest|star|war",
+    "norm": 77.8
   },
-  "jharkhand-students-to-march-to-assembly-today-after-talks-fa": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "iran|khan|protest|protest|war",
-    "norm": 76.5
+  "india-china-trade-through-shipli-la-resumes-after-six-years": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "china|ipl|minister|war",
+    "norm": 71.6
   },
-  "jharkhand-protest-what-are-students-demands-as-they-prepare-": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "dead|dead|khan|protest|protest",
-    "norm": 75
+  "jharkhand-students-protest-live-ex-cm-babulal-marandi-detain": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "exam|khan|protest|protest",
+    "norm": 71.6
   },
-  "video-of-vijayendra-s-casual-conversation-on-bidadi-township": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "bjp|video|viral|viral|viral",
-    "norm": 74
+  "16-bangladeshi-workers-killed-in-saudi-arabia-s-riyadh-sofa-": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "actor|blaze|killed|killed",
+    "norm": 70
   },
-  "parliament-monsoon-session-live-amit-shah-to-table-keralam-n": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "amit shah|bill|opposition|parliament|protest|protest",
-    "norm": 68.4
+  "-will-pure-petrol-come-from-your-father-s-house-bjp-mp-janar": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "bjp|mp|petrol|petrol|policy",
+    "norm": 70
   },
-  "rahul-gandhi-s-pink-shirt-is-more-than-a-fashion-statement-h": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "protest|protest|rahul gandhi|war",
-    "norm": 67.9
+  "parliament-monsoon-session-day-16-live-both-houses-adjourned": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "bill|opposition|parliament|protest|protest",
+    "norm": 69
+  },
+  "china-slams-india-s-move-of-formally-naming-27-places-in-aru": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "border|china|mp|slam|slams",
+    "norm": 67
+  },
+  "protest-against-pollution-of-guruganga-viraja-river-on-augus": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "mla|poll|protest|protest",
+    "norm": 66.9
+  },
+  "iran-nears-hormuz-shipping-deal-with-oman-keeps-conditions-f": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "deal|iran|minister",
+    "norm": 63.9
+  },
+  "apsrtc-jac-reaches-out-to-unions-student-groups-to-intensify": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "mp|protest|protest",
+    "norm": 62.8
+  },
+  "ar-rahman-s-son-ameen-injured-in-chennai-car-accident": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "accident|injured|mp",
+    "norm": 60.8
+  },
+  "india-china-discuss-lac-situation-and-border-management-duri": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "border|china|ipl",
+    "norm": 59.7
+  },
+  "foundation-stone-laid-for-1-45-crore-road-project-in-kalabur": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "crore|mla|mp|sanction",
+    "norm": 59.7
   },
   "jharkhand-students-protest-live-students-to-march-to-state-a": {
     "firstSeen": "2026-08-10T04:49:15.036Z",
     "signature": "khan|protest|protest",
-    "norm": 61.4
-  },
-  "controversial-remarks-on-jantar-mantar-protesters-cyber-poli": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "mp|protest|protest",
-    "norm": 61.1
-  },
-  "bidadi-township-chief-minister-signals-compensation-beyond-3": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "chief minister|crore|minister|mp",
     "norm": 59.7
   },
-  "bjp-demands-high-level-probe-into-alleged-irregularities-in-": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "bjp|fund|president",
+  "students-march-to-jharkhand-assembly-as-protest-enters-day-1": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "khan|protest|protest",
+    "norm": 59.7
+  },
+  "-more-practice-wouldn-t-be-as-good-kotak-s-bold-claim-after-": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "match|war",
     "norm": 57.6
   },
-  "-350-potholes-no-footpaths-kiran-mazumdar-shaw-flags-bengalu": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "iran|mp",
+  "north-korean-hackers-develop-ai-tools-to-automate-cyberattac": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "attack|attack",
+    "norm": 57.6
+  },
+  "over-130-people-bitten-by-stray-dog-in-4-hours-in-kalyan-civ": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "hospital|minister",
     "norm": 57.1
-  },
-  "jannik-sinner-withdraws-from-cincinnati-with-injury-us-open-": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "mp|slam",
-    "norm": 57.1
-  },
-  "murder-of-former-panchayat-president-was-supari-killing-over": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "lakh|president",
-    "norm": 55
-  },
-  "no-non-veg-at-eateries-along-kanwar-yatra-route-in-muzaffarn": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "star|war",
-    "norm": 53.9
   },
   "shillong-teer-result-today-august-10-2026-check-winning-numb": {
     "firstSeen": "2026-08-10T04:49:15.036Z",
     "signature": "khan|result",
+    "norm": 55.7
+  },
+  "a-r-rahman-s-son-escapes-with-minor-injuries-after-accident-": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "accident|hospital",
     "norm": 53.9
   },
-  "better-governance-clearer-rules-india-s-mythbuster-on-foreig": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "bill|fund",
+  "opinion-opinion-saudi-arabia-has-money-missiles-and-america-": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "deal|pakistan",
     "norm": 53.2
   },
-  "fcra-bill-india-busts-myths-over-foreign-funding-law-after-u": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "bill|fund",
-    "norm": 53.2
+  "stock-market-live-gift-nifty-signals-tepid-open-asia-markets": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "deal|nifty|stock market",
+    "norm": 52.7
   },
-  "jewellery-shop-told-to-pay-customer-rs-35k-for-failing-to-tu": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "gold",
-    "norm": 48.2
+  "parliament-monsoon-session-2026-live-updates-kerala-renaming": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "bill|lok sabha|parliament",
+    "norm": 52.7
   },
-  "four-detained-for-selling-non-veg-food-on-routes-for-kanwari": {
-    "firstSeen": "2026-08-10T02:29:05.581Z",
-    "signature": "war",
+  "orthodox-jacobite-priests-and-members-clash-at-church-in-ker": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "clash|clash",
+    "norm": 52.4
+  },
+  "bharatiya-samagana-sabha-to-premiere-music-video-vijayate-vi": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "mp|video",
+    "norm": 52
+  },
+  "karnataka-cm-dk-shivakumar-hails-gen-z-says-youth-shaping-th": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "jharkhand-assembly-gherao-security-tightened-with-750m-curbs": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "khan",
-    "norm": 44.3
+  "kerala-teacher-suspended-over-controversial-savarkar-questio": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "ipl",
+    "norm": 46.3
   },
-  "pnc-infratech-s-lucknow-kanpur-expressway-cracks-aren-t-new-": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "lakh",
-    "norm": 44
+  "tunnel-road-a-real-estate-project-in-disguise-contend-citize": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "crore",
+    "norm": 45.9
   },
-  "regulating-foreign-funds-sovereign-step-us-has-similar-laws-": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
-    "signature": "fund",
-    "norm": 44
+  "shows-govt-s-intolerance-state-of-judiciary-sibal-on-court-d": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "",
+    "norm": 36
   },
-  "vijayan-alleges-harassment-politically-motivated-transfers-o": {
-    "firstSeen": "2026-08-10T04:49:15.036Z",
+  "security-guard-held-for-rape-shot-in-leg-while-trying-to-fle": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "",
+    "norm": 36
+  },
+  "tn-cm-s-resolution-on-tamil-thaai-vazhthu-unanimously-passed": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "",
+    "norm": 36
+  },
+  "tamil-nadu-assembly-adopts-resolution-for-tamil-thai-vazhthu": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
+    "signature": "",
+    "norm": 36
+  },
+  "whatsapp-down-in-india-several-users-flag-outage-on-downdete": {
+    "firstSeen": "2026-08-10T06:18:58.869Z",
     "signature": "",
     "norm": 33.9
   }
