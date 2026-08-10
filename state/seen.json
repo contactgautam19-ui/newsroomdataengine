@@ -1,81 +1,51 @@
 {
-  "tensions-escalate-in-jharkhand-as-student-protests-intensify": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "chief minister|exam|khan|minister|protest|protest",
-    "norm": 81.7
+  "protesters-march-to-jharkhand-assembly-5-injured-in-clashes": {
+    "firstSeen": "2026-08-10T20:56:36.436Z",
+    "signature": "clash|clash|exam|injured|iran|khan|protest|protest",
+    "norm": 91.5
   },
-  "jharkhand-students-protest-updates-mahto-hospitalised-as-hea": {
-    "firstSeen": "2026-08-10T18:00:25.398Z",
-    "signature": "bjp|hospital|khan|protest|protest",
-    "norm": 77.9
+  "bjp-asks-congress-to-withdraw-support-to-hemant-soren-govt-r": {
+    "firstSeen": "2026-08-10T20:56:36.436Z",
+    "signature": "bjp|chief minister|congress|khan|minister|protest|protest|rahul gandhi|slam|slams",
+    "norm": 84.1
   },
-  "raw-chief-parag-jain-meets-bangladesh-defence-advisor-india-": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "border|defence|terror|terror",
-    "norm": 70
+  "jharkhand-protest-student-leader-devendra-mahto-critical-aft": {
+    "firstSeen": "2026-08-10T20:56:36.436Z",
+    "signature": "hospital|khan|protest|protest",
+    "norm": 71.6
   },
-  "woman-councillor-allegedly-stabbed-by-father-in-law-in-keral": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "attack|attack",
-    "norm": 57.6
+  "lok-sabha-passes-tribunals-reforms-bill-amid-din": {
+    "firstSeen": "2026-08-10T20:56:36.436Z",
+    "signature": "bill|election|election|lok sabha|minister|mp",
+    "norm": 65.1
   },
-  "up-hospital-claims-lab-grown-cell-therapy-used-for-urethral-": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "hospital|row",
-    "norm": 57.6
-  },
-  "nithin-raj-case-inquiry-initiated-against-officer-over-alleg": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "high court|ipl",
+  "protectors-turn-predators-how-son-preference-fuels-female-fo": {
+    "firstSeen": "2026-08-10T20:56:36.436Z",
+    "signature": "fuel|maharashtra",
     "norm": 55.4
   },
-  "vodafone-idea-q1-revenue-rises-6-yoy-to-11-689-crore-arpu-ju": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "crore|mp",
-    "norm": 55
+  "govt-offers-amit-shah-statement-in-parliament-opposition-doe": {
+    "firstSeen": "2026-08-10T20:56:36.436Z",
+    "signature": "amit shah|opposition|parliament",
+    "norm": 50.9
   },
-  "up-temples-reverberate-with-har-har-mahadev-as-devotees-thro": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "mp|vote",
-    "norm": 48.7
+  "supriya-sule-s-meeting-with-pm-sets-off-speculation-over-ncp": {
+    "firstSeen": "2026-08-10T20:56:36.436Z",
+    "signature": "bill|parliament",
+    "norm": 50.5
   },
-  "row-in-kerala-over-pension-delivery": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "row",
-    "norm": 48.2
+  "us-judge-dismisses-criminal-case-against-gautam-adani": {
+    "firstSeen": "2026-08-10T20:56:36.436Z",
+    "signature": "adani",
+    "norm": 44.3
   },
-  "if-harmful-chemicals-are-found-in-cosmetics-we-will-ban-them": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "six-key-gst-officials-in-chennai-transferred": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "gst",
-    "norm": 44
-  },
-  "government-to-preserve-tribal-heritage-while-promoting-educa": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "jobs",
-    "norm": 44
-  },
-  "t-n-government-s-proposed-four-year-undergraduate-programme-": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "policy",
-    "norm": 44
-  },
-  "horoscope-today-daily-astrological-predictions-for-august-11": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
-    "signature": "star",
-    "norm": 42.4
-  },
-  "3-a-notification-issued-for-kochi-outer-ring-road": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
+  "ram-rahim-s-acquittal-in-journalist-murder-case-needs-consid": {
+    "firstSeen": "2026-08-10T20:56:36.436Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "two-families-adopt-animals-under-igzp-s-animal-adoption-prog": {
-    "firstSeen": "2026-08-10T19:10:40.777Z",
+  "bureaucratic-reshuffle-deepti-gaur-mukerjee-named-new-higher": {
+    "firstSeen": "2026-08-10T20:56:36.436Z",
     "signature": "",
     "norm": 33.9
   }
