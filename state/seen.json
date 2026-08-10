@@ -1,51 +1,26 @@
 {
-  "protesters-march-to-jharkhand-assembly-5-injured-in-clashes": {
-    "firstSeen": "2026-08-10T20:56:36.436Z",
-    "signature": "clash|clash|exam|injured|iran|khan|protest|protest",
-    "norm": 91.5
-  },
-  "bjp-asks-congress-to-withdraw-support-to-hemant-soren-govt-r": {
-    "firstSeen": "2026-08-10T20:56:36.436Z",
-    "signature": "bjp|chief minister|congress|khan|minister|protest|protest|rahul gandhi|slam|slams",
-    "norm": 84.1
-  },
   "jharkhand-protest-student-leader-devendra-mahto-critical-aft": {
     "firstSeen": "2026-08-10T20:56:36.436Z",
-    "signature": "hospital|khan|protest|protest",
-    "norm": 71.6
+    "signature": "hospital|injured|khan|protest|protest",
+    "norm": 75
   },
-  "lok-sabha-passes-tribunals-reforms-bill-amid-din": {
-    "firstSeen": "2026-08-10T20:56:36.436Z",
-    "signature": "bill|election|election|lok sabha|minister|mp",
-    "norm": 65.1
+  "govt-hints-at-jpc-for-fcra-bill-opposition-demands-total-rol": {
+    "firstSeen": "2026-08-10T21:53:51.815Z",
+    "signature": "bill|opposition",
+    "norm": 48.7
   },
-  "protectors-turn-predators-how-son-preference-fuels-female-fo": {
-    "firstSeen": "2026-08-10T20:56:36.436Z",
-    "signature": "fuel|maharashtra",
-    "norm": 55.4
-  },
-  "govt-offers-amit-shah-statement-in-parliament-opposition-doe": {
-    "firstSeen": "2026-08-10T20:56:36.436Z",
-    "signature": "amit shah|opposition|parliament",
-    "norm": 50.9
-  },
-  "supriya-sule-s-meeting-with-pm-sets-off-speculation-over-ncp": {
-    "firstSeen": "2026-08-10T20:56:36.436Z",
-    "signature": "bill|parliament",
-    "norm": 50.5
-  },
-  "us-judge-dismisses-criminal-case-against-gautam-adani": {
-    "firstSeen": "2026-08-10T20:56:36.436Z",
-    "signature": "adani",
-    "norm": 44.3
-  },
-  "ram-rahim-s-acquittal-in-journalist-murder-case-needs-consid": {
-    "firstSeen": "2026-08-10T20:56:36.436Z",
+  "number-of-govt-elementary-schools-down-10-000-in-a-year": {
+    "firstSeen": "2026-08-10T21:53:51.815Z",
     "signature": "",
     "norm": 33.9
   },
-  "bureaucratic-reshuffle-deepti-gaur-mukerjee-named-new-higher": {
-    "firstSeen": "2026-08-10T20:56:36.436Z",
+  "airbus-and-french-agency-to-join-probe-into-phuket-flight": {
+    "firstSeen": "2026-08-10T21:53:51.815Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "what-s-in-a-name-pak-boxer-s-hate-for-narendra-": {
+    "firstSeen": "2026-08-10T21:53:51.815Z",
     "signature": "",
     "norm": 33.9
   }
