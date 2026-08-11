@@ -1,172 +1,162 @@
 {
-  "jharkhand-students-protest-rahul-gandhi-attacks-government-o": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "attack|attack|exam|khan|protest|protest|rahul gandhi|recruitment",
-    "norm": 97.7
+  "anti-abortion-rally-row-tn-speaker-jcd-prabhakar-s-remarks-t": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "rally|rally|row|storm",
+    "norm": 71.4
   },
-  "-why-are-lathis-not-used-in-political-parties-protests-dipke": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "khan|protest|protest|slam|slams|vote",
-    "norm": 75.4
+  "as-polavaram-looms-koyas-cast-one-last-net-in-godavari-flood": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "flood|flood|floods|threat",
+    "norm": 70
   },
-  "dipke-slams-police-action-against-protesters-in-ranchi-says-": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "hospital|protest|protest|slam|slams|video",
-    "norm": 75.1
+  "operation-safed-sagar-why-china-refused-to-back-pakistan-dur": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "china|pakistan|slam|war",
+    "norm": 66.6
   },
-  "kerala-unit-of-aap-demands-review-of-e20-fuel-policy-announc": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "aap|fuel|policy|protest|protest",
-    "norm": 74.9
+  "abhishek-banerjee-s-diamond-harbour-model-loses-its-lustre-h": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "collapse|collapse|collapse|sudden",
+    "norm": 61.1
   },
-  "sharad-pawar-s-education-qualification-a-look-at-the-four-ti": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "maharashtra|mp|war",
-    "norm": 67.6
-  },
-  "-cowards-congress-on-amit-shah-s-no-show-in-lok-sabha-rijiju": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "amit shah|congress|lok sabha|parliament|war",
-    "norm": 64.6
-  },
-  "candidates-trained-under-government-s-rural-skilling-program": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "fund|jobs|mp|parliament",
-    "norm": 63.5
-  },
-  "record-48-million-kanwariyas-visit-haridwar-in-2026-kanwar-f": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "record|vote|war",
-    "norm": 62.8
-  },
-  "kerala-leader-of-opposition-pinarayi-vijayan-condoles-death-": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "death|opposition|war",
-    "norm": 62.5
-  },
-  "supreme-court-declines-to-intervene-in-trinamool-plea-on-fro": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "fund|record|supreme court",
-    "norm": 60.7
-  },
-  "born-in-ronaldo-s-hometown-ex-australia-cricketer-to-lead-po": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "cricket|cricketer|world cup",
-    "norm": 59.4
-  },
-  "wildlife-attack-adalat-at-nenmara-on-aug-14": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "attack|attack",
+  "triplets-delivered-in-government-hospital": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "hospital|ipl",
     "norm": 59.3
   },
-  "19-year-old-assam-woman-found-dead-in-noida-pg-after-dispute": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "dead|dead",
+  "man-daughter-killed-after-the-man-detonated-explosives-in-ka": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "killed|killed",
+    "norm": 59.3
+  },
+  "search-intensifies-for-bro-personnel-who-swept-away-in-chamo": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "flood|flood|sudden",
+    "norm": 58.3
+  },
+  "-dozens-of-schools-closed-crpf-deployed-how-j-k-s-rajouri-ha": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "terror|terror",
     "norm": 57.6
   },
-  "digital-arrest-scams-what-has-the-supreme-court-directed-to-": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "scam|supreme court",
+  "centre-assures-priority-for-velloor-in-aiims-site-selection-": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "election|election",
     "norm": 57.1
   },
-  "pune-conversion-case-uk-based-oci-holder-booked-under-new-ma": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "maharashtra|mp",
-    "norm": 55.4
+  "police-must-lead-efforts-to-make-karnataka-drug-free-priyank": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "mp|war",
+    "norm": 57.1
   },
-  "2020-hathras-rape-court-to-hear-defamation-case-against-rahu": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "mla|mp|rahul gandhi",
+  "kerala-muttil-tree-felling-case-two-accused-appear-before-ch": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "fraud|war",
+    "norm": 53.9
+  },
+  "bidadi-project-farmers-delegation-from-two-villages-meets-ch": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "chief minister|minister|president",
     "norm": 52.7
   },
-  "tamil-nadu-neet-resolution-vijay-wants-to-end-test-so-how-wo": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "exam|neet",
-    "norm": 52.1
-  },
-  "morning-lab-opened-at-kodur-health-centre-in-kerala-s-malapp": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "minister-vivek-mp-vamsi-krishna-seek-pm-setu-iti-cluster-for": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "minister|mp",
     "norm": 50.5
   },
-  "air-india-phuket-delhi-flight-pilot-s-2nd-drug-test-positive": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "row",
+  "five-years-after-kerala-high-court-ruling-english-teachers-a": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "high court|ruling",
+    "norm": 50.5
+  },
+  "assessing-ramifications-of-new-defence-pact-between-pak-t-rk": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "defence|pakistan",
+    "norm": 50.5
+  },
+  "andhra-pradesh-government-attaches-additional-agrigold-linke": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "gold",
     "norm": 48.2
   },
-  "air-india-phuket-delhi-flight-row-pilot-tests-positive-for-d": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "phuket-delhi-flight-turbulence-probe-intoxicated-air-india-p": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "row",
-    "norm": 48.2
+    "norm": 46.3
   },
-  "jagan-to-meet-ysrcp-mlas-mlcs-on-august-12": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "portfolio-allocation-before-august-13-says-minister": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "yathindra-calls-on-senior-mlas-of-mysuru-seeks-their-guidanc": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "mla",
     "norm": 45.9
   },
-  "six-key-gst-officials-in-chennai-transferred-after-sowcarpet": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "gst",
-    "norm": 45.9
-  },
-  "tghrc-recommends-4-lakh-each-for-18-patients-who-developed-i": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "tukaram-mundhe-seals-pune-fort-murder-accused-siya-goyal-s-f": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "lakh",
-    "norm": 45.9
+    "norm": 44
   },
-  "passport-seva-server-glitch-leaves-hundreds-stranded-in-kera": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "car-plunges-into-river-while-trying-to-avoid-hitting-wild-bo": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "second-phase-of-pravasi-insurance-scheme-for-expats-to-begin": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "",
     "norm": 36
   },
-  "taiwan-delegation-visits-vfstr-explores-deeper-academic-ties": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "kozhikode-corporation-awaits-cwrdm-report-to-conduct-carbon-": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "",
     "norm": 36
   },
-  "training-programme-for-master-trainers-in-outcome-based-educ": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "icmr-nin-kicks-off-shine-2026-for-school-students": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "",
     "norm": 36
   },
-  "gk-who-designed-india-s-national-flag-the-forgotten-story-of": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "farmers-outfit-criticises-cwrc-s-directive-on-release-of-cau": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "",
     "norm": 36
   },
-  "karnataka-forest-department-fits-elephant-with-radio-collar-": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "rajiv-jyoti-sadbhavana-yatra-to-pass-through-telangana-from-": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "",
     "norm": 36
   },
-  "fisherman-s-body-recovered-from-muthalapozhi": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "govt-to-open-131-cci-procurement-centres-this-season": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "",
     "norm": 36
   },
-  "nasa-invites-isro-to-join-moon-base-programme": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "gang-murders-youth-in-cuddalore": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "",
     "norm": 36
   },
-  "air-india-ai-2379-pilot-s-second-drug-test-positive-aviation": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "search-for-techie-missing-from-shivagange-hills-trek-continu": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "",
     "norm": 36
   },
-  "here-are-the-big-stories-from-karnataka-today": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "theatre-artists-repaint-kolkata-s-academy-of-fine-arts-white": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "",
     "norm": 36
   },
-  "pilot-of-turbulence-hit-ai-flight-that-dropped-300-ft-fails-": {
-    "firstSeen": "2026-08-11T13:35:42.204Z",
+  "-no-chinese-encroachment-in-arunachal-social-media-claims-di": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
     "signature": "",
     "norm": 36
+  },
+  "-those-who-consider-corruption-a-birthright-in-1997-independ": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "fda-inspects-indira-canteens-in-bengaluru-after-rats-found-i": {
+    "firstSeen": "2026-08-11T15:12:17.721Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
