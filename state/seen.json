@@ -1,161 +1,131 @@
 {
-  "nda-opposition-mps-take-out-protests-in-parliament-complex": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "congress|khan|mp|opposition|parliament|protest|protest|recruitment|ruling",
-    "norm": 84.9
+  "airport-truck-bunker-golf-cart-5-unusual-places-trump-went-i": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "mp|protest|protest|threat|trump|trump",
+    "norm": 81.6
   },
-  "congress-slams-amit-shah-s-continued-absence-from-lok-sabha": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "amit shah|congress|lok sabha|slam|slams|war",
-    "norm": 71.1
+  "pakistan-steps-up-diplomacy-can-islamabad-help-de-escalate-u": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "diplomacy|ipl|iran|pakistan|row|slam",
+    "norm": 81.3
   },
-  "fcra-bill-goes-waqf-route-to-jpcc-j-sai-jeepak-on-fcra-block": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "bill|opposition|parliament|protest|protest",
-    "norm": 69
+  "up-begins-pilot-project-on-cow-urine-collection-samajwadi-pa": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "bjp|election|election|fund|opposition|scam",
+    "norm": 79.8
   },
-  "supreme-court-agrees-to-tamil-nadu-government-s-plea-for-ear": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "flood|flood|floods|supreme court",
-    "norm": 66.3
+  "trump-modi-trade-row-peter-navarro-says-leaders-can-resolve-": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "minister|modi|modi|mp|president|prime minister|row|trump|trump",
+    "norm": 78.6
   },
-  "-paid-trolls-can-t-hide-this-harbhajan-singh-hits-back-at-ba": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "backlash|bjp|mp|video",
-    "norm": 65.3
+  "-why-didn-t-rahul-gandhi-visit-jharkhand-protest-site-punjab": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "bjp|congress|khan|protest|protest|rahul gandhi",
+    "norm": 74
   },
-  "air-india-phuket-delhi-flight-pilot-intoxication-or-technica": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "sudden|war|warning",
-    "norm": 63.2
+  "mamata-banerjee-protests-deeply-hurtful-remarks-against-neta": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "bjp|mamata|mp|protest|protest",
+    "norm": 67.3
   },
-  "lionel-messi-s-kochi-visit-fabricated-to-launder-black-money": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "deal|minister|mla",
-    "norm": 59.3
+  "breaking-cash-at-residence-row-inquiry-report-on-justice-yas": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "controversy|high court|lok sabha|row",
+    "norm": 66.6
   },
-  "explain-in-three-weeks-hc-to-government-over-land-allotment-": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "crore|mp|rupee",
-    "norm": 57.6
+  "jharkhand-students-protests-updates-over-100-abvp-workers-de": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "khan|protest|protest|star",
+    "norm": 64.9
   },
-  "air-india-ai-2379-13-technical-failures-in-80-minutes-pilot-": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "ipl|row",
-    "norm": 57.6
+  "bangladesh-s-request-to-extradite-sheikh-hasina-being-examin": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "exam|minister|prime minister",
+    "norm": 59.7
   },
-  "india-s-secularism-temple-control-church-autonomy-the-aborti": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "exam|mp",
-    "norm": 57.1
+  "us-energy-firm-unloads-drilling-equipment-in-greenland-witho": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "president|war",
+    "norm": 55.4
   },
-  "cricketer-abhishek-porel-arrested-on-charges-of-rape-devices": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "cricket|cricketer",
-    "norm": 55.7
+  "rayagada-railway-staff-protest-seek-clarity-on-postings-seni": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "-rachnatmak-congress-meet-to-focus-on-unemployment-social-ju": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "congress|lok sabha|mp|opposition|president|rahul gandhi",
-    "norm": 54.7
+  "kerala-cpi-m-state-secretary-accuses-cmo-of-harbouring-synth": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "chief minister|congress|minister",
+    "norm": 50.9
   },
-  "marathon-followed-by-a-skydive-77-year-old-army-veteran-comp": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "army|mp",
-    "norm": 48.7
+  "cwma-endorses-cwrc-s-direction-to-karnataka-to-release-12-00": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "chief minister|minister|mp",
+    "norm": 50.9
   },
-  "video-of-actor-vikram-with-lar-gibbon-tamil-nadu-forest-depa": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "actor|video",
-    "norm": 48.7
+  "former-encounter-specialist-ex-dm-among-eight-who-face-inter": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "ram mandir",
+    "norm": 48.2
   },
-  "brs-flays-congress-bjp-s-silence-on-national-project-status-": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "bjp|congress",
-    "norm": 48.7
+  "kerala-child-rights-panel-sgou-to-launch-certificate-diploma": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "ipl",
+    "norm": 48.2
   },
-  "cm-vijay-likely-to-move-resolution-in-assembly-seeking-freez": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "lok sabha|parliament",
-    "norm": 48.7
-  },
-  "zepto-warehouse-sealed-in-bengaluru-s-hoskote-by-food-safety": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
+  "-extremely-unhygienic-raid-exposes-filth-in-zepto-s-bengalur": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
     "signature": "war",
     "norm": 46.3
   },
-  "fssai-bans-plastic-foil-packaging-for-pan-masala-under-new-r": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "war",
+  "bumble-humbled-dating-app-eases-women-first-messaging-rule": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "match",
     "norm": 46.3
   },
-  "don-t-submit-report-on-aravallis-without-visiting-all-distri": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "supreme court",
+  "tamil-nadu-s-delimitation-conundrum": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "parliament",
     "norm": 45.9
   },
-  "-taking-matter-seriously-aviation-minister-after-air-india-p": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "minister",
+  "sc-asks-ec-to-furnish-data-on-sir-appeal-disposal-in-west-be": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "vote",
     "norm": 45.9
   },
-  "karnataka-cracks-down-on-expired-food-dirty-kitchens-strict-": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "inquiry-committee-report-on-justice-varma-to-be-tabled-in-lo": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "lok sabha",
-    "norm": 45.9
-  },
-  "two-bengal-farmers-abducted-by-bangladeshis-released-later": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "border",
-    "norm": 45.9
-  },
-  "-do-you-wear-a-janeu-eat-non-veg-food-ram-temple-ceo-candida": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "karnataka-bjp-says-it-will-not-allow-legislature-proceedings": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "bjp",
+  "no-new-schemes-or-fiscal-consolidation-measures-in-the-budge": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "budget",
     "norm": 44
   },
-  "centre-s-panel-on-demographic-changes-reaches-jammu-meets-lo": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
+  "no-maternity-leave-for-government-employees-expecting-4th-ch": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "horoscope-today-daily-astrological-predictions-for-august-12": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "workshop-on-molecular-pharming-held-in-vellore": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
     "signature": "",
     "norm": 36
   },
-  "railways-looks-beyond-own-cadres-for-construction-wing-overh": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "",
-    "norm": 36
-  },
-  "server-outage-makes-passport-applicants-fret-and-fume-in-abs": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "",
-    "norm": 36
-  },
-  "nepal-based-accused-in-killing-of-retired-ips-officer-s-wife": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
+  "august-12-solar-eclipse-europe-set-for-first-total-eclipse-i": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
     "signature": "",
     "norm": 33.9
   },
-  "speakers-urge-engineering-students-to-explore-diverse-career": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
+  "this-day-in-space-nasa-launched-first-communications-satelli": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
     "signature": "",
     "norm": 33.9
   },
-  "unit-4-of-slbhes-recommissioned-again": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "delhi-traffic-advisory-on-aug-13-for-i-day-rehearsal-key-red": {
-    "firstSeen": "2026-08-11T17:08:51.144Z",
+  "bengal-may-soon-get-anti-conversion-law-curb-land-sale-acros": {
+    "firstSeen": "2026-08-11T19:15:41.930Z",
     "signature": "",
     "norm": 33.9
   }
