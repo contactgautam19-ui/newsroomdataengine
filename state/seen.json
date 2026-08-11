@@ -1,81 +1,41 @@
 {
-  "hc-bins-plea-of-j-amp-k-cop-sacked-for-skipping-duty-over-te": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "mp|terror|terror|threat",
-    "norm": 71
+  "amid-backlash-centre-set-to-refer-fcra-bill-to-jpc": {
+    "firstSeen": "2026-08-11T21:59:04.145Z",
+    "signature": "backlash|bill|lok sabha|rally|rally",
+    "norm": 69
   },
-  "terror-suspects-spotted-search-ops-launched-in-j-amp-k-s-dod": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "mp|terror|terror",
-    "norm": 66
+  "trump-modi-will-resolve-russia-sanctions-u-s-official": {
+    "firstSeen": "2026-08-11T21:59:04.145Z",
+    "signature": "bill|modi|modi|mp|president|sanction|trump|trump",
+    "norm": 68.8
   },
-  "-cjp-twisted-cji-remark-sc-seeks-govt-cbi-response-on-pil": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "cji|twist",
-    "norm": 50.2
+  "hemant-soren-calls-bjp-a-parasite-as-jharkhand-bandh-hits-no": {
+    "firstSeen": "2026-08-11T21:59:04.145Z",
+    "signature": "bjp|khan|mp",
+    "norm": 56.1
   },
-  "cpi-m-seeks-clarification-on-links-of-drug-case-accused-to-k": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "chief minister|minister",
+  "president-murmu-gives-assent-to-bill-criminalising-insult-to": {
+    "firstSeen": "2026-08-11T21:59:04.145Z",
+    "signature": "bill|president",
     "norm": 48.7
   },
-  "kerala-high-court-questions-hiring-of-bodybuilders-who-faile": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "high court|mp",
-    "norm": 48.7
+  "calcutta-high-court-says-custodial-interrogation-of-abhishek": {
+    "firstSeen": "2026-08-11T21:59:04.145Z",
+    "signature": "high court",
+    "norm": 45.9
   },
-  "cm-vijay-likely-to-move-resolution-in-assembly-seeking-freez": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "lok sabha|parliament",
-    "norm": 48.7
-  },
-  "microfinance-scam-probe-hc-orders-appearance-of-sit-head": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "scam",
-    "norm": 46.3
-  },
-  "fda-is-using-a-sword-to-killa-mosquito-exercise-power-with-r": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "bomb",
-    "norm": 46.3
-  },
-  "kashmiri-pandits-security-stepped-up-after-threat-letter-fro": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "threat",
-    "norm": 46.3
-  },
-  "wall-street-ends-down-as-us-iran-peace-optimism-fades": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "iran",
-    "norm": 46.3
-  },
-  "row-erupts-over-plans-to-convert-listed-pub-in-uk-into-mosqu": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "streetside-food-stall-shut-at-vyttila-in-kochi": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
+  "panel-seeks-enhanced-relief-counselling-for-sc-st-victims": {
+    "firstSeen": "2026-08-11T21:59:04.145Z",
     "signature": "mp",
     "norm": 44
   },
-  "maurya-questions-seven-year-tenure-of-u-p-governor": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "governor",
-    "norm": 44
-  },
-  "on-thanksgiving-trip-kishor-vows-10-000-jobs-for-youthin-ban": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
-    "signature": "jobs",
-    "norm": 44
-  },
-  "samastha-madrasa-count-rises-to-11-134": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
+  "-process-can-t-be-unending-sc-wants-sir-tribunals-in-bengal-": {
+    "firstSeen": "2026-08-11T21:59:04.145Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "idli-sambar-to-be-served-in-delhi-government-schools-under-p": {
-    "firstSeen": "2026-08-11T20:59:02.507Z",
+  "nasa-invites-isro-to-join-moon-base-programme": {
+    "firstSeen": "2026-08-11T21:59:04.145Z",
     "signature": "",
     "norm": 33.9
   }
