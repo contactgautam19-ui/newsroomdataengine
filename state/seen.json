@@ -1,216 +1,191 @@
 {
-  "why-is-maharashtra-demolishing-highway-dhabas-the-60-day-dea": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "crash|crash|dead|dead|maharashtra|mp",
-    "norm": 88.2
+  "nda-india-bloc-mps-face-off-outside-parliament-over-jharkhan": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "clash|clash|ipl|iran|khan|mp|parliament|protest|protest|war",
+    "norm": 96.9
   },
-  "nda-and-oppn-mps-confront-each-other-in-parliament-during-jh": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "khan|mp|neet|parliament|protest|protest",
+  "-breakfast-in-mumbai-lunch-in-gorakhpur-yogi-s-latest-joke-o": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "actor|summit|viral|viral|viral|yogi",
     "norm": 83.2
   },
-  "bjp-asks-congress-to-withdraw-support-to-hemant-soren-govt-r": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "bjp|chief minister|congress|khan|minister|protest|protest|rahul gandhi|slam|slams",
-    "norm": 82.6
+  "3-of-family-killed-after-speeding-car-rams-truck-in-madhya-p": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "crash|crash|killed|killed|mp",
+    "norm": 80.3
   },
-  "-our-youth-are-talented-cm-yogi-s-shoutout-to-gen-z-after-ma": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "exam|iran|neet|protest|protest|yogi",
+  "video-clip-of-intoxicated-men-shared-by-bjp-mp-harbhajan-was": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "aap|attack|attack|bjp|kejriwal|minister|mp|video",
     "norm": 80.2
   },
-  "-from-rajasthan-not-punjab-police-fact-check-bjp-mp-harbhaja": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "bjp|mp|video|viral|viral|viral",
-    "norm": 79.4
+  "chaos-in-ranchi-abvp-workers-climb-on-police-bus-protesters-": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "exam|khan|protest|protest|recruitment",
+    "norm": 75
   },
-  "jharkhand-students-protests-live-face-off-in-ranchi-as-abvp-": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "iran|khan|protest|protest|war",
-    "norm": 76.5
+  "parliament-turns-protest-ground-as-bjp-opposition-face-off-o": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "bjp|mp|opposition|parliament|protest|protest|threat",
+    "norm": 73.3
   },
-  "centre-makes-a-subtle-change-to-stance-on-karnataka-needing-": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "modi|modi|mp|rajya sabha|supreme court|war",
-    "norm": 74.6
-  },
-  "nda-mps-target-rahul-gandhi-over-silence-on-use-of-lathis-wa": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "bjp|khan|mp|protest|protest|rahul gandhi",
-    "norm": 74
-  },
-  "arvind-kejriwal-extends-support-to-jharkhand-students-protes": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "kejriwal|khan|mp|protest|protest",
-    "norm": 73.6
-  },
-  "supreme-court-notice-to-centre-cbi-on-cjp-s-activities-monet": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "supreme court|viral|viral|viral",
-    "norm": 72.9
-  },
-  "jharkhand-job-exam-stir-enters-18th-day-bjp-observing-bandh-": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "bjp|exam|iran|khan|recruitment",
-    "norm": 71.8
-  },
-  "supreme-court-asks-government-to-consider-plea-for-emergency": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "exam|mp|supreme court|threat",
+  "messi-visit-row-kerala-s-udf-govt-weighs-anti-corruption-pro": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "chief minister|match|minister|row",
     "norm": 71.6
   },
-  "parliament-monsoon-session-day-17-live-both-houses-adjourned": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "bill|lok sabha|opposition|parliament|protest|protest",
-    "norm": 68.4
+  "parliament-monsoon-session-2026-live-updates-lok-sabha-passe": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "amit shah|bill|bjp|lok sabha|minister|opposition|parliament|protest|protest",
+    "norm": 70.8
   },
-  "lok-sabha-adjourned-within-4-mins-as-opposition-sticks-to-sh": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "lok sabha|opposition|parliament|protest|protest",
-    "norm": 67.3
+  "kerala-seeks-extension-of-aicte-deadline-for-engineering-adm": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "dead|dead|iran",
+    "norm": 68
   },
-  "op-safed-sagar-how-iaf-took-the-fight-to-pakistan-at-18-000-": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "air force|bomb|pakistan|unprecedented",
-    "norm": 65.3
+  "-joke-s-nice-game-on-prakash-raj-claims-name-deleted-from-vo": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "dead|dead|vote",
+    "norm": 66
   },
-  "tricolour-waving-mps-greet-pm-modi-at-mangal-milan-raise-slo": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "minister|modi|modi|mp|parliament|prime minister",
-    "norm": 65.1
+  "kanwariyas-form-human-chain-to-let-muslim-man-s-funeral-proc": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "attack|attack|died|war",
+    "norm": 65.5
   },
-  "heavy-to-very-heavy-rain-likely-in-parts-of-delhi-over-next-": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "heavy rain|record|war",
-    "norm": 63.2
+  "jharkhand-students-protests-live-abvp-workers-detained-durin": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "khan|protest|protest|star",
+    "norm": 64.9
   },
-  "tamil-nadu-assembly-set-to-pass-separate-resolutions-against": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "exam|neet|opposition",
-    "norm": 60.8
+  "saudi-prince-towed-alaskan-iceberg-to-iowa-in-1977-for-drink": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "mp|row|tax",
+    "norm": 63.9
   },
-  "dipke-condemns-police-action-against-fasting-student-leader-": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "hospital|khan|video",
-    "norm": 59.7
+  "syria-s-ex-president-bashar-al-assad-sentenced-to-death-for-": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "death|president|ruling",
+    "norm": 61.4
   },
-  "-abolish-neet-undermines-poor-rural-backward-students-vijay-": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "neet|war",
-    "norm": 59.3
+  "-electric-shocks-sexual-abuse-ex-ukrainian-prisoners-of-war-": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "shock|shock|war",
+    "norm": 57.9
   },
-  "-against-social-justice-equality-tamil-nadu-assembly-passes-": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "bjp|neet",
+  "at-least-31-school-kids-in-kolkata-s-govt-school-fall-ill-ho": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "hospital|mp",
     "norm": 57.1
   },
-  "the-world-war-2-link-that-decided-august-15-as-india-s-indep": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "mp|war",
+  "crores-spent-machines-lie-idle-delhi-govt-hospitals-report-h": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "crore|hospital",
     "norm": 55.4
   },
-  "home-minister-amit-shah-meets-lok-sabha-speaker-birla-amid-h": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "amit shah|lok sabha|minister|opposition|parliament",
-    "norm": 54.4
+  "five-years-on-taliban-builds-global-ties-despite-lack-of-rec": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "border|economy",
+    "norm": 53.2
+  },
+  "parliament-monsoon-session-day-17-live-lok-sabha-passes-bill": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "bill|lok sabha|parliament",
+    "norm": 52.7
   },
   "unorganised-sector-workers-stage-jail-bharo-protest-in-jalna": {
     "firstSeen": "2026-08-11T07:23:36.635Z",
     "signature": "protest|protest",
-    "norm": 54.2
+    "norm": 52.4
   },
-  "delhi-students-allege-police-harassment-follows-them-home-to": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "amid-disruptions-birla-asks-govt-opposition-to-arrive-at-com": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "bill|lok sabha|mp|opposition",
-    "norm": 53.9
-  },
-  "cjp-founder-dipke-announces-nationwide-campaign-to-improve-g": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "mp|star",
-    "norm": 51.7
-  },
-  "up-mafia-sucked-blood-mosquitoes-spread-diseases-bjp-govt-go": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "bjp|yogi",
+  "tamil-nadu-assembly-urges-centre-to-withdraw-fcra-amendment-": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "bill|mp",
     "norm": 50.5
   },
-  "-paper-leaks-loss-of-young-lives-vijay-govt-moves-resolution": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "neet",
+  "supreme-court-sceptical-about-binding-sir-tribunals-to-timel": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "mp|supreme court",
+    "norm": 50.5
+  },
+  "why-tarique-rahman-s-attendance-at-brics-summit-is-now-a-key": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "brics|summit",
+    "norm": 48.7
+  },
+  "syria-s-ousted-leader-bashar-al-assad-sentenced-to-death-for": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "death",
     "norm": 48.2
   },
-  "arjun-ayanki-remanded-in-cyber-police-custody-for-three-days": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "threat",
-    "norm": 48.2
+  "why-iran-is-in-spotlight-after-water-systems-hacked-in-7-us-": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "iran",
+    "norm": 46.3
   },
-  "-life-begins-at-conception-tamil-nadu-speaker-sparks-row-ove": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
+  "row-in-kerala-over-pension-delivery": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
     "signature": "row",
     "norm": 46.3
   },
-  "sc-seeks-ec-data-on-appeals-against-voter-deletions-during-b": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "vote",
+  "kanwar-yatra-2026-traffic-restrictions-in-delhi-u-p-and-hary": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "rahul-gandhi-seen-holidaying-with-woman-child-giriraj-singh-": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "rahul gandhi",
     "norm": 45.9
   },
-  "how-can-caste-appellations-exist-in-names-of-streets-roads-i": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "high court",
+  "analysis-the-rise-of-religious-yatras-in-punjab-ahead-of-202": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "poll",
     "norm": 44
   },
-  "police-trainee-officer-arrested-for-cheating-fellow-trainees": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "lakh",
-    "norm": 44
-  },
-  "bengaluru-techie-missing-on-trek-drone-spots-suspected-body-": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "drone",
-    "norm": 42.7
-  },
-  "7-bangladeshi-nationals-apprehended-in-delhi-for-visa-overst": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
+  "google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pr": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
     "signature": "",
     "norm": 36
   },
-  "register-fir-in-cases-of-missing-persons-immediately-irrespe": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
+  "-zealots-overlooked-human-nature-tharoor-questions-full-vand": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
     "signature": "",
     "norm": 36
   },
-  "indian-origin-ex-cfo-of-us-firm-gets-4-month-jail-term-for-b": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
-    "signature": "",
-    "norm": 36
-  },
-  "solar-eclipse-2026-will-it-be-visible-from-india-": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
+  "utah-boy-13-spends-300-hours-3d-printing-wheelchair-for-todd": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
     "signature": "",
     "norm": 33.9
   },
-  "indian-railways-ticket-booking-gets-major-upgrade-what-new-p": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
+  "tamil-nadu-assembly-sengottaiyan-and-o-panneerselvam-trade-b": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
     "signature": "",
     "norm": 33.9
   },
-  "telangana-hc-vacates-order-over-properties-being-acquired-fo": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
+  "telangana-loses-1-969-government-schools-in-a-year-as-privat": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
     "signature": "",
     "norm": 33.9
   },
-  "sc-to-hear-pil-alleging-breach-of-guidelines-in-odisha-dgp-a": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
+  "chinese-rocket-carrying-satellite-explodes-mid-air-after-lau": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
     "signature": "",
     "norm": 33.9
   },
-  "last-day-to-apply-for-telangana-govt-s-indiramma-houses-in-h": {
-    "firstSeen": "2026-08-11T07:23:36.635Z",
+  "cal-hc-extends-interim-protection-from-arrest-to-abhishek-ba": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "sc-seeks-centre-s-response-on-cbi-probe-into-fake-lawyers-cj": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "u-s-firm-blackbaud-plans-second-hyderabad-office-eyes-1-000-": {
+    "firstSeen": "2026-08-11T09:10:54.246Z",
     "signature": "",
     "norm": 33.9
   }
