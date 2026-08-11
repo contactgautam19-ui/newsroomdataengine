@@ -1,121 +1,126 @@
 {
-  "protesters-march-to-jharkhand-assembly-5-injured-in-clashes": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "clash|clash|exam|injured|iran|khan|protest|protest",
-    "norm": 92.9
+  "-demis-hassabis-wanted-to-quit-google-deepmind-founder-break": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "mp|price|share price|viral|viral|viral",
+    "norm": 85.3
   },
-  "for-jharkhand-s-job-aspirants-it-was-a-march-for-lost-years": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "border|exam|iran|khan|protest|protest|recruitment|war",
-    "norm": 89.5
+  "congress-alleges-bjp-yuva-morcha-members-being-sent-from-wes": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "bjp|congress|exam|khan|protest|protest|video",
+    "norm": 84.2
   },
-  "-at-no-cost-will-mann-complete-tenure-warring-predicts-aap-g": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "aap|collapse|collapse|collapse|mp|war",
-    "norm": 80.4
+  "how-saudi-pakistan-turkey-pact-casts-a-terror-shadow-over-de": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "attack|attack|bomb|pakistan|terror|terror",
+    "norm": 78.3
   },
-  "trump-hid-in-food-truck-used-military-jet-to-leave-turkey-am": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "iran|mp|threat|trump|trump",
-    "norm": 76.5
+  "17-children-escape-narrowly-as-school-bus-catches-fire-in-ra": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "evacuat|fire|fire|mp|row",
+    "norm": 76.3
+  },
+  "raise-tiger-base-camps-to-125-within-a-month-panel-tells-and": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "drone|killed|killed|mp",
+    "norm": 71.4
+  },
+  "cat-22-in-madhya-pradesh-50-humans-killed-45-tigers-dead-in-": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "dead|dead|killed|killed",
+    "norm": 68
   },
   "jharkhand-students-protests-live-normal-life-hit-in-parts-of": {
     "firstSeen": "2026-08-11T04:35:56.090Z",
     "signature": "bjp|khan|protest|protest",
-    "norm": 69.6
-  },
-  "kerala-faces-deadly-landslides-amid-intensifying-monsoon-rai": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "dead|dead|landslide|war",
-    "norm": 69.6
-  },
-  "-grammatical-errors-in-tamil-vs-my-unique-style-vijay-minist": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "budget|minister|mla|row",
-    "norm": 69.6
-  },
-  "opinion-opinion-three-adversaries-become-4-why-the-saudi-tur": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "deal|defence|pakistan|slam",
     "norm": 68
   },
-  "woman-left-paralysed-after-treatment-hospital-doctors-told-t": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "hospital|lakh|mp",
+  "typhoon-dolphin-batters-china-flights-cancelled-lakhs-evacua": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "china|evacuat|lakh",
     "norm": 65.6
   },
-  "waris-punjab-de-s-big-bet-bjp-s-amarinder-play-and-more-the-": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "aap|alliance|bjp|congress|poll|war",
-    "norm": 65.1
+  "manmohan-singh-vindicated-history-will-remember-him-kindly-s": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "died|record|verdict",
+    "norm": 62.8
   },
-  "-narendra-naam-ka-khauf-sports-minister-reacts-to-boxer-s-pa": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "minister|modi|modi|pakistan",
-    "norm": 61.8
+  "ed-freezes-182-bank-accounts-seizes-1-cr-cash-in-connection-": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "crore|fund|scam",
+    "norm": 61.4
   },
-  "six-facetime-calls-backroom-support-did-kejriwal-script-abhi": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "kejriwal|protest|protest",
-    "norm": 61.1
-  },
-  "water-security-is-seventh-guarantee-says-karnataka-cm-promis": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "chief minister|fear|minister",
+  "deafening-music-vibrating-walls-disturbed-sleep-kanwar-camp-": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "mp|vote|war",
     "norm": 59.7
   },
-  "-hidden-treasure-promise-used-to-cheat-11-people-of-rs-1-cro": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "crore|gold",
-    "norm": 55.4
+  "multiple-spells-of-rain-expected-in-delhi-on-tuesday-imd-iss": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "alert|ipl",
+    "norm": 59.3
   },
-  "-i-still-miss-him-china-s-ai-crackdown-leaves-users-mourning": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "china|mourning",
-    "norm": 55.4
-  },
-  "stock-market-live-updates-sensex-today-sensex-sheds-300-poin": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "nifty|price|prices|sensex|stock market",
-    "norm": 54.4
-  },
-  "parliament-monsoon-session-2026-live-updates-don-t-run-away-": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "amit shah|opposition|parliament|rahul gandhi",
-    "norm": 53.9
+  "-akhilesh-uncle-not-bhaiyya-inside-bsp-s-gen-z-gambit-with-a": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "bjp|congress|poll|rahul gandhi|rally|rally|vote",
+    "norm": 58.7
   },
   "shillong-teer-result-today-august-11-2026-check-winning-numb": {
     "firstSeen": "2026-08-11T04:35:56.090Z",
     "signature": "khan|result",
-    "norm": 53.9
+    "norm": 55.7
   },
-  "congress-sam-pitroda-questions-use-of-force-against-jharkhan": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "congress|khan",
-    "norm": 53.5
+  "search-operation-launched-in-j-k-s-poonch-forests-after-susp": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "fire|fire",
+    "norm": 52.4
   },
-  "cjp-founder-dipke-announces-nationwide-campaign-to-improve-g": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "mp|star",
-    "norm": 51.7
+  "buckets-placed-to-check-seepage-at-ajanta-caves-asi-says-pai": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "heavy rain",
+    "norm": 46.3
   },
-  "fcra-bill-may-impact-christian-groups-nagaland-cm-tells-amit": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "amit shah|bill|mp",
-    "norm": 50.9
+  "tech-tonic-mark-zuckerberg-an-ai-manifesto-and-curating-a-te": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "manifesto",
+    "norm": 45.9
   },
-  "live-larvae-cockroach-infestation-why-blinkit-reliance-retai": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
+  "treat-urdu-and-sanskrit-with-equality-and-respect-tejashwi-y": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "opposition",
+    "norm": 44
+  },
+  "nda-mps-wave-tricolour-chant-vande-mataram-as-they-welcome-p": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
     "signature": "mp",
     "norm": 44
   },
-  "watch-buildings-crumble-debris-rains-down-as-7-4-magnitude-q": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "watch",
-    "norm": 42.7
+  "nagaland-cm-urges-shah-to-reconsider-fcra-amendments-seeks-p": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "parliament",
+    "norm": 44
   },
-  "-new-pm-house-why-not-new-govt-schools-in-villages-dipke-ann": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
+  "indian-railways-ticket-booking-gets-major-upgrade-what-new-p": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "",
+    "norm": 36
+  },
+  "theoretical-physicist-deepak-dhar-becomes-first-indian-to-wi": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "",
+    "norm": 36
+  },
+  "rain-comes-rushing-back-but-india-s-monsoon-story-is-far-fro": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-msn-reunion-after-10-years-will-neymar-join-messi-and-su-re": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-history-will-remember-him-kindly-sonia-writes-on-manmohan-s": {
+    "firstSeen": "2026-08-11T06:00:24.151Z",
     "signature": "",
     "norm": 33.9
   }
