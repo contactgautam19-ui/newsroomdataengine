@@ -1,126 +1,216 @@
 {
-  "-demis-hassabis-wanted-to-quit-google-deepmind-founder-break": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "mp|price|share price|viral|viral|viral",
-    "norm": 85.3
+  "why-is-maharashtra-demolishing-highway-dhabas-the-60-day-dea": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "crash|crash|dead|dead|maharashtra|mp",
+    "norm": 88.2
   },
-  "congress-alleges-bjp-yuva-morcha-members-being-sent-from-wes": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "bjp|congress|exam|khan|protest|protest|video",
-    "norm": 84.2
+  "nda-and-oppn-mps-confront-each-other-in-parliament-during-jh": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "khan|mp|neet|parliament|protest|protest",
+    "norm": 83.2
   },
-  "how-saudi-pakistan-turkey-pact-casts-a-terror-shadow-over-de": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "attack|attack|bomb|pakistan|terror|terror",
-    "norm": 78.3
+  "bjp-asks-congress-to-withdraw-support-to-hemant-soren-govt-r": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "bjp|chief minister|congress|khan|minister|protest|protest|rahul gandhi|slam|slams",
+    "norm": 82.6
   },
-  "17-children-escape-narrowly-as-school-bus-catches-fire-in-ra": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "evacuat|fire|fire|mp|row",
-    "norm": 76.3
+  "-our-youth-are-talented-cm-yogi-s-shoutout-to-gen-z-after-ma": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "exam|iran|neet|protest|protest|yogi",
+    "norm": 80.2
   },
-  "raise-tiger-base-camps-to-125-within-a-month-panel-tells-and": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "drone|killed|killed|mp",
-    "norm": 71.4
+  "-from-rajasthan-not-punjab-police-fact-check-bjp-mp-harbhaja": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "bjp|mp|video|viral|viral|viral",
+    "norm": 79.4
   },
-  "cat-22-in-madhya-pradesh-50-humans-killed-45-tigers-dead-in-": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "dead|dead|killed|killed",
-    "norm": 68
+  "jharkhand-students-protests-live-face-off-in-ranchi-as-abvp-": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "iran|khan|protest|protest|war",
+    "norm": 76.5
   },
-  "jharkhand-students-protests-live-normal-life-hit-in-parts-of": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "bjp|khan|protest|protest",
-    "norm": 68
+  "centre-makes-a-subtle-change-to-stance-on-karnataka-needing-": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "modi|modi|mp|rajya sabha|supreme court|war",
+    "norm": 74.6
   },
-  "typhoon-dolphin-batters-china-flights-cancelled-lakhs-evacua": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "china|evacuat|lakh",
-    "norm": 65.6
+  "nda-mps-target-rahul-gandhi-over-silence-on-use-of-lathis-wa": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "bjp|khan|mp|protest|protest|rahul gandhi",
+    "norm": 74
   },
-  "manmohan-singh-vindicated-history-will-remember-him-kindly-s": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "died|record|verdict",
-    "norm": 62.8
+  "arvind-kejriwal-extends-support-to-jharkhand-students-protes": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "kejriwal|khan|mp|protest|protest",
+    "norm": 73.6
   },
-  "ed-freezes-182-bank-accounts-seizes-1-cr-cash-in-connection-": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "crore|fund|scam",
-    "norm": 61.4
+  "supreme-court-notice-to-centre-cbi-on-cjp-s-activities-monet": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "supreme court|viral|viral|viral",
+    "norm": 72.9
   },
-  "deafening-music-vibrating-walls-disturbed-sleep-kanwar-camp-": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "mp|vote|war",
+  "jharkhand-job-exam-stir-enters-18th-day-bjp-observing-bandh-": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "bjp|exam|iran|khan|recruitment",
+    "norm": 71.8
+  },
+  "supreme-court-asks-government-to-consider-plea-for-emergency": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "exam|mp|supreme court|threat",
+    "norm": 71.6
+  },
+  "parliament-monsoon-session-day-17-live-both-houses-adjourned": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "bill|lok sabha|opposition|parliament|protest|protest",
+    "norm": 68.4
+  },
+  "lok-sabha-adjourned-within-4-mins-as-opposition-sticks-to-sh": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "lok sabha|opposition|parliament|protest|protest",
+    "norm": 67.3
+  },
+  "op-safed-sagar-how-iaf-took-the-fight-to-pakistan-at-18-000-": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "air force|bomb|pakistan|unprecedented",
+    "norm": 65.3
+  },
+  "tricolour-waving-mps-greet-pm-modi-at-mangal-milan-raise-slo": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "minister|modi|modi|mp|parliament|prime minister",
+    "norm": 65.1
+  },
+  "heavy-to-very-heavy-rain-likely-in-parts-of-delhi-over-next-": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "heavy rain|record|war",
+    "norm": 63.2
+  },
+  "tamil-nadu-assembly-set-to-pass-separate-resolutions-against": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "exam|neet|opposition",
+    "norm": 60.8
+  },
+  "dipke-condemns-police-action-against-fasting-student-leader-": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "hospital|khan|video",
     "norm": 59.7
   },
-  "multiple-spells-of-rain-expected-in-delhi-on-tuesday-imd-iss": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "alert|ipl",
+  "-abolish-neet-undermines-poor-rural-backward-students-vijay-": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "neet|war",
     "norm": 59.3
   },
-  "-akhilesh-uncle-not-bhaiyya-inside-bsp-s-gen-z-gambit-with-a": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "bjp|congress|poll|rahul gandhi|rally|rally|vote",
-    "norm": 58.7
+  "-against-social-justice-equality-tamil-nadu-assembly-passes-": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "bjp|neet",
+    "norm": 57.1
   },
-  "shillong-teer-result-today-august-11-2026-check-winning-numb": {
-    "firstSeen": "2026-08-11T04:35:56.090Z",
-    "signature": "khan|result",
-    "norm": 55.7
+  "the-world-war-2-link-that-decided-august-15-as-india-s-indep": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "mp|war",
+    "norm": 55.4
   },
-  "search-operation-launched-in-j-k-s-poonch-forests-after-susp": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "fire|fire",
-    "norm": 52.4
+  "home-minister-amit-shah-meets-lok-sabha-speaker-birla-amid-h": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "amit shah|lok sabha|minister|opposition|parliament",
+    "norm": 54.4
   },
-  "buckets-placed-to-check-seepage-at-ajanta-caves-asi-says-pai": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "heavy rain",
+  "unorganised-sector-workers-stage-jail-bharo-protest-in-jalna": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "delhi-students-allege-police-harassment-follows-them-home-to": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "amid-disruptions-birla-asks-govt-opposition-to-arrive-at-com": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "bill|lok sabha|mp|opposition",
+    "norm": 53.9
+  },
+  "cjp-founder-dipke-announces-nationwide-campaign-to-improve-g": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "mp|star",
+    "norm": 51.7
+  },
+  "up-mafia-sucked-blood-mosquitoes-spread-diseases-bjp-govt-go": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "bjp|yogi",
+    "norm": 50.5
+  },
+  "-paper-leaks-loss-of-young-lives-vijay-govt-moves-resolution": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "neet",
+    "norm": 48.2
+  },
+  "arjun-ayanki-remanded-in-cyber-police-custody-for-three-days": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "threat",
+    "norm": 48.2
+  },
+  "-life-begins-at-conception-tamil-nadu-speaker-sparks-row-ove": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "tech-tonic-mark-zuckerberg-an-ai-manifesto-and-curating-a-te": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "manifesto",
+  "sc-seeks-ec-data-on-appeals-against-voter-deletions-during-b": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "vote",
     "norm": 45.9
   },
-  "treat-urdu-and-sanskrit-with-equality-and-respect-tejashwi-y": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "opposition",
+  "how-can-caste-appellations-exist-in-names-of-streets-roads-i": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "high court",
     "norm": 44
   },
-  "nda-mps-wave-tricolour-chant-vande-mataram-as-they-welcome-p": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "mp",
+  "police-trainee-officer-arrested-for-cheating-fellow-trainees": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "lakh",
     "norm": 44
   },
-  "nagaland-cm-urges-shah-to-reconsider-fcra-amendments-seeks-p": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "parliament",
-    "norm": 44
+  "bengaluru-techie-missing-on-trek-drone-spots-suspected-body-": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "drone",
+    "norm": 42.7
+  },
+  "7-bangladeshi-nationals-apprehended-in-delhi-for-visa-overst": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "",
+    "norm": 36
+  },
+  "register-fir-in-cases-of-missing-persons-immediately-irrespe": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "",
+    "norm": 36
+  },
+  "indian-origin-ex-cfo-of-us-firm-gets-4-month-jail-term-for-b": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "",
+    "norm": 36
+  },
+  "solar-eclipse-2026-will-it-be-visible-from-india-": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
+    "signature": "",
+    "norm": 33.9
   },
   "indian-railways-ticket-booking-gets-major-upgrade-what-new-p": {
     "firstSeen": "2026-08-11T06:00:24.151Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "theoretical-physicist-deepak-dhar-becomes-first-indian-to-wi": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
-    "signature": "",
-    "norm": 36
-  },
-  "rain-comes-rushing-back-but-india-s-monsoon-story-is-far-fro": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
+  "telangana-hc-vacates-order-over-properties-being-acquired-fo": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
     "signature": "",
     "norm": 33.9
   },
-  "-msn-reunion-after-10-years-will-neymar-join-messi-and-su-re": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
+  "sc-to-hear-pil-alleging-breach-of-guidelines-in-odisha-dgp-a": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
     "signature": "",
     "norm": 33.9
   },
-  "-history-will-remember-him-kindly-sonia-writes-on-manmohan-s": {
-    "firstSeen": "2026-08-11T06:00:24.151Z",
+  "last-day-to-apply-for-telangana-govt-s-indiramma-houses-in-h": {
+    "firstSeen": "2026-08-11T07:23:36.635Z",
     "signature": "",
     "norm": 33.9
   }
