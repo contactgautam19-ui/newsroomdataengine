@@ -1,107 +1,42 @@
 {
-  "government-pushes-its-legislative-agenda-amid-deadlock-with-": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "bill|dead|dead|lok sabha|opposition",
-    "norm": 72
+  "video-shows-catering-truck-used-to-secretly-move-trump-betwe": {
+    "firstSeen": "2026-08-11T23:53:36.531Z",
+    "signature": "iran|mp|threat|trump|trump|video",
+    "norm": 80.1
   },
-  "trump-modi-will-resolve-russia-sanctions-u-s-official": {
-    "firstSeen": "2026-08-11T21:59:04.145Z",
-    "signature": "modi|modi|mp|sanction|trump|trump",
-    "norm": 70.7
+  "trump-modi-have-very-good-ties-will-resolve-russian-oil-tari": {
+    "firstSeen": "2026-08-11T23:53:36.531Z",
+    "signature": "modi|modi|mp|row|trump|trump",
+    "norm": 76.9
   },
-  "health-minister-responds-to-abortion-rally-row-says-it-is-me": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "minister|rally|rally|row",
-    "norm": 68
+  "colombia-quake-death-toll-tops-250-as-rescuers-race-to-save-": {
+    "firstSeen": "2026-08-11T23:53:36.531Z",
+    "signature": "death|rescue|rescue|toll",
+    "norm": 68.4
   },
-  "chinese-man-spends-500-000-yuan-on-a-flash-marriage-only-to-": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "betray|match|scam",
-    "norm": 67.3
+  "benchmark-hospital-room-cost-against-3-star-hotel-tariff-pan": {
+    "firstSeen": "2026-08-11T23:53:36.531Z",
+    "signature": "hospital|star",
+    "norm": 55.7
   },
-  "jharkhand-protestors-to-continue-stir-till-demands-met": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "khan|protest|protest",
-    "norm": 62.5
+  "congress-will-corner-haryana-government-over-rising-crime-ta": {
+    "firstSeen": "2026-08-11T23:53:36.531Z",
+    "signature": "congress|tax",
+    "norm": 53.2
   },
-  "russia-frees-former-us-marine-robert-gilman-to-arrive-at-and": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "air force|mp|trump|trump",
-    "norm": 61.8
+  "chandigarh-body-seeks-vice-presidents-help-to-halt-auction-o": {
+    "firstSeen": "2026-08-11T23:53:36.531Z",
+    "signature": "president|price",
+    "norm": 53.2
   },
-  "monsoon-session-security-steps-in-as-protesting-rival-mps-co": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "mp|protest|protest",
-    "norm": 61.1
+  "ed-arrests-bijnoriya-in-nexa-evergreen-money-laundering-case": {
+    "firstSeen": "2026-08-11T23:53:36.531Z",
+    "signature": "fraud",
+    "norm": 46.3
   },
-  "pakistan-karachi-court-orders-civil-hospital-to-pay-pkr-6-5-": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "hospital|mp|pakistan",
-    "norm": 59.7
-  },
-  "maharashtra-snake-bite-deaths-fadnavis-orders-cancellation-o": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "death|maharashtra",
-    "norm": 59.3
-  },
-  "security-stepped-up-anti-terror-ops-launched-ahead-of-indepe": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "terror|terror",
-    "norm": 57.6
-  },
-  "nepal-bodies-of-three-elite-nepali-climbers-killed-in-broad-": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "killed|killed",
-    "norm": 57.6
-  },
-  "inquiry-report-on-justice-yashwant-varma-cash-at-residence-r": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "parliament|row",
-    "norm": 55.4
-  },
-  "amid-disruption-lok-sabha-passes-2-more-bills-sans-debate": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "bill|lok sabha",
-    "norm": 48.7
-  },
-  "calcutta-high-court-says-custodial-interrogation-of-abhishek": {
-    "firstSeen": "2026-08-11T21:59:04.145Z",
-    "signature": "high court",
-    "norm": 47.1
-  },
-  "in-rss-overseas-outreach-mohan-bhagwat-to-visit-us-canada-am": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "border-issue-will-reflect-on-bilateral-ties-delhi-to-beijing": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "border",
-    "norm": 44
-  },
-  "nasa-invites-isro-to-join-moon-base-programme": {
-    "firstSeen": "2026-08-11T21:59:04.145Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "india-considers-bangladesh-extradition-plea-for-sheikh-hasin": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "us-state-department-finds-73-of-139-governments-meet-fiscal-": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
+  "varma-cash-probe-report-to-be-tabled-in-ls-today": {
+    "firstSeen": "2026-08-11T23:53:36.531Z",
     "signature": "",
     "norm": 36
-  },
-  "book-three-nightstay-in-abu-dhabi-get-uae-visa-free": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-not-in-full-control-ai-pilot-struggled-to-walk-after-phuket": {
-    "firstSeen": "2026-08-11T22:57:27.032Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
