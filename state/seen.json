@@ -1,301 +1,121 @@
 {
-  "jharkhand-exam-row-student-protests-escalate-bjp-calls-for-b": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "bjp|exam|khan|protest|protest|row",
-    "norm": 85.1
+  "protesters-march-to-jharkhand-assembly-5-injured-in-clashes": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "clash|clash|exam|injured|iran|khan|protest|protest",
+    "norm": 92.9
   },
-  "u-p-5-killed-41-injured-in-separate-road-accidents-involving": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "accident|injured|killed|killed|vote|war",
-    "norm": 79.9
+  "for-jharkhand-s-job-aspirants-it-was-a-march-for-lost-years": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "border|exam|iran|khan|protest|protest|recruitment|war",
+    "norm": 89.5
   },
-  "west-asia-war-live-trump-says-will-demand-conflict-compensat": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "iran|mp|trump|trump|war",
-    "norm": 79.1
+  "-at-no-cost-will-mann-complete-tenure-warring-predicts-aap-g": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "aap|collapse|collapse|collapse|mp|war",
+    "norm": 80.4
   },
-  "amit-shah-will-reply-to-student-protests-debate-says-govt-op": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "amit shah|lok sabha|minister|mp|neet|opposition|parliament|protest|protest",
-    "norm": 78.9
-  },
-  "-spider-man-brand-new-day-box-office-collection-day-12-tom-h": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "box office|crash|crash|crore|record|star",
-    "norm": 77.9
-  },
-  "trump-flew-secretly-from-turkey-due-to-iranian-threat-report": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
+  "trump-hid-in-food-truck-used-military-jet-to-leave-turkey-am": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
     "signature": "iran|mp|threat|trump|trump",
-    "norm": 77.5
+    "norm": 76.5
   },
-  "lok-sabha-mps-of-ncp-sp-meet-pm-modi-discuss-maharashtra-iss": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "lok sabha|maharashtra|modi|modi|mp",
-    "norm": 71.3
-  },
-  "jpsc-jssc-exam-row-protesting-students-face-lathi-charge-in-": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "exam|protest|protest|row",
-    "norm": 71
-  },
-  "oil-prices-hold-near-one-week-high-as-strait-of-hormuz-reope": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "iran|mp|price|prices",
+  "jharkhand-students-protests-live-normal-life-hit-in-parts-of": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "bjp|khan|protest|protest",
     "norm": 69.6
   },
-  "trump-says-relationship-with-netanyahu-is-very-good-despite-": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "israel|mp|trump|trump",
-    "norm": 67.7
+  "kerala-faces-deadly-landslides-amid-intensifying-monsoon-rai": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "dead|dead|landslide|war",
+    "norm": 69.6
   },
-  "trump-declares-strait-of-hormuz-open-now-says-only-us-navy-h": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "mp|navy|trump|trump",
-    "norm": 64.6
+  "-grammatical-errors-in-tamil-vs-my-unique-style-vijay-minist": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "budget|minister|mla|row",
+    "norm": 69.6
   },
-  "jharkhand-bandh-today-bjp-led-statewide-shutdown-over-police": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "bjp|iran|khan",
-    "norm": 64.2
+  "opinion-opinion-three-adversaries-become-4-why-the-saudi-tur": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "deal|defence|pakistan|slam",
+    "norm": 68
   },
-  "sawan-shivratri-2026-kanwar-yatra-to-impact-delhi-ncr-traffi": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "mp|vote|war",
-    "norm": 61.4
+  "woman-left-paralysed-after-treatment-hospital-doctors-told-t": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "hospital|lakh|mp",
+    "norm": 65.6
   },
-  "heavy-metal-pollution-threatens-bird-population-at-harike-we": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "poll|threat",
-    "norm": 58.3
+  "waris-punjab-de-s-big-bet-bjp-s-amarinder-play-and-more-the-": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "aap|alliance|bjp|congress|poll|war",
+    "norm": 65.1
   },
-  "lightstorm-raises-rs-2-500-crore-debt-from-indusind-bank-to-": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "crore|storm",
-    "norm": 58.3
+  "-narendra-naam-ka-khauf-sports-minister-reacts-to-boxer-s-pa": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "minister|modi|modi|pakistan",
+    "norm": 61.8
   },
-  "gold-climbs-above-4-400-as-traders-turn-focus-to-us-inflatio": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "gold|inflation",
-    "norm": 58.3
+  "six-facetime-calls-backroom-support-did-kejriwal-script-abhi": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "kejriwal|protest|protest",
+    "norm": 61.1
   },
-  "daily-wagers-take-out-protest-demonstration-seek-justice": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "protest|protest",
-    "norm": 57.1
+  "water-security-is-seventh-guarantee-says-karnataka-cm-promis": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "chief minister|fear|minister",
+    "norm": 59.7
   },
-  "18-shortlisted-for-ram-temple-ceo-post-amid-donation-case-in": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "ayodhya|mp",
+  "-hidden-treasure-promise-used-to-cheat-11-people-of-rs-1-cro": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "crore|gold",
     "norm": 55.4
   },
-  "not-pilot-intoxication-air-india-flight-that-lost-300-feet-s": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "ipl|sudden|suddenly",
+  "-i-still-miss-him-china-s-ai-crackdown-leaves-users-mourning": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "china|mourning",
     "norm": 55.4
   },
-  "colombia-declares-national-emergency-after-earthquake-kills-": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "earthquake|earthquake",
-    "norm": 55.4
+  "stock-market-live-updates-sensex-today-sensex-sheds-300-poin": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "nifty|price|prices|sensex|stock market",
+    "norm": 54.4
   },
-  "stocks-to-watch-today-irb-infra-lupin-bharat-electronics-zen": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "stocks|watch",
-    "norm": 53.2
+  "parliament-monsoon-session-2026-live-updates-don-t-run-away-": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "amit shah|opposition|parliament|rahul gandhi",
+    "norm": 53.9
   },
-  "afghanistan-qualify-for-2027-odi-world-cup": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "match|world cup",
-    "norm": 52.1
+  "shillong-teer-result-today-august-11-2026-check-winning-numb": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "khan|result",
+    "norm": 53.9
   },
-  "bodies-of-3-nepalese-climbers-who-died-in-broad-peak-avalanc": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "died",
-    "norm": 51.2
+  "congress-sam-pitroda-questions-use-of-force-against-jharkhan": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "congress|khan",
+    "norm": 53.5
   },
-  "insurers-tighten-focus-on-motor-third-party-fraud": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "fraud",
-    "norm": 49.4
+  "cjp-founder-dipke-announces-nationwide-campaign-to-improve-g": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "mp|star",
+    "norm": 51.7
   },
-  "yash-on-toxic-from-pan-india-superstar-to-a-new-vision-for-i": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "star|superstar",
-    "norm": 49.4
+  "fcra-bill-may-impact-christian-groups-nagaland-cm-tells-amit": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "amit shah|bill|mp",
+    "norm": 50.9
   },
-  "sunny-deol-sat-with-batwara-1947-story-for-16-years-before-f": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "war",
-    "norm": 49.4
-  },
-  "neet-paper-leak-court-rejects-plea-by-3-accused-for-lie-dete": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "neet",
-    "norm": 49.4
-  },
-  "who-is-edp445-ex-youtuber-bryant-moreland-god-saved-him-clai": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "controversy",
-    "norm": 49.4
-  },
-  "kanwar-yatra-2026-traffic-restrictions-in-delhi-u-p-and-hary": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "fiis-net-buy-rs-1-975-crore-shares-diis-turn-net-sellers-on-": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "crore",
-    "norm": 47.1
-  },
-  "cag-flags-planning-land-acquisition-and-low-ridership-issues": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "acquisition",
-    "norm": 47.1
-  },
-  "delhi-govt-tables-bill-to-broaden-ambit-of-slum-rehabilitati": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "bill",
-    "norm": 47.1
-  },
-  "bhagwati-products-may-delay-ipo-by-up-to-3-quarters": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "ipo",
-    "norm": 47.1
-  },
-  "sawan-shivratri-august-11-2026-one-simple-shiva-remedy-to-ac": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
+  "live-larvae-cockroach-infestation-why-blinkit-reliance-retai": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
     "signature": "mp",
-    "norm": 47.1
+    "norm": 44
   },
-  "attari-border-now-open-for-e-visa-holders-as-india-expands-e": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "border",
-    "norm": 45.9
+  "watch-buildings-crumble-debris-rains-down-as-7-4-magnitude-q": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
+    "signature": "watch",
+    "norm": 42.7
   },
-  "gautam-adani-us-case-judge-dismisses-charges-questions-doj-d": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "adani",
-    "norm": 45.5
-  },
-  "gautam-adani-welcomes-us-court-decision-to-dismiss-charges-a": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "adani",
-    "norm": 45.5
-  },
-  "rss-to-hold-all-india-coordination-meeting-in-andhra-pradesh": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "missed-green-energy-schemes-daily-excelsior": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "somasimaara-nayanar-bhakti-the-hindu": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "magnitude-7-4-quake-hits-western-colombia-collapsing-buildin": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "purvah-to-buy-1-4-gwp-solar-assets": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "pralhad-joshi-reviews-functioning-infrastructure-of-kendriya": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "galgotias-university-launches-future-ready-btech-and-bba-pro": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "parl-panel-recommends-integrated-security-surveillance-frame": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "breaking-news-live-august-10-us-envoy-to-india-gor-meets-for": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "bhagavad-gita-quote-today-august-11-2026-torn-between-heart-": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "sawan-shivratri-wishes-messages-75-sawan-shivratri-2026-quot": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "anne-hathaway-opens-up-about-very-very-real-bond-with-the-en": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "bible-quote-today-august-11-2026-stressed-about-what-comes-n": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "daily-nadi-horoscope-for-pisces-11th-august-2026-dont-let-pr": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "pisces-horoscope-today-august-11-2026-you-feel-positive-and-": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "kharif-sowing-remains-2-below-last-year-levels-as-monsoon-ra": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "forex-inflows-will-lead-to-a-liquidity-windfall-and-a-bond-m": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "capricorn-horoscope-today-august-11-2026-the-unmarried-nativ": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "delhi-lg-taranjit-singh-sandhu-highlights-teja-singh-samundr": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "oil-holds-gains-yen-in-focus-after-weakening": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "daily-nadi-horoscope-for-aquarius-11th-august-2026-dont-acce": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "-house-of-the-dragon-3-phia-saban-talks-about-helaena-final-": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "delhi-s-august-rainfall-crosses-normal-mark-in-just-10-days-": {
-    "firstSeen": "2026-08-11T02:22:49.571Z",
+  "-new-pm-house-why-not-new-govt-schools-in-villages-dipke-ann": {
+    "firstSeen": "2026-08-11T04:35:56.090Z",
     "signature": "",
     "norm": 33.9
   }
