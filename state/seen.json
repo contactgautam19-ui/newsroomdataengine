@@ -1,42 +1,102 @@
 {
-  "video-shows-catering-truck-used-to-secretly-move-trump-betwe": {
-    "firstSeen": "2026-08-11T23:53:36.531Z",
-    "signature": "iran|mp|threat|trump|trump|video",
-    "norm": 80.1
+  "ukraine-says-russia-fired-north-korean-missiles-in-deadly-at": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "attack|attack|dead|dead|fire|fire|killed|killed",
+    "norm": 79.4
   },
-  "trump-modi-have-very-good-ties-will-resolve-russian-oil-tari": {
-    "firstSeen": "2026-08-11T23:53:36.531Z",
-    "signature": "modi|modi|mp|row|trump|trump",
-    "norm": 76.9
+  "court-seeks-rs-1-crore-aid-for-indore-girl-s-treatment-from-": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "crore|crowd|fund|high court|lakh|row",
+    "norm": 75.3
   },
-  "colombia-quake-death-toll-tops-250-as-rescuers-race-to-save-": {
-    "firstSeen": "2026-08-11T23:53:36.531Z",
-    "signature": "death|rescue|rescue|toll",
-    "norm": 68.4
+  "-i-do-what-secret-service-says-trump-confirms-switching-plan": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "iran|mp|threat|trump|trump",
+    "norm": 75
   },
-  "benchmark-hospital-room-cost-against-3-star-hotel-tariff-pan": {
-    "firstSeen": "2026-08-11T23:53:36.531Z",
-    "signature": "hospital|star",
+  "6-killed-3-injured-after-tanker-rams-into-auto-rickshaw-in-t": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "accident|injured|killed|killed|mp",
+    "norm": 73.5
+  },
+  "will-india-extradite-sheikh-hasina-to-bangladesh-mea-says-re": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "collapse|collapse|collapse|exam",
+    "norm": 70.3
+  },
+  "who-followed-umar-ahmed-s-jail-convoy-from-jhansi-to-prayagr": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "shock|shock|shocking|toll",
+    "norm": 70
+  },
+  "north-korea-fires-second-ballistic-missile-in-a-week-ahead-o": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "fire|fire|war",
+    "norm": 64.9
+  },
+  "petrol-diesel-get-costlier-in-himachal-as-orphan-widow-cess-": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "diesel|petrol|petrol|tax",
+    "norm": 61.8
+  },
+  "kerala-lottery-result-today-live-dhanalekshmi-dl-65-winning-": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "crore|result",
+    "norm": 57.1
+  },
+  "shillong-teer-result-today-august-12-2026-check-winning-numb": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "khan|result",
     "norm": 55.7
   },
-  "congress-will-corner-haryana-government-over-rising-crime-ta": {
-    "firstSeen": "2026-08-11T23:53:36.531Z",
-    "signature": "congress|tax",
-    "norm": 53.2
+  "in-pictures-nirmala-sitharaman-s-vande-bharat-journey-to-jai": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "brics|minister|pictures",
+    "norm": 54.7
   },
-  "chandigarh-body-seeks-vice-presidents-help-to-halt-auction-o": {
-    "firstSeen": "2026-08-11T23:53:36.531Z",
-    "signature": "president|price",
-    "norm": 53.2
+  "inspired-by-gen-z-protests-netaji-subhash-chandra-bose-s-gra": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "ed-arrests-bijnoriya-in-nexa-evergreen-money-laundering-case": {
-    "firstSeen": "2026-08-11T23:53:36.531Z",
-    "signature": "fraud",
-    "norm": 46.3
+  "-pilot-was-not-in-full-control-things-started-floating-insid": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "star|sudden|suddenly",
+    "norm": 53.5
   },
-  "varma-cash-probe-report-to-be-tabled-in-ls-today": {
-    "firstSeen": "2026-08-11T23:53:36.531Z",
+  "-high-on-marijuana-questionable-behaviour-will-air-india-phu": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "ipl",
+    "norm": 48.2
+  },
+  "weather-today-live-updates-weather-office-predicts-light-rai": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "weather",
+    "norm": 48.2
+  },
+  "-hardline-hindu-pure-veg-do-you-wear-janeu-ram-temple-author": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "imd-gets-delhi-rain-data-wrong-later-fixes-it-how-does-it-ac": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "govt-to-offer-sops-up-to-rs-5-000-for-e-2-wheelers-till-mar-": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
+  },
+  "food-authority-bans-plastic-packaging-for-pan-masala-only-ti": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "no-plastic-aluminium-foil-fssai-introduces-new-rules-for-pan": {
+    "firstSeen": "2026-08-12T02:39:04.702Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
