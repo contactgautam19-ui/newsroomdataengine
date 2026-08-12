@@ -1,221 +1,301 @@
 {
-  "houthi-attack-kills-3-pakistani-nationals-islamabad-condemns": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "attack|attack|dead|dead|iran|killed|killed|pakistan|slam|war",
-    "norm": 91.7
+  "when-five-dmk-men-were-killed-in-police-firing-at-chennai-s-": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "crowd|dead|dead|death|fire|fire|killed|killed|rally|rally|result|row",
+    "norm": 100
   },
-  "parliament-monsoon-session-day-18-live-lok-sabha-adjourned-f": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "amit shah|bill|lok sabha|parliament|protest|protest|star|vote",
-    "norm": 77
+  "tata-stocks-crash-after-chandrasekaran-exit-shock-tcs-falls-": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "crash|crash|shock|shock|stocks",
+    "norm": 79.4
   },
-  "assam-to-verify-flood-relief-funds-raised-by-72-youtubers": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "chief minister|flood|flood|fund|minister",
-    "norm": 74.9
+  "parliament-monsoon-session-day-18-live-rijiju-says-can-exten": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "bill|congress|lok sabha|parliament|protest|protest|rajya sabha|vote",
+    "norm": 70.7
   },
-  "centre-refers-fcra-bill-to-jpc-amid-deadlock-in-parliament-o": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "bill|congress|dead|dead|parliament",
-    "norm": 73.6
+  "21-civilians-allegedly-killed-in-balochistan-strikes-bla-ste": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "attack|attack|killed|killed",
+    "norm": 70.7
   },
-  "-coming-regularly-to-parliament-amit-shah-attacks-opposition": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "aap|amit shah|attack|attack|opposition|parliament",
-    "norm": 73
-  },
-  "justice-yashwant-varma-report-no-conspiracy-claim-examined-b": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "exam|fire|fire|lok sabha",
-    "norm": 71.4
-  },
-  "mumbai-landslip-live-seven-dead-seven-injured-mayor-announce": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "dead|dead|injured|landslide|row",
-    "norm": 70.5
-  },
-  "fcra-bill-sent-to-jpc-amid-opposition-protests-rijiju-challe": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "bill|lok sabha|opposition|parliament|protest|protest",
+  "lok-sabha-passes-bill-to-amend-mines-and-minerals-developmen": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "bill|lok sabha|mp|opposition|protest|protest",
     "norm": 70
   },
-  "-allocate-time-starting-today-shah-writes-to-birla-for-debat": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "neet|protest|protest|star",
-    "norm": 70
+  "4-killed-6-injured-in-mumbai-ghatkopar-landslide": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "injured|killed|killed|landslide",
+    "norm": 69.8
   },
-  "parliament-monsoon-session-2026-live-updates-amit-shah-ready": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "amit shah|lok sabha|opposition|parliament|protest|protest",
-    "norm": 70
-  },
-  "amit-shah-says-ready-to-answer-any-question-in-parliament": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "amit shah|minister|parliament|protest|protest",
-    "norm": 69
-  },
-  "amit-shah-writes-to-speaker-om-birla-says-govt-ready-to-disc": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "amit shah|minister|opposition|protest|protest",
-    "norm": 69
-  },
-  "-thoda-badal-gaye-ho-m-kharge-pm-modi-s-banter-at-wedding-re": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "modi|modi|star|wedding",
+  "25-projects-21-627-jobs-sipb-approvals-take-two-year-tally-t": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "chief minister|crore|jobs|lakh|minister|mp",
     "norm": 67.6
   },
-  "assam-government-to-appreciate-youtubers-influencers-for-flo": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "chief minister|flood|flood|minister",
-    "norm": 66.9
+  "-frustrated-disappointed-kiren-rijiju-slams-opposition-for-r": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "opposition|parliament|slam|slams",
+    "norm": 66.6
   },
-  "oracle-layoffs-company-s-6-am-layoff-emails-may-return-in-ne": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "jobs|layoff|layoffs|mp|star",
-    "norm": 66.7
+  "kerala-s-lop-vijayan-accuses-udf-of-attempting-to-divert-pub": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "disaster|mp|row",
+    "norm": 66
   },
-  "over-1-000-crore-likely-needed-for-rehabilitation-of-assam-f": {
-    "firstSeen": "2026-08-12T08:36:41.741Z",
-    "signature": "crore|flood|flood|floods",
-    "norm": 66.3
+  "india-warns-border-strains-could-weigh-on-china-relations": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "border|china|war",
+    "norm": 64.2
   },
-  "iit-graduate-from-kadapa-cleared-13-central-government-jobs-": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "exam|jobs|mp",
-    "norm": 65.6
-  },
-  "gates-daughter-knew-about-phia-cookie-stuffing-report-cites-": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "mp|record|sudden|war",
+  "supreme-court-agrees-to-hear-plea-flagging-disruption-of-ess": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "protest|protest|supreme court",
     "norm": 63.9
   },
-  "centre-redefines-ganga-floodplain-drops-construction-free-zo": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "flood|flood|poll",
-    "norm": 62.8
+  "karnataka-neet-ug-counselling-2026-round-1-option-entry-clos": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "neet|row",
+    "norm": 60.4
   },
-  "weather-today-live-updates-weather-office-predicts-light-rai": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "alert|weather",
+  "news-periscope-full-air-india-delhi-phuket-accident-kiren-ri": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "accident|neet",
     "norm": 59.3
   },
-  "pune-mumbai-expressway-traffic-diversion-for-maintenance-rep": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "mp|war",
+  "-india-is-home-to-over-60-percent-of-the-world-wild-asian-el": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "modi|modi",
+    "norm": 58.3
+  },
+  "7000-tonnes-of-garbage-haridwar-readies-for-mega-clean-up-af": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "poll|war",
     "norm": 57.1
   },
-  "-heard-a-whisper-baby-rescued-from-rubble-48-hrs-after-colom": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "rescue|rescue|video",
-    "norm": 55.4
+  "no-marathi-no-licence-maharashtra-makes-language-mandatory-f": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "maharashtra|mp",
+    "norm": 57.1
   },
-  "analysis-why-congress-picked-amarinder-warring-over-charanji": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "congress|war",
-    "norm": 55.4
+  "ernakulam-native-arrested-in-case-relating-to-bjp-leader-s-d": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "bjp|death",
+    "norm": 57.1
   },
-  "no-marathi-no-licence-maharashtra-s-strict-rules-for-auto-ta": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "maharashtra|tax",
-    "norm": 55.4
+  "hm-shah-requests-ls-speaker-to-consult-oppn-for-student-prot": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "protest|protest",
+    "norm": 57.1
   },
-  "justice-yashwant-varma-s-cash-row-report-reveals-major-flip-": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "controversy|row",
-    "norm": 53.9
+  "india-will-need-stronger-arbitral-institutions-if-it-wants-t": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "president|rbi",
+    "norm": 56.1
   },
-  "sri-lanka-announce-16-member-squad-for-india-test-kusal-mend": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "captain|cricket",
-    "norm": 53.9
+  "-used-to-do-side-gig-35-year-old-techie-salary-jumps-from-un": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "crore|mp",
+    "norm": 56.1
   },
-  "russia-appoints-former-cji-dy-chandrachud-as-arbitrator-in-u": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "cji|rbi",
+  "demi-moore-shares-glimpses-of-daughter-tallulah-willi-weddin": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "mp|wedding",
+    "norm": 54.7
+  },
+  "-jantar-mantar-season-2-soon-cjp-founder-dipke-hints-at-fres": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "sbi-uses-ai-to-underwrite-nearly-1-lakh-crore-in-msme-loans-": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "crore|lakh",
+    "norm": 53.5
+  },
+  "india-s-pharma-exports-grew-6-8-in-q1-fy27-pharmexcil": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "bill|billion",
     "norm": 53.2
   },
-  "vijay-govt-complains-to-supreme-court-of-kerala-s-obstructio": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "mp|supreme court",
+  "supreme-court-mulls-remanding-to-hc-plea-over-who-represents": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "high court|supreme court|vote",
+    "norm": 52.7
+  },
+  "karnataka-bandh-on-august-13-explained-what-is-cauvery-dispu": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "phone-hidden-in-clothes-ex-mp-prajwal-revanna-booked-after-b": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "mp|surprise",
+    "norm": 52
+  },
+  "nifty-india-fpi-150-how-the-new-nse-index-tracks-foreign-inv": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "fpi|nifty",
+    "norm": 51.7
+  },
+  "salman-khan-says-7-dog-is-truly-international-a-big-screen-f": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "film|khan",
+    "norm": 51.2
+  },
+  "justice-yashwant-varma-had-already-resigned-then-why-does-gu": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "mp|verdict",
     "norm": 50.5
   },
-  "us-removed-100-outdated-dams-setting-a-new-river-restoration": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "mp|record",
-    "norm": 50.2
+  "suspected-pakistani-nationals-arrested-near-bangladesh-borde": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "border|pakistan",
+    "norm": 50.5
   },
-  "delimitation-tamil-nadu-assembly-adopts-govt-s-resolution-to": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "bjp|lok sabha",
-    "norm": 48.7
+  "honor-launches-robot-phone-in-china-with-200mp-titanium-gimb": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "china|mp",
+    "norm": 50.5
   },
-  "students-with-intellectual-disability-to-get-25-grace-marks-": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "exam",
-    "norm": 48.2
+  "preity-zinta-exudes-elegance-in-rs-42-500-fuchsia-farshi-sal": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "war",
+    "norm": 49.4
   },
-  "cyber-police-seize-phone-used-by-arjun-ayanki-to-post-online": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "threat",
+  "neet-paper-leak-case-delhi-court-takes-cognisance-of-cbi-cha": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "neet",
+    "norm": 49.4
+  },
+  "unite-for-tn-rights-says-minister-aadhav-arjuna-news-today": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "minister",
+    "norm": 49
+  },
+  "tata-motors-consolidated-net-profit-rises-83-to-2-556-crore-": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "crore",
+    "norm": 47.1
+  },
+  "priest-murder-case-karnataka-hc-quashes-appointment-of-speci": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "aagam-capital-reports-standalone-net-loss-of-rs-0-04-crore-i": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "crore",
+    "norm": 47.1
+  },
+  "after-air-india-marijuana-row-ministry-demands-dope-test-pro": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "srisailam-and-vijayawada-temples-hold-rain-rituals-why-not-t": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "mp",
+  "scam-2010-first-look-siddharth-bodke-leads-the-latest-instal": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "scam",
+    "norm": 46.3
+  },
+  "yashwant-varma-s-education-qualification-from-commerce-stude": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "high court",
     "norm": 45.9
   },
-  "justice-yashwant-varma-guilty-in-cash-at-home-case-finds-lok": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "lok sabha",
-    "norm": 45.9
-  },
-  "thane-boy-assaults-16-year-old-for-30-hours-rape-whipping-wi": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
+  "-jantar-mantar-season-2-coming-soon-abhijeet-dipke-s-big-sta": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
     "signature": "instagram",
     "norm": 44.3
   },
-  "-no-signs-of-conspiracy-justice-yashwant-varma-committee-rep": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "lok sabha",
+  "-jantar-mantar-season-2-going-to-start-very-soon-cjp-founder": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "star",
+    "norm": 44.3
+  },
+  "rising-obesity-among-indian-women-underscores-need-for-preco": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "mp",
     "norm": 44
   },
-  "air-india-pilot-with-marijuana-in-his-bloodstream-was-also-o": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "sudden|suddenly",
-    "norm": 44
+  "-imran-khan-no-longer-with-us-pak-scribe-makes-big-claim-cit": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "khan",
+    "norm": 42.4
   },
-  "delhi-hc-asks-meta-to-explain-its-access-policy-on-copyright": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "policy",
-    "norm": 44
+  "meta-youtube-tiktok-face-thousands-of-lawsuits-in-the-us-ove": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 39.4
   },
-  "three-new-cascade-frog-species-discovered-in-northeast-india": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "record",
-    "norm": 42.7
+  "cristiano-ronaldo-marries-georgina-rodriguez-news-today": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 39.4
   },
-  "air-india-phuket-delhi-pilot-high-on-marijuana-was-on-sleep-": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
+  "coal-india-amns-sign-pact-for-synthesis-gas-utilisation-at-p": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "the-pressure-to-have-your-career-figured-out-at-seventeen": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "insurance-regulators-weigh-reforms-to-tackle-rising-medical-": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "tuni-textile-mills-standalone-net-profit-rises-35-00-in-the-": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "yemen-explained-how-the-houthis-shook-the-u-s-saudi-axis-glo": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "tata-sons-succession-jamsetji-tata-to-n-chandrasekaran-7-men": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "adc-india-communications-standalone-net-profit-rises-72-64-i": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "hindprakash-industries-standalone-net-profit-rises-760-00-in": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "tata-group-shares-drop-as-n-chandrasekaran-will-not-seek-rea": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "eli-lilly-escalates-fight-against-black-market-weight-loss-m": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "equity-mf-inflows-fall-15-in-july": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "mysskin-hints-at-aug-26-or-28-release-for-train-news-today": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
     "signature": "",
     "norm": 36
   },
-  "karnataka-bans-sale-of-gutka-pan-masala-containing-tobacco-o": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "",
-    "norm": 36
-  },
-  "kozhikode-medical-college-ranked-first-in-kerala-20th-nation": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "",
-    "norm": 36
-  },
-  "kerala-human-rights-panel-appoints-ex-chief-secretary-s-m-vi": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "kerala-government-s-big-desilting-push-faces-scrutiny-over-c": {
-    "firstSeen": "2026-08-12T10:17:24.753Z",
+  "from-135-kg-to-89-kg-nitin-gadkari-reveals-the-routine-behin": {
+    "firstSeen": "2026-08-12T11:55:14.087Z",
     "signature": "",
     "norm": 33.9
   }
