@@ -2,46 +2,301 @@
   "video-2-killed-after-us-army-apache-helicopter-crashes-in-te": {
     "firstSeen": "2026-08-12T21:58:40.848Z",
     "signature": "army|attack|attack|crash|crash|evacuat|fire|fire|killed|killed|video",
-    "norm": 94.8
+    "norm": 92.7
+  },
+  "ukraine-destroys-air-defences-protecting-putin-s-rs-13-000-c": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "attack|attack|blaze|crore|defence|drone",
+    "norm": 73.2
+  },
+  "congress-bjp-workers-clash-as-minister-joins-sanitation-work": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "bjp|clash|clash|congress|jobs|minister|war",
+    "norm": 71.6
+  },
+  "seven-dead-many-injured-in-mumbai-landslip": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "collapse|collapse|collapse|dead|dead|injured",
+    "norm": 71
+  },
+  "babulal-marandi-slams-visit-by-police-officers-to-jharkhand-": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "khan|mp|protest|protest|slam|slams",
+    "norm": 70.3
+  },
+  "sailors-tried-to-jump-off-us-warship-amid-long-iran-war-depl": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "iran|mp|record|unprecedented|war",
+    "norm": 65.2
+  },
+  "rs-25-lakh-for-soldiers-killed-in-action-jammu-and-kashmir-r": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "killed|killed|lakh|mp",
+    "norm": 65.2
   },
   "16-shortlisted-for-ayodhya-ram-mandir-trust-ceo-post-final-i": {
     "firstSeen": "2026-08-12T21:58:40.848Z",
     "signature": "ayodhya|election|election|mp|ram mandir",
-    "norm": 67.5
+    "norm": 65.1
+  },
+  "bhagwant-mann-bjp-s-ravneet-bittu-back-parole-for-beant-sing": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "bjp|chief minister|minister|mp|neet|war",
+    "norm": 64.1
+  },
+  "rs-5-crore-penalty-imposed-on-mumbai-s-taj-lands-end-total-o": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "bill|crore|hospital|mp|tax",
+    "norm": 63.1
+  },
+  "exclusive-footage-caughts-former-jd-s-mp-prajwal-revanna-cau": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "footage|mp|shock|shock|shocking",
+    "norm": 62.7
+  },
+  "activist-devendra-mahto-seeks-civil-surgeon-s-nod-to-return-": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "hospital|khan|protest|protest",
+    "norm": 61
+  },
+  "parliament-monsoon-session-2026-highlights-amit-shah-ready-t": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "amit shah|lok sabha|opposition|parliament|protest|protest",
+    "norm": 59.2
+  },
+  "punjab-pharmacy-officers-recruitment-halted-by-high-court-ov": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "high court|recruitment|row",
+    "norm": 56.7
+  },
+  "white-house-press-secretary-karoline-leavitt-to-leave-job": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "mp|president|trump|trump",
+    "norm": 56.3
+  },
+  "peaceful-protest-is-a-right-not-an-undesirable-purpose-keral": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "protest|protest|slam|slams",
+    "norm": 55
+  },
+  "west-bengal-teachers-protest-over-stalled-recruitment-proces": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "protest|protest|recruitment",
+    "norm": 53.8
   },
   "-deliberate-cover-up-sc-orders-cbi-probe-into-chhattisgarh-c": {
     "firstSeen": "2026-08-12T21:58:40.848Z",
     "signature": "death|mp",
-    "norm": 57.1
+    "norm": 52.7
   },
-  "sc-to-consider-identifying-protest-sites-that-won-t-affect-d": {
-    "firstSeen": "2026-08-12T21:58:40.848Z",
+  "trump-announces-karoline-leavitt-s-exit-as-white-house-press": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "mp|trump|trump",
+    "norm": 50
+  },
+  "kashmiri-pandit-pm-package-employees-seek-sit-probe-transfer": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "mp|policy|threat",
+    "norm": 50
+  },
+  "31-member-parliamentary-panel-to-review-fcra-bill": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "bill|lok sabha|opposition|parliament",
+    "norm": 46.1
+  },
+  "cybersecurity-is-an-economic-imperative-for-the-government-i": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "israel|mp",
+    "norm": 45.4
+  },
+  "iran-says-no-progress-on-reviving-interim-peace-deal-with-us": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "deal|iran",
+    "norm": 45.4
+  },
+  "bofa-to-take-49-9-stake-in-jio-credit-for-1-9-billion-in-ind": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "bill|billion",
+    "norm": 43
+  },
+  "vellore-district-pensioners-association-holds-protest": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
     "signature": "protest|protest",
-    "norm": 52.4
+    "norm": 42.2
+  },
+  "kerala-to-become-keralam-now-bjp-mp-wants-bengal-renamed-pas": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "bill|bjp|mp|rajya sabha",
+    "norm": 41.8
   },
   "new-rbi-rules-may-end-loan-spread-tinkering": {
     "firstSeen": "2026-08-12T21:58:40.848Z",
     "signature": "rbi",
-    "norm": 44
+    "norm": 41
   },
   "new-rumor-tells-us-all-about-apple-s-imminent-iphone-price-h": {
     "firstSeen": "2026-08-12T21:58:40.848Z",
     "signature": "price",
-    "norm": 44
+    "norm": 41
   },
-  "govt-asks-air-india-to-take-responsibility-tells-dgca-to-imp": {
-    "firstSeen": "2026-08-12T21:58:40.848Z",
+  "video-of-rape-convict-prajwal-revanna-talking-on-phone-from-": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "video",
+    "norm": 40.7
+  },
+  "-spy-from-pak-arrested-near-bangladesh-border-was-tracking-a": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "army|border|pakistan",
+    "norm": 40.6
+  },
+  "pakistani-national-arrested-in-wb-a-major-infiltration-attem": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "army|mp|pakistan",
+    "norm": 40.6
+  },
+  "mla-appeals-to-centre-to-transfer-unused-defence-land-to-pro": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "defence|mla",
+    "norm": 38
+  },
+  "devotees-seek-round-the-clock-police-patrolling-on-girivalam": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "mp|vote",
+    "norm": 38
+  },
+  "google-pixel-11-series-unveiled-with-new-chip-upgraded-camer": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "price|prices",
+    "norm": 38
+  },
+  "-4-200-vs-6-957-aap-questions-delhi-govt-s-bicycle-purchase-": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "aap|mp",
+    "norm": 38
+  },
+  "troubling-bill-on-the-foreign-contribution-regulation-amendm": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "bill",
+    "norm": 37.5
+  },
+  "-india-showing-interest-putin-on-northern-sea-route-why-it-m": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 36
+  },
+  "chennai-hospital-launches-5g-enabled-continuous-care-ambulan": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "hospital",
+    "norm": 35.5
+  },
+  "-not-a-marriott-andrew-tate-brother-held-in-solitary-confine": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "riot",
+    "norm": 35.5
+  },
+  "woman-gang-raped-after-group-of-men-intercepts-car-during-dr": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "war",
+    "norm": 35.5
+  },
+  "-magical-eeriness-spain-iceland-witness-spectacular-total-so": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "watch",
+    "norm": 34.1
+  },
+  "ev-bus-drivers-temporary-strike-disrupts-bmtc-services": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 32.8
+  },
+  "remand-prisoner-attempts-to-end-life-in-repalle-sub-jail": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "corporation-s-property-tax-reassessment-drive-draws-flak-for": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "tax",
+    "norm": 32.8
+  },
+  "south-zone-cultural-centre-starts-three-day-workshop-and-cul": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "star",
+    "norm": 31
   },
   "who-next-tata-steel-md-s-name-does-the-rounds-after-chandras": {
     "firstSeen": "2026-08-12T21:58:40.848Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 30.7
+  },
+  "-guilty-will-not-be-spared-heads-likely-to-roll-for-ai-phuke": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 30.7
   },
   "-absurd-timelines-sc-says-only-12-15-cases-for-each-uapa-cou": {
     "firstSeen": "2026-08-12T21:58:40.848Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 30.7
+  },
+  "months-after-suicide-video-gujarat-man-kills-estranged-wife-": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "video",
+    "norm": 29.2
+  },
+  "karnataka-bandh-unlikely-to-disrupt-normal-life-as-most-orga": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "expedite-ejipura-buffer-road-works-gba-chief-commissioner": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "ambedkar-statues-vandalised-in-u-p-": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "nhai-opens-re-laid-service-lane-of-chennai-bengaluru-nationa": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "centre-s-demography-panel-ignored-displaced-families-of-loc-": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "jailed-russian-19-faces-deportation-from-france-over-nazi-sa": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "total-solar-eclipse-plunges-iceland-into-darkness": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "mackenzie-dern-net-worth-in-2026-ufc-salary-fight-earnings-a": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "patrick-mahomes-says-brittany-pushes-him-to-be-a-better-athl": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "no-tip-before-ride-centre-asks-apps-like-uber-rapido-to-junk": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "after-23-years-us-to-pull-out-last-troops-from-iraq-by-septe": {
+    "firstSeen": "2026-08-12T22:55:11.119Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
