@@ -1,102 +1,302 @@
 {
-  "ukraine-says-russia-fired-north-korean-missiles-in-deadly-at": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "attack|attack|dead|dead|fire|fire|killed|killed",
+  "-generation-gutter-remark-on-neet-protesters-agra-lawyer-fil": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "bjp|mp|neet|protest|protest",
     "norm": 79.4
   },
-  "court-seeks-rs-1-crore-aid-for-indore-girl-s-treatment-from-": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "crore|crowd|fund|high court|lakh|row",
-    "norm": 75.3
+  "-just-negotiating-trump-says-the-us-has-two-options-on-how-t": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "deal|iran|mp|trump|trump",
+    "norm": 77.2
   },
-  "-i-do-what-secret-service-says-trump-confirms-switching-plan": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "iran|mp|threat|trump|trump",
-    "norm": 75
+  "-difficult-for-pakistan-to-handle-shoaib-akhtar-warns-babar-": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "match|mp|pakistan|record|war",
+    "norm": 76.8
   },
-  "6-killed-3-injured-after-tanker-rams-into-auto-rickshaw-in-t": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "accident|injured|killed|killed|mp",
-    "norm": 73.5
+  "paramount-threatens-to-leave-california-for-blocking-110-bil": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "bill|billion|slam|slams|threat|war",
+    "norm": 74.3
   },
-  "will-india-extradite-sheikh-hasina-to-bangladesh-mea-says-re": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "collapse|collapse|collapse|exam",
-    "norm": 70.3
+  "petrol-diesel-prices-today-august-12-check-latest-rates-in-d": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "diesel|petrol|petrol|price|prices",
+    "norm": 67.3
   },
-  "who-followed-umar-ahmed-s-jail-convoy-from-jhansi-to-prayagr": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "shock|shock|shocking|toll",
-    "norm": 70
+  "odisha-bjp-raises-question-on-patnaik-silence-over-police-ex": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "bjp|iran|khan",
+    "norm": 66.9
   },
-  "north-korea-fires-second-ballistic-missile-in-a-week-ahead-o": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "fire|fire|war",
+  "warangal-woman-rescued-from-alleged-confinement-in-muscat-af": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "rescue|rescue|war",
     "norm": 64.9
   },
-  "petrol-diesel-get-costlier-in-himachal-as-orphan-widow-cess-": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "diesel|petrol|petrol|tax",
-    "norm": 61.8
+  "175-000-visas-cancelled-by-trump-administration-what-indian-": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "mp|trump|trump",
+    "norm": 64.2
   },
-  "kerala-lottery-result-today-live-dhanalekshmi-dl-65-winning-": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "crore|result",
+  "trump-says-he-would-love-to-run-for-another-term-in-2028-des": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "mp|trump|trump",
+    "norm": 64.2
+  },
+  "ktr-flags-tesseract-land-deal-questions-alleged-link-to-tela": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "deal|lakh|mp",
+    "norm": 59.3
+  },
+  "can-upi-neft-rtgs-or-imps-transactions-trigger-an-income-tax": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "mp|tax",
+    "norm": 57.9
+  },
+  "epf-to-nps-transfer-can-salaried-employees-move-their-pf-mon": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "mp|tax",
+    "norm": 57.9
+  },
+  "19-year-old-gujarat-woman-gangraped-by-six-friend-chased-awa": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "crash|crash",
     "norm": 57.1
+  },
+  "delimitation-row-cm-vijay-moves-resolution-to-freeze-lok-sab": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "lok sabha|row",
+    "norm": 57.1
+  },
+  "-salute-to-these-kid-cjp-founder-abhijeet-dipke-backs-gen-al": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "protest|protest",
+    "norm": 57.1
+  },
+  "senior-maoist-leader-carrying-20-lakh-bounty-surrenders-befo": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "lakh|war",
+    "norm": 57.1
+  },
+  "-there-is-no-success-in-life-that-is-complete-without-a-woma": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "mp|star",
+    "norm": 56.4
   },
   "shillong-teer-result-today-august-12-2026-check-winning-numb": {
     "firstSeen": "2026-08-12T02:39:04.702Z",
     "signature": "khan|result",
     "norm": 55.7
   },
-  "in-pictures-nirmala-sitharaman-s-vande-bharat-journey-to-jai": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "brics|minister|pictures",
-    "norm": 54.7
+  "singer-sukriti-kakar-engaged-to-boyfriend-shoumik-shetty-sha": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "row|singer",
+    "norm": 55.7
   },
-  "inspired-by-gen-z-protests-netaji-subhash-chandra-bose-s-gra": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "atif-aslam-thanks-those-who-banned-him-from-india-says-he-do": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "fan|slam",
+    "norm": 55.7
   },
-  "-pilot-was-not-in-full-control-things-started-floating-insid": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "star|sudden|suddenly",
-    "norm": 53.5
+  "ahead-of-i-day-discoms-issue-manjha-advisory-warn-of-power-c": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "war",
+    "norm": 51.2
   },
-  "-high-on-marijuana-questionable-behaviour-will-air-india-phu": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "ipl",
-    "norm": 48.2
-  },
-  "weather-today-live-updates-weather-office-predicts-light-rai": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
+  "total-solar-eclipse-2026-how-this-week-solar-eclipse-will-al": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
     "signature": "weather",
+    "norm": 51.2
+  },
+  "sbi-clerk-2026-recruitment-begins-check-steps-to-apply-direc": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "recruitment",
+    "norm": 51.2
+  },
+  "from-a-delhi-barsati-to-india-first-indigenous-pc-how-six-en": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "lakh",
+    "norm": 49
+  },
+  "odisha-dgp-appointment-issue-in-supreme-court": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "supreme court",
+    "norm": 49
+  },
+  "tata-son-ipo-can-take-a-page-from-a-hong-kong-titan": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "ipo",
+    "norm": 49
+  },
+  "demi-lovato-on-camp-rock-3-the-most-full-circle": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "mp",
+    "norm": 49
+  },
+  "the-work-that-won-deepak-dhar-the-dirac-medal-explained": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "-hardline-hindu-pure-veg-do-you-wear-janeu-ram-temple-author": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "mp",
+  "aiadmk-leader-jibe-at-govt-with-trisha-remarks-triggers-row": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "svc63-vamshi-paidipally-creates-afghanistan-in-mumbai-for-sa": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "khan",
+    "norm": 47.4
+  },
+  "can-protection-against-domestic-cruelty-extend-to-live-in-re": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "supreme court",
     "norm": 45.9
   },
-  "imd-gets-delhi-rain-data-wrong-later-fixes-it-how-does-it-ac": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
-    "signature": "mp",
+  "top-stocks-in-news-l-t-ardee-tenneco-beml-manappuram-kfin-te": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "stocks",
     "norm": 45.9
   },
-  "govt-to-offer-sops-up-to-rs-5-000-for-e-2-wheelers-till-mar-": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
+  "kt-q2-net-profit-sharply-down-due-to-data-breach-fines": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 39.4
   },
-  "food-authority-bans-plastic-packaging-for-pan-masala-only-ti": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
+  "who-is-cristiano-ronaldo-wife-georgina-rodriguez-all-about-t": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 39.4
   },
-  "no-plastic-aluminium-foil-fssai-introduces-new-rules-for-pan": {
-    "firstSeen": "2026-08-12T02:39:04.702Z",
+  "google-maps-may-be-quietly-eating-your-phone-storage-here-ho": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 39.4
+  },
+  "cm-vijay-to-move-special-resolution-against-delimitation-in-": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "fssai-bans-plastic-aluminium-foil-packaging-for-pan-masala-o": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "bda-bmc-demolish-330-transit-houses": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "-no-tribunal-ever-disposed-of-a-case-without-a-judge-to-hear": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "mach-5-and-beyond-us-plans-next-gen-hypersonic-missile-with-": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "bandra-east-skywalk-faces-hawker-homeless-and-maintenance-wo": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "us-astrologer-calls-august-12-solar-eclipse-a-portal-of-acce": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "new-york-woman-admits-smuggling-migrants": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "the-cost-of-memory-politics": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "what-decades-of-construction-projects-can-teach-al-models": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "fd-interest-rates-up-to-7-50-in-august-2026-these-3-banks-ha": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "delhi-govt-launches-four-tourism-circuits-to-turn-capital-in": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "sushi-but-with-cucumbers-mumbai-fitness-coach-healthy-homema": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "total-solar-eclipse-to-dazzle-europe-as-spain-prepares-for-s": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "urvashi-dholakia-celebrates-her-right-tribe-with-ekta-kapoor": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "us-senators-flag-student-visa-delays": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "tata-sons-chairman-n-chandrasekaran-considers-stepping-down-": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "quote-of-the-day-by-lakshmi-mittal-this-is-a-learning-in-the": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "-pilot-seemed-high-eyes-were-red-passenger-after-pilot-of-tu": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 36
+  },
+  "cutting-sugar-during-pregnancy-early-childhood-protects-brai": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 36
+  },
+  "why-disability-services-fail-to-reach-millions": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 36
+  },
+  "virulent-dengue-strain-circulating-in-delhi-officials": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 36
+  },
+  "idli-sambar-to-be-served-in-delhi-govt-schools-under-revised": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 36
+  },
+  "kuki-group-ends-counter-inter-district-economic-blockade-hig": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 36
+  },
+  "earnings-calendar-aug-2026": {
+    "firstSeen": "2026-08-12T04:56:41.913Z",
+    "signature": "",
+    "norm": 36
   }
 }
