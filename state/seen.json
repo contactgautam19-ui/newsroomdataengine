@@ -1,27 +1,47 @@
 {
-  "seven-dead-many-injured-in-mumbai-landslip": {
-    "firstSeen": "2026-08-12T20:58:02.512Z",
-    "signature": "collapse|collapse|collapse|dead|dead|injured",
-    "norm": 77.6
+  "video-2-killed-after-us-army-apache-helicopter-crashes-in-te": {
+    "firstSeen": "2026-08-12T21:58:40.848Z",
+    "signature": "army|attack|attack|crash|crash|evacuat|fire|fire|killed|killed|video",
+    "norm": 94.8
   },
-  "babulal-marandi-slams-visit-by-police-officers-to-jharkhand-": {
-    "firstSeen": "2026-08-12T20:58:02.512Z",
-    "signature": "khan|mp|protest|protest|slam|slams",
-    "norm": 77
+  "16-shortlisted-for-ayodhya-ram-mandir-trust-ceo-post-final-i": {
+    "firstSeen": "2026-08-12T21:58:40.848Z",
+    "signature": "ayodhya|election|election|mp|ram mandir",
+    "norm": 67.5
   },
-  "peaceful-protest-is-a-right-not-an-undesirable-purpose-keral": {
-    "firstSeen": "2026-08-12T20:58:02.512Z",
-    "signature": "protest|protest|slam|slams",
-    "norm": 62.3
+  "-deliberate-cover-up-sc-orders-cbi-probe-into-chhattisgarh-c": {
+    "firstSeen": "2026-08-12T21:58:40.848Z",
+    "signature": "death|mp",
+    "norm": 57.1
   },
-  "31-member-parliamentary-panel-to-review-fcra-bill": {
-    "firstSeen": "2026-08-12T20:58:02.512Z",
-    "signature": "bill|lok sabha|opposition|parliament",
-    "norm": 53.9
+  "sc-to-consider-identifying-protest-sites-that-won-t-affect-d": {
+    "firstSeen": "2026-08-12T21:58:40.848Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "troubling-bill-on-the-foreign-contribution-regulation-amendm": {
-    "firstSeen": "2026-08-12T20:58:02.512Z",
-    "signature": "bill",
-    "norm": 45.9
+  "new-rbi-rules-may-end-loan-spread-tinkering": {
+    "firstSeen": "2026-08-12T21:58:40.848Z",
+    "signature": "rbi",
+    "norm": 44
+  },
+  "new-rumor-tells-us-all-about-apple-s-imminent-iphone-price-h": {
+    "firstSeen": "2026-08-12T21:58:40.848Z",
+    "signature": "price",
+    "norm": 44
+  },
+  "govt-asks-air-india-to-take-responsibility-tells-dgca-to-imp": {
+    "firstSeen": "2026-08-12T21:58:40.848Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "who-next-tata-steel-md-s-name-does-the-rounds-after-chandras": {
+    "firstSeen": "2026-08-12T21:58:40.848Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-absurd-timelines-sc-says-only-12-15-cases-for-each-uapa-cou": {
+    "firstSeen": "2026-08-12T21:58:40.848Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
