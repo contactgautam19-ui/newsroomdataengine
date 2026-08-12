@@ -1,166 +1,96 @@
 {
-  "assam-floods-death-toll-rises-to-103-over-86-800-affected-co": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "congress|death|flood|flood|floods|lakh|toll",
-    "norm": 87.7
-  },
-  "seven-dead-many-injured-in-mumbai-landslip": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "collapse|collapse|collapse|dead|dead|injured",
-    "norm": 77.6
-  },
-  "awarapan-2-vs-batwara-1947-advance-box-office-emraan-s-film-": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "box office|crore|film|lakh|war",
-    "norm": 70
-  },
-  "drone-helps-locate-woman-lost-overnight-in-nellore-forest": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "drone|fire|fire|mp",
-    "norm": 63.9
-  },
-  "how-to-hide-a-president-in-plain-sight-trump-s-catering-cape": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "mp|president|trump|trump",
-    "norm": 61.8
-  },
-  "amidst-tussle-ncsc-panel-to-probe-all-of-centre-s-de-reserva": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "clash|clash|mp",
-    "norm": 61.1
+  "pravasi-trust-calls-for-tapping-nri-savings-for-kerala-s-gro": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "chief minister|fund|minister|row|tax",
+    "norm": 73.6
   },
   "kashmiri-pandit-pm-package-employees-seek-sit-probe-transfer": {
     "firstSeen": "2026-08-12T17:07:46.135Z",
     "signature": "mp|policy|threat",
     "norm": 59.7
   },
-  "inside-iaf-spy-scandal-how-forensics-exposed-war-book-leaks-": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "mp|war",
-    "norm": 57.1
+  "nia-arrests-an-accused-in-tronglaobi-ied-attack-case": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "attack|attack",
+    "norm": 57.6
   },
-  "iran-says-no-progress-on-reviving-interim-peace-deal-with-us": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "deal|iran",
-    "norm": 55.4
+  "cambridge-university-hired-academic-who-supported-terror-gro": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "terror|terror",
+    "norm": 57.6
   },
-  "cm-vijay-is-determined-not-to-take-a-lot-of-loans-finance-mi": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "fund|minister",
-    "norm": 55
+  "portfolio-allocation-done-karnataka-chief-minister-d-k-shiva": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "cabinet|chief minister|minister|opposition",
+    "norm": 53.9
   },
-  "fmr-jd-s-mp-prajwal-revanna-caught-using-mobile-phone-in-jai": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "footage|mp|video",
-    "norm": 55
+  "stalin-pulls-up-dmk-mlas-over-frivolous-speeches-in-budget-s": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "budget|mla",
+    "norm": 53.2
   },
-  "centre-softens-stance-on-fcra-bill-following-appeals-by-mino": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "bill|lok sabha|parliament",
-    "norm": 52.7
+  "woman-dies-after-falling-into-crater-villagers-launch-flash-": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "rajya-sabha-passes-bills-to-change-kerala-s-name-strengthen-": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "bill|lok sabha|rajya sabha",
-    "norm": 52.7
-  },
-  "opposition-accuses-udf-government-of-undeclared-social-media": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "congress|opposition",
+  "the-long-wait-for-a-woman-minister-in-karnataka": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "cabinet|minister",
     "norm": 50.5
   },
-  "develop-tirupati-tiruvannamalai-national-highway-mps-urge-un": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "minister|mp",
+  "chief-minister-releases-critic-m-leelavathi-s-bharathalokam": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "will-not-tolerate-blackmail-by-rice-millers-cm": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "mp|policy",
-    "norm": 48.7
-  },
-  "rajya-sabha-passes-bill-to-rename-kerala-as-keralam-": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "bill|rajya sabha",
-    "norm": 48.7
-  },
-  "maharashtra-fda-suspends-licences-of-4-domino-s-outlets-over": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "maharashtra",
+  "bring-perpetrators-to-book-in-weaver-s-death-ktr": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "death",
     "norm": 48.2
   },
-  "maharashtra-eyes-mcoca-action-against-organised-milk-paneer-": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "maharashtra",
-    "norm": 48.2
-  },
-  "kayanad-landslips-revive-safety-concerns-over-abandoned-quar": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "anger",
+  "messi-event-row-govt-may-order-probe": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "remand-prisoner-attempts-suicide-inside-repalle-sub-jail": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
+  "former-a-ni-chief-secretary-said-shompen-tribe-must-adopt-mo": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "cauvery-karnataka-will-approach-supreme-court-says-cheluvara": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "supreme court",
-    "norm": 44
+  "last-date-extended-for-applications-for-posts-of-hereditary-": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "-why-intimidate-my-family-saurav-das-calls-police-visit-to-h": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "bjp",
-    "norm": 44
+  "horoscope-today-daily-astrological-predictions-for-august-13": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
+    "signature": "star",
+    "norm": 42.4
   },
-  "palghar-felt-two-tremors-of-magnitude-3-4-in-an-hour": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "record",
-    "norm": 42.7
-  },
-  "there-will-be-no-bundh-in-belagavi-on-thursday-say-kannada-o": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
+  "srm-school-of-law-signs-six-mous-for-experiential-learning": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
     "signature": "",
     "norm": 36
   },
-  "six-girl-students-of-adavimallela-gurukul-bitten-by-rats-tre": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
+  "cochin-shipyard-delivers-second-ice-class-vessel-to-german-f": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
     "signature": "",
     "norm": 36
   },
-  "78-jail-inmates-clear-ssc-through-nios-get-special-remission": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
+  "inter-state-bike-lifting-gang-busted-44-two-wheelers-recover": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
     "signature": "",
     "norm": 36
   },
-  "ex-cop-held-for-allegedly-smashing-woman-s-car-windshield-in": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "",
-    "norm": 36
-  },
-  "hc-stays-kalyana-lakshmi-shaadi-mubarak-schemes-operation": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
+  "electric-trap-laid-by-hunters-for-wildlife-claims-forest-bea": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
     "signature": "",
     "norm": 33.9
   },
-  "govt-approves-three-h-citi-projects": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "civil-surgeon-faces-probe-over-alleged-use-of-false-caste-ce": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "search-on-for-indore-techie-who-went-missing-during-trek-nea": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "woman-out-for-a-drive-with-friend-gangraped-by-6-in-cuttack": {
-    "firstSeen": "2026-08-12T17:07:46.135Z",
+  "mackenzie-dern-net-worth-in-2026-ufc-salary-fight-earnings-a": {
+    "firstSeen": "2026-08-12T19:15:33.187Z",
     "signature": "",
     "norm": 33.9
   }
