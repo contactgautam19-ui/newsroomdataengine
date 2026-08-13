@@ -1,51 +1,121 @@
 {
-  "minister-s-protest-in-support-of-sanitation-workers-creates-": {
-    "firstSeen": "2026-08-12T23:54:25.041Z",
-    "signature": "minister|protest|protest|storm",
-    "norm": 71.4
+  "oil-prices-slip-as-opec-cuts-demand-forecast-iran-war-keeps-": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "iran|mp|price|prices|row|war",
+    "norm": 84.1
   },
-  "saffron-to-white-to-saffron-again-no-end-to-controversy-over": {
-    "firstSeen": "2026-08-12T23:54:25.041Z",
-    "signature": "bjp|controversy|president",
-    "norm": 59.7
+  "two-killed-as-us-army-apache-helicopter-crashes-near-fort-ho": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "army|crash|crash|killed|killed",
+    "norm": 78.8
   },
-  "nhai-tightens-norms-rs-10k-fine-if-its-ambulances-fail-to-re": {
-    "firstSeen": "2026-08-12T23:54:25.041Z",
-    "signature": "crash|crash",
-    "norm": 57.1
+  "cash-row-case-justice-yashwant-varma-resigned-but-can-parlia": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "controversy|fire|fire|parliament|row",
+    "norm": 77.8
   },
-  "georgia-high-school-shooting-leaves-student-injured-teenage-": {
-    "firstSeen": "2026-08-12T23:54:25.041Z",
-    "signature": "injured|shooting",
-    "norm": 53.9
+  "6-farm-labourers-killed-in-lorry-auto-collision-in-telangana": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "crash|crash|killed|killed|war",
+    "norm": 77.5
   },
-  "oil-spill-from-grounded-tanker-reaches-oman-s-mainland-exper": {
-    "firstSeen": "2026-08-12T23:54:25.041Z",
-    "signature": "war",
-    "norm": 48.2
+  "-heads-will-roll-govt-tells-air-india-to-take-responsibility": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "injured|ipl|war|warning",
+    "norm": 73
   },
-  "10-test-defeats-amp-two-clean-sweeps-but-amit-mishra-says-gi": {
-    "firstSeen": "2026-08-12T23:54:25.041Z",
+  "-interest-in-developing-chemical-biological-weapons-un-repor": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "blast|explosion|explosion|injured|killed|killed",
+    "norm": 72.1
+  },
+  "hydraulic-alerts-low-pressure-warnings-autopilot-disconnecti": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "alert|record|war|warning",
+    "norm": 68.4
+  },
+  "punjab-couple-went-to-see-house-for-rent-gets-attacked-by-pi": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "attack|attack",
+    "norm": 57.6
+  },
+  "seven-labourers-find-50-lakh-diamond-in-madhya-pradesh-s-pan": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "heavy rain|lakh",
+    "norm": 55.4
+  },
+  "ten-fishermen-from-rameswaram-held-by-lankan-navy": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "navy|war",
+    "norm": 55.4
+  },
+  "-very-very-difficult-can-kuldeep-yadav-become-india-s-next-s": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "economy|match",
+    "norm": 55.4
+  },
+  "karnataka-bandh-today-what-s-open-what-s-closed-amid-day-lon": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "it-s-one-year-to-intel-becoming-a-us-govt-company-what-this-": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "mp|policy",
+    "norm": 48.7
+  },
+  "opposition-accuses-udf-government-of-undeclared-social-media": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "congress|opposition",
+    "norm": 48.7
+  },
+  "want-to-tip-your-driver-centre-orders-ride-apps-to-stop-aski": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "-evasive-misleading-parliamentary-panel-on-justice-varma-s-t": {
-    "firstSeen": "2026-08-12T23:54:25.041Z",
-    "signature": "parliament",
+  "indian-origin-teen-kills-mother-brother-in-us-had-searched-f": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "fan",
+    "norm": 44.3
+  },
+  "nia-searches-13-locations-in-tamil-nadu-and-mizoram-after-me": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "lakh",
     "norm": 44
   },
-  "us-sailors-trying-to-jump-overboard-amid-extended-middle-eas": {
-    "firstSeen": "2026-08-12T23:54:25.041Z",
+  "ramanathapuram-police-bust-meth-syndicate-seize-1-4-kg-of-dr": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
     "signature": "mp",
     "norm": 44
   },
-  "ready-for-long-debate-can-answer-any-question-but-oppn-doesn": {
-    "firstSeen": "2026-08-12T23:54:25.041Z",
-    "signature": "",
-    "norm": 36
+  "indian-teen-murders-mother-brother-in-us-home-searched-kill-": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "fan",
+    "norm": 42.4
   },
-  "uproar-erupts-as-ambedkar-statues-vandalised-in-uttar-prades": {
-    "firstSeen": "2026-08-12T23:54:25.041Z",
+  "indian-origin-teen-murders-mother-brother-in-us-home-chatgpt": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "fan",
+    "norm": 42.4
+  },
+  "air-india-pilot-who-tested-positive-for-marijuana-slept-30-3": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "former-punjab-cm-beant-singh-s-murder-convict-declines-custo": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "air-india-phuket-delhi-flight-airline-said-turbulence-then-c": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "moon-meets-sun-rare-solar-eclipse-captivates-millions-across": {
+    "firstSeen": "2026-08-13T02:40:49.184Z",
     "signature": "",
     "norm": 33.9
   }
