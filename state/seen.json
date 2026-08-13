@@ -1,191 +1,236 @@
 {
-  "jharkhand-students-protest-over-job-exam-anomalies-enters-20": {
-    "firstSeen": "2026-08-13T05:00:18.282Z",
-    "signature": "chief minister|exam|khan|minister|protest|protest|threat",
-    "norm": 87.8
+  "-from-lenin-to-linen-internet-cheers-as-former-naxals-walk-t": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "mp|star|video|viral|viral|viral|viral video",
+    "norm": 85
   },
-  "sharmila-slams-government-s-claims-on-growth-rate": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "crore|lakh|mp|president|price|prices|row|slam|slams",
-    "norm": 83.6
+  "nda-india-bloc-mps-face-off-outside-parliament-over-jharkhan": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "khan|mp|parliament|protest|protest|rahul gandhi|war",
+    "norm": 80.3
   },
-  "-pakistan-exporting-terror-j-k-not-an-issue-on-1995-independ": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "minister|pakistan|prime minister|terror|terror|war|warning",
-    "norm": 81.7
+  "lok-sabha-passes-bill-restricting-states-power-to-tax-minera": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "bill|lok sabha|minister|protest|protest|tax",
+    "norm": 75.3
   },
-  "cia-doubted-israeli-intel-on-threat-to-trump-before-turkey-p": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "israel|mla|mp|threat|trump|trump",
-    "norm": 78.4
+  "jharkhand-protest-agitating-students-accuse-govt-of-withhold": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "hospital|khan|protest|protest",
+    "norm": 71.6
   },
-  "house-collapses-in-himachal-s-sirmaur-2-killed-2-children-in": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "collapse|collapse|collapse|injured|killed|killed",
-    "norm": 77.6
+  "nurse-found-dead-in-n-r-s-medical-college-and-hospital-in-ko": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "dead|dead|death|hospital",
+    "norm": 69.6
   },
-  "-will-boats-now-operate-jewar-airport-waterlogging-sparks-bj": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "bjp|controversy|heavy rain|opposition|poll|war",
-    "norm": 76.9
+  "welcome-positive-reassuring-remarks-of-assam-cm-on-border-cl": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "border|clash|clash|khan",
+    "norm": 68
   },
-  "messi-visit-row-kerala-s-udf-govt-closes-in-on-multi-angled-": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "chief minister|ipl|minister|row|war",
-    "norm": 76.5
+  "parliament-monsoon-session-live-session-set-for-tense-finish": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "bill|parliament|protest|protest",
+    "norm": 66.9
   },
-  "congress-demands-declaring-assam-floods-as-national-problem-": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "congress|flood|flood|floods|lakh",
-    "norm": 75.9
+  "kerala-vows-strong-opposition-to-centre-s-mining-amendment": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "chief minister|minister|opposition|threat",
+    "norm": 63.5
   },
-  "haldwani-shuddhikaran-row-kharge-accuses-bjp-of-untouchabili": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "bjp|controversy|rally|rally|row",
-    "norm": 72
+  "ex-trinamool-mla-nirmal-ghosh-arrested-over-hurried-crematio": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "chief minister|death|minister|mla",
+    "norm": 63.5
   },
-  "how-sustainable-is-india-s-e20-push-explained": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "crore|kejriwal|lakh|lok sabha|mp|opposition|rahul gandhi",
-    "norm": 67.1
+  "-i-m-game-dulquer-salman-starrer-out-of-onam-box-office-race": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "clash|clash|film|star",
+    "norm": 63.2
   },
-  "parliament-monsoon-session-day-19-live-lok-sabha-and-rajya-s": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "amit shah|lok sabha|minister|modi|modi|parliament|rajya sabha",
-    "norm": 65.3
+  "mallikarjun-kharge-condemns-shuddhikaran-ritual-after-his-ut": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "bjp|congress|khan|president|rajya sabha",
+    "norm": 59.4
   },
-  "heavy-rain-lashes-odisha-imd-issues-red-warning-for-entire-s": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "heavy rain|war|warning",
-    "norm": 64.5
+  "parliament-monsoon-session-how-productive-was-it-fcra-pellet": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "bill|lok sabha|minister|parliament|rajya sabha|record",
+    "norm": 58.5
   },
-  "gangland-shooters-planning-attacks-and-extortions-in-delhi-a": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "attack|attack|war",
-    "norm": 62.9
+  "excise-policy-arvind-kejriwal-manish-sisodia-move-delhi-hc-t": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "kejriwal|policy|unprecedented",
+    "norm": 56.4
   },
-  "in-2012-parliament-cost-rs-2-5-lakh-per-minute-to-run-what-d": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "lakh|parliament|tax",
-    "norm": 59.3
-  },
-  "quarkitech-raises-2-crore-in-pre-seed-funding": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "crore|fund|mp",
-    "norm": 59.3
-  },
-  "hydraulic-pressure-autopilot-disconnect-turbulence-hit-air-i": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "war|warning",
-    "norm": 57.6
-  },
-  "taiwan-says-government-agencies-targeted-in-ai-assisted-cybe": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "attack|attack",
-    "norm": 57.6
-  },
-  "who-was-govind-khairnar-the-1990s-ias-officer-now-being-comp": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "maharashtra|mp",
-    "norm": 57.1
-  },
-  "andhra-pradesh-govt-joins-hands-with-iit-madras-for-protecti": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "crore|disaster",
-    "norm": 57.1
-  },
-  "gatekeeper-dies-while-trying-to-save-man-from-being-hit-by-t": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "mp|war",
-    "norm": 57.1
-  },
-  "10-fishermen-from-rameswaram-held-by-sri-lankan-navy-on-char": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "navy|war",
+  "muzaffarnagar-riots-court-allows-withdrawal-of-case-against-": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "bjp|riot",
     "norm": 55.4
   },
-  "-prosecution-witness-suddenly-became-eyewitness-delhi-court-": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "riot|sudden|suddenly",
+  "greater-noida-5-year-old-girl-trapped-in-lift-for-30-minutes": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "rescue|rescue|video",
     "norm": 55.4
   },
-  "cm-bhagwant-mann-meets-governor-for-10-day-parole-to-jagtar-": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "governor|war",
+  "nurse-s-body-recovered-from-locked-toilet-at-kolkata-s-state": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "hospital|minister",
     "norm": 55.4
   },
-  "two-moderate-intensity-earthquakes-hit-ladakh-within-four-ho": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "earthquake|earthquake",
-    "norm": 54.2
+  "vande-mataram-row-kerala-govt-s-stance-will-be-made-clear-on": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "opposition|row",
+    "norm": 55.4
   },
-  "opposition-skips-tea-meet-om-birla-s-chai-meeting-snub-parli": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "lok sabha|mp|opposition|parliament",
+  "tata-chair-s-exit-leaves-120-billion-spending-ambition-in-li": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "bill|billion",
+    "norm": 55
+  },
+  "stock-market-live-updates-sensex-today-sensex-nifty-trade-fl": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "nifty|price|prices|sensex|stock market",
+    "norm": 54.4
+  },
+  "5-435-bank-accounts-hong-kong-connection-reel-star-arrested-": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "fraud|star",
     "norm": 53.9
   },
-  "parliament-monsoon-session-2026-live-lok-sabha-rajya-sabha-a": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "lok sabha|parliament|rajya sabha",
+  "ex-tmc-mla-nirmal-ghosh-arrested-over-hastily-cremating-rg-k": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "chief minister|minister|mla",
     "norm": 52.7
   },
-  "a-first-for-parliament-lok-sabha-opens-its-final-sitting-wit": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "lok sabha|parliament",
+  "actor-vikram-case-farm-owner-in-erode-asked-to-produce-docum": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "actor|film|video",
+    "norm": 52.4
+  },
+  "parliament-monsoon-session-ends-12-bills-passed-amid-govt-op": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "bill|minister|opposition|parliament",
+    "norm": 52.1
+  },
+  "vande-mataram-3-quiet-minutes-and-11-bills-what-parliament-s": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "bill|parliament",
     "norm": 50.5
   },
-  "pocketless-uniforms-180-day-cctv-storage-ram-temple-trust-ov": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "cctv|mp",
+  "-it-humiliated-me-m-kharge-on-purification-ceremony-at-his-r": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "rally|rally",
     "norm": 50.2
   },
-  "chennai-corporation-s-property-tax-reassessment-drive-draws-": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "tax",
-    "norm": 45.9
+  "hurried-cremation-ex-tmc-mla-nirmal-ghosh-arrested-in-rg-kar": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "congress|mla",
+    "norm": 48.7
   },
-  "minister-durgesh-pushes-for-tourism-expansion-heritage-prese": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
+  "video-of-actor-vikram-with-lar-gibbon-tamil-nadu-forest-depa": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "actor|video",
+    "norm": 48.7
+  },
+  "lost-stories-old-photos-forgotten-women-gen-z-s-new-history-": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "instagram|photos",
+    "norm": 48.7
+  },
+  "ysrcp-seeks-voter-friendly-verification-of-unmapped-electors": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "mp|vote",
+    "norm": 48.7
+  },
+  "tvk-government-s-first-big-business-game-in-tamil-nadu-score": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "crore|deal",
+    "norm": 48.7
+  },
+  "ashok-selvan-preity-mukhundhan-to-headline-anbil-avan-title-": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "film|teaser",
+    "norm": 48.2
+  },
+  "delhi-court-flags-criminal-breach-of-trust-by-3-experts-in-n": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "neet",
+    "norm": 46.3
+  },
+  "karnataka-bandh-evokes-lukewarm-response-in-mysuru-belagavi": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "ex-tmc-mla-nirmal-ghosh-arrested-over-hurried-cremation-of-r": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "mla",
+    "norm": 44
+  },
+  "school-teacher-suspended-for-derogatory-post-against-karnata": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
     "signature": "minister",
-    "norm": 45.9
+    "norm": 44
   },
-  "up-man-caught-after-hiding-inside-box-in-widow-s-room-for-3-": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
+  "parliament-monsoon-session-concludes-key-takeaways-from-fina": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "parliament",
+    "norm": 44
+  },
+  "realme-16x-5g-launches-in-india-with-massive-7-000mah-batter": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "-eoin-morgan-might-be-coming-ashwin-reveals-big-name-in-csk-": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "dhoni",
-    "norm": 44.3
-  },
-  "no-rallies-or-roadshows-during-jagan-mohan-reddy-s-kurnool-v": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "cctv",
+  "violence-erupts-in-manipur-as-nine-houses-church-set-ablaze-": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "blaze",
     "norm": 42.7
   },
-  "n-chandrasekaran-the-marathoner-technocrat-who-gave-new-dire": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
-    "signature": "actor",
-    "norm": 42.4
-  },
-  "over-2-950-dogs-sterilised-to-save-black-necked-cranes-and-w": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
+  "kerala-hc-says-it-achieved-a-higher-case-clearance-ratio": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
     "signature": "",
     "norm": 36
   },
-  "telangana-family-certificate-not-acceptable-as-designated-do": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
+  "rs-chairman-regrets-disruptions-during-monsoon-session-house": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
     "signature": "",
     "norm": 36
   },
-  "cockroaches-found-in-restaurant-of-hostel-for-legislators-in": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
+  "sc-expresses-concern-over-pendency-of-cases-at-ncdrc-bats-fo": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
     "signature": "",
     "norm": 33.9
   },
-  "natarajan-chandrasekaran-s-journey-from-tcs-to-the-top-of-ta": {
-    "firstSeen": "2026-08-13T06:40:15.815Z",
+  "over-15-000-codeine-syrup-bottles-1-kg-charas-seized-in-mumb": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "full-version-vande-mataram-what-are-the-rules-for-rendition-": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "photographer-arrested-in-krishna-district-for-allegedly-crea": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "spacexai-unveils-grok-bot-to-work-like-a-team-of-ai-agents": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "want-to-park-on-bengaluru-road-get-ready-to-shell-out-upto-r": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "meet-gautam-rangarajan-the-indian-origin-strategist-taking-k": {
+    "firstSeen": "2026-08-13T08:40:04.536Z",
     "signature": "",
     "norm": 33.9
   }
