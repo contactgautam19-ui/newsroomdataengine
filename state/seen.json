@@ -1,192 +1,167 @@
 {
-  "watch-when-gunman-tried-to-assassinate-sukhbir-badal-at-gold": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "fire|fire|gold|mp|row|watch",
-    "norm": 83.5
+  "pm-modi-calls-harsimrat-kaur-badal-after-attack-on-sukhbir-b": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "attack|attack|minister|modi|modi|prime minister|row",
+    "norm": 86.3
   },
-  "pm-modi-inquires-about-sukhbir-singh-badal-s-health-after-ki": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "attack|attack|chief minister|minister|modi|modi",
-    "norm": 83.2
+  "delhi-gymkhana-club-eviction-threat-army-veterans-seek-pm-mo": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "army|controversy|khan|minister|modi|modi|mp|prime minister|threat",
+    "norm": 84.6
   },
-  "messi-visit-row-in-kerala-possible-vigilance-inquiry-referra": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "chief minister|fund|match|minister|result|row",
-    "norm": 82.6
+  "-we-can-drive-them-crazy-rahul-gandhi-says-pm-modi-does-not-": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "modi|modi|protest|protest|rahul gandhi",
+    "norm": 76.8
   },
-  "pm-modi-dials-sukhbir-badal-s-wife-to-inquire-about-sad-chie": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "attack|attack|modi|modi|war",
-    "norm": 82.2
+  "air-india-phuket-delhi-flight-horror-aaib-probe-report-may-r": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "accident|exam|horror",
+    "norm": 68
   },
-  "himanta-appeals-for-peace-along-assam-arunachal-border-says-": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "border|clash|clash|fire|fire|protest|protest",
-    "norm": 81.6
+  "protests-demanding-drinking-water-bjp-urges-tvk-led-govt-to-": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "bjp|protest|protest|war",
+    "norm": 67.9
   },
-  "sukhbir-singh-badal-attack-bjp-condemns-incident-aap-recalls": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "aap|attack|attack|bjp|protest|protest",
-    "norm": 81.6
-  },
-  "sukhbir-singh-badal-attacked-nihang-jaspal-singh-arrested-cm": {
-    "firstSeen": "2026-08-13T10:18:53.447Z",
-    "signature": "attack|attack|chief minister|minister|war",
-    "norm": 76.5
-  },
-  "2-attacks-in-2-years-2-escapes-sukhbir-singh-badal-attack-in": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "attack|attack|gold|mp",
-    "norm": 75.9
-  },
-  "nurse-30-found-dead-at-kolkata-hospital-toilet-door-broken-t": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "alert|dead|dead|exam|hospital",
-    "norm": 75.4
-  },
-  "messi-visit-row-kerala-s-udf-govt-closes-in-on-multi-angled-": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "chief minister|ipl|minister|row|war",
-    "norm": 75
-  },
-  "jharkhand-exam-stir-fir-against-300-unnamed-people-in-connec": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "attack|attack|exam|khan",
-    "norm": 74.6
-  },
-  "-66-of-dog-attack-deaths-involve-pit-bulls-why-are-pit-bulls": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "anger|attack|attack|death|mp",
-    "norm": 73.5
-  },
-  "akali-dal-chief-sukhbir-badal-attacked-in-maharashtra-s-nand": {
-    "firstSeen": "2026-08-13T10:18:53.447Z",
-    "signature": "attack|attack|injured|maharashtra",
-    "norm": 73
-  },
-  "nanded-s-rinda-connection-how-gangster-built-crime-ring-arou": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "attack|attack|gst",
+  "unsc-sanctions-report-says-red-fort-attack-officially-attrib": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "attack|attack|sanction",
     "norm": 67.6
   },
-  "iaf-moves-closer-to-rs-1-lakh-crore-transport-aircraft-deal-": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "air force|crore|deal|lakh|mp",
+  "haryana-man-stabbed-to-death-in-germany-served-in-french-arm": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "army|death|lakh",
     "norm": 65.6
   },
-  "kerala-vows-strong-opposition-to-centre-s-mining-amendment-b": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "bill|chief minister|minister|opposition|threat",
+  "pickup-van-driver-21-found-dead-in-vehicle-near-mussoorie-ut": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "dead|dead|khan",
     "norm": 64.6
   },
-  "who-is-jaspal-singh-the-nihang-sikh-who-attacked-sukhbir-bad": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "attack|attack|war",
-    "norm": 64.5
-  },
-  "attacker-tried-to-stab-sukhbir-badal-in-stomach-what-we-know": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "attack|attack|hospital",
-    "norm": 62.9
-  },
-  "nurse-found-dead-in-kolkata-nrs-hospital-night-shift-locked-": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "dead|dead|hospital",
-    "norm": 62.9
-  },
-  "former-tmc-mla-nirmal-ghosh-arrested-over-alleged-hurried-cr": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "congress|hospital|mla",
-    "norm": 59.7
-  },
-  "-do-you-not-want-india-to-stay-healthy-top-court-grills-cent": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "war|warning",
-    "norm": 59.3
+  "-you-all-got-answers-now-cjp-s-abhijeet-dipke-backs-madhya-p": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "minister|protest|protest|video",
+    "norm": 63.9
   },
   "turban-came-off-re-tied-moment-sukhbir-badal-s-attacker-was-": {
     "firstSeen": "2026-08-13T11:56:04.672Z",
     "signature": "attack|attack",
     "norm": 57.6
   },
-  "cjp-insider-exposes-alleged-ties-to-aam-admi-party-claims-di": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "aap|war",
-    "norm": 57.1
+  "telangana-school-principal-found-dead-at-home-with-27-stab-w": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "dead|dead",
+    "norm": 57.6
   },
-  "vande-mataram-row-kerala-govt-s-stance-will-be-made-clear-on": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "opposition|row",
+  "onion-procurement-lags-after-system-overhaul": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "price|prices|star",
+    "norm": 56.1
+  },
+  "haldwani-purification-row-the-little-known-group-at-the-cent": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "bjp|row",
     "norm": 55.4
   },
-  "allocate-11-56-lakh-houses-to-telangana-under-pmay-g-2-0-hou": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "lakh|minister",
+  "-10-20-crore-sanctioned-to-strengthen-education-health-infra": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "crore|sanction",
+    "norm": 55
+  },
+  "apcrda-hands-over-residential-complex-for-mlas-and-mlcs-in-a": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "chief minister|minister|mla|mp",
+    "norm": 53.9
+  },
+  "ysrcp-seeks-halt-to-mining-activities-near-panchadarla-herit": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "bill|mp|parliament|rajya sabha",
+    "norm": 53.9
+  },
+  "kerala-high-court-restores-foreign-funding-licence-of-2-ngos": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "fund|high court",
     "norm": 53.2
   },
-  "karnataka-vs-rss-congress-govt-plans-curbs-on-public-space-a": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "bjp|congress|mp",
-    "norm": 52.7
+  "mizoram-nagaland-cms-welcome-centre-s-move-sending-fcra-bill": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "bill|parliament",
+    "norm": 50.5
   },
-  "t-hub-launches-deep-tech-founder-fellowship-selects-14-start": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "mp|star",
-    "norm": 51.7
+  "kerala-minister-visits-pareeksha-bhavan-in-wake-of-complaint": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "minister|mp",
+    "norm": 50.5
   },
-  "seven-judge-supreme-court-bench-to-hear-if-legislative-privi": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "chief minister|minister|supreme court",
-    "norm": 50.9
+  "former-chief-minister-siddaramaiah-skips-first-day-s-session": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
   },
-  "watch-classic-movies-for-free-on-apple-tv": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "movie|watch",
-    "norm": 48.7
-  },
-  "kurukshetra-man-stabbed-to-death-in-germany-had-planned-to-v": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "death",
+  "hdpt-chief-calls-for-conservation-of-gundlakamma-river": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "how-tata-sons-will-pick-n-chandrasekaran-s-successor-and-who": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "row",
-    "norm": 48.2
+  "christian-council-hails-referring-fcra-amendment-bill-to-jpc": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "bill",
+    "norm": 45.9
   },
-  "booked-a-train-ticket-recently-here-s-why-railone-is-becomin": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "ipl",
-    "norm": 46.3
+  "pollution-control-board-urges-eco-friendly-gowri-ganesha-cel": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "poll",
+    "norm": 45.9
   },
-  "rajya-sabha-chairperson-regrets-disruptions-during-monsoon-s": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "rajya sabha",
-    "norm": 44
+  "strict-safety-norms-for-tourist-boats-at-berm-park-in-vijaya": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "india-indonesia-launch-project-to-restore-9th-century-pramba": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
+  "chittoor-collector-directs-officials-to-address-drinking-wat": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
     "signature": "mp",
     "norm": 44
   },
-  "naidu-opens-seed-access-road-second-phase-two-steel-bridges-": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "crore",
-    "norm": 44
+  "here-are-the-big-stories-from-karnataka-today": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "",
+    "norm": 36
   },
-  "syama-prasad-mookerjee-s-contributions-to-be-included-in-edu": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "deal",
-    "norm": 44
+  "revenue-department-set-to-cancel-illegal-land-titles-in-waga": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "",
+    "norm": 36
   },
-  "india-s-trade-deficit-widens-31-5-to-15bn-in-july-electronic": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "mp",
-    "norm": 44
+  "first-multilingual-indian-speech-recognition-model-trained-o": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "",
+    "norm": 36
   },
-  "leave-what-you-can-take-what-you-need-community-fridges-in-v": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "cctv",
-    "norm": 42.7
+  "real-estate-agents-held-with-11-7-kg-ganja-in-hyderabad": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "",
+    "norm": 36
+  },
+  "bengaluru-alumni-of-mahila-seva-samaja-gift-science-kits-to-": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "",
+    "norm": 36
+  },
+  "air-india-to-undertake-full-screening-of-its-pilots-for-proh": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "",
+    "norm": 36
+  },
+  "hyderabad-police-to-auction-2-193-abandoned-vehicles": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "sukhbir-singh-badal-education-qualification-from-ma-in-econo": {
+    "firstSeen": "2026-08-13T13:39:05.425Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
