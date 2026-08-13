@@ -1,226 +1,166 @@
 {
-  "2-failed-attempts-then-death-delhi-man-killed-for-harassing-": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "attack|attack|death|killed|killed|mp",
-    "norm": 79.9
+  "perfect-storm-of-monsoon-session-comes-to-an-end": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "derail|lok sabha|mp|opposition|parliament|protest|protest|rajya sabha|scam|storm",
+    "norm": 88
   },
-  "several-workers-feared-trapped-as-tunnel-collapses-in-uttara": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "collapse|collapse|collapse|fear|khan",
-    "norm": 76.8
+  "u-p-minister-s-spelling-challenge-goes-viral-congress-hits-b": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "congress|minister|sharma|viral|viral|viral",
+    "norm": 83.2
   },
-  "pitbull-brutally-attacks-couple-viewing-rental-home-in-patia": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "attack|attack|brutal|cctv|outrage|video",
-    "norm": 75.1
+  "-land-mafia-meets-terror-chilling-plot-against-returning-kas": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "mp|rbi|terror|terror|threat",
+    "norm": 78.8
   },
-  "doctors-call-for-increased-organ-donation-in-kurnool": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "hospital|rally|rally|war",
+  "supreme-court-slams-fssai-for-not-introducing-front-of-pack-": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "row|slam|slams|supreme court|war|warning",
+    "norm": 76.3
+  },
+  "-crass-sexist-or-just-political-banter-sandeep-dikshit-s-mel": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "backlash|modi|modi|policy|rahul gandhi",
+    "norm": 73.6
+  },
+  "bci-withdraws-nalsar-enrolment-freeze-within-hours-says-all-": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "cji|neet|protest|protest",
     "norm": 72.9
   },
-  "what-trump-tariffs-russia-accounts-for-over-half-of-india-s-": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "bill|billion|mp|trump|trump",
-    "norm": 71.6
+  "parliament-protest-row-is-street-politics-replacing-democrat": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "opposition|parliament|protest|protest|row|war",
+    "norm": 72.8
   },
-  "27-stab-wounds-zero-cash-stolen-why-police-suspect-someone-k": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "exam|killed|killed",
+  "ambala-protest-turns-violent-cops-use-force-as-sikh-communit": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "protest|protest|terror|terror|war",
+    "norm": 72.5
+  },
+  "rahul-gandhi-moves-sc-against-fishing-inquiry-into-allegatio": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "fund|high court|ipl|rahul gandhi",
     "norm": 68
-  },
-  "nhai-sets-may-2027-deadline-for-six-laning-of-edappally-kodu": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "crore|dead|dead",
-    "norm": 67.6
-  },
-  "modi-government-rattled-by-opposition-unity-in-parliament-sa": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "bill|congress|modi|modi|opposition|parliament",
-    "norm": 65.1
-  },
-  "-i-m-game-dulquer-salmaan-starrer-out-of-onam-box-office-rac": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "clash|clash|film|star",
-    "norm": 64.9
-  },
-  "kashmiri-pandit-land-terror-and-the-mafia-property-claims-tr": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "terror|terror|threat",
-    "norm": 64.5
-  },
-  "up-polls-how-parties-are-vying-for-dalit-votes-amid-mayawati": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "congress|election|election|poll|vote",
-    "norm": 62.9
-  },
-  "sukhbir-badal-attacked-with-kirpan-at-nanded-gurdwara-sewada": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "attack|attack|war",
-    "norm": 62.9
-  },
-  "traffic-diversions-for-tiranga-rally-on-tank-bund": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "iran|rally|rally",
-    "norm": 62.8
-  },
-  "aidyo-seeks-extension-of-age-limit-by-five-years-in-teacher-": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "iran|mp|recruitment",
-    "norm": 62.5
-  },
-  "after-bengaluru-5-star-hotels-hospital-expired-items-stale-b": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "hospital|mp|star",
-    "norm": 62.5
-  },
-  "jharkhand-students-block-road-to-protest-headmaster-s-transf": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "khan|protest|protest",
-    "norm": 61.4
-  },
-  "new-jersey-restores-112-acres-with-50-000-native-trees-and-s": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "flood|flood|fund",
-    "norm": 61.1
-  },
-  "-no-nalsar-2026-graduate-will-be-advocate-bci-s-strong-stand": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "cji|mp|row",
-    "norm": 59.7
-  },
-  "bengal-revokes-bjp-mp-anant-maharaj-s-banga-bibhushan-after-": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "bjp|mp|war",
-    "norm": 59.7
-  },
-  "one-held-over-hoax-bomb-threat-to-train-in-kerala-s-kasarago": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "bomb|threat",
-    "norm": 59.3
-  },
-  "land-mafia-using-terror-groups-to-block-kashmiri-pandits-fro": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "terror|terror",
-    "norm": 57.6
   },
   "-what-if-all-legal-cockroaches-come-together-cjp-s-abhijeet-": {
     "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "cji|row",
-    "norm": 57.1
+    "signature": "cji|protest|protest|row",
+    "norm": 67.9
   },
-  "lock-up-death-police-complaints-authority-takes-suo-motu-cog": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "death|mp",
-    "norm": 57.1
+  "monsoon-session-fell-victim-to-rahul-gandhi-s-arrogance-indi": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "bjp|ipl|lok sabha|mp|opposition|parliament|rahul gandhi",
+    "norm": 65.3
   },
-  "vote-more-valuable-than-gold-ensure-it-s-not-lost-cm-on-sir-": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "gold|vote",
-    "norm": 57.1
+  "-uncultured-undignified-obscene-bjp-hits-back-at-rahul-gandh": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "amit shah|bjp|congress|modi|modi|rahul gandhi",
+    "norm": 65.1
   },
-  "veterinary-doc-dies-by-suicide-after-being-cheated-of-1-40cr": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "crore|fraud",
-    "norm": 57.1
+  "congress-seeks-fir-over-purification-ritual-at-mallikarjun-k": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "bjp|congress|khan|rally|rally|ruling",
+    "norm": 65
   },
-  "kerala-high-court-restores-foreign-funding-licence-of-2-ngos": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "fund|high court",
+  "ahead-of-punjab-polls-is-akali-dal-set-to-rejoin-nda-talking": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "bjp|election|election|poll",
+    "norm": 63.5
+  },
+  "amend-constitution-to-freeze-the-strength-of-the-lok-sabha-a": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "chief minister|lok sabha|minister|modi|modi|prime minister",
+    "norm": 63.4
+  },
+  "vande-mataram-to-be-sung-in-full-in-15-000-centres-across-ke": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "bjp|protest|protest",
+    "norm": 62.8
+  },
+  "kharge-alleges-caste-discrimination-over-haldwani-shuddhikar": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "congress|opposition|parliament|president|rajya sabha|rally|rally",
+    "norm": 60.4
+  },
+  "caste-based-discrimination-against-mallikarjun-kharge-condem": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "chief minister|khan|minister",
+    "norm": 56.1
+  },
+  "mosquitoes-stray-dogs-and-waste-trigger-heated-exchanges-in-": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "crore|opposition",
+    "norm": 55
+  },
+  "revised-alignment-of-outer-ring-road-project-in-kerala-s-thi": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "crore|mp",
     "norm": 53.2
   },
-  "delhi-metro-to-start-services-at-4-am-on-independence-day": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "defence|star",
+  "-actor-darshan-stood-on-his-chest-accomplice-s-tell-all-in-r": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "actor|mp",
     "norm": 51.7
   },
-  "chinese-incursion-arunachal-students-body-plans-to-hoist-nat": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "army|border",
-    "norm": 50.5
-  },
-  "bar-council-bars-enrolment-of-2026-nalsar-graduates-over-cam": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "cji|mp",
-    "norm": 50.5
-  },
-  "new-ration-cards-embedded-with-host-of-security-features": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
+  "call-for-a-shift-from-elephant-human-conflict-to-coexistence": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
     "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "devotees-flock-mahalakshmi-temples-on-first-day-of-sravanama": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "mp|vote",
-    "norm": 50.5
+  "how-ai-boom-helped-microsoft-keep-a-window-open-in-china-it-": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "china|mp",
+    "norm": 48.7
   },
-  "prajwal-revanna-gets-5g-phone-in-bengaluru-jail-vip-treatmen": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "controversy",
-    "norm": 46.3
+  "nagaland-s-nsf-asks-students-to-skip-i-day-events-over-vande": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "row",
+    "norm": 48.2
   },
-  "man-tied-to-pole-beaten-to-death-with-sticks-over-theft-susp": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "death",
-    "norm": 46.3
-  },
-  "15th-annual-blood-donation-camp-in-kalaburagi-on-august-15": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
+  "kochi-corporation-to-recommend-vigilance-probe-into-g-memori": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "karnataka-opens-power-transmission-sector-for-private-compan": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
+  "air-india-orders-drug-screening-for-all-pilots-after-ai-2379": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "kerala-congress-b-leader-ganesh-kumar-steps-up-criticism-of-": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
+  "cm-expresses-displeasure-over-party-s-handling-ongoing-sir": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
     "signature": "congress",
     "norm": 45.9
   },
-  "sacked-delhi-police-constable-held-for-killing-of-10-leopard": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "man-convicted-for-forgery-counterfeiting-govt-stamps-seals-i": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "up-teen-loses-rs-3-lakh-in-online-games-uses-ai-image-to-fak": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
+  "kerala-water-authority-to-hand-over-unused-kaloor-reservoir-": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
     "signature": "lakh",
     "norm": 44
   },
-  "observers-named-to-select-dcc-chiefs": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "",
-    "norm": 36
+  "cag-finds-98-shortfall-in-green-india-mission-forest-cover-t": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "iks-clubs-launched-to-educated-students-on-indian-heritage-c": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "",
-    "norm": 36
+  "iaf-starts-process-to-look-for-150-new-gen-jet-trainers-to-r": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "star",
+    "norm": 42.4
   },
-  "ntpc-organises-mass-rendition-of-vande-mataram-in-ramagundam": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "",
-    "norm": 36
+  "after-restoring-a-160-year-old-house-she-returned-history-to": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "bangladesh-turns-to-india-for-help-as-power-crisis-forces-8-": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
+  "sonam-wangchuk-s-pitch-for-india-s-2nd-independence-movement": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "kozhikode-medical-college-ranked-first-in-kerala-20th-nation": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
-    "signature": "",
-    "norm": 36
-  },
-  "connecticut-woman-donated-island-in-husband-s-memory-to-prot": {
-    "firstSeen": "2026-08-13T15:10:03.237Z",
+  "shops-in-kadavanthra-fined-6-500-in-food-safety-drive": {
+    "firstSeen": "2026-08-13T17:07:53.965Z",
     "signature": "",
     "norm": 33.9
   }
