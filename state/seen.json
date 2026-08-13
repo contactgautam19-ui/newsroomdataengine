@@ -1,166 +1,226 @@
 {
-  "pm-modi-calls-harsimrat-kaur-badal-after-attack-on-sukhbir-b": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "attack|attack|minister|modi|modi|prime minister|row",
-    "norm": 86.3
+  "2-failed-attempts-then-death-delhi-man-killed-for-harassing-": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "attack|attack|death|killed|killed|mp",
+    "norm": 79.9
   },
-  "delhi-gymkhana-club-eviction-threat-army-veterans-seek-pm-mo": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "army|controversy|khan|minister|modi|modi|mp|prime minister|threat",
-    "norm": 84.6
-  },
-  "-we-can-drive-them-crazy-rahul-gandhi-says-pm-modi-does-not-": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "modi|modi|protest|protest|rahul gandhi",
+  "several-workers-feared-trapped-as-tunnel-collapses-in-uttara": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "collapse|collapse|collapse|fear|khan",
     "norm": 76.8
   },
-  "air-india-phuket-delhi-flight-horror-aaib-probe-report-may-r": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "accident|exam|horror",
+  "pitbull-brutally-attacks-couple-viewing-rental-home-in-patia": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "attack|attack|brutal|cctv|outrage|video",
+    "norm": 75.1
+  },
+  "doctors-call-for-increased-organ-donation-in-kurnool": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "hospital|rally|rally|war",
+    "norm": 72.9
+  },
+  "what-trump-tariffs-russia-accounts-for-over-half-of-india-s-": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "bill|billion|mp|trump|trump",
+    "norm": 71.6
+  },
+  "27-stab-wounds-zero-cash-stolen-why-police-suspect-someone-k": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "exam|killed|killed",
     "norm": 68
   },
-  "protests-demanding-drinking-water-bjp-urges-tvk-led-govt-to-": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "bjp|protest|protest|war",
-    "norm": 67.9
-  },
-  "unsc-sanctions-report-says-red-fort-attack-officially-attrib": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "attack|attack|sanction",
+  "nhai-sets-may-2027-deadline-for-six-laning-of-edappally-kodu": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "crore|dead|dead",
     "norm": 67.6
   },
-  "haryana-man-stabbed-to-death-in-germany-served-in-french-arm": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "army|death|lakh",
-    "norm": 65.6
+  "modi-government-rattled-by-opposition-unity-in-parliament-sa": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "bill|congress|modi|modi|opposition|parliament",
+    "norm": 65.1
   },
-  "pickup-van-driver-21-found-dead-in-vehicle-near-mussoorie-ut": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "dead|dead|khan",
-    "norm": 64.6
+  "-i-m-game-dulquer-salmaan-starrer-out-of-onam-box-office-rac": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "clash|clash|film|star",
+    "norm": 64.9
   },
-  "-you-all-got-answers-now-cjp-s-abhijeet-dipke-backs-madhya-p": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "minister|protest|protest|video",
-    "norm": 63.9
+  "kashmiri-pandit-land-terror-and-the-mafia-property-claims-tr": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "terror|terror|threat",
+    "norm": 64.5
   },
-  "turban-came-off-re-tied-moment-sukhbir-badal-s-attacker-was-": {
-    "firstSeen": "2026-08-13T11:56:04.672Z",
-    "signature": "attack|attack",
+  "up-polls-how-parties-are-vying-for-dalit-votes-amid-mayawati": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "congress|election|election|poll|vote",
+    "norm": 62.9
+  },
+  "sukhbir-badal-attacked-with-kirpan-at-nanded-gurdwara-sewada": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "attack|attack|war",
+    "norm": 62.9
+  },
+  "traffic-diversions-for-tiranga-rally-on-tank-bund": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "iran|rally|rally",
+    "norm": 62.8
+  },
+  "aidyo-seeks-extension-of-age-limit-by-five-years-in-teacher-": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "iran|mp|recruitment",
+    "norm": 62.5
+  },
+  "after-bengaluru-5-star-hotels-hospital-expired-items-stale-b": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "hospital|mp|star",
+    "norm": 62.5
+  },
+  "jharkhand-students-block-road-to-protest-headmaster-s-transf": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "khan|protest|protest",
+    "norm": 61.4
+  },
+  "new-jersey-restores-112-acres-with-50-000-native-trees-and-s": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "flood|flood|fund",
+    "norm": 61.1
+  },
+  "-no-nalsar-2026-graduate-will-be-advocate-bci-s-strong-stand": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "cji|mp|row",
+    "norm": 59.7
+  },
+  "bengal-revokes-bjp-mp-anant-maharaj-s-banga-bibhushan-after-": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "bjp|mp|war",
+    "norm": 59.7
+  },
+  "one-held-over-hoax-bomb-threat-to-train-in-kerala-s-kasarago": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "bomb|threat",
+    "norm": 59.3
+  },
+  "land-mafia-using-terror-groups-to-block-kashmiri-pandits-fro": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "terror|terror",
     "norm": 57.6
   },
-  "telangana-school-principal-found-dead-at-home-with-27-stab-w": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "dead|dead",
-    "norm": 57.6
+  "-what-if-all-legal-cockroaches-come-together-cjp-s-abhijeet-": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "cji|row",
+    "norm": 57.1
   },
-  "onion-procurement-lags-after-system-overhaul": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "price|prices|star",
-    "norm": 56.1
+  "lock-up-death-police-complaints-authority-takes-suo-motu-cog": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "death|mp",
+    "norm": 57.1
   },
-  "haldwani-purification-row-the-little-known-group-at-the-cent": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "bjp|row",
-    "norm": 55.4
+  "vote-more-valuable-than-gold-ensure-it-s-not-lost-cm-on-sir-": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "gold|vote",
+    "norm": 57.1
   },
-  "-10-20-crore-sanctioned-to-strengthen-education-health-infra": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "crore|sanction",
-    "norm": 55
-  },
-  "apcrda-hands-over-residential-complex-for-mlas-and-mlcs-in-a": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "chief minister|minister|mla|mp",
-    "norm": 53.9
-  },
-  "ysrcp-seeks-halt-to-mining-activities-near-panchadarla-herit": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "bill|mp|parliament|rajya sabha",
-    "norm": 53.9
+  "veterinary-doc-dies-by-suicide-after-being-cheated-of-1-40cr": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "crore|fraud",
+    "norm": 57.1
   },
   "kerala-high-court-restores-foreign-funding-licence-of-2-ngos": {
     "firstSeen": "2026-08-13T13:39:05.425Z",
     "signature": "fund|high court",
     "norm": 53.2
   },
-  "mizoram-nagaland-cms-welcome-centre-s-move-sending-fcra-bill": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "bill|parliament",
+  "delhi-metro-to-start-services-at-4-am-on-independence-day": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "defence|star",
+    "norm": 51.7
+  },
+  "chinese-incursion-arunachal-students-body-plans-to-hoist-nat": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "army|border",
     "norm": 50.5
   },
-  "kerala-minister-visits-pareeksha-bhavan-in-wake-of-complaint": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "minister|mp",
+  "bar-council-bars-enrolment-of-2026-nalsar-graduates-over-cam": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "cji|mp",
     "norm": 50.5
   },
-  "former-chief-minister-siddaramaiah-skips-first-day-s-session": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
+  "new-ration-cards-embedded-with-host-of-security-features": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
     "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "hdpt-chief-calls-for-conservation-of-gundlakamma-river": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "war",
-    "norm": 48.2
+  "devotees-flock-mahalakshmi-temples-on-first-day-of-sravanama": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "mp|vote",
+    "norm": 50.5
   },
-  "christian-council-hails-referring-fcra-amendment-bill-to-jpc": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "bill",
-    "norm": 45.9
+  "prajwal-revanna-gets-5g-phone-in-bengaluru-jail-vip-treatmen": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "controversy",
+    "norm": 46.3
   },
-  "pollution-control-board-urges-eco-friendly-gowri-ganesha-cel": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "poll",
-    "norm": 45.9
+  "man-tied-to-pole-beaten-to-death-with-sticks-over-theft-susp": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "death",
+    "norm": 46.3
   },
-  "strict-safety-norms-for-tourist-boats-at-berm-park-in-vijaya": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
+  "15th-annual-blood-donation-camp-in-kalaburagi-on-august-15": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "chittoor-collector-directs-officials-to-address-drinking-wat": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
+  "karnataka-opens-power-transmission-sector-for-private-compan": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "kerala-congress-b-leader-ganesh-kumar-steps-up-criticism-of-": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "congress",
+    "norm": 45.9
+  },
+  "sacked-delhi-police-constable-held-for-killing-of-10-leopard": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "man-convicted-for-forgery-counterfeiting-govt-stamps-seals-i": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "up-teen-loses-rs-3-lakh-in-online-games-uses-ai-image-to-fak": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
+    "signature": "lakh",
     "norm": 44
   },
-  "here-are-the-big-stories-from-karnataka-today": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
+  "observers-named-to-select-dcc-chiefs": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
     "signature": "",
     "norm": 36
   },
-  "revenue-department-set-to-cancel-illegal-land-titles-in-waga": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
+  "iks-clubs-launched-to-educated-students-on-indian-heritage-c": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
     "signature": "",
     "norm": 36
   },
-  "first-multilingual-indian-speech-recognition-model-trained-o": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
+  "ntpc-organises-mass-rendition-of-vande-mataram-in-ramagundam": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
     "signature": "",
     "norm": 36
   },
-  "real-estate-agents-held-with-11-7-kg-ganja-in-hyderabad": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
+  "bangladesh-turns-to-india-for-help-as-power-crisis-forces-8-": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
     "signature": "",
     "norm": 36
   },
-  "bengaluru-alumni-of-mahila-seva-samaja-gift-science-kits-to-": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
+  "kozhikode-medical-college-ranked-first-in-kerala-20th-nation": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
     "signature": "",
     "norm": 36
   },
-  "air-india-to-undertake-full-screening-of-its-pilots-for-proh": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "",
-    "norm": 36
-  },
-  "hyderabad-police-to-auction-2-193-abandoned-vehicles": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "sukhbir-singh-badal-education-qualification-from-ma-in-econo": {
-    "firstSeen": "2026-08-13T13:39:05.425Z",
+  "connecticut-woman-donated-island-in-husband-s-memory-to-prot": {
+    "firstSeen": "2026-08-13T15:10:03.237Z",
     "signature": "",
     "norm": 33.9
   }
