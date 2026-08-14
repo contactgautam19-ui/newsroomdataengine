@@ -1,221 +1,116 @@
 {
-  "can-rahul-gandhi-succeed-in-turning-the-pappu-narrative-on-p": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "attack|attack|congress|election|election|lok sabha|modi|modi|mp|rahul gandhi",
-    "norm": 87.9
-  },
-  "oracle-layoffs-managers-asked-to-pick-employees-to-fire-befo": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "bill|fire|fire|jobs|layoff|layoffs|mp",
-    "norm": 79.1
-  },
-  "musician-offers-free-hugs-to-ease-pain-of-colombia-earthquak": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "devastat|earthquake|earthquake|injured|killed|killed",
-    "norm": 75.8
-  },
-  "-it-s-a-device-to-team-trump-on-giving-electric-shock-gloves": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "mp|shock|shock|trump|trump",
+  "-chhichhora-devendra-fadnavis-tears-into-rahul-gandhi-demand": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "congress|minister|modi|modi|policy|prime minister|rahul gandhi|slam",
     "norm": 75.3
   },
-  "sukhbir-badal-discharged-from-nanded-hospital-a-day-after-at": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "attack|attack|chief minister|hospital|minister",
-    "norm": 75
+  "upst-rank-holders-association-in-kerala-calls-off-secretaria": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "exam|minister|mp|protest|protest",
+    "norm": 75.3
   },
-  "telecasting-gurbani-for-genuine-religious-purpose-not-copyri": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "deal|gold|mp|war",
-    "norm": 74
+  "bidadi-township-row-governor-thawar-chand-gehlot-assures-far": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "governor|protest|protest|row|war",
+    "norm": 70.5
   },
-  "weather-today-live-updates-delhi-gets-heavy-rain-thunderstor": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "alert|heavy rain|khan|storm|weather",
-    "norm": 73.8
+  "congress-has-shown-anti-women-attitude-by-keeping-them-out-o": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "bjp|congress|minister|opposition|protest|protest",
+    "norm": 68.4
   },
-  "colorado-expands-habitat-protection-for-endangered-preble-s-": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "anger|flood|flood|mp",
-    "norm": 71.4
+  "from-safed-sagar-to-sindoor-renaissance-of-indian-airpower": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "air force|fuel|mp|war",
+    "norm": 68
   },
-  "how-iran-used-the-ukraine-war-learnings-against-us-air-defen": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "defence|iran|riot|war",
-    "norm": 71
+  "-declassified-op-sindoor-ajit-doval-s-big-message-to-pakista": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "pakistan|terror|terror",
+    "norm": 66
   },
-  "-attempt-to-kill-what-fir-in-sukhbir-singh-badal-case-reveal": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "attack|attack|mp|war",
-    "norm": 71
+  "-deeply-flawed-approach-abvp-slams-bar-council-directive-aga": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "rbi|slam|slams",
+    "norm": 62.5
   },
-  "stock-market-highlights-sensex-today-sensex-nifty-settle-fla": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "mp|nifty|price|prices|sensex|stock market",
-    "norm": 63
-  },
-  "iran-prez-to-visit-india-for-brics-summit-amid-middle-east-t": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "brics|iran|minister|summit",
-    "norm": 61.8
-  },
-  "iran-president-masoud-pezeshkian-to-travel-to-delhi-for-bric": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "brics|iran|president|summit",
-    "norm": 61.8
-  },
-  "independence-day-2026-pm-modi-speech-where-to-watch-live-tim": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "modi|modi|watch",
-    "norm": 61.1
-  },
-  "manav-suthar-the-all-weather-finger-spinner-india-needs-afte": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "cricket|mp|weather",
-    "norm": 60.8
-  },
-  "nigel-farage-defeats-garbage-can-to-win-uk-s-widely-mocked-e": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "election|election|vote",
-    "norm": 59.7
-  },
-  "us-uk-ireland-sevenfold-spike-in-attacks-on-indians-abroad-i": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "attack|attack",
-    "norm": 57.6
-  },
-  "indians-and-pakistanis-view-each-other-as-greatest-threat-su": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "pakistan|threat",
+  "four-held-for-attempt-to-murder-businessman-by-blast-in-car-": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "blast|mp",
     "norm": 57.1
   },
-  "-child-surviving-on-streets-can-t-delhi-hc-upholds-convictio": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
+  "what-is-viksit-bharat-2047-pm-modi-s-vision-for-india-explai": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
     "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "supreme-court-quashes-criminal-proceedings-against-comedian-": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "supreme court|war",
+    "norm": 57.1
+  },
+  "eggs-thrown-at-ex-tmc-mla-nirmal-ghosh-after-arrest-over-hur": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "mla|row",
     "norm": 55.4
   },
-  "supreme-court-quashes-all-firs-against-standup-comedian-sama": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "row|supreme court",
+  "allegations-of-religious-conversion-pressure-emerge-in-delhi": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "mp|slam",
     "norm": 55.4
   },
-  "ed-raids-multiple-delhi-ncr-locations-in-builder-bank-nexus-": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "investor|ipl",
+  "-baseless-chhattisgarh-ips-officer-on-1-cr-bribery-charge-in": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "fraud|mp",
     "norm": 55.4
   },
-  "opinion-the-coast-pays-delhi-collects-what-the-centre-s-mine": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "bill|tax",
-    "norm": 53.2
-  },
-  "kharge-seeks-govt-answers-over-alleged-increased-chinese-act": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "border|china|mp",
+  "supreme-court-dismisses-plea-against-a-p-hc-order-quashing-l": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "cji|minister|supreme court",
     "norm": 52.7
   },
-  "-astronauts-land-on-road-craters-over-100-jaipur-residents-s": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "dmk-likely-to-increase-district-units-to-over-100-as-part-of": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "mp|president",
+  "bjp-mp-apologises-for-remarks-on-netaji-after-booked-by-beng": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "bjp|mp",
     "norm": 50.5
   },
-  "kerala-launches-my-police-station-project-to-enhance-citizen": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
+  "nearly-one-in-two-adults-in-andhra-pradesh-overweight-says-h": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
     "signature": "chief minister|minister",
     "norm": 48.7
   },
-  "tasmac-irregularities-case-madras-high-court-reserves-orders": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "high court|verdict",
+  "kerala-s-congress-mla-c-r-mahesh-apologises-for-seat-belt-vi": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "congress|mla",
     "norm": 48.7
   },
-  "congress-leaders-failed-to-function-revanth-reddy-says-21-te": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "congress|vote",
-    "norm": 48.7
-  },
-  "tricolour-flies-high-near-lac-as-arunachal-villages-hold-tir": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "iran",
-    "norm": 46.3
-  },
-  "jaipur-class-12-student-dies-after-eating-canteen-patty-fami": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "nhrc-issues-notice-to-home-ministry-over-suicide-cases-among": {
-    "firstSeen": "2026-08-14T08:24:09.461Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "india-in-u-s-crosshairs-again-white-house-report-cites-count": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "china",
-    "norm": 45.9
-  },
-  "independence-day-2026-where-am-i-from-the-complicated-meanin": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
+  "noida-teen-kills-father-jumps-before-metro-train-hours-later": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "-genuine-efforts-supreme-court-drops-criminal-cases-against-": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "supreme court",
-    "norm": 45.9
+  "dance-coffee-shower-thief-spends-hours-chilling-inside-showr": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "cctv|footage|video",
+    "norm": 45.5
   },
-  "sprite-tejas-express-why-this-train-is-getting-a-brand-name-": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "deal",
-    "norm": 44
-  },
-  "kerala-bjp-seeks-cbi-probe-into-alleged-irregularities-in-pr": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "bjp",
-    "norm": 44
-  },
-  "drug-kingpin-wanted-in-rs-13-000-crore-drug-case-extradited-": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "crore",
-    "norm": 44
-  },
-  "tata-steel-sells-jamshedpur-football-club-for-just-rs-100-be": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "who-is-virender-singh-basoya-the-mastermind-of-multi-crore-d": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "crore",
-    "norm": 44
-  },
-  "madras-high-court-to-play-vande-mataram-before-national-anth": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
+  "expert-body-formed-to-protect-thamaraikani-tank-in-sholingan": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
     "signature": "high court",
     "norm": 44
   },
-  "man-allegedly-kills-father-injures-aunt-in-chittoor-district": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
+  "two-temples-in-mp-celebrated-india-s-independence-day-on-aug": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "elderly-couple-who-used-to-sell-milk-went-missing-then-their": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
     "signature": "",
     "norm": 36
   },
-  "new-york-aquarium-study-suggests-beluga-whales-may-recognise": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "bullet-hits-suv-parked-outside-ex-akal-takht-jathedar-giani-": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "waiting-for-your-flight-these-indian-airports-let-you-pick-a": {
-    "firstSeen": "2026-08-14T10:13:57.075Z",
+  "independence-day-flag-hoisting-guide-dos-and-don-ts-every-in": {
+    "firstSeen": "2026-08-14T11:53:04.627Z",
     "signature": "",
     "norm": 33.9
   }
