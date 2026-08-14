@@ -1,122 +1,82 @@
 {
-  "-far-more-disturbing-than-mere-locker-room-conversation-bjp-": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "attack|attack|bjp|congress|minister|modi|modi|policy|prime minister|rahul gandhi|rbi|row",
-    "norm": 96.7
+  "sukhbir-singh-badal-attack-news-sukhbir-badal-discharge-toda": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "anger|attack|attack|hospital|injured|maharashtra|mp",
+    "norm": 87.7
   },
-  "-gambhir-a-fantastic-coach-kirsten-backs-under-fire-india-co": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "fan|fire|fire|mp|record|row",
-    "norm": 84.4
+  "harsimrat-badal-deeply-touched-by-pm-modi-s-kind-gesture-aft": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "attack|attack|modi|modi",
+    "norm": 75.9
   },
-  "4-dead-as-unprecedented-rain-floods-japan-strands-thousands-": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "dead|dead|flood|flood|floods|unprecedented",
-    "norm": 77.6
+  "sukhbir-singh-badal-attacked-how-inspector-santosh-kendre-sa": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "attack|attack|mp",
+    "norm": 66
   },
-  "supreme-court-slams-fssai-for-not-introducing-front-of-pack-": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "row|slam|slams|supreme court|war|warning",
-    "norm": 74.7
+  "3-workers-remain-trapped-as-rescue-ops-continue-at-uttarakha": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "evacuat|khan|rescue|rescue",
+    "norm": 65
   },
-  "-foreign-policy-all-about-hugging-rahul-gandhi-s-jibe-at-mod": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "congress|modi|modi|policy|rahul gandhi|row",
-    "norm": 73
+  "after-justice-varma-s-resignation-ls-speaker-asked-panel-to-": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "lok sabha|mp|record",
+    "norm": 54.7
   },
-  "oil-prices-today-crude-edges-higher-as-us-iran-tensions-revi": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "iran|price|prices|threat",
-    "norm": 71.6
+  "shillong-teer-result-today-august-14-2026-check-winning-numb": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "khan|result",
+    "norm": 53.9
   },
-  "trump-orders-navy-to-return-to-older-system-of-launching-jet": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "bill|billion|mp|navy|trump|trump",
-    "norm": 71
-  },
-  "objection-to-chief-guest-big-bar-council-order-then-a-u-turn": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "cji|protest|protest|row|threat",
-    "norm": 70.5
-  },
-  "minerals-belong-to-jharkhand-land-belongs-to-jharkhand-cm": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "bill|chief minister|khan|minister|tax",
-    "norm": 68.3
-  },
-  "7-killed-3-trapped-as-water-debris-enter-tunnel-in-uttarakha": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "khan|killed|killed",
-    "norm": 64.6
-  },
-  "weather-today-delhi-ncr-braces-for-heavy-rain-cloud-cover-li": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "heavy rain|weather",
-    "norm": 57.6
-  },
-  "exclusive-for-4-seconds-air-india-phuket-delhi-plane-had-no-": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "war|warning",
-    "norm": 57.6
-  },
-  "india-s-global-image-loved-in-sri-lanka-divided-in-us-reject": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "pakistan|war",
-    "norm": 57.1
-  },
-  "air-india-flight-lost-300-ft-after-triple-hydraulic-failure-": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "ipl|sudden",
-    "norm": 52.4
-  },
-  "eye-on-rss-karnataka-cabinet-clears-bill-to-curb-events-at-p": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "bill|cabinet",
+  "india-secures-return-of-fugitive-drug-kingpin-virender-singh": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "amit shah|minister",
     "norm": 48.7
   },
-  "how-to-attend-independence-day-parade-in-delhi-step-by-step-": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "minister|prime minister",
-    "norm": 48.7
-  },
-  "-no-role-in-disturbance-bar-council-drops-proceedings-agains": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "backlash",
-    "norm": 48.2
-  },
-  "gen-z-not-making-big-lifestyle-purchases-spends-just-5-on-tr": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "row",
-    "norm": 48.2
-  },
-  "intrigue-around-the-galle-pitch-but-india-likely-to-opt-for-": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "new-aircraft-carrier-heads-to-middle-east-amid-reports-of-us": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
+  "independence-day-2026-1-057-personnel-awarded-gallantry-serv": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
     "signature": "war",
     "norm": 46.3
   },
-  "-shadow-trans-shipment-network-us-flags-india-as-tier-1-hub-": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "china",
+  "rs-6-000-crore-drug-case-kingpin-virender-baisoya-brought-to": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "crore",
     "norm": 45.9
   },
-  "contribution-of-syama-prasad-to-be-included-in-school-textbo": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "bjp",
-    "norm": 45.9
+  "from-uttarakhand-s-silkyara-to-sikkim-s-namchi-major-tunnel-": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "khan",
+    "norm": 44.3
   },
-  "india-needs-a-peaceful-revolution-sonam-wangchuk": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
-    "signature": "",
-    "norm": 36
+  "independence-day-2026-vande-mataram-full-lyrics-in-english-a": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "boeing-s-broken-engine-parts-hit-ryanair-jet-window-before-m": {
-    "firstSeen": "2026-08-14T02:39:24.509Z",
+  "centre-s-rs-3-000-crore-mega-chemical-park-push-at-least-7-s": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "google-unveils-gemini-3-7-flash-ai-model-for-coding-agent-wo": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
+  },
+  "mobile-phone-in-prajwal-revanna-s-prison-cell-several-phone-": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "nalsar-s-executive-council-to-decide-whether-bci-sought-inqu": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "madras-day-where-chennai-falls-in-love": {
+    "firstSeen": "2026-08-14T04:57:42.941Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
