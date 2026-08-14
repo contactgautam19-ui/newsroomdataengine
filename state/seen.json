@@ -1,56 +1,31 @@
 {
-  "-threats-against-kashmiri-pandits-shouldn-t-be-taken-lightly": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "mp|pakistan|terror|terror|threat",
-    "norm": 76.5
+  "-govt-taking-steps-for-exam-reforms-prez-murmu-s-first-react": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "exam|mp|president|protest|protest",
+    "norm": 75.3
   },
-  "-i-ask-parents-of-terrorists-maoists-pm-modi-s-first-indepen": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "modi|modi|terror|terror",
-    "norm": 75.9
+  "news-this-week-n-chandrasekaran-s-tata-sons-exit-stormy-mons": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "attack|attack|parliament|storm",
+    "norm": 71
   },
-  "payment-of-500-a-quintal-bonus-for-fine-rice-varieties-to-co": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "cabinet|diesel|lakh|petrol|petrol",
-    "norm": 71.6
-  },
-  "four-die-of-asphyxiation-after-inhaling-toxic-gas-inside-wel": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "chief minister|grief|lakh|minister",
+  "karnataka-releases-170-crore-towards-pending-salaries-of-tra": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "crore|minister|mp|war",
     "norm": 69.6
   },
-  "3-still-trapped-in-uttarakhand-tunnel-rescuers-battle-rain-t": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "khan|rescue|rescue|sudden|suddenly",
-    "norm": 68
+  "trump-and-musk-have-now-turned-their-bitter-feud-into-a-100-": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "alliance|congress|election|election|mp|trump|trump|vote",
+    "norm": 68.8
   },
-  "india-s-forex-reserves-climb-to-707-billion-mark-14-1-billio": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "bill|billion|gold|mp",
-    "norm": 68
+  "murder-case-accused-found-dead-in-kozhikode": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "dead|dead|death",
+    "norm": 64.5
   },
-  "independence-day-2026-live-streaming-when-and-where-to-watch": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "ipl|modi|modi|watch",
-    "norm": 67.9
-  },
-  "nalsar-row-can-bci-freeze-enrolment-of-an-entire-graduating-": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "modi|modi|row",
-    "norm": 67.6
-  },
-  "22-injured-as-bus-carrying-faridabad-tourists-falls-into-gor": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "hospital|injured|khan|rescue|rescue",
-    "norm": 67.5
-  },
-  "-declassified-op-sindoor-ajit-doval-s-big-message-to-pakista": {
-    "firstSeen": "2026-08-14T11:53:04.627Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 66
-  },
-  "youth-found-dead-police-suspect-link-to-girl-s-death": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
+  "arab-woman-tourist-found-dead-in-kozhikode-hotel": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
     "signature": "dead|dead|death",
     "norm": 64.5
   },
@@ -59,164 +34,159 @@
     "signature": "death|killed|killed",
     "norm": 62.9
   },
-  "karnataka-bjp-mla-s-daughter-slaps-woman-police-officer-case": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "bjp|mla|mp|war",
-    "norm": 61.8
+  "mumbai-man-killed-after-being-run-over-by-bike-following-hea": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "killed|killed|war",
+    "norm": 62.9
   },
-  "teen-girl-found-dead-in-kochi-after-being-allegedly-scolded-": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "dead|dead",
-    "norm": 59.3
+  "sir-spotlights-identity-crisis-among-women-from-other-states": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "election|election|vote",
+    "norm": 61.4
   },
-  "gelatin-sticks-crude-bombs-among-large-cache-of-explosives-s": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "bomb|mp",
+  "ncp-s-zeeshan-siddique-gets-death-threat-over-phone-lodges-c": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "death|mp|threat",
+    "norm": 60.8
+  },
+  "80-years-on-still-enemy-no-1-what-indians-and-pakistanis-thi": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "border|pakistan|threat",
+    "norm": 59.7
+  },
+  "president-murmu-s-independence-day-speech-2026-youth-exams-o": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "exam|president",
+    "norm": 57.1
+  },
+  "seediri-appala-raju-released-from-jail-as-sompeta-court-gran": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "accident|mp",
+    "norm": 57.1
+  },
+  "india-moving-towards-viksit-bharat-by-2047-says-president-mu": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "president|war",
+    "norm": 57.1
+  },
+  "army-gallantry-awards-3-army-personnel-get-kirti-chakra-10-r": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "army|war",
     "norm": 55.4
   },
-  "gautam-adani-wants-a-big-business-leader-in-every-city-rajee": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "adani|khan|mp",
-    "norm": 55.4
-  },
-  "reliance-rolls-royce-amca-deal-india-s-first-sovereign-comba": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "deal|defence",
+  "president-murmu-on-indus-water-treaty-suspension-decisive-st": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "crore|president",
     "norm": 55
   },
-  "cooperative-forums-of-shivamogga-to-stage-protests-opposing-": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "protest|protest",
+  "new-initiative-for-scientific-flood-mitigation-in-kerala": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "flood|flood",
     "norm": 54.2
   },
-  "reliance-rolls-royce-partner-to-develop-engine-for-india-s-f": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "mp|rbi",
-    "norm": 53.2
+  "rahul-gandhi-gets-lok-sabha-privileges-panel-notice-over-rem": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "amit shah|lok sabha|mp|parliament|rahul gandhi",
+    "norm": 52.6
   },
-  "bjp-seeks-zameer-s-sacking-over-decision-to-skip-flag-hoisti": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "bjp|chief minister|minister",
-    "norm": 52.7
+  "apjuda-members-stage-protest-demanding-stipend-hike-in-ongol": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "supreme-court-quashes-hate-speech-case-against-rahul-gandhi-": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "mp|rahul gandhi|sanction|supreme court",
+  "-my-remarks-misused-with-malicious-intent-chief-justice-on-c": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "backlash|row",
     "norm": 52.1
   },
-  "uttar-pradesh-women-to-get-rs-50-000-yogi-govt-s-proposed-pr": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "poll|yogi",
+  "sc-st-commission-has-no-power-to-adjudicate-land-disputes-or": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "high court|record",
+    "norm": 52
+  },
+  "dss-condemns-purification-ceremony-at-haldwani-ramlila-groun": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "rally|rally",
+    "norm": 52
+  },
+  "saleem-ahmed-elected-new-karnataka-legislative-council-chair": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "bjp|congress",
     "norm": 50.5
   },
-  "dmk-likely-to-increase-district-units-to-over-100-as-part-of": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "mp|president",
+  "bigger-than-sanchi-ujjain-may-be-sitting-on-2-200-year-old-b": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "mp|mystery",
+    "norm": 50.2
+  },
+  "karnataka-cabinet-clears-bill-to-regulate-private-organisati": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "bill|cabinet",
     "norm": 48.7
   },
-  "bjp-mp-apologises-for-remarks-on-netaji-after-booked-by-beng": {
-    "firstSeen": "2026-08-14T11:53:04.627Z",
-    "signature": "bjp|mp",
-    "norm": 48.7
+  "-clean-kalaburagi-is-a-shared-responsibility-mayor-varsha-ja": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "riot",
+    "norm": 48.2
   },
-  "from-space-with-friendship-russian-cosmonauts-salute-india-o": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "record|video",
-    "norm": 47.1
+  "documentary-on-partition-horrors-screened-at-regional-scienc": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "horror",
+    "norm": 48.2
   },
-  "woman-kills-ex-husband-with-griddle-after-argument-in-luckno": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "exam",
+  "sbi-loan-fraud-case-man-who-escaped-police-custody-in-2025-h": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "fraud",
+    "norm": 48.2
+  },
+  "kerala-raises-caregiver-assistance-under-ashwasakiranam-sche": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "iran",
     "norm": 46.3
   },
-  "people-regret-voting-for-the-tvk-says-former-minister-thanga": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "president-droupadi-murmu-to-address-nation-shortly-ahead-of-": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
+  "in-a-first-president-droupadi-murmu-s-independence-day-speec": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
     "signature": "president",
     "norm": 45.9
   },
-  "morphine-worth-rs-5-crore-seized-after-encounter-in-up-5-arr": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "crore",
-    "norm": 44
-  },
-  "karnataka-opens-power-transmission-sector-for-private-compan": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
+  "epfo-s-mysuru-regional-office-launches-enrolment-campaign": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "-india-can-hit-hard-doval-recalls-op-sindoor-says-our-genero": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
+  "-over-250-million-people-lifted-out-of-poverty-president-mur": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "president",
+    "norm": 45.9
+  },
+  "expert-body-formed-to-protect-thamaraikani-tank-in-sholingan": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
+    "signature": "high court",
+    "norm": 45.9
+  },
+  "new-annadanam-and-laddu-facilities-to-open-on-august-21-at-d": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "youth-arrested-in-kalaburagi-over-alleged-links-with-pakista": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "pakistan",
-    "norm": 44
-  },
-  "despite-its-reputation-india-s-per-unit-space-launch-cost-hi": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "dressed-as-astronauts-residents-step-into-potholes-say-jaipu": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "video",
-    "norm": 40.7
-  },
-  "cicily-joseph-to-be-acting-chairperson-of-child-rights-panel": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
+  "golconda-roads-shut-parking-restrictions-for-independence-da": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
     "signature": "",
     "norm": 36
   },
-  "constable-hailed-for-helping-needy-tribals-in-parvatipuram": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
+  "dolby-vision-2-hdr-can-work-on-existing-4k-blu-ray-players-b": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
     "signature": "",
     "norm": 36
   },
-  "rights-panel-orders-officials-to-ensure-safety-measures-arou": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
+  "independence-day-2026-celebrations-at-red-fort-vande-mataram": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
     "signature": "",
     "norm": 36
   },
-  "drug-kingpin-virender-singh-basoya-brought-back-to-india-fro": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
+  "ancient-coins-to-modern-notes-mysuru-expo-traces-india-s-cur": {
+    "firstSeen": "2026-08-14T15:03:19.413Z",
     "signature": "",
     "norm": 36
-  },
-  "-beginning-of-another-how-hindustan-times-reported-freedom-o": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "4-die-after-inhaling-toxic-gas-inside-well-in-bihar-s-gaya": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-tryst-with-destiny-10-things-nehru-said-in-india-s-first-in": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "class-8-boy-dragged-25-metres-under-car-in-kanpur-driver-fle": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "reliance-industries-rolls-royce-partner-to-make-engine-for-i": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "reliance-industries-rolls-royce-partner-to-develop-indigenou": {
-    "firstSeen": "2026-08-14T13:35:06.262Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
