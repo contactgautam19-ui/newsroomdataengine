@@ -1,32 +1,122 @@
 {
-  "two-arrested-after-muslim-man-dies-following-alleged-assault": {
-    "firstSeen": "2026-08-13T23:53:00.913Z",
-    "signature": "accident|death|died|war",
-    "norm": 65.5
+  "-far-more-disturbing-than-mere-locker-room-conversation-bjp-": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "attack|attack|bjp|congress|minister|modi|modi|policy|prime minister|rahul gandhi|rbi|row",
+    "norm": 96.7
   },
-  "jewar-mla-hits-back-at-opposition-over-criticism-of-water-lo": {
-    "firstSeen": "2026-08-13T23:53:00.913Z",
-    "signature": "mla|opposition|video|war",
-    "norm": 65.3
+  "-gambhir-a-fantastic-coach-kirsten-backs-under-fire-india-co": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "fan|fire|fire|mp|record|row",
+    "norm": 84.4
   },
-  "7-killed-2-trapped-as-water-debris-enter-tunnel-in-uttarakha": {
-    "firstSeen": "2026-08-13T23:53:00.913Z",
+  "4-dead-as-unprecedented-rain-floods-japan-strands-thousands-": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "dead|dead|flood|flood|floods|unprecedented",
+    "norm": 77.6
+  },
+  "supreme-court-slams-fssai-for-not-introducing-front-of-pack-": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "row|slam|slams|supreme court|war|warning",
+    "norm": 74.7
+  },
+  "-foreign-policy-all-about-hugging-rahul-gandhi-s-jibe-at-mod": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "congress|modi|modi|policy|rahul gandhi|row",
+    "norm": 73
+  },
+  "oil-prices-today-crude-edges-higher-as-us-iran-tensions-revi": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "iran|price|prices|threat",
+    "norm": 71.6
+  },
+  "trump-orders-navy-to-return-to-older-system-of-launching-jet": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "bill|billion|mp|navy|trump|trump",
+    "norm": 71
+  },
+  "objection-to-chief-guest-big-bar-council-order-then-a-u-turn": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "cji|protest|protest|row|threat",
+    "norm": 70.5
+  },
+  "minerals-belong-to-jharkhand-land-belongs-to-jharkhand-cm": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "bill|chief minister|khan|minister|tax",
+    "norm": 68.3
+  },
+  "7-killed-3-trapped-as-water-debris-enter-tunnel-in-uttarakha": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
     "signature": "khan|killed|killed",
     "norm": 64.6
   },
-  "uttar-pradesh-teaching-job-aspirants-to-run-campaign-to-pres": {
-    "firstSeen": "2026-08-13T23:53:00.913Z",
-    "signature": "iran|mp|recruitment",
-    "norm": 60.8
+  "weather-today-delhi-ncr-braces-for-heavy-rain-cloud-cover-li": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "heavy rain|weather",
+    "norm": 57.6
   },
-  "world-war-ii-memorial-in-washington-vandalised-with-bubbles-": {
-    "firstSeen": "2026-08-13T23:53:00.913Z",
-    "signature": "mp|war",
+  "exclusive-for-4-seconds-air-india-phuket-delhi-plane-had-no-": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "war|warning",
+    "norm": 57.6
+  },
+  "india-s-global-image-loved-in-sri-lanka-divided-in-us-reject": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "pakistan|war",
     "norm": 57.1
   },
-  "uttar-pradesh-government-accelerates-disposal-of-revenue-cas": {
-    "firstSeen": "2026-08-13T23:53:00.913Z",
+  "air-india-flight-lost-300-ft-after-triple-hydraulic-failure-": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "ipl|sudden",
+    "norm": 52.4
+  },
+  "eye-on-rss-karnataka-cabinet-clears-bill-to-curb-events-at-p": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "bill|cabinet",
+    "norm": 48.7
+  },
+  "how-to-attend-independence-day-parade-in-delhi-step-by-step-": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "minister|prime minister",
+    "norm": 48.7
+  },
+  "-no-role-in-disturbance-bar-council-drops-proceedings-agains": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "backlash",
+    "norm": 48.2
+  },
+  "gen-z-not-making-big-lifestyle-purchases-spends-just-5-on-tr": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "intrigue-around-the-galle-pitch-but-india-likely-to-opt-for-": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "new-aircraft-carrier-heads-to-middle-east-amid-reports-of-us": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "-shadow-trans-shipment-network-us-flags-india-as-tier-1-hub-": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "china",
+    "norm": 45.9
+  },
+  "contribution-of-syama-prasad-to-be-included-in-school-textbo": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "india-needs-a-peaceful-revolution-sonam-wangchuk": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
+  },
+  "boeing-s-broken-engine-parts-hit-ryanair-jet-window-before-m": {
+    "firstSeen": "2026-08-14T02:39:24.509Z",
+    "signature": "",
+    "norm": 36
   }
 }
