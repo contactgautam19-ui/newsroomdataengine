@@ -1,81 +1,196 @@
 {
-  "sukhbir-singh-badal-attack-news-sukhbir-badal-discharge-toda": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "anger|attack|attack|hospital|injured|maharashtra|mp",
-    "norm": 87.7
+  "indira-gandhi-s-picture-choking-sensation-jibe-bjp-s-no-hold": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "attack|attack|bjp|ipl|modi|modi|mp|rahul gandhi|row",
+    "norm": 93.2
   },
-  "harsimrat-badal-deeply-touched-by-pm-modi-s-kind-gesture-aft": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "attack|attack|modi|modi",
-    "norm": 75.9
+  "-what-s-wrong-in-it-supreme-court-stays-madras-hc-verdict-qu": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "died|jobs|mp|stampede|supreme court|verdict",
+    "norm": 81.3
   },
-  "sukhbir-singh-badal-attacked-how-inspector-santosh-kendre-sa": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "attack|attack|mp",
-    "norm": 66
+  "six-police-personnel-injured-as-protest-turns-violent-in-amb": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "injured|president|protest|protest|terror|terror",
+    "norm": 81
   },
-  "3-workers-remain-trapped-as-rescue-ops-continue-at-uttarakha": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "evacuat|khan|rescue|rescue",
-    "norm": 65
+  "will-gold-price-rally-now-face-profit-booking-check-august-1": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "gold|gold price|price|prices|rally|rally",
+    "norm": 79.7
   },
-  "after-justice-varma-s-resignation-ls-speaker-asked-panel-to-": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "lok sabha|mp|record",
-    "norm": 54.7
+  "80th-i-day-1-057-police-fire-amp-correctional-personnel-rece": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "fire|fire|mp|president|war",
+    "norm": 75.3
+  },
+  "-when-will-you-grow-up-bjp-hits-back-at-rahul-gandhi-over-hu": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "bjp|modi|modi|rahul gandhi|row",
+    "norm": 73.6
+  },
+  "seven-workers-dead-14-injured-as-water-debris-enter-tunnel-i": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "dead|dead|injured|khan",
+    "norm": 69.7
+  },
+  "-between-me-and-students-cji-surya-kant-slams-bar-council-mo": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "cji|protest|protest|slam|slams",
+    "norm": 68.9
+  },
+  "sc-stays-hc-order-quashing-vijay-govt-s-decision-to-give-job": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "jobs|mp|stampede",
+    "norm": 65.6
+  },
+  "shivamogga-mp-b-y-raghavendra-demands-withdrawal-of-ban-on-g": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "bjp|mp|protest|protest",
+    "norm": 65.3
+  },
+  "-too-busy-for-tricolour-karnataka-minister-s-request-for-fla": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "bjp|election|election|minister|mp|poll",
+    "norm": 65.1
+  },
+  "jaisalmer-man-abducted-brutally-assaulted-nose-cut-off-polic": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "attack|attack|brutal",
+    "norm": 64.5
+  },
+  "us-names-india-a-part-of-shadow-transhipment-network-helping": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "china|mp|trump|trump",
+    "norm": 63.5
+  },
+  "-who-are-they-to-interfere-cji-surya-kant-lashes-bar-council": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "cji|protest|protest",
+    "norm": 62.8
+  },
+  "ahead-of-punjab-polls-is-akali-dal-set-to-rejoin-the-nda-tal": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "bjp|election|election|poll",
+    "norm": 61.8
+  },
+  "mumbai-to-get-a-batch-of-new-ac-local-train-rakes-by-2027-cm": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "chief minister|maharashtra|minister|mp",
+    "norm": 61.8
+  },
+  "apollo-hospitals-completes-2-000-robotic-assisted-joint-repl": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "hospital|mp|poll",
+    "norm": 61.4
+  },
+  "cji-surya-kant-disapproves-bci-action-against-nalsar-student": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "cji|protest|protest",
+    "norm": 61.1
+  },
+  "german-startup-builds-wind-turbine-blades-from-wood-instead-": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "mp|rbi|star",
+    "norm": 60.4
+  },
+  "-india-on-our-radar-trump-aide-peter-navarro-s-big-remark-af": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
+  },
+  "3-000-take-part-in-organ-donation-awareness-walk-in-nellore": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "hospital|war",
+    "norm": 57.6
+  },
+  "iit-madras-incubated-startup-signs-100-crore-deal-with-t-n-g": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "crore|deal|star",
+    "norm": 56.1
   },
   "shillong-teer-result-today-august-14-2026-check-winning-numb": {
     "firstSeen": "2026-08-14T04:57:42.941Z",
     "signature": "khan|result",
-    "norm": 53.9
+    "norm": 55.7
   },
-  "india-secures-return-of-fugitive-drug-kingpin-virender-singh": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "amit shah|minister",
-    "norm": 48.7
+  "delhi-prepares-for-major-revamp-with-master-plan-2047-know-h": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "mp|row",
+    "norm": 55.4
   },
-  "independence-day-2026-1-057-personnel-awarded-gallantry-serv": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "war",
-    "norm": 46.3
+  "-uncalled-for-cji-pulls-up-bar-council-of-india-over-threat-": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "cji|threat",
+    "norm": 55.4
   },
-  "rs-6-000-crore-drug-case-kingpin-virender-baisoya-brought-to": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "crore",
+  "-issued-in-haste-bci-chief-on-withdrawal-of-order-against-la": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "cji|row",
+    "norm": 55.4
+  },
+  "central-railway-recovers-over-rs-121-crore-in-fines-from-15-": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "crore|lakh|record",
+    "norm": 54.7
+  },
+  "india-dhaka-ties-reset-bangladesh-pm-tarique-rahman-may-visi": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "brics|summit",
+    "norm": 50.5
+  },
+  "-who-is-the-bci-to-come-between-the-students-and-me-cji-cond": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "cji",
     "norm": 45.9
   },
-  "from-uttarakhand-s-silkyara-to-sikkim-s-namchi-major-tunnel-": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "khan",
+  "delhi-i-day-traffic-advisory-roads-near-red-fort-closed-chec": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "spiritual-well-being-helps-students-concentrate-says-pontiff": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "four-months-on-karnataka-yet-to-see-multi-pair-kidney-swap-t": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "caste-covid-vaccination-centre-notifies-40-questions-for-cen": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "star",
     "norm": 44.3
   },
-  "independence-day-2026-vande-mataram-full-lyrics-in-english-a": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
+  "rajiv-pande-shiv-kumar-shobhit-saksena-divya-d-mushtaq-nasir": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
     "signature": "mp",
     "norm": 44
   },
-  "centre-s-rs-3-000-crore-mega-chemical-park-push-at-least-7-s": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "crore",
-    "norm": 44
+  "bengaluru-parking-car-outside-your-house-pay-up-to-25-000-ba": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "",
+    "norm": 36
   },
-  "google-unveils-gemini-3-7-flash-ai-model-for-coding-agent-wo": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
+  "on-street-parking-may-get-costlier-in-bengaluru-as-new-draft": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
+    "signature": "",
+    "norm": 36
+  },
+  "census-2027-to-have-40-questions-including-details-of-caste-": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
     "signature": "",
     "norm": 33.9
   },
-  "mobile-phone-in-prajwal-revanna-s-prison-cell-several-phone-": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
+  "coimbatore-cbi-court-convicts-four-in-two-elephant-electrocu": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
     "signature": "",
     "norm": 33.9
   },
-  "nalsar-s-executive-council-to-decide-whether-bci-sought-inqu": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "madras-day-where-chennai-falls-in-love": {
-    "firstSeen": "2026-08-14T04:57:42.941Z",
+  "a-tiger-hunt-a-river-safari-and-a-wild-ride-through-nagarhol": {
+    "firstSeen": "2026-08-14T06:23:40.384Z",
     "signature": "",
     "norm": 33.9
   }
