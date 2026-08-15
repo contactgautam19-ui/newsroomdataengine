@@ -2,17 +2,22 @@
   "jharkhand-student-protest-cbi-probe-demand-grows-as-aspirant": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "dead|dead|exam|iran|khan|protest|protest|recruitment|row",
-    "norm": 85.6
+    "norm": 82.2
   },
   "-fulfil-our-demands-by-aug-18-or-jharkhand-student-protester": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "chief minister|khan|lakh|minister|protest|protest|war|warning",
-    "norm": 85.6
+    "norm": 82.2
   },
   "nihang-sikhs-the-warrior-tradition": {
     "firstSeen": "2026-08-15T22:33:47.607Z",
     "signature": "army|attack|attack|maharashtra|war",
-    "norm": 78.4
+    "norm": 75.7
+  },
+  "-his-health-is-priority-jharkhand-congress-leader-defends-po": {
+    "firstSeen": "2026-08-15T23:30:11.995Z",
+    "signature": "bjp|congress|dead|dead|iran|khan",
+    "norm": 74.2
   },
   "rahul-gandhi-kharge-skip-red-fort-i-day-event-vande-mataram-": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
@@ -34,80 +39,80 @@
     "signature": "chief minister|coalition|congress|khan|minister|protest|protest|rahul gandhi",
     "norm": 66.7
   },
-  "uttarakhand-tunnel-workers-say-they-flagged-water-leak-got-n": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "flood|flood|khan|killed|killed",
-    "norm": 66.2
-  },
   "devendra-mahto-alleges-assault-by-ranchi-police-after-being-": {
     "firstSeen": "2026-08-15T20:34:37.733Z",
     "signature": "exam|iran|protest|protest|recruitment",
     "norm": 65.6
-  },
-  "army-dog-tyson-shot-in-j-amp-k-op-after-helping-track-3-terr": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "army|mp|terror|terror",
-    "norm": 64.7
-  },
-  "political-tug-of-war-over-women-s-reservation-bill-a-call-fo": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "bill|modi|modi|mp|opposition|parliament|war",
-    "norm": 64.7
   },
   "as-sukhbir-badal-recovers-harsimrat-steps-up-woman-leading-a": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "attack|attack|maharashtra|war",
     "norm": 64.1
   },
-  "chaos-at-kozhikode-corporation-s-i-day-flag-hoisting-as-coun": {
+  "uttarakhand-tunnel-workers-say-they-flagged-water-leak-got-n": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "flood|flood|khan|killed|killed",
+    "norm": 62.5
+  },
+  "pm-modi-puts-women-s-quota-back-on-table-makes-fresh-pitch-t": {
+    "firstSeen": "2026-08-15T23:30:11.995Z",
+    "signature": "bill|modi|modi|opposition",
+    "norm": 61.8
+  },
+  "army-dog-tyson-shot-in-j-amp-k-op-after-helping-track-3-terr": {
     "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "bjp|congress|result|ruling|star",
-    "norm": 63.4
+    "signature": "army|mp|terror|terror",
+    "norm": 61
   },
-  "jharkhand-protest-students-demand-cm-hemant-soren-s-resignat": {
+  "political-tug-of-war-over-women-s-reservation-bill-a-call-fo": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "congress|khan|protest|protest|rahul gandhi",
-    "norm": 63.1
-  },
-  "former-cambridge-professor-jason-arday-found-dead-amid-dei-h": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "dead|dead|row",
-    "norm": 60.4
+    "signature": "bill|modi|modi|mp|opposition|parliament|war",
+    "norm": 60.9
   },
   "as-pm-modi-pushes-for-desi-drones-army-plans-rs-20k-cr-munit": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "army|drone|modi|modi",
     "norm": 59.9
   },
-  "i-day-cm-announces-new-schemes-to-boost-job-creation-ai-push": {
+  "chaos-at-kozhikode-corporation-s-i-day-flag-hoisting-as-coun": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "bjp|congress|result|ruling|star",
+    "norm": 59.6
+  },
+  "jharkhand-protest-students-demand-cm-hemant-soren-s-resignat": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "chief minister|economy|jobs|lakh|minister|trillion",
-    "norm": 59.5
+    "signature": "congress|khan|protest|protest|rahul gandhi",
+    "norm": 59.3
+  },
+  "former-cambridge-professor-jason-arday-found-dead-amid-dei-h": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "dead|dead|row",
+    "norm": 57.4
   },
   "rescued-colombian-earthquake-survivor-passes-dies-37-hours-u": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "disaster|earthquake|earthquake|rescue|rescue",
     "norm": 56.9
   },
-  "india-s-battle-of-narratives-ai-disinformation-the-fight-for": {
+  "i-day-cm-announces-new-schemes-to-boost-job-creation-ai-push": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "exam|mp|war",
-    "norm": 56.7
-  },
-  "padikkal-or-sudharsan-manjrekar-makes-no-3-call-he-looks-for": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "attack|attack|mp",
-    "norm": 56.7
+    "signature": "chief minister|economy|jobs|lakh|minister|trillion",
+    "norm": 55.6
   },
   "-india-will-move-forward-when-rahul-slams-bjp-after-meeting-": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "bjp|rahul gandhi|slam|slams|war",
     "norm": 54.4
   },
-  "jharkhand-students-demand-cm-soren-s-resignation-ask-congres": {
+  "india-s-battle-of-narratives-ai-disinformation-the-fight-for": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "coalition|congress|khan",
-    "norm": 53.5
+    "signature": "exam|mp|war",
+    "norm": 52.7
+  },
+  "padikkal-or-sudharsan-manjrekar-makes-no-3-call-he-looks-for": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "attack|attack|mp",
+    "norm": 52.7
   },
   "congress-signals-support-for-sikh-prisoners-release-amid-ban": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
@@ -119,19 +124,19 @@
     "signature": "iran|mp|trump|trump",
     "norm": 51.6
   },
+  "jharkhand-students-demand-cm-soren-s-resignation-ask-congres": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "coalition|congress|khan",
+    "norm": 50.3
+  },
   "deals-pixel-11-series-goes-on-pre-order-galaxy-z8-foldables-": {
     "firstSeen": "2026-08-15T22:33:47.607Z",
     "signature": "deal|price|prices",
-    "norm": 50.9
+    "norm": 48.2
   },
   "zimbabwe-ferry-accident-death-count-rises-to-68-as-22-more-b": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "accident|death",
-    "norm": 47.7
-  },
-  "west-asia-war-live-israeli-airstrike-on-southern-lebanon-kil": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "israel|war",
     "norm": 47.7
   },
   "stree-shakti-a-step-towards-women-empowerment-dignity-says-c": {
@@ -144,9 +149,9 @@
     "signature": "mp|row",
     "norm": 45.4
   },
-  "kareena-kapoor-shares-son-taimur-ali-khan-s-adorable-indepen": {
-    "firstSeen": "2026-08-15T22:33:47.607Z",
-    "signature": "bollywood|bollywood|khan",
+  "west-asia-war-live-israeli-airstrike-on-southern-lebanon-kil": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "israel|war",
     "norm": 43.5
   },
   "cm-suvendu-promises-to-restore-old-glory-of-west-bengal-in-h": {
@@ -154,50 +159,45 @@
     "signature": "jobs|mp",
     "norm": 43
   },
-  "preserve-democracy-and-secularism-says-minister-roji-m-john-": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "minister|mp",
-    "norm": 42.5
-  },
-  "indonesia-rocked-by-3-major-quakes-and-over-230-aftershocks-": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "shock|shock",
-    "norm": 42.2
-  },
   "yellow-silk-dhotis-new-dress-code-for-ayodhya-ram-temple-pri": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "ayodhya|mp",
     "norm": 41
   },
-  "bci-chairman-apologises-to-law-students-amid-enrolment-ban-c": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "controversy",
-    "norm": 40.1
+  "u-p-cm-yogi-adityanath-announces-new-youth-policy-on-indepen": {
+    "firstSeen": "2026-08-15T23:30:11.995Z",
+    "signature": "mp|policy|yogi",
+    "norm": 40.6
   },
-  "independence-day-2026-a-hidden-lake-of-lotuses-and-the-india": {
+  "preserve-democracy-and-secularism-says-minister-roji-m-john-": {
     "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "accident",
-    "norm": 40.1
+    "signature": "minister|mp",
+    "norm": 38
   },
   "onam-purchases-to-burn-hole-in-wallets-as-prices-soar": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "price|prices",
     "norm": 38
   },
-  "had-article-370-stayed-pok-may-have-sought-to-rejoin-j-amp-k": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "bishnoi-comes-out-in-support-of-rao-inderjit-says-ignoring-s": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "bjp",
-    "norm": 37.5
+  "indonesia-rocked-by-3-major-quakes-and-over-230-aftershocks-": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "shock|shock",
+    "norm": 37.7
   },
   "japan-pm-takaichi-skips-visit-to-disputed-shrine-on-world-wa": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "died|war",
     "norm": 37.3
+  },
+  "bci-chairman-apologises-to-law-students-amid-enrolment-ban-c": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "controversy",
+    "norm": 35.5
+  },
+  "independence-day-2026-a-hidden-lake-of-lotuses-and-the-india": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "accident",
+    "norm": 35.5
   },
   "bsnl-to-expand-4g-coverage-ftth-services-in-dharwad-davanger": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
@@ -214,20 +214,20 @@
     "signature": "threat",
     "norm": 35.5
   },
-  "-call-from-god-kerala-man-stabs-parents-to-death-tells-polic": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "death",
-    "norm": 35.5
-  },
-  "bengaluru-man-hits-techie-wife-suffocates-her-then-dies-by-s": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "war",
-    "norm": 35.5
-  },
   "yogi-govt-s-big-crackdown-on-adulterated-dairy-products-pane": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "mp|yogi",
     "norm": 33.4
+  },
+  "had-article-370-stayed-pok-may-have-sought-to-rejoin-j-amp-k": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "bishnoi-comes-out-in-support-of-rao-inderjit-says-ignoring-s": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "bjp",
+    "norm": 32.8
   },
   "sctimst-unveils-chitra-core-its-first-coronary-stent": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
@@ -237,11 +237,6 @@
   "kharge-questions-rss-role-in-freedom-struggle-defends-public": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "bill",
-    "norm": 32.8
-  },
-  "devadula-phase-vi-will-be-completed-by-dec-2028-to-benefit-t": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "mp",
     "norm": 32.8
   },
   "inside-the-indian-navy-s-southern-naval-command-how-sailors-": {
@@ -254,14 +249,14 @@
     "signature": "actor",
     "norm": 31
   },
-  "moon-base-india-s-lunar-future": {
-    "firstSeen": "2026-08-15T22:33:47.607Z",
-    "signature": "",
+  "-call-from-god-kerala-man-stabs-parents-to-death-tells-polic": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "death",
     "norm": 30.7
   },
-  "-i-sincerely-apologise-bci-chief-to-law-students-after-row-o": {
+  "bengaluru-man-hits-techie-wife-suffocates-her-then-dies-by-s": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "row",
+    "signature": "war",
     "norm": 30.7
   },
   "echoes-across-the-radcliffe-line-the-battle-for-punjabiyat-i": {
@@ -269,15 +264,20 @@
     "signature": "pakistan",
     "norm": 27.8
   },
+  "moon-base-india-s-lunar-future": {
+    "firstSeen": "2026-08-15T22:33:47.607Z",
+    "signature": "",
+    "norm": 26.7
+  },
   "amit-bhatia-led-consortium-buys-minority-stake-in-liverpool-": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "yakshagana-dhol-tasha-garba-add-colour-to-bengaluru-s-first-": {
     "firstSeen": "2026-08-15T20:34:37.733Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "independence-day-celebrations-held-in-vellore-nearby-distric": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
