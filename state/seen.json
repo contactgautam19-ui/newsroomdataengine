@@ -1,31 +1,106 @@
 {
-  "7-7-magnitude-earthquake-strikes-off-indonesia-coast-tsunami": {
-    "firstSeen": "2026-08-14T23:32:16.284Z",
-    "signature": "alert|earthquake|earthquake|tsunami",
-    "norm": 60.6
+  "2-killed-after-7-7-magnitude-earthquake-shakes-indonesia-tsu": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "earthquake|earthquake|killed|killed|tsunami|war|warning",
+    "norm": 78.5
   },
-  "j-k-administration-says-no-work-from-home-order-for-pandits-": {
-    "firstSeen": "2026-08-14T23:32:16.284Z",
-    "signature": "mp|threat",
+  "2-killed-in-7-7-magnitude-earthquake-in-indonesia-tsunami-wa": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "earthquake|earthquake|killed|killed|tsunami|war|warning",
+    "norm": 78.5
+  },
+  "michigan-shooting-5-killed-1-critically-injured-gunman-found": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "dead|dead|died|hospital|injured|killed|killed|shooting",
+    "norm": 76.4
+  },
+  "batwara-1947-opens-at-rs-5-75-crore-trails-behind-awarapan-2": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "crore|film|mp|star|war",
+    "norm": 74
+  },
+  "rubio-greets-india-on-i-day-says-modi-trump-bond-made-us-ind": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "minister|modi|modi|mp|president|prime minister|trump|trump",
+    "norm": 68.8
+  },
+  "independence-day-2026-live-pm-modi-pays-tributes-to-mahatma-": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "modi|modi|war",
+    "norm": 67.6
+  },
+  "india-wouldn-t-have-witnessed-partition-if-modi-had-been-pm-": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "chief minister|minister|modi|modi|yogi",
+    "norm": 64.6
+  },
+  "80th-independence-day-live-updates-india-celebrates-80th-ind": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "defence|minister|modi|modi",
+    "norm": 63.5
+  },
+  "union-ministers-call-rahul-gandhi-s-remarks-on-pm-modi-undig": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "congress|defence|minister|modi|modi|rahul gandhi",
+    "norm": 63.4
+  },
+  "-to-completely-curb-use-of-unfair-means-president-murmu-unde": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "exam|mp|president",
+    "norm": 59.7
+  },
+  "independence-day-live-updates-pm-modi-greets-people": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "modi|modi",
     "norm": 57.1
   },
-  "two-american-jets-with-same-flight-number-avoid-mid-air-disa": {
-    "firstSeen": "2026-08-14T23:32:16.284Z",
-    "signature": "disaster",
-    "norm": 46.3
+  "independence-day-2026-updates-pm-modi-to-lead-80th-celebrati": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "modi|modi",
+    "norm": 57.1
   },
-  "google-brings-gemini-3-7-flash-to-ai-mode-in-search": {
-    "firstSeen": "2026-08-14T23:32:16.284Z",
+  "pm-modi-greets-nation-on-80th-independence-day-says-india-sc": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "independence-day-2026-live-pm-modi-wishes-nation-on-80th-ind": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "cji-criticises-bci-s-interference-in-dialogue-between-him-an": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "cji|supreme court",
+    "norm": 48.7
+  },
+  "-unity-in-diversity-sudarsan-pattnaik-creates-sand-sculpture": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "riot",
+    "norm": 48.2
+  },
+  "telangana-sir-botched-up-enumeration-phase-leaves-94-lakh-el": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "lakh",
+    "norm": 45.9
+  },
+  "rishabh-pant-can-make-virender-sehwag-like-impact-angelo-mat": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "unmarked-proforma-being-served-to-west-bengal-madrasas-by-po": {
-    "firstSeen": "2026-08-14T23:32:16.284Z",
-    "signature": "fund",
-    "norm": 44
+  "ahmedabad-cyber-police-bust-online-stalkers-targeting-women-": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "",
+    "norm": 36
   },
-  "-iphone-feels-like-a-dad-phone-galaxy-z-fold8-s-passport-des": {
-    "firstSeen": "2026-08-14T23:32:16.284Z",
+  "india-79-age-wage-and-rage-number-theory": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
+    "signature": "",
+    "norm": 36
+  },
+  "75-happy-independence-day-messages-greetings-wishes-and-quot": {
+    "firstSeen": "2026-08-15T01:46:06.391Z",
     "signature": "",
     "norm": 33.9
   }
