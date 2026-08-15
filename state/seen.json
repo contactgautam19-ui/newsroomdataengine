@@ -1,146 +1,91 @@
 {
-  "7-7-magnitude-indonesia-quake-38-killed-buildings-collapse-5": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "collapse|collapse|collapse|devastat|earthquake|earthquake|killed|killed|landslide|rescue|rescue|visuals",
-    "norm": 88.8
-  },
-  "pm-s-i-day-speech-reforms-ai-skilling-for-youth-free-online-": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "economy|modi|modi|threat|war|warning",
-    "norm": 88.2
-  },
-  "independence-day-live-updates-kerala-cm-warns-against-commun": {
-    "firstSeen": "2026-08-15T10:34:05.976Z",
-    "signature": "flood|flood|modi|modi|war",
-    "norm": 82.5
+  "congress-slams-pm-modi-over-dishonest-women-s-reservation-pi": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "congress|election|election|lok sabha|modi|modi|mp|slam|slams",
+    "norm": 83.1
   },
   "video-buildings-collapse-as-7-7-earthquake-strikes-indonesia": {
     "firstSeen": "2026-08-15T11:30:24.749Z",
     "signature": "collapse|collapse|collapse|earthquake|earthquake|tsunami|video|war|warning",
     "norm": 82.4
   },
-  "andhra-minister-faints-during-independence-day-event-in-tiru": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "collapse|collapse|collapse|minister|sudden|suddenly|war",
-    "norm": 81.9
-  },
-  "trump-s-secret-escape-from-turkey-secret-plane-switch-after-": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "exam|iran|mp|summit|threat|trump|trump",
+  "anurag-thakur-targets-congress-over-vande-mataram-row-demand": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "attack|attack|bjp|congress|controversy|mp|row",
     "norm": 79.3
   },
-  "five-people-killed-as-vehicle-plunges-into-chenab-river-in-j": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "killed|killed|rescue|rescue|war",
-    "norm": 74.9
+  "6-9-magnitude-quake-strikes-indonesia-hours-after-deadly-tre": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "dead|dead|earthquake|earthquake|killed|killed",
+    "norm": 75.8
   },
-  "one-crore-jobs-by-2030-and-reforms-in-exams-are-top-prioriti": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "chief minister|crore|exam|jobs|minister|mp",
-    "norm": 74
+  "one-more-death-in-flooded-chamoli-tunnel-8-casualties-so-far": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "death|flood|flood|landslide",
+    "norm": 70
   },
-  "uk-searches-for-homes-with-air-conditioning-jump-104-as-heat": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "heatwave|mp|weather",
-    "norm": 66
-  },
-  "five-army-personnel-missing-after-flash-flood-in-arunachal-s": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "army|flood|flood|mp",
+  "-unfortunate-irresponsible-j-amp-k-cm-s-remarks-on-article-3": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "bjp|fire|fire|mp",
     "norm": 65.3
   },
-  "siliguri-corridor-under-threat-india-china-border-tensions-e": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "army|border|china|defence|threat",
-    "norm": 62.9
+  "-remove-bulletproof-glass-or-i-wont-speak-pm-told-officers-a": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "defence|minister|modi|modi|prime minister",
+    "norm": 64.6
   },
-  "independence-day-2026-pm-modi-leads-india-in-commemorating-8": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "modi|modi|photos",
-    "norm": 62.8
+  "india-s-security-challenges-indian-navy-china-siliguri-corri": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "alliance|china|navy|threat",
+    "norm": 63.5
   },
-  "-ask-your-mother-row-over-nainar-nagendran-s-reply-to-vijay-": {
-    "firstSeen": "2026-08-15T10:34:05.976Z",
-    "signature": "bjp|president|row",
-    "norm": 59.7
+  "kharge-rahul-skip-independence-day-event-again-bjp-targets-c": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "bjp|congress|opposition|president|rahul gandhi|row",
+    "norm": 63.4
   },
-  "india-s-naval-power-indian-navy-s-strategy-amid-rising-geopo": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "alliance|exam|navy",
-    "norm": 59.7
-  },
-  "7-hospitalised-after-fire-breaks-out-in-building-in-mumbai-s": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "fire|fire|hospital",
-    "norm": 59.6
-  },
-  "funds-sanctioned-for-re-tendered-stretches-in-kollam-under-p": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "fund|mp|sanction",
-    "norm": 57.6
-  },
-  "-how-can-any-kid-use-this-dipke-flags-dirty-toilets-at-govt-": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "maharashtra|mp",
+  "freedom-means-living-without-fear-and-with-dignity-says-kera": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "fear|minister",
     "norm": 55.4
   },
-  "congress-fighting-nationwide-to-protect-constitution-says-ra": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "congress|minister",
+  "shubhanshu-shukla-on-his-journey-to-space-axiom-4-india-s-sp": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "captain|mp",
+    "norm": 53.5
+  },
+  "patrick-mahomes-brittany-mahomes-5-million-act-builds-lastin": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "fund|mp",
+    "norm": 53.2
+  },
+  "govinda-hits-back-at-sunita-ahuja-over-abusive-language-targ": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "actor|mp",
+    "norm": 51.7
+  },
+  "waiting-at-the-gates-gautamnagar-s-long-struggle-for-a-rail-": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "acquisition|fund",
     "norm": 48.7
   },
-  "-multiple-boyfriends-or-girlfriends-baba-ramdev-says-many-ge": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "ipl",
-    "norm": 46.3
+  "khabib-nurmagomedov-sends-special-message-to-islam-makhachev": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "slam",
+    "norm": 48.2
   },
-  "we-want-people-of-tamil-nadu-to-develop-zero-tolerance-for-c": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "cockroach-janta-party-s-instagram-account-blocked-for-two-ho": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "instagram",
-    "norm": 44.3
-  },
-  "temple-for-bapu-how-an-andhra-city-has-kept-mahatma-gandhi-s": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "mp",
+  "uss-abraham-lincoln-to-return-home-amid-rising-scrutiny-over": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
+    "signature": "navy",
     "norm": 44
   },
-  "opinion-opinion-noakhali-to-parliament-what-gandhi-nehru-jin": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "parliament",
-    "norm": 44
-  },
-  "mehbooba-asks-centre-to-reflect-if-india-has-lived-up-to-con": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "bjp",
-    "norm": 44
-  },
-  "sridhar-vembu-anand-mahindra-peyush-bansal-extend-independen": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "kochi-youth-goes-missing-from-japanese-ship-kin-seek-govt-he": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
+  "ukraine-offers-black-sea-shipping-truce-russia-yet-to-respon": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
     "signature": "",
     "norm": 36
   },
-  "-our-son-daughter-assam-cm-himanta-biswa-rejects-gen-z-gen-a": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "palakkad-railway-division-celebrates-independence-day": {
-    "firstSeen": "2026-08-15T11:30:24.749Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "vande-mataram-and-tamil-thai-vazhthu-what-is-the-protocol-ex": {
-    "firstSeen": "2026-08-15T10:34:05.976Z",
+  "taliban-marks-5-years-in-power-in-afghanistan-as-rights-grou": {
+    "firstSeen": "2026-08-15T12:55:01.169Z",
     "signature": "",
     "norm": 33.9
   }
