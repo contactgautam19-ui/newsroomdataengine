@@ -1,181 +1,196 @@
 {
-  "ramdev-express-concern-over-growing-youth-unrest-on-educatio": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "protest|protest|recruitment|row|war|warning",
-    "norm": 82.1
+  "iran-demands-release-of-3-pilots-captured-in-qatar-after-su-": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "army|attack|attack|crash|crash|iran|killed|killed",
+    "norm": 96.4
   },
-  "balochistan-marks-pakistan-independence-day-as-black-day-pro": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "gst|opposition|pakistan|protest|protest|slam",
-    "norm": 78.2
+  "6-9-magnitude-quake-strikes-indonesia-hours-after-deadly-tre": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "dead|dead|earthquake|earthquake|killed|killed",
+    "norm": 75.8
   },
-  "assam-flood-survivors-hoist-tricolour-amid-ruins-on-80th-ind": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "deal|flood|flood|floods|mp|video",
-    "norm": 76.9
+  "5-people-dead-army-soldiers-among-8-missing-in-rain-hit-arun": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "accident|army|dead|dead|landslide",
+    "norm": 75.1
   },
-  "cm-naidu-calls-for-collective-resolve-to-build-swarna-andhra": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "chief minister|crore|lakh|minister|war",
-    "norm": 73.6
-  },
-  "multiple-people-shot-at-us-university-campus-on-lockdown": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "hospital|ipl|mp|shooting",
-    "norm": 72.6
-  },
-  "soren-promises-systemic-change-amid-ongoing-student-protest-": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "chief minister|khan|minister|protest|protest",
-    "norm": 72
-  },
-  "security-guard-held-for-alleged-terror-plot-targeting-pakist": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "army|pakistan|terror|terror",
-    "norm": 71.6
-  },
-  "indian-american-ceo-who-sacked-900-over-zoom-gets-fired-hims": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "fire|fire|layoff|mp",
-    "norm": 69.4
-  },
-  "harmanpreet-singh-s-brace-powers-india-to-3-1-win-over-wales": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "captain|match|mp|world cup",
-    "norm": 69.3
-  },
-  "five-killed-in-arunachal-landslide-road-accident-3-missing": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "accident|killed|killed|landslide",
-    "norm": 67.1
-  },
-  "-ask-the-mother-who-the-father-is-tamil-nadu-bjp-chief-s-rem": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "bjp|chief minister|controversy|minister|row",
-    "norm": 67
-  },
-  "a-ton-of-class-devdutt-padikkal-makes-the-long-wait-count": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "border|captain|gavaskar|war",
+  "ayodhya-donation-theft-what-s-the-truth-ground-report-from-a": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "ayodhya|controversy|mp",
     "norm": 66
+  },
+  "-sent-parents-to-heaven-kerala-man-arrested-for-stabbing-par": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "attack|attack|video",
+    "norm": 63.2
   },
   "meerut-blinkit-delivery-agent-assaulted-dragged-inside-flat-": {
     "firstSeen": "2026-08-15T13:38:27.223Z",
     "signature": "attack|attack|video",
-    "norm": 64.9
-  },
-  "us-spent-33-1-million-relocating-town-after-dioxin-contamina": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "devastat|flood|flood",
     "norm": 63.2
   },
-  "india-s-security-challenges-indian-navy-china-siliguri-corri": {
-    "firstSeen": "2026-08-15T12:55:01.169Z",
-    "signature": "alliance|china|navy|threat",
-    "norm": 61.8
+  "i-day-celebrations-held-in-kollam": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "disaster|minister|mp",
+    "norm": 61.4
   },
-  "india-s-young-population-can-become-powerful-engine-of-growt": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "mp|row|war",
-    "norm": 60.8
+  "mahatma-gandhi-temple-sees-crowd-surge-for-80th-independence": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "crowd|mp|row",
+    "norm": 61.1
   },
-  "man-arrested-for-harassing-woman-taken-to-court-on-foot-in-m": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "attack|attack",
+  "-ask-your-mother-row-over-nainar-nagendran-s-reply-to-vijay-": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "bjp|president|row",
+    "norm": 59.7
+  },
+  "-the-200-trillion-heist-on-independence-day-recalculating-ho": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "gdp|mp|trillion",
     "norm": 59.3
+  },
+  "all-bank-deposits-not-automatically-taxable-income-under-sec": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "mp|ruling|tax",
+    "norm": 57.6
+  },
+  "the-bar-and-bench-walk-with-you-cji-to-youth-in-i-day-messag": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "cji|war",
+    "norm": 57.1
+  },
+  "avenues-of-professional-reward-opening-up-for-artistes-from-": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "mp|war",
+    "norm": 57.1
+  },
+  "man-stops-on-bridge-for-selfie-with-infant-daughter-throws-h": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "fan|row",
+    "norm": 55.7
   },
   "after-vijay-s-father-remark-row-over-bjp-leader-s-ask-mother": {
     "firstSeen": "2026-08-15T13:38:27.223Z",
     "signature": "bjp|row",
-    "norm": 57.1
+    "norm": 55.4
   },
-  "what-is-the-latest-mining-amendment-act-about-explained": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "opposition|tax",
+  "a-p-minister-anam-ramanarayana-reddy-faints-after-hosting-th": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "minister|sudden|suddenly",
     "norm": 55
   },
-  "swr-records-zero-consequential-train-accidents-in-january-ju": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "accident|record",
-    "norm": 54.2
+  "ukraine-strikes-russian-rocket-centre-supporting-starlink-st": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "border|star",
+    "norm": 53.5
   },
-  "external-forces-behind-gen-z-protest-says-odisha-cm-mohan-ma": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "python-enters-up-meat-shop-to-hunt-goat-drunk-man-wraps-it-a": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "crowd|row",
+    "norm": 52.4
   },
-  "-2-643-crore-works-proposed-for-godavari-pushkarams-2027-say": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "crore|minister",
-    "norm": 53.2
+  "bwf-world-c-ships-beyond-smashes-drops-the-conditions-could-": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "mp|star",
+    "norm": 51.7
   },
-  "preserve-democracy-and-secularism-says-minister-roji-m-john-": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "minister|mp",
-    "norm": 50.5
+  "testing-labs-to-be-set-up-at-pampa-and-sannidhanam-to-ensure": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "minister|mp|vote",
+    "norm": 50.9
   },
   "china-s-new-arctic-route-is-a-20-day-voyage-to-europe-but-th": {
     "firstSeen": "2026-08-15T13:38:27.223Z",
     "signature": "china|mp",
-    "norm": 50.5
+    "norm": 48.7
   },
-  "dmho-suspended-for-mishandling-madanapalle-kidney-racket-inv": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "high court|mp",
-    "norm": 50.5
+  "telangana-cm-reddy-accuses-brs-leaders-of-occult-practices-a": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "congress|mp",
+    "norm": 48.7
   },
-  "number-of-rail-passengers-grew-by-9-07-in-thiruvananthapuram": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "crore|record",
-    "norm": 50.2
-  },
-  "odisha-teacher-dies-as-iron-flagpole-touches-power-line-befo": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "accident",
+  "-i-regret-bci-chief-manan-kumar-mishra-apologises-to-nalsar-": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "row",
     "norm": 48.2
   },
-  "bengaluru-man-hits-techie-wife-suffocates-her-then-dies-by-s": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "war",
-    "norm": 48.2
+  "independence-day-celebrations-highlight-progress-honour-free": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "minister",
+    "norm": 45.9
   },
-  "odisha-woman-stabbed-buried-in-andhra-pregnant-22-year-old-s": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
+  "we-want-people-of-tamil-nadu-to-develop-zero-tolerance-for-c": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "complaint-seeks-probe-into-independence-day-fiasco-at-kozhik": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
+  "new-anubhava-mantapa-will-be-inaugurated-by-basava-jayanti-k": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "khan",
+    "norm": 44.3
+  },
+  "sctimst-unveils-chitra-core-its-first-coronary-stent": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
     "signature": "mp",
     "norm": 44
   },
-  "ahead-of-onam-police-seize-3-030-litres-of-illicit-spirit-in": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "fan",
-    "norm": 42.4
+  "sim-card-smuggling-counterfeit-currency-notes-3-arrested-in-": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "pakistan",
+    "norm": 44
   },
-  "after-a-decade-zebras-will-again-delight-visitors-to-the-thi": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
+  "openai-s-s7-data-centre-drops-plan-to-cool-it-with-recycled-": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "shg-women-members-in-telangana-s-yadadri-get-drones-mobile-m": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "drone",
+    "norm": 42.7
+  },
+  "it-rights-body-writes-to-labour-ministry-over-wipro-s-onboar": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
     "signature": "",
     "norm": 36
   },
-  "govt-committed-to-all-round-development-of-state-amaravati-s": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
+  "bengaluru-engineer-hits-wife-smothers-her-with-pillow-then-d": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "iiid-amaravati-announces-new-leadership-at-investiture-cerem": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
+  "kalaburagi-sports-habba-from-september-24-to-26": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "tb-vaccine-offers-clue-to-retrain-immune-system-against-alzh": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
+  "hyderabad-marks-independence-day-with-flags-festivities-and-": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "action-by-haryana-cops-in-plainclothes-raises-questions-over": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
+  "hanur-shoot-out-mlc-k-shivakumar-seeks-high-level-probe": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "",
+    "norm": 36
+  },
+  "every-eligible-family-will-get-a-ration-card-uttam-kumar": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "",
+    "norm": 36
+  },
+  "state-government-has-taken-initiatives-to-tackle-drought-sit": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "",
+    "norm": 36
+  },
+  "parties-celebrate-80th-independence-day-on-a-grand-note": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
+    "signature": "",
+    "norm": 36
+  },
+  "simulation-exercises-planned-to-strengthen-health-emergency-": {
+    "firstSeen": "2026-08-15T14:33:53.525Z",
     "signature": "",
     "norm": 33.9
   }
