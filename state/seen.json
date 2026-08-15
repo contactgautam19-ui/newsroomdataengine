@@ -1,165 +1,300 @@
 {
-  "mahto-stopped-from-tiranga-yatra-nishikant-dubey-targets-rah": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "controversy|hospital|iran|khan|rahul gandhi|row",
-    "norm": 88.4
+  "army-personnel-missing-several-feared-dead-in-landslide-amid": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "army|dead|dead|defence|fear|flood|flood|floods|landslide",
+    "norm": 88.3
   },
-  "jharkhand-job-exam-protesters-take-out-tiranga-yatra-in-ranc": {
-    "firstSeen": "2026-08-15T08:40:59.925Z",
-    "signature": "exam|hospital|iran|khan|protest|protest|recruitment",
-    "norm": 86.8
+  "independence-day-live-updates-kerala-cm-warns-against-commun": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "flood|flood|modi|modi|war",
+    "norm": 82.5
   },
-  "-under-confident-shaky-nervous-pm-modi-s-speech-fumble-dimaa": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "attack|attack|congress|modi|modi|mp|video",
-    "norm": 86.6
+  "-pak-s-war-crimes-baloch-activist-posts-video-of-missile-deb": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "killed|killed|mp|pakistan|sanction|video|war",
+    "norm": 82
   },
-  "5-army-personnel-missing-4-labourers-feared-dead-after-flash": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "army|dead|dead|fear|flood|flood|heavy rain|landslide",
-    "norm": 84.6
+  "uttar-pradesh-teen-alleges-sexual-harassment-during-rapido-r": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "mp|record|video|viral|viral|viral",
+    "norm": 80.7
   },
-  "congress-slams-pm-modi-over-dishonest-women-s-reservation-pi": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "congress|election|election|lok sabha|modi|modi|mp|slam|slams",
-    "norm": 83.1
+  "-anti-national-row-bjp-slams-karnataka-minister-zameer-ahmed": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "bjp|khan|minister|mp|row|slam|slams",
+    "norm": 78.7
   },
-  "death-count-in-uttarakhand-tunnel-collapse-rises-to-8-search": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "accident|collapse|collapse|collapse|death|khan",
-    "norm": 81.6
+  "govt-s-free-coaching-move-gains-educator-backing-as-pw-s-ala": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "exam|lakh|modi|modi|mp",
+    "norm": 73
   },
-  "-only-nominal-freedom-mahto-alleges-he-was-beaten-prevented-": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "hospital|iran|khan|protest|protest",
-    "norm": 81.3
-  },
-  "-pok-would-have-joined-jammu-and-kashmir-if-cm-omar-abdullah": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "killed|killed|pakistan|protest|protest",
-    "norm": 77.8
-  },
-  "baba-ramdev-s-throws-surprise-demand-for-educational-reforms": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "fraud|jobs|protest|protest|row|surprise|threat",
-    "norm": 76.9
-  },
-  "after-gen-z-its-gen-alpha-s-turn-to-seek-accountability-kejr": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "exam|kejriwal|mp|protest|protest",
-    "norm": 75.3
-  },
-  "vanakkam-gen-z-warning-to-foes-tamil-nadu-cm-vijay-delivers-": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "chief minister|minister|war|warning",
-    "norm": 71.6
-  },
-  "chaos-at-kozhikode-corporation-s-i-day-flag-hoisting-as-coun": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "bjp|congress|result|ruling|star",
+  "eggs-muck-and-kicks-ex-tmc-mla-nirmal-ghosh-attacked-over-rg": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "attack|attack|mla",
     "norm": 68.7
   },
-  "karnataka-targets-one-lakh-new-jobs-ai-hubs-and-a-3-trillion": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "chief minister|economy|jobs|lakh|minister|mp|trillion",
-    "norm": 68.6
+  "-there-are-no-easy-opponents-in-the-world-cup-harmanpreet-wa": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "pakistan|war|world cup",
+    "norm": 66
   },
-  "five-killed-in-arunachal-landslide-road-mishap-3-missing": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "accident|killed|killed|landslide",
-    "norm": 67.1
-  },
-  "b-z-zameer-ahmed-khan-s-patriotism-unquestionable-says-karna": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "bjp|khan|minister|riot",
-    "norm": 66.7
-  },
-  "clash-between-police-and-protesters-in-haryana-on-independen": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "anger|clash|clash|protest|protest",
-    "norm": 63.4
-  },
-  "working-on-comprehensive-rehab-plan-for-flood-hit-families-a": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "flood|flood|mp",
+  "return-what-was-taken-away-from-j-k-omar-abdullah-in-his-i-d": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "pakistan|protest|protest",
     "norm": 62.8
-  },
-  "youth-protests-find-echo-in-minister-s-i-day-speech-in-shiva": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "minister|protest|protest",
-    "norm": 62.8
-  },
-  "rahul-kharge-were-unconvinced-by-i-day-seating-govt-showed-h": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "bjp|controversy|rahul gandhi",
-    "norm": 61.4
   },
   "independence-day-2026-pm-modi-leads-india-in-commemorating-8": {
     "firstSeen": "2026-08-15T09:36:06.088Z",
+    "signature": "modi|modi|photos",
+    "norm": 62.8
+  },
+  "congress-accuses-pm-modi-of-dishonest-pitch-on-women-reserva": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "congress|modi|modi",
+    "norm": 62.5
+  },
+  "-ireland-independence-day-congress-mocks-pm-modi-over-tricol": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "congress|modi|modi",
+    "norm": 62.5
+  },
+  "-ask-your-mother-row-over-nainar-nagendran-s-reply-to-vijay-": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "bjp|president|row",
+    "norm": 61.4
+  },
+  "rashtraraksha-samithi-holds-parallel-i-day-celebration-in-pr": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "congress|protest|protest",
+    "norm": 61.1
+  },
+  "kejriwal-takes-aim-at-pm-modi-i-day-speech-calls-him-under-c": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "kejriwal|modi|modi",
+    "norm": 59.7
+  },
+  "pm-modi-extends-navroz-greetings-praises-parsi-community-con": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
     "signature": "modi|modi",
+    "norm": 58.3
+  },
+  "odisha-cm-ends-6-attempt-cap-for-civil-services-exams-genera": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "exam|mp",
     "norm": 57.1
   },
-  "why-india-s-gcc-boom-is-facing-a-talent-problem-and-what-com": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "mp|row",
+  "the-bar-and-bench-walk-with-you-cji-to-youth-in-i-day-messag": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "cji|war",
     "norm": 57.1
   },
-  "independence-day-live-updates-pm-modi-calls-for-manufacturin": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "modi|modi",
-    "norm": 57.1
+  "independence-day-2026-anupamaa-star-jatin-suri-explains-why-": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "riot|star",
+    "norm": 56.9
+  },
+  "dipke-launches-school-thik-karo-campaign-alleges-govt-neglec": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "hospital|mp",
+    "norm": 55.4
+  },
+  "kerala-freedom-fighter-raghavji-lived-gandhi-s-ideals-but-hi": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "deal|mp",
+    "norm": 55
+  },
+  "vishwanath-and-sons-cast-fee-revealed-suriya-earned-rs-45-cr": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "crore|film",
+    "norm": 54.7
+  },
+  "-awarapan-3-on-the-way-emraan-hashmi-drops-hint-during-theat": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "star|war",
+    "norm": 53.9
   },
   "what-is-the-latest-mining-amendment-act-about-explained": {
     "firstSeen": "2026-08-15T09:36:06.088Z",
     "signature": "opposition|tax",
-    "norm": 55
+    "norm": 53.2
   },
-  "pawan-khera-defends-rahul-kharge-over-independence-day-skip-": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "bjp|congress|president|rahul gandhi",
-    "norm": 53.9
+  "-we-are-lagging-on-social-media-bjp-chief-chavan-pushes-earl": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "bjp|mp|poll",
+    "norm": 52.7
   },
-  "did-sonia-gandhi-insult-vande-mataram-during-i-day-celebrati": {
-    "firstSeen": "2026-08-15T07:38:21.054Z",
-    "signature": "congress|video",
-    "norm": 52
+  "external-forces-behind-gen-z-protest-odisha-cm-mohan-majhi": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "mahua-moitra-writes-to-ls-speaker-after-being-asked-to-vacat": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "lok sabha|mp",
+  "-there-is-no-controversy-ashok-gehlot-on-vande-mataram-row-a": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "controversy|row",
+    "norm": 52.1
+  },
+  "hyderabad-drone-startup-akinanalytics-launches-indigenous-ni": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "drone|star",
+    "norm": 51.7
+  },
+  "bjp-claims-sonia-objected-to-full-version-of-vande-mataram-a": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "bjp|congress|mp",
+    "norm": 50.9
+  },
+  "preserve-democracy-and-secularism-says-minister-roji-m-john-": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "minister|mp",
+    "norm": 50.5
+  },
+  "arjan-bajwa-the-freedom-we-have-today-is-the-result-of-a-lot": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "result",
+    "norm": 49.4
+  },
+  "bjp-accuses-sonia-gandhi-of-unease-during-vande-mataram-at-i": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "bjp|congress",
     "norm": 48.7
   },
-  "-in-spirit-of-federalism-return-control-of-exams-to-states-o": {
-    "firstSeen": "2026-08-15T08:40:59.925Z",
-    "signature": "exam",
+  "nalsar-student-body-demands-apology-from-bci-chairperson-ove": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "ipl",
+    "norm": 48.2
+  },
+  "konndor-industries-reports-standalone-net-loss-of-rs-0-02-cr": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "crore",
+    "norm": 47.1
+  },
+  "suvidhaa-infoserve-reports-consolidated-net-loss-of-rs-1-91-": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "crore",
+    "norm": 47.1
+  },
+  "why-india-gcc-boom-is-facing-a-talent-problem-and-what-compa": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "-a-person-like-me-what-maharashtra-fda-chief-tukaram-mundhe-": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "maharashtra",
     "norm": 46.3
   },
-  "bjp-says-sonia-opposed-full-vande-mataram-cong-says-she-was-": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "bjp",
+  "talent-gaps-put-india-gcc-mandates-at-risk-as-firms-weigh-co": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "mp",
     "norm": 44
   },
-  "how-will-caste-be-recorded-in-second-phase-of-census-2027-ex": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "record",
-    "norm": 40.7
+  "naga-peace-talks-elevated-to-ministerial-level-says-cm-rio-s": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "minister",
+    "norm": 44
+  },
+  "independence-day-2026-sudarsan-pattnaik-creates-stunning-san": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "-celebrating-my-inner-shakti-kriti-kharbanda-independence-da": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "how-consumerism-is-killing-our-independent-lives-": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "in-the-2020s-an-exotic-anemone-likely-introduced-through-the": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "axis-max-life-insurance-standalone-net-profit-rises-21-38-in": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "bengaluru-police-arrest-west-bengal-man-over-alleged-ttp-lin": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "hafta-602-the-india-that-was-the-india-that-couldve-been": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "what-freedom-means-to-young-artistes": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "-heart-somehow-stands-a-little-taller-suniel-shetty-ajay-dev": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "vande-mataram-and-tamil-thai-vazhthu-what-is-the-protocol-ex": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 36
+  },
+  "from-thailand-to-mumbai-ncb-cracks-down-on-international-dru": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 36
+  },
+  "assam-cm-himanta-biswa-sarma-announces-30-day-child-marriage": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-zootopia-3-officially-in-development-judy-hopps-gary-desnak": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "india-semiconductor-manufacturing-push-to-drive-global-value": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-india-doesnt-stand-anywhere-akhilesh-yadav-challenges-govt-": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "i-day-not-just-national-festival-but-occasion-to-remember-ex": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "development-without-justice-hasdeo-arand-and-the-continuing-": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "indian-envoy-to-nepal-stresses-stronger-connectivity-and-ene": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "ukpnp-establishes-us-national-chapter-at-texas-convention-ca": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "the-mountbatten-plan-how-june-3-sealed-the-partition-of-indi": {
+    "firstSeen": "2026-08-15T10:34:05.976Z",
+    "signature": "",
+    "norm": 33.9
   },
   "after-80-years-of-independence-electricity-finally-reaches-u": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "",
-    "norm": 36
-  },
-  "committed-to-goal-of-j-k-s-state-restoration-its-constitutio": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "",
-    "norm": 36
-  },
-  "tamil-nadu-cm-announces-higher-pensions-aid-for-freedom-figh": {
-    "firstSeen": "2026-08-15T09:36:06.088Z",
-    "signature": "",
-    "norm": 36
-  },
-  "skyroot-aerospace-how-two-isro-engineers-built-india-s-space": {
     "firstSeen": "2026-08-15T09:36:06.088Z",
     "signature": "",
     "norm": 33.9
