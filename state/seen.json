@@ -1,301 +1,96 @@
 {
-  "ramdev-expresses-concern-over-growing-youth-unrest-on-educat": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "protest|protest|recruitment|row|war|warning",
-    "norm": 80.6
+  "trump-eyes-millions-from-personal-political-funds-for-gop-am": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "congress|fear|fund|mp|president|trump|trump",
+    "norm": 80.7
   },
-  "e20-mileage-row-govt-says-fuel-alone-can-t-be-blamed-cites-d": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "fuel|mp|petrol|petrol|row",
-    "norm": 79.4
+  "jharkhand-students-turn-up-heat-demand-hemant-soren-s-resign": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "chief minister|coalition|congress|khan|minister|protest|protest|rahul gandhi",
+    "norm": 75.5
   },
-  "4-people-killed-after-flash-flood-in-arunachal-5-army-person": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "army|flood|flood|killed|killed",
-    "norm": 78.8
-  },
-  "leak-debris-were-reported-got-no-response-uttarakhand-tunnel": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "flood|flood|khan|killed|killed",
+  "80th-independence-day-updates-world-leaders-extend-greetings": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "modi|modi|opposition|slam|slams",
     "norm": 75
   },
-  "was-nyc-designer-found-dead-on-montauk-yacht-harassed-by-boa": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "dead|dead|shock|shock|shocking",
-    "norm": 73.5
+  "as-sukhbir-badal-recovers-harsimrat-steps-up-woman-leading-a": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "attack|attack|maharashtra|war",
+    "norm": 73
   },
-  "pm-modi-i-day-speech-will-be-a-milestone-towards-viksit-bhar": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "amit shah|modi|modi|war",
-    "norm": 72.7
+  "rescued-colombian-earthquake-survivor-passes-dies-37-hours-u": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "disaster|earthquake|earthquake|rescue|rescue",
+    "norm": 66.1
   },
-  "jharkhand-protest-students-demand-cm-hemant-soren-s-resignat": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "congress|khan|protest|protest|rahul gandhi",
-    "norm": 72
+  "join-hands-in-achieving-swarnandhra-exhorts-it-minister-loke": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "lakh|minister|war",
+    "norm": 65.6
   },
-  "bihar-govt-employee-killed-in-patna-road-accident-on-i-day": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "accident|killed|killed|mp",
-    "norm": 71
-  },
-  "iran-oman-edge-closer-to-hormuz-shipping-routes-deal-as-war-": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "deal|iran|war",
-    "norm": 68.7
-  },
-  "modi-warns-of-weaponisation-of-resources-sea-routes-urges-en": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "modi|modi|war",
-    "norm": 68.7
-  },
-  "india-s-battle-of-narratives-ai-disinformation-the-fight-for": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "exam|mp|war",
-    "norm": 67.6
-  },
-  "trump-urges-americans-to-pay-little-bit-more-for-gas-as-horm": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "iran|mp|trump|trump",
-    "norm": 65
-  },
-  "-india-will-move-forward-when-rahul-slams-bjp-after-meeting-": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "bjp|slam|slams|war",
-    "norm": 63.4
-  },
-  "odisha-floods-over-95-000-moved-to-safer-locations-as-situat": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "flood|flood|floods",
-    "norm": 60.8
-  },
-  "death-toll-in-zimbabwe-ferry-capsizing-rises-to-68-police": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "death|toll",
-    "norm": 60.4
-  },
-  "man-held-for-cheating-property-owners-of-10-crore-in-loan-fr": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "crore|fraud",
-    "norm": 58.3
-  },
-  "ex-iaf-chief-warns-su-57-deal-risks-sinking-domestic-amca-st": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "deal|war",
-    "norm": 58.3
-  },
-  "yemen-mocha-port-hit-by-houthi-attacks-operations-halt-amid-": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "attack|attack",
+  "zimbabwe-ferry-accident-death-count-rises-to-68-as-22-more-b": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "accident|death",
     "norm": 57.6
   },
-  "cjp-founder-abhijeet-dipke-kicks-off-school-cleaning-campaig": {
-    "firstSeen": "2026-08-15T16:36:24.062Z",
-    "signature": "hospital|mp",
+  "avenues-of-professional-reward-opening-up-for-artistes-from-": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "mp|war",
     "norm": 57.1
   },
-  "indian-army-displays-footage-of-civil-unrest-in-pakistan-occ": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "army|footage|pakistan",
-    "norm": 54.7
+  "anthropic-ceo-s-wife-asked-epstein-to-invest-in-her-luxury-p": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "mp|row",
+    "norm": 55.4
   },
-  "bjp-accuses-congress-of-disrespecting-vande-mataram-at-i-day": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "bjp|congress",
-    "norm": 51.7
+  "chief-minister-naidu-high-court-chief-justice-lisa-gill-atte": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "chief minister|governor|high court|minister",
+    "norm": 53.9
   },
-  "why-china-may-be-cautious-about-giving-pakistan-the-j-35-bef": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "china|pakistan",
-    "norm": 51.7
+  "tvk-leaders-condemn-nainar-nagenthran-s-remarks-against-t-n-": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "bjp|chief minister|minister",
+    "norm": 52.7
   },
-  "ngt-directs-tnpcb-to-set-timeline-for-iit-m-s-comprehensive-": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "mp|poll",
+  "no-outsiders-attended-t-n-cabinet-meetings-says-social-justi": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "cabinet|minister",
     "norm": 50.5
   },
-  "gallantry-citation-squadron-leader-sudhir-kumar-awarded-shau": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "war",
-    "norm": 49.4
+  "scor-vijayawada-division-records-4-894-crore-revenue-in-firs": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "crore|record",
+    "norm": 50.2
   },
-  "nalsar-convocation-row-bar-council-chief-mk-misra-apologises": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "row",
-    "norm": 49.4
+  "cancel-zameer-ahmed-khan-s-legislative-membership-says-b-p-y": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
+    "signature": "khan",
+    "norm": 44.3
   },
-  "bhatkal-celebrates-80th-independence-day-uttara-kannada-mark": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "riot",
-    "norm": 49.4
-  },
-  "-call-from-god-kerala-man-stabs-parents-to-death-tells-polic": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "death",
-    "norm": 48.2
-  },
-  "the-eplane-company-unveils-india-first-full-scale-e200x-pt01": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "hal-amphibious-dornier-228-programme-gains-momentum": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "ambassador-kwatra-hails-indian-diaspora-role-in-us-ties": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "us ties",
-    "norm": 47.1
-  },
-  "5-shot-at-virginia-state-university-campus-lockdown-lifted-a": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "-robot-boy-steal-show-at-kavundampalayam-govt-school-indepen": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "analysts-hail-reliance-rolls-royce-strategic-alliance-as-spa": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "alliance",
-    "norm": 47.1
-  },
-  "kathua-celebrates-80th-independence-day-celebrated-with-patr": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "riot",
-    "norm": 46.3
-  },
-  "suryapath-tiranga-global-relay-concludes-across-54-countries": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "iran",
-    "norm": 46.3
-  },
-  "bci-chairman-apologises-to-law-students-amid-enrolment-ban-c": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "controversy",
-    "norm": 46.3
-  },
-  "government-rolls-out-foreign-asset-disclosure-scheme-for-sma": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "tax",
-    "norm": 45.9
-  },
-  "india-opens-nuclear-power-sector-to-proven-foreign-reactor-t": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
+  "centre-s-auditor-cag-flags-e-coli-in-drinking-water-across-r": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
     "signature": "actor",
-    "norm": 45.5
-  },
-  "exclusive-kushal-tandon-on-zaid-darbar-i-didnt-see-him-as-ga": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "khan",
     "norm": 42.4
   },
-  "kareena-kapoor-shares-son-taimur-ali-khan-adorable-independe": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "khan",
-    "norm": 42.4
-  },
-  "indian-coast-guard-signs-milestone-agreement-with-l-t-for-in": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
+  "separate-industrial-security-force-battalion-sought-for-kaly": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
     "signature": "",
-    "norm": 37.4
+    "norm": 36
   },
-  "book-review-old-world-images-new-generation-eyes": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
+  "ap-genco-prioritises-24x7-power-supply-for-agri-farmers": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
     "signature": "",
-    "norm": 37.4
+    "norm": 36
   },
-  "indian-hacktivist-collective-night-hunters-claims-breach-of-": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "hc-cj-appeal-to-legal-fraternity": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "former-tvk-candidate-arun-kumar-joins-aiadmk": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "msmes-in-coimbatore-to-explore-green-hydrogen-sector": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "over-1-000-students-showcase-ideas-for-greener-cleaner-neigh": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "drdo-launches-rfp-for-256-element-x-band-aesa-radar-panel-fe": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "what-are-samira-said-demands-all-on-ex-abc-news-journalist-s": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "i-day-celebrated-world-over-with-flag-hoistings-and-exhibiti": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "us-five-shot-near-virginia-state-university": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "book-review-how-india-almost-became-seat-of-the-caliphate": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "drdo-advances-pulse-laser-technology-for-potential-anti-sate": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "rti-activists-gets-no-details-on-tejas-mk1-production-uttam-": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "want-to-protect-your-brain-as-you-age-neurologist-dr-arun-sh": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
+  "vit-ap-university-honours-nine-unsung-heroes": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
     "signature": "",
     "norm": 33.9
   },
-  "nagaland-govt-committed-to-honourable-solution-to-naga-polit": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "silicon-valley-loves-jargon-and-hill-climbing-is-its-favorit": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "indian-man-in-france-talks-about-loneliness-behind-europe-aw": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "sakeena-itoo-hoists-tricolour-at-anantnag-highlights-governm": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "xiaomi-power-bank-5i-20000-67w-review-high-power-portability": {
-    "firstSeen": "2026-08-15T17:31:18.243Z",
+  "himanta-sarma-urges-assam-settlers-to-list-assamese-as-mothe": {
+    "firstSeen": "2026-08-15T18:43:09.700Z",
     "signature": "",
     "norm": 33.9
   }
