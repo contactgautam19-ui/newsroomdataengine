@@ -1,196 +1,131 @@
 {
-  "iran-demands-release-of-3-pilots-captured-in-qatar-after-su-": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "army|attack|attack|crash|crash|iran|killed|killed",
-    "norm": 96.4
+  "-ask-your-mother-bjp-chief-nainar-nagendran-remark-on-vijay-": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "bjp|chief minister|congress|controversy|minister|outrage|president",
+    "norm": 70.1
   },
-  "6-9-magnitude-quake-strikes-indonesia-hours-after-deadly-tre": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "dead|dead|earthquake|earthquake|killed|killed",
-    "norm": 75.8
-  },
-  "5-people-dead-army-soldiers-among-8-missing-in-rain-hit-arun": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "accident|army|dead|dead|landslide",
-    "norm": 75.1
-  },
-  "ayodhya-donation-theft-what-s-the-truth-ground-report-from-a": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "ayodhya|controversy|mp",
+  "80th-independence-day-democracy-under-pressure-gen-z-parliam": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "exam|parliament|row",
     "norm": 66
   },
-  "-sent-parents-to-heaven-kerala-man-arrested-for-stabbing-par": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "attack|attack|video",
-    "norm": 63.2
-  },
-  "meerut-blinkit-delivery-agent-assaulted-dragged-inside-flat-": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "attack|attack|video",
-    "norm": 63.2
-  },
-  "i-day-celebrations-held-in-kollam": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "disaster|minister|mp",
-    "norm": 61.4
-  },
-  "mahatma-gandhi-temple-sees-crowd-surge-for-80th-independence": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "crowd|mp|row",
-    "norm": 61.1
-  },
-  "-ask-your-mother-row-over-nainar-nagendran-s-reply-to-vijay-": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "bjp|president|row",
+  "bjp-says-sonia-gandhi-opposed-singing-of-full-vande-mataram-": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "bjp|congress|controversy",
     "norm": 59.7
   },
-  "-the-200-trillion-heist-on-independence-day-recalculating-ho": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "gdp|mp|trillion",
+  "cut-in-life-mission-allocation-kerala-govt-has-deceived-poor": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "lakh|mp|opposition",
     "norm": 59.3
   },
-  "all-bank-deposits-not-automatically-taxable-income-under-sec": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "mp|ruling|tax",
-    "norm": 57.6
+  "three-suspected-poachers-killed-in-hanur-shoot-out-probe-ord": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "killed|killed",
+    "norm": 59.3
   },
-  "the-bar-and-bench-walk-with-you-cji-to-youth-in-i-day-messag": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "cji|war",
+  "independence-day-live-updates-one-shouldn-t-speak-lies-from-": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "modi|modi",
     "norm": 57.1
   },
-  "avenues-of-professional-reward-opening-up-for-artistes-from-": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "mp|war",
-    "norm": 57.1
-  },
-  "man-stops-on-bridge-for-selfie-with-infant-daughter-throws-h": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "fan|row",
-    "norm": 55.7
-  },
-  "after-vijay-s-father-remark-row-over-bjp-leader-s-ask-mother": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "bjp|row",
-    "norm": 55.4
-  },
-  "a-p-minister-anam-ramanarayana-reddy-faints-after-hosting-th": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "minister|sudden|suddenly",
+  "apiic-tableau-bags-first-prize-at-i-day-event-in-tirupati": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "crore|minister",
     "norm": 55
   },
-  "ukraine-strikes-russian-rocket-centre-supporting-starlink-st": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "border|star",
-    "norm": 53.5
+  "man-stabs-parents-to-death-in-kerala-s-idukki": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "death|video",
+    "norm": 54.2
   },
-  "python-enters-up-meat-shop-to-hunt-goat-drunk-man-wraps-it-a": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "crowd|row",
-    "norm": 52.4
+  "onam-cycle-rally-to-be-held-in-thiruvananthapuram-on-sunday": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "rally|rally",
+    "norm": 52
   },
-  "bwf-world-c-ships-beyond-smashes-drops-the-conditions-could-": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "mp|star",
+  "zardari-claims-pakistan-s-hindus-prefer-being-with-us-says-i": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "khan|pakistan",
     "norm": 51.7
   },
-  "testing-labs-to-be-set-up-at-pampa-and-sannidhanam-to-ensure": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "minister|mp|vote",
+  "us-housing-squeeze-over-50-of-families-burdened-by-rent-here": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "price|prices|rbi",
     "norm": 50.9
   },
-  "china-s-new-arctic-route-is-a-20-day-voyage-to-europe-but-th": {
-    "firstSeen": "2026-08-15T13:38:27.223Z",
-    "signature": "china|mp",
-    "norm": 48.7
+  "ttd-urges-employees-to-enhance-devotee-services": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "mp|vote",
+    "norm": 50.5
   },
-  "telangana-cm-reddy-accuses-brs-leaders-of-occult-practices-a": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "congress|mp",
-    "norm": 48.7
-  },
-  "-i-regret-bci-chief-manan-kumar-mishra-apologises-to-nalsar-": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
+  "-i-regret-bci-chief-manan-mishra-apologises-to-nalsar-law-st": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
     "signature": "row",
     "norm": 48.2
   },
-  "independence-day-celebrations-highlight-progress-honour-free": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
+  "-i-sincerely-apologise-bci-chief-to-law-students-after-row-o": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "new-bus-service-launched-for-palakondaraya-temple-pilgrims": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "karnataka-has-begun-process-to-procure-15-000-new-buses-tran": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
     "signature": "minister",
     "norm": 45.9
   },
-  "we-want-people-of-tamil-nadu-to-develop-zero-tolerance-for-c": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "mp",
+  "congress-govt-committed-to-ensure-welfare-of-the-poor-says-b": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "congress",
     "norm": 45.9
   },
-  "new-anubhava-mantapa-will-be-inaugurated-by-basava-jayanti-k": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "khan",
-    "norm": 44.3
-  },
-  "sctimst-unveils-chitra-core-its-first-coronary-stent": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
+  "complaint-filed-over-unauthorised-independence-day-programme": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
     "signature": "mp",
     "norm": 44
   },
-  "sim-card-smuggling-counterfeit-currency-notes-3-arrested-in-": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "pakistan",
+  "hml-uses-drone-seeding-to-restore-15-acres-of-eucalyptus-lan": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "aerial|drone",
     "norm": 44
   },
-  "openai-s-s7-data-centre-drops-plan-to-cool-it-with-recycled-": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "mp",
-    "norm": 44
+  "grs-talent-star-2026-at-kalamandira-on-august-22": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
+    "signature": "star",
+    "norm": 42.4
   },
-  "shg-women-members-in-telangana-s-yadadri-get-drones-mobile-m": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "drone",
-    "norm": 42.7
-  },
-  "it-rights-body-writes-to-labour-ministry-over-wipro-s-onboar": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
+  "80-of-crops-damaged-in-gadag-district-says-basavaraj-rayared": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
     "signature": "",
     "norm": 36
   },
-  "bengaluru-engineer-hits-wife-smothers-her-with-pillow-then-d": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
+  "ernakulam-bengaluru-vande-bharat-gets-16-coaches": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
     "signature": "",
     "norm": 36
   },
-  "kalaburagi-sports-habba-from-september-24-to-26": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
+  "ttd-gearing-up-for-twin-brahmotsavams-this-year-chairman-b-r": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
     "signature": "",
     "norm": 36
   },
-  "hyderabad-marks-independence-day-with-flags-festivities-and-": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
+  "no-permanent-enemies-in-politics-says-satish-jarkiholi": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
     "signature": "",
     "norm": 36
   },
-  "hanur-shoot-out-mlc-k-shivakumar-seeks-high-level-probe": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
+  "bengaluru-namma-metro-inducts-15th-yellow-line-train-peak-ho": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "every-eligible-family-will-get-a-ration-card-uttam-kumar": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "",
-    "norm": 36
-  },
-  "state-government-has-taken-initiatives-to-tackle-drought-sit": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "",
-    "norm": 36
-  },
-  "parties-celebrate-80th-independence-day-on-a-grand-note": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
-    "signature": "",
-    "norm": 36
-  },
-  "simulation-exercises-planned-to-strengthen-health-emergency-": {
-    "firstSeen": "2026-08-15T14:33:53.525Z",
+  "uphold-national-unity-build-a-stronger-india-for-future-gene": {
+    "firstSeen": "2026-08-15T15:31:36.361Z",
     "signature": "",
     "norm": 33.9
   }
