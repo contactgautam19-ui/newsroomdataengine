@@ -1,106 +1,211 @@
 {
-  "2-killed-after-7-7-magnitude-earthquake-shakes-indonesia-tsu": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "earthquake|earthquake|killed|killed|tsunami|war|warning",
-    "norm": 78.5
+  "pm-s-veiled-shot-at-opposition-fearmongers-spread-fake-news-": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "fear|fire|fire|minister|modi|modi|opposition|prime minister",
+    "norm": 89
   },
-  "2-killed-in-7-7-magnitude-earthquake-in-indonesia-tsunami-wa": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "earthquake|earthquake|killed|killed|tsunami|war|warning",
-    "norm": 78.5
+  "video-buildings-collapse-as-7-7-earthquake-strikes-indonesia": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "collapse|collapse|collapse|earthquake|earthquake|tsunami|video|war|warning",
+    "norm": 82.4
   },
-  "michigan-shooting-5-killed-1-critically-injured-gunman-found": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "dead|dead|died|hospital|injured|killed|killed|shooting",
-    "norm": 76.4
+  "in-i-day-speech-pm-modi-lists-12-year-growth-story-defence-p": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "defence|minister|modi|modi|prime minister|row|war",
+    "norm": 79.4
   },
-  "batwara-1947-opens-at-rs-5-75-crore-trails-behind-awarapan-2": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "crore|film|mp|star|war",
-    "norm": 74
+  "telangana-cabinet-okays-200-crore-scheme-for-conversion-of-f": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "cabinet|chief minister|crore|diesel|fuel|minister|petrol|petrol|poll",
+    "norm": 79.4
   },
-  "rubio-greets-india-on-i-day-says-modi-trump-bond-made-us-ind": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "minister|modi|modi|mp|president|prime minister|trump|trump",
-    "norm": 68.8
+  "-india-stands-with-flood-victims-top-quotes-from-pm-modi-s-i": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "flood|flood|modi|modi|mp",
+    "norm": 75.3
   },
-  "independence-day-2026-live-pm-modi-pays-tributes-to-mahatma-": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "modi|modi|war",
+  "-preparations-proved-useful-pm-modi-says-india-has-gas-petro": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "modi|modi|mp|petrol|petrol",
+    "norm": 74.6
+  },
+  "-freedom-fighters-dreams-continue-to-inspire-us-leaders-exte": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "crore|minister|modi|modi|mp|prime minister",
+    "norm": 72.6
+  },
+  "independence-day-2026-live-youth-power-will-be-fully-utilise": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "economy|modi|modi|result",
+    "norm": 70.6
+  },
+  "10-top-quotes-from-pm-modi-s-independence-day-speech-everyon": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "modi|modi|row",
     "norm": 67.6
   },
-  "india-wouldn-t-have-witnessed-partition-if-modi-had-been-pm-": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "chief minister|minister|modi|modi|yogi",
-    "norm": 64.6
+  "-fragile-5-to-fastest-growing-pm-modi-on-india-s-80th-i-day": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "modi|modi|row",
+    "norm": 67.6
   },
-  "80th-independence-day-live-updates-india-celebrates-80th-ind": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "defence|minister|modi|modi",
+  "pm-modi-s-independence-day-look-what-his-kurta-vest-and-turb": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "modi|modi|row",
+    "norm": 67.6
+  },
+  "pm-modi-independence-day-speech-from-fragile-five-to-economi": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "economy|modi|modi",
+    "norm": 65.6
+  },
+  "fragile-5-no-more-eyes-on-200-gw-nuclear-energy-target-key-n": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "economy|modi|modi",
+    "norm": 65.6
+  },
+  "army-to-get-loitering-munitions-worth-1-577-cr": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "army|crore|defence|drone",
+    "norm": 64.9
+  },
+  "report-card-status-check-of-promises-made-in-previous-indepe": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "lakh|modi|modi",
+    "norm": 63.9
+  },
+  "india-independence-day-2026-pm-modi-s-august-15-speech-live-": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "minister|modi|modi|prime minister",
     "norm": 63.5
   },
-  "union-ministers-call-rahul-gandhi-s-remarks-on-pm-modi-undig": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "congress|defence|minister|modi|modi|rahul gandhi",
-    "norm": 63.4
+  "data-centres-artificial-intelligence-find-mentions-in-pm-mod": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 63.5
   },
-  "-to-completely-curb-use-of-unfair-means-president-murmu-unde": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "exam|mp|president",
+  "80th-independence-day-live-updates-developed-india-by-2047-i": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 63.5
+  },
+  "25-000-security-personnel-1-000-cctv-cameras-delhi-on-high-a": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "alert|cctv|ipl",
+    "norm": 63.2
+  },
+  "-india-dreaming-big-pm-modi-delivers-13th-independence-day-s": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 61.8
+  },
+  "-tricolour-flies-in-every-home-amp-dwells-in-every-mind-pm-m": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "modi|modi|mp",
     "norm": 59.7
   },
-  "independence-day-live-updates-pm-modi-greets-people": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
+  "-i-have-faith-in-the-youth-of-my-country-pm-modi-says-gen-z-": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
     "signature": "modi|modi",
     "norm": 57.1
   },
-  "independence-day-2026-updates-pm-modi-to-lead-80th-celebrati": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
+  "independence-day-live-updates-pm-modi-urges-self-reliance-ca": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
     "signature": "modi|modi",
     "norm": 57.1
   },
-  "pm-modi-greets-nation-on-80th-independence-day-says-india-sc": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
+  "-12-years-ago-solar-capacity-was-2-gw-today-it-is-160-gw-pm-": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "chennai-civic-body-revokes-increase-in-property-taxes": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "backlash|tax",
+    "norm": 57.1
+  },
+  "modi-becomes-second-pm-after-nehru-to-deliver-13-consecutive": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "-every-heart-beating-with-the-rhythm-pm-as-vande-mataram-ech": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "-dream-big-to-developed-india-vow-top-10-quotes-from-pm-modi": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
     "signature": "modi|modi",
     "norm": 55.4
   },
-  "independence-day-2026-live-pm-modi-wishes-nation-on-80th-ind": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
+  "-vande-mataram-echoing-from-red-fort-for-first-time-pm-modi-": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
     "signature": "modi|modi",
     "norm": 55.4
   },
-  "cji-criticises-bci-s-interference-in-dialogue-between-him-an": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "cji|supreme court",
-    "norm": 48.7
+  "5-years-of-taliban-rule-in-afghanistan-what-has-changed-": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "ruling|slam",
+    "norm": 55.4
   },
-  "-unity-in-diversity-sudarsan-pattnaik-creates-sand-sculpture": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "riot",
-    "norm": 48.2
+  "80th-independence-day-pm-modi-s-maroon-bandhani-safa-what-hi": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "modi|modi",
+    "norm": 55.4
   },
-  "telangana-sir-botched-up-enumeration-phase-leaves-94-lakh-el": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "lakh",
-    "norm": 45.9
+  "pm-modi-dons-red-tie-and-dye-turban-for-independence-day-add": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "modi|modi",
+    "norm": 55.4
   },
-  "rishabh-pant-can-make-virender-sehwag-like-impact-angelo-mat": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
+  "vacancies-in-psus": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "mp|parliament",
+    "norm": 50.5
+  },
+  "4-die-after-inhaling-toxic-gas-inside-well-in-bihar": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "died",
+    "norm": 46.3
+  },
+  "it-is-time-we-look-past-the-binary-of-good-and-bad-men": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "ahmedabad-cyber-police-bust-online-stalkers-targeting-women-": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "",
-    "norm": 36
+  "govt-plans-to-introduce-bill-on-public-property-in-assembly": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "bill",
+    "norm": 45.9
   },
-  "india-79-age-wage-and-rage-number-theory": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
-    "signature": "",
-    "norm": 36
+  "the-day-hyderabad-celebrated-two-independence-days-on-august": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "congress",
+    "norm": 45.9
   },
-  "75-happy-independence-day-messages-greetings-wishes-and-quot": {
-    "firstSeen": "2026-08-15T01:46:06.391Z",
+  "after-decades-red-corridor-gears-up-for-tryst-with-freedom": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "star",
+    "norm": 44.3
+  },
+  "in-a-first-full-version-of-vande-mataram-played-at-red-fort-": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "video",
+    "norm": 40.7
+  },
+  "evidence-demands-cbi-probe-into-coimbatore-sc-youth-murder-c": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "80th-independence-day-vande-mataram-played-for-first-time": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "vande-mataram-played-for-1st-time-during-independence-day-ce": {
+    "firstSeen": "2026-08-15T03:00:23.064Z",
     "signature": "",
     "norm": 33.9
   }
