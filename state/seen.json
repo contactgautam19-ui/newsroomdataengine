@@ -1,170 +1,165 @@
 {
-  "20-killed-in-7-7-magnitude-earthquake-in-indonesia-tsunami-w": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "earthquake|earthquake|fear|killed|killed|shock|shock|tsunami|war|warning",
-    "norm": 83.1
+  "-i-want-it-immediately-nsa-ajit-doval-reveals-pm-modi-s-1st-": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "attack|attack|border|modi|modi|pakistan|terror|terror",
+    "norm": 92.3
   },
-  "video-buildings-collapse-as-7-7-earthquake-strikes-indonesia": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "collapse|collapse|collapse|earthquake|earthquake|tsunami|video|war|warning",
-    "norm": 82.4
+  "india-s-defence-leap-pm-modi-lauds-four-times-production-pus": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "budget|defence|modi|modi|row",
+    "norm": 79.4
   },
   "-from-fragile-5-to-world-s-fastest-growing-nation-pm-modi-s-": {
     "firstSeen": "2026-08-15T06:53:51.021Z",
     "signature": "defence|minister|modi|modi|prime minister|record|row",
-    "norm": 79.7
+    "norm": 78.2
   },
-  "heated-exchange-between-bjp-and-priyank-kharge-over-bill-tar": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "bill|bjp|minister|terror|terror|threat",
-    "norm": 76.9
+  "pm-modi-pitches-ai-skilling-and-free-online-coaching-to-yout": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "minister|modi|modi|prime minister|row|vote|war",
+    "norm": 77.9
   },
-  "after-gen-z-its-gen-alpha-s-turn-to-seek-accountability-kejr": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "exam|kejriwal|mp|protest|protest",
-    "norm": 76.8
+  "independence-day-2026-pm-modi-appeals-to-oppn-to-help-implem": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "minister|modi|modi|mp|prime minister|war",
+    "norm": 74.6
   },
-  "maharashtra-government-to-set-a-task-force-for-drone-policy-": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "chief minister|drone|maharashtra|minister|mp|policy",
-    "norm": 68.4
+  "bjp-protests-absence-of-women-ministers-in-karnataka-cm-dk-s": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "bjp|cabinet|minister|opposition|president|protest|protest",
+    "norm": 70.5
   },
-  "us-envoy-calls-west-bank-settler-siege-act-of-terror-as-isra": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "israel|terror|terror",
-    "norm": 68
-  },
-  "nalsar-row-can-bci-freeze-enrolment-of-an-entire-graduating-": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "modi|modi|row",
-    "norm": 67.6
-  },
-  "upset-by-centre-s-response-on-business-rules-reservation-rep": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "chief minister|minister|upset|war",
-    "norm": 65.3
+  "watch-jharkhand-student-leader-mahto-clashes-with-police-say": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "clash|clash|khan|video|watch",
+    "norm": 65.6
   },
   "avoid-blame-game-on-assam-floods-says-nagaland-coal-miners-b": {
     "firstSeen": "2026-08-15T06:53:51.021Z",
     "signature": "actor|flood|flood|floods",
     "norm": 65
   },
-  "what-is-fragile-five-that-pm-modi-mentioned-in-his-i-day-spe": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "modi|modi|sudden",
-    "norm": 62.8
+  "-urdu-mein-tiranga-pehna-congress-ireland-dig-at-pm-modi-s-i": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "congress|iran|modi|modi",
+    "norm": 65
+  },
+  "four-killed-after-tractor-trolley-carrying-bricks-overturns-": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "actor|killed|killed",
+    "norm": 64.6
+  },
+  "pm-modi-s-independence-day-2026-speech-here-are-the-key-anno": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 63.5
+  },
+  "external-forces-trying-to-influence-youth-only-pm-modi-can-s": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "modi|modi",
+    "norm": 57.1
   },
   "independence-day-live-updates-pm-modi-calls-for-manufacturin": {
     "firstSeen": "2026-08-15T06:53:51.021Z",
     "signature": "modi|modi",
     "norm": 57.1
   },
-  "israeli-settlers-divert-palestinian-water-to-fill-west-bank-": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "israel|mp",
-    "norm": 57.1
-  },
-  "pm-modi-greets-people-on-independence-day": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "modi|modi",
+  "-unprofessional-unfounded-nalsar-students-slam-bar-council-o": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "mp|slam",
     "norm": 55.4
   },
-  "independence-day-2026-full-speech-transcript-of-pm-modi-s-sp": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "modi|modi",
+  "tripura-ranks-2nd-in-northeast-in-gdp-per-capita-income-mani": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "gdp|row",
     "norm": 55.4
   },
-  "did-pm-modi-s-2047-vision-also-carry-a-2029-message-what-his": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "modi|modi",
-    "norm": 55.4
+  "kanimozhi-at-lok-sabha-speaker-s-tea-party-proves-dmk-bjp-pa": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "bjp|congress|lok sabha|minister",
+    "norm": 53.9
+  },
+  "did-sonia-gandhi-insult-vande-mataram-during-i-day-celebrati": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "congress|video",
+    "norm": 52
+  },
+  "in-2047-vikshit-bharat-dreams-will-be-realised-through-viksi": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "chief minister|minister|prime minister",
+    "norm": 50.9
   },
   "-sign-of-his-desperation-how-congress-leaders-reacted-to-pm-": {
     "firstSeen": "2026-08-15T05:35:33.718Z",
     "signature": "congress|minister|prime minister",
-    "norm": 52.7
+    "norm": 50.9
   },
-  "caste-covid-vaccine-bank-accounts-voter-aadhaar-the-big-chan": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "record|vote",
-    "norm": 50.2
-  },
-  "us-signals-indefinite-naval-blockade-of-iran-amid-declining-": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "iran",
-    "norm": 46.3
+  "-pok-people-would-have-risen-to-rejoin-j-k-if-statehood-wasn": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
   },
   "in-independence-day-speech-kerala-cm-warns-against-communali": {
     "firstSeen": "2026-08-15T06:53:51.021Z",
     "signature": "war",
-    "norm": 46.3
+    "norm": 48.2
   },
-  "priest-held-after-allegedly-being-found-in-objectionable-sit": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
+  "congress-fighting-nationwide-to-protect-constitution-says-ra": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "congress",
+    "norm": 45.9
+  },
+  "mehbooba-asks-centre-to-reflect-if-india-has-lived-up-to-con": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "notices-to-43-medical-shops-in-telangana-over-sale-of-mounja": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
     "signature": "mp",
     "norm": 45.9
+  },
+  "a-p-witnessing-significant-progress-with-initiatives-of-gove": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "bengal-man-caught-in-bengaluru-trying-to-join-taliban-to-fig": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "pakistan",
+    "norm": 44
+  },
+  "kerala-govt-announces-bonus-festival-allowance-for-employees": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "mp",
+    "norm": 44
   },
   "independence-day-2026-jagat-murari-and-ftii-where-india-s-fi": {
     "firstSeen": "2026-08-15T06:53:51.021Z",
     "signature": "film",
-    "norm": 44.3
+    "norm": 42.4
   },
   "ahead-of-onam-kerala-police-seize-3-030-litres-of-illicit-sp": {
     "firstSeen": "2026-08-15T06:53:51.021Z",
     "signature": "fan",
-    "norm": 44.3
+    "norm": 42.4
   },
-  "bsp-s-mayawati-targets-casteist-feudal-elements-over-stage-p": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "president",
-    "norm": 44
+  "manipur-cm-stresses-peace-normalcy-for-development-on-indepe": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "",
+    "norm": 36
   },
-  "freak-oil-heist-in-rajasthan-8-thieves-puncture-pipeline-to-": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "freak",
-    "norm": 40.7
+  "telangana-govt-is-developing-bharat-future-city-as-country-s": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "",
+    "norm": 36
+  },
+  "new-system-of-governance-central-to-zpm-govt-s-vision-for-se": {
+    "firstSeen": "2026-08-15T07:38:21.054Z",
+    "signature": "",
+    "norm": 33.9
   },
   "kerala-s-chokramudi-hills-to-open-for-tourists-as-neelakurin": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "",
-    "norm": 36
-  },
-  "scores-of-palaniswami-s-supporters-join-stir-aiadmk-rebels-s": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "",
-    "norm": 36
-  },
-  "committed-to-goal-of-j-k-s-state-restoration-its-constitutio": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "",
-    "norm": 36
-  },
-  "country-needs-informed-citizens-not-blind-followers-for-stro": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "path-to-development-in-manipur-is-through-peace-cm": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "officer-hoists-national-flag-twice-in-belagavi-district-due-": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "archaeologists-find-9-500-year-old-burial-of-young-woman-and": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "nalsar-student-bar-says-provisions-cited-by-bci-do-not-autho": {
-    "firstSeen": "2026-08-15T06:53:51.021Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "gen-z-should-take-up-the-fight-against-bidadi-township-proje": {
     "firstSeen": "2026-08-15T06:53:51.021Z",
     "signature": "",
     "norm": 33.9
