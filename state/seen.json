@@ -9,25 +9,15 @@
     "signature": "chief minister|khan|lakh|minister|protest|protest|war|warning",
     "norm": 85.6
   },
+  "nihang-sikhs-the-warrior-tradition": {
+    "firstSeen": "2026-08-15T22:33:47.607Z",
+    "signature": "army|attack|attack|maharashtra|war",
+    "norm": 78.4
+  },
   "rahul-gandhi-kharge-skip-red-fort-i-day-event-vande-mataram-": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "bjp|clash|clash|congress|minister|modi|modi|opposition|president|prime minister|rahul gandhi|row",
-    "norm": 75.4
-  },
-  "trump-eyes-millions-from-personal-political-funds-for-gop-am": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "congress|fear|fund|mp|president|trump|trump",
-    "norm": 72.2
-  },
-  "devendra-mahto-alleges-assault-by-ranchi-police-after-being-": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "exam|iran|protest|protest|recruitment",
-    "norm": 70.9
-  },
-  "army-dog-tyson-shot-in-j-amp-k-op-after-helping-track-3-terr": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "army|mp|terror|terror",
-    "norm": 67.6
+    "norm": 71.9
   },
   "2-quakes-shook-venezuela-colombia-weeks-apart-how-rescue-eff": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
@@ -44,20 +34,20 @@
     "signature": "chief minister|coalition|congress|khan|minister|protest|protest|rahul gandhi",
     "norm": 66.7
   },
-  "chaos-at-kozhikode-corporation-s-i-day-flag-hoisting-as-coun": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "bjp|congress|result|ruling|star",
-    "norm": 66.3
-  },
   "uttarakhand-tunnel-workers-say-they-flagged-water-leak-got-n": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "flood|flood|khan|killed|killed",
     "norm": 66.2
   },
-  "as-pm-modi-pushes-for-desi-drones-army-plans-rs-20k-cr-munit": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "army|drone|modi|modi",
-    "norm": 65.3
+  "devendra-mahto-alleges-assault-by-ranchi-police-after-being-": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "exam|iran|protest|protest|recruitment",
+    "norm": 65.6
+  },
+  "army-dog-tyson-shot-in-j-amp-k-op-after-helping-track-3-terr": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "army|mp|terror|terror",
+    "norm": 64.7
   },
   "political-tug-of-war-over-women-s-reservation-bill-a-call-fo": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
@@ -69,6 +59,11 @@
     "signature": "attack|attack|maharashtra|war",
     "norm": 64.1
   },
+  "chaos-at-kozhikode-corporation-s-i-day-flag-hoisting-as-coun": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "bjp|congress|result|ruling|star",
+    "norm": 63.4
+  },
   "jharkhand-protest-students-demand-cm-hemant-soren-s-resignat": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "congress|khan|protest|protest|rahul gandhi",
@@ -77,22 +72,17 @@
   "former-cambridge-professor-jason-arday-found-dead-amid-dei-h": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "dead|dead|row",
-    "norm": 62.9
+    "norm": 60.4
+  },
+  "as-pm-modi-pushes-for-desi-drones-army-plans-rs-20k-cr-munit": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "army|drone|modi|modi",
+    "norm": 59.9
   },
   "i-day-cm-announces-new-schemes-to-boost-job-creation-ai-push": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "chief minister|economy|jobs|lakh|minister|trillion",
-    "norm": 62.5
-  },
-  "-india-will-move-forward-when-rahul-slams-bjp-after-meeting-": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "bjp|rahul gandhi|slam|slams|war",
-    "norm": 58.3
-  },
-  "jharkhand-students-demand-cm-soren-s-resignation-ask-congres": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "coalition|congress|khan",
-    "norm": 57.9
+    "norm": 59.5
   },
   "rescued-colombian-earthquake-survivor-passes-dies-37-hours-u": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
@@ -109,25 +99,30 @@
     "signature": "attack|attack|mp",
     "norm": 56.7
   },
+  "-india-will-move-forward-when-rahul-slams-bjp-after-meeting-": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "bjp|rahul gandhi|slam|slams|war",
+    "norm": 54.4
+  },
+  "jharkhand-students-demand-cm-soren-s-resignation-ask-congres": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "coalition|congress|khan",
+    "norm": 53.5
+  },
   "congress-signals-support-for-sikh-prisoners-release-amid-ban": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "chief minister|congress|khan|minister|mla|rally|rally",
-    "norm": 56.2
+    "norm": 52.2
   },
   "trump-urges-americans-to-pay-little-bit-more-for-gas-as-horm": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "iran|mp|trump|trump",
-    "norm": 55.6
+    "norm": 51.6
   },
-  "stree-shakti-a-step-towards-women-empowerment-dignity-says-c": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "mp|war",
-    "norm": 49.6
-  },
-  "bhel-presents-awards-to-employees-on-i-day": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "mp|war",
-    "norm": 49.6
+  "deals-pixel-11-series-goes-on-pre-order-galaxy-z8-foldables-": {
+    "firstSeen": "2026-08-15T22:33:47.607Z",
+    "signature": "deal|price|prices",
+    "norm": 50.9
   },
   "zimbabwe-ferry-accident-death-count-rises-to-68-as-22-more-b": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
@@ -139,39 +134,29 @@
     "signature": "israel|war",
     "norm": 47.7
   },
-  "cm-suvendu-promises-to-restore-old-glory-of-west-bengal-in-h": {
+  "stree-shakti-a-step-towards-women-empowerment-dignity-says-c": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "jobs|mp",
-    "norm": 47.3
-  },
-  "preserve-democracy-and-secularism-says-minister-roji-m-john-": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "minister|mp",
-    "norm": 45.9
+    "signature": "mp|war",
+    "norm": 45.4
   },
   "anthropic-ceo-s-wife-asked-epstein-to-invest-in-her-luxury-p": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "mp|row",
     "norm": 45.4
   },
-  "yellow-silk-dhotis-new-dress-code-for-ayodhya-ram-temple-pri": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "ayodhya|mp",
-    "norm": 45.4
-  },
-  "bci-chairman-apologises-to-law-students-amid-enrolment-ban-c": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "controversy",
+  "kareena-kapoor-shares-son-taimur-ali-khan-s-adorable-indepen": {
+    "firstSeen": "2026-08-15T22:33:47.607Z",
+    "signature": "bollywood|bollywood|khan",
     "norm": 43.5
   },
-  "independence-day-2026-a-hidden-lake-of-lotuses-and-the-india": {
-    "firstSeen": "2026-08-15T20:34:37.733Z",
-    "signature": "accident",
-    "norm": 43.5
-  },
-  "onam-purchases-to-burn-hole-in-wallets-as-prices-soar": {
+  "cm-suvendu-promises-to-restore-old-glory-of-west-bengal-in-h": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "price|prices",
+    "signature": "jobs|mp",
+    "norm": 43
+  },
+  "preserve-democracy-and-secularism-says-minister-roji-m-john-": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "minister|mp",
     "norm": 42.5
   },
   "indonesia-rocked-by-3-major-quakes-and-over-230-aftershocks-": {
@@ -179,55 +164,50 @@
     "signature": "shock|shock",
     "norm": 42.2
   },
-  "japan-pm-takaichi-skips-visit-to-disputed-shrine-on-world-wa": {
+  "yellow-silk-dhotis-new-dress-code-for-ayodhya-ram-temple-pri": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "died|war",
-    "norm": 41.8
+    "signature": "ayodhya|mp",
+    "norm": 41
+  },
+  "bci-chairman-apologises-to-law-students-amid-enrolment-ban-c": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "controversy",
+    "norm": 40.1
+  },
+  "independence-day-2026-a-hidden-lake-of-lotuses-and-the-india": {
+    "firstSeen": "2026-08-15T20:34:37.733Z",
+    "signature": "accident",
+    "norm": 40.1
+  },
+  "onam-purchases-to-burn-hole-in-wallets-as-prices-soar": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "price|prices",
+    "norm": 38
   },
   "had-article-370-stayed-pok-may-have-sought-to-rejoin-j-amp-k": {
     "firstSeen": "2026-08-15T20:34:37.733Z",
     "signature": "mp",
-    "norm": 41
+    "norm": 37.5
   },
   "bishnoi-comes-out-in-support-of-rao-inderjit-says-ignoring-s": {
     "firstSeen": "2026-08-15T20:34:37.733Z",
     "signature": "bjp",
-    "norm": 41
+    "norm": 37.5
+  },
+  "japan-pm-takaichi-skips-visit-to-disputed-shrine-on-world-wa": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "died|war",
+    "norm": 37.3
   },
   "bsnl-to-expand-4g-coverage-ftth-services-in-dharwad-davanger": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "anger",
-    "norm": 40.1
+    "norm": 35.5
   },
   "suryapath-tiranga-global-relay-of-tricolour-spirit-from-fiji": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "iran",
-    "norm": 40.1
-  },
-  "yogi-govt-s-big-crackdown-on-adulterated-dairy-products-pane": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "mp|yogi",
-    "norm": 38
-  },
-  "lamborghini-revuelto-sv-revealed-with-1-050bhp-hybrid-v12-se": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "cji|mp",
-    "norm": 38
-  },
-  "sctimst-unveils-chitra-core-its-first-coronary-stent": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "kharge-questions-rss-role-in-freedom-struggle-defends-public": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "bill",
-    "norm": 37.5
-  },
-  "devadula-phase-vi-will-be-completed-by-dec-2028-to-benefit-t": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "mp",
-    "norm": 37.5
+    "norm": 35.5
   },
   "-given-up-fishing-us-airstrikes-cartel-extortion-threaten-ec": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
@@ -244,19 +224,29 @@
     "signature": "war",
     "norm": 35.5
   },
-  "-i-sincerely-apologise-bci-chief-to-law-students-after-row-o": {
+  "yogi-govt-s-big-crackdown-on-adulterated-dairy-products-pane": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "row",
-    "norm": 35.5
+    "signature": "mp|yogi",
+    "norm": 33.4
+  },
+  "sctimst-unveils-chitra-core-its-first-coronary-stent": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "kharge-questions-rss-role-in-freedom-struggle-defends-public": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "bill",
+    "norm": 32.8
+  },
+  "devadula-phase-vi-will-be-completed-by-dec-2028-to-benefit-t": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "mp",
+    "norm": 32.8
   },
   "inside-the-indian-navy-s-southern-naval-command-how-sailors-": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "navy",
-    "norm": 32.8
-  },
-  "echoes-across-the-radcliffe-line-the-battle-for-punjabiyat-i": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "pakistan",
     "norm": 32.8
   },
   "centre-s-auditor-cag-flags-e-coli-in-drinking-water-across-r": {
@@ -264,35 +254,45 @@
     "signature": "actor",
     "norm": 31
   },
+  "moon-base-india-s-lunar-future": {
+    "firstSeen": "2026-08-15T22:33:47.607Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "-i-sincerely-apologise-bci-chief-to-law-students-after-row-o": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "row",
+    "norm": 30.7
+  },
+  "echoes-across-the-radcliffe-line-the-battle-for-punjabiyat-i": {
+    "firstSeen": "2026-08-15T21:31:11.261Z",
+    "signature": "pakistan",
+    "norm": 27.8
+  },
   "amit-bhatia-led-consortium-buys-minority-stake-in-liverpool-": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 26.7
   },
   "yakshagana-dhol-tasha-garba-add-colour-to-bengaluru-s-first-": {
     "firstSeen": "2026-08-15T20:34:37.733Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 26.7
   },
   "independence-day-celebrations-held-in-vellore-nearby-distric": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "apple-iphone-18-pro-release-date-discounted-day-re-enters-th": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "new-coal-blocks-to-further-strengthen-sccl-says-cmd": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
     "signature": "",
-    "norm": 26.7
-  },
-  "fssai-makes-u-turn-revokes-order-against-enrica-products": {
-    "firstSeen": "2026-08-15T21:31:11.261Z",
-    "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "himanta-sarma-urges-assam-settlers-to-list-assamese-as-mothe": {
     "firstSeen": "2026-08-15T21:31:11.261Z",
