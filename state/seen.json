@@ -1,111 +1,106 @@
 {
-  "-if-there-s-even-a-shred-of-shame-left-amit-shah-attacks-con": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "amit shah|attack|attack|congress|row|video",
-    "norm": 80.1
+  "-repeatedly-maligned-falsely-accused-mamata-banerjee-on-deat": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "dead|dead|death|mamata|mla|mp",
+    "norm": 76.9
   },
-  "sukhbir-badal-attack-harsimrat-writes-to-amit-shah-demands-n": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "amit shah|attack|attack|minister|mp",
+  "cjp-claims-questions-on-youth-protests-neet-police-action-di": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "lok sabha|neet|protest|protest",
+    "norm": 72.9
+  },
+  "cjp-says-three-sets-of-questions-on-youth-protests-disallowe": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "lok sabha|mp|protest|protest|war",
     "norm": 72
   },
-  "tarique-rahman-india-visit-hasina-extradition-row-tests-indi": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "ipl|minister|prime minister|row",
-    "norm": 70
+  "nepal-helps-bhutan-strengthen-quake-preparedness-with-suppor": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "coalition|hospital|modi|modi",
+    "norm": 71.6
   },
-  "pv-sindhu-turns-to-sports-science-s-amp-c-in-bid-for-record-": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "mp|record|result|results|results",
-    "norm": 68.9
+  "jharkhand-exam-stir-students-to-burn-rahul-gandhi-cm-effigie": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "coalition|congress|exam|khan|rahul gandhi",
+    "norm": 70.3
   },
-  "maharashtra-rat-found-in-ice-cream-freezer-at-blinkit-store-": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "maharashtra|row|watch",
-    "norm": 64.9
+  "actor-ananya-raj-dies-family-says-she-died-peacefully-in-sle": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "actor|died|fan|film|instagram",
+    "norm": 61.9
   },
-  "bjp-files-complaint-against-sonia-gandhi-over-vande-mataram-": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "bjp|mp|row",
-    "norm": 61.4
+  "veteran-malayalam-actor-devan-quits-bjp-accuses-party-s-stat": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "actor|bjp|deal",
+    "norm": 60.4
   },
-  "virginia-swamp-re-wetting-traps-200-000-tons-of-carbon-a-yea": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "fire|fire|mp",
-    "norm": 61.1
+  "this-country-serves-fresh-beer-for-less-than-a-bottle-of-wat": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "price|prices|rupee|star",
+    "norm": 58.3
   },
-  "market-recap-top-5-firms-lose-rs-1-lakh-cr-in-value-tcs-reli": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "lakh|mp|stock market",
-    "norm": 57.6
+  "delhi-metro-cisf-jawan-caught-clicking-woman-s-photos-pointi": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "photos|video|war",
+    "norm": 57.1
   },
-  "tukaram-singham-mundhe-s-fda-vs-ajay-devgn-srk-tiger-how-did": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "khan|row",
-    "norm": 53.9
+  "17-year-old-writes-program-proving-146-isolated-noble-polyhe": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "mp|war",
+    "norm": 55.4
   },
-  "fire-at-furniture-godown-near-plamoodu-in-kerala-s-thiruvana": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "fire|fire",
-    "norm": 52.4
+  "rahul-lauds-courage-of-india-s-youth-for-standing-firm-again": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "modi|modi",
+    "norm": 55.4
   },
-  "complaint-filed-against-tamil-nadu-bjp-chief-over-ask-your-m": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "bjp|chief minister|minister|mp",
-    "norm": 52.1
+  "raut-defends-rahul-over-his-remarks-against-amit-shah": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "amit shah|bill|bjp|lok sabha|mp|rahul gandhi",
+    "norm": 54.7
   },
-  "-he-said-it-was-unloaded-injured-screeners-recall-air-india-": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "accident|injured",
-    "norm": 52.1
+  "san-diego-student-develops-red-light-therapy-to-help-heal-wo": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "fan|mp",
+    "norm": 53.5
   },
-  "bangladesh-says-pm-will-not-visit-india-until-hasina-extradi": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "death",
+  "bankim-descendant-seeks-sonia-apology-over-vande-mataram-row": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "row",
     "norm": 48.2
   },
-  "bombay-hc-rules-community-health-volunteers-entitled-to-mini": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "bomb",
-    "norm": 46.3
-  },
-  "up-officers-invoke-bhagat-singh-buddha-to-explain-duty-justi": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "mp",
+  "ntpc-kayamkulam-celebrates-independence-day": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "president",
     "norm": 45.9
   },
-  "after-nalsar-bengaluru-law-university-students-oppose-cji-ka": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "cji",
-    "norm": 44
+  "miraculous-escape-rpf-constable-saves-woman-from-falling-und": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
+    "signature": "video",
+    "norm": 40.7
   },
-  "vantara-hits-new-conservative-milestone-on-80th-independence": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
+  "hyderabad-police-invites-applications-for-150-special-police": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
     "signature": "",
     "norm": 36
   },
-  "7-held-in-karnataka-over-rape-abortion-of-woman-with-mental-": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
+  "ind-vs-sl-the-ninety-minutes-moving-day-comes-early-in-gloom": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
     "signature": "",
     "norm": 36
   },
-  "-extradite-sheikh-hasina-hand-over-hadi-killers-dhaka-s-cond": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
-    "signature": "",
-    "norm": 36
-  },
-  "bangladesh-pm-s-proposed-india-visit-conditional-on-hasina-e": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
+  "nasa-s-moon-base-too-early-to-tell-where-india-fits-in": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
     "signature": "",
     "norm": 33.9
   },
-  "southern-railway-proposes-new-accessway-to-link-radha-nagar-": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
+  "fda-notice-to-shah-rukh-ajay-devgn-and-tiger-shroff-over-vim": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
     "signature": "",
     "norm": 33.9
   },
-  "-propitious-environment-needs-to-be-created-bangladesh-says-": {
-    "firstSeen": "2026-08-16T11:30:31.956Z",
+  "-flier-said-gun-not-loaded-recalls-varanasi-airport-staff-th": {
+    "firstSeen": "2026-08-16T12:56:45.211Z",
     "signature": "",
     "norm": 33.9
   }
