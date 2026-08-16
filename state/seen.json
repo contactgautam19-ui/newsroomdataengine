@@ -1,131 +1,301 @@
 {
-  "maharashtra-bjp-leader-blames-trump-s-shifting-iran-war-tact": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "attack|attack|bjp|iran|maharashtra|mp|trump|trump|war",
-    "norm": 93.1
+  "technical-glitches-in-bombay-high-court-clerk-recruitment-ty": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "bomb|high court|maharashtra|protest|protest|recruitment",
+    "norm": 89.6
   },
-  "-won-t-tolerate-insult-bjp-carries-out-protests-in-several-s": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "bjp|congress|protest|protest|row|video",
-    "norm": 74.6
+  "1-killed-children-among-4-injured-in-shooting-at-park-in-us-": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "injured|killed|killed|shooting|weather",
+    "norm": 77
   },
-  "cisf-personnel-caught-secretly-taking-woman-s-photos-on-delh": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "photos|video|viral|viral|viral|viral video",
+  "trump-envoy-meets-hamas-leaders-over-gaza-plan-will-see-neta": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "israel|mp|trump|trump|war",
+    "norm": 76.5
+  },
+  "-my-prayers-have-been-answered-have-got-results-dk-shivakuma": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "mp|result|results|results|war",
+    "norm": 76.1
+  },
+  "dsc-row-selected-teachers-hold-vijayawada-rally-to-defend-re": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "rally|rally|recruitment|row",
     "norm": 74
   },
-  "-terror-plot-averted-cops-find-bomb-timer-in-suspicious-pack": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "bomb|mp|terror|terror",
-    "norm": 71
+  "heavy-rain-forecast-for-aug-17-18-as-himachal-monsoon-death-": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "crore|death|heavy rain|toll",
+    "norm": 73.7
   },
-  "congress-leader-s-son-killed-in-nadia-district-of-west-benga": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "congress|killed|killed",
-    "norm": 67.6
+  "israel-vows-to-go-after-hezbollah-as-it-names-another-killed": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "israel|killed|killed",
+    "norm": 72.3
   },
-  "chaos-in-delhi-metro-after-paramilitary-official-allegedly-t": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "photos|video|viral|viral|viral",
-    "norm": 67.3
+  "vande-mataram-row-bjym-protests-files-complaints-against-son": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "congress|mp|protest|protest|rahul gandhi|row",
+    "norm": 72.3
   },
-  "pm-narendra-modi-s-dimagi-naxal-remark-sparks-bjp-congress-s": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "bjp|congress|minister|modi|modi|prime minister",
-    "norm": 63.4
+  "congress-stage-protest-in-kalaburagi-over-alleged-shuddhikar": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "congress|protest|protest|rally|rally",
+    "norm": 70.7
   },
-  "trump-s-envoys-in-middle-east-to-push-for-gaza-peace-plan": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "mp|trump|trump",
-    "norm": 61.4
+  "navy-sailor-wife-2-children-found-dead-at-cuffe-parade-home-": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "dead|dead|navy",
+    "norm": 68.7
   },
-  "3-000-hectares-up-in-flames-belgium-battles-its-biggest-wild": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "fire|fire|record",
+  "cm-vijay-condemns-killing-of-3-tamil-farmers-in-karnataka-st": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "chief minister|minister|mp|outrage|tragic",
+    "norm": 67
+  },
+  "row-over-3-poachers-shot-dead-in-karnataka-vijay-says-they-w": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "dead|dead|death|row",
+    "norm": 65.5
+  },
+  "tripura-bjp-tipra-motha-alliance-talks-underway-for-village-": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "alliance|bjp|election|election",
+    "norm": 64.6
+  },
+  "nithin-kamath-on-startup-pitches-why-we-use-ai-is-no-longer-": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "investor|mp|star",
+    "norm": 63.2
+  },
+  "israel-surprised-by-speed-of-iran-missile-recovery-despite-s": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "iran|israel|surprise",
+    "norm": 60.8
+  },
+  "four-year-old-missing-from-bhopal-home-found-dead-in-open-se": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "dead|dead",
+    "norm": 60.4
+  },
+  "jharkhand-government-invites-student-protesters-for-fresh-ta": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "khan|protest|protest",
+    "norm": 59.7
+  },
+  "-incumbent-on-pakistan-to-treat-all-citizens-equally-without": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "ipl|pakistan",
     "norm": 58.3
   },
-  "eleven-held-for-attacking-youth-over-love-proposal": {
-    "firstSeen": "2026-08-16T16:37:25.023Z",
-    "signature": "attack|attack",
-    "norm": 57.6
+  "mamata-banerjee-condoles-death-of-former-deputy-speaker-asis": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "death|mamata",
+    "norm": 58.3
   },
-  "cyber-crime-emerging-as-the-biggest-challenge-facing-police-": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "president|war",
-    "norm": 57.1
-  },
-  "delhi-metro-cisf-jawan-caught-clicking-woman-s-photos-pointi": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "photos|video|war",
-    "norm": 57.1
-  },
-  "jnu-vice-chancellor-terms-allegations-of-irregularities-in-r": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "mp|recruitment",
+  "tirupati-police-arrest-11-after-student-clash-over-love-affa": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "clash|clash",
     "norm": 55.4
   },
-  "congress-holds-focus-group-discussions-with-students": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "congress|opposition|rahul gandhi",
-    "norm": 52.7
+  "sikkim-tourism-minister-bhutia-gyalshing-dc-conduct-joint-in": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "landslide|minister",
+    "norm": 55.4
   },
-  "residents-protest-delay-in-teegalaguttapalli-rob-works-in-ka": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "sir-helped-bihar-achieve-record-poll-turnout-says-cec-gyanes": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "poll|record",
+    "norm": 55
   },
-  "police-launch-probe-after-national-anthem-vande-mataram-sung": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "bjp|record",
-    "norm": 52
+  "gujarat-dy-cm-harsh-sanghavi-slams-chidambaram-over": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "slam|slams",
+    "norm": 55
   },
-  "annamalai-levels-graft-charge-against-some-tamil-nadu-minist": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
+  "-parliament-passed-it-without-any-discussion-without-voting-": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "bill|minister|parliament",
+    "norm": 53.9
   },
-  "ronaldo-drops-bombshell-retirement-hint-reveals-plans-for-li": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "bomb",
+  "cooperation-and-dairy-sectors-have-immense-potential-to-tran": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "amit shah|economy",
+    "norm": 53.2
+  },
+  "telangana-cm-revanth-reddy-slams-brs-highlights-welfare-push": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "slam|slams",
+    "norm": 52.1
+  },
+  "supreme-court-clears-promotion-of-42-deputy-collectors-in-mp": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "mp|supreme court",
+    "norm": 51.7
+  },
+  "teen-suicide-under-scanner-after-pregnancy-disclosure-man-ar": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "maharashtra",
+    "norm": 49.4
+  },
+  "imd-forecasts-thunderstorms-strong-winds-in-ap": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "storm",
+    "norm": 49.4
+  },
+  "iit-madras-launches-musical-fountain-exclusive-gym-for-femal": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "mp",
+    "norm": 49
+  },
+  "amit-shah-lays-foundation-of-new-dairy-plant-inaugurates-rs-": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "amit shah",
+    "norm": 47.1
+  },
+  "rahul-gandhi-announces-chhatron-ki-goonj-event-in-pune-on-au": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "rahul gandhi",
+    "norm": 47.1
+  },
+  "-disaster-4-renaissance-era-paintings-stolen-from-italian-mu": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "disaster",
     "norm": 46.3
   },
-  "-explanation-unacceptable-cm-vijay-condemns-killing-of-three": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "brutal",
-    "norm": 46.3
+  "khalifa-trailer-review": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "trailer",
+    "norm": 45.5
   },
-  "devadula-phase-vi-will-be-completed-by-dec-2028-to-benefit-t": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
+  "trailer-driver-murdered-on-mumbai-nashik-highway-in-bhiwandi": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "trailer",
+    "norm": 45.5
+  },
+  "from-women-empowerment-to-education-cm-mann-highlights-punja": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
     "signature": "mp",
     "norm": 44
   },
-  "many-initiatives-in-the-pipeline-to-transform-tourism-sector": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "minister",
+  "-india-is-emerging-as-an-economic-power-rs-deputy-chairman-h": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "upset",
     "norm": 44
   },
-  "no-private-data-sought-id-details-to-be-provided-only-if-ava": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
+  "amit-shah-unveils-atal-bihari-vajpayee-statue-in-rajasthan-c": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "amit shah",
+    "norm": 44
+  },
+  "at-15-lynne-cox-broke-the-english-channel-record-for-men-and": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "record",
+    "norm": 44
+  },
+  "sanitation-worker-fatally-stabbed-in-east-delhi-police-launc": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "us-tomb-raider-mother-daughter-and-boyfriend-allegedly-stole": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "ibpc-dubai-marks-india-at-80-with-call-for-deeper-uae-india-": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "college-student-dies-after-stepping-on-live-power-cable-in-w": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "deptuy-cm-eknath-shinde-directs-14-departments-to-resolve-ch": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "black-steel-t-u-u-ricky-public-enemy-the-economic-times": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "vijayendra-seeks-crackdown-on-cattle-smugglers": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "why-some-people-enter-your-life-only-to-leave-5-spiritual-re": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "pm-tarique-rahman-congratulates-bangladesh-team-after-histor": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "nielit-launches-cyber-kushti-2026-cybersecurity-ai-hackathon": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "mumbai-metro-one-launches-digital-passes-on-whatsapp-for-com": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "nta-admits-defect-in-3-ugc-net-papers-orders-re-tests-in-sep": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "food-review-at-this-mumbai-bar-cocktails-come-in-six-courses": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "poorly-kept-chiklihole-reservoir-blocks-water-for-paddy-cult": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "15-year-old-boy-electrocuted-while-sleeping-near-charging-la": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "ips-officer-s-mother-found-murdered-in-up-home-jewellery-loo": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
     "signature": "",
     "norm": 36
   },
-  "junior-doctors-in-a-p-to-withdraw-emergency-services-from-mo": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
+  "welcome-bellevision-com": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
     "signature": "",
     "norm": 36
   },
-  "quordle-hints-today-monday-august-17-clues-and-answers": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
-    "signature": "",
-    "norm": 36
-  },
-  "t-n-cm-vijay-condemns-killing-of-three-tamils-by-karnataka-f": {
-    "firstSeen": "2026-08-16T17:29:58.575Z",
+  "delhi-cisf-personnel-suspended-over-alleged-misconduct-with-": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
     "signature": "",
     "norm": 33.9
   },
-  "new-coal-blocks-to-further-strengthen-sccl-says-cmd": {
-    "firstSeen": "2026-08-16T16:37:25.023Z",
+  "police-seize-weapons-explosives-in-weekend-raids-across-raha": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "railway-ministry-orders-immediate-measures-to-ensure-safe-dr": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "ministry-of-mines-to-organise-roadshow-on-8th-tranche-of-cri": {
+    "firstSeen": "2026-08-16T18:42:35.664Z",
     "signature": "",
     "norm": 33.9
   }
