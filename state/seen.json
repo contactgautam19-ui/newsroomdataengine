@@ -1,107 +1,102 @@
 {
-  "jharkhand-job-exam-stir-protesters-announce-cm-residence-ghe": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "coalition|congress|exam|khan|protest|protest",
-    "norm": 83.2
+  "hungary-bus-crash-12-killed-10-injured-after-polish-bus-over": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "crash|crash|died|injured|killed|killed|minister|prime minister|tragic",
+    "norm": 91.8
   },
-  "tear-gas-water-cannons-used-against-qaumi-insaf-morcha-prote": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "actor|governor|mp|protest|protest|war",
-    "norm": 76.9
+  "how-bangladesh-followed-virat-kohli-s-template-to-humble-aus": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "attack|attack|cricket|kohli|mp",
+    "norm": 83.8
   },
-  "asish-banerjee-mamata-banerjee-s-close-aide-found-dead-at-tr": {
-    "firstSeen": "2026-08-16T04:46:05.538Z",
-    "signature": "chief minister|dead|dead|mamata|minister|mla|mp",
-    "norm": 75.1
+  "ahead-of-amit-shah-s-visit-to-alwar-students-detained-before": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "amit shah|election|election|protest|protest|scam|war",
+    "norm": 82.4
+  },
+  "pm-modi-pays-tribute-to-atal-vihari-vajpayee-on-death-annive": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "death|minister|modi|modi|prime minister",
+    "norm": 73.6
   },
   "proud-to-be-dimagi-naxal-congress-p-chidambaram-hits-back-at": {
     "firstSeen": "2026-08-16T05:38:17.112Z",
     "signature": "congress|modi|modi|war",
     "norm": 71.6
   },
-  "pm-modi-prez-murmu-bjp-leaders-pay-tribute-to-vajpayee-on-de": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "bjp|death|modi|modi",
-    "norm": 71.6
+  "vimal-elaichi-ad-row-why-fda-sent-notices-to-shah-rukh-khan-": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "exam|khan|maharashtra|row",
+    "norm": 71.3
   },
-  "rs-2-92-crore-compensation-for-man-disabled-in-2020-delhi-ro": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "accident|crore|injured|mp",
-    "norm": 69
+  "who-was-ashis-banerjee-5-time-tmc-mla-found-hanging-at-party": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "dead|dead|death|mla",
+    "norm": 71
   },
-  "srk-ajay-devgn-tiger-shroff-faces-trouble-fda-issues-notices": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "actor|bollywood|bollywood|khan|maharashtra|star",
-    "norm": 67.1
+  "students-detained-ahead-of-amit-shah-s-alwar-visit-as-they-p": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "amit shah|bjp|protest|protest|war",
+    "norm": 70.4
   },
-  "punjab-bandi-sikh-row-congress-signals-support-for-release-a": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "chief minister|congress|minister|mla|row",
-    "norm": 64.6
+  "asish-banerjee-former-bengal-minister-and-trinamool-leader-f": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "dead|dead|minister|mp",
+    "norm": 70
   },
-  "with-slogans-and-tears-ujjain-schoolgirls-protest-plan-to-sh": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
+  "fadnavis-backs-modi-s-intellectual-naxals-remark": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "chief minister|maharashtra|minister|modi|modi",
+    "norm": 67
   },
-  "bangladesh-create-history-in-australia-register-first-ever-w": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "cricket|first-ever|mp",
-    "norm": 62.8
+  "fresh-low-pressure-area-in-bay-of-bengal-imd-issues-red-warn": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "heavy rain|war|warning",
+    "norm": 62.9
   },
-  "-entering-politics-was-a-mistake-ex-bengal-deputy-speaker-s-": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "dead|dead",
+  "air-india-express-passenger-fires-shots-at-varanasi-airport-": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "fire|fire|injured",
+    "norm": 59.6
+  },
+  "warangal-dmo-k-surekha-dies-in-road-accident": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "accident|war",
     "norm": 59.3
   },
-  "harsimrat-kaur-calls-attack-on-sukhbir-badal-well-planned-po": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "attack|attack",
-    "norm": 57.6
+  "air-india-express-passenger-fires-during-weapon-check-at-var": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "fire|fire|injured",
+    "norm": 57.9
   },
-  "even-as-government-considers-mdr-charge-on-upi-data-shows-ca": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "economy|row",
+  "high-volume-of-exotic-animal-applications-in-t-n-gaps-in-fac": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "mp|war",
     "norm": 57.1
   },
-  "who-is-asish-banerjee-mamata-s-confidant-intellectual-trinam": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "died|mamata",
-    "norm": 57.1
+  "fadnavis-pawar-pay-tribute-to-ex-pm-vajpayee-on-death-annive": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "death|war",
+    "norm": 53.9
   },
-  "devendra-nath-mahto-the-making-of-an-agitator": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "exam|khan",
-    "norm": 55.7
+  "russia-claims-600-ukrainian-drones-targeted-moscow-overnight": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "drone|war",
+    "norm": 52.4
   },
-  "-it-s-never-easy-padikkal-opens-up-on-long-wait-for-india-te": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "match|mp",
-    "norm": 55.4
+  "parliamentary-panel-on-finance-suggests-task-force-to-fill-3": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "mp|parliament|sanction",
+    "norm": 50.9
   },
-  "all-about-cami-clark-anthropic-ceo-s-wife-named-in-epstein-l": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "mp|row",
-    "norm": 55.4
-  },
-  "from-teaching-to-chief-minister-s-aide-trinamool-s-asish-ban": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "chief minister|mamata|minister",
-    "norm": 52.7
-  },
-  "waiting-at-the-gates-gautamnagar-s-long-struggle-for-a-rail-": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "acquisition|fund",
-    "norm": 50.5
-  },
-  "why-gangtok-is-india-s-most-walkable-city": {
-    "firstSeen": "2026-08-16T04:46:05.538Z",
-    "signature": "row",
+  "-never-involved-in-corruption-ex-bengal-deputy-speaker-advis": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "death",
     "norm": 48.2
   },
-  "cockroaches-lizards-now-a-rat-blinkit-ice-cream-freezer-in-t": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "maharashtra",
+  "air-india-passenger-s-gun-goes-off-at-varanasi-airport-two-i": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "injured",
     "norm": 46.3
   },
   "national-award-winning-sculptor-chandrashekhar-shilpi-passes": {
@@ -109,43 +104,38 @@
     "signature": "war",
     "norm": 46.3
   },
-  "do-you-drink-water-at-railway-stations-cag-flags-e-coli-at-t": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "mp",
+  "punjab-bsf-jawan-kills-wife-tells-her-family-she-fell-from-r": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "died",
+    "norm": 46.3
+  },
+  "yuge-yugin-bharat-museum-735-crore-project-to-transform-delh": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "crore",
     "norm": 45.9
   },
-  "-she-fell-from-roof-border-force-jawan-tells-family-after-ki": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "border",
-    "norm": 45.9
+  "rat-in-blinkit-freezer-spoiled-kfc-chicken-food-safety-norms": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "star",
+    "norm": 42.4
   },
-  "the-day-hyderabad-celebrated-two-independence-days-on-august": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "congress",
-    "norm": 45.9
-  },
-  "despite-its-reputation-india-s-per-unit-space-launch-cost-hi": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "food-safety-checks-across-karnataka-what-led-to-kfc-outlet-b": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "spanish-f-18-shoots-down-drone-breaching-romanian-airspace-i": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "drone",
+  "indian-independence-day-celebrations-in-new-york-tri-state-a": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "record",
     "norm": 40.7
   },
-  "-luxury-porn-pitch-to-epstein-anthropic-ceo-s-wife-cami-clar": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "",
-    "norm": 33.9
+  "guinness-world-record-set-at-indian-i-day-celebration-in-new": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "retrofitting-tamil-nadu-to-strike-at-drug-menace": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
+  "-who-is-he-saluting-rjd-mocks-nishant-kumar-over-flag-hoisti": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "video",
+    "norm": 40.7
+  },
+  "-raises-questions-adhir-chowdhury-condemns-cong-leader-son-s": {
+    "firstSeen": "2026-08-16T06:55:08.989Z",
     "signature": "",
     "norm": 33.9
   }
