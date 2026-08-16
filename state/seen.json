@@ -1,141 +1,136 @@
 {
-  "hungary-bus-crash-12-killed-10-injured-after-polish-bus-over": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "crash|crash|died|injured|killed|killed|minister|prime minister|tragic",
-    "norm": 91.8
+  "vande-mataram-row-rahul-gandhi-and-sonia-gandhi-face-bjp-fir": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "bjp|congress|controversy|fire|fire|rahul gandhi|riot|row|storm|war",
+    "norm": 90.1
   },
-  "how-bangladesh-followed-virat-kohli-s-template-to-humble-aus": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "attack|attack|cricket|kohli|mp",
-    "norm": 83.8
+  "just-like-that-is-instant-fame-eclipsing-enduring-talent": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "ipl|mp|viral|viral|viral",
+    "norm": 76.3
   },
-  "ahead-of-amit-shah-s-visit-to-alwar-students-detained-before": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "amit shah|election|election|protest|protest|scam|war",
-    "norm": 82.4
+  "navy-sailor-wife-and-2-children-found-dead-at-mumbai-home": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "dead|dead|died|navy|tragic",
+    "norm": 75.1
   },
-  "pm-modi-pays-tribute-to-atal-vihari-vajpayee-on-death-annive": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "death|minister|modi|modi|prime minister",
-    "norm": 73.6
-  },
-  "proud-to-be-dimagi-naxal-congress-p-chidambaram-hits-back-at": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
-    "signature": "congress|modi|modi|war",
-    "norm": 71.6
+  "pakistan-sought-ceasefire-as-india-claims-major-military-obj": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "exam|fire|fire|pakistan",
+    "norm": 72.9
   },
   "vimal-elaichi-ad-row-why-fda-sent-notices-to-shah-rukh-khan-": {
     "firstSeen": "2026-08-16T06:55:08.989Z",
     "signature": "exam|khan|maharashtra|row",
-    "norm": 71.3
+    "norm": 69.7
   },
-  "who-was-ashis-banerjee-5-time-tmc-mla-found-hanging-at-party": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "dead|dead|death|mla",
-    "norm": 71
+  "why-chennai-journalists-went-on-a-fast-on-independence-day-2": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "attack|attack|protest|protest",
+    "norm": 68.4
   },
-  "students-detained-ahead-of-amit-shah-s-alwar-visit-as-they-p": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "amit shah|bjp|protest|protest|war",
-    "norm": 70.4
+  "two-injured-after-air-india-express-passenger-s-gun-goes-off": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "fire|fire|injured|mp",
+    "norm": 67.9
   },
-  "asish-banerjee-former-bengal-minister-and-trinamool-leader-f": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "dead|dead|minister|mp",
-    "norm": 70
+  "from-gst-reform-to-gccs-how-india-can-become-a-20-trillion-e": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "economy|gdp|gst|row|tax|trillion",
+    "norm": 63.4
   },
-  "fadnavis-backs-modi-s-intellectual-naxals-remark": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "chief minister|maharashtra|minister|modi|modi",
-    "norm": 67
-  },
-  "fresh-low-pressure-area-in-bay-of-bengal-imd-issues-red-warn": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "heavy rain|war|warning",
+  "skeleton-under-stirling-castle-reveals-first-confirmed-trebu": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "death|killed|killed",
     "norm": 62.9
+  },
+  "-special-as-always-pm-modi-shares-video-of-feeding-cows-peac": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "modi|modi|video",
+    "norm": 62.8
+  },
+  "pm-modi-s-independence-day-2026-speech-here-are-the-key-anno": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 61.8
   },
   "air-india-express-passenger-fires-shots-at-varanasi-airport-": {
     "firstSeen": "2026-08-16T06:55:08.989Z",
+    "signature": "accident|fire|fire|injured",
+    "norm": 60.6
+  },
+  "girl-child-welfare-maharashtra-s-lek-laadki-scheme-process-s": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "maharashtra|minister|mp",
+    "norm": 59.7
+  },
+  "varanasi-airport-firing-can-you-carry-a-gun-on-a-flight-in-i": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
     "signature": "fire|fire|injured",
     "norm": 59.6
   },
-  "warangal-dmo-k-surekha-dies-in-road-accident": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "accident|war",
-    "norm": 59.3
-  },
-  "air-india-express-passenger-fires-during-weapon-check-at-var": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "fire|fire|injured",
-    "norm": 57.9
-  },
-  "high-volume-of-exotic-animal-applications-in-t-n-gaps-in-fac": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "mp|war",
+  "sit-fast-tracks-gst-evasion-probe-into-messi-argentina-team-": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "gst|storm",
     "norm": 57.1
   },
-  "fadnavis-pawar-pay-tribute-to-ex-pm-vajpayee-on-death-annive": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "death|war",
-    "norm": 53.9
+  "rahul-gandhi-s-disproportionate-assets-case-supreme-court-to": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "mp|rahul gandhi|supreme court",
+    "norm": 52.7
   },
-  "russia-claims-600-ukrainian-drones-targeted-moscow-overnight": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "drone|war",
-    "norm": 52.4
+  "zardari-s-pakistan-tolerates-hindus-remark-irks-javed-akhtar": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "pakistan|president",
+    "norm": 50.5
   },
-  "parliamentary-panel-on-finance-suggests-task-force-to-fill-3": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "mp|parliament|sanction",
-    "norm": 50.9
-  },
-  "-never-involved-in-corruption-ex-bengal-deputy-speaker-advis": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
+  "g-k-vasan-condemns-two-chennai-students-death-calls-for-crac": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
     "signature": "death",
-    "norm": 48.2
-  },
-  "air-india-passenger-s-gun-goes-off-at-varanasi-airport-two-i": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "injured",
     "norm": 46.3
   },
-  "national-award-winning-sculptor-chandrashekhar-shilpi-passes": {
-    "firstSeen": "2026-08-16T05:38:17.112Z",
+  "in-1898-virgil-earp-claimed-160-acres-in-arizona-after-survi": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
     "signature": "war",
     "norm": 46.3
   },
-  "punjab-bsf-jawan-kills-wife-tells-her-family-she-fell-from-r": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "died",
-    "norm": 46.3
+  "historicity-the-long-history-of-the-lungi-from-ancient-india": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "parliament",
+    "norm": 45.9
+  },
+  "what-do-the-latest-white-house-allegations-mean-for-india-ex": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "china",
+    "norm": 44
+  },
+  "west-bengal-stf-arrests-three-in-coochbehar-over-suspected-p": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "pakistan",
+    "norm": 44
   },
   "yuge-yugin-bharat-museum-735-crore-project-to-transform-delh": {
     "firstSeen": "2026-08-16T06:55:08.989Z",
     "signature": "crore",
-    "norm": 45.9
-  },
-  "rat-in-blinkit-freezer-spoiled-kfc-chicken-food-safety-norms": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "star",
-    "norm": 42.4
+    "norm": 44
   },
   "indian-independence-day-celebrations-in-new-york-tri-state-a": {
     "firstSeen": "2026-08-16T06:55:08.989Z",
     "signature": "record",
     "norm": 40.7
   },
-  "guinness-world-record-set-at-indian-i-day-celebration-in-new": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "record",
-    "norm": 40.7
+  "ugc-net-2026-nta-releases-provisional-answer-keys-for-84-sub": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "",
+    "norm": 36
   },
-  "-who-is-he-saluting-rjd-mocks-nishant-kumar-over-flag-hoisti": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
-    "signature": "video",
-    "norm": 40.7
+  "this-is-india-s-first-airport-to-make-passenger-announcement": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
+    "signature": "",
+    "norm": 36
   },
-  "-raises-questions-adhir-chowdhury-condemns-cong-leader-son-s": {
-    "firstSeen": "2026-08-16T06:55:08.989Z",
+  "fda-notice-to-shah-rukh-ajay-devgn-and-tiger-shroff-over-vim": {
+    "firstSeen": "2026-08-16T07:39:54.430Z",
     "signature": "",
     "norm": 33.9
   }
