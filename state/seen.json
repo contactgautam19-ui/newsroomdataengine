@@ -7,42 +7,42 @@
   "jharkhand-exam-stir-protesters-announce-cm-residence-gherao-": {
     "firstSeen": "2026-08-16T21:30:52.125Z",
     "signature": "coalition|congress|exam|khan|protest|protest",
-    "norm": 81.7
-  },
-  "jharkhand-students-burn-effigies-of-hemant-soren-rahul-gandh": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "exam|khan|protest|protest|rahul gandhi|recruitment|video",
-    "norm": 76.8
-  },
-  "-one-family-one-ticket-row-grows-as-bjp-s-ravneet-bittu-targ": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "bjp|congress|neet|row|war",
-    "norm": 69.8
-  },
-  "congress-protests-in-kalaburagi-against-purification-ritual-": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "congress|khan|protest|protest|rally|rally",
-    "norm": 69.5
+    "norm": 79.4
   },
   "vande-mataram-row-amit-shah-attacks-sonia-gandhi-congress-hi": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "amit shah|attack|attack|bill|congress|parliament|row",
     "norm": 69.2
   },
-  "after-jharkhand-protesters-burn-soren-rahul-effigies-state-g": {
-    "firstSeen": "2026-08-16T21:30:52.125Z",
-    "signature": "congress|khan|protest|protest",
-    "norm": 68
-  },
   "1-killed-children-among-4-injured-in-shooting-at-park-in-us-": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "injured|killed|killed|shooting|weather",
     "norm": 66.7
   },
+  "-one-family-one-ticket-row-grows-as-bjp-s-ravneet-bittu-targ": {
+    "firstSeen": "2026-08-16T20:33:57.284Z",
+    "signature": "bjp|congress|neet|row|war",
+    "norm": 66.2
+  },
   "trump-envoy-meets-hamas-leaders-over-gaza-plan-will-see-neta": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "israel|mp|trump|trump|war",
     "norm": 66.2
+  },
+  "congress-protests-in-kalaburagi-against-purification-ritual-": {
+    "firstSeen": "2026-08-16T20:33:57.284Z",
+    "signature": "congress|khan|protest|protest|rally|rally",
+    "norm": 65.8
+  },
+  "ips-officer-s-mother-killed-in-u-p-s-ambedkar-nagar-jeweller": {
+    "firstSeen": "2026-08-16T22:32:42.027Z",
+    "signature": "gold|killed|killed",
+    "norm": 65.6
+  },
+  "after-jharkhand-protesters-burn-soren-rahul-effigies-state-g": {
+    "firstSeen": "2026-08-16T21:30:52.125Z",
+    "signature": "congress|khan|protest|protest",
+    "norm": 65.6
   },
   "rs-16-clothing-sale-draws-thousands-in-kanpur-sparks-stamped": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
@@ -64,10 +64,10 @@
     "signature": "bomb|mp|terror|terror",
     "norm": 62
   },
-  "model-strips-in-train-over-seat-spat-attacks-railway-cop-wit": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "attack|attack|mp",
-    "norm": 60.6
+  "trump-s-envoys-meet-mediators-israel-strikes-gaza": {
+    "firstSeen": "2026-08-16T22:32:42.027Z",
+    "signature": "israel|mp|trump|trump",
+    "norm": 59.5
   },
   "chaos-in-delhi-metro-after-paramilitary-official-allegedly-t": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
@@ -79,125 +79,120 @@
     "signature": "chief minister|minister|mp|outrage|tragic",
     "norm": 57.8
   },
-  "sonia-gandhi-vande-mataram-row-bjp-accuses-congress-of-disre": {
+  "model-strips-in-train-over-seat-spat-attacks-railway-cop-wit": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "bjp|congress|controversy|row|ruling",
-    "norm": 57.8
+    "signature": "attack|attack|mp",
+    "norm": 56.7
   },
   "row-over-3-poachers-shot-dead-in-karnataka-vijay-says-they-w": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "dead|dead|death|row",
     "norm": 56.2
   },
-  "-would-rather-die-moroccan-migrants-protest-in-spain-s-ceuta": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "border|protest|protest",
-    "norm": 55.5
+  "how-pm-modi-has-changed-focus-of-independence-day-speeches": {
+    "firstSeen": "2026-08-16T22:32:42.027Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "rahul-gandhi-s-chhatron-ki-goonj-rally-in-pune-will-be-exclu": {
+    "firstSeen": "2026-08-16T22:32:42.027Z",
+    "signature": "rahul gandhi|rally|rally",
+    "norm": 54.7
   },
   "pm-narendra-modi-s-dimagi-naxal-remark-sparks-bjp-congress-s": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "bjp|congress|minister|modi|modi|prime minister",
     "norm": 54
   },
-  "man-held-for-fatally-attacking-his-father-in-law-in-tiruvann": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "attack|attack",
-    "norm": 51.8
+  "-would-rather-die-moroccan-migrants-protest-in-spain-s-ceuta": {
+    "firstSeen": "2026-08-16T20:33:57.284Z",
+    "signature": "border|protest|protest",
+    "norm": 51.5
   },
   "jharkhand-government-invites-student-protesters-for-fresh-ta": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "khan|protest|protest",
     "norm": 50
   },
-  "four-sfi-activists-held-over-protest-at-ssus": {
+  "barrierless-tolling-makes-impact-number-of-e-notices-goes-do": {
+    "firstSeen": "2026-08-16T22:32:42.027Z",
+    "signature": "mp|toll",
+    "norm": 49.6
+  },
+  "questions-raised-over-hospital-dustbin-procurement-in-bihar": {
+    "firstSeen": "2026-08-16T22:32:42.027Z",
+    "signature": "bjp|hospital",
+    "norm": 49.6
+  },
+  "man-held-for-fatally-attacking-his-father-in-law-in-tiruvann": {
     "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "protest|protest",
-    "norm": 46.5
-  },
-  "two-escape-unhurt-after-car-catches-fire-in-vellore": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "fire|fire",
-    "norm": 46.5
-  },
-  "in-spain-s-ceuta-hundreds-of-migrants-stage-protest-and-dema": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "protest|protest",
-    "norm": 46.5
-  },
-  "civil-police-recruitment-exam-141-omr-sheets-go-missing-from": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "exam|recruitment",
-    "norm": 46.1
-  },
-  "sabari-rail-project-landowners-meet-minister-chalakudy-mp": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "minister|mp",
-    "norm": 45.9
-  },
-  "from-hospitals-to-schools-china-expands-scrutiny-of-religiou": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "china|hospital",
-    "norm": 45.4
-  },
-  "punjab-cong-faces-fresh-rift-as-mp-challenges-warring-s-one-": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "mp|war",
-    "norm": 45.4
+    "signature": "attack|attack",
+    "norm": 47.7
   },
   "delhi-metro-cisf-jawan-caught-clicking-woman-s-photos-pointi": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "photos|video|war",
     "norm": 45.4
   },
-  "lens-on-cambridge-after-black-professor-s-death-amid-scrutin": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "death",
+  "vande-mataram-row-bankim-chandra-s-kin-writes-to-sonia-gandh": {
+    "firstSeen": "2026-08-16T22:32:42.027Z",
+    "signature": "row",
     "norm": 43.5
   },
-  "barrierless-tolling-makes-road-users-fall-in-line-drop-in-nu": {
+  "sabari-rail-project-landowners-meet-minister-chalakudy-mp": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "toll",
-    "norm": 43.5
-  },
-  "army-chief-dhiraj-seth-visits-nepal-to-strengthen-military-t": {
-    "firstSeen": "2026-08-16T21:30:52.125Z",
-    "signature": "army|president",
+    "signature": "minister|mp",
     "norm": 42.5
+  },
+  "four-sfi-activists-held-over-protest-at-ssus": {
+    "firstSeen": "2026-08-16T19:29:30.951Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "two-escape-unhurt-after-car-catches-fire-in-vellore": {
+    "firstSeen": "2026-08-16T19:29:30.951Z",
+    "signature": "fire|fire",
+    "norm": 42.2
+  },
+  "in-spain-s-ceuta-hundreds-of-migrants-stage-protest-and-dema": {
+    "firstSeen": "2026-08-16T20:33:57.284Z",
+    "signature": "protest|protest",
+    "norm": 42.2
   },
   "-unacceptable-cm-vijay-condemns-massacre-of-3-tamil-nadu-men": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "death|massacre",
     "norm": 41.8
   },
-  "pixel-11-series-honor-robot-phone-redmi-17-official-week-33-": {
+  "lens-on-cambridge-after-black-professor-s-death-amid-scrutin": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "mp",
-    "norm": 41
+    "signature": "death",
+    "norm": 40.1
+  },
+  "army-chief-dhiraj-seth-visits-nepal-to-strengthen-military-t": {
+    "firstSeen": "2026-08-16T21:30:52.125Z",
+    "signature": "army|president",
+    "norm": 38
+  },
+  "e-coli-found-in-drinking-water-rail-stations-lack-basic-faci": {
+    "firstSeen": "2026-08-16T22:32:42.027Z",
+    "signature": "",
+    "norm": 36
   },
   "man-held-for-alleged-loan-fraud-in-kochi": {
     "firstSeen": "2026-08-16T19:29:30.951Z",
     "signature": "fraud",
-    "norm": 40.1
+    "norm": 35.5
   },
   "72-year-old-man-falls-to-death-from-18th-floor-of-his-apartm": {
     "firstSeen": "2026-08-16T19:29:30.951Z",
     "signature": "death",
-    "norm": 40.1
+    "norm": 35.5
   },
   "woman-held-for-stealing-gold-jewellery-in-cuddalore": {
     "firstSeen": "2026-08-16T19:29:30.951Z",
     "signature": "gold",
-    "norm": 40.1
-  },
-  "research-achieves-its-highest-purpose-when-it-serves-society": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "president",
-    "norm": 37.5
-  },
-  "after-nalsar-another-top-law-college-opposes-invite-to-chief": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "cji",
-    "norm": 37.5
+    "norm": 35.5
   },
   "-disaster-4-renaissance-era-paintings-stolen-from-italian-mu": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
@@ -229,60 +224,60 @@
     "signature": "brutal",
     "norm": 35.5
   },
+  "pixel-11-series-honor-robot-phone-redmi-17-official-week-33-": {
+    "firstSeen": "2026-08-16T20:33:57.284Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "research-achieves-its-highest-purpose-when-it-serves-society": {
+    "firstSeen": "2026-08-16T19:29:30.951Z",
+    "signature": "president",
+    "norm": 32.8
+  },
+  "after-nalsar-another-top-law-college-opposes-invite-to-chief": {
+    "firstSeen": "2026-08-16T20:33:57.284Z",
+    "signature": "cji",
+    "norm": 32.8
+  },
   "from-women-empowerment-to-education-cm-mann-highlights-punja": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "mp",
     "norm": 32.8
   },
-  "bengal-double-murder-3-arrested-over-killing-of-congress-lea": {
-    "firstSeen": "2026-08-16T21:30:52.125Z",
-    "signature": "congress",
-    "norm": 32.8
-  },
-  "apple-iphone-18-pro-release-date-discounted-day-re-enters-th": {
-    "firstSeen": "2026-08-16T21:30:52.125Z",
-    "signature": "",
-    "norm": 30.7
-  },
   "karnataka-government-has-failed-to-mitigate-drought-says-kum": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "junior-doctors-in-a-p-to-withdraw-emergency-services-from-mo": {
     "firstSeen": "2026-08-16T19:29:30.951Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "oxygen-depletion-kills-a-large-number-of-jalebi-fish-in-pala": {
     "firstSeen": "2026-08-16T19:29:30.951Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "ips-officer-s-mother-found-murdered-in-up-home-jewellery-loo": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "ailu-demands-resignation-of-bci-chairman": {
     "firstSeen": "2026-08-16T19:29:30.951Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "house-of-aiadmk-functionary-burgled-near-arakkonam": {
     "firstSeen": "2026-08-16T19:29:30.951Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "third-leg-of-seaside-festival-held-in-vizag": {
     "firstSeen": "2026-08-16T19:29:30.951Z",
     "signature": "",
-    "norm": 26.7
-  },
-  "22-000-lawyers-on-kerala-s-bar-council-rolls-unaccounted-for": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "murder-in-noida-arrest-in-bihar-how-5-litres-of-liquor-led-c": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
@@ -296,6 +291,11 @@
   },
   "-putzer-for-ritzer-parsow-for-parsons-what-are-the-typos-err": {
     "firstSeen": "2026-08-16T20:33:57.284Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "quordle-hints-today-monday-august-17-clues-and-answers": {
+    "firstSeen": "2026-08-16T22:32:42.027Z",
     "signature": "",
     "norm": 21.2
   }
