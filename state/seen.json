@@ -1,106 +1,146 @@
 {
-  "-repeatedly-maligned-falsely-accused-mamata-banerjee-on-deat": {
+  "rahul-lauds-courage-of-india-s-youth-for-standing-firm-again": {
     "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "dead|dead|death|mamata|mla|mp",
-    "norm": 76.9
+    "signature": "gst|modi|modi|protest|protest|rahul gandhi|video",
+    "norm": 85.4
   },
-  "cjp-claims-questions-on-youth-protests-neet-police-action-di": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "lok sabha|neet|protest|protest",
-    "norm": 72.9
+  "pappu-yadav-joins-student-protesters-in-bihar-stages-hunger-": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "brutal|exam|protest|protest",
+    "norm": 70
   },
-  "cjp-says-three-sets-of-questions-on-youth-protests-disallowe": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "lok sabha|mp|protest|protest|war",
-    "norm": 72
-  },
-  "nepal-helps-bhutan-strengthen-quake-preparedness-with-suppor": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "coalition|hospital|modi|modi",
-    "norm": 71.6
-  },
-  "jharkhand-exam-stir-students-to-burn-rahul-gandhi-cm-effigie": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "coalition|congress|exam|khan|rahul gandhi",
-    "norm": 70.3
-  },
-  "actor-ananya-raj-dies-family-says-she-died-peacefully-in-sle": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "actor|died|fan|film|instagram",
-    "norm": 61.9
+  "hockey-world-cup-india-hold-olympic-silver-medallists-china-": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "china|mp|neet|world cup",
+    "norm": 65
   },
   "veteran-malayalam-actor-devan-quits-bjp-accuses-party-s-stat": {
     "firstSeen": "2026-08-16T12:56:45.211Z",
     "signature": "actor|bjp|deal",
-    "norm": 60.4
+    "norm": 62.1
   },
-  "this-country-serves-fresh-beer-for-less-than-a-bottle-of-wat": {
+  "actor-ananya-raj-dies-family-says-she-died-peacefully-in-sle": {
     "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "price|prices|rupee|star",
-    "norm": 58.3
+    "signature": "actor|died|fan|film|instagram",
+    "norm": 60.3
+  },
+  "maharashtra-fda-suspends-parle-agro-s-licence-after-expired-": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "maharashtra|mp",
+    "norm": 57.1
+  },
+  "sit-fast-tracks-gst-evasion-probe-into-messi-argentina-team-": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "gst|storm",
+    "norm": 57.1
+  },
+  "ambedkar-kalaignar-visiting-fellowship-at-soas-takes-scs-sts": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "ipl|policy",
+    "norm": 57.1
+  },
+  "bengaluru-nlsiu-students-oppose-cji-surya-kant-at-convocatio": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "cji|controversy",
+    "norm": 55.4
   },
   "delhi-metro-cisf-jawan-caught-clicking-woman-s-photos-pointi": {
     "firstSeen": "2026-08-16T12:56:45.211Z",
     "signature": "photos|video|war",
-    "norm": 57.1
-  },
-  "17-year-old-writes-program-proving-146-isolated-noble-polyhe": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "mp|war",
     "norm": 55.4
   },
-  "rahul-lauds-courage-of-india-s-youth-for-standing-firm-again": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "modi|modi",
-    "norm": 55.4
+  "uttar-pradesh-to-train-10-000-gau-mitras-for-cow-protection": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "economy|mp",
+    "norm": 55
   },
-  "raut-defends-rahul-over-his-remarks-against-amit-shah": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "amit shah|bill|bjp|lok sabha|mp|rahul gandhi",
-    "norm": 54.7
+  "cauvery-issue-protecting-farmers-interests-and-upholding-law": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "chief minister|minister|mp",
+    "norm": 52.7
   },
-  "san-diego-student-develops-red-light-therapy-to-help-heal-wo": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "fan|mp",
-    "norm": 53.5
+  "all-organisations-must-follow-the-law-of-the-land-karnataka-": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
+  },
+  "one-of-assam-s-sharpest-wildlife-guard-dogs-retires": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "iran",
+    "norm": 48.2
+  },
+  "child-seriously-injured-after-falling-from-second-floor": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "injured",
+    "norm": 48.2
   },
   "bankim-descendant-seeks-sonia-apology-over-vande-mataram-row": {
     "firstSeen": "2026-08-16T12:56:45.211Z",
     "signature": "row",
-    "norm": 48.2
+    "norm": 46.3
   },
-  "ntpc-kayamkulam-celebrates-independence-day": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "president",
+  "multi-lingual-writers-have-made-significant-contribution-to-": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "miraculous-escape-rpf-constable-saves-woman-from-falling-und": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "video",
-    "norm": 40.7
+  "utkal-sanskrutika-samaj-organises-free-medical-blood-donatio": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "hyderabad-police-invites-applications-for-150-special-police": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
+  "revanth-inaugurates-mulugu-idoc-promises-development-push": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "scr-renews-135-km-of-track-completes-20-rubs-this-year-to-bo": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "cjp-volunteer-father-dies-son-blames-bengal-bjp-workers-3-he": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "bjp",
+    "norm": 44
+  },
+  "autorickshaw-unions-welcome-telangana-government-s-ev-retrof": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "",
+    "norm": 36
+  },
+  "man-kills-brother-over-dispute-about-chicken-pakoda-in-kadap": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "",
+    "norm": 36
+  },
+  "ponnam-seeks-separate-obc-sebc-category-in-census-2027": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "",
+    "norm": 36
+  },
+  "telangana-to-develop-7-448-km-rural-roads-under-ham-in-first": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "",
+    "norm": 36
+  },
+  "gouthu-latchanna-remembered-on-birth-anniversary": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
+    "signature": "",
+    "norm": 36
+  },
+  "construction-site-sealed-in-coonoor-after-activists-question": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
     "signature": "",
     "norm": 36
   },
   "ind-vs-sl-the-ninety-minutes-moving-day-comes-early-in-gloom": {
     "firstSeen": "2026-08-16T12:56:45.211Z",
     "signature": "",
-    "norm": 36
-  },
-  "nasa-s-moon-base-too-early-to-tell-where-india-fits-in": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "",
     "norm": 33.9
   },
-  "fda-notice-to-shah-rukh-ajay-devgn-and-tiger-shroff-over-vim": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-flier-said-gun-not-loaded-recalls-varanasi-airport-staff-th": {
-    "firstSeen": "2026-08-16T12:56:45.211Z",
+  "bangladesh-lists-2-riders-for-pm-rahman-s-india-visit-one-is": {
+    "firstSeen": "2026-08-16T13:40:14.254Z",
     "signature": "",
     "norm": 33.9
   }
