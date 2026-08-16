@@ -1,141 +1,106 @@
 {
-  "-rahul-hemant-are-dead-jharkhand-protester-performs-funeral-": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "alliance|congress|dead|dead|exam|iran|khan|protest|protest|recruitment|ruling",
-    "norm": 100
+  "-they-are-like-the-dead-jharkhand-students-burn-cm-hemant-so": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "alliance|congress|dead|dead|exam|khan|protest|protest|rahul gandhi",
+    "norm": 97.1
   },
-  "kerala-bjp-leader-p-c-george-makes-a-u-turn-in-election-fund": {
-    "firstSeen": "2026-08-16T14:34:19.318Z",
-    "signature": "bjp|crore|election|election|fund",
+  "-faulty-mouse-logged-out-cjp-slams-irregularities-in-bombay-": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "bomb|exam|high court|protest|protest|recruitment|slam|slams",
+    "norm": 92.5
+  },
+  "jharkhand-students-burn-effigies-of-hemant-soren-rahul-gandh": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "exam|khan|protest|protest|rahul gandhi|recruitment|video",
+    "norm": 86.6
+  },
+  "three-arrested-after-bengal-cjp-volunteer-s-father-dies-in-a": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "attack|attack|bjp|chief minister|minister",
     "norm": 73.6
   },
-  "complaint-seeks-probe-into-alleged-disruption-of-vande-matar": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "bjp|cctv|exam|footage|mp|video",
-    "norm": 71
+  "sonia-gandhi-vande-mataram-row-bjp-accuses-congress-of-disre": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "bjp|congress|controversy|row|ruling",
+    "norm": 68.6
   },
-  "pawan-kalyan-issues-alert-on-elephant-movement-in-chandragir": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "alert|chief minister|death|minister",
-    "norm": 70
+  "sonia-gandhi-vande-matram-row-no-question-of-apology-rashid-": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "bjp|congress|controversy|row|war",
+    "norm": 67.5
   },
-  "cjp-volunteer-s-father-dies-after-mob-attack-in-bengal-cops-": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "attack|attack|mp",
-    "norm": 66
+  "state-draws-inspiration-from-freedom-fighter-gouthu-latchann": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "deal|minister|war",
+    "norm": 65.6
   },
-  "complaint-filed-against-sonia-rahul-gandhi-over-disrespect-t": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "amit shah|congress|minister|mp|rahul gandhi|rally|rally|vote",
-    "norm": 58.9
+  "after-fir-against-mns-leaders-for-clash-in-thane-s-ambernath": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "bjp|clash|clash|mp",
+    "norm": 65.3
   },
-  "nta-to-re-conduct-ugc-net-exams-for-english-sociology-and-co": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "exam|mp",
+  "eleven-held-for-attacking-youth-over-love-proposal": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "attack|attack",
+    "norm": 59.3
+  },
+  "traffic-around-kbr-park-goes-one-way-with-10-u-turn-points-a": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "hospital|poll",
     "norm": 57.1
-  },
-  "cbi-arrests-railway-engineer-another-person-in-vijayawada-on": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "lakh|mp",
-    "norm": 55
   },
   "malayalam-varsity-student-launches-protest-over-alleged-cast": {
     "firstSeen": "2026-08-16T15:32:14.128Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "nta-to-re-conduct-ugc-net-exams-for-english-commerce-and-soc": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "exam|ipl",
-    "norm": 53.9
+  "congress-should-apologise-for-insulting-vande-mataram-on-ind": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "amit shah|congress|mp",
+    "norm": 52.7
   },
-  "fda-notice-to-shah-rukh-ajay-devgn-and-tiger-shroff-over-vim": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "actor|mp",
-    "norm": 53.5
-  },
-  "iran-moves-to-criminalise-interviews-with-us-israeli-media": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "iran|israel",
-    "norm": 52.1
-  },
-  "police-launch-probe-after-national-anthem-vande-mataram-sung": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "bjp|record",
-    "norm": 52
-  },
-  "skipping-of-vande-mataram-rendition-at-i-day-function-roils-": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "bjp|president",
-    "norm": 50.5
-  },
-  "state-govt-to-explore-declaring-interim-drought": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "india-japan-to-review-defence-ties-as-shinjiro-koizumi-meets": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
+  "india-japan-defence-cooperation-on-agenda-as-koizumi-meets-r": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
     "signature": "defence|minister",
-    "norm": 50.5
+    "norm": 48.7
   },
-  "imd-predicts-heavy-rainfall-in-5-districts-yanam-today": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "heavy rain",
+  "gaza-peace-plan-8-nations-condemn-israel-s-rejection-of-us-r": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "israel",
     "norm": 48.2
   },
-  "woman-police-sub-inspector-accused-of-slapping-student-over-": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
+  "-we-were-never-seen-as-a-mind-only-as-a-vote-neha-bora-on-in": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "vote",
+    "norm": 45.9
+  },
+  "khammam-ccs-police-arrest-two-for-tampering-with-forest-perm": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "gk-why-are-railway-tracks-made-of-steel-": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "communist-parties-must-unite-but-need-not-merge-says-binoy-v": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "opposition",
-    "norm": 45.9
-  },
-  "12-hour-surgery-saves-young-man-s-hip-at-thrissur-govt-medic": {
-    "firstSeen": "2026-08-16T14:34:19.318Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "ysrcp-accuses-nda-government-of-rampant-corruption-in-nellor": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "nlsiu-students-and-alumni-oppose-cji-and-bci-chairman-attend": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "cji",
-    "norm": 44
-  },
-  "-don-t-just-adapt-but-lead-in-determining-use-of-technology-": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "cji",
-    "norm": 44
-  },
-  "-they-re-anti-school-cjp-s-saurav-das-claims-bjp-goons-beat-": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
+  "bjp-demands-judicial-inquiry-into-killing-of-three-persons": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
     "signature": "bjp",
+    "norm": 45.9
+  },
+  "four-months-on-karnataka-yet-to-see-multi-pair-kidney-swap-t": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "fssai-says-six-food-companies-rectified-misleading-claims-tr": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "former-cm-c-achutha-menon-remembered": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "mp",
     "norm": 44
   },
-  "female-teachers-urged-to-lead-fight-for-rights-and-better-ed": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "",
-    "norm": 36
-  },
-  "gen-z-should-take-up-the-fight-against-bidadi-township-proje": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
-    "signature": "",
-    "norm": 36
-  },
-  "kannur-airport-plans-100-mw-solar-project": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
+  "new-coal-blocks-to-further-strengthen-sccl-says-cmd": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
     "signature": "",
     "norm": 36
   },
@@ -144,8 +109,38 @@
     "signature": "",
     "norm": 36
   },
-  "udhayanidhi-stalin-says-vijay-s-tamil-nadu-govt-insecure-afr": {
-    "firstSeen": "2026-08-16T15:32:14.128Z",
+  "why-the-visakhapatnam-airport-shut-and-what-still-flies-from": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "",
+    "norm": 36
+  },
+  "ailu-demands-resignation-of-bci-chairman": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "",
+    "norm": 36
+  },
+  "two-of-pardhi-gang-arrested-for-11-house-burglaries-across-t": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "",
+    "norm": 36
+  },
+  "ysrcp-demands-immediate-reinstatement-of-suspended-teachers": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "",
+    "norm": 36
+  },
+  "nmdc-marks-53-15-mt-production-targets-60-mt-in-fy27-and-100": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "",
+    "norm": 36
+  },
+  "spirit-of-independence-programme-concludes-in-vizag": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-they-were-indian-us-cleaning-business-owner-faces-scrutiny-": {
+    "firstSeen": "2026-08-16T16:37:25.023Z",
     "signature": "",
     "norm": 33.9
   }
