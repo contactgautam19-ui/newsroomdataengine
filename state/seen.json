@@ -1,146 +1,111 @@
 {
-  "tmc-leader-s-suicide-cm-suvendu-vows-probe-into-possible-thr": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "congress|dead|dead|death|exam|mp|threat",
-    "norm": 88.3
-  },
   "-if-there-s-even-a-shred-of-shame-left-amit-shah-attacks-con": {
     "firstSeen": "2026-08-16T10:34:28.185Z",
     "signature": "amit shah|attack|attack|congress|row|video",
-    "norm": 81.6
+    "norm": 80.1
   },
-  "p-chidambaram-embraces-dimagi-naxal-label-after-pm-modi-s-re": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "bjp|clash|clash|congress|minister|modi|modi|prime minister",
-    "norm": 78.7
+  "sukhbir-badal-attack-harsimrat-writes-to-amit-shah-demands-n": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "amit shah|attack|attack|minister|mp",
+    "norm": 72
   },
-  "navy-sailor-three-family-members-found-dead-in-mumbai-s-cola": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "dead|dead|exam|navy",
-    "norm": 75.9
+  "tarique-rahman-india-visit-hasina-extradition-row-tests-indi": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "ipl|minister|prime minister|row",
+    "norm": 70
   },
-  "-entire-bengal-fuming-bengal-cm-suvendu-adhikari-demands-con": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "congress|parliament|row|slam",
-    "norm": 66.6
+  "pv-sindhu-turns-to-sports-science-s-amp-c-in-bid-for-record-": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "mp|record|result|results|results",
+    "norm": 68.9
   },
-  "rat-in-maharashtra-s-kalyan-hub-prompts-residents-to-seek-fd": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "exam|maharashtra|mp|record",
-    "norm": 66.3
+  "maharashtra-rat-found-in-ice-cream-freezer-at-blinkit-store-": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "maharashtra|row|watch",
+    "norm": 64.9
   },
-  "-she-doesn-t-know-indian-culture-bankim-chattopadhyay-s-kin-": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "congress|row|slam|slams",
-    "norm": 65.1
-  },
-  "-congress-policy-to-oppose-anything-patriotic-bjp-on-vande-m": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "bjp|congress|policy|riot|ruling",
-    "norm": 64.6
-  },
-  "-entire-bengal-fuming-congress-must-apologise-cm-suvendu-adh": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "congress|row|slam|slams",
-    "norm": 63.4
-  },
-  "bjp-says-sonia-gandhi-opposed-singing-of-full-vande-mataram-": {
-    "firstSeen": "2026-08-16T09:37:06.066Z",
-    "signature": "bjp|congress|controversy",
+  "bjp-files-complaint-against-sonia-gandhi-over-vande-mataram-": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "bjp|mp|row",
     "norm": 61.4
   },
-  "ex-tmc-mla-asish-banerjee-had-no-case-of-corruption-cm-suven": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "death|mamata|mla",
-    "norm": 61.4
+  "virginia-swamp-re-wetting-traps-200-000-tons-of-carbon-a-yea": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "fire|fire|mp",
+    "norm": 61.1
+  },
+  "market-recap-top-5-firms-lose-rs-1-lakh-cr-in-value-tcs-reli": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "lakh|mp|stock market",
+    "norm": 57.6
   },
   "tukaram-singham-mundhe-s-fda-vs-ajay-devgn-srk-tiger-how-did": {
     "firstSeen": "2026-08-16T10:34:28.185Z",
     "signature": "khan|row",
-    "norm": 55.7
+    "norm": 53.9
   },
-  "tamil-nadu-cm-vijay-condoles-death-of-police-constable-on-i-": {
-    "firstSeen": "2026-08-16T09:37:06.066Z",
-    "signature": "death|lakh",
-    "norm": 55.4
+  "fire-at-furniture-godown-near-plamoodu-in-kerala-s-thiruvana": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "fire|fire",
+    "norm": 52.4
   },
-  "-entire-bengal-fuming-suvendu-adhikari-slams-sonia-gandhi-ov": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "row|slam|slams",
-    "norm": 54.9
+  "complaint-filed-against-tamil-nadu-bjp-chief-over-ask-your-m": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "bjp|chief minister|minister|mp",
+    "norm": 52.1
   },
-  "telangana-s-electric-conversion-scheme-for-autos-takes-shape": {
-    "firstSeen": "2026-08-16T09:37:06.066Z",
-    "signature": "lakh|mp",
-    "norm": 53.2
+  "-he-said-it-was-unloaded-injured-screeners-recall-air-india-": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "accident|injured",
+    "norm": 52.1
   },
-  "congress-should-apologise-for-insulting-vande-mataram-on-ind": {
-    "firstSeen": "2026-08-16T09:37:06.066Z",
-    "signature": "amit shah|congress|minister",
-    "norm": 52.7
-  },
-  "will-bangladesh-pm-tarique-rahman-visit-india-suspense-conti": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "minister|prime minister",
-    "norm": 50.5
-  },
-  "manhattan-gets-a-hairy-surprise-as-10-foot-tumblehair-takes-": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "mp|surprise",
-    "norm": 50.2
-  },
-  "srisailam-temple-tableau-wins-second-prize-in-id-celebration": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "mp|vote",
-    "norm": 48.7
+  "bangladesh-says-pm-will-not-visit-india-until-hasina-extradi": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "death",
+    "norm": 48.2
   },
   "bombay-hc-rules-community-health-volunteers-entitled-to-mini": {
     "firstSeen": "2026-08-16T10:34:28.185Z",
     "signature": "bomb",
-    "norm": 48.2
+    "norm": 46.3
   },
-  "union-government-following-anti-farmers-policies-says-minist": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "india-cooks-up-lpg-safety-net-govt-fixes-refinery-wise-outpu": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
+  "up-officers-invoke-bhagat-singh-buddha-to-explain-duty-justi": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "over-100-arrested-in-morocco-over-fresh-ceuta-migrant-crossi": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "mp",
+  "after-nalsar-bengaluru-law-university-students-oppose-cji-ka": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "cji",
     "norm": 44
   },
-  "india-to-host-brics-environment-working-group-meetings-in-de": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
-    "signature": "brics",
-    "norm": 44
-  },
-  "20-blackbucks-released-in-gujarat-s-banni-grasslands-on-inde": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
+  "vantara-hits-new-conservative-milestone-on-80th-independence": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
     "signature": "",
     "norm": 36
   },
-  "maggie-walz-came-to-michigan-with-7-later-founded-a-1-000-pe": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
+  "7-held-in-karnataka-over-rape-abortion-of-woman-with-mental-": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
     "signature": "",
     "norm": 36
   },
-  "pune-court-remands-drug-kingpin-virender-singh-basoya-to-ncb": {
-    "firstSeen": "2026-08-16T09:37:06.066Z",
+  "-extradite-sheikh-hasina-hand-over-hadi-killers-dhaka-s-cond": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
     "signature": "",
     "norm": 36
   },
-  "harassed-beaten-bsf-jawan-arrested-for-wife-s-murder-in-punj": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
+  "bangladesh-pm-s-proposed-india-visit-conditional-on-hasina-e": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
     "signature": "",
     "norm": 33.9
   },
-  "man-dies-after-being-allegedly-punched-by-son-in-law-over-on": {
-    "firstSeen": "2026-08-16T10:34:28.185Z",
+  "southern-railway-proposes-new-accessway-to-link-radha-nagar-": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-propitious-environment-needs-to-be-created-bangladesh-says-": {
+    "firstSeen": "2026-08-16T11:30:31.956Z",
     "signature": "",
     "norm": 33.9
   }
