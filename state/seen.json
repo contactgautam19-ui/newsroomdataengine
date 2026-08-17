@@ -1,97 +1,47 @@
 {
-  "students-who-cleared-jssc-cgl-examination-launch-protests-af": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "chief minister|controversy|exam|iran|khan|minister|protest|protest",
-    "norm": 90.9
+  "upsssc-declares-recruitment-exam-result-hours-after-aspirant": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "exam|iran|protest|protest|recruitment|result",
+    "norm": 72.1
   },
-  "-trapped-constable-fired-ak-47-during-neet-protest-bihar-pol": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "crowd|fire|fire|neet|protest|protest|row|supreme court",
-    "norm": 90.8
+  "no-state-can-block-traditional-routes-of-elephants-supreme-c": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "fire|fire|mp|supreme court",
+    "norm": 66.9
   },
-  "jharkhand-government-cancels-jssc-cgl-exam-all-exams-conduct": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "exam|khan|protest|protest",
-    "norm": 71.6
+  "indian-sailors-sos-company-asking-us-to-risk-lives-cross-str": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "ipo|mp|war",
+    "norm": 63.9
   },
-  "prithviraj-chavan-alleges-over-56-000-duplicate-voters-in-ma": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "election|election|maharashtra|mp|poll|vote",
-    "norm": 68
+  "four-member-group-allegedly-threatens-shop-owner-fires-shot-": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "fire|fire|threat",
+    "norm": 63.2
   },
-  "army-recruitment-rally-in-vizag-from-sept-3-20": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
-    "signature": "army|rally|rally|recruitment",
-    "norm": 65.3
+  "death-of-a-trinamool-leader-and-corruption-taint-in-bengal-p": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "death",
+    "norm": 46.3
   },
-  "citizen-led-food-safety-watch-teams-will-be-formed-at-taluk-": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "minister|mp|watch",
-    "norm": 56.4
-  },
-  "on-dignity-in-political-discourse": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "fan|war",
-    "norm": 55.7
-  },
-  "court-dismisses-2020-protest-case-against-cpi-m-leaders": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "karnataka-rise-in-egg-prices-triggers-demand-for-midday-meal": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "fund|price|prices",
-    "norm": 50.9
-  },
-  "long-term-vision-is-to-provide-certificates-within-a-stipula": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "minister|mp",
-    "norm": 50.5
-  },
-  "kerala-lokayukta-orders-removal-of-unauthorised-hazardous-ut": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "mp",
+  "bigger-profile-comes-with-a-formidable-challenge-for-deepak-": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "bjp",
     "norm": 45.9
   },
-  "seven-held-with-elephant-tusk-in-malappuram": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
+  "jharkhand-student-leader-devendra-nath-mahto-ends-hunger-str": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "man-booked-for-allegedly-setting-wife-mother-in-law-ablaze-i": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "blaze",
+    "norm": 40.7
+  },
+  "pdp-chief-mehbooba-says-she-is-dimagi-naxal-nc-blames-her-fo": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
     "signature": "",
     "norm": 36
-  },
-  "schwan-laboratory-inaugurated-at-gitam": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "",
-    "norm": 36
-  },
-  "dmk-regime-created-enforcement-bureau-cid-to-control-drug-me": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "",
-    "norm": 36
-  },
-  "shrc-directive-to-ease-traffic-snarls-caused-by-kochi-metro-": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "",
-    "norm": 36
-  },
-  "seven-eateries-in-kochi-inspected": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "",
-    "norm": 36
-  },
-  "karnataka-resolution-passed-against-purification-ritual": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "",
-    "norm": 36
-  },
-  "amuthan-murder-police-arrest-one-more-final-year-student": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "the-proud-assamese-from-other-states": {
-    "firstSeen": "2026-08-17T19:36:09.186Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
