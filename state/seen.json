@@ -1,122 +1,232 @@
 {
-  "electric-current-rumour-overcrowding-what-led-to-bihar-templ": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "crowd|killed|killed|lakh|mp|row|stampede|war",
-    "norm": 92.2
+  "-we-owe-them-our-solidarity-rahul-writes-to-ally-soren-over-": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "chief minister|congress|exam|khan|minister|mp|protest|protest|rahul gandhi|recruitment|row",
+    "norm": 94
   },
-  "-fix-else-i-will-have-to-protest-again-ramdev-warns-centre-o": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "election|election|jobs|protest|protest|scam|war",
-    "norm": 86.2
+  "lakhisarai-stampede-govt-swings-into-action-4-lakh-aid-for-v": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "grief|injured|lakh|modi|modi|mp|stampede",
+    "norm": 91.8
   },
-  "how-pm-modi-nsa-doval-called-pakistan-s-nuclear-bluff-before": {
-    "firstSeen": "2026-08-17T04:53:51.348Z",
-    "signature": "modi|modi|pakistan|terror|terror|war",
-    "norm": 84.5
+  "raw-report-ugc-net-crisis-nta-admits-exam-errors-fresh-tests": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "backlash|exam|ipl|mp|opposition|protest|protest",
+    "norm": 86.3
   },
-  "trump-clears-foreign-shipyards-to-build-us-warships-what-it-": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "mp|navy|policy|trump|trump|war",
-    "norm": 74.6
+  "-dimagi-naxal-party-storms-instagram-after-gaining-over-1-la": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "instagram|lakh|minister|modi|modi|prime minister|storm",
+    "norm": 86
   },
-  "bihar-tiger-attack-farmer-killed-near-valmiki-reserve-mob-as": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "attack|attack|killed|killed",
+  "karnataka-minister-yathindra-siddaramaiah-s-rss-remark-spark": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "attack|attack|congress|controversy|minister|protest|protest|row",
+    "norm": 85.1
+  },
+  "seven-dead-in-stampede-in-bihar-s-ashok-dham-temple": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "dead|dead|lakh|mp|stampede|vote",
+    "norm": 84.1
+  },
+  "indian-billionaire-lakshmi-mittal-s-ukraine-steel-plant-hit-": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "bill|billion|blast|injured|killed|killed",
+    "norm": 81.2
+  },
+  "seven-killed-several-injured-in-hotel-fire-in-west-bengal-s-": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "fire|fire|injured|killed|killed|mp",
+    "norm": 80.2
+  },
+  "gold-price-prediction-today-will-gold-prices-continue-to-ral": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "gold|gold price|price|prices|rally|rally",
+    "norm": 79.7
+  },
+  "who-are-dimagi-naxals-rijiju-lists-3-qualifications-after-pm": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "minister|modi|modi|prime minister|threat|war",
+    "norm": 76.9
+  },
+  "jharkhand-exam-protest-fresh-talks-between-govt-agitators-on": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "exam|khan|protest|protest|recruitment",
+    "norm": 75
+  },
+  "-we-owe-them-our-solidarity-rahul-gandhi-writes-to-ally-sore": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "congress|khan|protest|protest|rahul gandhi",
+    "norm": 73.6
+  },
+  "north-odisha-flood-situation-grim-imd-forecasts-more-rains-t": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "flood|flood|mp|weather",
+    "norm": 72.9
+  },
+  "stampede-like-situation-at-ujjain-s-mahakal-nagchandreshwar-": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "injured|mp|stampede|war",
+    "norm": 72.6
+  },
+  "assam-floods-over-26-000-houses-damaged-second-phase-of-mone": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "chief minister|flood|flood|floods|minister",
+    "norm": 72
+  },
+  "3-dead-in-karnataka-forest-firing-annamalai-s-audio-proof-co": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "dead|dead|killed|killed|shooting",
+    "norm": 70.5
+  },
+  "jharkhand-protest-rahul-gandhi-urges-hemant-soren-to-meet-pr": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "khan|protest|protest|rahul gandhi",
     "norm": 69.6
   },
-  "anurag-thakur-smriti-irani-may-make-comeback-as-nitin-nabin-": {
-    "firstSeen": "2026-08-17T04:53:51.348Z",
-    "signature": "bjp|gst|iran",
-    "norm": 65.6
+  "apple-told-to-pay-rs-45-500-to-customer-after-iphone-overhea": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "fund|modi|modi|mp",
+    "norm": 68
   },
-  "woman-s-death-in-bengaluru-accident-becomes-flashpoint-for-r": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "accident|anger|death|row",
-    "norm": 65.5
+  "ugc-net-row-jnu-student-alleges-paper-leak-slams-nta-over-re": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "exam|row|slam|slams",
+    "norm": 67.1
   },
-  "vande-mataram-disruption-row-delhi-police-probes-complaint-a": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "mp|rahul gandhi|row|video",
-    "norm": 65.3
+  "cji-surya-kant-says-never-consented-to-nalsar-s-invite-as-st": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "cji|controversy|protest|protest",
+    "norm": 66.3
   },
-  "stock-market-live-updates-sensex-today-sensex-opens-400-poin": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "iran|nifty|price|prices|sensex|stock market",
-    "norm": 65.1
+  "commercial-tax-officer-killed-by-wife-after-dispute-over-rei": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "killed|killed|tax",
+    "norm": 66
   },
-  "cjp-vows-to-continue-fix-schools-campaign-after-rajasthan-go": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "mp|protest|protest",
-    "norm": 61.1
+  "-fix-scams-or-i-will-protest-again-ramdev-threatens-govt-ami": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "anger|protest|protest|scam|threat|war",
+    "norm": 64.2
   },
-  "-modi-ji-look-at-what-your-nta-has-done-rahul-after-agency-a": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "modi|modi",
+  "-leaving-vyavastha-not-vyakti-shehzad-poonawalla-resignation": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "bjp|minister|modi|modi|prime minister",
+    "norm": 62.9
+  },
+  "prashant-kishor-takes-oath-as-bihar-mla": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "bjp|deal|mla|poll",
+    "norm": 61.4
+  },
+  "why-has-maharashtra-fda-issued-notices-to-shah-rukh-khan-aja": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "actor|khan|maharashtra",
+    "norm": 59.3
+  },
+  "engineer-wife-daughter-missing-in-godavari-note-accuses-kaki": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "exam|shooting",
+    "norm": 59.3
+  },
+  "two-more-air-india-pilots-fail-preliminary-drug-test-after-p": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "disaster|mp",
+    "norm": 57.1
+  },
+  "rahul-gandhi-seeks-accountability-over-ugc-net-exam-cancella": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "exam|rahul gandhi",
+    "norm": 57.1
+  },
+  "high-volume-of-exotic-animal-applications-in-t-n-gaps-in-fac": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "mp|war",
     "norm": 55.4
   },
-  "bengaluru-school-temporarily-shut-after-500-students-staff-f": {
-    "firstSeen": "2026-08-17T04:53:51.348Z",
-    "signature": "mp|row",
-    "norm": 55.4
-  },
-  "-warm-goodbye-to-the-party-i-love-shehzad-poonawalla-resigns": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "bjp|war",
-    "norm": 55.4
-  },
-  "shillong-teer-result-today-august-17-2026-check-winning-numb": {
-    "firstSeen": "2026-08-17T04:53:51.348Z",
-    "signature": "khan|result",
-    "norm": 53.9
-  },
-  "-billionaires-were-wrong-why-ai-didn-t-live-up-to-the-4-day-": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "bill|billion",
-    "norm": 53.2
+  "-same-as-jem-taliban-karnataka-congress-leaders-dub-rss-as-t": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "bjp|congress|minister",
+    "norm": 52.7
   },
   "why-are-junior-doctors-in-andhra-pradesh-protesting-explaine": {
     "firstSeen": "2026-08-17T05:45:48.549Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "who-is-arshdeep-singh-dang-first-indian-origin-sikh-raf-figh": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "died",
+  "ugc-net-to-reconduct-three-exams-due-to-errors-second-cancel": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "exam|neet",
+    "norm": 52.1
+  },
+  "rahul-gandhi-gets-relief-as-sc-pauses-allahabad-hc-proceedin": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "high court|rahul gandhi",
+    "norm": 50.5
+  },
+  "west-bengal-bjp-100-days-suvendu-adhikari-s-report-card-inve": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "bjp|mp",
+    "norm": 50.5
+  },
+  "woman-stabbed-to-death-by-lover-following-argument-over-marr": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "death",
     "norm": 46.3
   },
-  "shehzad-poonawalla-presses-bjp-to-accept-resignation-says-le": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "bjp",
+  "supreme-court-to-look-into-plea-to-distinguish-between-criti": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "supreme court",
     "norm": 45.9
   },
-  "shehzad-poonawalla-quits-bjp-cites-pressing-financial-person": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "bjp",
-    "norm": 44
-  },
-  "nurse-leaves-bedridden-woman-unattended-consumer-commission-": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
+  "e-coli-in-water-missing-toilets-at-stations-unused-funds-6-a": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
     "signature": "fund",
     "norm": 44
   },
-  "will-pm-respond-youth-demand-answers-congress-on-nta-retest-": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "congress",
+  "shehzad-poonawalla-quits-bjp-cites-pressing-financial-and-pe": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "bjp",
     "norm": 44
   },
-  "kfc-outlet-sealed-over-stale-chicken-complaint-in-karnataka": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
+  "prashant-kishor-takes-oath-as-bankipur-mla-after-first-jan-s": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "mla",
+    "norm": 44
+  },
+  "iskcon-vs-iskcon-sc-to-consider-setting-up-bench-to-hear-rev": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
     "signature": "mp",
     "norm": 44
   },
-  "indian-origin-arshdeep-singh-dang-makes-history-as-first-sik": {
-    "firstSeen": "2026-08-17T04:53:51.348Z",
-    "signature": "air force",
-    "norm": 44
+  "daughter-suspected-in-murder-of-retired-school-teacher-in-vi": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "",
+    "norm": 36
   },
-  "groundwater-that-glows-yellow-green-in-u-p-": {
-    "firstSeen": "2026-08-17T05:45:48.549Z",
-    "signature": "mp",
-    "norm": 44
+  "tnea-2026-nearly-60-000-students-get-provisional-allotments-": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "",
+    "norm": 36
+  },
+  "disproportionate-assets-case-sc-asks-allahabad-hc-not-to-pro": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "",
+    "norm": 36
+  },
+  "two-more-air-india-pilots-fail-to-clear-drug-test-after-phuk": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "four-raccoons-released-in-germany-grew-into-30-000-in-kassel": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "as-cjp-plans-school-visits-across-rajasthan-state-puts-curbs": {
+    "firstSeen": "2026-08-17T07:12:11.797Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
