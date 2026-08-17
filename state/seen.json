@@ -1,245 +1,200 @@
 {
-  "-exam-irregularities-cid-raids-jharkhand-staff-selection-com": {
-    "firstSeen": "2026-08-17T09:53:21.319Z",
-    "signature": "election|election|election commission|exam|iran|khan|protest|protest|recruitment",
-    "norm": 89.8
+  "isi-backed-terror-group-busted-ahead-of-independence-day-200": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "attack|attack|bomb|petrol|petrol|terror|terror",
+    "norm": 89.2
   },
-  "bjp-reshuffle-ram-madhav-smriti-irani-biplab-deb-in-new-nati": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|ipl|iran|khan|minister|president|war",
-    "norm": 84.7
+  "e20-petrol-row-bring-back-lower-blend-of-ethanol-fuel-at-pum": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "fuel|mp|petrol|petrol|row|war",
+    "norm": 82.6
   },
-  "suspected-jaish-operative-arrested-in-up-ats-says-he-sent-ma": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "fund|mp|pakistan|terror|terror",
-    "norm": 79.4
+  "ugc-net-exam-row-delhi-police-crpf-detain-protesters-after-b": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "exam|mp|protest|protest|row|video",
+    "norm": 80.3
   },
-  "viral-video-falling-granite-stones-near-metro-site-trigger-p": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "panic|video|viral|viral|viral|viral video",
-    "norm": 79.1
+  "tamil-nadu-assembly-group-clash-not-drugs-behind-killing-of-": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "clash|clash|lakh|minister|mp|war",
+    "norm": 78.2
   },
-  "jharkhand-cid-arrests-ex-jpsc-chairperson-over-alleged-irreg": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "exam|iran|khan|protest|protest|recruitment",
-    "norm": 77.4
+  "88-year-old-arizona-man-and-dog-saved-by-sos-text-after-gett": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "mp|rescue|rescue|row|storm",
+    "norm": 76.3
   },
-  "from-tv-star-to-bjp-general-secretary-smriti-irani-returns-t": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|election|election|iran|lok sabha|rajya sabha|star",
-    "norm": 76.2
+  "-us-discussing-using-nukes-on-iran-ex-lawmaker-makes-explosi": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "iran|mp|trump|trump|war",
+    "norm": 75
   },
-  "two-men-killed-during-village-temple-festival-in-kancheepura": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "film|killed|killed|mp",
-    "norm": 72.7
+  "rise-fall-rise-smriti-irani-returns-to-bjp-s-national-leader": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "bjp|election|election|iran|lok sabha|rajya sabha",
+    "norm": 69.6
   },
-  "nitin-nabin-congratulates-new-bjp-team-says-leaders-will-tak": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|iran|president|war",
-    "norm": 70
+  "jharkhand-protest-rahul-gandhi-urges-hemant-soren-to-meet-pr": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "khan|protest|protest|rahul gandhi",
+    "norm": 68
   },
-  "amit-shah-reveals-massive-crackdown-on-shahzad-bhatti-networ": {
-    "firstSeen": "2026-08-17T09:53:21.319Z",
-    "signature": "amit shah|minister|terror|terror",
-    "norm": 70
-  },
-  "keeping-up-with-up-will-rahul-convert-crowds-into-votes-in-n": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "crowd|minister|prime minister|row|vote",
-    "norm": 69
-  },
-  "over-200-operatives-of-isi-backed-terrorist-group-arrested-a": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "amit shah|terror|terror",
-    "norm": 67.6
+  "defence-ministry-inks-1-9-cr-deal-to-lease-2-mq-9b-sea-guard": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "crore|deal|defence|drone|navy",
+    "norm": 67.3
   },
   "smriti-irani-education-qualification-from-tv-stardom-to-bjp-": {
     "firstSeen": "2026-08-17T10:44:26.453Z",
     "signature": "actor|bjp|iran|star",
-    "norm": 67.6
+    "norm": 66
   },
   "upset-by-centre-s-response-on-business-rules-reservation-rep": {
     "firstSeen": "2026-08-17T10:44:26.453Z",
     "signature": "chief minister|minister|upset|war",
     "norm": 65.3
   },
-  "-confident-they-will-give-their-best-pm-modi-congratulates-n": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|minister|modi|modi|prime minister",
+  "bjp-to-launch-nationwide-campaign-against-udf-govt-in-kerala": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "bjp|mp|row|slam",
+    "norm": 65
+  },
+  "bjp-reshuffle-done-nitin-nabin-gets-new-team-is-pm-modi-s-ca": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "bjp|cabinet|minister|modi|modi",
     "norm": 64.6
   },
-  "bjp-announces-major-organisational-overhaul-full-list-of-off": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|iran|minister|president",
+  "-blend-of-experience-amp-energy-pm-modi-nabin-congratulate-b": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "bjp|minister|modi|modi|mp|president|prime minister",
+    "norm": 63.7
+  },
+  "bjp-s-strategic-shake-up-youth-and-experience-unite-ahead-of": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "bjp|election|election|lok sabha",
     "norm": 63.5
   },
-  "qaumi-insaaf-morcha-protest-former-mp-simranjit-mann-booked-": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
+  "-unbecoming-of-his-position-minister-roji-m-john-slams-keral": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "minister|slam|slams",
+    "norm": 62.5
   },
-  "tesla-investor-ross-gerber-says-buy-iphone-17-before-apple-r": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "investor|price|prices|war",
+  "opposition-disrupts-assembly-seeking-minister-b-nagendra-s-d": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "bjp|minister|opposition|scam",
     "norm": 61.8
   },
-  "amit-malviya-removed-as-bjp-it-cell-chief-in-big-organisatio": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
+  "ram-madhav-named-vice-president-in-bjp-3-0-see-full-list": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "bjp|iran|minister|president",
+    "norm": 61.8
+  },
+  "bjp-replaces-it-cell-chief-in-big-organisational-shake-up": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
     "signature": "bjp|landslide|poll",
     "norm": 61.4
   },
-  "supreme-court-halts-hc-proceedings-against-rahul-gandhi-in-d": {
-    "firstSeen": "2026-08-17T08:56:13.172Z",
-    "signature": "ipl|rahul gandhi|supreme court",
+  "congress-has-accepted-it-has-become-dimagi-naxal-congress-bj": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "bjp|congress|war",
     "norm": 61.4
   },
-  "cid-raids-underway-at-jssc-office-in-connection-with-jharkha": {
-    "firstSeen": "2026-08-17T09:53:21.319Z",
-    "signature": "exam|khan|recruitment",
-    "norm": 61.1
-  },
-  "fight-for-j-k-s-statehood-to-continue-until-it-is-restored-o": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "president|protest|protest",
-    "norm": 61.1
-  },
-  "bjp-leadership-reshuffle-smriti-irani-and-ram-madhav-return-": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|iran|president",
+  "smriti-irani-s-big-comeback-as-bjp-3-0-gets-massive-women-re": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "bjp|iran|minister",
     "norm": 59.7
   },
-  "-middle-class-is-being-looted-shehzad-poonawalla-s-last-rema": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|instagram|video",
-    "norm": 59.3
+  "ram-temple-donations-theft-sc-says-ball-is-in-sit-s-court-su": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "actor|cji|mp",
+    "norm": 56.1
   },
-  "amit-malviya-dropped-smriti-irani-makes-comeback-in-new-bjp-": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
+  "sc-rejects-plea-to-link-ayodhya-donation-probe-with-ramjanma": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "ayodhya|supreme court",
+    "norm": 55.4
+  },
+  "ugc-net-2026-re-test-centre-asks-nta-to-conduct-audit-of-all": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "exam|minister",
+    "norm": 55.4
+  },
+  "smriti-irani-and-ram-madhav-in-amit-malviya-out-full-list-of": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
     "signature": "bjp|iran",
-    "norm": 57.1
+    "norm": 55.4
   },
-  "fire-ravages-restaurant-near-kochi-airport-in-kerala": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "blaze|fire|fire",
-    "norm": 57.1
-  },
-  "smriti-irani-makes-comeback-ram-madhav-gets-key-role-in-niti": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|iran",
-    "norm": 57.1
-  },
-  "india-should-bring-back-e10-option-to-ease-consumer-s-concer": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
+  "malleswaram-market-bda-finalising-concessionaire-agreement-r": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
     "signature": "mp|war",
-    "norm": 57.1
-  },
-  "bjp-announces-list-of-office-bearers-smriti-irani-vasundhara": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|iran",
     "norm": 55.4
   },
-  "which-indian-state-has-the-most-job-ready-youth-india-skills": {
-    "firstSeen": "2026-08-17T09:53:21.319Z",
-    "signature": "lakh|row",
-    "norm": 55.4
-  },
-  "bjp-chief-nitin-nabin-announces-party-reshuffle-smriti-irani": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|iran",
-    "norm": 55.4
-  },
-  "twisha-sharma-death-case-samarth-singh-giribala-singh-named-": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "death|sharma",
-    "norm": 53.9
-  },
-  "lalbagh-flower-show-in-bengaluru-draws-2-01-lakh-visitors-on": {
-    "firstSeen": "2026-08-17T09:53:21.319Z",
-    "signature": "lakh|star",
-    "norm": 53.5
+  "minister-n-anand-inaugurates-work-to-desilt-restore-rural-wa": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "crore|minister",
+    "norm": 53.2
   },
   "why-are-junior-doctors-in-andhra-pradesh-protesting-explaine": {
     "firstSeen": "2026-08-17T09:53:21.319Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "president-murmu-gives-assent-to-bill-to-rename-kerala-as-ker": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bill|lok sabha|president|rajya sabha",
-    "norm": 52.1
+  "kerala-university-v-c-s-vande-mataram-remark-kicks-up-row": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "row",
+    "norm": 48.2
   },
-  "bjp-reshuffle-news-bjp-president-nitin-nabin-congratulates-n": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|president",
-    "norm": 50.5
-  },
-  "bjp-announces-nitin-nabin-s-team-ahead-of-assembly-polls-ful": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "bjp|poll",
-    "norm": 48.7
-  },
-  "brittas-writes-to-sbi-chairman-questions-near-zero-vacancies": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "recruitment",
+  "ap-born-tech-professional-wins-nri-achievers-award-2026": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "war",
     "norm": 46.3
   },
-  "-conduct-audit-of-all-exam-processes-take-corrective-steps-c": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "exam",
-    "norm": 46.3
+  "100-days-of-vijay-s-government-tamil-nadu-minister-ctr-nirma": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "tamil-nadu-cm-vijay-launches-presence-less-registration-of-h": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "amit-malviya-out-bjp-appoints-deepak-mhaske-as-social-media-": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "bjp",
+    "norm": 44
   },
   "who-is-deepak-mhaskey-chemistry-professor-replacing-amit-mal": {
     "firstSeen": "2026-08-17T10:44:26.453Z",
     "signature": "bjp",
-    "norm": 45.9
+    "norm": 44
   },
   "tmc-mp-abhishek-banerjee-moves-calcutta-hc-challenging-freez": {
     "firstSeen": "2026-08-17T10:44:26.453Z",
     "signature": "mp",
-    "norm": 45.9
-  },
-  "value-added-farmers-produce-to-be-marketed-under-kerala-bran": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "price",
-    "norm": 45.9
-  },
-  "no-difference-between-jaish-e-mohammed-taliban-rss-kpcc-s-b-": {
-    "firstSeen": "2026-08-17T09:53:21.319Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "amit-shah-hails-crackdown-on-isi-backed-shahzad-bhatti-netwo": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "amit shah",
-    "norm": 45.9
-  },
-  "rss-is-the-taliban-of-india-says-congress-leader-b-k-haripra": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "congress",
-    "norm": 45.9
-  },
-  "six-held-with-12-kg-hashish-oil-worth-1-5-crore-in-hyderabad": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "crore",
-    "norm": 45.9
-  },
-  "drug-culture-became-a-major-problem-during-dmk-regime-allege": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "minister",
     "norm": 44
   },
-  "delhi-court-says-lack-of-cctv-medical-evidence-no-ground-to-": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
-    "signature": "cctv",
-    "norm": 40.7
-  },
-  "brs-demands-ip-services-too-at-tims-sanathnagar-in-hyderabad": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
+  "beyond-the-metros-how-ds-group-is-redefining-india-s-consume": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
     "signature": "",
     "norm": 36
   },
-  "india-thailand-joint-military-exercise-maitree-to-be-held-fr": {
+  "special-team-formed-to-trace-missing-17-year-old": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "",
+    "norm": 36
+  },
+  "telangana-sir-draft-rolls-2026-published": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "",
+    "norm": 36
+  },
+  "worker-dies-at-tunnel-2-of-veligonda-project": {
+    "firstSeen": "2026-08-17T11:35:49.441Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "brs-demands-ip-services-too-at-tims-sanathnagar-in-hyderabad": {
     "firstSeen": "2026-08-17T10:44:26.453Z",
     "signature": "",
     "norm": 33.9
