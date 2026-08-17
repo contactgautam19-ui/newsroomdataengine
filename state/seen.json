@@ -1,205 +1,210 @@
 {
-  "maharashtra-government-wants-to-slash-data-of-58-lakh-marath": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "bomb|lakh|maharashtra|protest|protest",
-    "norm": 82.5
+  "cong-workers-sing-2-stanzas-of-vande-mataram-at-goa-rally-kh": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "attack|attack|bjp|congress|president|protest|protest|rally|rally|riot",
+    "norm": 89.2
   },
-  "-dimagi-naxals-row-explodes-after-pm-modi-s-i-day-speech-as-": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "controversy|kejriwal|minister|modi|modi|opposition|prime minister|row",
-    "norm": 79.9
+  "kerala-high-court-slams-home-department-for-double-standards": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "death|high court|ipl|slam|slams",
+    "norm": 75.1
   },
-  "8-pilgrims-killed-in-fire-at-hotel-near-tarapith-temple-in-b": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "blaze|fire|fire|killed|killed|mp",
-    "norm": 78.8
-  },
-  "253-detained-in-14-states-in-crackdown-on-isi-linked-network": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "amit shah|border|minister|terror|terror",
-    "norm": 72
-  },
-  "did-keralam-governor-seek-cm-s-concurrence-to-summon-state-p": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "chief minister|governor|minister|opposition|protest|protest",
-    "norm": 70
+  "bjp-lists-attributes-of-dimagi-naxals-after-pm-modi-s-indepe": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "bjp|death|modi|modi|mp|parliament",
+    "norm": 74.6
   },
   "maharashtra-bjp-leader-blames-trump-s-changing-stand-for-roa": {
     "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "bjp|maharashtra|mp|trump|trump",
-    "norm": 68.6
+    "norm": 67
   },
-  "father-son-escape-as-wild-elephant-attacks-car-in-kerala": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "attack|attack|mp",
-    "norm": 67.6
+  "keralam-maintains-studied-silence-as-clamour-grows-for-sabar": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "congress|died|mp|row",
+    "norm": 66.6
   },
-  "missiles-below-mountains-ahead-how-the-iaf-had-to-improvise-": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "air force|mp|unprecedented|war",
-    "norm": 65.3
+  "opposition-disrupts-assembly-seeking-minister-b-nagendra-s-d": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "chief minister|governor|minister|opposition|scam",
+    "norm": 64.6
   },
-  "girl-students-blacken-school-principal-s-face-with-ink-durin": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "protest|protest|sharma|war",
-    "norm": 65
+  "watch-saudi-military-ship-struck-by-missile-in-red-sea-houth": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "attack|attack|watch",
+    "norm": 63.2
   },
-  "watch-nyc-mayor-mamdani-speaks-bengali-stuns-crowd-during-ke": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "crowd|row|stuns|watch",
-    "norm": 62.8
-  },
-  "power-play-intensifies-in-kerala-s-pala-municipality-ahead-o": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "congress|election|election",
+  "jagan-condemns-sankhavarappadu-incident-says-accident-reflec": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "accident|chief minister|minister",
     "norm": 61.4
   },
   "all-about-khalil-al-hayya-top-hamas-top-leader-who-met-trump": {
     "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "mp|trump|trump",
-    "norm": 61.4
-  },
-  "bjp-s-new-team-the-big-ins-outs-and-replacements": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bjp|election|election",
     "norm": 59.7
+  },
+  "bescom-invites-tenders-to-set-up-500mw-solar-project-under-m": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "budget|chief minister|minister",
+    "norm": 59.3
+  },
+  "tamil-nadu-karnataka-tensions-escalate-poaching-row-cauvery-": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "row|shooting",
+    "norm": 59.3
+  },
+  "man-5-year-old-son-found-dead-under-suspicious-circumstances": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "dead|dead",
+    "norm": 59.3
   },
   "nalsar-controversy-escalates-as-nlsiu-students-back-protest-": {
     "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "controversy|protest|protest",
-    "norm": 59.6
-  },
-  "a-p-missed-out-on-38-000-crore-in-central-grants-following-1": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "crore|minister|sanction",
-    "norm": 59.3
-  },
-  "record-sale-of-hmt-watches-on-i-day-at-35-lakh-h-d-kumaraswa": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "lakh|record|watch",
     "norm": 57.9
   },
-  "bjp-s-nainar-nagendran-shares-pass-fail-report-card-as-vijay": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "bjp|lakh|mp",
+  "father-and-five-year-old-son-found-dead-at-bengaluru-home-po": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "dead|dead",
     "norm": 57.6
   },
-  "amitabh-bachchan-leases-three-floors-in-andheri-west-for-rs-": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "deal|lakh|mp",
-    "norm": 57.6
+  "pune-sweet-shop-s-licence-suspended-despite-98-score-bombay-": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "bomb|lakh",
+    "norm": 57.1
   },
-  "former-court-staffer-gets-37-year-sentence-for-fund-misappro": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
+  "can-shanti-act-deter-courts-from-fixing-suitable-compensatio": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "disaster|mp",
+    "norm": 57.1
+  },
+  "former-court-staffer-gets-37-year-sentence-for-misappropriat": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
     "signature": "accident|fund",
     "norm": 57.1
   },
-  "global-economic-situation-favourable-for-india-to-emerge-as-": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "economy|war",
-    "norm": 57.1
-  },
-  "3-big-takeaways-from-bjp-s-nabin-team-who-got-rewarded-and-w": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bjp|war",
-    "norm": 57.1
-  },
-  "bjp-chief-nitin-nabin-announces-party-reshuffle-smriti-irani": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
+  "nitin-nabin-announces-his-team-smriti-irani-ram-madhav-make-": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
     "signature": "bjp|iran",
+    "norm": 57.1
+  },
+  "-no-one-will-be-spared-maha-fda-chief-warns-after-notice-to-": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "mp|war",
     "norm": 55.4
   },
-  "milma-s-thiruvananthapuram-regional-union-disburses-3-66-cro": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "crore|mp",
+  "adimaly-mudslide-of-2025-14-more-families-get-10-lakh-compen": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "lakh|mp",
     "norm": 55
   },
-  "3-ex-chief-ministers-18-mps-10-women-bjp-s-power-packed-team": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "bjp|chief minister|minister|mp",
-    "norm": 52.1
+  "govt-clears-31-electronics-component-applications-worth-rs-7": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "crore|mp",
+    "norm": 53.2
+  },
+  "du-suspends-phd-scholar-for-slapping-professor-bars-campus-e": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "cctv|mp|video",
+    "norm": 53.2
+  },
+  "bjp-s-new-team-under-nitin-nabin-youth-experience-and-grassr": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "bjp|mp",
+    "norm": 50.5
   },
   "the-return-of-ram-madhav-what-it-means-for-rss-bjp-relations": {
     "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "bjp|president",
-    "norm": 50.5
+    "norm": 48.7
   },
   "with-8-leaders-up-gets-the-lion-s-share-in-bjp-s-big-revamp-": {
     "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "bjp|mp",
-    "norm": 50.5
+    "norm": 48.7
   },
-  "karnataka-chief-minister-s-effigy-garlanded-with-footwear-in": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "six-arrested-for-attention-diversion-theft-in-langer-houz": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "anger",
-    "norm": 48.2
-  },
-  "scourge-of-dowry-deaths-still-prevalent-in-indian-society-de": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "death",
-    "norm": 48.2
-  },
-  "20-year-old-worker-dies-in-veligonda-project-tunnel-accident": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "accident",
-    "norm": 48.2
-  },
-  "bharat-jodo-club-is-aimed-at-promoting-rowdy-elements-says-k": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "row",
-    "norm": 48.2
-  },
-  "delhi-airport-to-consult-stakeholders-on-its-master-plan-203": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
+  "afghanistan-embassy-in-delhi-celebrates-fifth-year-of-taliba": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
     "signature": "war",
     "norm": 48.2
   },
-  "pak-arrests-258-including-40-chinese-nationals-in-scam-call-": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "scam",
-    "norm": 46.3
+  "prakasam-collector-assures-government-aid-for-child-with-rar": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "row",
+    "norm": 48.2
   },
-  "guntur-imposes-complete-ban-on-single-use-plastic-from-today": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "mp",
+  "black-magic-for-wealth-15-people-booked-over-aghori-ritual-i": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "maharashtra",
+    "norm": 48.2
+  },
+  "350-dsc-aspirants-attend-orientation-programme-in-paderu": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "iran",
+    "norm": 48.2
+  },
+  "cm-vijay-announces-full-crop-loan-waiver-of-up-to-75-000": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "lakh",
     "norm": 45.9
   },
-  "bjp-flags-adverse-effects-of-power-cuts-on-households-and-in": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "87-879-voters-under-asddo-category-in-chamarajanagar-distric": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "vote",
-    "norm": 45.9
-  },
-  "telangana-to-make-strong-pitch-for-its-demands-like-coal-blo": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
+  "vijay-apologises-for-t-n-forest-minister-s-remarks-in-assemb": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
     "signature": "minister",
     "norm": 45.9
   },
-  "father-dies-after-alleged-assault-by-son-during-argument-ove": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
+  "sweet-treat-turns-sour-11-fall-ill-after-eating-birthday-cak": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "rss-bjp-coordination-gets-a-fresh-push-what-nitin-nabin-s-ne": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "bjp",
+    "norm": 44
+  },
+  "bar-council-cannot-run-law-college-it-regulates-supreme-cour": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "supreme court",
+    "norm": 44
+  },
+  "teacher-quality-rests-on-competence-empathy-pralhad-joshi-at": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "-will-counter-propaganda-dispel-misconceptions-new-bjp-it-ce": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "bjp",
+    "norm": 44
+  },
+  "kia-handles-22-6-million-passengers-in-first-six-months-of-2": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
     "signature": "",
     "norm": 36
   },
-  "ailu-demands-dedicated-sc-st-court-in-kozhikode": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
+  "dawood-ibrahim-s-aide-akhtar-merchant-arrested-at-delhi-airp": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "",
+    "norm": 36
+  },
+  "eastern-naval-command-lift-vdca-institutional-league-title": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "",
+    "norm": 36
+  },
+  "sc-st-commission-in-kerala-disposes-of-208-cases": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
+    "signature": "",
+    "norm": 36
+  },
+  "ksrtc-bus-services-to-be-aligned-with-college-timings-harish": {
+    "firstSeen": "2026-08-17T14:38:27.436Z",
     "signature": "",
     "norm": 36
   },
   "will-sit-for-test-accept-failure-if-score-below-9-10-adhikar": {
-    "firstSeen": "2026-08-17T13:50:07.417Z",
-    "signature": "",
-    "norm": 36
-  },
-  "paid-a-bribe-this-new-website-lets-you-report-how-much-you-p": {
     "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "",
     "norm": 33.9
