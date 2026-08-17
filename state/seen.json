@@ -1,66 +1,96 @@
 {
-  "seven-dead-in-stampede-at-temple-in-bihar-s-lakhisarai": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
-    "signature": "crowd|dead|dead|lakh|mp|row|stampede|vote",
-    "norm": 93.5
+  "students-who-cleared-jssc-cgl-examination-launch-protests-af": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "chief minister|controversy|exam|iran|khan|minister|protest|protest",
+    "norm": 90.9
   },
-  "-we-became-unemployed-in-an-instant-aspirants-who-cleared-js": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
-    "signature": "exam|high court|iran|mp|protest|protest|ruling|supreme court",
-    "norm": 82.9
+  "-trapped-constable-fired-ak-47-during-neet-protest-bihar-pol": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "crowd|fire|fire|neet|protest|protest|row|supreme court",
+    "norm": 90.8
+  },
+  "jharkhand-government-cancels-jssc-cgl-exam-all-exams-conduct": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "exam|khan|protest|protest",
+    "norm": 71.6
+  },
+  "prithviraj-chavan-alleges-over-56-000-duplicate-voters-in-ma": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "election|election|maharashtra|mp|poll|vote",
+    "norm": 68
   },
   "army-recruitment-rally-in-vizag-from-sept-3-20": {
     "firstSeen": "2026-08-17T18:53:46.133Z",
     "signature": "army|rally|rally|recruitment",
-    "norm": 66.9
+    "norm": 65.3
   },
-  "bengaluru-firm-opens-quantum-foundry-to-accelerate-quantum-c": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
-    "signature": "minister|mp|row",
-    "norm": 59.7
+  "citizen-led-food-safety-watch-teams-will-be-formed-at-taluk-": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "minister|mp|watch",
+    "norm": 56.4
   },
-  "abuse-character-assassination-an-unwanted-pregnancy-what-mad": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
-    "signature": "death|sharma",
-    "norm": 53.9
+  "on-dignity-in-political-discourse": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "fan|war",
+    "norm": 55.7
   },
-  "-pure-naxal-bjp-hits-back-at-opposition-leaders-for-calling-": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
-    "signature": "bjp|chief minister|minister|opposition",
-    "norm": 52.1
+  "court-dismisses-2020-protest-case-against-cpi-m-leaders": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "vizag-to-host-brics-sports-ministers-meeting-on-august-22-23": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
-    "signature": "brics|minister",
+  "karnataka-rise-in-egg-prices-triggers-demand-for-midday-meal": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "fund|price|prices",
+    "norm": 50.9
+  },
+  "long-term-vision-is-to-provide-certificates-within-a-stipula": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "minister|mp",
     "norm": 50.5
   },
-  "skm-to-submit-memorandum-to-mps-seek-push-for-change-in-cent": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
-    "signature": "mp|policy",
-    "norm": 50.5
-  },
-  "mp-assures-support-to-journalists-at-apuwj-celebrations": {
-    "firstSeen": "2026-08-17T17:39:08.830Z",
+  "kerala-lokayukta-orders-removal-of-unauthorised-hazardous-ut": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "vizag-collector-checks-grievance-resolution-with-complainant": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
-    "signature": "mp",
-    "norm": 44
+  "seven-held-with-elephant-tusk-in-malappuram": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "",
+    "norm": 36
   },
-  "gba-s-city-corporations-can-t-add-new-conditions-for-issuing": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
-    "signature": "high court",
-    "norm": 44
+  "schwan-laboratory-inaugurated-at-gitam": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "",
+    "norm": 36
   },
-  "india-post-offers-international-rakhi-delivery-service": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
+  "dmk-regime-created-enforcement-bureau-cid-to-control-drug-me": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "",
+    "norm": 36
+  },
+  "shrc-directive-to-ease-traffic-snarls-caused-by-kochi-metro-": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "",
+    "norm": 36
+  },
+  "seven-eateries-in-kochi-inspected": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "",
+    "norm": 36
+  },
+  "karnataka-resolution-passed-against-purification-ritual": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
+    "signature": "",
+    "norm": 36
+  },
+  "amuthan-murder-police-arrest-one-more-final-year-student": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
     "signature": "",
     "norm": 33.9
   },
-  "large-areas-of-kolkata-and-its-surroundings-waterlogged-due-": {
-    "firstSeen": "2026-08-17T18:53:46.133Z",
+  "the-proud-assamese-from-other-states": {
+    "firstSeen": "2026-08-17T19:36:09.186Z",
     "signature": "",
     "norm": 33.9
   }
