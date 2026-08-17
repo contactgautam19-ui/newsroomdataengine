@@ -1,202 +1,137 @@
 {
-  "8-pilgrims-killed-in-fire-at-hotel-near-tarapith-temple-in-b": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "died|fire|fire|killed|killed|mp",
-    "norm": 81
+  "jharkhand-govt-to-cancel-jssc-cgl-exam-soon-says-cm-hemant-s": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "exam|iran|khan|protest|protest|recruitment",
+    "norm": 78.9
   },
-  "akssa-to-launch-protest-in-dharwad-today-despite-police-deny": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "iran|mp|protest|protest",
-    "norm": 72.9
+  "pm-modi-s-dimagi-naxal-remark-sparks-row-chidambaram-kejriwa": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "controversy|kejriwal|minister|modi|modi|opposition|prime minister|row",
+    "norm": 78.4
   },
-  "-don-t-beg-pakistan-s-strict-warning-to-hajj-pilgrims-in-sau": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "mp|pakistan|war|warning",
-    "norm": 71.6
+  "bjp-s-telangana-snub-shocks-leaders-cadres": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "attack|attack|bjp|shock|shock",
+    "norm": 77.8
   },
-  "2-students-injured-during-anti-census-protest-in-manipur-pol": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "injured|mp|protest|protest",
-    "norm": 71.4
+  "eight-killed-in-hotel-fire-in-west-bengal-s-tarapith": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "fire|fire|killed|killed|mp",
+    "norm": 77.8
   },
-  "iran-threatens-to-go-on-offensive-in-strait-of-hormuz-if-dip": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "diplomacy|ipl|iran|threat",
+  "jharkhand-cm-accepts-students-demands-cancels-jssc-cgl-other": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "exam|khan|protest|protest|row",
+    "norm": 76.5
+  },
+  "gangster-shahzad-bhatti-picked-operatives-through-social-med": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "footage|gst|pakistan|row",
     "norm": 71
   },
-  "halal-fayidha-co-operative-society-denies-investment-scam-al": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "collapse|collapse|collapse|scam",
-    "norm": 70.3
+  "no-state-can-block-traditional-routes-of-elephants-supreme-c": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "fire|fire|mp|supreme court",
+    "norm": 66.9
   },
-  "keralam-cm-urges-modi-to-reconsider-provisions-of-amended-mi": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "bill|chief minister|minister|modi|modi|mp",
-    "norm": 65.1
+  "nitin-s-nabin-team-bjp-hits-reset-button-with-eye-on-up-and-": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "bjp|election|election|lok sabha",
+    "norm": 61.8
   },
-  "hockey-wc-india-s-32-year-england-jinx-continues-as-late-goa": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "match|pakistan|world cup",
-    "norm": 62.5
-  },
-  "congress-chief-present-vande-mataram-not-sung-in-full-at-goa": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "congress|row|star",
-    "norm": 62.5
-  },
-  "smriti-irani-s-big-comeback-in-bjp-what-s-next-for-her-as-up": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "bjp|iran|poll",
+  "opposition-hits-back-after-pm-modi-s-dimangi-naxals-remark-a": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "modi|modi|opposition",
     "norm": 61.4
   },
-  "tax-row-over-messi-visit-keralam-gst-department-recommends-a": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "gst|row|tax",
-    "norm": 61.4
-  },
-  "bjp-s-new-team-the-big-ins-outs-and-replacements": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "bjp|election|election",
-    "norm": 59.7
-  },
-  "ensure-passage-of-rohith-vemula-bill-in-the-ongoing-monsoon-": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "bill|cabinet|rohit",
+  "supreme-court-orders-restoration-of-aap-gujarat-s-facebook-i": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "aap|instagram|supreme court",
     "norm": 57.9
   },
-  "vck-should-grow-into-a-force-capable-of-ruling-tamil-nadu-sa": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "row|ruling",
+  "bwf-worlds-ayush-shetty-stuns-world-no-1-shi-yu-qi-india-5-0": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "mp|star|stuns",
+    "norm": 57.6
+  },
+  "cm-revanth-opens-mcr-tims-sanathnagar-with-focus-on-affordab": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "crore|hospital",
     "norm": 57.1
   },
-  "vande-mataram-added-to-official-events-this-year-people-may-": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "congress|controversy",
+  "food-safety-crackdown-in-bengaluru-shawarma-kebab-milk-sampl": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "mp|war",
     "norm": 57.1
   },
-  "-anyone-who-wants-to-change-the-rotten-system-arvind-kejriwa": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "kejriwal|riot",
-    "norm": 55.4
+  "education-minister-pralhad-joshi-tells-nta-to-audit-examinat": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "exam|minister",
+    "norm": 57.1
+  },
+  "khadi-board-employee-found-unconscious-now-in-hospital": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "hospital|mp",
+    "norm": 57.1
+  },
+  "i-leave-it-to-the-mlas-to-decide-whether-they-should-get-up-": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "chief minister|minister|mla|mp|opposition",
+    "norm": 54.4
   },
   "police-record-udf-leader-s-statement-in-kozhikode-corporatio": {
     "firstSeen": "2026-08-17T15:35:15.919Z",
     "signature": "record|row",
     "norm": 54.2
   },
-  "-dimagi-naxal-party-instagram-page-gets-2-6-lakh-followers": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "instagram|lakh",
-    "norm": 53.5
-  },
-  "only-first-two-stanzas-of-vande-mataram-sung-at-congress-goa": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "bill|congress|parliament",
-    "norm": 52.7
-  },
-  "to-handle-gen-z-the-bjp-finds-a-young-replacement-for-tejasv": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "bjp|mp|president",
-    "norm": 52.7
-  },
-  "100-days-of-tvk-govt-cm-vijay-defines-priorities-but-his-rea": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "chief minister|minister|mp",
-    "norm": 50.9
-  },
-  "hanur-shoot-out-funeral-of-deceased-held-mla-distributes-com": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "mla|mp",
-    "norm": 50.5
-  },
   "big-maritime-boost-india-gets-2-more-mq-9b-drones-from-us-to": {
     "firstSeen": "2026-08-17T15:35:15.919Z",
     "signature": "army|drone",
-    "norm": 50.2
+    "norm": 52
   },
-  "man-arrested-for-defacing-ysr-statue-in-nandyal-district": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "fraud",
+  "bjp-demands-judicial-probe-resignation-of-forest-minister-ra": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "bjp|minister",
+    "norm": 50.5
+  },
+  "20-passengers-injured-in-tgsrtc-bus-lorry-collision-in-jagti": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "injured",
     "norm": 48.2
   },
-  "surname-in-place-of-initial-may-get-you-notice-from-ero-thou": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "match",
-    "norm": 48.2
-  },
-  "woman-stabbed-to-death-by-lover-following-argument-over-marr": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "death",
-    "norm": 48.2
-  },
-  "washington-freshman-designs-banana-inspired-liner-to-fight-h": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "-nobody-will-be-spared-tukaram-mundhe-after-maharashtra-fda-": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "maharashtra",
-    "norm": 46.3
-  },
-  "-ready-to-show-degree-but-ask-pawpaw-too-dipke-amid-row-over": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "-hanuman-paisa-dispute-leads-to-kidnapping-of-odisha-busines": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "fraud",
-    "norm": 46.3
-  },
-  "no-evidence-of-covid-19-clusters-in-a-p-says-health-minister": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "minister",
+  "guntur-imposes-complete-ban-on-single-use-plastic-from-today": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "ysrcp-seeks-relief-for-students-overseas-voters-in-electoral": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "vote",
+  "shrc-directive-to-address-traffic-congestion-caused-by-kochi": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "notices-will-be-issued-to-nearly-93-lakh-electors-ceo-confir": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "lakh",
-    "norm": 45.9
-  },
-  "93-major-projects-under-way-in-amaravati-says-ma-ud-minister": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "six-held-with-12-kg-hashish-oil-worth-1-5-crore-in-hyderabad": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
-    "signature": "crore",
-    "norm": 45.9
-  },
-  "safe-food-to-be-ensured-during-onam-season-in-kerala": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
+  "t-n-to-file-review-petition-against-eviction-of-people-from-": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
     "signature": "",
     "norm": 36
   },
-  "godavari-suicide-bid-man-dies-2-missing-note-alleges-daughte": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
+  "centre-says-2026-law-does-not-invalidate-identity-cards-alre": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
     "signature": "",
     "norm": 36
   },
-  "ysrcp-demands-cbi-inquiry-into-dsc-2025-irregularities-": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
+  "nyc-mayor-zohran-mamdani-speaks-in-bangla-mandarin-and-spani": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
     "signature": "",
     "norm": 36
   },
-  "hanur-shoot-out-people-s-legal-forum-seeks-high-level-probe": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
+  "landlord-arrested-for-sexually-harassing-tenant": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
     "signature": "",
     "norm": 36
   },
-  "man-dies-after-manjha-slits-throat-on-delhi-meerut-expresswa": {
-    "firstSeen": "2026-08-17T15:35:15.919Z",
+  "mtr-launches-north-karnataka-range-of-chutney-pudis": {
+    "firstSeen": "2026-08-17T16:39:36.619Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
