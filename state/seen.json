@@ -1,96 +1,131 @@
 {
-  "russia-hits-indian-billionaire-s-factory-in-ukraine-as-war-s": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "actor|aerial|attack|attack|bill|billion|drone|war",
-    "norm": 93.8
+  "rupee-falls-17-paise-against-us-dollar-as-fcnr-swap-deadline": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "dead|dead|mp|rupee|rupee falls|star",
+    "norm": 85.7
   },
-  "ashok-dham-to-new-delhi-railway-station-10-deadly-stampedes-": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "cricket|dead|dead|mp|shock|shock|stampede",
-    "norm": 91.7
+  "electric-current-rumour-overcrowding-what-caused-bihar-templ": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "crowd|lakh|mp|row|stampede|war",
+    "norm": 85.3
   },
-  "6-killed-many-injured-in-stampede-at-temple-in-bihar-s-lakhi": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "injured|killed|killed|lakh|mp|stampede",
-    "norm": 82.7
+  "how-pm-modi-nsa-doval-called-pakistan-s-nuclear-bluff-before": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "modi|modi|pakistan|terror|terror|war",
+    "norm": 84.5
   },
-  "7-killed-several-injured-in-stampede-like-incident-at-bihar-": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "injured|killed|killed|lakh|mp|stampede",
-    "norm": 81.2
+  "seven-dead-in-stampede-in-bihar-s-ashok-dham-temple": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "dead|dead|lakh|mp|stampede|vote",
+    "norm": 82.6
   },
-  "7-killed-over-a-dozen-injured-after-stampede-at-bihar-s-asho": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "injured|killed|killed|mp|stampede|vote",
-    "norm": 78.9
+  "seven-killed-several-injured-in-hotel-fire-in-west-bengal-s-": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "fire|fire|injured|killed|killed|mp",
+    "norm": 80.2
   },
-  "clean-records-zero-criminal-history-ordinary-persons-khalist": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "record|recruitment|terror|terror",
-    "norm": 74.9
+  "-nta-makes-mistake-students-serve-sentence-rahul-gandhi-atta": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "attack|attack|exam|rahul gandhi",
+    "norm": 77.5
   },
-  "us-backs-islamic-nato-trump-calls-saudi-turkey-pak-pact-big-": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "mp|slam|trump|trump",
-    "norm": 71.6
+  "jharkhand-protest-live-students-urge-rahul-to-withdraw-govt-": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "congress|khan|protest|protest|rahul gandhi",
+    "norm": 72
   },
-  "stock-market-live-updates-sensex-today-markets-likely-to-ope": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "iran|nifty|price|prices|sensex|stock market",
-    "norm": 65.1
+  "three-men-one-forest-suspected-poaching-shootout-turns-into-": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "chief minister|massacre|minister|protest|protest",
+    "norm": 70.4
   },
-  "javed-akhtar-slams-zardari-over-tolerating-hindus-calls-him-": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "pakistan|president|slam|slams",
-    "norm": 65
+  "maharashtra-s-highway-work-delay-alcohol-problem-due-to-trum": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "bjp|maharashtra|mp|trump|trump",
+    "norm": 67
   },
-  "cjp-s-dipke-joins-protest-as-candidates-claim-glitches-durin": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "bomb|protest|protest",
-    "norm": 63.2
+  "-anklets-clanking-600-tribal-students-leave-maharashtra-haun": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "cry|maharashtra|star",
+    "norm": 66.3
   },
-  "weather-today-mumbai-thane-see-heavy-rain-punjab-bihar-on-al": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "alert|heavy rain|weather",
-    "norm": 62.9
+  "anurag-thakur-smriti-irani-may-make-comeback-as-nitin-nabin-": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "bjp|gst|iran",
+    "norm": 65.6
   },
-  "trump-cites-good-ties-with-kim-jong-un-in-scaling-back-south": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "defence|mp|president|trump|trump",
-    "norm": 62.9
-  },
-  "nta-to-re-conduct-ugc-net-exams-for-3-subjects-after-questio": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "exam|ipl|mp",
-    "norm": 62.5
-  },
-  "-didn-t-say-opposition-leaders-kiren-rijiju-clarifies-pm-mod": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "modi|modi|opposition",
+  "congress-discussion-about-vande-mataram-unnecessary-says-uni": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "congress|controversy|minister",
     "norm": 59.7
   },
-  "karnataka-tamil-nadu-flashpoint-3-tamil-origin-men-shot-dead": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
+  "-police-themselves-not-safe-ips-officer-s-mother-found-dead-": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
     "signature": "dead|dead",
-    "norm": 59.3
+    "norm": 57.6
   },
-  "population-enumeration-phase-of-census-2027-begins-from-lada": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "star",
-    "norm": 42.4
+  "bengaluru-school-temporarily-shut-after-500-students-staff-f": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "mp|row",
+    "norm": 57.1
   },
-  "36-hours-in-srinagar-a-first-timer-s-guide-to-kashmir-s-capi": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "khan",
-    "norm": 42.4
+  "shillong-teer-result-today-august-17-2026-check-winning-numb": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "khan|result",
+    "norm": 53.9
   },
-  "lakshmi-mittal-s-ukraine-factory-in-volodymyr-zelensky-s-hom": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
-    "signature": "actor",
-    "norm": 42.4
+  "22-death-sentences-in-4-months-up-judge-s-record-draws-focus": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "death|record",
+    "norm": 52.4
   },
-  "rajasthan-govt-restricts-entry-of-outsiders-photography-and-": {
-    "firstSeen": "2026-08-17T03:09:02.693Z",
+  "skipping-of-vande-mataram-rendition-at-i-day-function-roils-": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "bjp|president",
+    "norm": 48.7
+  },
+  "-have-audios-annamalai-s-big-charge-against-cm-vijay-s-govt-": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "cabinet|minister",
+    "norm": 48.7
+  },
+  "kharif-crops-productivity-at-risk-as-monsoon-trough-shifts-w": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "indian-origin-arshdeep-singh-dang-makes-history-as-first-sik": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "air force",
+    "norm": 45.9
+  },
+  "shehzad-poonawalla-presses-bjp-to-accept-resignation-after-f": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "boost-cooking-gas-production-india-to-local-refineries-amid-": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "father-dies-after-alleged-assault-by-son-during-argument-ove": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "",
+    "norm": 36
+  },
+  "telangana-double-murder-robbery-case-solved-cash-jewellery-r": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "krafton-india-to-launch-bgmi-lite-by-the-end-of-2026-what-we": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "bangladesh-sets-extradition-of-hasina-hadi-s-killers-as-cond": {
+    "firstSeen": "2026-08-17T04:53:51.348Z",
     "signature": "",
     "norm": 33.9
   }
