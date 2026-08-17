@@ -1,302 +1,52 @@
 {
-  "jharkhand-exam-stir-protesters-announce-cm-residence-gherao-": {
-    "firstSeen": "2026-08-16T21:30:52.125Z",
-    "signature": "coalition|congress|exam|khan|protest|protest",
-    "norm": 76.7
+  "navy-sailor-wife-and-2-children-found-dead-in-mumbai-murder-": {
+    "firstSeen": "2026-08-17T01:51:31.855Z",
+    "signature": "dead|dead|died|navy",
+    "norm": 71
   },
-  "1-killed-children-among-4-injured-in-shooting-at-park-in-us-": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "injured|killed|killed|shooting|weather",
-    "norm": 66.7
+  "-if-any-indian-feels-kiren-rijiju-clarifies-pm-s-dimagi-naxa": {
+    "firstSeen": "2026-08-17T01:51:31.855Z",
+    "signature": "congress|controversy|minister|opposition",
+    "norm": 63.5
   },
-  "-one-family-one-ticket-row-grows-as-bjp-s-ravneet-bittu-targ": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "bjp|congress|neet|row|war",
-    "norm": 66.2
-  },
-  "trump-envoy-meets-hamas-leaders-over-gaza-plan-will-see-neta": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "israel|mp|trump|trump|war",
-    "norm": 66.2
-  },
-  "congress-protests-in-kalaburagi-against-purification-ritual-": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "congress|khan|protest|protest|rally|rally",
-    "norm": 65.8
-  },
-  "vande-mataram-row-amit-shah-attacks-sonia-gandhi-congress-hi": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "amit shah|attack|attack|bill|congress|parliament|row",
-    "norm": 65.6
-  },
-  "rs-16-clothing-sale-draws-thousands-in-kanpur-sparks-stamped": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "crowd|mp|row|stampede|video",
-    "norm": 65.2
-  },
-  "-won-t-tolerate-insult-bjp-carries-out-protests-in-several-s": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "bjp|congress|protest|protest|row|video",
-    "norm": 64.1
-  },
-  "ips-officer-s-mother-killed-in-u-p-s-ambedkar-nagar-jeweller": {
-    "firstSeen": "2026-08-16T22:32:42.027Z",
-    "signature": "gold|killed|killed",
-    "norm": 62.7
-  },
-  "after-jharkhand-protesters-burn-soren-rahul-effigies-state-g": {
-    "firstSeen": "2026-08-16T21:30:52.125Z",
-    "signature": "congress|khan|protest|protest",
-    "norm": 62.7
-  },
-  "cisf-personnel-caught-secretly-taking-woman-s-photos-on-delh": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "photos|video|viral|viral|viral|viral video",
+  "congress-discussion-about-vande-mataram-unnecessary-says-uni": {
+    "firstSeen": "2026-08-17T01:51:31.855Z",
+    "signature": "congress|controversy|minister",
     "norm": 61.4
   },
-  "five-member-panel-to-hold-talks-with-haryana-cm-over-jeevan-": {
-    "firstSeen": "2026-08-16T23:30:21.934Z",
-    "signature": "actor|chief minister|minister|war",
-    "norm": 61.3
-  },
-  "-terror-plot-averted-cops-find-bomb-timer-in-suspicious-pack": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "bomb|mp|terror|terror",
-    "norm": 58.2
-  },
-  "cm-vijay-condemns-killing-of-3-tamil-farmers-in-karnataka-st": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "chief minister|minister|mp|outrage|tragic",
-    "norm": 57.8
-  },
-  "fleeing-drowning-scene-not-proof-of-culpability-says-sc": {
-    "firstSeen": "2026-08-16T23:30:21.934Z",
-    "signature": "drown|row",
-    "norm": 57.6
-  },
-  "model-strips-in-train-over-seat-spat-attacks-railway-cop-wit": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "attack|attack|mp",
-    "norm": 56.7
-  },
-  "row-over-3-poachers-shot-dead-in-karnataka-vijay-says-they-w": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "dead|dead|death|row",
-    "norm": 56.2
-  },
-  "trump-s-envoys-meet-mediators-israel-strikes-gaza": {
-    "firstSeen": "2026-08-16T22:32:42.027Z",
-    "signature": "israel|mp|trump|trump",
-    "norm": 55.6
-  },
-  "chaos-in-delhi-metro-after-paramilitary-official-allegedly-t": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "photos|video|viral|viral|viral",
-    "norm": 54.2
-  },
-  "ed-tmc-paid-little-known-company-rs-160-crore-to-buy-a-jet-a": {
-    "firstSeen": "2026-08-16T23:30:21.934Z",
-    "signature": "crore|mp",
-    "norm": 53.2
-  },
-  "how-pm-modi-has-changed-focus-of-independence-day-speeches": {
-    "firstSeen": "2026-08-16T22:32:42.027Z",
-    "signature": "modi|modi",
-    "norm": 52.7
-  },
-  "-would-rather-die-moroccan-migrants-protest-in-spain-s-ceuta": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "border|protest|protest",
-    "norm": 51.5
-  },
-  "jharkhand-government-invites-student-protesters-for-fresh-ta": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
+  "jharkhand-protesters-govt-to-hold-7th-round-of-talks-today-a": {
+    "firstSeen": "2026-08-17T01:51:31.855Z",
     "signature": "khan|protest|protest",
-    "norm": 50
+    "norm": 59.7
   },
-  "man-held-for-fatally-attacking-his-father-in-law-in-tiruvann": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "attack|attack",
-    "norm": 47.7
+  "indonesia-hit-by-5-7-magnitude-quake-days-after-deadly-7-7-t": {
+    "firstSeen": "2026-08-17T01:51:31.855Z",
+    "signature": "dead|dead",
+    "norm": 59.3
   },
-  "questions-raised-over-hospital-dustbin-procurement-in-bihar": {
-    "firstSeen": "2026-08-16T22:32:42.027Z",
-    "signature": "bjp|hospital",
-    "norm": 45.4
+  "inside-the-ram-temple-donation-counting-centre-how-did-the-t": {
+    "firstSeen": "2026-08-17T01:51:31.855Z",
+    "signature": "ayodhya|mp",
+    "norm": 57.1
   },
-  "kerala-high-court-reprimands-state-over-its-failure-to-colle": {
-    "firstSeen": "2026-08-16T23:30:21.934Z",
-    "signature": "high court|mp",
-    "norm": 42.5
+  "nta-to-re-conduct-ugc-net-exams-for-english-sociology-commer": {
+    "firstSeen": "2026-08-17T01:51:31.855Z",
+    "signature": "exam|mp",
+    "norm": 55.4
   },
-  "four-sfi-activists-held-over-protest-at-ssus": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "protest|protest",
-    "norm": 42.2
-  },
-  "two-escape-unhurt-after-car-catches-fire-in-vellore": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "fire|fire",
-    "norm": 42.2
-  },
-  "in-spain-s-ceuta-hundreds-of-migrants-stage-protest-and-dema": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "protest|protest",
-    "norm": 42.2
-  },
-  "-unacceptable-cm-vijay-condemns-massacre-of-3-tamil-nadu-men": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "death|massacre",
-    "norm": 41.8
-  },
-  "groundwater-that-glows-yellow-green-in-u-p-": {
-    "firstSeen": "2026-08-16T23:30:21.934Z",
-    "signature": "mp",
-    "norm": 41
-  },
-  "delhi-metro-cisf-jawan-caught-clicking-woman-s-photos-pointi": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "photos|video|war",
-    "norm": 41
-  },
-  "in-4-months-up-judge-sentences-22-to-death-rulings-ignite-de": {
-    "firstSeen": "2026-08-16T23:30:21.934Z",
-    "signature": "death|ruling",
-    "norm": 41
-  },
-  "sabari-rail-project-landowners-meet-minister-chalakudy-mp": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
+  "-give-me-2-3-4-annamalai-s-big-corruption-claim-against-vija": {
+    "firstSeen": "2026-08-17T01:51:31.855Z",
     "signature": "minister|mp",
-    "norm": 38
+    "norm": 50.5
   },
-  "army-chief-dhiraj-seth-visits-nepal-to-strengthen-military-t": {
-    "firstSeen": "2026-08-16T21:30:52.125Z",
-    "signature": "army|president",
-    "norm": 38
+  "rs-735-crore-yuge-yugeen-bharat-museum-to-get-peacock-themed": {
+    "firstSeen": "2026-08-17T01:51:31.855Z",
+    "signature": "crore",
+    "norm": 45.9
   },
-  "bangladesh-sets-tough-riders-for-pm-tarique-s-visit-to-india": {
-    "firstSeen": "2026-08-16T23:30:21.934Z",
-    "signature": "",
-    "norm": 36
-  },
-  "lens-on-cambridge-after-black-professor-s-death-amid-scrutin": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "death",
-    "norm": 35.5
-  },
-  "man-held-for-alleged-loan-fraud-in-kochi": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "fraud",
-    "norm": 35.5
-  },
-  "-disaster-4-renaissance-era-paintings-stolen-from-italian-mu": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "disaster",
-    "norm": 35.5
-  },
-  "ugc-net-2026-nta-to-re-conduct-english-commerce-sociology-pa": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "ipl",
-    "norm": 35.5
-  },
-  "netanyahu-made-big-claim-about-iran-s-nuclear-plan-his-sourc": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "iran",
-    "norm": 35.5
-  },
-  "west-asia-war-live-pope-calls-for-an-end-to-west-bank-violen": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "war",
-    "norm": 35.5
-  },
-  "pixel-11-series-honor-robot-phone-redmi-17-official-week-33-": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
+  "before-chandrasekaran-s-exit-he-amp-noel-tata-separately-bri": {
+    "firstSeen": "2026-08-17T01:51:31.855Z",
     "signature": "mp",
-    "norm": 32.8
-  },
-  "research-achieves-its-highest-purpose-when-it-serves-society": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "president",
-    "norm": 32.8
-  },
-  "after-nalsar-another-top-law-college-opposes-invite-to-chief": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "cji",
-    "norm": 32.8
-  },
-  "from-women-empowerment-to-education-cm-mann-highlights-punja": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "e-coli-found-in-drinking-water-rail-stations-lack-basic-faci": {
-    "firstSeen": "2026-08-16T22:32:42.027Z",
-    "signature": "",
-    "norm": 30.7
-  },
-  "ronaldo-drops-bombshell-retirement-hint-reveals-plans-for-li": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "bomb",
-    "norm": 30.7
-  },
-  "-explanation-unacceptable-cm-vijay-condemns-killing-of-three": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "brutal",
-    "norm": 30.7
-  },
-  "apple-iphone-18-pro-release-date-discounted-day-re-enters-th": {
-    "firstSeen": "2026-08-16T23:30:21.934Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "karnataka-government-has-failed-to-mitigate-drought-says-kum": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "junior-doctors-in-a-p-to-withdraw-emergency-services-from-mo": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "oxygen-depletion-kills-a-large-number-of-jalebi-fish-in-pala": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "ips-officer-s-mother-found-murdered-in-up-home-jewellery-loo": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "ailu-demands-resignation-of-bci-chairman": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "house-of-aiadmk-functionary-burgled-near-arakkonam": {
-    "firstSeen": "2026-08-16T19:29:30.951Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "murder-in-noida-arrest-in-bihar-how-5-litres-of-liquor-led-c": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "cisf-officer-suspended-after-woman-alleges-photo-misconduct-": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "xiaomi-releases-new-hyperos-launcher-update-8-01-02": {
-    "firstSeen": "2026-08-16T23:30:21.934Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "-putzer-for-ritzer-parsow-for-parsons-what-are-the-typos-err": {
-    "firstSeen": "2026-08-16T20:33:57.284Z",
-    "signature": "",
-    "norm": 15.1
+    "norm": 44
   }
 }
