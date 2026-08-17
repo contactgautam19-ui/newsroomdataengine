@@ -2,90 +2,75 @@
   "iran-threatens-to-go-on-offensive-in-hormuz-if-diplomacy-wit": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "dead|dead|diplomacy|ipl|iran|policy|threat|war",
-    "norm": 86.6
+    "norm": 83.3
   },
   "students-who-cleared-jssc-cgl-examination-launch-protests-af": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "chief minister|controversy|exam|iran|khan|minister|protest|protest",
-    "norm": 86.1
+    "norm": 82.8
   },
-  "awaiting-answers-on-the-student-protests-in-jharkhand": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "exam|gst|khan|protest|protest",
-    "norm": 75.5
+  "floods-hit-7-85-lakh-people-in-6-odisha-districts": {
+    "firstSeen": "2026-08-17T22:35:48.459Z",
+    "signature": "disaster|flood|flood|floods|lakh|minister|mp",
+    "norm": 78.3
   },
   "-we-became-unemployed-in-an-instant-aspirants-who-cleared-js": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "exam|high court|iran|mp|protest|protest|ruling|supreme court",
     "norm": 74.5
   },
-  "-show-composure-coach-s-message-to-india-ahead-of-must-not-l": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "clash|clash|ipl|match|mp|pakistan|world cup",
-    "norm": 74
-  },
   "anti-terror-agency-s-dog-gets-army-award-for-red-fort-blast-": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "army|blast|injured|killed|killed|terror|terror|war",
     "norm": 73.5
   },
+  "awaiting-answers-on-the-student-protests-in-jharkhand": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "exam|gst|khan|protest|protest",
+    "norm": 72.8
+  },
   "upsssc-declares-recruitment-exam-result-hours-after-aspirant": {
     "firstSeen": "2026-08-17T20:38:13.386Z",
     "signature": "exam|iran|protest|protest|recruitment|result",
-    "norm": 69.7
-  },
-  "black-money-in-polls-supreme-court-orders-1-year-probe-deadl": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "dead|dead|high court|mp|poll|supreme court",
-    "norm": 67.8
-  },
-  "india-says-it-thwarted-attacks-by-pakistan-backed-militants-": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "attack|attack|pakistan|war",
-    "norm": 65.8
-  },
-  "jharkhand-government-cancels-jssc-cgl-exam-all-exams-conduct": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "exam|khan|protest|protest",
-    "norm": 64.7
+    "norm": 66.9
   },
   "3-dead-after-private-helicopter-crashes-on-greek-island": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "accident|crash|crash|dead|dead",
     "norm": 64.7
   },
+  "black-money-in-polls-supreme-court-orders-1-year-probe-deadl": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "dead|dead|high court|mp|poll|supreme court",
+    "norm": 64.1
+  },
+  "india-says-it-thwarted-attacks-by-pakistan-backed-militants-": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "attack|attack|pakistan|war",
+    "norm": 62
+  },
   "no-state-can-block-traditional-routes-of-elephants-supreme-c": {
     "firstSeen": "2026-08-17T20:38:13.386Z",
     "signature": "fire|fire|mp|supreme court",
-    "norm": 62.8
+    "norm": 59.9
+  },
+  "i-day-terror-plot-foiled-isi-backed-ring-busted-253-operativ": {
+    "firstSeen": "2026-08-17T22:35:48.459Z",
+    "signature": "terror|terror",
+    "norm": 59.3
   },
   "indian-sailors-sos-company-asking-us-to-risk-lives-cross-str": {
     "firstSeen": "2026-08-17T20:38:13.386Z",
     "signature": "ipo|mp|war",
-    "norm": 61.4
+    "norm": 58.4
   },
   "four-member-group-allegedly-threatens-shop-owner-fires-shot-": {
     "firstSeen": "2026-08-17T20:38:13.386Z",
     "signature": "fire|fire|threat",
-    "norm": 60.7
+    "norm": 57.7
   },
-  "trump-hints-at-kim-jong-un-contacts-after-scaling-back-seoul": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "mp|president|trump|trump",
-    "norm": 59.3
-  },
-  "india-signs-rs-1-943-cr-deal-with-us-firm-to-lease-2-mq-9b-s": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "deal|drone|navy",
-    "norm": 59
-  },
-  "bengaluru-man-4-year-old-son-found-dead-wife-s-alleged-affai": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "dead|dead|war",
-    "norm": 57.4
-  },
-  "trump-calls-concerns-about-conditions-on-uss-lincoln-fake-": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
+  "trump-envoy-says-hamas-disarmament-could-begin-within-30-day": {
+    "firstSeen": "2026-08-17T22:35:48.459Z",
     "signature": "mp|trump|trump",
     "norm": 57.1
   },
@@ -94,20 +79,35 @@
     "signature": "fund|terror|terror",
     "norm": 56.7
   },
-  "drones-target-kurdish-leaders-after-trump-names-them-as-key-": {
+  "india-signs-rs-1-943-cr-deal-with-us-firm-to-lease-2-mq-9b-s": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "drone|mp|trump|trump",
-    "norm": 56
+    "signature": "deal|drone|navy",
+    "norm": 56.4
+  },
+  "trump-hints-at-kim-jong-un-contacts-after-scaling-back-seoul": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "mp|president|trump|trump",
+    "norm": 56.3
+  },
+  "trump-calls-concerns-about-conditions-on-uss-lincoln-fake-": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "mp|trump|trump",
+    "norm": 54.1
+  },
+  "bengaluru-man-4-year-old-son-found-dead-wife-s-alleged-affai": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "dead|dead|war",
+    "norm": 53.4
+  },
+  "left-parties-renew-call-to-scrap-nta-nep-after-ugc-net-paper": {
+    "firstSeen": "2026-08-17T22:35:48.459Z",
+    "signature": "exam|policy",
+    "norm": 52.7
   },
   "farmers-outfits-urge-mps-mlas-to-speak-out-against-trade-dea": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "deal|mla|mp",
-    "norm": 55
-  },
-  "opium-farmers-demand-more-farming-licences-1-lakh-per-kg": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "lakh|policy",
-    "norm": 53.2
+    "norm": 51.8
   },
   "-i-ve-cried-for-a-long-time-taylor-barnard-breaks-down-after": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
@@ -124,45 +124,40 @@
     "signature": "khan|protest|protest",
     "norm": 50
   },
-  "assam-cm-himanta-sarma-takes-pure-naxal-jibe-at-chidambaram-": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "modi|modi|opposition",
-    "norm": 50
-  },
-  "police-record-udf-leader-s-statement-in-kozhikode-corporatio": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "record|row",
-    "norm": 49.7
-  },
-  "citizen-led-food-safety-watch-teams-will-be-formed-at-taluk-": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "minister|mp|watch",
-    "norm": 48.8
-  },
-  "-let-me-die-in-peace-the-last-90-minutes-of-twisha-sharma-s-": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "death|sharma",
-    "norm": 48
-  },
-  "-imran-khan-s-eye-condition-almost-normal-pak-jail-authoriti": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "khan|slam",
-    "norm": 48
-  },
   "leopard-skins-traps-ngo-curious-poaching-case-emerges-in-mad": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "war|warning",
     "norm": 47.7
   },
-  "court-dismisses-2020-protest-case-against-cpi-m-leaders": {
+  "opium-farmers-demand-more-farming-licences-1-lakh-per-kg": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "protest|protest",
+    "signature": "lakh|policy",
+    "norm": 47.3
+  },
+  "police-record-udf-leader-s-statement-in-kozhikode-corporatio": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "record|row",
     "norm": 46.5
   },
-  "-huge-victory-for-jharkhand-mahto-ends-hunger-strike-after-s": {
+  "mining-to-resume-in-bihar-after-october-15-says-cm-samrat-ch": {
+    "firstSeen": "2026-08-17T22:35:48.459Z",
+    "signature": "chief minister|minister",
+    "norm": 45.9
+  },
+  "delhi-university-suspends-phd-scholar-bars-campus-entry-over": {
+    "firstSeen": "2026-08-17T22:35:48.459Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "-let-me-die-in-peace-the-last-90-minutes-of-twisha-sharma-s-": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "khan",
-    "norm": 44.3
+    "signature": "death|sharma",
+    "norm": 43.8
+  },
+  "-imran-khan-s-eye-condition-almost-normal-pak-jail-authoriti": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "khan|slam",
+    "norm": 43.8
   },
   "abuse-character-assassination-an-unwanted-pregnancy-what-mad": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
@@ -174,44 +169,19 @@
     "signature": "exam|khan",
     "norm": 43.8
   },
-  "gujarat-police-seize-journalist-ravi-nair-s-devices": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "war",
-    "norm": 43.5
-  },
-  "death-of-a-trinamool-leader-and-corruption-taint-in-bengal-p": {
-    "firstSeen": "2026-08-17T20:38:13.386Z",
-    "signature": "death",
-    "norm": 43.5
-  },
-  "nitin-nabin-s-new-team-faces-its-big-test-in-2027-up-polls": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "bjp|poll",
-    "norm": 42.5
-  },
   "-pure-naxal-bjp-hits-back-at-opposition-leaders-for-calling-": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "bjp|chief minister|minister|opposition",
     "norm": 41.8
   },
-  "from-5-921m-summit-historic-glide-to-ladakh-roadhead": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "summit",
-    "norm": 41
-  },
-  "bigger-profile-comes-with-a-formidable-challenge-for-deepak-": {
-    "firstSeen": "2026-08-17T20:38:13.386Z",
-    "signature": "bjp",
-    "norm": 41
-  },
-  "sfi-holds-programme-on-kannur-university-campus-despite-deni": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "mp",
-    "norm": 41
-  },
-  "russia-jails-kremlin-critic-for-11-years-for-speaking-agains": {
+  "gujarat-police-seize-journalist-ravi-nair-s-devices": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "war",
+    "norm": 40.1
+  },
+  "death-of-a-trinamool-leader-and-corruption-taint-in-bengal-p": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "death",
     "norm": 40.1
   },
   "windows-cctv-being-replaced-repair-work-begins-at-school-in-": {
@@ -219,10 +189,15 @@
     "signature": "cctv|mp",
     "norm": 39.7
   },
-  "jharkhand-student-leader-devendra-nath-mahto-ends-hunger-str": {
-    "firstSeen": "2026-08-17T20:38:13.386Z",
+  "-huge-victory-for-jharkhand-mahto-ends-hunger-strike-after-s": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "khan",
     "norm": 39.4
+  },
+  "nitin-nabin-s-new-team-faces-its-big-test-in-2027-up-polls": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "bjp|poll",
+    "norm": 38
   },
   "skm-to-submit-memorandum-to-mps-seek-push-for-change-in-cent": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
@@ -234,55 +209,85 @@
     "signature": "mp|policy",
     "norm": 38
   },
-  "politics-entered-the-akhara-on-nag-panchami-bjp-sp-rivals-wr": {
+  "from-5-921m-summit-historic-glide-to-ladakh-roadhead": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "bjp|mp",
-    "norm": 38
+    "signature": "summit",
+    "norm": 37.5
+  },
+  "bigger-profile-comes-with-a-formidable-challenge-for-deepak-": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "bjp",
+    "norm": 37.5
+  },
+  "jharkhand-student-leader-devendra-nath-mahto-ends-hunger-str": {
+    "firstSeen": "2026-08-17T20:38:13.386Z",
+    "signature": "khan",
+    "norm": 35.8
+  },
+  "russia-jails-kremlin-critic-for-11-years-for-speaking-agains": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "war",
+    "norm": 35.5
   },
   "man-booked-for-allegedly-setting-wife-mother-in-law-ablaze-i": {
     "firstSeen": "2026-08-17T20:38:13.386Z",
     "signature": "blaze",
-    "norm": 37.7
+    "norm": 34.1
+  },
+  "in-boost-to-taliban-ties-india-joins-in-with-victory-day-cel": {
+    "firstSeen": "2026-08-17T22:35:48.459Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "sfi-holds-programme-on-kannur-university-campus-despite-deni": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "mp",
+    "norm": 32.8
   },
   "skymet-raises-drought-risk-cuts-monsoon-forecast-to-85-of-lp": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "mp",
-    "norm": 37.5
+    "norm": 32.8
   },
   "in-bjp-s-team-reshuffle-a-big-message-for-vasundhara-raje": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "bjp",
-    "norm": 37.5
+    "norm": 32.8
   },
   "12-women-6-minority-leaders-part-of-bjp-s-new-national-team-": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "bjp",
     "norm": 32.8
   },
+  "apple-iphone-18-pro-release-date-discounted-day-re-enters-th": {
+    "firstSeen": "2026-08-17T22:35:48.459Z",
+    "signature": "",
+    "norm": 30.7
+  },
   "pdp-chief-mehbooba-says-she-is-dimagi-naxal-nc-blames-her-fo": {
     "firstSeen": "2026-08-17T20:38:13.386Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 26.7
   },
   "lookout-notice-for-man-accused-of-harassing-student-on-ksrtc": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "seven-held-with-elephant-tusk-in-malappuram": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "",
-    "norm": 26.7
-  },
-  "schwan-laboratory-inaugurated-at-gitam": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "dmk-regime-created-enforcement-bureau-cid-to-control-drug-me": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
+  },
+  "schwan-laboratory-inaugurated-at-gitam": {
+    "firstSeen": "2026-08-17T21:35:15.225Z",
+    "signature": "",
+    "norm": 21.2
   },
   "is-neymar-splitting-from-bruna-biancardi-amid-fresh-cheating": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
@@ -290,11 +295,6 @@
     "norm": 21.2
   },
   "-follow-law-of-land-centre-to-x-after-musk-s-new-rule-on-gov": {
-    "firstSeen": "2026-08-17T21:35:15.225Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "-no-nrc-no-census-manipur-students-demand-displaced-people-r": {
     "firstSeen": "2026-08-17T21:35:15.225Z",
     "signature": "",
     "norm": 21.2
