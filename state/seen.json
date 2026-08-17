@@ -1,52 +1,97 @@
 {
-  "navy-sailor-wife-and-2-children-found-dead-in-mumbai-murder-": {
-    "firstSeen": "2026-08-17T01:51:31.855Z",
-    "signature": "dead|dead|died|navy",
-    "norm": 71
+  "russia-hits-indian-billionaire-s-factory-in-ukraine-as-war-s": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "actor|aerial|attack|attack|bill|billion|drone|war",
+    "norm": 93.8
   },
-  "-if-any-indian-feels-kiren-rijiju-clarifies-pm-s-dimagi-naxa": {
-    "firstSeen": "2026-08-17T01:51:31.855Z",
-    "signature": "congress|controversy|minister|opposition",
-    "norm": 63.5
+  "ashok-dham-to-new-delhi-railway-station-10-deadly-stampedes-": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "cricket|dead|dead|mp|shock|shock|stampede",
+    "norm": 91.7
   },
-  "congress-discussion-about-vande-mataram-unnecessary-says-uni": {
-    "firstSeen": "2026-08-17T01:51:31.855Z",
-    "signature": "congress|controversy|minister",
-    "norm": 61.4
+  "6-killed-many-injured-in-stampede-at-temple-in-bihar-s-lakhi": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "injured|killed|killed|lakh|mp|stampede",
+    "norm": 82.7
   },
-  "jharkhand-protesters-govt-to-hold-7th-round-of-talks-today-a": {
-    "firstSeen": "2026-08-17T01:51:31.855Z",
-    "signature": "khan|protest|protest",
+  "7-killed-several-injured-in-stampede-like-incident-at-bihar-": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "injured|killed|killed|lakh|mp|stampede",
+    "norm": 81.2
+  },
+  "7-killed-over-a-dozen-injured-after-stampede-at-bihar-s-asho": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "injured|killed|killed|mp|stampede|vote",
+    "norm": 78.9
+  },
+  "clean-records-zero-criminal-history-ordinary-persons-khalist": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "record|recruitment|terror|terror",
+    "norm": 74.9
+  },
+  "us-backs-islamic-nato-trump-calls-saudi-turkey-pak-pact-big-": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "mp|slam|trump|trump",
+    "norm": 71.6
+  },
+  "stock-market-live-updates-sensex-today-markets-likely-to-ope": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "iran|nifty|price|prices|sensex|stock market",
+    "norm": 65.1
+  },
+  "javed-akhtar-slams-zardari-over-tolerating-hindus-calls-him-": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "pakistan|president|slam|slams",
+    "norm": 65
+  },
+  "cjp-s-dipke-joins-protest-as-candidates-claim-glitches-durin": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "bomb|protest|protest",
+    "norm": 63.2
+  },
+  "weather-today-mumbai-thane-see-heavy-rain-punjab-bihar-on-al": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "alert|heavy rain|weather",
+    "norm": 62.9
+  },
+  "trump-cites-good-ties-with-kim-jong-un-in-scaling-back-south": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "defence|mp|president|trump|trump",
+    "norm": 62.9
+  },
+  "nta-to-re-conduct-ugc-net-exams-for-3-subjects-after-questio": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "exam|ipl|mp",
+    "norm": 62.5
+  },
+  "-didn-t-say-opposition-leaders-kiren-rijiju-clarifies-pm-mod": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "modi|modi|opposition",
     "norm": 59.7
   },
-  "indonesia-hit-by-5-7-magnitude-quake-days-after-deadly-7-7-t": {
-    "firstSeen": "2026-08-17T01:51:31.855Z",
+  "karnataka-tamil-nadu-flashpoint-3-tamil-origin-men-shot-dead": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
     "signature": "dead|dead",
     "norm": 59.3
   },
-  "inside-the-ram-temple-donation-counting-centre-how-did-the-t": {
-    "firstSeen": "2026-08-17T01:51:31.855Z",
-    "signature": "ayodhya|mp",
-    "norm": 57.1
+  "population-enumeration-phase-of-census-2027-begins-from-lada": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "star",
+    "norm": 42.4
   },
-  "nta-to-re-conduct-ugc-net-exams-for-english-sociology-commer": {
-    "firstSeen": "2026-08-17T01:51:31.855Z",
-    "signature": "exam|mp",
-    "norm": 55.4
+  "36-hours-in-srinagar-a-first-timer-s-guide-to-kashmir-s-capi": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "khan",
+    "norm": 42.4
   },
-  "-give-me-2-3-4-annamalai-s-big-corruption-claim-against-vija": {
-    "firstSeen": "2026-08-17T01:51:31.855Z",
-    "signature": "minister|mp",
-    "norm": 50.5
+  "lakshmi-mittal-s-ukraine-factory-in-volodymyr-zelensky-s-hom": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "actor",
+    "norm": 42.4
   },
-  "rs-735-crore-yuge-yugeen-bharat-museum-to-get-peacock-themed": {
-    "firstSeen": "2026-08-17T01:51:31.855Z",
-    "signature": "crore",
-    "norm": 45.9
-  },
-  "before-chandrasekaran-s-exit-he-amp-noel-tata-separately-bri": {
-    "firstSeen": "2026-08-17T01:51:31.855Z",
-    "signature": "mp",
-    "norm": 44
+  "rajasthan-govt-restricts-entry-of-outsiders-photography-and-": {
+    "firstSeen": "2026-08-17T03:09:02.693Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
