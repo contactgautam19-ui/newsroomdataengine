@@ -1,67 +1,62 @@
 {
-  "-bleed-capital-mission-thwarted-india-accesses-pakistan-terr": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "gst|ipl|pakistan|terror|terror|war",
-    "norm": 88.2
+  "maharashtra-government-wants-to-slash-data-of-58-lakh-marath": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "bomb|lakh|maharashtra|protest|protest",
+    "norm": 82.5
   },
-  "-will-bomb-the-s-out-of-oman-trump-s-latest-threat-over-stra": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bomb|mp|row|threat|trump|trump",
-    "norm": 84.5
+  "-dimagi-naxals-row-explodes-after-pm-modi-s-i-day-speech-as-": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "controversy|kejriwal|minister|modi|modi|opposition|prime minister|row",
+    "norm": 79.9
   },
-  "bjp-reshuffle-ram-madhav-smriti-irani-biplab-deb-in-new-nati": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bjp|ipl|iran|khan|minister|president|war",
-    "norm": 83.2
+  "8-pilgrims-killed-in-fire-at-hotel-near-tarapith-temple-in-b": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "blaze|fire|fire|killed|killed|mp",
+    "norm": 78.8
   },
-  "kirti-azad-seeks-pistol-licence-over-egg-attacks-tmc-vs-bjp-": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "attack|attack|bjp|congress|controversy|defence|mp|row",
-    "norm": 80.3
+  "253-detained-in-14-states-in-crackdown-on-isi-linked-network": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "amit shah|border|minister|terror|terror",
+    "norm": 72
   },
-  "trump-envoy-meets-netanyahu-over-gaza-plan-day-after-talks-w": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "fire|fire|israel|mp|trump|trump",
-    "norm": 80.1
-  },
-  "who-is-shahzad-bhatti-pakistan-based-terror-group-leader-s-n": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "border|pakistan|terror|terror",
+  "did-keralam-governor-seek-cm-s-concurrence-to-summon-state-p": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "chief minister|governor|minister|opposition|protest|protest",
     "norm": 70
   },
-  "bjp-to-launch-nationwide-campaign-against-udf-govt-in-kerala": {
-    "firstSeen": "2026-08-17T11:35:49.441Z",
-    "signature": "bjp|mp|row|slam",
-    "norm": 66.6
+  "maharashtra-bjp-leader-blames-trump-s-changing-stand-for-roa": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "bjp|maharashtra|mp|trump|trump",
+    "norm": 68.6
   },
-  "a-uniform-50-increase-in-lok-sabha-seats-is-pulling-the-wool": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "lok sabha|minister|protest|protest",
+  "father-son-escape-as-wild-elephant-attacks-car-in-kerala": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "attack|attack|mp",
+    "norm": 67.6
+  },
+  "missiles-below-mountains-ahead-how-the-iaf-had-to-improvise-": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "air force|mp|unprecedented|war",
     "norm": 65.3
   },
-  "-sadly-they-are-gone-brittany-mahomes-gets-emotional-over-ba": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "emotional|row|unexpected|watch",
-    "norm": 63.6
+  "girl-students-blacken-school-principal-s-face-with-ink-durin": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "protest|protest|sharma|war",
+    "norm": 65
   },
-  "decoding-pm-modi-s-red-fort-speech-why-this-one-was-differen": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "minister|modi|modi|mp|policy|prime minister",
-    "norm": 63.4
+  "watch-nyc-mayor-mamdani-speaks-bengali-stuns-crowd-during-ke": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "crowd|row|stuns|watch",
+    "norm": 62.8
   },
-  "29-rescued-after-fire-breaks-out-at-mumbai-s-aayakar-bhavan": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "fire|fire|rescue|rescue",
-    "norm": 62.5
+  "power-play-intensifies-in-kerala-s-pala-municipality-ahead-o": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "congress|election|election",
+    "norm": 61.4
   },
-  "renukaswamy-murder-case-court-rejects-darshan-s-plea-for-phy": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "actor|high court|ruling|video",
-    "norm": 61.8
-  },
-  "congress-has-accepted-it-has-become-dimagi-naxal-congress-bj": {
-    "firstSeen": "2026-08-17T11:35:49.441Z",
-    "signature": "bjp|congress|war",
+  "all-about-khalil-al-hayya-top-hamas-top-leader-who-met-trump": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "mp|trump|trump",
     "norm": 61.4
   },
   "bjp-s-new-team-the-big-ins-outs-and-replacements": {
@@ -69,20 +64,35 @@
     "signature": "bjp|election|election",
     "norm": 59.7
   },
-  "india-u-s-navies-conclude-explosive-ordnance-disposal-exerci": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "mp|navy|threat",
-    "norm": 59.7
+  "nalsar-controversy-escalates-as-nlsiu-students-back-protest-": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "controversy|protest|protest",
+    "norm": 59.6
   },
-  "-brings-together-energy-grassroots-connect-pm-modi-congratul": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bjp|modi|modi",
-    "norm": 59.7
+  "a-p-missed-out-on-38-000-crore-in-central-grants-following-1": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "crore|minister|sanction",
+    "norm": 59.3
   },
-  "1st-test-suthar-jadeja-spin-india-into-commanding-178-run-le": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "collapse|collapse|collapse",
-    "norm": 58.3
+  "record-sale-of-hmt-watches-on-i-day-at-35-lakh-h-d-kumaraswa": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "lakh|record|watch",
+    "norm": 57.9
+  },
+  "bjp-s-nainar-nagendran-shares-pass-fail-report-card-as-vijay": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "bjp|lakh|mp",
+    "norm": 57.6
+  },
+  "amitabh-bachchan-leases-three-floors-in-andheri-west-for-rs-": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "deal|lakh|mp",
+    "norm": 57.6
+  },
+  "former-court-staffer-gets-37-year-sentence-for-fund-misappro": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "accident|fund",
+    "norm": 57.1
   },
   "global-economic-situation-favourable-for-india-to-emerge-as-": {
     "firstSeen": "2026-08-17T13:02:28.410Z",
@@ -94,108 +104,103 @@
     "signature": "bjp|war",
     "norm": 57.1
   },
-  "twisha-sharma-death-case-samarth-singh-giribala-singh-named-": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "death|sharma",
-    "norm": 53.9
+  "bjp-chief-nitin-nabin-announces-party-reshuffle-smriti-irani": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "bjp|iran",
+    "norm": 55.4
   },
-  "granite-stones-fall-at-mumbai-metro-9-site-contractor-consul": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "actor|crore",
-    "norm": 51.7
+  "milma-s-thiruvananthapuram-regional-union-disburses-3-66-cro": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "crore|mp",
+    "norm": 55
   },
-  "-get-ready-to-lose-congress-congratulates-bjp-s-new-social-m": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bjp|congress",
+  "3-ex-chief-ministers-18-mps-10-women-bjp-s-power-packed-team": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "bjp|chief minister|minister|mp",
+    "norm": 52.1
+  },
+  "the-return-of-ram-madhav-what-it-means-for-rss-bjp-relations": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "bjp|president",
     "norm": 50.5
   },
-  "from-bank-manager-to-bjp-it-cell-chief-a-look-at-amit-malviy": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bjp|opposition",
+  "with-8-leaders-up-gets-the-lion-s-share-in-bjp-s-big-revamp-": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "bjp|mp",
     "norm": 50.5
   },
   "karnataka-chief-minister-s-effigy-garlanded-with-footwear-in": {
     "firstSeen": "2026-08-17T13:02:28.410Z",
     "signature": "chief minister|minister",
-    "norm": 48.7
+    "norm": 50.5
   },
-  "complaint-lodged-against-bjp-leader-nainar-nagenthran-for-de": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bjp|mp",
-    "norm": 48.7
-  },
-  "goethe-zentrum-expands-to-north-keralam-with-new-examination": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "exam",
+  "six-arrested-for-attention-diversion-theft-in-langer-houz": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "anger",
     "norm": 48.2
   },
-  "karnataka-forest-killing-of-three-tamils-revives-memories-of": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "brutal",
+  "scourge-of-dowry-deaths-still-prevalent-in-indian-society-de": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "death",
     "norm": 48.2
   },
-  "cjp-s-abhijeet-dipke-says-ready-to-show-my-degree-amid-row-o": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
+  "20-year-old-worker-dies-in-veligonda-project-tunnel-accident": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "accident",
+    "norm": 48.2
+  },
+  "bharat-jodo-club-is-aimed-at-promoting-rowdy-elements-says-k": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "row",
+    "norm": 48.2
+  },
+  "delhi-airport-to-consult-stakeholders-on-its-master-plan-203": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "pak-arrests-258-including-40-chinese-nationals-in-scam-call-": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "scam",
     "norm": 46.3
   },
-  "auto-rickshaw-driver-from-vizag-wins-accolades-for-offering-": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "opinion-opinion-first-pak-now-bangladesh-why-turkey-is-becom": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "threat",
-    "norm": 46.3
-  },
-  "who-is-deepak-mhaskey-replacing-amit-malviya-as-head-of-bjp-": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "shehzad-poonawalla-reveals-why-he-is-quitting-bjp-after-year": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "amit-malviya-congratulates-new-bjp-it-cell-chief-deepak-mhas": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "bjp",
-    "norm": 44
-  },
-  "tmc-mp-abhishek-banerjee-moves-calcutta-hc-challenging-freez": {
-    "firstSeen": "2026-08-17T10:44:26.453Z",
+  "guntur-imposes-complete-ban-on-single-use-plastic-from-today": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "-glamorous-role-but-poonawalla-on-buzz-that-he-should-have-s": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
+  "bjp-flags-adverse-effects-of-power-cuts-on-households-and-in": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "bjp",
-    "norm": 44
+    "norm": 45.9
   },
-  "three-booked-for-hoisting-national-flag-upside-down-in-kalab": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
-    "signature": "video",
-    "norm": 42.7
+  "87-879-voters-under-asddo-category-in-chamarajanagar-distric": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "vote",
+    "norm": 45.9
   },
-  "andhra-pradesh-assembly-highlights-11-of-14-dscs-held-during": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
+  "telangana-to-make-strong-pitch-for-its-demands-like-coal-blo": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "father-dies-after-alleged-assault-by-son-during-argument-ove": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "",
     "norm": 36
   },
-  "following-karnataka-hc-order-asi-asks-mutt-to-stop-construct": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
+  "ailu-demands-dedicated-sc-st-court-in-kozhikode": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "aavin-s-automatic-milk-vending-machine-launched-in-udhagaman": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
+  "will-sit-for-test-accept-failure-if-score-below-9-10-adhikar": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "icmr-nin-study-links-vitamin-deficiencies-to-cognitive-decli": {
-    "firstSeen": "2026-08-17T13:02:28.410Z",
+  "paid-a-bribe-this-new-website-lets-you-report-how-much-you-p": {
+    "firstSeen": "2026-08-17T13:50:07.417Z",
     "signature": "",
     "norm": 33.9
   }
