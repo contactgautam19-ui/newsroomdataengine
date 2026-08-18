@@ -1,126 +1,76 @@
 {
-  "student-protests-delhi-police-affidavit-in-supreme-court-is-": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "injured|parliament|protest|protest|supreme court",
-    "norm": 76.8
+  "odisha-announces-1-000-crore-aid-for-flood-hit-areas": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
+    "signature": "crore|evacuat|flood|flood|fund|lakh",
+    "norm": 72.3
   },
-  "ready-to-drop-firs-against-student-protesters-says-supreme-c": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "exam|neet|protest|protest|supreme court",
-    "norm": 76.3
-  },
-  "-purification-row-congress-terms-bjp-anti-dalit-for-not-halt": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "bjp|congress|protest|protest|row",
-    "norm": 72
-  },
-  "supreme-court-ready-to-quash-firs-filed-against-students-for": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "neet|protest|protest|supreme court",
+  "80-of-delhi-is-unplanned-fire-preparedness-average-chief-fir": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
+    "signature": "fire|fire|mp|row",
     "norm": 71.4
   },
-  "panic-over-telangana-s-voter-purge": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "panic|vote",
-    "norm": 55.4
+  "why-is-pm-cares-fund-keeping-large-sums-idle-asks-rti-activi": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
+    "signature": "disaster|fund|minister|prime minister",
+    "norm": 69.6
   },
-  "t-n-govt-to-set-up-talent-research-wing-to-groom-future-olym": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "crore|mp",
-    "norm": 53.2
+  "jharkhand-government-releases-list-of-44-recruitment-exams-c": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
+    "signature": "exam|khan|recruitment",
+    "norm": 59.4
   },
-  "173-up-villages-flood-hit-more-than-4-000-people-shifted-to-": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "flood|flood",
-    "norm": 52.4
+  "brics-condemns-eu-carbon-tax": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
+    "signature": "brics|fund|tax",
+    "norm": 59.3
   },
-  "karnataka-public-service-commission-case-president-orders-in": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "cabinet|governor|high court|president",
-    "norm": 52.1
-  },
-  "commercial-films-serials-cannot-be-shot-in-wildlife-sanctuar": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "film|high court",
-    "norm": 51.7
-  },
-  "karnataka-legislature-stalemate-enters-second-day-over-oppos": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "minister|opposition",
+  "mvd-cracks-down-on-illegal-taxis-slaps-penalty-of-1-47-lakh-": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
+    "signature": "lakh|tax",
     "norm": 50.5
   },
-  "new-york-based-warner-music-group-plans-to-set-up-a-world-cl": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "war",
-    "norm": 48.2
+  "goa-moves-sc-seeks-life-imprisonment-for-tejpal-for-sex-assa": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
+    "signature": "mp|supreme court",
+    "norm": 48.7
   },
-  "maharashtra-s-sugarcane-dilemma-cutters-seek-a-way-out-as-mi": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "maharashtra",
+  "57-year-old-patient-dies-2-days-after-rape-in-haryana-hospit": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
+    "signature": "hospital",
     "norm": 46.3
   },
-  "hamsadhwani-s-distinguished-citizen-award-presented-to-indus": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "fake-drug-racket-busted-near-bidadi-medicines-worth-5-crore-": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "crore",
-    "norm": 45.9
-  },
-  "kerala-hc-asks-acs-to-appear-before-it-over-delay-in-action-": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "karnataka-deputy-chairperson-umashree-recalls-life-of-triump": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "kharge-s-vande-mataram-dare-to-bjp-slap-case-on-gandhi-nehru": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
+  "bjp-puts-vinod-tawde-who-played-role-in-bihar-win-in-charge-": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
     "signature": "bjp",
     "norm": 45.9
   },
-  "meta-trial-that-could-reshape-facebook-instagram-gets-underw": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "instagram",
-    "norm": 42.4
+  "employment-guarantee-has-slipped-into-limbo": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "watch-indian-origin-nasa-astronaut-anil-menon-takes-second-s": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "watch",
-    "norm": 40.7
+  "use-of-evs-going-up-steadily-consumption-at-public-chargers-": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "karnataka-forms-sub-committee-to-vet-revised-minimum-wages": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
+  "india-reiterates-support-for-two-state-solution-during-pales": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
     "signature": "",
     "norm": 36
   },
-  "more-inclusion-of-sc-st-members-in-cooperative-sector-demand": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
+  "h1n1-cases-on-the-rise-experts-say-no-cause-for-alarm": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
     "signature": "",
     "norm": 36
   },
-  "kutiyattam-festival-to-begin-on-august-19": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "",
-    "norm": 36
-  },
-  "cement-to-be-provided-at-230-per-bag-for-indiramma-houses": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
+  "sc-rejects-plea-to-replace-hanging-as-execution-mode": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
     "signature": "",
     "norm": 33.9
   },
-  "cm-allays-apprehensions-on-section-22a-lands-asserts-govt-wi": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "unhcr-sicci-and-ethiraj-college-for-women-join-hands-to-adva": {
-    "firstSeen": "2026-08-18T19:35:12.980Z",
+  "-time-to-push-back-on-india-and-the-continuing-u-s-pressure": {
+    "firstSeen": "2026-08-18T20:35:37.807Z",
     "signature": "",
     "norm": 33.9
   }
