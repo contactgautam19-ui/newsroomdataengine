@@ -1,152 +1,207 @@
 {
-  "trump-to-rescued-10-year-old-you-re-lucky-i-wasn-t-on-servic": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "mp|president|rescue|rescue|trump|trump|viral|viral|viral",
-    "norm": 93.6
+  "eye-on-punjab-why-bjp-chose-sandeep-pathak-over-other-aap-de": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "aap|bjp|election|election|mp|war",
+    "norm": 74.6
   },
-  "seven-dead-in-stampede-at-temple-in-bihar-s-lakhisarai": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "crowd|dead|dead|lakh|mp|row|stampede|vote",
-    "norm": 93.5
-  },
-  "cpi-m-slams-bjp-for-lodging-police-complaints-against-ex-cm-": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "bjp|mp|protest|protest|slam|slams",
-    "norm": 74.4
-  },
-  "-her-blood-is-italian-kumaraswamy-s-sharp-attack-on-sonia-ga": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "attack|attack|congress|controversy|row",
-    "norm": 73.5
-  },
-  "tarapith-fire-hotel-owner-son-arrested-as-death-toll-rises-t": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "blaze|death|fire|fire|toll",
-    "norm": 72.6
-  },
-  "jharkhand-protest-live-govt-cancels-jssc-cgl-exam-devendra-n": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
+  "jharkhand-protest-live-govt-cancels-jssc-cgl-exam-devendra-m": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
     "signature": "exam|khan|protest|protest",
     "norm": 71.6
   },
-  "jharkhand-exam-irregularities-protest-likely-to-continue-ove": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "exam|khan|protest|protest",
-    "norm": 71.6
+  "gangster-shahzad-bhatti-picked-operatives-through-social-med": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "footage|gst|pakistan|row",
+    "norm": 71
   },
-  "-39-000-soldiers-guarding-you-trump-reduces-military-drills-": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "iran|mp|trump|trump",
-    "norm": 66.6
+  "-india-inspiring-us-bjp-hails-trump-s-voter-id-remark-congre": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "bjp|congress|exam|mp|trump|trump|vote",
+    "norm": 70.1
   },
-  "former-ram-temple-official-champat-rai-gets-clean-chit-in-do": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "ayodhya|mp|ram mandir",
-    "norm": 62.5
+  "delhi-police-arrest-eight-for-planning-attacks-in-delhi-mumb": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "attack|attack|pictures|video",
+    "norm": 66
+  },
+  "dipke-gets-offer-from-union-minister-to-join-bjp-led-nda-fac": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "bjp|election|election|minister",
+    "norm": 63.5
+  },
+  "bjp-brings-back-smriti-irani-ram-madhav-in-big-national-team": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "bjp|cabinet|iran|mp",
+    "norm": 61.8
+  },
+  "-you-re-fake-news-be-quiet-trump-snaps-at-reporter-over-kore": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "mp|trump|trump",
+    "norm": 61.4
+  },
+  "sit-submits-final-report-to-ram-janmabhoomi-trust-in-ayodhya": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "ayodhya|mp|supreme court",
+    "norm": 61.4
+  },
+  "cwc-meet-to-chart-expansion-of-rahul-s-chhatron-ki-goonj-": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "protest|protest|rahul gandhi",
+    "norm": 61.1
+  },
+  "hockey-world-cup-qualification-scenarios-what-india-need-vs-": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "match|pakistan|world cup",
+    "norm": 60.8
   },
   "from-smriti-irani-to-pasmanda-outreach-bjp-s-up-2027-game-pl": {
     "firstSeen": "2026-08-18T04:46:57.025Z",
     "signature": "bjp|iran|poll",
-    "norm": 61.4
+    "norm": 59.7
   },
-  "rupee-slips-7-paise-against-us-dollar-as-crude-soars-beyond-": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "mp|price|prices|rupee",
-    "norm": 61.4
+  "snake-found-at-shahrukh-khan-s-residence-in-mumbai-rescued": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "khan|rescue|rescue",
+    "norm": 59.7
+  },
+  "cid-raids-underway-at-jssc-office-in-connection-with-jharkha": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "exam|khan|recruitment",
+    "norm": 59.4
+  },
+  "permission-can-t-be-granted-to-shoot-film-starring-mohanlal-": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "film|movie|shooting|star",
+    "norm": 59.4
   },
   "killed-husband-with-ladle-smothered-5-year-old-son-with-pill": {
     "firstSeen": "2026-08-18T04:46:57.025Z",
     "signature": "killed|killed",
-    "norm": 59.3
-  },
-  "-not-a-single-protester-died-rijiju-defends-police-action-at": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "died|protest|protest",
-    "norm": 57.9
-  },
-  "builder-refusing-rera-registration-details-here-s-what-homeb": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "war|warning",
     "norm": 57.6
   },
-  "ugc-net-row-nta-removes-over-50-staff-fills-10-new-leadershi": {
+  "shillong-teer-result-today-august-18-2026-check-winning-numb": {
     "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "exam|row",
-    "norm": 57.6
-  },
-  "delhi-high-court-gives-centre-two-months-to-act-on-nursing-b": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "high court|recruitment",
-    "norm": 55.4
+    "signature": "khan|result",
+    "norm": 55.7
   },
   "food-safety-crackdown-in-bengaluru-shawarma-kebab-milk-sampl": {
     "firstSeen": "2026-08-18T04:46:57.025Z",
     "signature": "mp|war",
     "norm": 55.4
   },
-  "scan-qr-code-to-lodge-food-quality-complaint-in-karnataka": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "mp|toll",
-    "norm": 55.4
+  "govinda-sunita-ahuja-s-baby-daughter-died-due-to-underdevelo": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "devastat|died|tragedy",
+    "norm": 54.9
   },
-  "two-builders-jailed-for-two-years-for-failing-to-hand-over-p": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "mp|rupee",
-    "norm": 55
-  },
-  "shillong-teer-result-today-august-18-2026-check-winning-numb": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "khan|result",
+  "at-least-five-crpf-personnel-injured-in-accident-on-jammu-sr": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "accident|injured",
     "norm": 53.9
   },
-  "miffed-with-no-response-from-soren-s-government-students-fir": {
-    "firstSeen": "2026-08-18T03:05:29.956Z",
-    "signature": "exam|khan",
+  "-needs-to-be-moved-to-hospital-now-imran-khan-s-health-in-ja": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "hospital|khan",
     "norm": 53.9
   },
-  "co-op-sugar-factory-in-belagavi-to-provide-insurance-to-empl": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "actor|mp",
+  "govt-sent-one-blocking-order-every-68-seconds-to-social-medi": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "instagram|lakh",
     "norm": 53.5
   },
-  "-goli-kahaan-chali-hai-rijiju-says-no-one-was-harmed-during-": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "-factually-inaccurate-pakistan-rejects-india-s-100-mission-s": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "film|pakistan",
+    "norm": 51.7
   },
-  "allahabad-high-court-criticises-u-p-government-for-taking-ov": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "high court|mp",
-    "norm": 48.7
+  "rupee-falls-7-paise-to-95-68-against-u-s-dollar-in-early-tra": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "rupee|rupee falls",
+    "norm": 50.5
   },
-  "meet-tiya-aggarwal-student-who-built-smart-watering-system-f": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "mp",
+  "ngt-pulls-up-keralam-pcb-over-incomplete-report-on-measures-": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "mp|poll",
+    "norm": 50.5
+  },
+  "hanur-shoot-out-funeral-of-deceased-held-mla-distributes-com": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "mla|mp",
+    "norm": 50.5
+  },
+  "landslide-hits-key-road-stretch-in-thane-no-casualty": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "landslide",
+    "norm": 48.2
+  },
+  "surname-in-place-of-initial-may-get-you-notice-from-ero-thou": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "match",
+    "norm": 48.2
+  },
+  "ldf-udf-row-in-kochi-corporation-likely-to-intensify-over-su": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "why-india-s-super-rich-are-buying-a-plan-b-abroad-for-their-": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "telangana-sir-why-will-92-lakh-electors-receive-notices-expl": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "lakh",
     "norm": 45.9
   },
-  "t-n-government-to-launch-health-insurance-for-the-elderly": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "mp",
+  "-got-angry-when-asked-about-constitution-du-proctor-says-sch": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "cctv|footage",
+    "norm": 45.9
+  },
+  "india-in-a-fragmenting-world-trade-technology-and-economic-s": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "sanction",
     "norm": 44
   },
-  "live-in-partner-slit-his-throat-hid-body-18-hours-but-one-sl": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "mp",
+  "notices-will-be-issued-to-nearly-93-lakh-electors-ceo-confir": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "lakh",
     "norm": 44
   },
-  "last-date-to-register-for-made-of-chennai-run-is-august-19": {
-    "firstSeen": "2026-08-18T03:05:29.956Z",
-    "signature": "",
-    "norm": 36
+  "indian-origin-grandma-living-in-us-for-27-years-with-green-c": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "ruling",
+    "norm": 44
   },
-  "after-air-india-tests-dgca-may-mandate-psychoactive-substanc": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
-    "signature": "",
-    "norm": 36
+  "indian-origin-teen-secures-guinness-world-record-for-becomin": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "sir-enumeration-phase-concludes-in-telangana-with-21-7-delet": {
-    "firstSeen": "2026-08-18T04:46:57.025Z",
+  "apple-s-iphone-ultra-design-keeps-getting-weirder": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
+  },
+  "two-suspected-jaish-e-mohammed-operatives-held-in-west-benga": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-will-have-to-follow-law-of-land-government-on-x-s-new-taked": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-give-time-to-remedy-asdd-uncollectible-elector-forms-": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "errors-delays-in-family-register-certificates-worry-applican": {
+    "firstSeen": "2026-08-18T05:39:37.653Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
