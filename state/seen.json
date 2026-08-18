@@ -1,106 +1,126 @@
 {
+  "student-protests-delhi-police-affidavit-in-supreme-court-is-": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "injured|parliament|protest|protest|supreme court",
+    "norm": 76.8
+  },
   "ready-to-drop-firs-against-student-protesters-says-supreme-c": {
     "firstSeen": "2026-08-18T18:52:48.250Z",
     "signature": "exam|neet|protest|protest|supreme court",
-    "norm": 77.8
+    "norm": 76.3
   },
-  "goa-government-moves-supreme-court-seeking-life-term-for-tar": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "bomb|high court|mp|supreme court|war",
-    "norm": 73.6
+  "-purification-row-congress-terms-bjp-anti-dalit-for-not-halt": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "bjp|congress|protest|protest|row",
+    "norm": 72
   },
-  "2-critical-several-injured-after-ferris-wheel-crashes-at-luc": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "crash|crash|injured|iran",
-    "norm": 71
+  "supreme-court-ready-to-quash-firs-filed-against-students-for": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "neet|protest|protest|supreme court",
+    "norm": 71.4
   },
-  "iran-targets-uae-with-two-ballistic-missiles-gulf-tensions-e": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "defence|iran|war",
-    "norm": 67.6
+  "panic-over-telangana-s-voter-purge": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "panic|vote",
+    "norm": 55.4
   },
-  "cm-s-road-safety-mission-to-be-launched-at-500-crore-per-ann": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "accident|crore|minister",
-    "norm": 65.6
+  "t-n-govt-to-set-up-talent-research-wing-to-groom-future-olym": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "crore|mp",
+    "norm": 53.2
   },
-  "siet-to-organise-short-film-fete-for-students-in-keralam": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "fan|film|war",
-    "norm": 59.3
+  "173-up-villages-flood-hit-more-than-4-000-people-shifted-to-": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "flood|flood",
+    "norm": 52.4
   },
-  "uae-says-2-ballistic-missiles-launched-from-iran-fell-into-t": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "iran|threat",
-    "norm": 57.6
-  },
-  "biomining-to-clear-legacy-waste-at-njeliyanparamba-progressi": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "lakh|mp",
-    "norm": 55
+  "karnataka-public-service-commission-case-president-orders-in": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "cabinet|governor|high court|president",
+    "norm": 52.1
   },
   "commercial-films-serials-cannot-be-shot-in-wildlife-sanctuar": {
     "firstSeen": "2026-08-18T18:52:48.250Z",
     "signature": "film|high court",
-    "norm": 53.5
+    "norm": 51.7
   },
-  "satyendar-jain-arrested-in-delhi-jal-board-corruption-case-a": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "aap|bjp|minister",
-    "norm": 50.9
+  "karnataka-legislature-stalemate-enters-second-day-over-oppos": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "minister|opposition",
+    "norm": 50.5
   },
-  "visakhapatnam-collector-inspects-venues-for-brics-sports-min": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "brics|minister",
-    "norm": 48.7
-  },
-  "solar-powered-backpacks-to-save-endangered-monarch-butterfli": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "anger",
+  "new-york-based-warner-music-group-plans-to-set-up-a-world-cl": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "fda-crackdown-intensifies-zepto-chamber-daily-fresh-bakers-f": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
+  "maharashtra-s-sugarcane-dilemma-cutters-seek-a-way-out-as-mi": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
     "signature": "maharashtra",
-    "norm": 48.2
-  },
-  "5-year-old-dies-family-falls-ill-after-eating-restaurant-foo": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "hospital",
     "norm": 46.3
   },
-  "trial-of-sriram-venkitaraman-in-death-of-journalist-to-be-de": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
-    "signature": "death",
+  "hamsadhwani-s-distinguished-citizen-award-presented-to-indus": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "war",
     "norm": 46.3
   },
-  "nta-removes-600-experts-from-its-team-in-revamp-bid": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
+  "fake-drug-racket-busted-near-bidadi-medicines-worth-5-crore-": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "crore",
+    "norm": 45.9
+  },
+  "kerala-hc-asks-acs-to-appear-before-it-over-delay-in-action-": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "-built-on-credibility-india-inc-congratulates-ndtv-on-new-id": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
+  "karnataka-deputy-chairperson-umashree-recalls-life-of-triump": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "address-systemic-gaps-in-criminal-laws-related-to-children-m": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
+  "kharge-s-vande-mataram-dare-to-bjp-slap-case-on-gandhi-nehru": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "meta-trial-that-could-reshape-facebook-instagram-gets-underw": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "instagram",
+    "norm": 42.4
+  },
+  "watch-indian-origin-nasa-astronaut-anil-menon-takes-second-s": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "watch",
+    "norm": 40.7
+  },
+  "karnataka-forms-sub-committee-to-vet-revised-minimum-wages": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
     "signature": "",
     "norm": 36
   },
-  "isro-targets-september-comeback-with-gslv-mk-ii-as-launch-wi": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
+  "more-inclusion-of-sc-st-members-in-cooperative-sector-demand": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "",
+    "norm": 36
+  },
+  "kutiyattam-festival-to-begin-on-august-19": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
+    "signature": "",
+    "norm": 36
+  },
+  "cement-to-be-provided-at-230-per-bag-for-indiramma-houses": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
     "signature": "",
     "norm": 33.9
   },
-  "citu-aituc-stage-separate-rallies-over-workers-demands": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
+  "cm-allays-apprehensions-on-section-22a-lands-asserts-govt-wi": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
     "signature": "",
     "norm": 33.9
   },
-  "visakhapatnam-collector-directs-officials-to-expedite-sir-no": {
-    "firstSeen": "2026-08-18T18:52:48.250Z",
+  "unhcr-sicci-and-ethiraj-college-for-women-join-hands-to-adva": {
+    "firstSeen": "2026-08-18T19:35:12.980Z",
     "signature": "",
     "norm": 33.9
   }
