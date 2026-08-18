@@ -1,211 +1,251 @@
 {
-  "one-protest-ends-another-begins-2-000-candidates-fear-job-lo": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "exam|fear|iran|mp|protest|protest",
-    "norm": 82.5
+  "tamil-nadu-government-plans-to-offer-10-lakh-each-to-familie": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "chief minister|fire|fire|killed|killed|lakh|minister",
+    "norm": 89
   },
-  "floods-hit-7-85-lakh-people-in-6-odisha-districts": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "disaster|flood|flood|floods|lakh|minister|mp",
-    "norm": 82.1
+  "ship-hit-by-unknown-projectile-in-hormuz-as-us-iran-deadlock": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "dead|dead|iran|mp|result",
+    "norm": 80.7
   },
-  "jharkhand-protest-live-will-launch-second-phase-stir-for-cor": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "exam|khan|protest|protest|recruitment",
-    "norm": 76.5
+  "-you-can-end-marriage-jharkhand-candidate-tells-wife-fearing": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "fear|jobs|khan|protest|protest",
+    "norm": 73
   },
-  "-protest-hasn-t-ended-devendra-mahto-announces-2nd-phase-of-": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "exam|khan|protest|protest|recruitment",
-    "norm": 75
-  },
-  "-false-claim-minor-injury-west-bengal-police-denies-brutal-a": {
-    "firstSeen": "2026-08-18T09:44:05.516Z",
-    "signature": "bjp|brutal|death|mla|protest|protest",
-    "norm": 74.4
-  },
-  "north-odisha-flood-situation-grim-imd-forecasts-more-rains-t": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "flood|flood|mp|weather",
-    "norm": 72.9
-  },
-  "jharkhand-protest-devendra-mahto-hails-historic-win-as-jssc-": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
+  "jharkhand-protest-will-launch-phase-2-stir-for-corruption-fr": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
     "signature": "exam|khan|protest|protest",
     "norm": 71.6
   },
-  "bihar-govt-transfers-siwan-top-cop-after-constable-uses-ak-4": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "exam|neet|protest|protest",
-    "norm": 70
+  "-no-gherao-of-cm-soren-s-house-on-thursday-jharkhand-student": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "exam|khan|protest|protest",
+    "norm": 71.6
   },
-  "not-delving-into-religious-rights-only-dealing-with-well-bei": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "deal|mp|supreme court|war",
-    "norm": 68
+  "-ground-airlines-on-non-complianc-supreme-court-s-stern-warn": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "mp|supreme court|war|warning",
+    "norm": 71.6
   },
-  "odisha-flood-situation-grim-as-water-level-of-many-rivers-ri": {
-    "firstSeen": "2026-08-18T10:40:59.347Z",
-    "signature": "evacuat|flood|flood|lakh",
-    "norm": 67.9
+  "after-1-800-km-dash-reserves-surya-pramuthesh-endure-golden-": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "gold|heartbreak|mp|surprise",
+    "norm": 71.4
   },
-  "goa-nightclub-fire-bombay-high-court-cancels-bail-of-luthra-": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "bomb|fire|fire|high court",
-    "norm": 66.3
+  "woman-53-dies-as-200-yr-old-kolkata-building-portion-collaps": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "collapse|collapse|collapse|disaster|fire|fire|rescue|rescue",
+    "norm": 71.4
   },
-  "top-cop-in-bihar-s-siwan-removed-after-ak-47-used-during-jul": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "fire|fire|protest|protest",
-    "norm": 66
+  "press-club-of-india-expresses-shock-over-police-action-again": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "mp|price|shock|shock",
+    "norm": 71
+  },
+  "-credibility-of-india-s-election-is-well-established-fact-gl": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "election|election|mp|trump|trump|vote",
+    "norm": 69.6
+  },
+  "-smart-city-sinkhole-newly-built-indore-road-dramatically-co": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "collapse|collapse|collapse|crore|watch",
+    "norm": 69.4
+  },
+  "bjp-s-team-nitin-nabin-in-place-why-government-may-now-opt-f": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "bjp|election|election|khan|poll",
+    "norm": 68.7
+  },
+  "maharashtra-school-s-drunk-principal-removed-after-cjp-prote": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "maharashtra|protest|protest|recruitment",
+    "norm": 68.4
   },
   "chamoli-tunnel-accident-another-worker-s-body-found-death-to": {
     "firstSeen": "2026-08-18T11:35:13.355Z",
     "signature": "accident|death|landslide|toll",
-    "norm": 65.5
+    "norm": 67.1
+  },
+  "pm-cares-fund-saw-592-jump-in-donations-in-2024-25-to-480-cr": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "crore|fund|mp|star",
+    "norm": 66.3
   },
   "-take-gyanesh-kumar-to-america-keep-him-there-pawan-khera-s-": {
     "firstSeen": "2026-08-18T11:35:13.355Z",
     "signature": "congress|mp|trump|trump|vote",
     "norm": 64.6
   },
-  "pm-modi-a-u-turn-ustad-wants-to-sabotage-caste-census-congre": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "congress|minister|modi|modi|mp|opposition|prime minister",
-    "norm": 63.7
+  "ghost-that-no-one-saw-mass-hysteria-at-amravati-hostel-promp": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "cry|mp|sudden|suddenly",
+    "norm": 63.9
   },
-  "bihar-transfers-17-ips-officers-amid-row-over-ak-47-use-duri": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "protest|protest|row",
-    "norm": 59.6
+  "-pm-cares-hardly-congress-jabs-govt-for-utilising-only-0-01-": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "congress|crore|fund|lakh",
+    "norm": 61.4
   },
-  "from-marital-disputes-to-murder-plot-bengaluru-woman-hid-lov": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "killed|killed",
+  "apple-shareholder-since-ipo-in-1980-buys-ferrari-s-first-ev-": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "bill|billion|ipo|price",
+    "norm": 61.4
+  },
+  "it-department-cracks-down-on-394-suspicious-charities-linked": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "border|fund|tax",
     "norm": 59.3
   },
-  "top-cop-in-bihar-s-siwan-transferred-amid-row-over-ak-47-at-": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "protest|protest|row",
-    "norm": 57.9
-  },
-  "275-kg-weight-bmi-near-100-how-doctors-helped-a-16-year-old-": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "ipl|mp",
+  "-they-removed-it-themselves-kerala-home-minister-on-meta-new": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "minister|row",
     "norm": 55.4
   },
-  "goa-nightclub-fire-hc-cancels-bail-granted-to-luthra-brother": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "fire|fire",
-    "norm": 54.2
+  "bodies-of-2-missing-workers-recovered-from-chamoli-tunnel-to": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "mp|toll",
+    "norm": 55.4
   },
-  "four-knowledge-compendiums-unveiled-at-12th-brics-environmen": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "brics|minister|mp",
-    "norm": 52.7
-  },
-  "-human-testicles-worth-rs-1-2-crore-how-a-bizarre-reel-set-o": {
-    "firstSeen": "2026-08-18T10:40:59.347Z",
-    "signature": "crore|instagram",
-    "norm": 51.7
-  },
-  "pm-cares-fund-data-made-public-balance-rises-to-rs-8-452-cro": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "crore|fund",
-    "norm": 48.7
+  "how-did-over-1-crore-karnataka-voters-end-up-in-asddo-catego": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "crore|vote",
+    "norm": 55
   },
   "tamil-nadu-cm-vijay-shifting-office-to-accommodate-secretari": {
     "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "minister",
-    "norm": 45.9
+    "signature": "chief minister|minister|mla|mp",
+    "norm": 53.9
   },
-  "today-s-battle-airspace-defined-by-information-superiority-s": {
-    "firstSeen": "2026-08-18T10:40:59.347Z",
-    "signature": "mp",
-    "norm": 45.9
+  "brooks-falls-bearcam-hits-7-3-million-views-as-alaska-bears-": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "fan|row",
+    "norm": 53.9
   },
-  "-we-don-t-share-girlfriends-inside-the-lives-of-badminton-s-": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "mp",
-    "norm": 44
+  "delhi-police-picks-up-aap-mla-kuldeep-kumar-releases-him-hou": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "aap|kejriwal|mla",
+    "norm": 52.7
+  },
+  "17-ips-officers-including-sps-of-bhojpur-and-siwan-transferr": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "-change-is-possible-govt-school-at-abhijeet-dipke-s-native-v": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "first-ever|mp",
+    "norm": 52
+  },
+  "army-chief-meets-nepal-pm-discusses-bilateral-military-ties": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "army|minister|prime minister",
+    "norm": 50.9
+  },
+  "vijay-wants-to-shift-his-office-bjp-alleges-corruption-in-te": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "bjp|chief minister|minister",
+    "norm": 50.9
+  },
+  "46-militants-surrender-lay-down-arms-at-manipur-homecoming-c": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "chief minister|minister|policy",
+    "norm": 50.9
+  },
+  "maternity-leave-for-third-child-of-women-government-employee": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "minister|mp",
+    "norm": 50.5
+  },
+  "quote-of-the-day-by-amanda-seyfried": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "fear",
+    "norm": 46.3
+  },
+  "chhattisgarh-couple-found-hacked-to-death-at-home-son-is-pri": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "death",
+    "norm": 46.3
   },
   "tamil-nadu-assembly-speaker-expunges-remarks-against-karunan": {
     "firstSeen": "2026-08-18T11:35:13.355Z",
     "signature": "minister",
+    "norm": 45.9
+  },
+  "apprised-amit-shah-of-manipur-people-s-demand-for-nrc-before": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "amit shah",
+    "norm": 45.9
+  },
+  "tamil-nadu-government-to-formulate-peri-menopausal-care-poli": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "policy",
     "norm": 44
   },
-  "why-were-police-personnel-in-plain-clothes-during-cjp-parlia": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "parliament",
-    "norm": 44
-  },
-  "why-manhattan-s-flatiron-building-is-suddenly-one-of-its-hot": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "sudden|suddenly",
-    "norm": 44
-  },
-  "wrapped-in-cloth-with-garlands-two-sets-of-skeletal-remains-": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
+  "trinamool-rebel-to-hold-key-bengal-post-till-decision-on-ple": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
     "signature": "mp",
     "norm": 44
   },
-  "vtu-to-establish-two-centres-of-excellence-on-campus": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
+  "tamil-nadu-assembly-state-government-to-launch-health-insura": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
     "signature": "mp",
     "norm": 44
   },
-  "opinion-opinion-mumbai-s-marathi-test-for-cabbies-and-the-ar": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "tax",
+  "supreme-court-directs-centre-s-response-on-plea-for-special-": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "supreme court",
     "norm": 44
   },
-  "-staff-presented-as-beneficiaries-punjab-govt-lands-in-troub": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "video",
+  "redevelopment-work-at-kollam-railway-station-in-keralam-leav": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "-changed-me-forever-indian-origin-jazz-musician-released-aft": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "unexpected",
     "norm": 42.7
   },
-  "manipur-bandh-why-people-are-demanding-nrc-before-census": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
+  "cm-s-chair-will-not-be-used-to-hurt-anyone-says-d-k-shivakum": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
     "signature": "",
     "norm": 36
   },
-  "coast-guard-steps-up-search-for-eight-fishermen-missing-off-": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
+  "-precautionary-bribes-fyi-website-that-let-indians-anonymous": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
     "signature": "",
     "norm": 36
   },
-  "13-year-old-hires-3-friends-to-kill-grandfather-in-kerala-wa": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
+  "it-dept-targets-394-entities-over-suspicious-foreign-remitta": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
     "signature": "",
     "norm": 36
   },
-  "should-india-be-over-the-moon-about-joining-nasa-s-base-the-": {
-    "firstSeen": "2026-08-18T09:44:05.516Z",
-    "signature": "",
-    "norm": 36
-  },
-  "after-22-years-on-the-run-kerala-fugitive-wanted-in-murder-c": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
-    "signature": "",
-    "norm": 36
-  },
-  "hyderabad-traffic-chaos-around-kbr-park-in-first-few-hours-o": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
+  "hyderabad-police-seize-25-5-tonnes-of-adulterated-ghee-1-200": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
     "signature": "",
     "norm": 33.9
   },
-  "36-tonnes-of-adulterated-ghee-raw-material-seized-in-hyderab": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
+  "after-15-year-wait-railway-board-finally-approves-merger-of-": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
     "signature": "",
     "norm": 33.9
   },
-  "upi-stays-free-for-users-vast-majority-of-transactions-to-re": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
+  "michigan-man-sold-365-acres-to-park-service-but-kept-his-cab": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
     "signature": "",
     "norm": 33.9
   },
-  "manipur-government-team-to-rush-to-delhi-amid-bandh-against-": {
-    "firstSeen": "2026-08-18T11:35:13.355Z",
+  "tmc-rebel-ritabrata-banerjee-to-remain-bengal-assembly-lop-f": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "rain-lashes-few-parts-of-hyderabad-on-august-18-afternoon": {
+    "firstSeen": "2026-08-18T13:04:15.351Z",
     "signature": "",
     "norm": 33.9
   }
