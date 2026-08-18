@@ -1,81 +1,71 @@
 {
-  "-would-pay-a-price-moscow-warns-uk-after-british-made-drones": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "attack|attack|drone|mp|price|war",
-    "norm": 85.3
-  },
-  "trump-slams-cnn-reporter-over-natalie-harp-north-korea-quest": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "mp|president|slam|slams|trump|trump",
-    "norm": 76.9
-  },
-  "jharkhand-government-cancels-jssc-cgl-exam-all-exams-conduct": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
+  "devendra-mahto-ends-16-day-hunger-strike-after-jharkhand-can": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
     "signature": "exam|khan|protest|protest",
-    "norm": 71.6
+    "norm": 70
   },
-  "why-did-beco-attack-hul-star-brands-surf-excel-and-vim-": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "attack|attack|star",
-    "norm": 67.3
+  "delhi-court-orders-property-attachment-of-advocate-mehmood-p": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "ayodhya|lakh|supreme court|verdict",
+    "norm": 69.6
   },
-  "nrr-accuses-cong-of-betraying-bcs-undermining-reservations": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "betray",
-    "norm": 49.4
+  "trump-cites-gyanesh-kumar-while-renewing-push-for-save-act-p": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "mp|trump|trump|vote",
+    "norm": 61.8
   },
-  "traders-get-pickier-in-emerging-market-inflation-linked-debt": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "inflation",
-    "norm": 47.1
+  "-cannot-be-arbitrarily-court-on-governor-s-premature-release": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "governor|mp|rbi",
+    "norm": 57.6
   },
-  "taylor-swift-and-selena-gomez-plan-to-welcome-babies-around-": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "movie",
-    "norm": 45.5
+  "how-bangladesh-beat-lure-of-white-ball-riches-to-save-its-te": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "cricket|pakistan",
+    "norm": 57.1
   },
-  "fake-govt-offices-set-up-funds-siphoned-off-in-gujarat": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "fund",
-    "norm": 44
+  "firs-to-be-filed-over-delhi-yamuna-cleanup-irregularities-sa": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "poll|war",
+    "norm": 55.4
   },
-  "remembering-in-boost-to-taliban-ties-india-joins-in-with-vic": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
+  "74-big-turn-deliveries-manav-suthar-out-turns-jadeja-kuldeep": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "match|mp",
+    "norm": 55.4
+  },
+  "up-teen-rescued-in-delhi-made-to-wait-7-hours-as-cops-disput": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "rescue|rescue",
+    "norm": 54.2
+  },
+  "allahabad-high-court-criticises-u-p-government-for-taking-ov": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "high court|mp",
+    "norm": 50.5
+  },
+  "vande-mataram-incident-delhi-police-enquires-into-complaint-": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "mp|rahul gandhi",
+    "norm": 50.5
+  },
+  "fake-mea-officials-hold-guests-captive-at-lucknow-hotel-deta": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "identity-of-dimagi-naxal-party-founder-remains-a-mystery": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
+    "signature": "mystery",
+    "norm": 42.7
+  },
+  "14-of-28-cms-face-serious-criminal-cases-sc-told": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
     "signature": "",
-    "norm": 37.4
+    "norm": 36
   },
-  "farm-ponds-offer-lifeline-to-telangana-farmer": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "foreign-holdings-of-treasuries-fell-in-june-led-by-japan-dro": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "western-railway-turns-to-nano-coating-to-tackle-gutkha-stain": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "georgia-military-school-embarks-on-turnaround-post-debt-repr": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "sagittarius-horoscope-today-august-18-2026-you-are-likely-to": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "libra-horoscope-today-august-18-2026-smart-choices-may-help-": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "2-air-india-pilots-have-failed-dope-test-so-far-taken-off-du": {
-    "firstSeen": "2026-08-17T23:32:43.851Z",
+  "taliban-push-for-closer-india-ties-at-victory-day-event-mea-": {
+    "firstSeen": "2026-08-18T01:46:53.917Z",
     "signature": "",
     "norm": 33.9
   }
