@@ -1,302 +1,37 @@
 {
-  "fired-ex-ukrainian-defence-minister-calls-for-wartime-electi": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "defence|election|election|fire|fire|minister|unexpected|war",
-    "norm": 83.4
+  "-have-to-build-confidence-sc-to-set-up-probe-panel-on-delhi-": {
+    "firstSeen": "2026-08-19T01:49:07.511Z",
+    "signature": "exam|neet|protest|protest|supreme court",
+    "norm": 76.3
   },
-  "captain-of-ship-attacked-in-hormuz-dead-or-alive-sc-seeks-re": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "attack|attack|captain|dead|dead|death|supreme court",
-    "norm": 82.4
-  },
-  "30-killed-as-gold-mine-collapses-in-central-african-republic": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "collapse|collapse|collapse|gold|killed|killed",
-    "norm": 81
-  },
-  "ladakh-logjam-kargil-police-file-fir-after-remarks-against-l": {
-    "firstSeen": "2026-08-18T22:36:48.102Z",
-    "signature": "iran|protest|protest|toll|video|war",
-    "norm": 78.4
-  },
-  "vets-turn-to-common-garden-herb-to-treat-tigress-with-deadly": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "dead|dead|injured|viral|viral|viral",
-    "norm": 74.5
-  },
-  "trump-s-voter-id-praise-follows-gyanesh-kumar-sergio-gor-mee": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "election|election|exam|mp|president|trump|trump|vote",
-    "norm": 65.8
-  },
-  "why-is-pm-cares-fund-keeping-large-sums-idle-asks-rti-activi": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "disaster|fund|minister|prime minister",
-    "norm": 65.6
-  },
-  "trump-holds-off-iran-talks-until-tehran-is-ready-to-make-a-d": {
-    "firstSeen": "2026-08-18T22:36:48.102Z",
-    "signature": "deal|iran|mp|trump|trump",
-    "norm": 64.1
-  },
-  "odisha-announces-1-000-crore-aid-for-flood-hit-areas": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "crore|evacuat|flood|flood|fund|lakh",
-    "norm": 63.4
-  },
-  "over-2-07-crore-voters-face-sir-exclusion-in-maharashtra-pol": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "crore|lakh|maharashtra|poll|vote",
-    "norm": 63.1
-  },
-  "bengal-hotel-fire-two-owners-held-death-toll-rises-to-nine": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "death|fire|fire|toll",
-    "norm": 63
-  },
-  "-i-won-trump-renews-2020-election-claim-says-24-000-noncitiz": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "election|election|mp|trump|trump|vote",
-    "norm": 62.7
-  },
-  "80-of-delhi-is-unplanned-fire-preparedness-average-chief-fir": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
+  "delhi-chief-fire-officer-interview-we-need-more-than-12-000-": {
+    "firstSeen": "2026-08-19T01:49:07.511Z",
     "signature": "fire|fire|mp|row",
-    "norm": 62.4
+    "norm": 72.9
   },
-  "foreigner-on-mumbai-delhi-train-sprays-fire-extinguisher-die": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "fire|fire|gold|mp",
-    "norm": 62.4
+  "-ball-was-on-the-ground-ex-cricketer-baffled-as-jurel-catch-": {
+    "firstSeen": "2026-08-19T01:49:07.511Z",
+    "signature": "controversy|cricket|cricketer|match",
+    "norm": 69.7
   },
-  "5-injured-after-ferris-wheel-cabin-crashes-at-lucknow-fair-2": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "crash|crash|injured|iran",
-    "norm": 62
+  "factors-at-play-in-choosing-the-next-keralam-congress-chief": {
+    "firstSeen": "2026-08-19T01:49:07.511Z",
+    "signature": "actor|coalition|congress|president",
+    "norm": 58.3
   },
-  "hafiz-saeed-sent-10-000-terrorists-to-kashmir-claims-pakista": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 56.7
+  "u-p-job-aspirants-to-hold-hunkar-panchayat-on-august-25-dema": {
+    "firstSeen": "2026-08-19T01:49:07.511Z",
+    "signature": "iran|recruitment",
+    "norm": 53.9
   },
-  "iran-targets-uae-with-two-ballistic-missiles-gulf-tensions-e": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "defence|iran|war",
-    "norm": 56.7
+  "abhijeet-dipke-reacts-to-offer-to-join-nda-camp-wasn-t-i-ant": {
+    "firstSeen": "2026-08-19T01:49:07.511Z",
+    "signature": "minister|mp",
+    "norm": 48.7
   },
-  "after-lathicharge-backlash-haryana-government-reaches-unders": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "backlash|chief minister|minister|war",
-    "norm": 55.6
-  },
-  "pressers-meetings-cancelled-in-kolkata-due-to-bjp-pressure-c": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "bjp|war",
-    "norm": 55.4
-  },
-  "us-envoy-sergio-gor-to-meet-omar-abdullah-during-2-day-j-k-l": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "chief minister|governor|minister|mp|president|trump|trump",
-    "norm": 54.2
-  },
-  "us-trans-woman-jailed-for-6-years-over-plot-to-kill-trump-s-": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "mp|trump|trump",
-    "norm": 54.1
-  },
-  "jharkhand-govt-releases-list-of-44-recruitment-exams-cancell": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "exam|khan|recruitment",
-    "norm": 53.7
-  },
-  "indian-poll-machinery-globally-recognised-centre-after-trump": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "mp|poll|trump|trump",
-    "norm": 52.3
-  },
-  "nepal-break-agniveer-hiring-deadlock-gorkha-veterans-press-b": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "dead|dead",
-    "norm": 51.8
-  },
-  "-they-knew-us-states-accuse-meta-of-hiding-instagram-s-impac": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "instagram|mp",
-    "norm": 51.7
-  },
-  "raja-warring-in-spotlight-after-another-congress-leader-ques": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "congress|president|war",
-    "norm": 50
-  },
-  "jharkhand-government-releases-list-of-44-recruitment-exams-c": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "exam|khan|recruitment",
-    "norm": 49.7
-  },
-  "brics-condemns-eu-carbon-tax": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "brics|fund|tax",
-    "norm": 47.7
-  },
-  "-meta-hooked-exploited-children-29-us-states-demand-200-bill": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "bill|billion|mp",
-    "norm": 47.7
-  },
-  "iran-launched-2-ballistic-missiles-1-fell-in-our-territorial": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "defence|iran",
-    "norm": 45.4
-  },
-  "ex-sc-judge-to-lead-probe-into-police-action-on-cjp-parliame": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "parliament",
-    "norm": 44
-  },
-  "173-up-villages-flood-hit-more-than-4-000-people-shifted-to-": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "flood|flood",
-    "norm": 42.2
-  },
-  "2-mbbs-interns-sexually-harassed-at-haryana-medical-college-": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "khan|mp",
-    "norm": 41.4
-  },
-  "us-sanctions-undermine-the-rule-of-law-says-world-court": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "mp|president|sanction",
-    "norm": 40.6
-  },
-  "hayden-panettiere-s-mother-speaks-out-after-daughter-s-death": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "death",
-    "norm": 40.1
-  },
-  "mvd-cracks-down-on-illegal-taxis-slaps-penalty-of-1-47-lakh-": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "lakh|tax",
-    "norm": 38
-  },
-  "to-beat-aap-three-musketeers-to-sail-bjp-s-boat-in-punjab": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "aap|bjp",
-    "norm": 38
-  },
-  "57-year-old-patient-dies-2-days-after-rape-in-haryana-hospit": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "hospital",
-    "norm": 35.5
-  },
-  "new-york-based-warner-music-group-plans-to-set-up-a-world-cl": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "war",
-    "norm": 35.5
-  },
-  "solar-powered-backpacks-to-save-endangered-monarch-butterfli": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "anger",
-    "norm": 35.5
-  },
-  "fda-crackdown-intensifies-zepto-chamber-daily-fresh-bakers-f": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "maharashtra",
-    "norm": 35.5
-  },
-  "mother-of-all-maternity-break-policies-tamil-nadu-s-vijay-go": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
+  "600-nta-subject-experts-removed-big-overhaul-after-govt-s-fi": {
+    "firstSeen": "2026-08-19T01:49:07.511Z",
     "signature": "",
     "norm": 33.9
-  },
-  "employment-guarantee-has-slipped-into-limbo": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "use-of-evs-going-up-steadily-consumption-at-public-chargers-": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "widening-of-road-linking-uttarahalli-mysuru-road-to-be-compl": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "fake-drug-racket-busted-near-bidadi-medicines-worth-5-crore-": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "crore",
-    "norm": 32.8
-  },
-  "kerala-hc-asks-acs-to-appear-before-it-over-delay-in-action-": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "karnataka-deputy-chairperson-umashree-recalls-life-of-triump": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "kharge-s-vande-mataram-dare-to-bjp-slap-case-on-gandhi-nehru": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "bjp",
-    "norm": 32.8
-  },
-  "on-his-first-visit-to-j-amp-k-us-envoy-sergio-gor-to-meet-om": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "highways-may-get-traffic-road-test-before-launch": {
-    "firstSeen": "2026-08-18T22:36:48.102Z",
-    "signature": "",
-    "norm": 30.7
-  },
-  "india-reiterates-support-for-negotiated-two-state-solution-i": {
-    "firstSeen": "2026-08-18T22:36:48.102Z",
-    "signature": "",
-    "norm": 30.7
-  },
-  "govt-to-offer-gas-suppliers-incentives-to-boost-domestic-pip": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "",
-    "norm": 26.7
-  },
-  "ncb-busts-drug-trafficking-network-involving-illegally-overs": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "",
-    "norm": 26.7
-  },
-  "gta-6-leaked-gameplay-shows-off-chaos-in-a-knockoff-ranchero": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "",
-    "norm": 26.7
-  },
-  "india-reiterates-support-for-two-state-solution-during-pales": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "h1n1-cases-on-the-rise-experts-say-no-cause-for-alarm": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "lawyers-boycott-work-in-j-k-s-poonch-after-police-search-jud": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "-time-to-push-back-on-india-and-the-continuing-u-s-pressure": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "ndtv-can-become-india-s-voice-to-world-rahul-kanwal": {
-    "firstSeen": "2026-08-18T23:32:03.550Z",
-    "signature": "",
-    "norm": 21.2
   }
 }
