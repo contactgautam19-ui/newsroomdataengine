@@ -1,117 +1,42 @@
 {
-  "congress-backs-two-stanza-vande-mataram-launches-campaign-ag": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "chief minister|congress|fund|minister|mp|row",
-    "norm": 72.6
+  "jpsc-jssc-reform-manch-calls-off-stir-after-jharkhand-govt-s": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "exam|khan|protest|protest|recruitment",
+    "norm": 76.5
   },
-  "karnataka-govt-defends-nagendra-s-inclusion-in-ministry-as-o": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "chief minister|lok sabha|minister|opposition|rajya sabha|supreme court|war",
-    "norm": 65.3
+  "91-local-bodies-to-compete-in-pookalam-contest-in-keralam-s-": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "lakh|mp|war",
+    "norm": 65.6
   },
-  "tncc-protests-against-home-minister-amit-shah": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "amit shah|minister|protest|protest",
-    "norm": 65.3
+  "manipur-orders-closure-of-schools-colleges-for-3-days-amid-p": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "mp|protest|protest",
+    "norm": 61.1
   },
-  "modi-govt-to-step-up-gen-z-gen-alpha-outreach-through-one-da": {
-    "firstSeen": "2026-08-19T18:49:47.051Z",
-    "signature": "minister|modi|modi|mp",
-    "norm": 61.8
+  "india-to-build-hospital-in-west-bank-seeks-to-deploy-field-h": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "hospital|israel",
+    "norm": 57.6
   },
-  "delhi-jal-board-scam-satyendar-jain-and-4-others-sent-to-14-": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "minister|scam",
-    "norm": 55.4
-  },
-  "protest-over-hotel-licence-rejection-fir-registered-against-": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
+  "college-closed-after-msf-protest-over-union-chairman-s-suspe": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
     "signature": "protest|protest",
-    "norm": 54.2
+    "norm": 52.4
   },
-  "tamil-nadu-s-encroachment-problem": {
-    "firstSeen": "2026-08-19T18:49:47.051Z",
-    "signature": "deal|supreme court",
-    "norm": 53.2
-  },
-  "southern-zonal-council-to-meet-near-mamallapuram-on-august-2": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "amit shah|chief minister|minister",
-    "norm": 52.7
-  },
-  "hariprasad-urges-sit-probe-into-cooperative-bank-irregularit": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "bjp|mla",
-    "norm": 50.5
-  },
-  "karnataka-state-human-rights-commission-team-visits-hanur-to": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "death",
-    "norm": 48.2
-  },
-  "bengaluru-lorry-cleaner-stabbed-to-death-over-drinking-water": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "death",
-    "norm": 48.2
-  },
-  "india-palestine-sign-2-mous-in-development-cooperation-200-b": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "woman-held-in-tirupattur-for-pledging-fake-gold-jewellery": {
-    "firstSeen": "2026-08-19T18:49:47.051Z",
-    "signature": "gold",
-    "norm": 46.3
-  },
-  "pension-income-ceiling-enhanced-to-1-20-lakh-set-to-benefit-": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "lakh",
+  "rss-linked-academics-in-ncert-textbook-panel": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "president",
     "norm": 45.9
   },
-  "nit-calicut-records-highest-ever-ug-intake-of-over-1-600-stu": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "record",
-    "norm": 42.7
+  "census-2027-has-a-nefarious-purpose-says-congress": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "congress",
+    "norm": 45.9
   },
-  "-blos-should-explain-contents-of-notices-": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "",
-    "norm": 36
-  },
-  "ivan-d-souza-takes-govt-to-task-over-delay-in-yettinahole-pr": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "",
-    "norm": 36
-  },
-  "anu-vice-chancellor-calls-for-measures-to-strengthen-student": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "",
-    "norm": 36
-  },
-  "synthetic-drug-trafficking-case-excise-arrests-seven-more-in": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-beyond-words-photo-exhibition-begins-in-keralam-s-kozhikode": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "t-n-police-constitute-internal-vigilance-cells": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "buddhi-clinic-the-hindu-to-organise-webinar-on-future-of-int": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "data-operator-held-in-arakkoknam-over-bribery-charges": {
-    "firstSeen": "2026-08-19T19:34:36.074Z",
-    "signature": "",
-    "norm": 33.9
+  "pm-s-gen-z-gen-alpha-outreach-ministers-told-to-visit-univer": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "minister",
+    "norm": 44
   }
 }
