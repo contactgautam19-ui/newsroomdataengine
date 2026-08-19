@@ -1,42 +1,302 @@
 {
+  "netanyahu-says-israel-sent-clear-message-to-turkey-after-syr": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "attack|attack|border|israel|minister|prime minister",
+    "norm": 76.7
+  },
+  "at-least-100-killed-after-illegal-gold-mine-collapses-in-cen": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "collapse|collapse|collapse|gold|killed|killed",
+    "norm": 74.8
+  },
+  "jharkhand-students-call-off-protests-await-government-promis": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "exam|high court|khan|protest|protest|recruitment",
+    "norm": 74.2
+  },
+  "us-canada-say-final-trade-deal-soon-but-details-remain-scarc": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "deal|mp|threat|trump|trump",
+    "norm": 72.8
+  },
   "jpsc-jssc-reform-manch-calls-off-stir-after-jharkhand-govt-s": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
     "signature": "exam|khan|protest|protest|recruitment",
-    "norm": 76.5
+    "norm": 72.6
+  },
+  "zelensky-fires-deputy-head-of-presidential-office-over-corru": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "election|election|fire|fire|minister|president",
+    "norm": 72.1
+  },
+  "5-americans-among-7-killed-after-helicopter-crashes-in-north": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "crash|crash|killed|killed",
+    "norm": 68.6
+  },
+  "trump-aide-natalie-harp-once-rode-in-car-trunk-to-attend-his": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "mp|president|row|trump|trump",
+    "norm": 66.8
+  },
+  "congress-backs-two-stanza-vande-mataram-launches-campaign-ag": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "chief minister|congress|fund|minister|mp|row",
+    "norm": 65.8
   },
   "91-local-bodies-to-compete-in-pookalam-contest-in-keralam-s-": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
     "signature": "lakh|mp|war",
-    "norm": 65.6
+    "norm": 61.4
+  },
+  "rs-20-lakh-chinese-stocks-bet-money-trail-revealed-in-twisha": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "death|lakh|sharma|stocks",
+    "norm": 61.3
   },
   "manipur-orders-closure-of-schools-colleges-for-3-days-amid-p": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
     "signature": "mp|protest|protest",
-    "norm": 61.1
+    "norm": 58.6
+  },
+  "cyberabad-police-recover-1-crore-lost-in-boss-impersonation-": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "crore|mp|scam",
+    "norm": 58.4
+  },
+  "karnataka-govt-defends-nagendra-s-inclusion-in-ministry-as-o": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "chief minister|lok sabha|minister|opposition|rajya sabha|supreme court|war",
+    "norm": 58.2
+  },
+  "pak-tiktoker-with-over-1-3-million-followers-shot-dead-in-ca": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "dead|dead|slam",
+    "norm": 57.4
+  },
+  "-we-are-gen-z-won-t-tolerate-this-nonsense-kargil-tourist-ra": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "video|viral|viral|viral",
+    "norm": 56.7
+  },
+  "govt-tightens-sugar-stock-limits-to-curb-record-prices-ahead": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "price|prices|record",
+    "norm": 56.4
+  },
+  "trump-put-many-soldiers-on-washington-s-streets-they-seldom-": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "mp|president|trump|trump",
+    "norm": 56.3
   },
   "india-to-build-hospital-in-west-bank-seeks-to-deploy-field-h": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
     "signature": "hospital|israel",
-    "norm": 57.6
+    "norm": 55
+  },
+  "jharkhand-bjp-leaders-meet-amit-shah-in-new-delhi": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "amit shah|bjp|khan",
+    "norm": 53.5
+  },
+  "modi-govt-to-step-up-gen-z-gen-alpha-outreach-through-one-da": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "minister|modi|modi|mp",
+    "norm": 52.3
+  },
+  "how-pak-backed-handler-shahzad-bhatti-built-online-terror-ne": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "terror|terror",
+    "norm": 51.8
+  },
+  "uae-s-financial-embargo-on-iran-after-missile-threat-puts-ri": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "iran|threat",
+    "norm": 51.8
+  },
+  "ccpa-fines-amazon-rs-1-lakh-for-misleading-ram-mandir-ayodhy": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "ayodhya|lakh|ram mandir",
+    "norm": 51.2
+  },
+  "sikh-pilgrims-seek-pakistan-visas-mea-s-tightrope-ahead-of-g": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "pakistan|vote|war",
+    "norm": 50
   },
   "college-closed-after-msf-protest-over-union-chairman-s-suspe": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
     "signature": "protest|protest",
-    "norm": 52.4
+    "norm": 49.7
+  },
+  "delhi-jal-board-scam-satyendar-jain-and-4-others-sent-to-14-": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "minister|scam",
+    "norm": 49.6
+  },
+  "nia-court-issues-non-bailable-warrant-against-top-let-comman": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "fake-expired-medicines-worth-rs-5-crore-seized-repacking-uni": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "crore|mp",
+    "norm": 47.3
+  },
+  "bengaluru-property-owner-fined-rs-1-lakh-for-dumping-constru": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "lakh|mp",
+    "norm": 47.3
+  },
+  "protest-over-hotel-licence-rejection-fir-registered-against-": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "protest|protest",
+    "norm": 46.5
+  },
+  "bengaluru-man-kills-stepfather-with-shock-absorber-rod-for-a": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "shock|shock",
+    "norm": 46.5
+  },
+  "southern-zonal-council-to-meet-near-mamallapuram-on-august-2": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "amit shah|chief minister|minister",
+    "norm": 44.9
+  },
+  "collectors-of-border-states-to-decide-citizenship-applicatio": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "border",
+    "norm": 44
+  },
+  "nhl-rumors-hughes-may-want-shorter-deal-batherson-eyes-8-yea": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "deal|mp",
+    "norm": 43
+  },
+  "congress-firm-on-2-stanza-vande-mataram-bjp-terms-party-musl": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "bjp|congress",
+    "norm": 42.5
+  },
+  "hariprasad-urges-sit-probe-into-cooperative-bank-irregularit": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "bjp|mla",
+    "norm": 42.5
+  },
+  "manipur-chief-minister-backs-nrc-urges-artistes-to-promote-p": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "chief minister|minister",
+    "norm": 42.5
   },
   "rss-linked-academics-in-ncert-textbook-panel": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
     "signature": "president",
-    "norm": 45.9
+    "norm": 41
   },
   "census-2027-has-a-nefarious-purpose-says-congress": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
     "signature": "congress",
-    "norm": 45.9
+    "norm": 41
   },
   "pm-s-gen-z-gen-alpha-outreach-ministers-told-to-visit-univer": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
     "signature": "minister",
-    "norm": 44
+    "norm": 41
+  },
+  "russia-ukraine-exchange-103-captured-soldiers-each": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "war",
+    "norm": 40.1
+  },
+  "karnataka-state-human-rights-commission-team-visits-hanur-to": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "death",
+    "norm": 40.1
+  },
+  "bengaluru-lorry-cleaner-stabbed-to-death-over-drinking-water": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "death",
+    "norm": 40.1
+  },
+  "tamil-nadu-s-maternity-leave-move-spotlights-south-india-s-f": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "row",
+    "norm": 40.1
+  },
+  "india-palestine-sign-2-mous-in-development-cooperation-200-b": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "hospital",
+    "norm": 40.1
+  },
+  "pension-income-ceiling-enhanced-to-1-20-lakh-set-to-benefit-": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "lakh",
+    "norm": 37.5
+  },
+  "openai-to-introduce-ads-in-chatgpt-across-europe-from-monday": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "mehul-choksi-s-lawyer-vijay-aggarwal-arrested-in-uk-over-sex": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 36
+  },
+  "days-after-c-section-19-year-old-woman-critical-as-family-al": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "hospital",
+    "norm": 35.5
+  },
+  "disability-rights-groups-raise-concern-over-census-enumerati": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "23-year-old-arrested-for-smuggling-illicit-liquor-in-delhi": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "acb-finds-irregularities-in-karimnagar-civic-body-town-plann": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "world-photography-day-gvmc-commissioner-inaugurates-photo-ex": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "-blos-should-explain-contents-of-notices-": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "tourists-thrashed-harassed-for-2-hours-over-8-year-old-s-sho": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "flyers-face-booking-issues-for-some-time-after-indigo-websit": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "ivan-d-souza-takes-govt-to-task-over-delay-in-yettinahole-pr": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "forest-officers-body-defends-foresters-involved-in-firing-in": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "fortnite-chapter-7-season-4-map-changes-all-new-pois-explain": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
