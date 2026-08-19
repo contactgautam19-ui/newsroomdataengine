@@ -1,9 +1,4 @@
 {
-  "at-least-100-killed-after-illegal-gold-mine-collapses-in-cen": {
-    "firstSeen": "2026-08-19T21:35:37.240Z",
-    "signature": "collapse|collapse|collapse|gold|killed|killed",
-    "norm": 74.8
-  },
   "jharkhand-students-call-off-protests-await-government-promis": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "exam|high court|khan|protest|protest|recruitment",
@@ -29,25 +24,30 @@
     "signature": "election|election|fire|fire|minister|president",
     "norm": 68.6
   },
+  "no-full-version-two-stanzas-only-congress-stands-firm-on-van": {
+    "firstSeen": "2026-08-19T23:32:37.261Z",
+    "signature": "bjp|congress|fire|fire",
+    "norm": 66.9
+  },
+  "minor-girl-raped-and-murdered-in-pune-accused-held": {
+    "firstSeen": "2026-08-19T23:32:37.261Z",
+    "signature": "maharashtra|opposition|outrage",
+    "norm": 63.5
+  },
+  "9-suffocate-to-death-in-sleep-in-kolkata-lodge-fire-5-bangla": {
+    "firstSeen": "2026-08-19T23:32:37.261Z",
+    "signature": "death|fire|fire|rescue|rescue",
+    "norm": 62
+  },
   "5-americans-among-7-killed-after-helicopter-crashes-in-north": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "crash|crash|killed|killed",
-    "norm": 65.8
-  },
-  "trump-aide-natalie-harp-once-rode-in-car-trunk-to-attend-his": {
-    "firstSeen": "2026-08-19T21:35:37.240Z",
-    "signature": "mp|president|row|trump|trump",
-    "norm": 63.1
+    "norm": 62
   },
   "u-p-congress-president-s-whatsapp-blocked-blames-bjp-for-try": {
     "firstSeen": "2026-08-19T22:36:02.849Z",
     "signature": "bjp|congress|election|election|opposition|president",
-    "norm": 60.9
-  },
-  "91-local-bodies-to-compete-in-pookalam-contest-in-keralam-s-": {
-    "firstSeen": "2026-08-19T20:39:26.466Z",
-    "signature": "lakh|mp|war",
-    "norm": 58.4
+    "norm": 57.9
   },
   "rs-20-lakh-chinese-stocks-bet-money-trail-revealed-in-twisha": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
@@ -59,10 +59,15 @@
     "signature": "video|viral|viral|viral",
     "norm": 56.7
   },
-  "manipur-orders-closure-of-schools-colleges-for-3-days-amid-p": {
+  "india-ramps-up-aid-to-palestine-signs-mou-for-200-bed-super-": {
+    "firstSeen": "2026-08-19T23:32:37.261Z",
+    "signature": "hospital|mp",
+    "norm": 55.4
+  },
+  "91-local-bodies-to-compete-in-pookalam-contest-in-keralam-s-": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
-    "signature": "mp|protest|protest",
-    "norm": 55.5
+    "signature": "lakh|mp|war",
+    "norm": 54.5
   },
   "cyberabad-police-recover-1-crore-lost-in-boss-impersonation-": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
@@ -79,11 +84,6 @@
     "signature": "dead|dead|slam",
     "norm": 53.4
   },
-  "action-against-drivers-without-marathi-knowledge-from-august": {
-    "firstSeen": "2026-08-19T22:36:02.849Z",
-    "signature": "maharashtra|minister",
-    "norm": 52.7
-  },
   "trump-put-many-soldiers-on-washington-s-streets-they-seldom-": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "mp|president|trump|trump",
@@ -94,55 +94,50 @@
     "signature": "minister|modi|modi|mp",
     "norm": 52.3
   },
-  "govt-tightens-sugar-stock-limits-to-curb-record-prices-ahead": {
-    "firstSeen": "2026-08-19T21:35:37.240Z",
-    "signature": "price|prices|record",
-    "norm": 52
-  },
-  "india-to-build-hospital-in-west-bank-seeks-to-deploy-field-h": {
+  "manipur-orders-closure-of-schools-colleges-for-3-days-amid-p": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
-    "signature": "hospital|israel",
-    "norm": 51.8
+    "signature": "mp|protest|protest",
+    "norm": 51.5
   },
   "ccpa-fines-amazon-rs-1-lakh-for-misleading-ram-mandir-ayodhy": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "ayodhya|lakh|ram mandir",
     "norm": 51.2
   },
-  "jharkhand-bjp-leaders-meet-amit-shah-in-new-delhi": {
-    "firstSeen": "2026-08-19T21:35:37.240Z",
-    "signature": "amit shah|bjp|khan",
-    "norm": 50.3
+  "action-against-drivers-without-marathi-knowledge-from-august": {
+    "firstSeen": "2026-08-19T22:36:02.849Z",
+    "signature": "maharashtra|minister",
+    "norm": 49.6
   },
-  "sikh-pilgrims-seek-pakistan-visas-mea-s-tightrope-ahead-of-g": {
+  "govt-tightens-sugar-stock-limits-to-curb-record-prices-ahead": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
-    "signature": "pakistan|vote|war",
-    "norm": 50
+    "signature": "price|prices|record",
+    "norm": 48.8
+  },
+  "india-to-build-hospital-in-west-bank-seeks-to-deploy-field-h": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "hospital|israel",
+    "norm": 47.7
   },
   "how-pak-backed-handler-shahzad-bhatti-built-online-terror-ne": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "terror|terror",
     "norm": 47.7
   },
-  "college-closed-after-msf-protest-over-union-chairman-s-suspe": {
-    "firstSeen": "2026-08-19T20:39:26.466Z",
-    "signature": "protest|protest",
-    "norm": 46.5
+  "uae-s-financial-embargo-on-iran-after-missile-threat-puts-ri": {
+    "firstSeen": "2026-08-19T23:32:37.261Z",
+    "signature": "iran|threat",
+    "norm": 47.7
+  },
+  "jharkhand-bjp-leaders-meet-amit-shah-in-new-delhi": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "amit shah|bjp|khan",
+    "norm": 46.2
   },
   "delhi-jal-board-scam-satyendar-jain-and-4-others-sent-to-14-": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "minister|scam",
     "norm": 45.4
-  },
-  "35-bihar-students-hospitalised-after-detergent-allegedly-mis": {
-    "firstSeen": "2026-08-19T22:36:02.849Z",
-    "signature": "hospital|minister",
-    "norm": 45.4
-  },
-  "nia-court-issues-non-bailable-warrant-against-top-let-comman": {
-    "firstSeen": "2026-08-19T21:35:37.240Z",
-    "signature": "war",
-    "norm": 43.5
   },
   "fake-expired-medicines-worth-rs-5-crore-seized-repacking-uni": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
@@ -159,34 +154,29 @@
     "signature": "deal|mp",
     "norm": 43
   },
+  "college-closed-after-msf-protest-over-union-chairman-s-suspe": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
   "protest-over-hotel-licence-rejection-fir-registered-against-": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "protest|protest",
     "norm": 42.2
-  },
-  "bengaluru-man-kills-stepfather-with-shock-absorber-rod-for-a": {
-    "firstSeen": "2026-08-19T21:35:37.240Z",
-    "signature": "shock|shock",
-    "norm": 42.2
-  },
-  "collectors-of-border-states-to-decide-citizenship-applicatio": {
-    "firstSeen": "2026-08-19T21:35:37.240Z",
-    "signature": "border",
-    "norm": 41
   },
   "southern-zonal-council-to-meet-near-mamallapuram-on-august-2": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "amit shah|chief minister|minister",
     "norm": 40.6
   },
+  "nia-court-issues-non-bailable-warrant-against-top-let-comman": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "war",
+    "norm": 40.1
+  },
   "congress-firm-on-2-stanza-vande-mataram-bjp-terms-party-musl": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "bjp|congress",
-    "norm": 38
-  },
-  "hariprasad-urges-sit-probe-into-cooperative-bank-irregularit": {
-    "firstSeen": "2026-08-19T21:35:37.240Z",
-    "signature": "bjp|mla",
     "norm": 38
   },
   "manipur-chief-minister-backs-nrc-urges-artistes-to-promote-p": {
@@ -194,20 +184,20 @@
     "signature": "chief minister|minister",
     "norm": 38
   },
+  "collectors-of-border-states-to-decide-citizenship-applicatio": {
+    "firstSeen": "2026-08-19T21:35:37.240Z",
+    "signature": "border",
+    "norm": 37.5
+  },
   "rss-linked-academics-in-ncert-textbook-panel": {
     "firstSeen": "2026-08-19T20:39:26.466Z",
     "signature": "president",
     "norm": 37.5
   },
-  "census-2027-has-a-nefarious-purpose-says-congress": {
-    "firstSeen": "2026-08-19T20:39:26.466Z",
-    "signature": "congress",
-    "norm": 37.5
-  },
-  "pm-s-gen-z-gen-alpha-outreach-ministers-told-to-visit-univer": {
-    "firstSeen": "2026-08-19T20:39:26.466Z",
-    "signature": "minister",
-    "norm": 37.5
+  "paternity-test-of-child-can-be-allowed-in-marital-dispute-sc": {
+    "firstSeen": "2026-08-19T23:32:37.261Z",
+    "signature": "",
+    "norm": 36
   },
   "russia-ukraine-exchange-103-captured-soldiers-each": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
@@ -239,10 +229,15 @@
     "signature": "hospital",
     "norm": 35.5
   },
-  "us-pressure-on-israel-needed-for-peace-in-syria": {
-    "firstSeen": "2026-08-19T22:36:02.849Z",
-    "signature": "israel",
-    "norm": 35.5
+  "census-2027-has-a-nefarious-purpose-says-congress": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "congress",
+    "norm": 32.8
+  },
+  "pm-s-gen-z-gen-alpha-outreach-ministers-told-to-visit-univer": {
+    "firstSeen": "2026-08-19T20:39:26.466Z",
+    "signature": "minister",
+    "norm": 32.8
   },
   "pension-income-ceiling-enhanced-to-1-20-lakh-set-to-benefit-": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
@@ -254,15 +249,25 @@
     "signature": "mp",
     "norm": 32.8
   },
+  "prince-harry-meghan-markle-moving-back-to-uk-this-month-repo": {
+    "firstSeen": "2026-08-19T23:32:37.261Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "56-special-e-buses-for-women-in-delhi-check-routes-services": {
+    "firstSeen": "2026-08-19T23:32:37.261Z",
+    "signature": "",
+    "norm": 30.7
+  },
   "mehul-choksi-s-lawyer-vijay-aggarwal-arrested-in-uk-over-sex": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 26.7
   },
   "23-year-old-arrested-for-smuggling-illicit-liquor-in-delhi": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "acb-finds-irregularities-in-karimnagar-civic-body-town-plann": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
@@ -290,11 +295,6 @@
     "norm": 21.2
   },
   "forest-officers-body-defends-foresters-involved-in-firing-in": {
-    "firstSeen": "2026-08-19T21:35:37.240Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "fortnite-chapter-7-season-4-map-changes-all-new-pois-explain": {
     "firstSeen": "2026-08-19T21:35:37.240Z",
     "signature": "",
     "norm": 21.2
