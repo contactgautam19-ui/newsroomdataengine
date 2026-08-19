@@ -1,121 +1,166 @@
 {
-  "stock-market-live-updates-sensex-today-sensex-nifty-trade-fl": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "dead|dead|iran|nifty|sensex|stock market",
-    "norm": 83.2
-  },
-  "bangladeshi-nationals-among-9-dead-in-kolkata-hotel-fire-ac-": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "blast|dead|dead|explosion|explosion|fire|fire",
+  "began-on-second-floor-only-one-entry-exit-what-to-know-about": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "bjp|fire|fire|killed|killed",
     "norm": 76.3
   },
-  "delhi-chief-fire-officer-interview-we-need-more-than-12-000-": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "fire|fire|mp|row",
-    "norm": 71.4
+  "snakebite-now-a-notifiable-disease-in-maharashtra-hospitals-": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "death|hospital|maharashtra|record",
+    "norm": 74.9
   },
   "9-year-old-girl-raped-killed-in-pune-before-body-dumped-into": {
     "firstSeen": "2026-08-19T04:47:51.034Z",
     "signature": "killed|killed|mp|row",
     "norm": 71
   },
-  "ugc-net-row-students-teachers-flag-disputed-questions-raise-": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "exam|iran|record|row",
-    "norm": 68.4
-  },
-  "pakistan-flustered-by-operation-sindoor-movie-army-reacts-at": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "army|movie|pakistan|tragedy",
-    "norm": 68.3
+  "9-bangladeshi-nationals-killed-in-massive-kolkata-hotel-fire": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "blast|fire|fire|killed|killed",
+    "norm": 70.9
   },
   "mp-school-horror-class-5-student-allegedly-makes-girls-drink": {
     "firstSeen": "2026-08-19T04:47:51.034Z",
     "signature": "horror|mp|protest|protest",
-    "norm": 67.9
+    "norm": 66.3
   },
-  "-why-wearing-shorts-don-t-know-hindu-culture-tourists-attack": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "attack|attack|mp",
-    "norm": 67.6
+  "awarapan-2-box-office-collection-day-5-updates-emraan-hashmi": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "box office|film|row|war",
+    "norm": 64.5
   },
-  "cm-fadnavis-can-now-overrule-any-minister-s-decision-what-ma": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "bjp|cabinet|maharashtra|minister",
-    "norm": 63.5
-  },
-  "-should-we-praise-this-brutality-rahul-gandhi-slams-cjp-stir": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "brutal|rahul gandhi|slam|slams",
-    "norm": 63.4
+  "-we-need-to-meet-envoy-says-pm-modi-wants-b-desh-pm-s-visit-": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "minister|modi|modi|mp|prime minister",
+    "norm": 62.9
   },
   "census-2027-has-deeper-nefarious-purpose-congress-slams-ques": {
     "firstSeen": "2026-08-19T04:47:51.034Z",
     "signature": "congress|slam|slams",
-    "norm": 62.5
+    "norm": 60.8
   },
-  "imran-khan-s-sister-meets-him-after-9-months-as-pak-sc-order": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "hospital|khan|supreme court",
-    "norm": 62.5
+  "daily-quiz-on-kargil-war": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "air force|war",
+    "norm": 57.1
   },
-  "massive-fire-in-kolkata-hotel-kills-nine": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "blaze|fire|fire|rescue|rescue",
-    "norm": 62.2
-  },
-  "team-settled-on-nitin-nabin-s-to-do-list-parliamentary-board": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "election|election|parliament|poll",
-    "norm": 61.8
+  "pm-modi-wants-rahman-s-india-visit-to-be-memorable-says-envo": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "modi|modi",
+    "norm": 57.1
   },
   "shillong-teer-result-today-august-19-2026-check-winning-numb": {
     "firstSeen": "2026-08-19T04:47:51.034Z",
     "signature": "khan|result",
+    "norm": 55.7
+  },
+  "rbi-s-new-3-month-reset-proposal-how-your-home-personal-loan": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "rbi|sudden|suddenly",
+    "norm": 55
+  },
+  "markets-fall-in-early-trade-amid-rising-crude-oil-prices": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "nifty|price|prices|sensex",
     "norm": 53.9
+  },
+  "-awarapan-2-co-star-came-to-mumbai-with-rs-5000-began-acting": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "star|war",
+    "norm": 53.9
+  },
+  "us-issues-details-of-new-green-card-rules-coming-into-effect": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "mp|star",
+    "norm": 53.5
   },
   "ed-raids-sp-leader-azam-khan-s-trust-and-university-in-uttar": {
     "firstSeen": "2026-08-19T04:47:51.034Z",
     "signature": "khan|mp",
     "norm": 53.5
   },
-  "sc-likely-to-announce-high-powered-panel-details-today-on-po": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
+  "dozen-protesting-indian-students-deemed-potentially-inadmiss": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "new-york-based-warner-music-group-plans-to-set-up-a-world-cl": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
+  "the-big-defence-reset-why-india-is-going-after-the-small-stu": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "defence|mp",
+    "norm": 50.5
+  },
+  "shehzad-poonawalla-explains-why-he-resigned-from-bjp-i-need-": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "bjp|president",
+    "norm": 48.7
+  },
+  "-belonging-sonia-gandhi-s-memoir-on-love-loss-and-politics-t": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
     "signature": "war",
     "norm": 48.2
   },
-  "bus-takes-different-route-passenger-misses-flight-commission": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
+  "-ghosts-anklet-sounds-an-ancient-tree-what-really-happened-a": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "maharashtra",
+    "norm": 46.3
+  },
+  "iran-claims-control-ships-choose-omani-route-what-s-changing": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "iran",
+    "norm": 46.3
+  },
+  "vijay-rolls-out-slew-of-perks-for-tn-mlas-car-monthly-allowa": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "mla",
+    "norm": 45.9
+  },
+  "tahsildar-in-dindigul-suspended-for-ordering-collection-of-c": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-wasn-t-i-anti-national-for-you-dipke-on-offer-to-join-nda-c": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "sitharaman-leads-delegation-to-singapore-for-ministerial-rou": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "losing-out-on-homes-why-manhattan-buyers-may-be-missing-prop": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
     "signature": "mp",
     "norm": 44
   },
-  "kerc-drafts-esr-2026-power-cut-data-on-bills-faster-connecti": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "bill",
-    "norm": 44
+  "caste-census-2027-full-list-of-questions-to-be-asked-in-the-": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "landmark-trial-on-meta-s-impact-on-children-s-mental-health-": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "mp",
-    "norm": 44
+  "how-will-caste-be-recorded-in-second-phase-of-census-2027-ex": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "ed-raids-10-locations-linked-to-azam-khan-jauhar-university-": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
-    "signature": "khan",
-    "norm": 42.4
-  },
-  "indian-origin-man-40-arrested-for-groping-young-woman-in-can": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
+  "pilot-plants-in-odisha-set-to-extract-valuable-rare-earth-el": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
     "signature": "",
     "norm": 36
   },
-  "on-cam-man-climbs-onto-local-train-roof-at-ghatkopar-station": {
-    "firstSeen": "2026-08-19T04:47:51.034Z",
+  "indian-origin-man-arrested-for-sexually-assaulting-woman-in-": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "",
+    "norm": 36
+  },
+  "manipur-normal-life-affected-in-valley-districts-on-2nd-day-": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "possibilities-and-pitfalls-of-facial-recognition-system-expl": {
+    "firstSeen": "2026-08-19T05:40:56.502Z",
     "signature": "",
     "norm": 33.9
   }
