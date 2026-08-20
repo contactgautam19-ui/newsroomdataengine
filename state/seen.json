@@ -1,37 +1,37 @@
 {
-  "jailed-pak-ex-pm-imran-khan-taken-to-hospital-after-court-or": {
-    "firstSeen": "2026-08-20T21:38:11.957Z",
-    "signature": "hospital|khan|pakistan|slam|supreme court",
-    "norm": 78.1
+  "jadavpur-university-on-the-boil-as-supporters-of-abvp-and-sf": {
+    "firstSeen": "2026-08-20T22:39:37.305Z",
+    "signature": "bjp|clash|clash|mla|storm",
+    "norm": 76.8
   },
-  "bank-employee-kills-wife-sister-before-shooting-himself-in-l": {
-    "firstSeen": "2026-08-20T21:38:11.957Z",
-    "signature": "killed|killed|mp|shooting",
-    "norm": 71
+  "vande-mataram-row-amit-shah-asks-people-to-rally-against-con": {
+    "firstSeen": "2026-08-20T22:39:37.305Z",
+    "signature": "amit shah|congress|rally|rally|row",
+    "norm": 69
   },
-  "isis-inspired-woman-charged-over-plot-to-attack-new-york-cap": {
-    "firstSeen": "2026-08-20T21:38:11.957Z",
-    "signature": "attack|attack",
-    "norm": 57.6
+  "supreme-court-scraps-worker-friendly-1978-industry-precedent": {
+    "firstSeen": "2026-08-20T22:39:37.305Z",
+    "signature": "jobs|mp|supreme court|verdict",
+    "norm": 61.4
   },
-  "us-iran-war-brings-air-india-group-s-international-carriage-": {
-    "firstSeen": "2026-08-20T21:38:11.957Z",
-    "signature": "iran|war",
-    "norm": 57.6
+  "tejpal-moves-supreme-court-against-sentence-in-rape-case": {
+    "firstSeen": "2026-08-20T22:39:37.305Z",
+    "signature": "mp|supreme court",
+    "norm": 50.5
   },
-  "for-1st-time-in-a-decade-india-to-import-10-lakh-tonnes-of-s": {
-    "firstSeen": "2026-08-20T21:38:11.957Z",
-    "signature": "lakh|mp",
-    "norm": 53.2
-  },
-  "6-indians-on-board-hijacked-cargo-ship-carrying-turkish-weap": {
-    "firstSeen": "2026-08-20T21:38:11.957Z",
-    "signature": "hijack",
-    "norm": 48.2
-  },
-  "deliveries-at-keralam-s-kozhikode-government-women-and-child": {
-    "firstSeen": "2026-08-20T21:38:11.957Z",
-    "signature": "hospital",
+  "indian-national-on-fbi-most-wanted-list-over-alleged-links-t": {
+    "firstSeen": "2026-08-20T22:39:37.305Z",
+    "signature": "war",
     "norm": 46.3
+  },
+  "tit-for-tat-india-removes-pak-high-commission-queue-liners": {
+    "firstSeen": "2026-08-20T22:39:37.305Z",
+    "signature": "",
+    "norm": 36
+  },
+  "new-uk-govt-booklet-tells-asylum-seekers-rape-and-child-sex-": {
+    "firstSeen": "2026-08-20T22:39:37.305Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
