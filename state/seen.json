@@ -1,141 +1,206 @@
 {
+  "-economic-terrorism-iran-slams-trump-s-warning-to-allies": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "iran|mp|sanction|slam|slams|terror|terror|trump|trump|war|warning",
+    "norm": 98.7
+  },
+  "taxi-drivers-failing-marathi-test-in-maharashtra-receive-sho": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "dead|dead|maharashtra|minister|tax",
+    "norm": 85
+  },
   "sajjan-kumar-former-congress-mp-and-convict-in-1984-anti-sik": {
     "firstSeen": "2026-08-20T08:52:03.834Z",
     "signature": "congress|dead|dead|died|hospital|mp|riot",
-    "norm": 83.6
+    "norm": 82.1
+  },
+  "ex-congress-mp-sajjan-kumar-convicted-in-1984-anti-sikh-riot": {
+    "firstSeen": "2026-08-20T08:52:03.834Z",
+    "signature": "congress|dead|dead|hospital|mp|riot",
+    "norm": 79.8
   },
   "who-was-sajjan-kumar-ex-congress-mp-and-1984-riots-convict": {
     "firstSeen": "2026-08-20T08:52:03.834Z",
     "signature": "congress|dead|dead|hospital|mp|riot",
-    "norm": 81.3
+    "norm": 79.8
   },
-  "sajjan-kumar-dies-in-tihar-from-three-time-congress-mp-to-19": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "congress|died|ipl|mp|riot",
-    "norm": 76.5
+  "under-tile-wires-colour-codes-and-coaching-mafia-anatomy-of-": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "exam|khan|recruitment|scam",
+    "norm": 71.3
   },
-  "-appeasement-partition-mindset-amit-shah-attacks-congress-ov": {
-    "firstSeen": "2026-08-20T07:53:07.376Z",
-    "signature": "amit shah|attack|attack|congress",
-    "norm": 70
+  "delhi-ncr-to-ban-new-petrol-diesel-cng-light-goods-vehicles-": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "diesel|petrol|petrol|poll",
+    "norm": 68
   },
-  "-missed-independence-day-go-to-pakistan-thrissur-school-owne": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "controversy|pakistan|protest|protest",
-    "norm": 66.3
+  "inquiry-causing-delay-in-repatriation-of-tamil-nadu-fisherma": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "iran|minister|mp|result",
+    "norm": 66.6
   },
-  "ex-congress-mp-sajjan-kumar-jailed-in-1984-anti-sikh-riots-c": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "congress|lok sabha|mp|riot",
-    "norm": 63.5
+  "-illiterate-govt-kejriwal-takes-aim-at-centre-over-e20-fuel-": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "fuel|kejriwal|policy|price|prices",
+    "norm": 65.6
   },
   "shigellosis-resurfaces-in-keralam-3-year-old-from-capital-ho": {
     "firstSeen": "2026-08-20T08:52:03.834Z",
     "signature": "hospital|war|warning",
-    "norm": 62.9
+    "norm": 64.5
   },
-  "former-congress-mp-sajjan-kumar-convicted-in-1984-anti-sikh-": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "congress|mp|riot",
-    "norm": 61.4
+  "government-employees-alert-these-key-hr-services-are-now-ava": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "alert|mp|record",
+    "norm": 61.1
   },
-  "patna-high-court-goes-hard-on-noise-pollution": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "accident|high court|poll",
-    "norm": 59.7
+  "us-army-eyes-mobile-k9-howitzer-to-replace-m777-india-too-sh": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "army|war",
+    "norm": 57.1
   },
-  "ex-congress-mp-sajjan-kumar-convicted-in-1984-anti-sikh-riot": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "congress|mp|riot",
-    "norm": 59.7
+  "-only-priyanka-and-i-know-rahul-on-sonia-s-life-after-rajiv-": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "death|mp",
+    "norm": 57.1
   },
-  "uttarakhand-s-garhwal-on-alert-as-rivers-swell-amid-heavy-mo": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "alert|heavy rain|khan",
-    "norm": 59.4
+  "connected-tv-goes-beyond-metros-rural-viewership-surges-110-": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "khan|maharashtra",
+    "norm": 55.7
   },
-  "tarun-tejpal-moves-sc-against-bombay-hc-conviction-10-year-j": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "bomb|high court",
+  "sc-rejects-nia-plea-to-cancel-kabir-talwar-bail-in-3-000kg-m": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "supreme court|war",
     "norm": 55.4
   },
-  "5-year-old-indian-girl-battles-life-threatening-sepsis-after": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "mp|threat",
+  "us-body-seeks-sanctions-on-rss-ahead-of-mohan-bhagwat-s-new-": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "ipl|sanction",
     "norm": 55.4
   },
-  "telangana-minister-s-daughter-challenges-cm-revanth-reddy-wh": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "chief minister|congress|minister",
+  "cisf-intercepts-68-53-lakh-unaccounted-cash-at-delhi-airport": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "lakh|war",
+    "norm": 55.4
+  },
+  "stock-market-live-sensex-gains-500-pts-nifty-smallcap-rises-": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "nifty|sensex|stock market",
     "norm": 52.7
   },
-  "vande-bharat-food-to-be-checked-karnataka-s-crackdown-moves-": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "minister|mp",
+  "annamalai-s-gujarat-company-remark-about-centre-resonates-wi": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "mp|opposition|ruling",
+    "norm": 52.7
+  },
+  "sc-reconstitutes-bench-to-hear-review-pleas-challenging-2022": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "mla|mp|verdict",
+    "norm": 52.7
+  },
+  "man-with-consignment-of-10-illegal-firearms-arrested-by-delh": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "fire|fire",
+    "norm": 52.4
+  },
+  "up-bars-entry-of-youtubers-into-govt-schools-amid-protests-o": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "former-chennai-police-commissioner-a-arun-files-defamation-s": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "crore|video",
+    "norm": 52
+  },
+  "andhra-junior-doctors-cut-stipend-demand-to-20-reject-govern": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "watch-vande-bharat-express-clocks-nearly-100km-h-on-world-s-": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "mp|watch",
-    "norm": 50.2
+  "search-operation-in-j-k-s-kathua-after-suspicious-movement": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "border|mp",
+    "norm": 50.5
   },
-  "bjp-demands-pinarayi-vijayan-s-resignation-as-keralam-opposi": {
-    "firstSeen": "2026-08-20T07:53:07.376Z",
-    "signature": "bjp|opposition",
+  "india-needs-20-reforms-to-become-a-20-trillion-economy-by-20": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "economy|trillion",
     "norm": 48.7
   },
-  "rashtriya-swayamsevak-sangh-a-look-at-its-origins-ideology-a": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
+  "india-japan-sign-maritime-security-pact-to-deepen-defence-co": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "defence|minister",
+    "norm": 48.7
+  },
+  "gloves-paper-left-inside-woman-s-abdomen-after-c-section-at-": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "hospital",
+    "norm": 46.3
+  },
+  "scientists-discovered-four-snakes-curled-together-in-a-burro": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
     "signature": "row",
     "norm": 46.3
   },
-  "hotel-lease-holder-arrested-two-detained-after-kolkata-hotel": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
+  "odisha-forms-inquiry-committee-to-examine-relocation-of-vill": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "exam",
+    "norm": 46.3
+  },
+  "how-delhi-businessman-s-wife-foiled-special-26-style-fake-cb": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
     "signature": "war",
     "norm": 46.3
   },
-  "rss-hits-back-at-ncert-panel-row-says-past-sangh-links-can-t": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "row",
+  "-papa-looking-down-proudly-rahul-priyanka-s-emotional-note-f": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "emotional",
     "norm": 46.3
   },
-  "uscirf-seeks-sanctions-against-rss-no-high-level-meetings-wi": {
-    "firstSeen": "2026-08-20T07:53:07.376Z",
-    "signature": "sanction",
-    "norm": 44
-  },
-  "100-days-of-governments-in-keralam-puducherry-tamil-nadu-and": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "ed-claims-to-have-seized-handwritten-notes-of-veena-relating": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
+  "pm-cares-fund-why-was-it-set-up-and-can-its-money-be-used-to": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
     "signature": "fund",
-    "norm": 44
+    "norm": 45.9
   },
-  "sitharaman-led-ministerial-delegation-meets-singapore-pm-law": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "minister",
-    "norm": 44
+  "the-latest-iphone-18-news-leaks-and-rumors-release-date-pric": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "price",
+    "norm": 45.9
   },
-  "sc-to-hear-review-pleas-against-2022-verdict-upholding-ed-s-": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "verdict",
-    "norm": 44
+  "-homemaker-is-a-gender-neutral-term-what-did-the-karnataka-h": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "high court",
+    "norm": 45.9
   },
-  "-help-us-help-you-karnataka-cm-pitches-mekedatu-project-as-s": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
+  "told-he-had-months-to-live-seattle-shipbuilder-survived-anot": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "pictures",
+    "norm": 40.7
+  },
+  "given-24-hours-to-remove-derogatory-content-on-shirdi-sai-ba": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
     "signature": "",
     "norm": 36
   },
-  "mehul-choksi-s-lawyer-vijay-aggarwal-in-london-jail-charged-": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
+  "dehradun-cave-party-men-with-large-speaker-dance-inside-robb": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
     "signature": "",
     "norm": 33.9
   },
-  "-maha-kumbh-from-space-nasa-astronaut-shares-breathtaking-ph": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
+  "lucknow-banker-kills-wife-outside-her-bank-puts-whatsapp-sta": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "lotteries-for-indiramma-houses-in-hyderabad-from-august-27-d": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "karnataka-govt-cancels-mda-s-50-50-alternative-site-allotmen": {
+    "firstSeen": "2026-08-20T09:46:18.325Z",
     "signature": "",
     "norm": 33.9
   }
