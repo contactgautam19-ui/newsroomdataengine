@@ -1,36 +1,46 @@
 {
-  "jadavpur-university-on-the-boil-as-supporters-of-abvp-and-sf": {
-    "firstSeen": "2026-08-20T22:39:37.305Z",
-    "signature": "bjp|clash|clash|mla|storm",
-    "norm": 76.8
+  "lawyers-stage-protest-outside-bci-office-seek-chairman-s-res": {
+    "firstSeen": "2026-08-20T23:35:42.841Z",
+    "signature": "election|election|protest|protest|row",
+    "norm": 76.3
   },
-  "vande-mataram-row-amit-shah-asks-people-to-rally-against-con": {
-    "firstSeen": "2026-08-20T22:39:37.305Z",
-    "signature": "amit shah|congress|rally|rally|row",
-    "norm": 69
+  "sajjan-kumar-former-congress-mp-convicted-in-anti-sikh-riots": {
+    "firstSeen": "2026-08-20T23:35:42.841Z",
+    "signature": "congress|dead|dead|mp|riot",
+    "norm": 75
   },
-  "supreme-court-scraps-worker-friendly-1978-industry-precedent": {
-    "firstSeen": "2026-08-20T22:39:37.305Z",
-    "signature": "jobs|mp|supreme court|verdict",
-    "norm": 61.4
+  "economic-pressure-a-delicate-dance-against-iran-jd-vance": {
+    "firstSeen": "2026-08-20T23:35:42.841Z",
+    "signature": "attack|attack|iran",
+    "norm": 68
   },
-  "tejpal-moves-supreme-court-against-sentence-in-rape-case": {
-    "firstSeen": "2026-08-20T22:39:37.305Z",
-    "signature": "mp|supreme court",
-    "norm": 50.5
+  "bessent-says-us-will-impose-toughest-ever-sanctions-on-iran-": {
+    "firstSeen": "2026-08-20T23:35:42.841Z",
+    "signature": "china|iran|mp|sanction",
+    "norm": 63.5
   },
-  "indian-national-on-fbi-most-wanted-list-over-alleged-links-t": {
-    "firstSeen": "2026-08-20T22:39:37.305Z",
-    "signature": "war",
-    "norm": 46.3
+  "ex-pak-pm-imran-khan-moved-to-private-hospital-from-prison-a": {
+    "firstSeen": "2026-08-20T23:35:42.841Z",
+    "signature": "hospital|khan",
+    "norm": 55.7
   },
-  "tit-for-tat-india-removes-pak-high-commission-queue-liners": {
-    "firstSeen": "2026-08-20T22:39:37.305Z",
+  "six-indians-among-10-crew-on-cargo-ship-carrying-turkish-wea": {
+    "firstSeen": "2026-08-20T23:35:42.841Z",
+    "signature": "hijack",
+    "norm": 48.2
+  },
+  "use-medical-tourists-money-to-treat-poor-indians-panel": {
+    "firstSeen": "2026-08-20T23:35:42.841Z",
     "signature": "",
     "norm": 36
   },
-  "new-uk-govt-booklet-tells-asylum-seekers-rape-and-child-sex-": {
-    "firstSeen": "2026-08-20T22:39:37.305Z",
+  "61-5-of-women-taking-up-g-ram-g-work-shows-positive-indicato": {
+    "firstSeen": "2026-08-20T23:35:42.841Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "hacker-targets-grand-theft-auto-vi-in-apparent-leak": {
+    "firstSeen": "2026-08-20T23:35:42.841Z",
     "signature": "",
     "norm": 33.9
   }
