@@ -1,191 +1,176 @@
 {
-  "10-injured-as-security-forces-stop-manipur-protest-over-kill": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "hospital|injured|mp|protest|protest",
-    "norm": 76.3
+  "6-year-old-student-slapped-over-homework-dies-after-collapsi": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "collapse|collapse|collapse|dead|dead|died|mp|video",
+    "norm": 89.9
   },
-  "-she-knows-everything-youtuber-pragya-mishra-named-in-killer": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "killed|killed|mp|rbi",
+  "ex-congress-mp-sajjan-kumar-convicted-in-1984-anti-sikh-riot": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "congress|dead|dead|hospital|mp|riot",
+    "norm": 79.8
+  },
+  "life-term-rs-10-lakh-fine-tukaram-mundhe-s-warning-on-edible": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "lakh|mp|war|warning",
     "norm": 75.5
   },
-  "-gen-z-woman-in-viral-ladakh-video-breaks-silence-says-clip-": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "video|viral|viral|viral|viral video",
-    "norm": 74.2
+  "-undermines-efforts-turkey-egypt-qatar-condemn-israeli-strik": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "fire|fire|israel|mp",
+    "norm": 72.9
   },
-  "bnp-s-mirza-fakhrul-islam-alamgir-elected-23rd-president-of-": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "alliance|election|election|opposition|parliament|president|slam|vote",
-    "norm": 73.7
+  "5-year-old-boy-drowns-in-swimming-pool": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "drown|hospital|rescue|rescue|row",
+    "norm": 72.5
   },
-  "-mujhe-behen-samajh-ke-maaf-kar-do-ladakh-we-are-gen-z-touri": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "army|viral|viral|viral",
-    "norm": 71.4
+  "explained-el-nino-s-role-in-europe-s-extreme-summer-heat-and": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "blaze|fire|fire|heatwave|mp",
+    "norm": 70.6
   },
-  "mayiladuthurai-fisherman-injured-in-alleged-shooting-dies-in": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "injured|killed|killed|shooting",
-    "norm": 67.1
+  "india-japan-sign-agreement-to-deepen-maritime-security-ties": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "defence|disaster|rescue|rescue",
+    "norm": 67.9
   },
-  "-jai-jai-modi-har-har-modi-modi-chalisa-event-at-press-club-": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "modi|modi|row",
-    "norm": 66
+  "controversy-erupts-over-cjp-s-abhijit-dipke-s-school-inspect": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "controversy|maharashtra|mp",
+    "norm": 67.6
   },
-  "gadchiroli-mining-project-bombay-hc-asks-petitioner-to-appro": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "bomb|maharashtra|mp",
-    "norm": 66
-  },
-  "d-k-shivakumar-seeks-fairness-for-southern-states-in-devolut": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "chief minister|minister|row|war",
-    "norm": 65
-  },
-  "ukg-student-dies-after-teacher-tries-to-strip-slaps-him-in-v": {
-    "firstSeen": "2026-08-20T11:36:58.021Z",
-    "signature": "cctv|collapse|collapse|collapse|footage",
-    "norm": 64.2
-  },
-  "jagan-dares-government-to-cbi-probe-on-dsc-lokesh-says-he-ca": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "minister|president|prime minister|recruitment",
+  "naidu-calls-for-collective-efforts-to-achieve-10-trillion-so": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "chief minister|economy|minister|trillion",
     "norm": 63.5
   },
-  "sajjan-kumar-from-congress-veteran-to-convict": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "congress|high court|war",
+  "-6-87-crore-worth-assets-unearthed-in-acb-raids-against-tahs": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "crore|gold|lakh",
     "norm": 61.4
   },
-  "no-motive-behind-circular-on-student-participation-in-cjp-le": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "minister|protest|protest",
-    "norm": 61.1
+  "tamil-nadu-cm-vijay-keeps-three-requests-before-home-ministe": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "amit shah|minister|neet",
+    "norm": 61.4
   },
-  "opinion-opinion-an-india-pakistan-war-test-how-far-would-sau": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "alliance|pakistan|war",
+  "veteran-bnp-leader-mirza-alamgir-elected-23rd-president-of-b": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "election|election|president",
+    "norm": 61.4
+  },
+  "north-korea-calls-seoul-us-servant-after-trump-scales-back-m": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "mp|trump|trump",
+    "norm": 61.4
+  },
+  "ladakh-to-get-high-court-bench-as-modi-govt-moves-to-ease-ac": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "high court|modi|modi",
     "norm": 59.7
   },
-  "two-killed-in-bus-mishap-on-mangaluru-bengaluru-highway": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "killed|killed",
+  "-won-t-fall-into-netanyahu-s-trap-turkey-denies-visit-to-syr": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "israel|war",
     "norm": 59.3
   },
-  "all-arrangements-in-place-for-72nd-nehru-trophy-boat-race-in": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "chief minister|minister|star",
-    "norm": 57.9
+  "thou-shalt-not-steal-us-envoy-to-israeli-settlers-on-palesti": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "israel|mp",
+    "norm": 57.1
   },
-  "-may-god-protect-her-youtuber-as-man-kills-sister-mentions-h": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "killed|killed",
-    "norm": 57.6
-  },
-  "marathi-mandatory-for-taxi-auto-drivers-in-maharashtra-licen": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "maharashtra|tax",
+  "why-did-govt-remove-barriers-outside-pakistan-high-commissio": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "pakistan|slam",
     "norm": 55.4
   },
-  "bhutan-nominates-former-election-body-chief-for-saarc-secret": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "election|election",
-    "norm": 55.4
+  "nellore-modernising-46-parks-to-enhance-community-spaces": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "crore|mp",
+    "norm": 55
   },
-  "cpi-m-holds-tamil-nadu-chief-secretary-responsible-for-circu": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
+  "kpms-seeks-govt-intervention-in-malayalam-varsity-stir": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "allow-semester-registration-for-students-covered-under-telan": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
+  "university-of-hyderabad-students-protest-for-epass-scholarsh": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
     "signature": "protest|protest",
-    "norm": 52.4
+    "norm": 54.2
   },
-  "over-90-of-fresh-us-broccoli-comes-from-drought-hit-californ": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "row|threat",
-    "norm": 52.1
+  "sajjan-kumar-death-commissions-committees-that-probed-the-19": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "death|riot",
+    "norm": 53.9
   },
-  "former-chennai-police-commissioner-a-arun-files-defamation-s": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "crore|video",
-    "norm": 52
+  "karnataka-chief-minister-flags-mekedatu-project": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
+  },
+  "kozhikode-gears-up-for-onam-celebrations": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "mla|mp",
+    "norm": 50.5
+  },
+  "amit-shah-s-big-water-promise-to-southern-states-inter-state": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "amit shah|minister",
+    "norm": 50.5
   },
   "-don-t-need-to-take-us-too-seriously-mehbooba-mufti-reacts-t": {
     "firstSeen": "2026-08-20T13:06:56.546Z",
     "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "-khalifa-movie-review-prithviraj-sukumaran-stars-in-a-shoddi": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "movie|star|superstar",
-    "norm": 50.1
-  },
-  "can-parents-evict-children-from-their-property-what-the-supr": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "ruling|supreme court",
     "norm": 48.7
   },
-  "-don-t-daydream-about-my-jawani-kangana-ranaut-hits-back-at-": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
+  "cabinet-clears-jammu-and-kashmir-high-court-bench-for-ladakh": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "cabinet|high court",
+    "norm": 48.7
+  },
+  "specially-abled-man-pushed-off-mumbai-local-dies-accused-say": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
     "signature": "row",
     "norm": 48.2
   },
-  "death-sentence-for-preacher-found-guilty-of-sexually-assault": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "death",
-    "norm": 46.3
+  "telangana-s-proactive-approach-towards-attracting-educationa": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "war",
+    "norm": 48.2
   },
-  "california-teen-finds-blocking-one-pathway-stops-cancer-cell": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "died",
-    "norm": 46.3
-  },
-  "disappointed-dairy-farmers-threaten-to-stop-milk-supply-to-a": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "threat",
-    "norm": 46.3
-  },
-  "delhi-police-bust-interstate-cancer-drug-syndicate-17-arrest": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "crore",
+  "cancellation-of-illegal-site-allotments-by-mda-is-victory-fo": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "bjp",
     "norm": 45.9
   },
-  "cockroaches-in-kitchen-unsafe-food-storage-fda-suspends-food": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
+  "court-upholds-eviction-of-society-from-leased-forest-land-in": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "high court",
+    "norm": 45.9
+  },
+  "india-turns-to-venezuela-as-hormuz-disruptions-put-gulf-oil-": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "-papa-smiling-looking-down-proudly-at-his-beautiful-sonia-ra": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "rahul gandhi",
+  "zomato-now-is-zomato-piloting-food-vending-machines-gurugram": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "human-intuition-isn-t-replaceable-nike-s-deepa-ramprasad-on-": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "mp",
     "norm": 44
   },
-  "opinion-opinion-india-s-upi-miracle-has-created-a-difficult-": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "crore",
-    "norm": 44
+  "us-envoy-sergio-gor-enjoys-river-rafting-at-sangam-on-maiden": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "video",
+    "norm": 40.7
   },
-  "-to-what-extent-can-english-sc-questions-use-of-term-native-": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "policy",
-    "norm": 44
-  },
-  "man-arrested-for-murdering-two-of-his-children-in-shahapur-t": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "",
-    "norm": 36
-  },
-  "7-year-old-gujarat-boy-dies-after-neck-trapped-in-bus-hydrau": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
-    "signature": "",
-    "norm": 36
-  },
-  "on-camera-6-year-old-falls-face-first-dies-after-being-slapp": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
+  "sdpi-leader-booked-for-derogatory-remarks-against-mlc-c-t-ra": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
     "signature": "",
     "norm": 36
   },
@@ -194,17 +179,57 @@
     "signature": "",
     "norm": 36
   },
-  "farmers-welcome-cm-s-stand-on-water-sharing": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
+  "birth-anniversary-of-devaraj-urs-celebrated-in-shivamogga": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "",
+    "norm": 36
+  },
+  "pocso-case-against-kathakali-teacher-in-keralam": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "",
+    "norm": 36
+  },
+  "cancel-all-illegal-allotment-of-mda-sites-under-50-50-ratio-": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "",
+    "norm": 36
+  },
+  "forest-department-plans-to-set-up-integrated-command-and-con": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "",
+    "norm": 36
+  },
+  "inside-orcas-how-150-traders-made-millions-betting-on-us-mil": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "",
+    "norm": 36
+  },
+  "monsoon-shortfall-in-the-nilgiris-exposes-water-stress-in-co": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "",
+    "norm": 36
+  },
+  "karnataka-hc-lifts-travel-restriction-on-nagendra-but-restra": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "",
+    "norm": 36
+  },
+  "india-singapore-sign-pacts-on-telecom-food-security-discuss-": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
+    "signature": "",
+    "norm": 36
+  },
+  "classes-in-cowshed-little-girl-sweeping-other-side-of-school": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
     "signature": "",
     "norm": 33.9
   },
-  "-slim-chances-of-bangladesh-pm-visiting-india-without-mutual": {
-    "firstSeen": "2026-08-20T13:06:56.546Z",
+  "lawyers-group-cjar-seeks-fir-against-justice-yashwant-varma-": {
+    "firstSeen": "2026-08-20T14:49:25.865Z",
     "signature": "",
     "norm": 33.9
   },
-  "three-zebras-arrive-at-keralam-s-thiruvananthapuram-zoo-from": {
+  "on-camera-6-year-old-falls-face-first-dies-after-being-slapp": {
     "firstSeen": "2026-08-20T13:06:56.546Z",
     "signature": "",
     "norm": 33.9
