@@ -1,46 +1,136 @@
 {
-  "-economic-d-day-trump-threatens-tremendous-consequences-for-": {
-    "firstSeen": "2026-08-20T01:47:35.071Z",
-    "signature": "economy|iran|mp|president|threat|trump|trump",
-    "norm": 84.5
+  "-how-long-will-cm-hide-brs-attacks-revanth-reddy-as-congress": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "attack|attack|congress|ipl|minister|mp",
+    "norm": 83.2
   },
-  "us-ambassador-calls-j-k-important-part-of-india-pak-summons-": {
-    "firstSeen": "2026-08-20T01:47:35.071Z",
-    "signature": "chief minister|ipl|minister|mp|protest|protest",
-    "norm": 77.2
+  "trump-admin-tightens-rules-for-refundable-tax-credits-what-i": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "fund|mp|tax|trump|trump",
+    "norm": 73.6
   },
-  "u-p-congress-president-s-whatsapp-blocked-blames-bjp-for-try": {
-    "firstSeen": "2026-08-19T22:36:02.849Z",
-    "signature": "bjp|congress|election|election|opposition|president",
-    "norm": 63.4
+  "oil-price-today-crude-remains-above-90-as-hormuz-operations-": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "investor|iran|mp|price|prices",
+    "norm": 70
   },
-  "bjd-demands-extension-of-claims-and-objections-period-under-": {
-    "firstSeen": "2026-08-20T01:47:35.071Z",
-    "signature": "flood|flood|war",
-    "norm": 63.2
+  "us-debt-tops-40-trillion-20-trillion-since-trump-first-took-": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "mp|trillion|trump|trump",
+    "norm": 69.6
+  },
+  "hyderabad-principal-stabbed-27-times-how-last-babu-call-expo": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "exam|killed|killed",
+    "norm": 68
+  },
+  "from-today-10-uttarakhand-schools-shut-over-rising-dog-attac": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "attack|attack|khan",
+    "norm": 66.3
+  },
+  "-felt-hurt-kharge-says-few-cwc-members-condemned-purificatio": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "congress|protest|protest|row",
+    "norm": 66.3
+  },
+  "mumbai-cybercrime-police-arrest-two-from-bihar-jharkhand-in-": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "khan|lakh|scam",
+    "norm": 64.2
+  },
+  "dea-to-investigate-hayden-panettiere-s-sudden-passing": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "death|mp|sudden|unexpected",
+    "norm": 63.9
+  },
+  "local-body-polls-announced-in-rajasthan-congress-launches-pa": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "congress|election|election|mp|poll",
+    "norm": 62.9
+  },
+  "fatah-3-missile-test-on-cards-buzz-grows-as-pakistan-issues-": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "mp|pakistan|row",
+    "norm": 61.4
+  },
+  "nta-tightens-vetting-rules-for-subject-experts-after-sacking": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "exam|row",
+    "norm": 57.6
+  },
+  "savarkar-defamation-case-plea-in-high-court-accuses-special-": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "high court|war",
+    "norm": 57.1
+  },
+  "kenya-helicopter-crash-kills-7-including-5-americans-ecuador": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "crash|crash",
+    "norm": 55.4
+  },
+  "us-military-newspaper-publisher-quits-amid-pentagon-row-over": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "row|star",
+    "norm": 53.9
+  },
+  "annual-allocation-for-archaeological-excavations-increased-t": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "crore|mp",
+    "norm": 53.2
+  },
+  "-not-a-u-turn-but-calibration-rbi-governor-on-early-closure-": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "governor|rbi",
+    "norm": 53.2
+  },
+  "amit-shah-meets-tamil-nadu-s-vijay-ahead-of-meeting-with-oth": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "amit shah|chief minister|minister",
+    "norm": 52.7
+  },
+  "bjp-chief-nabin-calls-congress-the-new-muslim-league-over-pa": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "bjp|congress|president",
+    "norm": 50.9
   },
   "keralam-opposition-leader-refutes-chief-minister-s-charges-o": {
     "firstSeen": "2026-08-20T01:47:35.071Z",
     "signature": "chief minister|minister|opposition",
-    "norm": 52.7
+    "norm": 50.9
   },
-  "maharashtra-fda-suspends-licences-of-two-online-food-deliver": {
-    "firstSeen": "2026-08-20T01:47:35.071Z",
+  "fda-suspends-license-of-mumbai-s-otters-club-over-analogue-p": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
     "signature": "maharashtra",
-    "norm": 46.3
+    "norm": 48.2
   },
-  "tourist-assaulted-at-pune-fort-over-girl-s-shorts-8-members-": {
-    "firstSeen": "2026-08-20T01:47:35.071Z",
-    "signature": "mp",
+  "tamil-nadu-moves-sc-to-get-centre-s-guidelines-quashed-alleg": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "supreme court",
     "norm": 45.9
   },
-  "cbi-insignia-fake-ids-how-delhi-bizman-s-wife-foiled-special": {
-    "firstSeen": "2026-08-20T01:47:35.071Z",
-    "signature": "",
-    "norm": 36
+  "-if-you-re-loyal-then-why-object-sc-allows-paternity-test-in": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "supreme court",
+    "norm": 45.9
   },
-  "why-is-sadbhavana-diwas-observed-on-august-20-the-rajiv-gand": {
-    "firstSeen": "2026-08-20T01:47:35.071Z",
+  "-those-arrested-are-from-cjp-after-india-crackdown-shahzad-b": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "video",
+    "norm": 42.7
+  },
+  "gave-up-iit-slept-on-roads-how-rajasthan-s-1st-agm-put-udaip": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "no-royal-role-for-sussexes-king-charles-welcomes-harry-megha": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "mahatma-gandhi-s-great-grandson-meets-abhijeet-dipke-says-ge": {
+    "firstSeen": "2026-08-20T03:06:46.333Z",
     "signature": "",
     "norm": 33.9
   }
