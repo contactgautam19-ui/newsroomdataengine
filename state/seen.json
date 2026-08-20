@@ -1,206 +1,211 @@
 {
-  "-economic-terrorism-iran-slams-trump-s-warning-to-allies": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "iran|mp|sanction|slam|slams|terror|terror|trump|trump|war|warning",
-    "norm": 98.7
+  "-i-killed-my-wife-sbi-employee-shoots-dead-spouse-outside-ba": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "dead|dead|killed|killed|mp",
+    "norm": 75.9
   },
-  "taxi-drivers-failing-marathi-test-in-maharashtra-receive-sho": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "dead|dead|maharashtra|minister|tax",
-    "norm": 85
+  "assam-sivasagar-rebuilds-a-month-after-the-floods-but-fear-r": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "died|disaster|fear|flood|flood|floods",
+    "norm": 75.8
   },
-  "sajjan-kumar-former-congress-mp-and-convict-in-1984-anti-sik": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "congress|dead|dead|died|hospital|mp|riot",
-    "norm": 82.1
-  },
-  "ex-congress-mp-sajjan-kumar-convicted-in-1984-anti-sikh-riot": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "congress|dead|dead|hospital|mp|riot",
-    "norm": 79.8
-  },
-  "who-was-sajjan-kumar-ex-congress-mp-and-1984-riots-convict": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "congress|dead|dead|hospital|mp|riot",
-    "norm": 79.8
+  "-rss-believes-it-knows-the-truth-for-everyone-rahul-attacks-": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "attack|attack|congress|war",
+    "norm": 71
   },
   "under-tile-wires-colour-codes-and-coaching-mafia-anatomy-of-": {
     "firstSeen": "2026-08-20T09:46:18.325Z",
     "signature": "exam|khan|recruitment|scam",
-    "norm": 71.3
+    "norm": 69.7
   },
-  "delhi-ncr-to-ban-new-petrol-diesel-cng-light-goods-vehicles-": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "diesel|petrol|petrol|poll",
-    "norm": 68
+  "mumbai-woman-hires-house-help-for-rs-3-lakh-to-kill-daughter": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "accident|died|lakh",
+    "norm": 67.6
   },
-  "inquiry-causing-delay-in-repatriation-of-tamil-nadu-fisherma": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "iran|minister|mp|result",
-    "norm": 66.6
+  "-jai-jai-modi-har-har-modi-modi-chalisa-event-at-press-club-": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "modi|modi|row",
+    "norm": 67.6
   },
-  "-illiterate-govt-kejriwal-takes-aim-at-centre-over-e20-fuel-": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "fuel|kejriwal|policy|price|prices",
-    "norm": 65.6
+  "google-s-spirit-airlines-email-deal-faces-obstacle-from-flig": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "acquisition|deal|mp|record",
+    "norm": 64.9
   },
-  "shigellosis-resurfaces-in-keralam-3-year-old-from-capital-ho": {
-    "firstSeen": "2026-08-20T08:52:03.834Z",
-    "signature": "hospital|war|warning",
-    "norm": 64.5
+  "sajjan-kumar-former-congress-mp-convicted-in-anti-sikh-riots": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "congress|high court|mp|riot",
+    "norm": 61.8
   },
-  "government-employees-alert-these-key-hr-services-are-now-ava": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "alert|mp|record",
+  "who-was-sajjan-kumar-from-3-time-congress-mp-to-1984-riots-c": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "congress|mp|riot",
+    "norm": 61.4
+  },
+  "southern-zonal-council-meet-tamil-nadu-cm-vijay-seeks-fair-e": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "amit shah|minister|row",
+    "norm": 61.4
+  },
+  "no-motive-behind-circular-on-student-participation-in-cjp-le": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "minister|protest|protest",
     "norm": 61.1
   },
-  "us-army-eyes-mobile-k9-howitzer-to-replace-m777-india-too-sh": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "army|war",
+  "google-ceo-shares-photos-in-honor-of-world-photography-day-t": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "mp|photos|war",
+    "norm": 61.1
+  },
+  "prakash-raj-says-end-of-fascists-is-closing-hails-youth-acti": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "actor|protest|protest",
+    "norm": 59.7
+  },
+  "bhubaneswar-drivers-protest-113-arrested-354-vehicles-seized": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "protest|protest|war",
+    "norm": 59.6
+  },
+  "back-to-back-floods-how-a-relentless-monsoon-is-testing-odis": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "flood|flood|floods",
+    "norm": 57.9
+  },
+  "mother-baby-found-dead-in-alur-in-hassan-district-of-karnata": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "dead|dead",
+    "norm": 57.6
+  },
+  "bank-employee-kills-wife-sister-before-shooting-self-in-luck": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "mp|shooting",
     "norm": 57.1
   },
-  "-only-priyanka-and-i-know-rahul-on-sonia-s-life-after-rajiv-": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "death|mp",
+  "-can-see-papa-looking-down-proudly-rahul-gandhi-priyanka-sha": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "emotional|rahul gandhi",
     "norm": 57.1
   },
-  "connected-tv-goes-beyond-metros-rural-viewership-surges-110-": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "khan|maharashtra",
+  "four-higher-education-bills-passed-in-andhra-assembly-land-n": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "bill|recruitment",
+    "norm": 57.1
+  },
+  "jharkhand-hc-stays-soren-govt-s-decision-to-cancel-jssc-jpsc": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "exam|khan",
     "norm": 55.7
   },
-  "sc-rejects-nia-plea-to-cancel-kabir-talwar-bail-in-3-000kg-m": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "supreme court|war",
+  "papa-looking-down-proudly-at-his-beautiful-sonia-rahul-s-emo": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "emotional|rahul gandhi",
     "norm": 55.4
   },
-  "us-body-seeks-sanctions-on-rss-ahead-of-mohan-bhagwat-s-new-": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "ipl|sanction",
+  "special-26-style-fake-cbi-raid-attempt-in-delhi-suspects-fle": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "mp|war",
     "norm": 55.4
   },
-  "cisf-intercepts-68-53-lakh-unaccounted-cash-at-delhi-airport": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "lakh|war",
+  "-she-cheated-on-me-sbi-banker-kills-wife-sister-posts-chilli": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "mp|tragic",
     "norm": 55.4
   },
-  "stock-market-live-sensex-gains-500-pts-nifty-smallcap-rises-": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "nifty|sensex|stock market",
+  "bjp-disrupts-karnataka-assembly-demanding-list-of-drought-hi": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "bjp|cabinet|opposition",
     "norm": 52.7
   },
-  "annamalai-s-gujarat-company-remark-about-centre-resonates-wi": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "mp|opposition|ruling",
+  "amit-shah-says-congress-s-decision-on-rendering-first-two-st": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "amit shah|congress|minister",
     "norm": 52.7
   },
-  "sc-reconstitutes-bench-to-hear-review-pleas-challenging-2022": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "mla|mp|verdict",
-    "norm": 52.7
-  },
-  "man-with-consignment-of-10-illegal-firearms-arrested-by-delh": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "fire|fire",
-    "norm": 52.4
-  },
-  "up-bars-entry-of-youtubers-into-govt-schools-amid-protests-o": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
+  "cpi-m-holds-tamil-nadu-chief-secretary-responsible-for-circu": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "former-chennai-police-commissioner-a-arun-files-defamation-s": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "crore|video",
-    "norm": 52
+  "ncert-panel-row-professional-merit-at-core-needless-controve": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "controversy|row",
+    "norm": 52.1
   },
-  "andhra-junior-doctors-cut-stipend-demand-to-20-reject-govern": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
+  "telangana-congress-rift-widens-konda-sushmita-defends-remark": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "chief minister|congress|minister|opposition",
+    "norm": 52.1
   },
-  "search-operation-in-j-k-s-kathua-after-suspicious-movement": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "border|mp",
-    "norm": 50.5
-  },
-  "india-needs-20-reforms-to-become-a-20-trillion-economy-by-20": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "economy|trillion",
+  "bjp-demands-pinarayi-vijayan-s-resignation-as-keralam-opposi": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "bjp|opposition",
     "norm": 48.7
   },
-  "india-japan-sign-maritime-security-pact-to-deepen-defence-co": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "defence|minister",
-    "norm": 48.7
-  },
-  "gloves-paper-left-inside-woman-s-abdomen-after-c-section-at-": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
+  "deliveries-at-keralam-s-kozhikode-government-women-and-child": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
     "signature": "hospital",
-    "norm": 46.3
+    "norm": 48.2
   },
-  "scientists-discovered-four-snakes-curled-together-in-a-burro": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "odisha-forms-inquiry-committee-to-examine-relocation-of-vill": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "exam",
-    "norm": 46.3
-  },
-  "how-delhi-businessman-s-wife-foiled-special-26-style-fake-cb": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "-papa-looking-down-proudly-rahul-priyanka-s-emotional-note-f": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "emotional",
-    "norm": 46.3
-  },
-  "pm-cares-fund-why-was-it-set-up-and-can-its-money-be-used-to": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "fund",
+  "pension-income-ceiling-enhanced-to-1-20-lakh-set-to-benefit-": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "lakh",
     "norm": 45.9
   },
-  "the-latest-iphone-18-news-leaks-and-rumors-release-date-pric": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "price",
+  "singapore-pm-lawrence-wong-meets-sitharaman-led-ministerial-": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "-homemaker-is-a-gender-neutral-term-what-did-the-karnataka-h": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
+  "niva-bupa-barred-from-opening-new-branches-for-six-months-ov": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "muttil-tree-felling-case-kerala-high-court-dismisses-roji-au": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
     "signature": "high court",
     "norm": 45.9
   },
-  "told-he-had-months-to-live-seattle-shipbuilder-survived-anot": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
-    "signature": "pictures",
-    "norm": 40.7
+  "china-puts-robocops-on-traffic-duty-a-superman-robot-claims-": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "china",
+    "norm": 44
   },
-  "given-24-hours-to-remove-derogatory-content-on-shirdi-sai-ba": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
+  "bwf-worlds-treesa-gayatri-stun-7th-seeds-to-reach-quarters-m": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "sbi-employee-shoots-wife-outside-icici-bank-in-lucknow-kills": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "ready-to-give-all-water-to-tamil-nadu-from-new-dam-at-mullap": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
     "signature": "",
     "norm": 36
   },
-  "dehradun-cave-party-men-with-large-speaker-dance-inside-robb": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
+  "tamil-nadu-cm-vijay-extends-greetings-on-world-photography-d": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
     "signature": "",
     "norm": 33.9
   },
-  "lucknow-banker-kills-wife-outside-her-bank-puts-whatsapp-sta": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
+  "dvac-conducts-searches-in-eb-offices-in-tamil-nadu": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
     "signature": "",
     "norm": 33.9
   },
-  "lotteries-for-indiramma-houses-in-hyderabad-from-august-27-d": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
+  "crpf-forms-core-group-of-top-officers-to-prevent-suicides-in": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
     "signature": "",
     "norm": 33.9
   },
-  "karnataka-govt-cancels-mda-s-50-50-alternative-site-allotmen": {
-    "firstSeen": "2026-08-20T09:46:18.325Z",
+  "-my-best-shot-nasa-astronaut-shares-image-of-2025-maha-kumbh": {
+    "firstSeen": "2026-08-20T10:41:53.920Z",
     "signature": "",
     "norm": 33.9
   }
