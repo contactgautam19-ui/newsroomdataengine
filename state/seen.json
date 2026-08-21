@@ -1,202 +1,262 @@
 {
-  "labourer-dead-3-injured-after-building-collapsed-in-delhi-s-": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "building collapse|collapse|collapse|collapse|dead|dead|injured|sudden|suddenly",
-    "norm": 82.6
+  "rajasthan-college-principal-apologises-amid-row-over-student": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "fire|fire|protest|protest|row|video|viral|viral|viral",
+    "norm": 84.9
   },
-  "-you-have-48-hours-cjp-gives-ultimatum-to-rajasthan-educatio": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "attack|attack|minister|war|warning",
-    "norm": 77.5
+  "saudel-set-to-turn-super-typhoon-with-220-kmph-winds-why-ind": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "cyclone|mp|storm|war|watch",
+    "norm": 77.8
   },
-  "kareena-kapoor-s-team-responds-after-video-sparked-3rd-child": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "khan|video|viral|viral|viral|viral video",
-    "norm": 77.5
+  "-posturing-not-advocacy-smriti-irani-slams-rahul-gandhi-s-fi": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "bjp|iran|rahul gandhi|slam|slams",
+    "norm": 75
   },
-  "jadavpur-university-files-police-complaints-over-campus-viol": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "crowd|fire|fire|mp|row",
-    "norm": 74
+  "congress-seeks-review-of-e20-policy-non-ethanol-petrol-optio": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "congress|petrol|petrol|policy|price",
+    "norm": 72
   },
-  "bihar-police-issues-advisory-on-rifle-use-after-ak-47-fired-": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "crowd|fire|fire|protest|protest|row",
-    "norm": 73.9
+  "ruling-and-opposition-parties-protest-outside-vidhan-soudha-": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "bjp|congress|minister|opposition|protest|protest|ruling",
+    "norm": 70.5
   },
-  "-rahul-gandhi-tossing-toffees-smriti-irani-to-ndtv-on-pellet": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "iran|protest|protest|rahul gandhi",
-    "norm": 72.9
+  "report-abnormal-population-growth-in-border-areas-shah-to-sp": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "actor|amit shah|border|minister|row",
+    "norm": 70.3
   },
-  "-no-use-of-cockroach-bjp-s-jibe-after-cjp-team-attacked-in-j": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "attack|attack|bjp|mla",
-    "norm": 71.6
+  "lop-rahul-gandhi-s-dharna-works-delhi-police-to-register-fir": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "mp|opposition|parliament|protest|protest|rahul gandhi",
+    "norm": 70
   },
-  "apple-fires-entire-vr-team-as-john-ternus-takes-over-as-ceo-": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "fire|fire|mp|war",
-    "norm": 71.4
+  "delhi-police-to-register-fir-over-pellet-injuries-to-youth-d": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "congress|parliament|protest|protest|rahul gandhi",
+    "norm": 69
   },
-  "rahul-gandhi-dharna-in-delhi-live-new-delhi-dcp-says-complai": {
-    "firstSeen": "2026-08-21T10:41:57.768Z",
-    "signature": "congress|mp|protest|protest|rahul gandhi",
-    "norm": 67.3
+  "delhi-police-registers-fir-in-pellet-gun-case-after-rahul-ga": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "mp|parliament|protest|protest|rahul gandhi",
+    "norm": 69
   },
-  "-pleaded-with-her-amit-shah-slams-mamata-banerjee-over-borde": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "amit shah|border|mamata|slam|slams",
-    "norm": 67
+  "-why-silent-on-telangana-police-brutality-kavitha-questions-": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "brutal|protest|protest|rahul gandhi|video",
+    "norm": 69
   },
-  "why-staging-of-a-play-on-snehalatha-reddy-s-ordeal-has-spark": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "deal|terror|terror",
+  "rahul-gandhi-dharna-in-delhi-live-delhi-police-to-register-f": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "congress|protest|protest|rahul gandhi",
+    "norm": 66.9
+  },
+  "-better-to-end-while-in-position-of-power-iran-president-on-": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "iran|president|war",
     "norm": 66
   },
-  "-rotten-tomato-beatings-wedding-night-conditions-youtuber-pr": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "shock|shock|shocking|wedding",
-    "norm": 65
+  "cyberabad-police-cite-assessment-legal-provisions-to-clarify": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "crash|crash|mp",
+    "norm": 65.6
   },
-  "-health-issues-due-to-isolation-what-imran-khan-told-sister-": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "hospital|khan|slam",
-    "norm": 64.6
+  "2-teens-drown-while-swimming-in-water-tank-at-mumbai-cattle-": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "died|drown|row|war",
+    "norm": 65.5
   },
-  "-don-t-know-if-she-s-dead-mumbai-boy-stabs-woman-confesses-o": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "dead|dead|threat",
-    "norm": 64.5
+  "rahul-gandhi-dharna-police-register-fir-on-protester-s-pelle": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "mp|protest|protest|rahul gandhi",
+    "norm": 65.3
   },
-  "from-heroin-trail-to-phone-signal-how-probe-agency-caught-j-": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "row|terror|terror",
+  "mohandas-pai-slams-abhijeet-dipke-over-school-inspection-tre": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "controversy|mp|slam|slams",
+    "norm": 63.4
+  },
+  "-iran-should-end-war-now-what-triggered-prez-pezeshkian-s-su": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "iran|surprise|war",
+    "norm": 63.2
+  },
+  "teacher-arrested-after-girl-14-dies-on-way-to-terminate-preg": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "died|hospital|war",
     "norm": 62.9
   },
-  "-programme-not-appropriate-mea-on-rejecting-clearance-for-re": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "chief minister|minister|result",
+  "health-minister-jp-nadda-reviews-preparedness-as-delhi-sees-": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "hospital|minister|record",
+    "norm": 62.8
+  },
+  "why-are-close-to-1-08-crore-voters-staring-at-mass-exclusion": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "crore|star|vote",
+    "norm": 62.1
+  },
+  "udf-government-in-keralam-functioning-under-influence-of-ext": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "bjp|exam|mp",
+    "norm": 61.4
+  },
+  "-500-jagged-hot-iron-balls-piercing-the-flesh-in-one-shot-wh": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "protest|protest|rahul gandhi",
+    "norm": 61.1
+  },
+  "1937-vs-2026-why-tagore-s-89-year-old-advice-holds-key-to-co": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "bjp|congress|war",
     "norm": 59.7
   },
-  "-pr-exposed-on-camera-bjp-alleges-congress-paying-influencer": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
+  "sugar-price-hike-govt-rejects-ethanol-link-cites-low-output-": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "mp|price|prices",
+    "norm": 59.3
+  },
+  "why-short-range-ballistic-missiles-are-the-new-weapon-of-cho": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "iran|war",
+    "norm": 57.6
+  },
+  "-proportionate-action-india-on-removing-barricades-outside-p": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "pakistan|slam",
+    "norm": 57.1
+  },
+  "supreme-court-lauds-scrapped-mgnrega-scheme-calls-it-neither": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "exam|supreme court",
+    "norm": 57.1
+  },
+  "supreme-court-dismisses-pil-petition-that-challenged-death-b": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "death|supreme court",
+    "norm": 57.1
+  },
+  "rs-25-000-for-attending-rahul-gandhi-event-bjp-shares-video-": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
     "signature": "bjp|congress|rahul gandhi|video",
     "norm": 56.9
   },
-  "who-had-final-say-on-ram-mandir-construction-champat-rai-s-3": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "mp|ram mandir",
+  "tamil-nadu-preacher-gets-4-death-sentences-for-assaulting-4-": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "death|mp",
     "norm": 55.4
   },
-  "sajjan-kumar-death-commissions-committees-that-probed-the-19": {
-    "firstSeen": "2026-08-21T10:41:57.768Z",
-    "signature": "death|died|riot",
-    "norm": 54.9
+  "home-filmed-without-my-consent-cjp-spokesperson-saurav-das": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "film|mp",
+    "norm": 53.5
   },
-  "meghalaya-hc-steps-in-after-ksu-rally-violence-seeks-action-": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "border|rally|rally",
-    "norm": 54.7
-  },
-  "visakhapatnam-hosts-brics-youth-and-sports-ministers-meeting": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "brics|chief minister|minister",
+  "yogi-adityanath-govt-provides-bulletproof-jackets-to-akhiles": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "minister|poll|yogi",
     "norm": 52.7
   },
-  "supreme-court-sets-aside-order-allowing-dayanidhi-maran-s-pl": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "high court|mp|supreme court",
-    "norm": 52.7
+  "delhi-police-to-file-fir-after-rahul-gandhi-s-dharna-over-st": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "lok sabha|mp|opposition|parliament|rahul gandhi",
+    "norm": 52.6
   },
-  "-reservation-hatao-protest-underway-at-ramlila-ground-after-": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "sowcar-janaki-the-versatile-face-of-tamil-cinema-known-for-m": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "actor|fan|film",
+    "norm": 50.1
   },
-  "-jantar-mantar-protests-reflect-system-failure-not-just-corr": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "cjp-s-saurav-das-in-delhi-hc-for-action-against-mitra-for-pu": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "footage|record",
+    "norm": 49
   },
-  "india-won-t-be-safe-till-its-borders-are-secure-amit-shah-in": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "amit shah|border|mamata|minister",
-    "norm": 52.1
-  },
-  "madras-high-court-campus-does-not-face-power-disruption-even": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "high court|mp|sanction",
-    "norm": 50.9
-  },
-  "southern-states-deserve-fairer-share-of-national-wealth-base": {
-    "firstSeen": "2026-08-21T09:48:53.172Z",
-    "signature": "chief minister|minister",
+  "fir-filed-in-pellet-gun-case-after-rahul-gandhi-s-sit-in-sou": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "mp|rahul gandhi",
     "norm": 48.7
   },
-  "veteran-actor-sowcar-janaki-passes-away-at-94": {
-    "firstSeen": "2026-08-21T09:48:53.172Z",
-    "signature": "actor|film",
+  "centre-says-rise-in-sugar-prices-cannot-be-attributed-to-eth": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "price|prices",
+    "norm": 48.7
+  },
+  "two-tankers-with-22-indians-on-board-hijacked-by-pirates-off": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "hijack",
+    "norm": 48.2
+  },
+  "2-ships-with-22-indians-hijacked-by-armed-pirates-off-yemen-": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "hijack",
     "norm": 46.3
   },
-  "three-elephant-deaths-in-10-days-in-nilgiris-not-caused-by-l": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "death",
+  "floating-louisiana-house-built-for-duck-season-hits-market-f": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "upsc",
     "norm": 46.3
   },
-  "vande-mataram-full-6-stanzas-amid-sharmila-tagore-kangana-ra": {
-    "firstSeen": "2026-08-21T10:41:57.768Z",
-    "signature": "controversy",
-    "norm": 46.3
-  },
-  "karnataka-woman-kidnapped-outside-home-by-4-men-raped-and-mu": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "mp",
+  "congress-leader-objects-to-eviction-of-street-vendors-withou": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "congress",
     "norm": 45.9
-  },
-  "-proportionate-response-mea-on-bulldozer-action-outside-paki": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "pakistan",
-    "norm": 44
-  },
-  "ration-shop-employees-complain-about-glitches-in-pos-devices": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "madhya-pradesh-cop-suspended-for-land-deal-to-help-murder-ac": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
-    "signature": "deal",
-    "norm": 44
   },
   "ap-mp-s-son-booked-after-aston-martin-fatally-hits-woman-in-": {
     "firstSeen": "2026-08-21T11:36:05.297Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "keralam-s-lok-bhavan-names-new-library-after-thunchathu-ezhu": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "governor",
+    "norm": 45.9
+  },
+  "brahmos-after-op-sindoor-why-more-countries-are-lining-up-fo": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "deal",
     "norm": 44
   },
-  "opinion-koreel-lahiri-decodes-the-one-identity-of-ndtv-it-s-": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
+  "-biased-peddling-own-agenda-govt-hits-back-at-us-religious-f": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "sanction",
+    "norm": 44
+  },
+  "on-world-photography-day-vijay-steps-behind-the-camera-to-ca": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "watch",
+    "norm": 42.7
+  },
+  "sainik-school-kalikiri-celebrates-12th-raising-day": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
     "signature": "",
     "norm": 36
   },
-  "mark-zuckerberg-s-latest-estate-meta-owner-buys-35-m-irish-c": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
+  "eravipuram-railway-station-development-works-to-finish-by-ja": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "mea-on-no-permit-for-telangana-cm-revanth-reddy-s-us-trip-ev": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
+  "cjp-s-saurav-das-alleges-intimidation-by-puducherry-police-o": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "keralam-archaeology-department-to-restore-seven-megalithic-u": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
+  "digitising-kannada-a-work-in-progress": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "screams-body-on-road-moment-after-aston-martin-runs-over-hyd": {
-    "firstSeen": "2026-08-21T11:36:05.297Z",
+  "-programme-was-not-appropriate-centre-on-denial-of-revanth-r": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
+  },
+  "sc-scraps-sad-chief-badal-s-plea-to-quash-2017-defamation-ca": {
+    "firstSeen": "2026-08-21T13:05:55.151Z",
+    "signature": "",
+    "norm": 36
   }
 }
