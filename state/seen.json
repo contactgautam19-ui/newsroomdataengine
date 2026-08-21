@@ -1,62 +1,192 @@
 {
-  "rajya-sabha-member-s-son-in-soup-after-aston-martin-crash-ki": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
-    "signature": "crash|crash|killed|killed|mp|rajya sabha|rbi",
-    "norm": 87.8
+  "rpg-fire-panic-on-deck-seafarers-union-shares-video-of-irgc-": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "attack|attack|fire|fire|footage|panic|video",
+    "norm": 77.2
   },
-  "congress-mlas-boycott-first-day-s-proceedings-at-rajasthan-a": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
-    "signature": "congress|minister|mla|protest|protest|war",
-    "norm": 73.9
+  "watch-moment-mmrda-crane-collapses-on-kurla-railway-line-2-i": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "collapse|collapse|collapse|fear|injured|watch",
+    "norm": 76.3
   },
-  "bjp-mla-jai-devi-kaushal-alleges-caste-discrimination-at-utt": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
-    "signature": "bjp|chief minister|minister|mla|modi|modi|mp|prime minister|yogi",
-    "norm": 65.5
+  "stock-market-live-updates-sensex-today-markets-likely-to-ope": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "iran|nifty|price|prices|sanction|sensex|stock market",
+    "norm": 73.1
   },
-  "manifesting-modi-s-mantra-in-muzaffarnagar": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
-    "signature": "modi|modi|mp",
-    "norm": 61.4
+  "rahul-gandhi-suggests-4-steps-for-cong-ruled-states-in-educa": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "bill|chief minister|congress|exam|lok sabha|minister|opposition|rahul gandhi|rohit",
+    "norm": 72.1
   },
-  "tharoor-calls-new-parliament-building-soulless-conference-ce": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
-    "signature": "congress|mp|parliament",
-    "norm": 52.7
+  "us-vows-toughest-ever-iran-sanctions-presses-china-to-help-r": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "china|ipl|iran|sanction|unprecedented",
+    "norm": 70.4
   },
-  "1984-anti-sikh-riot-survivors-feel-sajjan-kumar-evaded-justi": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
-    "signature": "death|riot",
-    "norm": 52.1
+  "jadavpur-university-logo-damaged-in-kolkata-campus-after-abv": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "clash|clash|mp|protest|protest",
+    "norm": 69
+  },
+  "jailed-pakistan-ex-pm-imran-khan-moved-to-hospital-after-cou": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "hospital|khan|pakistan",
+    "norm": 66.9
+  },
+  "hc-reserves-order-on-plea-by-siddaramaiah-dks-seeking-to-qua": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "chief minister|congress|election|election|high court|minister",
+    "norm": 65.1
+  },
+  "west-asia-live-u-s-says-it-will-impose-toughest-sanctions-in": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "iran|mp|sanction",
+    "norm": 64.2
+  },
+  "burqa-clad-women-steal-1-5-kgs-gold-worth-crores-from-jewelr": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "ayodhya|crore|gold|maharashtra",
+    "norm": 63.4
+  },
+  "local-body-polls-announced-in-rajasthan-congress-launches-pa": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "congress|election|election|mp|poll",
+    "norm": 62.9
+  },
+  "vijay-skips-mention-of-resolution-seeking-to-freeze-lok-sabh": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "chief minister|lok sabha|minister|row",
+    "norm": 61.8
+  },
+  "manifesting-modi-mantra-in-muzaffarnagar": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "modi|modi",
+    "norm": 60
+  },
+  "bombay-high-court-refuses-to-condone-650-day-delay-in-appeal": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "bomb|high court",
+    "norm": 60
+  },
+  "government-allows-duty-free-import-of-10-lakh-tonnes-of-raw-": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "lakh|mp|price|prices",
+    "norm": 59.7
+  },
+  "congress-ruled-karnataka-kerala-telangana-to-challenge-new-m": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "congress|mp|supreme court|tax",
+    "norm": 59.7
+  },
+  "delhi-ncr-sees-sharp-rise-in-h1n1-and-dengue-cases-what-doct": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "war|warning",
+    "norm": 57.6
+  },
+  "8-on-board-as-twin-engine-cessna-charter-plane-crashes-in-re": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "crash|crash",
+    "norm": 57.1
+  },
+  "magnitude-6-7-earthquake-shakes-peru-southern-andes-usgs-say": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "earthquake|earthquake",
+    "norm": 57.1
+  },
+  "-state-to-recommend-rejection-of-draft-on-kasturirangan-repo": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "iran|minister",
+    "norm": 57.1
+  },
+  "-sab-ulta-ho-gaya-shehzad-poonawalla-claims-congress-paying-": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "bjp|congress",
+    "norm": 50.5
   },
   "speeding-aston-martin-kills-26-year-old-woman-in-hyderabad-r": {
     "firstSeen": "2026-08-21T01:53:26.775Z",
     "signature": "mp|rajya sabha",
     "norm": 50.5
   },
-  "in-pulwama-cricket-heals-wounds-of-the-past": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
-    "signature": "cricket",
+  "igel-brings-now-next-workspace-endpoint-security-summit-to-m": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "summit",
+    "norm": 49
+  },
+  "oppn-calls-out-govt-on-agniveer-jobs": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "jobs",
+    "norm": 49
+  },
+  "beyond-the-rss-abvp-links-controversy-how-ncert-s-new-politi": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "controversy",
     "norm": 48.2
   },
-  "-designed-to-be-fair-nta-defends-rs-200-fee-on-answer-key-am": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
-    "signature": "exam",
-    "norm": 46.3
-  },
-  "two-vessels-with-22-indians-on-board-hijacked-by-pirates-nea": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
+  "6-indians-onboard-hijacked-cargo-ship-carrying-turkish-weapo": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
     "signature": "hijack",
-    "norm": 46.3
+    "norm": 48.2
   },
-  "sc-faults-up-gangsters-act-says-it-is-prone-to-misuse": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
-    "signature": "gst",
-    "norm": 44
+  "at-least-10-injured-after-crane-falls-on-railway-ohe-in-mumb": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "injured",
+    "norm": 48.2
   },
-  "delhi-ncr-sees-rise-in-swine-flu-other-respiratory-infection": {
-    "firstSeen": "2026-08-21T01:53:26.775Z",
+  "officials-crack-down-on-illegal-chemical-banana-ripening-uni": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "ipl",
+    "norm": 48.2
+  },
+  "-2026-regulations-are-being-reconsidered-centre-tells-sc-on-": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "black-dust-chokes-lives-in-visakhapatnam": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 39.4
+  },
+  "kept-in-dark-about-power-project-villagers": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "nagaworld-earns-great-place-to-work-certification-in-2026-wi": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "centre-holds-national-workshop-to-strengthen-capacity-buildi": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "partnership-in-crime-incubated-behind-bars-in-telangana": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "",
+    "norm": 36
+  },
+  "govt-hands-over-illegal-drug-racket-case-to-sit": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "",
+    "norm": 36
+  },
+  "if-i-were-pm-my-independence-day-speech-breaking-views-rajde": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "",
+    "norm": 36
+  },
+  "plum-redevpt-project-in-kurla-under-scanner": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "",
+    "norm": 36
+  },
+  "pouring-concrete-in-city-lungs": {
+    "firstSeen": "2026-08-21T03:12:31.768Z",
+    "signature": "",
+    "norm": 36
   }
 }
