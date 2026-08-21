@@ -1,46 +1,61 @@
 {
-  "lawyers-stage-protest-outside-bci-office-seek-chairman-s-res": {
-    "firstSeen": "2026-08-20T23:35:42.841Z",
-    "signature": "election|election|protest|protest|row",
-    "norm": 76.3
+  "rajya-sabha-member-s-son-in-soup-after-aston-martin-crash-ki": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "crash|crash|killed|killed|mp|rajya sabha|rbi",
+    "norm": 87.8
   },
-  "sajjan-kumar-former-congress-mp-convicted-in-anti-sikh-riots": {
-    "firstSeen": "2026-08-20T23:35:42.841Z",
-    "signature": "congress|dead|dead|mp|riot",
-    "norm": 75
+  "congress-mlas-boycott-first-day-s-proceedings-at-rajasthan-a": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "congress|minister|mla|protest|protest|war",
+    "norm": 73.9
   },
-  "economic-pressure-a-delicate-dance-against-iran-jd-vance": {
-    "firstSeen": "2026-08-20T23:35:42.841Z",
-    "signature": "attack|attack|iran",
-    "norm": 68
+  "bjp-mla-jai-devi-kaushal-alleges-caste-discrimination-at-utt": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "bjp|chief minister|minister|mla|modi|modi|mp|prime minister|yogi",
+    "norm": 65.5
   },
-  "bessent-says-us-will-impose-toughest-ever-sanctions-on-iran-": {
-    "firstSeen": "2026-08-20T23:35:42.841Z",
-    "signature": "china|iran|mp|sanction",
-    "norm": 63.5
+  "manifesting-modi-s-mantra-in-muzaffarnagar": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "modi|modi|mp",
+    "norm": 61.4
   },
-  "ex-pak-pm-imran-khan-moved-to-private-hospital-from-prison-a": {
-    "firstSeen": "2026-08-20T23:35:42.841Z",
-    "signature": "hospital|khan",
-    "norm": 55.7
+  "tharoor-calls-new-parliament-building-soulless-conference-ce": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "congress|mp|parliament",
+    "norm": 52.7
   },
-  "six-indians-among-10-crew-on-cargo-ship-carrying-turkish-wea": {
-    "firstSeen": "2026-08-20T23:35:42.841Z",
-    "signature": "hijack",
+  "1984-anti-sikh-riot-survivors-feel-sajjan-kumar-evaded-justi": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "death|riot",
+    "norm": 52.1
+  },
+  "speeding-aston-martin-kills-26-year-old-woman-in-hyderabad-r": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "mp|rajya sabha",
+    "norm": 50.5
+  },
+  "in-pulwama-cricket-heals-wounds-of-the-past": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "cricket",
     "norm": 48.2
   },
-  "use-medical-tourists-money-to-treat-poor-indians-panel": {
-    "firstSeen": "2026-08-20T23:35:42.841Z",
-    "signature": "",
-    "norm": 36
+  "-designed-to-be-fair-nta-defends-rs-200-fee-on-answer-key-am": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "exam",
+    "norm": 46.3
   },
-  "61-5-of-women-taking-up-g-ram-g-work-shows-positive-indicato": {
-    "firstSeen": "2026-08-20T23:35:42.841Z",
-    "signature": "",
-    "norm": 33.9
+  "two-vessels-with-22-indians-on-board-hijacked-by-pirates-nea": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "hijack",
+    "norm": 46.3
   },
-  "hacker-targets-grand-theft-auto-vi-in-apparent-leak": {
-    "firstSeen": "2026-08-20T23:35:42.841Z",
+  "sc-faults-up-gangsters-act-says-it-is-prone-to-misuse": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
+    "signature": "gst",
+    "norm": 44
+  },
+  "delhi-ncr-sees-rise-in-swine-flu-other-respiratory-infection": {
+    "firstSeen": "2026-08-21T01:53:26.775Z",
     "signature": "",
     "norm": 33.9
   }
