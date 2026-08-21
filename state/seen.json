@@ -1,231 +1,156 @@
 {
-  "why-india-is-betting-1-2-billion-on-homegrown-construction-e": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "bill|billion|china|fire|fire|row",
-    "norm": 84.4
+  "cjp-attacked-in-rajasthan-arvind-kejriwal-supports-cjp-congr": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "attack|attack|bjp|congress|kejriwal|opposition|rally|rally|row",
+    "norm": 84.9
   },
-  "delhi-police-authorised-pellet-gun-use-against-protestors-on": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "mp|parliament|protest|protest|riot|shock|shock",
-    "norm": 79.6
+  "-politics-of-anarchy-bjp-attacks-rahul-gandhi-over-police-st": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "attack|attack|bjp|minister|protest|protest|rahul gandhi",
+    "norm": 82
   },
-  "jharkhand-high-court-stays-notifications-cancelling-appointm": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "election|election|election commission|exam|high court|khan|recruitment",
-    "norm": 77.6
+  "noida-workers-agitation-plea-in-allahabad-high-court-to-club": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "high court|hijack|ipl|protest|protest",
+    "norm": 81
   },
-  "nagpur-out-on-bail-gangster-killed-by-fellow-criminal-over-w": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "attack|attack|gst|killed|killed",
-    "norm": 75.9
+  "rahul-gandhi-press-conference-200-shots-fired-who-gave-the-o": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "fire|fire|protest|protest|rahul gandhi|row",
+    "norm": 78.8
   },
-  "priyanka-gandhi-reaches-police-station-high-drama-over-cjp-p": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "crowd|mp|protest|protest|rahul gandhi|row",
-    "norm": 74.6
-  },
-  "vizianagaram-woman-found-dead-police-look-at-distress-over-t": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "dead|dead|death|exam",
-    "norm": 74.6
-  },
-  "rahul-gandhi-sits-on-dharna-with-pellet-victim-outside-senio": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "protest|protest|rahul gandhi|shooting",
-    "norm": 72.9
-  },
-  "rahul-gandhi-sits-on-dharna-at-police-station-in-new-delhi-d": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "congress|mp|parliament|protest|protest|rahul gandhi",
+  "70-questions-leaked-on-whatsapp-but-new-anti-paper-leak-laws": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "exam|viral|viral|viral",
     "norm": 70
   },
-  "delhi-government-orders-construction-ban-for-42-days-to-tack": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "mp|poll|war|warning",
-    "norm": 70
-  },
-  "why-bihar-govt-wants-to-pay-rs-1-lakh-per-video-to-social-me": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "cabinet|chief minister|lakh|minister|policy|video",
-    "norm": 68
+  "rahul-gandhi-dharna-in-delhi-live-congress-leader-demands-fi": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "congress|mp|protest|protest|rahul gandhi",
+    "norm": 69
   },
   "-won-t-move-till-fir-is-filed-rahul-gandhi-says-over-200-pel": {
     "firstSeen": "2026-08-21T08:53:59.626Z",
     "signature": "congress|protest|protest|rahul gandhi",
-    "norm": 66.9
+    "norm": 65.3
   },
-  "chitradurga-accident-two-dead-26-students-from-bengaluru-col": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "accident|dead|dead|injured",
-    "norm": 65.5
+  "-awarapan-2-day-8-emraan-s-film-eyes-rs-110cr-india-net-cros": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "crore|film|war",
+    "norm": 62.5
   },
-  "how-sustainable-is-india-s-e20-push-explained": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "crore|kejriwal|lakh|lok sabha|mp|opposition|rahul gandhi",
-    "norm": 65.5
+  "tamil-nadu-cm-vijay-s-take-on-delimitation-triggers-politica": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "chief minister|minister|opposition|row",
+    "norm": 61.8
   },
-  "-he-would-beat-her-over-rotten-tomatoes-sister-of-lucknow-wo": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "died|killed|killed",
-    "norm": 64.5
+  "uttar-pradesh-gangsters-act-case-supreme-court-makes-interim": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "gst|mla|supreme court",
+    "norm": 57.6
   },
-  "villagers-clash-with-cjp-s-school-inspection-team-in-rajasth": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "clash|clash|slam|slams",
-    "norm": 62.3
-  },
-  "stock-market-live-sensex-trades-flat-nifty-around-24-200-pow": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "mp|nifty|sensex|stock market",
-    "norm": 59.7
-  },
-  "government-allows-duty-free-import-of-10-lakh-tonnes-of-raw-": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "lakh|mp|price|prices",
-    "norm": 59.7
-  },
-  "vande-mataram-row-what-was-congress-1937-resolution-": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "congress|row",
+  "ed-raids-premises-of-accused-in-vivekananda-reddy-murder-cas": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "exam|mla",
     "norm": 57.1
   },
-  "rs-125-crore-110-bank-accounts-mumbai-cops-bust-mule-bank-ac": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "crore|fraud",
-    "norm": 55.4
+  "33-stolen-two-wheelers-seized-from-41-year-old-man-in-mysuru": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "mp|price",
+    "norm": 55
   },
-  "prajwal-revanna-rape-case-key-witness-reports-threat-calls-a": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "fear|threat",
-    "norm": 53.9
+  "after-junior-doctors-contract-and-paramedical-staff-second-s": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "-reservation-hatao-andolan-protest-live-delhi-police-gives-p": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "-stillborn-law-supreme-court-finds-fault-with-uttar-pradesh-": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "gst|supreme court",
+    "norm": 53.2
   },
   "india-won-t-be-safe-till-its-borders-are-secure-union-home-m": {
     "firstSeen": "2026-08-21T08:53:59.626Z",
     "signature": "amit shah|border|minister",
-    "norm": 52.7
+    "norm": 50.9
   },
-  "illustrator-athulya-pillai-s-silent-comic-nanavu-tells-the-s": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "flood|flood",
-    "norm": 52.4
+  "why-india-may-need-a-third-aircraft-carrier-as-china-expands": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "china|navy",
+    "norm": 48.7
   },
-  "indian-soldiers-polish-muay-thai-skills-in-joint-drills": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "army|fan",
-    "norm": 51.7
+  "southern-states-deserve-fairer-share-of-national-wealth-base": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
   },
-  "five-pet-swans-escaped-in-maryland-descendants-later-neared-": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "ipl",
+  "u-p-order-banning-youtubers-from-schools-earns-stinging-rebu": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "mp|opposition",
+    "norm": 48.7
+  },
+  "veteran-actor-sowcar-janaki-passes-away-at-94": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "actor|film",
     "norm": 48.2
   },
-  "19-year-old-may-lose-vision-in-right-eye-due-to-pellet-injur": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "injured",
-    "norm": 48.2
-  },
-  "indian-national-kamal-on-fbi-s-most-wanted-list-over-alleged": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "war",
+  "-teacher-hit-him-with-stick-3-member-panel-to-probe-death-of": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "death",
     "norm": 46.3
   },
-  "what-led-to-the-re-test-of-three-ugc-net-papers-explained": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "exam",
-    "norm": 46.3
-  },
-  "-cheating-whatsapp-status-to-psychotic-behavior-claim-how-lu": {
-    "firstSeen": "2026-08-21T07:03:03.913Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "mathrubhumi-launches-onam-campaign-highlighting-keralam-s-en": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "data-centres-in-andaman-nicobar-why-did-island-administratio": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "crore",
-    "norm": 45.9
-  },
-  "meet-lianna-genovese-19-whose-simple-gadget-helps-people-pai": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "live-updates-rahul-gandhi-stages-sit-in-with-pellet-gun-vict": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "rahul gandhi",
-    "norm": 45.9
-  },
-  "rahul-gandhi-with-pellet-victim-sits-outside-senior-cop-s-of": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "rahul gandhi",
-    "norm": 44
-  },
-  "champat-rai-letter-nripendra-misra-led-panel-cleared-all-ram": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "treesa-gayatri-end-india-s-15-year-wait-assure-badminton-wor": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "jp-nadda-to-review-delhi-s-h1n1-situation-today-amid-rise-in": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
+  "delhi-reports-114-new-h1n1-cases-jp-nadda-calls-on-health-of": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
     "signature": "minister",
+    "norm": 45.9
+  },
+  "36-hours-in-srinagar-a-first-timer-s-guide-to-kashmir-s-capi": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "khan",
+    "norm": 44.3
+  },
+  "invoking-anti-gangster-law-to-counter-one-communal-violence-": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "gst",
     "norm": 44
   },
-  "-temple-is-now-the-smallest-wearable-on-the-market-deepinder": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "mp",
+  "approval-granted-for-conferring-president-s-medal-for-gallan": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "president",
     "norm": 44
-  },
-  "tamil-nadu-promises-to-review-curbs-on-transportation-of-con": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "antiseizure-medications-and-doacs-impact-stroke-and-mortalit": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "-over-600-beadbis-in-10-yrs-harsimrat-targets-aap-cong-over-": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "aap",
-    "norm": 44
-  },
-  "meity-consultation-says-blanket-social-media-ban-for-childre": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
-    "signature": "instagram",
-    "norm": 42.4
   },
   "udhayanidhi-stalin-aadhav-arjuna-spar-over-files-on-corrupti": {
     "firstSeen": "2026-08-21T08:53:59.626Z",
     "signature": "record",
     "norm": 40.7
   },
-  "no-plan-to-rename-kochi-metro-rail-ltd-as-keralam-metro-rail": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
+  "punjab-government-institute-performs-three-liver-transplants": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
     "signature": "",
     "norm": 36
   },
-  "the-time-when-travancore-said-no-to-longer-onam-holidays-in-": {
-    "firstSeen": "2026-08-21T07:54:03.563Z",
+  "sc-sets-aside-order-allowing-dayanidhi-maran-s-plea-to-summo": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
     "signature": "",
     "norm": 36
   },
-  "kerala-cm-urges-tamil-nadu-counterpart-vijay-to-ease-restric": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
+  "student-wellbeing-dips-in-senior-grades-girls-report-greater": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
+    "signature": "",
+    "norm": 36
+  },
+  "why-h1n1-cases-are-rising-in-delhi-and-how-to-protect-yourse": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
     "signature": "",
     "norm": 33.9
   },
-  "indigo-s-ticket-booking-system-faces-issues-briefly": {
-    "firstSeen": "2026-08-21T08:53:59.626Z",
+  "have-proof-of-corruption-in-erstwhile-dmk-government-will-re": {
+    "firstSeen": "2026-08-21T09:48:53.172Z",
     "signature": "",
     "norm": 33.9
   }
