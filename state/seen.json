@@ -1,121 +1,161 @@
 {
-  "explained-why-sugar-is-suddenly-getting-costlier": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "flood|flood|maharashtra|price|prices|sudden|suddenly",
-    "norm": 82.9
+  "assam-cab-operators-continue-highway-blockade-over-shillong-": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "attack|attack|chief minister|minister",
+    "norm": 71.6
   },
-  "-double-tap-attack-14-killed-as-russian-drones-ravage-zelens": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "attack|attack|drone|killed|killed",
-    "norm": 73.3
+  "karnataka-ruling-and-opposition-parties-stage-separate-prote": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "bjp|congress|opposition|protest|protest|ruling",
+    "norm": 70
   },
-  "telangana-cm-revanth-reddy-s-us-visit-cancelled-after-centre": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "chief minister|congress|controversy|minister",
-    "norm": 63.5
+  "rahul-gandhi-protest-in-delhi-highlights-rahul-ends-over-6-h": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "mp|opposition|protest|protest|rahul gandhi",
+    "norm": 69
   },
-  "asim-munir-s-power-grab-pakistan-passes-new-military-law-cdf": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "defence|pakistan|parliament|war",
-    "norm": 63.5
+  "meena-kandasamy-on-decoding-the-indian-incel": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "attack|attack|mp",
+    "norm": 67.6
   },
-  "anant-ambani-s-giant-vantara-zoo-announces-reset-rethinks-im": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "acquisition|ambani|mp",
-    "norm": 62.1
+  "after-rahul-s-dharna-police-register-fir-on-pellet-gun-use-a": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "mp|protest|protest|rahul gandhi",
+    "norm": 66.9
   },
-  "ex-domestic-help-son-among-3-held-for-holding-elderly-couple": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "cctv|gold|lakh",
-    "norm": 61.1
+  "india-has-political-stability-world-sees-it-as-bright-spot-o": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "modi|modi|row",
+    "norm": 66
   },
-  "reservation-hatao-andolan-delhi-police-raf-deployed-as-janta": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "crowd|protest|protest|row",
-    "norm": 60.8
+  "lured-by-offline-booking-killed-for-car-murder-of-delhi-taxi": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "killed|killed|tax",
+    "norm": 66
   },
-  "fih-women-s-hockey-world-cup-india-go-down-0-2-to-netherland": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "china|match|world cup",
-    "norm": 60.8
+  "chilling-video-teen-attempts-suicide-after-family-dispute-ov": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "mp|rescue|rescue|video",
+    "norm": 65.6
   },
-  "tiger-responsible-for-two-fatal-attacks-in-gudalur-to-be-cap": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
+  "mother-of-gaza-girl-hind-rajab-demands-independent-probe-int": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "death|israel|war",
+    "norm": 62.9
+  },
+  "us-supreme-court-allows-construction-of-trump-s-white-house-": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "mp|supreme court|trump|trump",
+    "norm": 61.8
+  },
+  "bail-denied-to-pulwama-attack-accused-jail-authorities-asked": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
     "signature": "attack|attack",
     "norm": 57.6
   },
-  "-forgive-forget-bus-service-between-imphal-guwahati-resumes-": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "mp|war",
-    "norm": 55.4
+  "cabinet-clears-ai-surveillance-cameras-and-portable-signal-j": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "cabinet|fear",
+    "norm": 57.1
   },
-  "safire-theatre-in-chennai-once-a-cinema-landmark-now-reduced": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "fire|fire",
-    "norm": 54.2
+  "upper-bhadra-project-will-be-completed-by-year-end-chaluvara": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "crore|mp",
+    "norm": 53.2
+  },
+  "delhi-police-detain-anti-reservation-protesters-at-jantar-ma": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "government-keen-to-bring-foreign-university-campuses-to-kwin": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "minister|mp",
+    "norm": 50.5
+  },
+  "karnataka-amid-din-assembly-passes-apartment-bill-and-two-ot": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "bill|mp",
+    "norm": 50.5
+  },
+  "alappuzha-murder-allegedly-involving-four-minors-raises-trou": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "exam",
+    "norm": 48.2
+  },
+  "kishtwar-girl-dies-after-forced-abortion-bid-teacher-held": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "war",
+    "norm": 46.3
   },
   "telangana-government-to-initiate-logistics-reforms-to-enhanc": {
     "firstSeen": "2026-08-21T18:51:38.444Z",
     "signature": "row",
-    "norm": 48.2
+    "norm": 46.3
   },
-  "engineer-s-family-suicide-pact-shooting-range-owner-still-el": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "shooting",
-    "norm": 48.2
+  "t-n-govt-to-form-state-advisory-board-on-preventing-crimes-a": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "omar-abdullah-backs-rahul-gandhi-says-lop-s-job-is-to-make-g": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "rahul gandhi",
+    "norm": 44
+  },
+  "netherlands-fines-uber-825-million-euros-over-driver-account": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "ruling",
+    "norm": 44
   },
   "kerala-high-court-flags-poor-conditions-at-kuthiravattom-men": {
     "firstSeen": "2026-08-21T18:51:38.444Z",
     "signature": "high court",
-    "norm": 45.9
-  },
-  "telangana-looks-to-gift-city-to-fund-hyderabad-metro-buyout-": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "fund",
     "norm": 44
   },
-  "land-auction-fetches-264-crore-per-acre-in-hyderabad-s-raidu": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "crore",
-    "norm": 44
+  "rashtrapati-bhavan-withdraws-email-on-bangladesh-pm-visit": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "",
+    "norm": 36
   },
-  "after-arms-haul-from-forest-near-berlin-german-minister-s-ru": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "minister",
-    "norm": 44
+  "chennai-s-remarkable-quality-is-the-willingness-of-people-to": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "",
+    "norm": 36
   },
-  "user-development-fee-reduced-at-bengaluru-s-kia-but-arriving": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "mp",
-    "norm": 44
+  "experts-at-webinar-discuss-key-elements-of-geriatric-well-be": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "",
+    "norm": 36
   },
-  "indigo-trichy-singapore-flight-returns-after-mid-air-technic": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
+  "-sowcar-janaki-a-life-that-was-never-bound-by-the-script-til": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "",
+    "norm": 36
+  },
+  "karnataka-police-have-identified-771-illegal-bangladeshi-imm": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
+    "signature": "",
+    "norm": 36
+  },
+  "us-envoy-wraps-up-ladakh-visit-skips-meeting-dalai-lama": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
     "signature": "",
     "norm": 33.9
   },
-  "technical-issue-delays-trichy-singapore-indigo-flight-127-pa": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
+  "less-than-half-of-the-seats-on-offer-filled-after-second-rou": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
     "signature": "",
     "norm": 33.9
   },
-  "nursing-student-19-found-hanging-in-hostel-room-in-delhi-coa": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
+  "concerns-of-youth-should-be-understood-and-addressed-rss-lea": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
     "signature": "",
     "norm": 33.9
   },
-  "play-by-praveen-godkhindi-in-belagavi-on-august-23": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "dc-directs-to-conduct-survey-on-cmc-properties-fence-them-pr": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "cm-revanth-invites-university-of-oxford-to-offer-education-p": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
+  "up-interpol-red-corner-notice-issued-against-2024-sambhal-vi": {
+    "firstSeen": "2026-08-21T19:32:59.817Z",
     "signature": "",
     "norm": 33.9
   }
