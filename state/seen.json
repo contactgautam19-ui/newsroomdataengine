@@ -1,196 +1,206 @@
 {
-  "news-this-week-jharkhand-protest-ends-india-s-galle-win-othe": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "exam|khan|price|prices|protest|protest|row|viral|viral|viral",
-    "norm": 95.5
+  "opposition-blames-ethanol-blending-policy-for-rise-in-sugar-": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "congress|fuel|opposition|petrol|petrol|policy|price|prices|result",
+    "norm": 81.7
   },
-  "arson-petrol-bomb-attacks-on-govt-property-reported-across-m": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "attack|attack|blaze|bomb|gst|petrol|petrol",
-    "norm": 89.4
+  "protesters-attempt-to-burn-hemant-soren-s-effigy-after-jhark": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "exam|khan|mp|protest|protest",
+    "norm": 79.4
   },
-  "jharkhand-protesters-attempt-to-burn-effigies-of-cm-hemant-s": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "clash|clash|khan|mp|protest|protest|rahul gandhi",
-    "norm": 81
+  "jantar-mantar-sees-large-anti-reservation-protest-despite-de": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "crowd|protest|protest|row|war|warning",
+    "norm": 75.1
   },
-  "bjp-protesters-clash-with-police-outside-dc-office-in-dharwa": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "bjp|clash|clash|protest|protest",
-    "norm": 70.6
+  "villagers-clash-with-cjp-s-school-inspection-team-in-rajasth": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "clash|clash|mp|slam|slams",
+    "norm": 68.9
   },
-  "rahul-gandhi-protest-in-delhi-live-rahul-ends-over-6-hour-dh": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "mp|protest|protest|rahul gandhi|war",
-    "norm": 70.4
+  "-on-our-radar-as-threat-ex-army-chief-mm-naravane-calls-chin": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "army|china|mp|pakistan|threat",
+    "norm": 64.6
   },
-  "rahul-gandhi-dharna-in-delhi-live-new-delhi-dcp-says-complai": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "congress|mp|protest|protest|rahul gandhi",
-    "norm": 67.3
+  "-we-don-t-have-to-learn-patriotism-bjp-reacts-to-sharmila-ta": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "bjp|khan|riot",
+    "norm": 64.2
   },
-  "cyberabad-police-cite-assessment-legal-provisions-to-clarify": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "crash|crash|mp",
-    "norm": 65.6
+  "iphone-emi-behind-teen-parents-deaths-in-maharashtra-hill-ho": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "death|horror|maharashtra",
+    "norm": 62.9
   },
-  "crowd-funded-anti-bribery-portal-shuts-after-amassing-2-lakh": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "crowd|fund|lakh|row",
-    "norm": 65.3
+  "-should-be-common-man-s-goal-centre-s-23-point-viksit-bharat": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "cabinet|minister|modi|modi|prime minister",
+    "norm": 62.9
   },
-  "-all-22-indians-safe-india-takes-up-attack-on-seafarers-with": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "attack|attack|hijack",
-    "norm": 64.5
+  "bangladesh-keen-to-join-saudi-pak-turkey-defence-alliance-sa": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "alliance|defence|mp|policy|war",
+    "norm": 62.9
   },
-  "meghalaya-assam-taxi-operators-standoff-continues-tourists-s": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "border|tax|war",
-    "norm": 63.9
+  "live-updates-rahul-gandhi-ends-sit-in-with-pellet-gun-victim": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "protest|protest|rahul gandhi",
+    "norm": 62.8
   },
-  "india-to-have-homegrown-mobile-brand-by-mid-2027-ashwini-vai": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "crore|mp|row",
-    "norm": 63.9
+  "roundtable-raises-alarm-over-sir-process-forms-voter-protect": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "election|election|election commission|vote",
+    "norm": 61.8
   },
-  "drug-alcohol-tests-of-accused-in-hyderabad-aston-martin-cras": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "accident|crash|crash|hospital",
-    "norm": 63.4
-  },
-  "fifa-bans-leandro-paredes-for-10-matches-over-world-cup-fina": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "match|sanction|world cup",
-    "norm": 60.8
-  },
-  "iisc-student-found-dead-in-hostel-room": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "dead|dead",
-    "norm": 59.3
-  },
-  "26-11-attacks-cops-seek-mha-help-to-serve-order-against-hafi": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "attack|attack",
-    "norm": 59.3
-  },
-  "apple-may-expand-india-manufacturing-beyond-iphones-union-mi": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "crore|lakh|minister",
+  "bihar-minister-s-remark-on-impact-of-sugar-price-rise-invite": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "minister|mp|price",
     "norm": 57.6
   },
-  "31-arrested-as-delhi-police-busts-software-based-betting-net": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "lakh|war",
+  "iphone-emi-behind-family-s-wipeout-in-maharashtra-hill-horro": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "horror|maharashtra",
+    "norm": 57.6
+  },
+  "delhi-police-raf-detain-reservation-hatao-protesters-as-thou": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "protest|protest|video",
     "norm": 55.4
   },
-  "-221-crore-boost-to-medical-infrastructure-in-andhra-pradesh": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "crore|minister",
-    "norm": 55
+  "-world-looking-at-india-as-bright-spot-of-hope-pm-modi-at-et": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "modi|modi",
+    "norm": 55.4
   },
-  "ngt-issues-notice-to-centre-against-amendment-on-ganga-flood": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "flood|flood",
-    "norm": 54.2
+  "now-protesters-at-jantar-mantar-seek-overhaul-of-reservation": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "over-10-000-held-under-operation-toofan-in-keralam-says-home": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "fan|minister",
-    "norm": 53.5
+  "mahatma-gandhi-s-manuscript-sells-for-16-2-crore-at-auction-": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "crore|record",
+    "norm": 52
+  },
+  "telangana-high-court-to-deliver-verdict-on-disqualification-": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "high court|mla|verdict",
+    "norm": 50.9
+  },
+  "vande-mataram-was-never-fully-accepted-after-independence-sa": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "amit shah|congress|minister",
+    "norm": 50.9
   },
   "72nd-nehru-trophy-boat-race-to-be-held-on-punnamada-lake-in-": {
     "firstSeen": "2026-08-21T15:44:12.268Z",
     "signature": "chief minister|minister|mp",
-    "norm": 52.7
-  },
-  "deepender-hooda-calling-sajjan-kumar-role-model-hurt-sikh-co": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "aap|congress|president|rahul gandhi",
-    "norm": 52.1
-  },
-  "-cm-vijay-told-amit-shah-that-existing-freeze-on-ls-seats-sh": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "amit shah|minister|parliament",
     "norm": 50.9
   },
-  "yogi-adityanath-takes-selfies-shares-laughs-with-japanese-st": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "watch|yogi",
-    "norm": 50.2
+  "aap-says-h1n1-cases-in-delhi-alarmingly-high-spreading-like-": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "aap|mp|president",
+    "norm": 50.9
   },
-  "-sowcar-janaki-the-versatile-face-of-tamil-cinema-known-for-": {
-    "firstSeen": "2026-08-21T14:48:43.823Z",
-    "signature": "actor|fan|film",
-    "norm": 50.1
+  "india-calls-for-stronger-global-tech-collaboration-at-brics-": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "brics|minister",
+    "norm": 50.5
   },
-  "witness-in-rape-case-against-prajwal-allegedly-threatened-co": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "threat",
+  "odisha-madhya-pradesh-punjab-hit-the-most-by-sugar-price-hik": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "price|prices",
+    "norm": 50.5
+  },
+  "cbi-seeks-sanction-for-prosecution-against-minister-b-nagend": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "minister|sanction",
+    "norm": 48.7
+  },
+  "karnataka-cabinet-again-recommends-suspension-of-karnataka-p": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "cabinet|governor",
+    "norm": 48.7
+  },
+  "-live-for-your-mother-sarpanch-s-plea-to-teen-on-maharashtra": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "maharashtra",
     "norm": 48.2
+  },
+  "22-indian-sailors-on-two-cargo-ships-hijacked-off-yemen-soma": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "hijack",
+    "norm": 46.3
   },
   "-kallan-vijayan-row-former-editor-in-charge-of-deshabhimani-": {
     "firstSeen": "2026-08-21T15:44:12.268Z",
     "signature": "row",
-    "norm": 48.2
-  },
-  "traffic-diversions-in-place-at-tellapur-for-storm-water-drai": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "storm",
-    "norm": 48.2
-  },
-  "discharge-from-maharashtra-reservoirs-reduced-slightly": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "maharashtra",
     "norm": 46.3
   },
-  "bombay-presidency-radio-club-s-food-licence-suspended-over-m": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "bomb",
-    "norm": 46.3
-  },
-  "-1-750-crore-adb-assistance-for-development-of-500-karnataka": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "crore",
+  "india-uk-step-up-defence-cooperation-focus-on-r-d-and-indo-p": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "defence",
     "norm": 45.9
+  },
+  "-made-up-nripendra-misra-on-allegations-of-irregularities-in": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "veteran-politician-mirza-alamgir-takes-oath-as-bangladesh-s-": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "president",
+    "norm": 44
   },
   "governor-shiv-pratap-shukla-urges-journalists-to-prioritize-": {
     "firstSeen": "2026-08-21T15:44:12.268Z",
     "signature": "governor",
-    "norm": 45.9
-  },
-  "chhattisgarh-signs-two-key-mous-to-boost-pm-gatishakti-imple": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "odisha-to-develop-laxmanananda-saraswati-s-birthplace-as-her": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
-    "signature": "mp",
     "norm": 44
   },
-  "shiv-sena-for-nationwide-expansion-shaina-nc": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
+  "tgiic-auction-fetches-264-crore-per-acre-in-raidurg": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "market-tales-abandoned-midway-redevelopment-of-jayanagar-mar": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
     "signature": "",
     "norm": 36
   },
-  "upi-is-booming-but-many-women-still-left-behind-finds-study": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
+  "indigo-aircraft-s-belly-scrapes-runway-again-plane-grounded": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
     "signature": "",
     "norm": 36
   },
-  "seven-year-old-s-organs-donated-in-keralam": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
+  "raksha-bandhan-2026-5-gifts-under-rs-500-you-can-give-your-s": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
     "signature": "",
     "norm": 36
   },
-  "four-held-for-illegal-sale-of-muscle-building-injections-in-": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
+  "new-passenger-friendly-tariff-formula-for-airports-cuts-user": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "",
+    "norm": 36
+  },
+  "kozhikode-teen-cycles-to-kashmir-in-42-days": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "",
+    "norm": 36
+  },
+  "ponguleti-asks-officials-to-expedite-land-resurvey": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
     "signature": "",
     "norm": 33.9
   },
-  "raksha-bandhan-2026-is-rakhi-on-august-27-or-28-check-date-a": {
-    "firstSeen": "2026-08-21T15:44:12.268Z",
+  "5-arrested-over-alleged-human-sacrifice-killing-in-odisha": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "students-body-supports-demonstrations-against-polytechnic-me": {
+    "firstSeen": "2026-08-21T16:47:44.167Z",
     "signature": "",
     "norm": 33.9
   }
