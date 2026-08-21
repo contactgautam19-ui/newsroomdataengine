@@ -1,131 +1,156 @@
 {
-  "india-s-angry-young-voter-is-becoming-a-political-force-are-": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "anger|exam|jobs|vote",
-    "norm": 75.5
+  "rupee-continues-to-rally-opens-9-paise-stronger-against-us-d": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "price|prices|rally|rally|rupee|war",
+    "norm": 75.3
   },
-  "-justice-remains-incomplete-1984-anti-sikh-riot-victims-reac": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "congress|death|died|mp|riot",
-    "norm": 67.5
+  "sajjan-kumar-convicted-for-role-in-1984-riots-dies": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "death|mp|result|riot",
+    "norm": 71
   },
-  "when-adventurism-takes-a-dangerous-turn": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "anger|mp|rbi",
-    "norm": 65.6
+  "aap-targets-centre-over-spike-in-sugar-prices": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "aap|kejriwal|mp|price|prices",
+    "norm": 63.9
   },
-  "watch-indian-seafarers-take-cover-as-vessel-attacked-in-horm": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "attack|attack|watch",
-    "norm": 63.2
+  "delimitation-row-vijay-s-remarks-spark-row-in-tamil-nadu-dra": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "chief minister|minister|opposition|row",
+    "norm": 63.5
   },
-  "how-supreme-court-s-new-ruling-changes-the-definition-of-ind": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "ipl|ruling|supreme court",
+  "1984-riot-victim-s-exclusive-interview-congress-shamelessly-": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "congress|emotional|horrific|riot",
+    "norm": 63.4
+  },
+  "hs-phoolka-interview-on-1984-riots-sajjan-kumar-was-very-muc": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "controversy|rahul gandhi|riot",
+    "norm": 62.5
+  },
+  "why-are-close-to-1-08-crore-voters-staring-at-mass-exclusion": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "crore|star|vote",
+    "norm": 62.1
+  },
+  "jharkhand-examination-irregularities-sc-to-hear-plea-for-cbi": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "exam|iran|khan|recruitment",
+    "norm": 62
+  },
+  "-such-agreements-harsimrat-badal-fuels-buzz-over-possible-ak": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "alliance|bjp|fuel|poll",
     "norm": 61.4
   },
-  "sibal-asks-shah-if-modi-as-cm-vajpayee-as-pm-sang-full-versi": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "bjp|modi|modi",
-    "norm": 61.4
-  },
-  "-being-reconsidered-centre-tells-sc-over-controversial-ugc-r": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "protest|protest|supreme court",
-    "norm": 61.1
-  },
-  "jaipur-resort-told-to-refund-85-of-rs-10-lakh-after-wedding-": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "fund|lakh|wedding",
-    "norm": 57.9
-  },
-  "-we-are-on-india-s-side-polish-envoy-backs-right-to-pursue-t": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "terror|terror",
+  "sim-card-rules-2026-what-changes-from-aug-24-amp-how-many-co": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "mp|photos|star",
     "norm": 57.6
   },
-  "punjab-bandh-today-chandigarh-mohali-border-tightened-800-bu": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "border|war",
+  "why-has-maharashtra-fda-issued-notices-to-shah-rukh-khan-aja": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "actor|khan|maharashtra",
+    "norm": 57.6
+  },
+  "spend-money-earned-from-medical-tourists-rich-patients-on-po": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "hospital|parliament",
     "norm": 57.1
   },
-  "six-indians-aboard-cargo-ship-hijacked-by-pirates-off-somali": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "hijack|rbi",
+  "punjab-bandh-today-multiple-highways-blocked-chandigarh-moha": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "border|ipl",
     "norm": 57.1
-  },
-  "can-ljp-tap-dalit-votes-that-helped-sp-in-2024-inside-chirag": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "vote|war",
-    "norm": 55.4
   },
   "karnataka-sir-over-43-80-lakh-voters-to-get-notice-over-20-l": {
     "firstSeen": "2026-08-21T04:50:25.779Z",
     "signature": "lakh|vote",
     "norm": 55
   },
-  "cctv-captures-lucknow-banker-shooting-wife-outside-icici-ban": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "cctv|shooting",
-    "norm": 54.2
-  },
   "shillong-teer-result-today-august-21-2026-check-winning-numb": {
     "firstSeen": "2026-08-21T04:50:25.779Z",
     "signature": "khan|result",
     "norm": 53.9
   },
-  "shot-wife-at-work-put-betrayal-whatsapp-status-how-lucknow-m": {
+  "elon-musk-pitches-starlink-to-bridge-india-s-rural-internet-": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "rbi|star",
+    "norm": 53.5
+  },
+  "cctv-captures-lucknow-banker-shooting-wife-outside-icici-ban": {
     "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "betray|unexpected",
+    "signature": "cctv|shooting",
     "norm": 52.4
   },
-  "eight-injured-as-crane-topples-onto-houses-in-mumbai-s-kurla": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "hospital|injured",
-    "norm": 52.1
+  "elon-musk-pitches-starlink-for-india-says-it-would-help-the-": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "rbi|star",
+    "norm": 51.7
   },
-  "-u-turn-in-a-week-dmk-slams-vijay-over-delimitation-stance-a": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "slam|slams",
-    "norm": 52.1
+  "what-led-to-the-re-test-of-three-ugc-net-papers-explained": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "exam",
+    "norm": 48.2
   },
-  "live-in-relationship-akin-to-marriage-parents-cannot-interfe": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "threat",
-    "norm": 46.3
+  "ttd-tests-ai-powered-robotic-dog-for-wildlife-monitoring-dev": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "vote",
+    "norm": 44
   },
-  "gen-z-thinks-differently-but-that-doesn-t-make-them-wrong-ex": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "army",
-    "norm": 45.9
+  "-freeze-seats-for-25-years-congress-backs-vijay-led-tn-govt-": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "congress",
+    "norm": 44
   },
-  "911-illegal-immigrants-identified-in-bengaluru-in-3-years-36": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
+  "-starlink-would-help-the-least-served-in-india-especially-in": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "36-hours-in-srinagar-a-first-timer-s-guide-to-kashmir-s-capi": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "centre-denies-permission-for-telangana-cm-revanth-reddy-s-u-": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
     "signature": "",
     "norm": 36
   },
-  "digitising-kannada-a-work-in-progress": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
+  "student-well-being-in-india-declines-sharply-through-senior-": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
     "signature": "",
     "norm": 36
   },
-  "mumbai-civic-body-is-hiring-gen-z-on-rs61-500-stipend-here-s": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
+  "-i-won-t-say-no-csk-legend-considers-england-batting-coach-r": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "",
+    "norm": 36
+  },
+  "centre-denies-permission-to-revanth-reddy-for-us-visit-his-o": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
+    "signature": "",
+    "norm": 36
+  },
+  "13-year-old-aniket-sarkar-built-a-low-cost-system-to-capture": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
     "signature": "",
     "norm": 33.9
   },
-  "why-the-us-is-deporting-migrants-to-liberia-instead-of-their": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
+  "punjab-bandh-today-over-release-of-sikh-prisoners-schools-hi": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
     "signature": "",
     "norm": 33.9
   },
-  "middle-east-oil-squeeze-how-much-crude-is-actually-flowing-t": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
+  "traffic-restrictions-in-delhi-today-over-masoom-ka-tazia-pro": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
     "signature": "",
     "norm": 33.9
   },
-  "ai-reshapes-india-s-it-services-sector-contracts-as-clients-": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
+  "legislature-panel-suggests-singapore-s-mandai-wildlife-reser": {
+    "firstSeen": "2026-08-21T05:43:37.865Z",
     "signature": "",
     "norm": 33.9
   }
