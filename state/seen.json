@@ -1,156 +1,166 @@
 {
-  "rupee-continues-to-rally-opens-9-paise-stronger-against-us-d": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "price|prices|rally|rally|rupee|war",
-    "norm": 75.3
+  "jharkhand-hc-stays-cancellation-of-jpsc-food-safety-officer-": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "exam|khan|protest|protest|rbi|recruitment|ruling",
+    "norm": 90
   },
-  "sajjan-kumar-convicted-for-role-in-1984-riots-dies": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "death|mp|result|riot",
-    "norm": 71
+  "up-mother-killed-by-train-while-trying-to-save-son-threateni": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "died|hospital|injured|killed|killed|mp|threat|tragic",
+    "norm": 81.9
   },
-  "aap-targets-centre-over-spike-in-sugar-prices": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "aap|kejriwal|mp|price|prices",
-    "norm": 63.9
+  "bjp-protests-in-bengaluru-demands-b-nagendra-s-resignation-o": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "bjp|fund|minister|protest|protest|row",
+    "norm": 78.2
   },
-  "delimitation-row-vijay-s-remarks-spark-row-in-tamil-nadu-dra": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
+  "congress-seeks-review-of-e20-policy-non-ethanol-petrol-optio": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "congress|petrol|petrol|policy|price",
+    "norm": 73.6
+  },
+  "yudh-abhyas-2026-india-us-troops-to-train-in-precision-fires": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "border|china|defence|fire|fire|pakistan",
+    "norm": 70
+  },
+  "india-begins-historic-trial-in-absentia-of-hafiz-saeed-5-oth": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "attack|attack|pakistan",
+    "norm": 67.6
+  },
+  "tamil-nadu-cm-vijay-s-take-on-delimitation-triggers-politica": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
     "signature": "chief minister|minister|opposition|row",
     "norm": 63.5
   },
-  "1984-riot-victim-s-exclusive-interview-congress-shamelessly-": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "congress|emotional|horrific|riot",
+  "shashi-tharoor-calls-new-parliament-building-soulless-says-i": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "minister|modi|modi|mp|parliament|prime minister",
     "norm": 63.4
   },
-  "hs-phoolka-interview-on-1984-riots-sajjan-kumar-was-very-muc": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "controversy|rahul gandhi|riot",
-    "norm": 62.5
-  },
-  "why-are-close-to-1-08-crore-voters-staring-at-mass-exclusion": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "crore|star|vote",
-    "norm": 62.1
-  },
-  "jharkhand-examination-irregularities-sc-to-hear-plea-for-cbi": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "exam|iran|khan|recruitment",
-    "norm": 62
-  },
-  "-such-agreements-harsimrat-badal-fuels-buzz-over-possible-ak": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "alliance|bjp|fuel|poll",
+  "bengal-minister-dilip-ghosh-threatens-surgical-strikes-at-ja": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "minister|mp|threat",
     "norm": 61.4
-  },
-  "sim-card-rules-2026-what-changes-from-aug-24-amp-how-many-co": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "mp|photos|star",
-    "norm": 57.6
-  },
-  "why-has-maharashtra-fda-issued-notices-to-shah-rukh-khan-aja": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "actor|khan|maharashtra",
-    "norm": 57.6
-  },
-  "spend-money-earned-from-medical-tourists-rich-patients-on-po": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "hospital|parliament",
-    "norm": 57.1
-  },
-  "punjab-bandh-today-multiple-highways-blocked-chandigarh-moha": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "border|ipl",
-    "norm": 57.1
-  },
-  "karnataka-sir-over-43-80-lakh-voters-to-get-notice-over-20-l": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "lakh|vote",
-    "norm": 55
-  },
-  "shillong-teer-result-today-august-21-2026-check-winning-numb": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "khan|result",
-    "norm": 53.9
-  },
-  "elon-musk-pitches-starlink-to-bridge-india-s-rural-internet-": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "rbi|star",
-    "norm": 53.5
-  },
-  "cctv-captures-lucknow-banker-shooting-wife-outside-icici-ban": {
-    "firstSeen": "2026-08-21T04:50:25.779Z",
-    "signature": "cctv|shooting",
-    "norm": 52.4
-  },
-  "elon-musk-pitches-starlink-for-india-says-it-would-help-the-": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "rbi|star",
-    "norm": 51.7
-  },
-  "what-led-to-the-re-test-of-three-ugc-net-papers-explained": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "exam",
-    "norm": 48.2
   },
   "ttd-tests-ai-powered-robotic-dog-for-wildlife-monitoring-dev": {
     "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "vote",
+    "signature": "alert|mp|vote",
+    "norm": 59.7
+  },
+  "ap-rajya-sabha-mp-s-son-booked-after-aston-martin-fatally-hi": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "mp|rajya sabha|rbi",
+    "norm": 59.3
+  },
+  "madras-high-court-dismisses-a-raja-s-plea-in-disproportionat": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "high court|mla|mp|record",
+    "norm": 58.6
+  },
+  "alaska-island-s-29-reindeer-multiplied-then-ate-themselves-t": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "devastat|ipl",
+    "norm": 57.6
+  },
+  "morning-shower-brings-relief-from-sweltering-heat-in-vijayaw": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "storm|weather",
+    "norm": 57.6
+  },
+  "-sanghi-minister-3-hour-bathroom-jibe-udhayanidhi-tn-ministe": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "minister|row",
+    "norm": 57.1
+  },
+  "cjp-s-ashutosh-ranka-assaulted-on-way-to-jaipur-govt-school-": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "mp|war",
+    "norm": 55.4
+  },
+  "villagers-clash-with-cjp-s-school-inspection-team-in-rajasth": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "clash|clash",
+    "norm": 54.2
+  },
+  "andhra-junior-doctors-to-continue-strike-as-talks-with-govt-": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "inflation|mp",
+    "norm": 53.2
+  },
+  "north-korea-fires-10-missiles-amid-us-scaling-back-military-": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "fire|fire",
+    "norm": 52.4
+  },
+  "mira-bhayandar-civic-body-bans-sacrificial-slaughter-of-goat": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "bjp|ruling",
+    "norm": 50.5
+  },
+  "two-vessels-with-22-indians-on-board-hijacked-by-pirates-in-": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "hijack",
+    "norm": 48.2
+  },
+  "-cheating-whatsapp-status-to-psychotic-behavior-claim-how-lu": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "u-s-nuclear-industry-to-make-comprehensive-submissions-to-in": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "data-centres-in-andaman-nicobar-islands-why-did-the-admin-ex": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "crore",
+    "norm": 45.9
+  },
+  "qaumi-insaf-morcha-calls-for-punjab-bandh-demands-release-of": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "border",
+    "norm": 45.9
+  },
+  "tamil-nadu-promises-to-review-curbs-on-transportation-of-con": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "mp",
     "norm": 44
   },
-  "-freeze-seats-for-25-years-congress-backs-vijay-led-tn-govt-": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "congress",
-    "norm": 44
-  },
-  "-starlink-would-help-the-least-served-in-india-especially-in": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "star",
-    "norm": 42.4
-  },
-  "36-hours-in-srinagar-a-first-timer-s-guide-to-kashmir-s-capi": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "khan",
-    "norm": 42.4
-  },
-  "centre-denies-permission-for-telangana-cm-revanth-reddy-s-u-": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
+  "india-japan-maritime-security-pact-what-the-new-memorandum-o": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
     "signature": "",
     "norm": 36
   },
-  "student-well-being-in-india-declines-sharply-through-senior-": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
+  "mumbai-man-poses-as-transgender-to-enter-woman-s-home-allege": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
     "signature": "",
     "norm": 36
   },
-  "-i-won-t-say-no-csk-legend-considers-england-batting-coach-r": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "",
-    "norm": 36
-  },
-  "centre-denies-permission-to-revanth-reddy-for-us-visit-his-o": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
-    "signature": "",
-    "norm": 36
-  },
-  "13-year-old-aniket-sarkar-built-a-low-cost-system-to-capture": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
+  "mike-hussey-to-work-his-lucky-charm-for-england-during-ashes": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
     "signature": "",
     "norm": 33.9
   },
-  "punjab-bandh-today-over-release-of-sikh-prisoners-schools-hi": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
+  "-clearance-denied-on-political-grounds-revanth-reddy-s-us-vi": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
     "signature": "",
     "norm": 33.9
   },
-  "traffic-restrictions-in-delhi-today-over-masoom-ka-tazia-pro": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
+  "develop-tirupati-visakhapatnam-zoos-on-singapore-s-mandai-li": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
     "signature": "",
     "norm": 33.9
   },
-  "legislature-panel-suggests-singapore-s-mandai-wildlife-reser": {
-    "firstSeen": "2026-08-21T05:43:37.865Z",
+  "india-s-domestic-air-passenger-traffic-down-4-8-in-july": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-waiting-for-astrologer-to-fix-date-udhayanidhi-asks-vijay-t": {
+    "firstSeen": "2026-08-21T07:03:03.913Z",
     "signature": "",
     "norm": 33.9
   }
