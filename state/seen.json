@@ -9,20 +9,30 @@
     "signature": "attack|attack|israel|president|war",
     "norm": 72.2
   },
+  "2-killed-after-small-plane-crashes-in-croatia": {
+    "firstSeen": "2026-08-21T23:34:04.123Z",
+    "signature": "crash|crash|killed|killed",
+    "norm": 71
+  },
+  "1-dead-2-injured-in-sword-attack-at-swedish-school": {
+    "firstSeen": "2026-08-21T23:34:04.123Z",
+    "signature": "attack|attack|dead|dead|injured",
+    "norm": 68.1
+  },
   "-dictator-genocide-israel-turkey-at-loggerheads-over-syria-a": {
     "firstSeen": "2026-08-21T22:36:10.859Z",
     "signature": "attack|attack|israel|slam|war",
-    "norm": 70.3
-  },
-  "pm-modi-meets-20-space-startup-ceos-urges-wider-use-of-space": {
-    "firstSeen": "2026-08-21T22:36:10.859Z",
-    "signature": "modi|modi|row|star",
-    "norm": 67.5
+    "norm": 66.7
   },
   "-he-took-woman-to-hospital-mp-on-son-involved-in-aston-marti": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "crash|crash|hospital|mp|rajya sabha",
     "norm": 64.1
+  },
+  "-first-step-towards-justice-pellet-gun-victim-credits-rahul-": {
+    "firstSeen": "2026-08-21T23:34:04.123Z",
+    "signature": "mp|rahul gandhi|war",
+    "norm": 61.4
   },
   "assam-cab-operators-continue-highway-blockade-over-shillong-": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
@@ -32,17 +42,7 @@
   "iob-assistant-branch-manager-arrested-for-3-09-crore-gold-lo": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "crore|fraud|gold",
-    "norm": 60.6
-  },
-  "gold-prices-surge-more-than-5-for-the-week-as-dollar-slides-": {
-    "firstSeen": "2026-08-21T22:36:10.859Z",
-    "signature": "gold|gold price|price|prices",
-    "norm": 59.5
-  },
-  "48-teachers-to-be-honoured-by-president-on-september-5": {
-    "firstSeen": "2026-08-21T22:36:10.859Z",
-    "signature": "election|election|president",
-    "norm": 57.1
+    "norm": 56.7
   },
   "india-has-political-stability-world-sees-it-as-bright-spot-o": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
@@ -59,19 +59,14 @@
     "signature": "attack|attack|hospital|injured",
     "norm": 56.2
   },
-  "rahul-gandhi-protest-in-delhi-highlights-rahul-ends-over-6-h": {
-    "firstSeen": "2026-08-21T22:36:10.859Z",
-    "signature": "mp|protest|protest|rahul gandhi",
-    "norm": 56
-  },
   "chilling-video-teen-attempts-suicide-after-family-dispute-ov": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "mp|rescue|rescue|video",
     "norm": 54.5
   },
-  "-sergio-gor-s-j-k-and-ladakh-visit-highlights-growing-u-s-in": {
-    "firstSeen": "2026-08-21T21:34:48.907Z",
-    "signature": "chief minister|minister|row",
+  "48-teachers-to-be-honoured-by-president-on-september-5": {
+    "firstSeen": "2026-08-21T22:36:10.859Z",
+    "signature": "election|election|president",
     "norm": 54.1
   },
   "mother-of-gaza-girl-hind-rajab-demands-independent-probe-int": {
@@ -94,16 +89,6 @@
     "signature": "defence|pakistan|parliament|war",
     "norm": 52.3
   },
-  "sugar-output-may-dip-11-says-govt-rules-out-ethanol-diversio": {
-    "firstSeen": "2026-08-21T20:35:58.817Z",
-    "signature": "mp|price|prices",
-    "norm": 51.8
-  },
-  "grievances-registration-line-soon-for-sanitation-workers": {
-    "firstSeen": "2026-08-21T20:35:58.817Z",
-    "signature": "killed|killed",
-    "norm": 51.8
-  },
   "ex-domestic-help-son-among-3-held-for-holding-elderly-couple": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "cctv|gold|lakh",
@@ -114,100 +99,125 @@
     "signature": "crowd|protest|protest|row",
     "norm": 51.2
   },
+  "nagaland-inks-deal-for-first-private-sector-solar-plant": {
+    "firstSeen": "2026-08-21T23:34:04.123Z",
+    "signature": "deal|mp",
+    "norm": 50.5
+  },
+  "-sergio-gor-s-j-k-and-ladakh-visit-highlights-growing-u-s-in": {
+    "firstSeen": "2026-08-21T21:34:48.907Z",
+    "signature": "chief minister|minister|row",
+    "norm": 50
+  },
+  "sugar-output-may-dip-11-says-govt-rules-out-ethanol-diversio": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "mp|price|prices",
+    "norm": 47.7
+  },
+  "grievances-registration-line-soon-for-sanitation-workers": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "killed|killed",
+    "norm": 47.7
+  },
   "plp-to-pli-reform-express-at-full-speed-says-pm-modi": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "modi|modi",
-    "norm": 49.6
+    "norm": 45.4
   },
   "ukraine-sanctions-russian-hit-masha-and-the-bear-cartoon": {
     "firstSeen": "2026-08-21T22:36:10.859Z",
     "signature": "minister|mp|sanction",
-    "norm": 48.2
+    "norm": 44.9
   },
-  "supreme-court-lauds-scrapped-mgnrega-as-a-good-effective-sch": {
-    "firstSeen": "2026-08-21T20:35:58.817Z",
-    "signature": "fund|supreme court",
-    "norm": 47.3
-  },
-  "gen-alpha-protests-mirror-government-report-big-gaps-in-scho": {
-    "firstSeen": "2026-08-21T20:35:58.817Z",
-    "signature": "protest|protest",
-    "norm": 46.5
+  "a-dry-spell-along-the-cauvery": {
+    "firstSeen": "2026-08-21T23:34:04.123Z",
+    "signature": "mp",
+    "norm": 44
   },
   "how-chile-telescope-accidentally-captured-a-missing-link-in-": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "accident|star",
     "norm": 43.8
   },
+  "t-n-government-places-orders-with-two-jewellers-for-supply-o": {
+    "firstSeen": "2026-08-21T23:34:04.123Z",
+    "signature": "gold",
+    "norm": 43.5
+  },
+  "supreme-court-lauds-scrapped-mgnrega-as-a-good-effective-sch": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "fund|supreme court",
+    "norm": 43
+  },
   "us-plans-to-repay-725-million-as-part-of-its-large-un-debt-r": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "bill|billion",
     "norm": 43
   },
-  "crop-damage-production-dip-and-festival-demand-led-to-price-": {
+  "gen-alpha-protests-mirror-government-report-big-gaps-in-scho": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
-    "signature": "price|prices",
-    "norm": 42.5
-  },
-  "supreme-court-trims-law-practice-requirement-to-1-year-for-j": {
-    "firstSeen": "2026-08-21T20:35:58.817Z",
-    "signature": "high court|supreme court",
-    "norm": 42.5
+    "signature": "protest|protest",
+    "norm": 42.2
   },
   "delhi-police-detain-anti-reservation-protesters-at-jantar-ma": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "protest|protest",
     "norm": 42.2
   },
-  "fadnavis-letter-sg-flags-power-tribunal-to-cji": {
-    "firstSeen": "2026-08-21T21:34:48.907Z",
-    "signature": "cji",
-    "norm": 41
+  "crop-damage-production-dip-and-festival-demand-led-to-price-": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "price|prices",
+    "norm": 38
   },
-  "neeraj-chopra-finishes-2nd-in-lausanne-diamond-league-javeli": {
-    "firstSeen": "2026-08-21T21:34:48.907Z",
-    "signature": "row",
-    "norm": 40.1
+  "supreme-court-trims-law-practice-requirement-to-1-year-for-j": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "high court|supreme court",
+    "norm": 38
   },
   "bjp-looks-to-repeat-bengal-success-in-punjab-holds-talks-wit": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "alliance|bjp",
     "norm": 38
   },
+  "fadnavis-letter-sg-flags-power-tribunal-to-cji": {
+    "firstSeen": "2026-08-21T21:34:48.907Z",
+    "signature": "cji",
+    "norm": 37.5
+  },
+  "neeraj-chopra-finishes-2nd-in-lausanne-diamond-league-javeli": {
+    "firstSeen": "2026-08-21T21:34:48.907Z",
+    "signature": "row",
+    "norm": 35.5
+  },
   "cochin-shipyard-delivers-ins-mangrol-to-indian-navy": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "navy",
-    "norm": 37.5
+    "norm": 32.8
   },
   "trade-unions-sound-alarm-over-supreme-court-judgment-on-defi": {
     "firstSeen": "2026-08-21T22:36:10.859Z",
     "signature": "supreme court",
-    "norm": 37.5
+    "norm": 32.8
   },
   "rahul-s-street-politics-signals-a-new-opposition-playbook": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "opposition",
-    "norm": 37.5
+    "norm": 32.8
   },
   "special-campaign-for-electoral-roll-enrolment-corrections": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "mp",
-    "norm": 37.5
+    "norm": 32.8
   },
   "minister-inspects-aero-express-bus-services-to-bhogapuram-ai": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "minister",
-    "norm": 37.5
+    "norm": 32.8
   },
   "why-meghan-markle-faces-difficult-return-to-the-uk": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "mp",
-    "norm": 37.5
-  },
-  "awards-announced": {
-    "firstSeen": "2026-08-21T21:34:48.907Z",
-    "signature": "war",
-    "norm": 35.5
+    "norm": 32.8
   },
   "netherlands-fines-uber-825-million-euros-over-driver-account": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
@@ -219,53 +229,48 @@
     "signature": "pakistan",
     "norm": 32.8
   },
+  "tiktok-to-pay-400-million-settlement-in-us-children-s-privac": {
+    "firstSeen": "2026-08-21T23:34:04.123Z",
+    "signature": "",
+    "norm": 30.7
+  },
   "105-not-out-sc-orders-release-of-murder-convict": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 26.7
   },
   "apple-loop-iphone-18-pro-profit-critical-ios-update-macbook-": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 26.7
   },
   "rashtrapati-bhavan-hints-at-bangladesh-pm-tarique-rahman-s-v": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 26.7
   },
   "international-rbsm-concludes-with-88-mous-in-visakhapatnam": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "varalakshmi-vratam-performed-with-religious-fervour": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "centre-denies-permission-for-telangana-cm-revanth-reddy-s-u-": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "the-coast-that-made-chennai": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "woman-sanitation-worker-murdered-and-jewelry-stolen-at-thiru": {
     "firstSeen": "2026-08-21T20:35:58.817Z",
-    "signature": "",
-    "norm": 26.7
-  },
-  "from-heritage-to-high-rises-how-chennai-grew-taller": {
-    "firstSeen": "2026-08-21T21:34:48.907Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "her-stellar-performance-stands-out-beyond-tears": {
-    "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "",
     "norm": 21.2
   },
@@ -290,11 +295,6 @@
     "norm": 21.2
   },
   "indigo-trichy-singapore-flight-returns-after-mid-air-technic": {
-    "firstSeen": "2026-08-21T21:34:48.907Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "technical-issue-delays-trichy-singapore-indigo-flight-127-pa": {
     "firstSeen": "2026-08-21T21:34:48.907Z",
     "signature": "",
     "norm": 21.2
