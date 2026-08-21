@@ -1,161 +1,101 @@
 {
-  "assam-cab-operators-continue-highway-blockade-over-shillong-": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "attack|attack|chief minister|minister",
-    "norm": 71.6
+  "pm-modi-meets-20-space-startup-ceos-urges-wider-use-of-space": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "modi|modi|row|star",
+    "norm": 72.7
   },
-  "karnataka-ruling-and-opposition-parties-stage-separate-prote": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "bjp|congress|opposition|protest|protest|ruling",
-    "norm": 70
-  },
-  "rahul-gandhi-protest-in-delhi-highlights-rahul-ends-over-6-h": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "mp|opposition|protest|protest|rahul gandhi",
-    "norm": 69
-  },
-  "meena-kandasamy-on-decoding-the-indian-incel": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "attack|attack|mp",
-    "norm": 67.6
-  },
-  "after-rahul-s-dharna-police-register-fir-on-pellet-gun-use-a": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "mp|protest|protest|rahul gandhi",
-    "norm": 66.9
-  },
-  "india-has-political-stability-world-sees-it-as-bright-spot-o": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "modi|modi|row",
+  "iob-assistant-branch-manager-arrested-for-3-09-crore-gold-lo": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "crore|fraud|gold",
     "norm": 66
   },
-  "lured-by-offline-booking-killed-for-car-murder-of-delhi-taxi": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "killed|killed|tax",
-    "norm": 66
+  "sugar-output-may-dip-11-says-govt-rules-out-ethanol-diversio": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "mp|price|prices",
+    "norm": 59.3
   },
-  "chilling-video-teen-attempts-suicide-after-family-dispute-ov": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "mp|rescue|rescue|video",
-    "norm": 65.6
+  "grievances-registration-line-soon-for-sanitation-workers": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "killed|killed",
+    "norm": 59.3
   },
-  "mother-of-gaza-girl-hind-rajab-demands-independent-probe-int": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "death|israel|war",
-    "norm": 62.9
+  "plp-to-pli-reform-express-at-full-speed-says-pm-modi": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "modi|modi",
+    "norm": 55.4
   },
-  "us-supreme-court-allows-construction-of-trump-s-white-house-": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "mp|supreme court|trump|trump",
-    "norm": 61.8
+  "gen-alpha-protests-mirror-government-report-big-gaps-in-scho": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "bail-denied-to-pulwama-attack-accused-jail-authorities-asked": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "attack|attack",
-    "norm": 57.6
-  },
-  "cabinet-clears-ai-surveillance-cameras-and-portable-signal-j": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "cabinet|fear",
-    "norm": 57.1
-  },
-  "upper-bhadra-project-will-be-completed-by-year-end-chaluvara": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "crore|mp",
+  "supreme-court-lauds-scrapped-mgnrega-as-a-good-effective-sch": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "fund|supreme court",
     "norm": 53.2
   },
-  "delhi-police-detain-anti-reservation-protesters-at-jantar-ma": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "government-keen-to-bring-foreign-university-campuses-to-kwin": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "minister|mp",
+  "crop-damage-production-dip-and-festival-demand-led-to-price-": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "price|prices",
     "norm": 50.5
   },
-  "karnataka-amid-din-assembly-passes-apartment-bill-and-two-ot": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "bill|mp",
+  "supreme-court-trims-law-practice-requirement-to-1-year-for-j": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "high court|supreme court",
     "norm": 50.5
   },
-  "alappuzha-murder-allegedly-involving-four-minors-raises-trou": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "exam",
-    "norm": 48.2
-  },
-  "kishtwar-girl-dies-after-forced-abortion-bid-teacher-held": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "telangana-government-to-initiate-logistics-reforms-to-enhanc": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "t-n-govt-to-form-state-advisory-board-on-preventing-crimes-a": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "minister",
+  "cochin-shipyard-delivers-ins-mangrol-to-indian-navy": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "navy",
     "norm": 45.9
   },
-  "omar-abdullah-backs-rahul-gandhi-says-lop-s-job-is-to-make-g": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "rahul gandhi",
+  "rahul-s-street-politics-signals-a-new-opposition-playbook": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "opposition",
+    "norm": 45.9
+  },
+  "special-campaign-for-electoral-roll-enrolment-corrections": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "mp",
     "norm": 44
   },
-  "netherlands-fines-uber-825-million-euros-over-driver-account": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "ruling",
+  "minister-inspects-aero-express-bus-services-to-bhogapuram-ai": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "minister",
     "norm": 44
   },
-  "kerala-high-court-flags-poor-conditions-at-kuthiravattom-men": {
-    "firstSeen": "2026-08-21T18:51:38.444Z",
-    "signature": "high court",
+  "why-meghan-markle-faces-difficult-return-to-the-uk": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "mp",
     "norm": 44
   },
-  "rashtrapati-bhavan-withdraws-email-on-bangladesh-pm-visit": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
+  "advocates-can-now-apply-for-judge-posts-after-1-year-practic": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "",
     "norm": 36
   },
-  "chennai-s-remarkable-quality-is-the-willingness-of-people-to": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "",
-    "norm": 36
-  },
-  "experts-at-webinar-discuss-key-elements-of-geriatric-well-be": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-sowcar-janaki-a-life-that-was-never-bound-by-the-script-til": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "",
-    "norm": 36
-  },
-  "karnataka-police-have-identified-771-illegal-bangladeshi-imm": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
-    "signature": "",
-    "norm": 36
-  },
-  "us-envoy-wraps-up-ladakh-visit-skips-meeting-dalai-lama": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
+  "international-rbsm-concludes-with-88-mous-in-visakhapatnam": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "",
     "norm": 33.9
   },
-  "less-than-half-of-the-seats-on-offer-filled-after-second-rou": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
+  "varalakshmi-vratam-performed-with-religious-fervour": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "",
     "norm": 33.9
   },
-  "concerns-of-youth-should-be-understood-and-addressed-rss-lea": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
+  "centre-denies-permission-for-telangana-cm-revanth-reddy-s-u-": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "",
     "norm": 33.9
   },
-  "up-interpol-red-corner-notice-issued-against-2024-sambhal-vi": {
-    "firstSeen": "2026-08-21T19:32:59.817Z",
+  "the-coast-that-made-chennai": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "woman-sanitation-worker-murdered-and-jewelry-stolen-at-thiru": {
+    "firstSeen": "2026-08-21T20:35:58.817Z",
     "signature": "",
     "norm": 33.9
   }
