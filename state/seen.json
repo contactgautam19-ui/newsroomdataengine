@@ -1,186 +1,166 @@
 {
-  "2-killed-several-injured-as-under-construction-building-coll": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "building collapse|collapse|collapse|collapse|congress|injured|killed|killed|mla",
-    "norm": 90
+  "two-killed-nine-injured-in-reactor-blast-at-pharma-unit-in-y": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "actor|blast|explosion|explosion|injured|killed|killed|panic",
+    "norm": 83.3
   },
-  "how-dark-tankers-in-strait-of-hormuz-are-keeping-oil-prices-": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "drone|iran|mp|navy|price|prices|threat",
-    "norm": 86.6
+  "two-workers-killed-after-under-construction-seven-storey-bui": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "building collapse|collapse|collapse|collapse|killed|killed",
+    "norm": 77.6
   },
-  "india-to-issue-summons-to-hafiz-saeed-in-pakistan-via-diplom": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "ipl|pakistan|terror|terror",
-    "norm": 75.9
+  "-dimagi-naxal-row-pm-modi-s-remark-sparks-debate-over-dissen": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "exam|modi|modi|mp|row",
+    "norm": 75
   },
-  "psc-exam-scam-governor-summons-kerala-public-service-commiss": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "controversy|exam|governor|scam",
-    "norm": 72.6
+  "-us-visit-not-for-education-but-to-meet-anti-india-voices-bj": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "attack|attack|bjp|row",
+    "norm": 71
   },
-  "in-rs-1-46-crore-cheating-case-fraudsters-pose-as-payments-b": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "crore|fraud|fund|policy",
-    "norm": 69.6
+  "jharkhand-protests-firs-filed-against-214-people-over-august": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "clash|clash|khan|protest|protest",
+    "norm": 69.3
   },
-  "man-stabbed-to-death-in-northeast-delhi-one-arrested": {
-    "firstSeen": "2026-08-22T13:39:48.780Z",
-    "signature": "attack|attack|death|hospital",
-    "norm": 68
+  "mallikarjun-kharge-slams-centre-over-denial-of-travel-permis": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "chief minister|minister|slam|slams",
+    "norm": 66.6
   },
-  "bjp-legislators-in-hubballi-protesting-to-reclaim-temple-lan": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "bjp|mp|protest|protest",
-    "norm": 66.9
+  "fir-against-dipke-cjp-founder-booked-for-entering-school-wit": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "mp|record|threat",
+    "norm": 61.1
   },
-  "mangaluru-shift-aimed-at-appeasing-karnataka-bjp-says-sreeka": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "bjp|mp|protest|protest",
-    "norm": 66.9
+  "union-minister-will-meet-anti-reservation-protesters-in-next": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "minister|protest|protest",
+    "norm": 61.1
   },
-  "pm-modi-meets-nitin-nabin-s-new-bjp-team-at-party-headquarte": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "bjp|minister|modi|modi|prime minister",
-    "norm": 64.6
+  "ranchi-police-files-fir-against-jpsc-jssc-protest-leaders-ov": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "clash|clash|protest|protest",
+    "norm": 60.8
   },
-  "ac-mechanic-booked-for-engaging-with-instagram-reels-of-paki": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "gst|instagram|pakistan",
-    "norm": 62.1
-  },
-  "boy-recovers-from-severe-kidney-injury-after-snakebite": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
+  "-meeting-all-about-new-ideas-amp-perspectives-pm-modi-after-": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
     "signature": "modi|modi|mp",
-    "norm": 61.4
+    "norm": 59.7
   },
-  "pm-modi-meets-bjp-s-newly-formed-team-at-party-headquarters-": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "bjp|modi|modi",
-    "norm": 61.4
+  "nta-suspends-eduquity-s-empanelment-over-jaipur-aiapget-laps": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "exam|mp",
+    "norm": 57.1
   },
-  "deepika-scholarship-only-11-000-apply-before-deadline": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "dead|dead",
-    "norm": 59.3
+  "minister-calls-for-public-action-on-cleanliness-plastic-free": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "minister|war",
+    "norm": 57.1
   },
-  "-killed-in-front-of-me-adobe-techie-s-mother-shares-chilling": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "killed|killed",
-    "norm": 59.3
+  "eight-personalities-chosen-for-karmayogi-award-2026-": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "war|yogi",
+    "norm": 57.1
   },
-  "rising-prices-cast-shadow-over-onam-govt-must-act-urgently-s": {
-    "firstSeen": "2026-08-22T13:39:48.780Z",
-    "signature": "opposition|price|prices",
-    "norm": 59.3
-  },
-  "gurajada-samskrutika-samakhya-offers-tributes-to-sowcar-jana": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "actor|died|film",
-    "norm": 59.3
-  },
-  "2-cops-among-7-killed-after-vehicle-rams-police-car-in-engla": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "killed|killed",
-    "norm": 57.6
-  },
-  "elon-musk-pitches-starlink-but-india-s-rural-internet-usage-": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "mp|record|star",
-    "norm": 57.6
-  },
-  "india-s-space-dream-takes-off-moon-samples-human-spaceflight": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "mp|war",
+  "idukki-collector-directs-forest-department-to-submit-report-": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "iran|mla",
     "norm": 55.4
   },
-  "marine-enforcement-squad-rescues-stranded-fishermen-off-koyi": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "rescue|rescue",
-    "norm": 54.2
+  "-class-action-cockroach-janta-party-s-abhijeet-dipke-booked-": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "maharashtra|mp",
+    "norm": 55.4
   },
-  "former-drug-peddler-arrested-for-illegal-firearms-trade-in-m": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "fire|fire",
-    "norm": 54.2
+  "school-bus-overturns-into-canal-in-a-p-s-ntr-district-six-st": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "accident|injured",
+    "norm": 53.9
   },
-  "eam-jaishankar-to-visit-russia-co-chair-key-trade-and-econom": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "jaishankar|minister|prime minister",
+  "pinarayi-vijayan-binoy-viswam-lock-horns-over-deputy-leader-": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "opposition|price",
+    "norm": 53.2
+  },
+  "vijay-s-100-day-report-card-welfare-women-s-safety-corruptio": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "chief minister|minister|mp",
+    "norm": 52.7
+  },
+  "-what-has-it-done-in-response-to-jaishankar-reacts-to-mecca-": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "defence|jaishankar|pakistan",
     "norm": 50.9
   },
-  "nehru-trophy-boat-race-a-landmark-event-that-unites-keralite": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "shifting-of-onam-fair-venue-kicks-up-a-row-in-keralam-s-kozh": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "row",
+  "kasturirangan-draft-unacceptable-if-it-curbs-farming-ponnann": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "iran",
     "norm": 48.2
   },
-  "transgender-stabbed-to-death-at-majestic-for-200-accused-arr": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "death",
+  "three-from-karnataka-win-national-teachers-awards": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "mk-stalin-announces-major-dmk-overhaul-sets-age-and-term-lim": {
-    "firstSeen": "2026-08-22T13:39:48.780Z",
-    "signature": "exam",
-    "norm": 46.3
+  "kodagu-human-wildlife-conflict-forest-minister-to-meet-affec": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "cm-discusses-with-cambridge-and-univ-of-london-for-campuses-": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "mp",
+    "norm": 45.9
   },
   "-women-don-t-need-to-prove-anything-to-anyone-rahul-gandhi-a": {
     "firstSeen": "2026-08-22T14:33:06.646Z",
     "signature": "rahul gandhi",
-    "norm": 45.9
+    "norm": 44
   },
-  "movement-on-nh-2-huge-relief-for-people-manipur-cm-yumnam-kh": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "mp",
-    "norm": 45.9
+  "case-registered-against-woman-over-social-media-videos-targe": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
+    "signature": "video",
+    "norm": 40.7
   },
-  "begging-pleading-prostrating-mother-s-desperate-attempts-to-": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "markapuram-police-arrest-man-linked-to-two-murder-cases": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
+  "karnataka-ias-officer-said-to-be-missing-had-gone-on-leave-t": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
     "signature": "",
     "norm": 36
   },
-  "cm-invites-cambridge-to-partner-with-telangana-govt-": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
+  "karnataka-to-recruit-1000-faculty-members-across-32-state-un": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
     "signature": "",
     "norm": 36
   },
-  "chittoor-collector-reviews-arrangements-for-kanipakam-brahmo": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
+  "-ensure-end-of-caste-system-first-athawale-calls-reservation": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
     "signature": "",
     "norm": 36
   },
-  "hdk-alleges-state-government-of-favouring-nice": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
+  "fodder-shortage-animal-husbandry-dept-proposes-mini-kits-for": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
     "signature": "",
     "norm": 36
   },
-  "govt-included-some-lands-under-sec-22a-only-to-make-easy-mon": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
+  "five-including-78-year-old-man-arrested-in-hyderabad-while-t": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
     "signature": "",
     "norm": 36
   },
-  "seven-cows-stolen-from-shed-in-parappana-agrahara": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
+  "edamalakkudy-resident-carried-on-foot-for-over-5-km-to-neare": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
     "signature": "",
     "norm": 36
   },
-  "amrit-bharat-3-0-ac-coaches-with-vande-bharat-style-features": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
+  "brs-demands-centre-state-to-tell-facts-behind-denial-of-nod-": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "-mind-your-tongue-cong-vs-cong-erupts-over-role-model-praise": {
-    "firstSeen": "2026-08-22T14:33:06.646Z",
+  "iit-tirupati-celebrates-8th-convocation": {
+    "firstSeen": "2026-08-22T15:31:46.561Z",
     "signature": "",
     "norm": 33.9
   }
