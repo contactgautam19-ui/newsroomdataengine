@@ -2,7 +2,7 @@
   "in-leaked-audio-gangster-goldy-brar-claims-he-killed-hardeep": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "gold|gst|killed|killed|terror|terror",
-    "norm": 80.5
+    "norm": 77.1
   },
   "hindu-trader-shot-dead-by-unidentified-gunmen-in-pakistan-s-": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -29,85 +29,60 @@
     "signature": "army|dead|dead|mp",
     "norm": 61
   },
-  "60-rebate-spurs-b-khata-conversion-but-fails-to-attract-subs": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "dead|dead|mp",
-    "norm": 60.6
-  },
   "eam-downplays-pakistan-turkey-saudi-defence-pact-what-has-it": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "actor|defence|jaishankar|pakistan|war",
     "norm": 59.6
   },
-  "collections-under-rbi-s-dollar-swap-scheme-exceed-72-8-billi": {
+  "60-rebate-spurs-b-khata-conversion-but-fails-to-attract-subs": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "bill|billion|rbi",
-    "norm": 59.3
-  },
-  "invoking-mahatma-gandhi-bjp-to-start-nationwide-vande-campai": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "bjp|congress|mp|star",
-    "norm": 58.3
-  },
-  "what-are-the-u-s-s-latest-allegations-against-india-explaine": {
-    "firstSeen": "2026-08-22T20:35:00.281Z",
-    "signature": "mp|row|scam",
-    "norm": 58.2
-  },
-  "-we-got-attacked-canada-s-carney-says-us-launched-trade-war-": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "attack|attack|war",
-    "norm": 57.4
+    "signature": "dead|dead|mp",
+    "norm": 56.7
   },
   "panama-flagged-ship-sinks-off-odisha-s-paradip-coast-indian-": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "mp|navy|rescue|rescue",
     "norm": 56
   },
-  "shivamogga-school-teacher-wins-national-teachers-award-to-re": {
+  "invoking-mahatma-gandhi-bjp-to-start-nationwide-vande-campai": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "mp|president|war",
-    "norm": 54.1
+    "signature": "bjp|congress|mp|star",
+    "norm": 55.7
   },
-  "samajwadi-party-plans-youth-manifesto-for-u-p-poll-party-won": {
+  "what-are-the-u-s-s-latest-allegations-against-india-explaine": {
+    "firstSeen": "2026-08-22T20:35:00.281Z",
+    "signature": "mp|row|scam",
+    "norm": 55.2
+  },
+  "collections-under-rbi-s-dollar-swap-scheme-exceed-72-8-billi": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "alliance|bjp|manifesto|mp|poll|recruitment",
-    "norm": 54
+    "signature": "bill|billion|rbi",
+    "norm": 55
   },
   "panama-flagged-cargo-ship-sinks-in-bay-of-bengal-rescue-oper": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "rescue|rescue|war",
     "norm": 53.8
   },
-  "-new-ideas-perspectives-pm-modi-meets-team-bjp-3-0": {
+  "-we-got-attacked-canada-s-carney-says-us-launched-trade-war-": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "bjp|modi|modi|president",
-    "norm": 52.3
+    "signature": "attack|attack|war",
+    "norm": 53.4
   },
   "25-year-old-arrested-for-links-with-pakistani-gangsters-thro": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "gst|instagram|pakistan",
     "norm": 50.8
   },
-  "india-us-ties-to-define-global-stage-trade-deal-coming-sergi": {
-    "firstSeen": "2026-08-22T20:35:00.281Z",
-    "signature": "deal|us ties",
-    "norm": 50.5
-  },
-  "lucknow-locals-upset-as-iconic-coffee-house-remains-shut-ami": {
-    "firstSeen": "2026-08-22T20:35:00.281Z",
-    "signature": "mp|upset",
-    "norm": 50.2
+  "shivamogga-school-teacher-wins-national-teachers-award-to-re": {
+    "firstSeen": "2026-08-22T21:31:45.458Z",
+    "signature": "mp|president|war",
+    "norm": 50
   },
   "trump-s-remake-of-white-house-rose-garden-has-fewer-roses-mo": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "mp|trump|trump",
     "norm": 50
-  },
-  "big-milestone-india-s-1st-100-indigenous-ak-203-sher-made-te": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "fire|fire",
-    "norm": 49.7
   },
   "telangana-energy-sector-to-complement-govt-plans-to-achieve-": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -119,75 +94,95 @@
     "signature": "died|maharashtra",
     "norm": 47.7
   },
-  "park-bill-move-aimed-at-facilitating-takeover-of-lalbagh-lan": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "bill|bjp|cabinet|mp",
-    "norm": 46.1
+  "lucknow-locals-upset-as-iconic-coffee-house-remains-shut-ami": {
+    "firstSeen": "2026-08-22T20:35:00.281Z",
+    "signature": "mp|upset",
+    "norm": 47.4
   },
-  "health-dept-kochi-corporation-to-conduct-inspections-at-wate": {
+  "india-us-ties-to-define-global-stage-trade-deal-coming-sergi": {
+    "firstSeen": "2026-08-22T20:35:00.281Z",
+    "signature": "deal|us ties",
+    "norm": 47.3
+  },
+  "big-milestone-india-s-1st-100-indigenous-ak-203-sher-made-te": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "mp|surprise",
-    "norm": 44.1
+    "signature": "fire|fire",
+    "norm": 46.5
+  },
+  "-not-just-daughter-wife-or-mother-rahul-gandhi-urges-women-t": {
+    "firstSeen": "2026-08-22T22:33:42.326Z",
+    "signature": "rahul gandhi",
+    "norm": 44
   },
   "firs-against-14-named-200-unnamed-persons-over-ranchi-studen": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "clash|clash",
     "norm": 42.2
   },
-  "-ties-must-serve-mutual-interest-eam-jaishankar-on-banglades": {
-    "firstSeen": "2026-08-22T20:35:00.281Z",
-    "signature": "jaishankar",
+  "park-bill-move-aimed-at-facilitating-takeover-of-lalbagh-lan": {
+    "firstSeen": "2026-08-22T21:31:45.458Z",
+    "signature": "bill|bjp|cabinet|mp",
+    "norm": 41.8
+  },
+  "u-p-deputy-cm-brajesh-pathak-meets-reservation-reform-moveme": {
+    "firstSeen": "2026-08-22T22:33:42.326Z",
+    "signature": "minister",
     "norm": 41
   },
-  "while-madras-went-to-bed-early-chennai-stays-up": {
+  "health-dept-kochi-corporation-to-conduct-inspections-at-wate": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "row",
-    "norm": 40.1
-  },
-  "yeh-rishta-kya-kehlata-hai-actor-mohsin-khan-gets-engaged-to": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "actor|khan",
-    "norm": 40.1
-  },
-  "endoscopic-cam-used-to-copy-paper-in-sealed-packet-in-chhatt": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "mp",
-    "norm": 40.1
-  },
-  "-lavanyam-2026-to-kick-start-on-august-24": {
-    "firstSeen": "2026-08-22T20:35:00.281Z",
-    "signature": "star",
-    "norm": 39.4
+    "signature": "mp|surprise",
+    "norm": 39.7
   },
   "pan-masala-unit-busted-near-hyderabad-rs-160-crore-tax-evasi": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "crore|tax",
     "norm": 38
   },
+  "-ties-must-serve-mutual-interest-eam-jaishankar-on-banglades": {
+    "firstSeen": "2026-08-22T20:35:00.281Z",
+    "signature": "jaishankar",
+    "norm": 37.5
+  },
+  "-lavanyam-2026-to-kick-start-on-august-24": {
+    "firstSeen": "2026-08-22T20:35:00.281Z",
+    "signature": "star",
+    "norm": 35.8
+  },
+  "while-madras-went-to-bed-early-chennai-stays-up": {
+    "firstSeen": "2026-08-22T21:31:45.458Z",
+    "signature": "row",
+    "norm": 35.5
+  },
+  "yeh-rishta-kya-kehlata-hai-actor-mohsin-khan-gets-engaged-to": {
+    "firstSeen": "2026-08-22T21:31:45.458Z",
+    "signature": "actor|khan",
+    "norm": 35.5
+  },
+  "endoscopic-cam-used-to-copy-paper-in-sealed-packet-in-chhatt": {
+    "firstSeen": "2026-08-22T21:31:45.458Z",
+    "signature": "mp",
+    "norm": 35.5
+  },
   "how-apple-s-iphone-18-pro-launch-date-crushes-the-competitio": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "mp",
-    "norm": 37.5
+    "norm": 32.8
   },
   "-matter-of-national-economy-security-rajnath-singh-on-preven": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "economy",
-    "norm": 37.5
+    "norm": 32.8
   },
   "minister-bindhu-krishna-promises-top-priority-for-children-s": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "minister",
-    "norm": 37.5
+    "norm": 32.8
   },
   "up-to-offer-free-bus-travel-to-women-one-companion-for-raksh": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "mp",
-    "norm": 37.5
-  },
-  "soon-no-need-for-physical-boarding-cards-at-immigration": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 32.8
   },
   "tvk-mla-booked-in-trespass-assault-case-in-puducherry": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -214,45 +209,50 @@
     "signature": "rahul gandhi",
     "norm": 32.8
   },
-  "bci-chairman-faces-calls-to-quit-co-chair-demands-inquiry": {
+  "soon-no-need-for-physical-boarding-cards-at-immigration": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
     "norm": 30.7
+  },
+  "bci-chairman-faces-calls-to-quit-co-chair-demands-inquiry": {
+    "firstSeen": "2026-08-22T21:31:45.458Z",
+    "signature": "",
+    "norm": 26.7
   },
   "woman-sukhoi-pilot-was-part-of-operation-sindoor-team-that-h": {
     "firstSeen": "2026-08-22T20:35:00.281Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 26.7
   },
   "east-division-holds-peace-meeting-ahead-of-eid-milad-st-mary": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "bengaluru-hosts-international-conference-on-neurodiversity-a": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "blue-line-to-open-in-phases-from-mid-2027-full-stretch-by-ma": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "play-by-praveen-godkhindi-in-belagavi-on-august-30": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "fishes-of-chennai-explores-city-s-native-freshwater-fish-exp": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "hyderabad-police-step-up-security-for-milad-un-nabi-processi": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "up-class-12-student-found-hanging-hours-after-being-accused-": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -284,17 +284,17 @@
     "signature": "",
     "norm": 21.2
   },
+  "infinix-hot-70-pro-5g-india-launch-set-for-september-4-with-": {
+    "firstSeen": "2026-08-22T22:33:42.326Z",
+    "signature": "",
+    "norm": 21.2
+  },
   "singapore-bound-cargo-ship-with-24-crew-members-sinks-off-od": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
     "norm": 21.2
   },
   "passenger-leaves-bag-containing-rs-25-000-on-train-in-jammu-": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "fssai-issues-over-150-notices-to-nestle-pepsico-coca-cola-ov": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
     "norm": 21.2
