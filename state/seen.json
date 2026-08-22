@@ -1,301 +1,111 @@
 {
-  "infant-dead-two-injured-in-fire-at-nicu-in-madhya-pradesh-s-": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "dead|dead|died|fan|fire|fire|injured|war",
-    "norm": 86
+  "sanjay-seth-asks-rahul-gandhi-to-visit-ranchi-meet-injured-s": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "congress|exam|injured|khan|minister|rahul gandhi|recruitment",
+    "norm": 83.2
   },
-  "-talk-about-employment-inflation-investment-congress-preside": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "congress|inflation|modi|modi|mp|president|row",
-    "norm": 84.7
+  "annapurna-bhandar-protests-reach-the-doorsteps-of-bjp-leader": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "bjp|lakh|opposition|protest|protest",
+    "norm": 74.9
   },
-  "awarapan-2-worldwide-box-office-day-8-beats-cocktail-2-becom": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "bollywood|bollywood|box office|war",
-    "norm": 72.3
+  "yamuna-floodplains-supreme-court-sets-aside-ngt-order-agains": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "crore|flood|flood|fund|supreme court",
+    "norm": 73.3
+  },
+  "naidu-pitches-visakhapatnam-as-hub-for-brics-sports-network": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "brics|chief minister|killed|killed|minister",
+    "norm": 72
   },
   "panama-flagged-ship-sinks-off-odisha-s-paradip-coast-indian-": {
     "firstSeen": "2026-08-22T16:36:20.529Z",
     "signature": "mp|navy|rescue|rescue",
     "norm": 66.9
   },
-  "pakistan-govt-accuses-ex-pm-imran-khan-party-of-violating-sc": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "hospital|khan|pakistan",
-    "norm": 66.9
-  },
-  "nagaon-several-organisations-extend-financial-support-to-cm-": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "flood|flood|fund",
-    "norm": 65.6
-  },
-  "six-year-old-girl-dies-after-family-killed-in-shoreham-sea-t": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "killed|killed|tragedy",
-    "norm": 65.6
-  },
-  "rahul-gandhi-s-chhatron-ki-goonj-vs-pm-modi-s-bjp-team-meet-": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "bjp|minister|modi|modi|prime minister|rahul gandhi",
-    "norm": 65.1
+  "fir-registered-against-abhijeet-dipke-for-entering-governmen": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "maharashtra|mp|threat",
+    "norm": 66
   },
   "bjp-to-launch-month-long-campaign-from-sept-17-to-mark-pm-mo": {
     "firstSeen": "2026-08-22T16:36:20.529Z",
     "signature": "bjp|modi|modi|mp",
-    "norm": 63.5
+    "norm": 61.8
   },
-  "-pretend-please-that-i-m-on-the-ballot-trump-s-appeal-to-vot": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "mp|trump|trump|vote",
-    "norm": 63.5
+  "village-students-shifted-to-vacant-house-after-attack-on-cjp": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "attack|attack",
+    "norm": 57.6
   },
-  "missing-man-found-dead-in-well-at-home-in-navaikulam": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "dead|dead",
-    "norm": 60.4
+  "cheaper-crude-dearer-ethanol-india-s-maize-bind": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "petrol|petrol",
+    "norm": 55.4
   },
-  "plus-one-higher-secondary-improvement-examinations-from-octo": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "exam|mp",
-    "norm": 60
+  "shashi-tharoor-breaks-silence-on-vande-mataram-row-we-will-a": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "congress|row",
+    "norm": 55.4
   },
-  "a-trade-war-between-canada-and-the-us-deepens-rupture-in-wha": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "alliance|war",
-    "norm": 58.3
-  },
-  "kozhikode-beach-fire-station-returns-to-original-location": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "fire|fire",
-    "norm": 57.1
-  },
-  "box-office-thalapathy-vijay-crosses-1900-crore-globally-post": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "box office|crore",
-    "norm": 56.4
-  },
-  "peace-and-tranquillity-along-border-areas-prerequisite-for-g": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "border|china|jaishankar",
-    "norm": 55.7
-  },
-  "resident-evil-north-america-box-office-zach-cregger-reboot-i": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "box office|record",
-    "norm": 53.5
-  },
-  "content-creator-who-reported-on-ram-temple-donations-theft-c": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "aap|congress|mp",
+  "bjp-passes-resolution-against-congress-over-vande-mataram-is": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "bjp|congress|mp",
     "norm": 52.7
   },
-  "-congress-attempting-to-fragment-vande-mataram-for-political": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "congress|mp",
-    "norm": 51.7
+  "be-loud-be-proud-fight-for-your-space-rahul-gandhi-tells-gen": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "mp|rahul gandhi",
+    "norm": 48.7
   },
-  "religious-identity-nationalism-and-state-competing-political": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "mp|pakistan",
-    "norm": 51.7
+  "gorkha-issue-union-government-promises-permanent-solution-se": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "amit shah|mp",
+    "norm": 48.7
   },
-  "libra-scorpio-sagittarius-horoscope-today-for-august-23-2026": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "row",
-    "norm": 51.2
-  },
-  "capricorn-aquarius-pisces-horoscope-today-for-august-23-2026": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "row",
-    "norm": 51.2
-  },
-  "ju-row-cm-targets-tukde-tukde-gangs-says-vande-mataram-non-n": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "row",
-    "norm": 49.4
-  },
-  "canada-will-impose-retaliatory-tariffs-on-us-goods-beginning": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "canada-rejects-us-trade-terms-to-impose-retaliatory-tariffs-": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "-more-sensitive-gentle-rahul-gandhi-calls-women-india-bigges": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "rahul gandhi",
-    "norm": 49
-  },
-  "assam-meghalaya-tension-fuel-supply-hit-as-both-states-seek-": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "fuel",
-    "norm": 49
-  },
-  "shaan-buys-three-luxury-flats-in-bandra-for-rs-47-64-crore-g": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "crore",
-    "norm": 49
-  },
-  "husband-quits-rs-85-lpa-job-to-become-content-creator-wife-c": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "lakh",
-    "norm": 49
-  },
-  "hockey-world-cup-india-s-semifinal-hopes-end-after-1-3-loss-": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "world cup",
-    "norm": 48.2
-  },
-  "justice-nagarathna-s-dissent-warns-of-tearing-the-frayed-saf": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "at-61-aamir-khan-to-transform-into-a-25-year-old-for-lalkaar": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "khan",
-    "norm": 47.4
-  },
-  "bethlehem-kudumba-unit-box-office-collection-day-1-nivin-pau": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "box office",
-    "norm": 47.4
-  },
-  "paramakudi-dsp-suspended-after-wife-harassment-complaint-mad": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "numerology-horoscope-today-august-23-2026-number-5-signals-s": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "sudden",
-    "norm": 45.9
-  },
-  "indian-railways-emerges-as-world-second-largest-freight-carr": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "actor",
-    "norm": 45.5
-  },
-  "china-bound-vessel-with-24-crew-members-sinks-200-nautical-m": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "china",
-    "norm": 44
-  },
-  "rahul-gandhi-pays-tribute-to-chhatrapati-shahu-maharaj-ahead": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
+  "-women-don-t-need-to-prove-anything-to-anyone-rahul-gandhi-a": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
     "signature": "rahul gandhi",
     "norm": 44
   },
-  "-strict-action-against-sugar-black-marketing-those-stocking-": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "minister",
-    "norm": 44
-  },
-  "delhi-cm-watches-son-kin-receive-engineering-degrees-at-vit-": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
+  "watch-weed-alcohol-no-toilets-what-cjp-saw-in-rural-school": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
     "signature": "watch",
     "norm": 42.7
   },
-  "rrt-to-be-formed-to-address-timely-redressal-of-road-related": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "madurai-collector-holds-monsoon-preparedness-meeting": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "60-rebate-spurs-b-khata-conversion-but-fails-to-attract-subs": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "ranveer-allahbadia-and-girlfriend-juhi-romantic-trip-to-lada": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "thumbay-international-pathway-md-program-with-installments-a": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "shivraj-singh-chouhan-asks-states-to-fast-track-farmer-id-ro": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "india-on-the-cusp-of-redefining-mental-healthcare-experts": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "youth-will-rise-to-defend-the-republic-says-aishe-ghosh-at-d": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "altaf-bukhari-says-power-tariff-hike-another-measure-by-nc-g": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "kerala-hc-directs-measuring-of-material-desilted-from-chulli": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "-dsc-followed-centre-guidelines-andhra-cm-naidu-rejects-ysrc": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "column-washington-fiscal-dysfunction-is-becoming-a-global-ri": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "transform-your-entrance-inexpensive-vanilla-spray-to-elimina": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "j-k-parties-oppose-hike-in-power-tarrif-daily-excelsior": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "karnataka-bans-manufacture-and-sale-of-analogue-paneer-label": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "rrs-seeks-action-on-long-standing-issues-of-rayalaseema": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
+  "i-ve-got-my-eye-on-you": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
     "signature": "",
     "norm": 36
   },
-  "engineering-graduates-should-turn-india-into-ai-creator-rath": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "",
-    "norm": 36
-  },
-  "3-289-forest-offence-cases-registered-in-chamarajanagar-fore": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
+  "fssai-issues-over-150-notices-to-nestle-pepsico-coca-cola-ov": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
     "signature": "",
     "norm": 33.9
   },
-  "-not-against-theaterisation-iaf-chief-urges-gradual-transiti": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
+  "cmc-performs-rare-robotic-surgery": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
     "signature": "",
     "norm": 33.9
   },
-  "-the-five-heartbeat-fame-michael-wright-passes-away-at-70": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
+  "panama-flagged-cargo-ship-sinks-240-nautical-miles-off-odish": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "markapuram-police-arrest-man-linked-to-two-murder-cases": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-every-flyover-creates-demand-for-four-more-experts-seek-ret": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "panama-flagged-cargo-ship-carrying-24-on-board-sinks-off-odi": {
+    "firstSeen": "2026-08-22T17:31:36.079Z",
     "signature": "",
     "norm": 33.9
   }
