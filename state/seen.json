@@ -1,91 +1,301 @@
 {
-  "two-workers-killed-in-pharma-unit-blast-near-hyderabad": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "blast|explosion|explosion|killed|killed|panic",
-    "norm": 77.3
+  "-blown-away-and-hammered-ex-england-captain-says-pakistan-la": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "captain|collapse|collapse|collapse|match|mp|pakistan",
+    "norm": 88.1
   },
-  "at-least-2-killed-several-injured-in-reactor-blast-at-telang": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "actor|blast|injured|killed|killed",
-    "norm": 72.2
+  "trump-warns-of-economic-d-day-against-iran-but-tehran-is-wel": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "iran|mp|sanction|trump|trump|war",
+    "norm": 76.9
   },
-  "safire-theatre-in-chennai-once-a-cinema-landmark-now-reduced": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "fire|fire|ipl|mp",
-    "norm": 71.4
+  "telangana-pharma-unit-blast-2-workers-killed-9-injured-in-ya": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "blast|fire|fire|injured|killed|killed",
+    "norm": 74.7
   },
-  "abvp-nsui-clash-in-pune-university-hostel-ahead-of-rahul-gan": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "clash|clash|rahul gandhi|threat|video",
-    "norm": 69
+  "ripples-of-ju-clash-reaches-presidency-university-and-midnap": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "clash|clash|mp|slam",
+    "norm": 67.9
   },
-  "iphone-dispute-ends-in-tragedy-as-maharashtra-boy-jumps-from": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "maharashtra|mp|tragedy",
+  "trump-declares-strait-of-hormuz-american-territory-amid-iran": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "iran|mp|trump|trump",
+    "norm": 67.7
+  },
+  "j-amp-k-nia-raids-residential-houses-in-anantnag-as-part-of-": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "mp|terror|terror",
     "norm": 67.6
   },
-  "cash-gold-amp-elderly-victims-how-indian-origin-man-became-m": {
+  "two-workers-killed-in-pharma-unit-blast-near-hyderabad": {
     "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "gold|mp|scam",
-    "norm": 66
+    "signature": "blast|killed|killed",
+    "norm": 67.3
   },
-  "bjp-sad-alliance-back-on-the-table-why-punjab-polls-could-se": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "alliance|bjp|election|election|lok sabha|poll|vote",
-    "norm": 65.3
+  "after-rahul-s-dharna-police-register-fir-on-pellet-gun-use-a": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "mp|protest|protest|rahul gandhi",
+    "norm": 66.9
   },
-  "supreme-court-plea-seeks-removal-of-bci-chief-manan-kumar-mi": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "election|election|supreme court",
-    "norm": 59.7
+  "rbi-announces-sgb-premature-redemption-calendar-for-2026-27-": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "gold|mp|rbi",
+    "norm": 66.7
   },
-  "assam-citizens-forum-calls-for-scientific-solution-to-flood-": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "disaster|flood|flood",
-    "norm": 59.6
+  "us-supreme-court-pauses-halt-on-trump-400-million-white-hous": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "mp|supreme court|trump|trump",
+    "norm": 64.6
   },
-  "kerala-lottery-result-today-live-karunya-kr-765-winning-numb": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "crore|result",
+  "us-supreme-court-chief-justice-allows-work-on-trump-400m-whi": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "mp|supreme court|trump|trump",
+    "norm": 64.6
+  },
+  "is-mla-above-high-court-bombay-hc-issues-show-cause-notice-t": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "bomb|high court|mla",
+    "norm": 64.2
+  },
+  "ahead-of-mha-ladakh-talks-in-september-centre-s-outreach-see": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "alliance|protest|protest",
+    "norm": 62.8
+  },
+  "virginia-teen-arrested-after-stabbing-42-year-old-woman-he-h": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "attack|attack",
+    "norm": 60.4
+  },
+  "teen-bought-iphone-on-emi-asked-parents-to-pay-instalments-w": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "horror|maharashtra",
+    "norm": 60.4
+  },
+  "nia-raids-two-locations-in-j-k-s-anantnag-in-terror-case": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "terror|terror",
+    "norm": 59.3
+  },
+  "assam-citizen-forum-calls-for-scientific-solution-to-flood-p": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "flood|flood",
     "norm": 57.1
   },
-  "quota-within-quota-more-ews-benefits-youtuber-ajeet-bharti-s": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "buying-between-two-similar-apartments-compare-more-than-the-": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "mp|price",
+    "norm": 56.1
   },
-  "termination-of-pune-anganwadi-worker-revoked-after-outrage": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "outrage|video",
-    "norm": 52.4
+  "us-stocks-end-week-on-up-note-nasdaq-100-snaps-five-day-slum": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "mp|stocks",
+    "norm": 56.1
   },
-  "co-host-netherlands-wear-blue-on-blue-turf-india-play-in-saf": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "match|world cup",
-    "norm": 52.1
+  "us-plans-to-pay-usd-850-million-of-usd-5-billion-it-owes-uni": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "bill|billion",
+    "norm": 56.1
   },
-  "cannot-live-like-this-says-west-bengal-man-detained-again-in": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "fear",
-    "norm": 48.2
+  "who-are-gajera-prashant-and-dharaben-bavadiya-indian-nationa": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "fund|scam",
+    "norm": 55.4
+  },
+  "shillong-teer-result-today-august-22-2026-check-winning-numb": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "khan|result",
+    "norm": 53.9
+  },
+  "bitcoin-nears-80-000-amid-biggest-weekly-rally-in-three-year": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "rally|rally",
+    "norm": 53.2
+  },
+  "amit-shah-likely-to-hold-meetings-on-hill-issues-border-secu": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "amit shah|border",
+    "norm": 51.7
+  },
+  "allahabad-hc-rejects-news18-reporter-plea-for-fir-after-poli": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "shooting",
+    "norm": 51.2
+  },
+  "tonetag-wants-to-make-india-ubiquitous-soundbox-more-than-a-": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "alert",
+    "norm": 51.2
+  },
+  "when-a-home-loan-co-borrower-dies-what-happens-to-the-emi-an": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "row",
+    "norm": 49.4
+  },
+  "two-stabbed-at-gurdwara-in-canada-edmonton-police-probe-hate": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "war",
+    "norm": 49.4
+  },
+  "maharashtra-fda-suspends-licences-of-kfc-outlet-baba-kitchen": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "maharashtra",
+    "norm": 49.4
+  },
+  "hpbose-class-12-supplementary-result-2026-announced-59-07-st": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "result",
+    "norm": 49.4
+  },
+  "indian-man-held-in-canada-over-alleged-7-5-million-us-elderl": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "fraud",
+    "norm": 49.4
+  },
+  "two-ships-hijacked-near-yemen-somalia-22-indian-seafarers-re": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "hijack",
+    "norm": 49.4
+  },
+  "the-traitors-s2-is-shweta-tiwari-the-next-contestant-to-be-e": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "war",
+    "norm": 49.4
+  },
+  "goldman-sachs-picks-icici-bank-kotak-mahindra-bank-as-top-ba": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "gold",
+    "norm": 49.4
+  },
+  "iphone-maker-apple-cuts-over-200-jobs-across-siri-vision-pro": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "jobs",
+    "norm": 49
+  },
+  "iphone-18-pro-max-price-in-india-launch-date-camera-upgrade-": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "price",
+    "norm": 47.1
+  },
+  "-financially-ive-calculated-40-year-old-bengaluru-manager-to": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "lakh",
+    "norm": 47.1
+  },
+  "daily-voice-investvalue-siddharth-purohit-sees-decade-long-o": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "rohit",
+    "norm": 45.5
+  },
+  "kamal-amrohi-wife-gave-her-bangles-to-meena-kumari-after-lea": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "actress",
+    "norm": 45.5
+  },
+  "rashtrapati-bhavan-pulls-back-statement-on-bangladesh-pm-s-i": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "fuel",
+    "norm": 44
+  },
+  "us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "lg-exempts-netaji-nagar-land-from-tree-act-limit-clears-way-": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "supreme-court-junks-petitions-challenging-the-kerala-story-b": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "supreme court",
+    "norm": 44
   },
   "no-boarding-pass-stamping-at-immigration-for-international-f": {
     "firstSeen": "2026-08-22T03:53:14.782Z",
     "signature": "mp",
-    "norm": 45.9
-  },
-  "eagle-seize-properties-worth-6-crore-linked-to-alprazolam-tr": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
-    "signature": "crore",
     "norm": 44
   },
-  "myanmar-military-strike-on-buddhist-monastery-kills-14-inclu": {
+  "boy-dies-after-dispute-over-iphone-with-parents-couple-die-t": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "falling-enrolment-signals-deepening-crisis": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "rain-lashes-parts-of-delhi-imd-forecasts-widespread-showers-": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "cannot-live-like-this-says-west-bengal-man-detained-again-in": {
     "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "madras-day-2026-hauling-about-the-city-on-trains": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "-cooking-up-a-challenge-for-women-chefs": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "gb-nagar-tightens-rules-for-digging-near-high-pressure-gas-p": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "tiktok-to-pay-400-million-in-us-child-privacy-case-what-went": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "flies-cockroaches-fake-cheese-mumbai-fda-cracks-down-on-seve": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "wbjee-anm-gnm-2026-round-2-counselling-registration-begins-t": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "saturday-bank-holiday-today-are-banks-open-or-closed-today-o": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "interpol-issues-red-corner-notice-against-shariq-sata-over-s": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "rashtrapati-bhavan-withdraws-email-on-bangladesh-pm-visit": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
     "signature": "",
     "norm": 33.9
   },
-  "-taking-care-of-her-cultural-needs-mea-says-pursuing-ariha-s": {
-    "firstSeen": "2026-08-22T03:53:14.782Z",
+  "scalp-care-is-the-new-skin-care-and-it-time-to-care-for-our-": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "career-finance-horoscope-august-22-2026-being-flexible-may-h": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "delhi-jal-board-given-4-weeks-to-reply-on-rainwater-harvesti": {
+    "firstSeen": "2026-08-22T04:44:04.959Z",
     "signature": "",
     "norm": 33.9
   }
