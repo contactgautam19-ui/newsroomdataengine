@@ -1,71 +1,91 @@
 {
-  "mitchell-starc-unleashes-carnage-on-bangladesh-storms-past-d": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
-    "signature": "match|star|storm",
-    "norm": 66.3
+  "two-workers-killed-in-pharma-unit-blast-near-hyderabad": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "blast|explosion|explosion|killed|killed|panic",
+    "norm": 77.3
   },
-  "-we-are-in-position-of-power-iran-s-pezeshkian-seeks-end-to-": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
-    "signature": "iran|president|war",
+  "at-least-2-killed-several-injured-in-reactor-blast-at-telang": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "actor|blast|injured|killed|killed",
+    "norm": 72.2
+  },
+  "safire-theatre-in-chennai-once-a-cinema-landmark-now-reduced": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "fire|fire|ipl|mp",
+    "norm": 71.4
+  },
+  "abvp-nsui-clash-in-pune-university-hostel-ahead-of-rahul-gan": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "clash|clash|rahul gandhi|threat|video",
+    "norm": 69
+  },
+  "iphone-dispute-ends-in-tragedy-as-maharashtra-boy-jumps-from": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "maharashtra|mp|tragedy",
+    "norm": 67.6
+  },
+  "cash-gold-amp-elderly-victims-how-indian-origin-man-became-m": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "gold|mp|scam",
     "norm": 66
   },
-  "from-1997-to-2012-bjp-sad-won-together-can-old-alliance-retu": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
+  "bjp-sad-alliance-back-on-the-table-why-punjab-polls-could-se": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
     "signature": "alliance|bjp|election|election|lok sabha|poll|vote",
     "norm": 65.3
   },
-  "uttar-pradesh-japan-s-yamanashi-sign-four-mous-600-crore-fun": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
-    "signature": "crore|fund|mp|yogi",
-    "norm": 61.8
+  "supreme-court-plea-seeks-removal-of-bci-chief-manan-kumar-mi": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "election|election|supreme court",
+    "norm": 59.7
   },
-  "viksit-bharat-as-mass-movement-tap-kids-at-5-for-olympics-pm": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
-    "signature": "modi|modi|mp",
-    "norm": 61.4
+  "assam-citizens-forum-calls-for-scientific-solution-to-flood-": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "disaster|flood|flood",
+    "norm": 59.6
   },
-  "-live-for-your-mother-sarpanch-s-plea-before-maharashtra-tee": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
-    "signature": "maharashtra|tragic",
-    "norm": 59.3
+  "kerala-lottery-result-today-live-karunya-kr-765-winning-numb": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "crore|result",
+    "norm": 57.1
   },
-  "allahabad-hc-restores-jobs-of-26-general-category-engineers-": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
-    "signature": "jobs|mp|sanction",
-    "norm": 59.3
+  "quota-within-quota-more-ews-benefits-youtuber-ajeet-bharti-s": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "exclusive-interview-shashi-tharoor-get-over-shashi-tharoor-s": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
-    "signature": "congress|mp",
-    "norm": 50.5
+  "termination-of-pune-anganwadi-worker-revoked-after-outrage": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "outrage|video",
+    "norm": 52.4
   },
-  "bjp-s-big-day-nitin-nabin-convenes-first-meeting-of-new-team": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
-    "signature": "bjp|mp",
-    "norm": 48.7
+  "co-host-netherlands-wear-blue-on-blue-turf-india-play-in-saf": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "match|world cup",
+    "norm": 52.1
   },
-  "meity-set-to-notify-portion-of-it-rules-for-stricter-complia": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
+  "cannot-live-like-this-says-west-bengal-man-detained-again-in": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "fear",
+    "norm": 48.2
+  },
+  "no-boarding-pass-stamping-at-immigration-for-international-f": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "105-year-old-murder-convict-granted-relief-after-supreme-cou": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
-    "signature": "supreme court",
+  "eagle-seize-properties-worth-6-crore-linked-to-alprazolam-tr": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
+    "signature": "crore",
     "norm": 44
   },
-  "bjp-government-in-odisha-moves-to-give-grand-tribute-to-vhp-": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
-    "signature": "bjp",
-    "norm": 44
-  },
-  "the-coast-that-made-chennai": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
+  "myanmar-military-strike-on-buddhist-monastery-kills-14-inclu": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "-lawyers-can-t-be-cockroaches-manan-mishra-says-he-won-t-qui": {
-    "firstSeen": "2026-08-22T03:03:38.976Z",
+  "-taking-care-of-her-cultural-needs-mea-says-pursuing-ariha-s": {
+    "firstSeen": "2026-08-22T03:53:14.782Z",
     "signature": "",
     "norm": 33.9
   }
