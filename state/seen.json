@@ -7,7 +7,7 @@
   "hindu-trader-shot-dead-by-unidentified-gunmen-in-pakistan-s-": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "dead|dead|fire|fire|killed|killed|pakistan",
-    "norm": 75
+    "norm": 71.5
   },
   "supreme-court-relief-for-art-of-living-in-yamuna-floodplain-": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -17,7 +17,7 @@
   "-no-compromise-on-vande-mataram-bjp-targets-congress-over-2-": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "attack|attack|bjp|congress|controversy|mp",
-    "norm": 68.2
+    "norm": 64.5
   },
   "raids-across-j-k-s-5-districts-in-cross-border-terror-conspi": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -29,11 +29,6 @@
     "signature": "army|dead|dead|mp",
     "norm": 61
   },
-  "eam-downplays-pakistan-turkey-saudi-defence-pact-what-has-it": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "actor|defence|jaishankar|pakistan|war",
-    "norm": 59.6
-  },
   "60-rebate-spurs-b-khata-conversion-but-fails-to-attract-subs": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "dead|dead|mp",
@@ -44,20 +39,10 @@
     "signature": "mp|navy|rescue|rescue",
     "norm": 56
   },
-  "invoking-mahatma-gandhi-bjp-to-start-nationwide-vande-campai": {
+  "eam-downplays-pakistan-turkey-saudi-defence-pact-what-has-it": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "bjp|congress|mp|star",
+    "signature": "actor|defence|jaishankar|pakistan|war",
     "norm": 55.7
-  },
-  "what-are-the-u-s-s-latest-allegations-against-india-explaine": {
-    "firstSeen": "2026-08-22T20:35:00.281Z",
-    "signature": "mp|row|scam",
-    "norm": 55.2
-  },
-  "collections-under-rbi-s-dollar-swap-scheme-exceed-72-8-billi": {
-    "firstSeen": "2026-08-22T21:31:45.458Z",
-    "signature": "bill|billion|rbi",
-    "norm": 55
   },
   "panama-flagged-cargo-ship-sinks-in-bay-of-bengal-rescue-oper": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -68,6 +53,21 @@
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "attack|attack|war",
     "norm": 53.4
+  },
+  "invoking-mahatma-gandhi-bjp-to-start-nationwide-vande-campai": {
+    "firstSeen": "2026-08-22T21:31:45.458Z",
+    "signature": "bjp|congress|mp|star",
+    "norm": 52.6
+  },
+  "collections-under-rbi-s-dollar-swap-scheme-exceed-72-8-billi": {
+    "firstSeen": "2026-08-22T21:31:45.458Z",
+    "signature": "bill|billion|rbi",
+    "norm": 51.8
+  },
+  "what-are-the-u-s-s-latest-allegations-against-india-explaine": {
+    "firstSeen": "2026-08-22T20:35:00.281Z",
+    "signature": "mp|row|scam",
+    "norm": 51.2
   },
   "25-year-old-arrested-for-links-with-pakistani-gangsters-thro": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -97,22 +97,17 @@
   "lucknow-locals-upset-as-iconic-coffee-house-remains-shut-ami": {
     "firstSeen": "2026-08-22T20:35:00.281Z",
     "signature": "mp|upset",
-    "norm": 47.4
+    "norm": 44.1
   },
   "india-us-ties-to-define-global-stage-trade-deal-coming-sergi": {
     "firstSeen": "2026-08-22T20:35:00.281Z",
     "signature": "deal|us ties",
-    "norm": 47.3
+    "norm": 43
   },
   "big-milestone-india-s-1st-100-indigenous-ak-203-sher-made-te": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "fire|fire",
-    "norm": 46.5
-  },
-  "-not-just-daughter-wife-or-mother-rahul-gandhi-urges-women-t": {
-    "firstSeen": "2026-08-22T22:33:42.326Z",
-    "signature": "rahul gandhi",
-    "norm": 44
+    "norm": 42.2
   },
   "firs-against-14-named-200-unnamed-persons-over-ranchi-studen": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -124,9 +119,9 @@
     "signature": "bill|bjp|cabinet|mp",
     "norm": 41.8
   },
-  "u-p-deputy-cm-brajesh-pathak-meets-reservation-reform-moveme": {
+  "-not-just-daughter-wife-or-mother-rahul-gandhi-urges-women-t": {
     "firstSeen": "2026-08-22T22:33:42.326Z",
-    "signature": "minister",
+    "signature": "rahul gandhi",
     "norm": 41
   },
   "health-dept-kochi-corporation-to-conduct-inspections-at-wate": {
@@ -139,15 +134,10 @@
     "signature": "crore|tax",
     "norm": 38
   },
-  "-ties-must-serve-mutual-interest-eam-jaishankar-on-banglades": {
-    "firstSeen": "2026-08-22T20:35:00.281Z",
-    "signature": "jaishankar",
+  "u-p-deputy-cm-brajesh-pathak-meets-reservation-reform-moveme": {
+    "firstSeen": "2026-08-22T22:33:42.326Z",
+    "signature": "minister",
     "norm": 37.5
-  },
-  "-lavanyam-2026-to-kick-start-on-august-24": {
-    "firstSeen": "2026-08-22T20:35:00.281Z",
-    "signature": "star",
-    "norm": 35.8
   },
   "while-madras-went-to-bed-early-chennai-stays-up": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -163,6 +153,11 @@
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "mp",
     "norm": 35.5
+  },
+  "-ties-must-serve-mutual-interest-eam-jaishankar-on-banglades": {
+    "firstSeen": "2026-08-22T20:35:00.281Z",
+    "signature": "jaishankar",
+    "norm": 32.8
   },
   "how-apple-s-iphone-18-pro-launch-date-crushes-the-competitio": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -194,35 +189,45 @@
     "signature": "army",
     "norm": 32.8
   },
+  "-lavanyam-2026-to-kick-start-on-august-24": {
+    "firstSeen": "2026-08-22T20:35:00.281Z",
+    "signature": "star",
+    "norm": 31
+  },
+  "-vanished-from-tracking-system-how-panama-flagged-cargo-ship": {
+    "firstSeen": "2026-08-22T23:31:18.289Z",
+    "signature": "",
+    "norm": 30.7
+  },
   "begging-pleading-prostrating-mother-s-desperate-attempts-to-": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "mp",
-    "norm": 32.8
+    "norm": 27.8
   },
   "case-against-cjp-founder-for-entering-government-school-with": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "mp",
-    "norm": 32.8
+    "norm": 27.8
   },
   "-women-don-t-need-to-prove-anything-to-anyone-rahul-gandhi-a": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "rahul gandhi",
-    "norm": 32.8
+    "norm": 27.8
   },
   "soon-no-need-for-physical-boarding-cards-at-immigration": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 26.7
   },
   "bci-chairman-faces-calls-to-quit-co-chair-demands-inquiry": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "woman-sukhoi-pilot-was-part-of-operation-sindoor-team-that-h": {
     "firstSeen": "2026-08-22T20:35:00.281Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "east-division-holds-peace-meeting-ahead-of-eid-milad-st-mary": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
@@ -284,19 +289,14 @@
     "signature": "",
     "norm": 21.2
   },
-  "infinix-hot-70-pro-5g-india-launch-set-for-september-4-with-": {
-    "firstSeen": "2026-08-22T22:33:42.326Z",
-    "signature": "",
-    "norm": 21.2
-  },
   "singapore-bound-cargo-ship-with-24-crew-members-sinks-off-od": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 15.1
   },
   "passenger-leaves-bag-containing-rs-25-000-on-train-in-jammu-": {
     "firstSeen": "2026-08-22T21:31:45.458Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 15.1
   }
 }
