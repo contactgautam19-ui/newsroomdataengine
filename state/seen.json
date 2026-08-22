@@ -1,301 +1,91 @@
 {
-  "india-to-serve-hafiz-saeed-court-summons-in-lahore-pahalgam-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "attack|attack|ipl|pakistan|terror|terror",
-    "norm": 85.4
+  "jharkhand-exam-protesters-accuse-government-of-betrayal-as-h": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "betray|bjp|congress|exam|high court|khan|protest|protest|rahul gandhi|ruling",
+    "norm": 91
   },
-  "five-killed-several-injured-in-bihar-champaran-as-bus-plough": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "crowd|injured|killed|killed|mp|row",
-    "norm": 83.5
+  "jaipur-horror-speeding-thar-hits-scooter-62-year-old-rider-d": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "accident|died|horrific|horror|mp",
+    "norm": 75.1
   },
-  "champat-rai-s-article-on-nripendra-misra-s-role-in-ayodhya-t": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "ayodhya|congress|controversy|modi|modi|mp",
-    "norm": 76.9
+  "-paise-ki-goonj-bjp-claims-congress-paid-influencers-to-draw": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "bjp|congress|crowd|rahul gandhi|row|video",
+    "norm": 71.6
   },
-  "eight-killed-in-plane-crash-at-remote-military-site-in-weste": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "crash|crash|killed|killed",
-    "norm": 73.7
+  "sikhs-protest-outside-rahul-gandhi-s-residence-against-congr": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "congress|protest|protest|rahul gandhi",
+    "norm": 66.9
   },
-  "fpj-quick-take-at-12-pm-bitcoin-nears-80-000-us-canada-trade": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "collapse|collapse|collapse|deal",
-    "norm": 71
+  "pm-modi-to-meet-nitin-nabin-s-new-bjp-team-at-5-pm-youth-out": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "bjp|minister|modi|modi|president|prime minister",
+    "norm": 63.4
   },
-  "special-nia-court-rejects-bail-plea-of-pulwama-terror-attack": {
-    "firstSeen": "2026-08-22T07:39:52.920Z",
-    "signature": "attack|attack|terror|terror",
-    "norm": 70.7
+  "-rankings-don-t-matter-under-fire-gambhir-says-india-not-str": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "fire|fire",
+    "norm": 54.2
   },
-  "former-world-champion-boxer-zolani-tete-shot-dead-in-south-a": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "dead|dead|mp",
-    "norm": 70.3
+  "mha-panel-formed-to-draft-final-agreement-on-gorkha-issue-da": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "amit shah|bjp|mp|poll",
+    "norm": 53.9
   },
-  "-fertiliser-franchise-rs-3-5-crores-orders-bihar-gang-arrest": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "crore|fraud|mp|scam",
-    "norm": 69
+  "engineer-s-family-death-pact-accussed-sk-sadhik-khan-arreste": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "death|khan",
+    "norm": 53.9
   },
-  "gold-fraud-traders-in-kozhikode-flay-continued-delay-in-arre": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "fraud|gold|protest|protest",
-    "norm": 68.4
-  },
-  "-sooryavanshi-hasn-t-played-as-much-red-ball-cricket-dravid-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "cricket|cricketer|row|sooryavanshi",
-    "norm": 68
-  },
-  "haridwar-3-killed-6-injured-as-4-motorcycles-collide-on-kanw": {
-    "firstSeen": "2026-08-22T07:39:52.920Z",
-    "signature": "injured|killed|killed|war",
-    "norm": 68
-  },
-  "south-kashmir-65-year-old-woman-injured-in-bear-attack": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "attack|attack|injured",
-    "norm": 67.3
-  },
-  "tensions-flare-between-abvp-nsui-outside-coep-hostel-ahead-o": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "clash|clash|congress|mp|rahul gandhi",
-    "norm": 67.3
-  },
-  "mumbai-diamond-fraud-french-tourist-allegedly-duped-of-98-la": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "fraud|lakh|row",
-    "norm": 65.2
-  },
-  "vande-mataram-row-bjp-targets-congress-over-first-two-stanza": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "bjp|congress|controversy|row",
-    "norm": 65
-  },
-  "us-court-overturns-trump-immigrant-visa-freeze-affecting-75-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "mp|policy|trump|trump",
-    "norm": 63.5
-  },
-  "from-border-watch-to-deep-strikes-army-raises-first-baaz-dro": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "army|border|drone|watch",
-    "norm": 62.1
-  },
-  "delhi-horror-31-year-old-engineer-beaten-to-death-by-wife-s-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "death|fan|horror|war",
-    "norm": 62
-  },
-  "nitin-nabin-s-first-message-as-bjp-chief-focus-on-youth-deve": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "bjp|ipl|mp|president",
-    "norm": 61.8
-  },
-  "who-are-erik-slavin-lara-korte-stars-and-stripes-editor-repo": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "fire|fire|star",
-    "norm": 61.4
-  },
-  "poonam-dhillon-hospitalised-with-dengue-health-update-comes-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "hospital|row",
-    "norm": 60.4
-  },
-  "cji-advocates-nyaya-nomics-to-drive-growth": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "brics|cji|row",
-    "norm": 59.7
-  },
-  "shivamogga-school-teacher-wins-national-teachers-award-to-re": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "mp|president|war",
-    "norm": 59.7
-  },
-  "madhubala-biopic-sanjay-leela-bhansali-to-begin-madhubala-bi": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "movie|war",
-    "norm": 58.6
-  },
-  "bjp-constitutes-team-for-gen-z-outreach-programme-nitin-nabi": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "bjp|iran",
-    "norm": 58.3
-  },
-  "asia-s-high-mountains-are-losing-24-billion-tonnes-of-ground": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "bill|billion|mp",
-    "norm": 57.6
-  },
-  "most-firms-that-laid-off-staff-due-to-ai-in-america-seemingl": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "fear|investor",
-    "norm": 55.4
-  },
-  "maharashtra-to-let-retired-police-dogs-stay-with-handlers-at": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "maharashtra|mp",
-    "norm": 55.4
-  },
-  "fiis-sell-1-602-crore-worth-of-indian-equities-this-week-nif": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "crore|nifty",
-    "norm": 53.5
-  },
-  "veligonda-phase-i-project-will-be-inaugurated-on-august-31-c": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "crore|mp",
-    "norm": 53.2
-  },
-  "reservation-hatao-protest-demands-that-took-centre-stage-at-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "amit-shah-meets-hill-leaders-to-discuss-permanent-political-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "amit shah|bjp|poll",
-    "norm": 50.9
-  },
-  "who-is-professor-maya-tudor-oxford-scholar-cm-revanth-reddy-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "bjp|mp",
-    "norm": 50.5
-  },
-  "aarush-bhola-seemingly-takes-a-dig-at-farah-khan-lock-upp-2-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "khan|watch",
-    "norm": 50.5
-  },
-  "read-affan-ansari-on-studying-abroad-scholarships-and-global": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "fan",
-    "norm": 47.4
-  },
-  "indian-family-wipeout-over-iphone-the-dangerous-lure-of-cons": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "anger",
+  "punnamada-in-keralam-s-alappuzha-sizzles-as-boat-clubs-battl": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "zohran-mamdani-s-office-skips-city-council-meeting-on-second": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "tax",
+  "-hit-on-hand-back-thigh-bengaluru-class-9-student-beaten-by-": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "died",
+    "norm": 46.3
+  },
+  "-vande-mataram-is-a-mantra-sambit-patra-as-bjp-passes-resolu": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "bjp",
     "norm": 45.9
   },
-  "amitabh-bachchan-urges-fans-to-look-beyond-luck-says-fate-is": {
-    "firstSeen": "2026-08-22T07:39:52.920Z",
-    "signature": "fan",
-    "norm": 45.5
+  "annamalai-urges-tamil-nadu-government-to-form-high-level-pan": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "indigo-a321neo-grounded-after-tail-impact-during-gorakhpur-l": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
+  "github-cto-apologises-to-developers-after-one-of-the-biggest": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
     "signature": "mp",
     "norm": 44
   },
-  "bjp-forms-gen-z-outreach-team-nabin-smriti-and-vinod-tawde-a": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "bjp",
+  "former-cm-vijayan-says-his-hands-clean-denies-hawala-dealing": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "deal",
     "norm": 44
   },
-  "mangaluru-under-mysuru-railway-division-kozhikode-mp-seeks-r": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
+  "live-longer-live-better-experts-reveal-the-science-behind-he": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
     "signature": "mp",
     "norm": 44
   },
-  "imphal-dimapur-guwahati-bus-service-resumes-after-3-years-in": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "29-states-vs-meta-how-a-landmark-child-safety-trial-could-re": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "instagram",
-    "norm": 42.4
-  },
-  "why-is-jadavpur-university-in-kolkata-on-the-boil-explained": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "star",
-    "norm": 42.4
-  },
-  "chennai-turns-387-inside-the-city-madras-day-2026-celebratio": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "new-electricity-rates-to-apply-across-jammu-kashmir-from-sep": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "-if-my-glamour-is-causing-jealousy-mallika-sherawat-hits-bac": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "body-of-missing-srinagar-youth-recovered-from-nallah-sindh": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "canadian-pm-carney-vows-dollar-for-dollar-response-as-50-us-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "apple-shipments-expected-to-decline-by-2-in-2026": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "epfo-urges-establishments-to-enrol-eligible-workers-under-ee": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "a-different-goa": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "plea-in-sc-seeks-manan-mishra-s-removal-as-bci-chief-as-he-r": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
+  "tamil-nadu-cm-vijay-extends-madras-day-greetings": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
     "signature": "",
     "norm": 36
   },
-  "ktaka-prohibits-production-sale-of-analogue-paneer-sold-as-p": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 36
-  },
-  "welcome-bellevision-com": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
+  "tiktok-to-pay-400-million-in-us-child-privacy-settlement-ove": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
     "signature": "",
     "norm": 33.9
   },
-  "sowcar-janaki-had-special-attachment-with-heritage-city-gura": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "bank-holiday-today-why-are-branches-closed-on-august-22-chec": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "why-scientists-named-a-newly-discovered-snake-after-guns-n-r": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "indigo-flight-performs-precautionary-go-around-at-gorakhpur-": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "canada-suspends-trade-negotiations-with-us-vows-dollar-for-d": {
-    "firstSeen": "2026-08-22T08:43:04.285Z",
+  "judges-not-gods-won-t-get-every-judgment-right-outgoing-sc-j": {
+    "firstSeen": "2026-08-22T09:36:48.302Z",
     "signature": "",
     "norm": 33.9
   }
