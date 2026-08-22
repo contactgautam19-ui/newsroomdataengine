@@ -1,152 +1,127 @@
 {
-  "under-construction-seven-storey-building-collapses-in-kondap": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "building collapse|collapse|collapse|collapse|injured|mp|sudden|suddenly|war",
-    "norm": 87.4
+  "govt-hospital-turned-into-backstage-karnataka-mla-under-fire": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "film|fire|fire|hospital|mla|viral|viral|viral",
+    "norm": 95.6
   },
-  "two-killed-nine-injured-in-reactor-blast-at-pharma-unit-in-y": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "actor|blast|explosion|explosion|injured|killed|killed|panic",
-    "norm": 83.3
+  "jharkhand-exam-protesters-accuse-government-of-betrayal-as-h": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "betray|bjp|congress|exam|high court|khan|protest|protest|rahul gandhi|ruling",
+    "norm": 91
   },
-  "-from-defence-to-offence-iran-warns-of-pre-emptive-strikes-a": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "defence|iran|mp|threat|trump|trump|war",
-    "norm": 83.2
+  "youth-burnt-alive-driver-succumbs-to-injuries-as-car-collide": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "accident|horrific|killed|killed",
+    "norm": 69.6
   },
-  "-paise-ki-goonj-bjp-claims-congress-paid-influencers-to-draw": {
-    "firstSeen": "2026-08-22T09:36:48.302Z",
-    "signature": "bjp|congress|crowd|rahul gandhi|row|video",
-    "norm": 70
+  "sikh-protesters-burn-rahul-gandhi-effigy-over-sajjan-kumar-r": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "protest|protest|rahul gandhi|riot",
+    "norm": 67.9
   },
-  "bjp-legislators-in-hubbali-protesting-to-reclaim-temple-land": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "bjp|mp|opposition|protest|protest",
-    "norm": 69
+  "extended-search-operations-urged-for-missing-fishermen-in-se": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "navy|president|rescue|rescue",
+    "norm": 66.9
   },
-  "newborn-dies-2-injured-after-fire-breaks-out-in-mp-hospital-": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "fire|fire|hospital|injured|mp",
-    "norm": 68.9
-  },
-  "cross-firs-filed-after-attack-on-cjp-team-in-jaipur-during-v": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "attack|attack|mp",
-    "norm": 67.6
-  },
-  "nbfcs-stay-on-growth-track-as-asset-quality-remains-stable-r": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "gold|mp|row",
+  "former-world-champion-boxer-zolani-tete-shot-dead-outisde-ho": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "dead|dead|mp",
     "norm": 66
   },
-  "-india-could-use-water-as-weapon-pakistan-minister-warns-ami": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "minister|pakistan|row|war",
-    "norm": 65
+  "people-unaware-of-data-centre-s-potential-are-criticising-go": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "chief minister|minister|mp|war",
+    "norm": 61.8
   },
-  "parliament-sees-growing-trend-of-bills-introduced-passed-in-": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "bill|parliament|row",
-    "norm": 61.4
-  },
-  "shivamogga-school-teacher-wins-national-teachers-award-to-re": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "mp|president|war",
-    "norm": 59.7
+  "inside-bjp-s-10-point-vande-mataram-resolution-no-vote-bank-": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "bjp|cry|mp|vote",
+    "norm": 61.8
   },
   "four-years-after-supreme-court-formed-panel-s-nudge-assam-mu": {
     "firstSeen": "2026-08-22T10:35:21.804Z",
     "signature": "iran|mp|supreme court",
-    "norm": 59.7
+    "norm": 61.4
   },
-  "vijay-treating-assembly-like-cinema-set-delivering-punch-dia": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "attack|attack",
+  "meta-sued-by-former-manager-who-claims-he-was-fired-over-imm": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "fire|fire|mp",
+    "norm": 61.1
+  },
+  "failure-to-provide-information-keralam-survey-director-order": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "lakh|mp|record",
+    "norm": 60.7
+  },
+  "several-dead-after-police-vehicle-car-collide-in-england": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "dead|dead",
     "norm": 57.6
   },
-  "iit-delhi-msc-physics-student-jumps-to-death-from-lecture-ha": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "death|mp",
-    "norm": 57.1
-  },
-  "another-nta-exam-faces-irregularities-jaipur-s-aiapget-disru": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
+  "another-nta-exam-marred-by-chaos-jaipur-s-aiapget-disrupted-": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
     "signature": "exam|mp",
     "norm": 57.1
   },
-  "rs-100-crore-project-at-11-800-feet-ladakh-may-get-world-s-h": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "cricket|crore",
+  "why-samajwadi-party-never-split-akhilesh-points-out-benefit-": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "ipl|mp",
     "norm": 57.1
   },
-  "h1n1-alert-health-ministry-lists-symptoms-to-look-for-as-del": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "alert|mp",
-    "norm": 57.1
-  },
-  "big-crisis-brewing-in-rawalpindi-pakistan-deploys-army-for-s": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "army|pakistan|unexpected",
-    "norm": 56.4
-  },
-  "ongc-promises-36-6-crore-aid-for-cancer-treatment-equipment-": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "crore|hospital",
+  "bjp-forms-new-gen-z-outreach-team-with-nitin-nabin-smriti-ir": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "bjp|iran",
     "norm": 55.4
   },
-  "sajjan-kumar-role-model-post-sikh-leaders-protest-outside-ra": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "protest|protest",
+  "kurnool-sp-launches-traffic-awareness-vehicle": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "video|war",
     "norm": 54.2
   },
-  "-will-not-step-down-manan-mishra-reiterates-as-plea-in-sc-se": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "lakh|mp",
-    "norm": 53.2
-  },
-  "bjp-resolution-condemns-congress-decision-on-vande-mataram-s": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "bjp|congress|mp",
-    "norm": 52.7
-  },
-  "bci-chairman-manan-mishra-hits-back-at-critics-my-tenure-is-": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "controversy|row",
+  "mha-panel-formed-to-draft-final-agreement-on-gorkha-issue-da": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "amit shah|bjp|mp|poll",
     "norm": 52.1
   },
-  "brics-delegates-visit-thotlakonda-buddhist-site-in-a-p-on-si": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "brics|minister",
+  "amit-shah-reviews-siliguri-corridor-security-pushes-for-tria": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "amit shah|mp",
+    "norm": 50.5
+  },
+  "journalism-must-question-power-produce-informed-citizens-bha": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
+  },
+  "dmk-revamps-party-organisation-sets-70-as-age-limit-for-dist": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "mp|president",
     "norm": 48.7
   },
-  "chintha-jerome-elected-dyfi-s-first-woman-state-president-in": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "mla|president",
+  "will-mamata-banerjee-forgive-tmc-rebels-party-mp-answers-we-": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "mamata|mp",
     "norm": 48.7
   },
-  "nta-announces-aiapget-re-exam-for-49-candidates-after-power-": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "exam",
-    "norm": 48.2
+  "-611-schools-without-buildings-rajasthan-govt-admits-lapses-": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "bjp|congress",
+    "norm": 48.7
   },
-  "nhai-new-toll-pass-who-is-eligible-how-to-apply-cost-and-oth": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "toll",
-    "norm": 48.2
+  "karnataka-monsoon-deficit-farmers-in-mandya-urged-to-shift-t": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "right-to-practice-religion-subject-to-reasonable-restriction": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "vote",
+  "pinarayi-vijayan-rejects-hawala-allegations-claims-family-be": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "opposition",
     "norm": 45.9
   },
-  "keralam-dyfi-president-chintha-jerome-is-cpi-m-s-young-face-": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "president",
-    "norm": 45.9
-  },
-  "-no-substance-to-allegations-bci-chairman-manan-mishra-dismi": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "fund",
+  "dmk-revamp-m-k-stalin-says-bitter-medicine-is-good-for-party": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "mp",
     "norm": 45.9
   },
   "-served-for-14-years-because-i-was-elected-bci-chairman-mana": {
@@ -154,23 +129,38 @@
     "signature": "mp",
     "norm": 45.9
   },
-  "tncc-president-manickam-tagore-opposes-proposed-charges-on-j": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "president",
+  "delhi-lakshmi-yojana-ground-report-who-gets-2-500-registrati": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "crore",
+    "norm": 45.9
+  },
+  "ed-raids-jaipur-based-pastor-over-us-funds-allegedly-used-fo": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "fund",
     "norm": 44
   },
-  "where-to-relish-grand-sadya-this-onam-in-thiruvananthapuram": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
-    "signature": "",
-    "norm": 36
+  "considering-extending-distribution-of-onam-special-rice-for-": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "minister",
+    "norm": 44
   },
-  "govt-bans-fixed-dose-combo-drugs-with-chlorpheniramine-pheny": {
-    "firstSeen": "2026-08-22T10:35:21.804Z",
+  "why-retractions-alone-do-not-protect-india-s-scientific-reco": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
+    "signature": "record",
+    "norm": 40.7
+  },
+  "-judges-are-not-gods-will-not-get-every-judgment-right-justi": {
+    "firstSeen": "2026-08-22T11:30:55.139Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
   "judges-not-gods-won-t-get-every-judgment-right-outgoing-sc-j": {
     "firstSeen": "2026-08-22T09:36:48.302Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "where-to-relish-grand-sadya-this-onam-in-thiruvananthapuram": {
+    "firstSeen": "2026-08-22T10:35:21.804Z",
     "signature": "",
     "norm": 33.9
   }
