@@ -1,110 +1,85 @@
 {
-  "sanjay-seth-asks-rahul-gandhi-to-visit-ranchi-meet-injured-s": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "congress|exam|injured|khan|minister|rahul gandhi|recruitment",
-    "norm": 83.2
-  },
-  "annapurna-bhandar-protests-reach-the-doorsteps-of-bjp-leader": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "bjp|lakh|opposition|protest|protest",
-    "norm": 74.9
-  },
-  "yamuna-floodplains-supreme-court-sets-aside-ngt-order-agains": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "crore|flood|flood|fund|supreme court",
-    "norm": 73.3
-  },
-  "naidu-pitches-visakhapatnam-as-hub-for-brics-sports-network": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "brics|chief minister|killed|killed|minister",
-    "norm": 72
-  },
   "panama-flagged-ship-sinks-off-odisha-s-paradip-coast-indian-": {
     "firstSeen": "2026-08-22T16:36:20.529Z",
     "signature": "mp|navy|rescue|rescue",
-    "norm": 66.9
+    "norm": 65.3
   },
-  "fir-registered-against-abhijeet-dipke-for-entering-governmen": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "maharashtra|mp|threat",
-    "norm": 66
+  "panama-flagged-cargo-ship-sinks-in-bay-of-bengal-rescue-oper": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "rescue|rescue|war",
+    "norm": 64.9
   },
-  "bjp-to-launch-month-long-campaign-from-sept-17-to-mark-pm-mo": {
-    "firstSeen": "2026-08-22T16:36:20.529Z",
-    "signature": "bjp|modi|modi|mp",
-    "norm": 61.8
+  "six-booked-for-threatening-man-over-65-lakh-investment-dispu": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "lakh|mp|threat",
+    "norm": 63.9
   },
-  "village-students-shifted-to-vacant-house-after-attack-on-cjp": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "attack|attack",
-    "norm": 57.6
+  "samajwadi-party-plans-youth-manifesto-for-u-p-poll-party-won": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "alliance|bjp|manifesto|mp|poll|recruitment",
+    "norm": 63.4
   },
-  "cheaper-crude-dearer-ethanol-india-s-maize-bind": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "petrol|petrol",
+  "telangana-energy-sector-to-complement-govt-plans-to-achieve-": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "economy|mp|trillion",
+    "norm": 59.3
+  },
+  "ethics-in-management-important-students-need-to-be-conscious": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "mp|row",
     "norm": 55.4
   },
-  "shashi-tharoor-breaks-silence-on-vande-mataram-row-we-will-a": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "congress|row",
-    "norm": 55.4
+  "ernakulam-district-kudumbashree-mission-eyeing-return-of-4-c": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "crore|mp",
+    "norm": 53.2
   },
-  "bjp-passes-resolution-against-congress-over-vande-mataram-is": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "bjp|congress|mp",
-    "norm": 52.7
-  },
-  "be-loud-be-proud-fight-for-your-space-rahul-gandhi-tells-gen": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "mp|rahul gandhi",
+  "cultural-diversity-takes-centre-stage-at-brics-gala-dinner": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "brics|minister",
     "norm": 48.7
   },
-  "gorkha-issue-union-government-promises-permanent-solution-se": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "amit shah|mp",
+  "cpi-m-seeks-chief-secretary-s-removal-cpi-questions-t-n-chie": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "chief minister|minister",
     "norm": 48.7
   },
-  "-women-don-t-need-to-prove-anything-to-anyone-rahul-gandhi-a": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "rahul gandhi",
+  "goa-chief-minister-calls-on-youth-to-drive-india-s-developme": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
+  },
+  "vijayawada-based-photojournalist-selected-for-iipc-master-of": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "kl-university-director-p-sai-vijay-receives-change-maker-awa": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "tvk-mla-booked-in-trespass-assault-case-in-puducherry": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "mla",
     "norm": 44
   },
-  "watch-weed-alcohol-no-toilets-what-cjp-saw-in-rural-school": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "watch",
-    "norm": 42.7
+  "vignan-university-launches-centre-of-excellence-on-blue-econ": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
+    "signature": "economy",
+    "norm": 44
   },
-  "i-ve-got-my-eye-on-you": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
+  "metal-scrap-godown-gutted-in-tirupattur": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
     "signature": "",
     "norm": 36
   },
-  "fssai-issues-over-150-notices-to-nestle-pepsico-coca-cola-ov": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
+  "engineers-should-strive-to-become-entrepreneurs-says-jntuk-v": {
+    "firstSeen": "2026-08-22T18:45:34.396Z",
     "signature": "",
     "norm": 33.9
   },
-  "cmc-performs-rare-robotic-surgery": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "panama-flagged-cargo-ship-sinks-240-nautical-miles-off-odish": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "markapuram-police-arrest-man-linked-to-two-murder-cases": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-every-flyover-creates-demand-for-four-more-experts-seek-ret": {
-    "firstSeen": "2026-08-22T17:31:36.079Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "panama-flagged-cargo-ship-carrying-24-on-board-sinks-off-odi": {
+  "i-ve-got-my-eye-on-you": {
     "firstSeen": "2026-08-22T17:31:36.079Z",
     "signature": "",
     "norm": 33.9
