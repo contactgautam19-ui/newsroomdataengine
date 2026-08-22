@@ -1,157 +1,97 @@
 {
+  "5-killed-many-injured-after-bus-crashes-into-crowd-at-dance-": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "crash|crash|crowd|injured|killed|killed|row",
+    "norm": 83.4
+  },
   "-reject-vote-bank-politics-bjp-steps-up-attack-on-congress-i": {
     "firstSeen": "2026-08-22T12:57:05.380Z",
     "signature": "attack|attack|bjp|congress|vote",
-    "norm": 73.6
+    "norm": 72
   },
-  "in-kerala-road-horror-biker-killed-after-iron-rods-fall-off-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "horror|killed|killed|sudden|war",
-    "norm": 72.5
+  "man-stabbed-to-death-in-northeast-delhi-one-arrested": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "attack|attack|death|hospital",
+    "norm": 69.6
   },
   "extended-search-operations-urged-for-missing-fishermen-in-se": {
     "firstSeen": "2026-08-22T11:30:55.139Z",
     "signature": "navy|president|rescue|rescue",
-    "norm": 66.9
-  },
-  "chandigarh-ett-teachers-protest-over-recruitment-irregularit": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "protest|protest|recruitment",
-    "norm": 66
-  },
-  "nta-faces-protests-in-jaipur-over-aiapget-2026-exam-agency-i": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "exam|protest|protest",
-    "norm": 66
-  },
-  "why-didn-t-you-sing-vande-mataram-in-full-all-these-years-ma": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "bjp|congress|modi|modi|president",
-    "norm": 64.6
+    "norm": 65.3
   },
   "-opponents-send-women-to-seduce-me-bjp-mla-preetam-lodhi-spa": {
     "firstSeen": "2026-08-22T12:57:05.380Z",
     "signature": "bjp|mla|mp|row",
-    "norm": 63.5
+    "norm": 61.8
   },
-  "ayush-pg-entrance-test-disrupted-in-jaipur-49-candidates-una": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "exam|mp",
-    "norm": 60
+  "rising-prices-cast-shadow-over-onam-govt-must-act-urgently-s": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "opposition|price|prices",
+    "norm": 59.3
   },
-  "swine-flu-symptoms-on-the-rise-health-ministry-issues-adviso": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "mp|panic",
-    "norm": 58.3
+  "vijayapura-two-children-drown-father-missing": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "drown|row",
+    "norm": 59.3
   },
-  "yadgir-submits-287-7-crore-proposal-to-karnataka-government-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "crore|row",
-    "norm": 57.1
+  "worms-found-in-students-plates-at-75-bihar-schools-children-": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "row|video",
+    "norm": 54.2
   },
-  "-reservation-hatao-andolan-protesters-say-govt-agreed-to-tal": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "pinarayi-vijayan-criticizes-udf-for-suppressing-student-prot": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "rasika-dugal-recalls-watching-umrao-jaan-with-rekha-at-iffm-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "emotional|watch",
+  "junior-doctors-stage-symbolic-blindfold-protest-at-kgh-as-st": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "-reservation-hatao-andolan-protesters-say-govt-agreed-to-dis": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "protest|protest",
     "norm": 52.4
   },
-  "-deeply-unfair-kharge-slams-centre-over-revanth-reddy-s-us-t": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "slam|slams",
-    "norm": 52.1
-  },
-  "meghalaya-fuel-shortage-rumours-trigger-long-queues-in-shill": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "fuel|stocks",
-    "norm": 51.7
-  },
-  "matching-pace-walking-psychology-says-people-who-unconscious": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "match",
-    "norm": 51.2
-  },
-  "keralam-moots-prevention-component-in-sop-for-missing-childr": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "mp|supreme court",
+  "dmk-revamps-party-organisation-sets-70-as-age-limit-for-dist": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "mp|president",
     "norm": 50.5
   },
-  "amit-shah-reviews-siliguri-corridor-security-pushes-for-tria": {
-    "firstSeen": "2026-08-22T11:30:55.139Z",
-    "signature": "amit shah|mp",
+  "focus-on-young-blood-mandatory-two-term-limit-dmk-s-overhaul": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "opposition|poll",
     "norm": 50.5
   },
-  "iocl-apprentice-recruitment-2026-apply-online-for-433-trade-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "recruitment",
-    "norm": 49.4
-  },
-  "nta-to-conduct-aiapget-2026-re-exam-at-shri-satya-sai-pg-col": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "mk-stalin-announces-major-dmk-overhaul-sets-age-and-term-lim": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "exam",
-    "norm": 49.4
-  },
-  "power-failure-at-jaipur-centre-49-fail-to-complete-ayush-pg-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "pinarayi-vijayan-binoy-viswam-lock-horns-over-deputy-leader-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "opposition",
-    "norm": 49
-  },
-  "around-8-7-crore-indian-youth-not-studying-working-or-underg": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "crore",
-    "norm": 49
-  },
-  "dalal-street-week-ahead-selective-buying-favoured-as-nifty-r": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "nifty",
-    "norm": 49
-  },
-  "35-acre-business-centre-planned-in-gadag-under-ppp-model": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "mla|mp",
-    "norm": 48.7
-  },
-  "amit-shah-promises-solution-to-west-bengal-hills-identity-de": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "amit shah|minister",
-    "norm": 48.7
-  },
-  "deputy-commissioner-inspects-mother-and-child-hospital-in-ya": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "hospital",
     "norm": 48.2
   },
-  "industries-fleeing-andhra-pradesh-due-to-extortion-demands-o": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "coalition",
-    "norm": 47.1
-  },
-  "ficci-flo-vibrant-verve-brings-luxury-entrepreneurship-and-w": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "assam-achieves-historic-milestone-with-world-first-ivf-born-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "lakh",
-    "norm": 47.1
-  },
-  "gold-posts-nearly-5-pc-weekly-gain-as-us-dollar-weakens": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "sabarimala-gold-theft-former-tdb-chief-denied-bail-co-accuse": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "gold",
+    "norm": 48.2
+  },
+  "karnataka-ias-officer-goes-missing-after-bengaluru-flight-go": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "heavy-rainfall-forecast-in-five-telangana-districts-on-augus": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "heavy rain",
     "norm": 46.3
   },
-  "keralam-opposition-leader-pinarayi-vijayan-rejects-hawala-al": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "opposition",
+  "14-people-taken-ill-in-vuyyuru-with-diarrhoea-symptoms": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "education-minister-lays-foundation-for-kp-school-in-shivamog": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "minister",
     "norm": 45.9
   },
   "india-to-end-boarding-pass-stamping-at-airports-for-internat": {
@@ -159,143 +99,58 @@
     "signature": "mp",
     "norm": 45.9
   },
-  "two-years-after-opening-vijayanagar-s-underground-air-condit": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "crore",
-    "norm": 45.9
-  },
-  "cji-praises-justice-karol-s-patience-courtesy-as-judge-bids-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "cji",
-    "norm": 45.9
-  },
-  "-the-odyssey-actor-matt-damon-celebrates-daughter-gia-18th-b": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "actor",
-    "norm": 45.5
-  },
-  "amit-shah-vows-permanent-political-settlement-for-bengal-s-d": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "amit shah",
-    "norm": 44
-  },
-  "government-scraps-plan-for-shared-biometric-database-of-tele": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "dmk-revamp-m-k-stalin-says-bitter-medicine-is-good-for-party": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "mp",
     "norm": 44
   },
-  "in-pictures-madras-then-and-now": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "pictures",
-    "norm": 42.7
-  },
-  "srcw-uyir-join-hands-to-promote-road-safety-in-coimbatore": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "vietnam-expands-vneid-eligibility-for-foreign-nationals-in-h": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "madras-day-2026-ticking-on-behind-metro-rail-barricades": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "vcs-becoming-marginal-in-ai-cycle-enterprises-should-invest-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "quote-of-the-day-by-shakira-you-have-to-laugh-at-life-before": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "ai-volumes-may-outweigh-revenue-deflation-for-it-sector-by-f": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "un-welcomes-sri-lanka-efforts-to-bring-back-refugees-from-in": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "ontario-universities-raise-mandatory-health-insurance-fees-f": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "kangana-ranaut-admits-to-worshiping-the-og-fashionista-karis": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "ttf-mumbai-2026-drives-momentum-as-india-domestic-travel-mar": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "kuwait-to-end-visit-visa-absence-permit-extensions": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "ssc-junior-engineer-je-final-answer-key-2026-released-downlo": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "claude-can-now-read-and-reply-to-your-gmail-messages-without": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "sambit-chatterjee-launches-debut-album-letters-for-inca-as-a": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "chennai-s-remarkable-quality-is-the-willingness-of-people-to": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "excelsoft-s-cio-launches-book-on-mid-career-leadership-in-ai": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "",
     "norm": 36
   },
-  "market-tales-exploring-bengaluru-s-centres-of-trade": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "press-clubs-must-become-institutional-force-to-defend-media-": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "",
     "norm": 36
   },
-  "parking-overhaul-at-k-r-market-brings-seamless-movement-but-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "right-to-profess-and-practise-religion-is-not-absolute-patna": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "",
     "norm": 36
   },
-  "mk-stalin-announces-massive-reboot-for-comeback-specialist-d": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "assam-elephant-habitat-recovery-hope-rides-on-biochar-from-i": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "",
     "norm": 36
   },
-  "abandoned-midway-redevelopment-of-jayanagar-market-hangs-in-": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "amtz-launches-rise-hr-global-forum-to-foster-workplace-innov": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "",
     "norm": 36
   },
-  "swati-mujumdar-appointed-as-chancellor-of-symbiosis-skills-a": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "insects-spiders-vital-links-in-ecosystem-say-experts-at-lect": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "",
     "norm": 36
   },
-  "new-york-8th-grader-tests-ai-for-stress-basic-model-beats-ch": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "police-find-missing-mother-and-three-daughters": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "",
     "norm": 33.9
   },
-  "kuldeep-just-needs-to-try-and-bowl-good-spell-rather-than-lo": {
-    "firstSeen": "2026-08-22T12:57:05.380Z",
+  "from-heritage-to-high-rises-how-chennai-grew-taller": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "karnataka-bans-manufacture-and-sale-of-analogue-paneer-for-o": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "delhi-man-kills-passenger-over-1-000-fare-dispute-calls-wife": {
+    "firstSeen": "2026-08-22T13:39:48.780Z",
     "signature": "",
     "norm": 33.9
   }
