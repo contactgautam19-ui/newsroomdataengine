@@ -1,140 +1,180 @@
 {
-  "14-year-old-daughter-of-rohit-pawar-s-assistant-found-dead-n": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "dead|dead|rohit|war",
-    "norm": 71.3
+  "after-maharashtra-hill-tragedy-delhi-man-jumps-into-yamuna-o": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "alert|flood|flood|maharashtra|mp|rescue|rescue|tragedy",
+    "norm": 90.4
   },
-  "udf-mps-from-keralam-seek-bjp-s-response-on-bifurcation-of-p": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "bjp|minister|mp|protest|protest",
-    "norm": 69
+  "pregnant-defence-ministry-officer-found-dead-in-delhi-husban": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "dead|dead|defence|mp|war",
+    "norm": 76.5
+  },
+  "pm-modi-warns-of-weaponisation-of-resources-sea-routes-urges": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "fuel|modi|modi|war",
+    "norm": 74
+  },
+  "defence-ministry-officer-found-dead-in-dwarka-home-family-al": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "dead|dead|defence|war",
+    "norm": 72.6
+  },
+  "one-person-injured-in-clash-between-rival-groups-of-bjp-work": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "bjp|clash|clash|injured",
+    "norm": 71.4
+  },
+  "northeast-and-andhra-students-clash-over-phone-theft-complai": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "clash|clash|injured|mp",
+    "norm": 71.4
+  },
+  "-empty-promises-cockroach-janta-party-warns-of-another-janta": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "betray|mp|protest|protest|war",
+    "norm": 70.5
+  },
+  "bengal-minister-dilip-ghosh-threatens-surgical-strikes-on-ja": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "bjp|hijack|minister|threat",
+    "norm": 70
   },
   "free-hand-to-police-to-deal-with-gangsters-in-west-bengal-di": {
     "firstSeen": "2026-08-23T08:43:47.757Z",
     "signature": "deal|gst|mla|threat",
     "norm": 68
   },
-  "after-maharashtra-horror-delhi-dance-teacher-jumps-into-yamu": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "horror|maharashtra|mp",
-    "norm": 67.6
+  "efforts-on-to-identify-tiger-responsible-for-two-human-death": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "death|match|record",
+    "norm": 64.9
   },
-  "india-us-trade-almost-done-in-principle-sergio-gor-says-lega": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "deal|ipl|mp",
-    "norm": 65.6
+  "smriti-irani-targets-rahul-gandhi-over-women-s-reservation-b": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "bill|congress|iran|mp|rahul gandhi",
+    "norm": 64.6
   },
-  "shubman-gill-joins-sachin-tendulkar-virender-sehwag-in-elite": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "cricket|cricketer|record|tendulkar",
-    "norm": 63.2
+  "rains-trigger-landslides-across-uttarakhand-over-80-roads-bl": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "khan|landslide|war",
+    "norm": 64.6
   },
-  "2-rescued-search-on-for-22-after-panama-flagged-cargo-ship-s": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "mp|rescue|rescue",
-    "norm": 62.8
+  "delhi-3-cops-injured-in-mukundpur-attack-hit-with-bricks-chi": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "attack|attack|injured",
+    "norm": 62.9
   },
-  "dmk-calls-for-overhaul-after-poll-setback-age-caps-2-term-li": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "election|election|poll",
+  "supreme-court-panel-pulls-up-assam-government-for-inaction-o": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "chief minister|iran|minister|supreme court",
+    "norm": 61.8
+  },
+  "iran-says-pakistan-s-army-chief-to-visit-tehran-on-monday": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "army|iran|pakistan",
     "norm": 61.4
   },
-  "hindu-family-of-four-found-dead-in-bangladesh-s-rangpur-stra": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "dead|dead",
+  "gujarat-hooch-tragedy-toll-rises-to-13-as-two-more-die-durin": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "toll|tragedy",
     "norm": 59.3
   },
-  "china-says-border-with-india-generally-stable-at-the-moment-": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "border|china|mp|rally|rally",
-    "norm": 57.9
+  "2-killed-after-illegal-building-in-hyderabad-s-gachibowli-ca": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "killed|killed",
+    "norm": 59.3
   },
-  "on-camera-delhi-cops-attacked-with-chilli-powder-bricks-afte": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "attack|attack",
+  "-real-life-batman-posters-comparing-rahul-gandhi-to-caped-cr": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "congress|mp|rahul gandhi|watch",
+    "norm": 58.6
+  },
+  "rajnath-singh-lays-foundation-for-five-expansion-projects-of": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "crore|defence|minister",
     "norm": 57.6
   },
-  "punjab-man-28-shot-dead-while-delivering-pizza-in-new-york": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "dead|dead",
-    "norm": 57.6
+  "bjp-govt-in-west-bengal-appoints-party-mlas-mps-as-president": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "bjp|minister|mla|mp|president",
+    "norm": 54.4
   },
-  "-focus-is-on-india-growth-story-global-finance-body-chief-to": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "fund|row",
-    "norm": 57.1
+  "eyes-on-xi-visit-early-harvest-as-doval-heads-to-beijing": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "brics|china|president|summit",
+    "norm": 53.9
   },
-  "pregnant-defence-ministry-officer-found-hanging-at-home-in-d": {
-    "firstSeen": "2026-08-23T07:43:04.556Z",
-    "signature": "defence|war",
-    "norm": 55.4
-  },
-  "coast-guards-rescue-two-sailors-from-cargo-ship-that-sank-of": {
-    "firstSeen": "2026-08-23T07:43:04.556Z",
-    "signature": "rescue|rescue",
+  "tamil-nadu-official-seeks-clarification-on-government-direct": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "protest|protest",
     "norm": 52.4
   },
-  "ajit-doval-to-visit-china-on-august-24-for-talks-with-wang-y": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "brics|china|president|summit",
+  "congress-highlights-delay-in-lok-sabha-prorogation-asks-if-a": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "amit shah|bill|congress|lok sabha",
     "norm": 52.1
   },
-  "queens-bucks-the-trend-new-apartments-grow-bigger-despite-ny": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "row",
-    "norm": 48.2
+  "nsa-doval-to-meet-wang-in-beijing-on-monday-to-discuss-india": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "border|china",
+    "norm": 50.5
   },
-  "punnamada-in-keralam-s-alappuzha-sizzles-as-boat-clubs-battl": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "row",
-    "norm": 46.3
+  "nia-probes-pakistan-australia-links-behind-arms-drop-by-rogu": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "drone|pakistan",
+    "norm": 50.2
   },
-  "from-thumba-to-tomorrow-indian-space-programme-is-preparing-": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "new-assamese-documentary-explores-bhupen-hazarika-s-songs-on": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "exam",
-    "norm": 46.3
-  },
-  "apollo-15-brought-back-green-glass-beads-decades-later-they-": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "poll",
+  "sitharaman-goyal-commerce-secretary-to-lead-india-s-global-o": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "deal",
     "norm": 45.9
   },
-  "manipur-kuki-zo-council-opposes-nrc-before-census-calls-dema": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
+  "gaganyaan-in-final-leg-isro-plans-first-uncrewed-space-missi": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
     "signature": "mp",
-    "norm": 45.9
-  },
-  "-that-really-touched-me-eam-jaishankar-reveals-how-sri-lanka": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "jaishankar",
-    "norm": 45.9
-  },
-  "-everyone-should-take-time-in-quiet-melinda-gates-on-divorce": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "bill",
     "norm": 44
   },
-  "except-delhi-flights-at-most-indian-airports-log-drop-data": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
+  "bengal-gets-rs-3-500-cr-defence-push-rajnath-lays-foundation": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "defence",
+    "norm": 44
+  },
+  "attempts-to-dilute-the-glory-of-vande-mataram-can-never-succ": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "pngrb-authorises-about-1-800-km-lpg-pipeline-infra-with-7-00": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "telangana-calls-for-private-parties-to-step-in-to-revive-11-": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
     "signature": "",
     "norm": 36
   },
-  "florida-teen-tests-ai-bias-just-17-4-of-images-showed-women-": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
+  "maldives-largest-infra-project-advances-with-india-s-support": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
     "signature": "",
     "norm": 36
+  },
+  "jai-tia-hills-to-the-g7-can-meghalaya-turn-lakadong-into-a-g": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "",
+    "norm": 36
+  },
+  "shantinagara-airport-bus-lounge-falls-into-neglect-raises-co": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "lunar-eclipse-august-2026-when-and-where-will-it-be-visible-": {
+    "firstSeen": "2026-08-23T09:38:03.685Z",
+    "signature": "",
+    "norm": 33.9
   },
   "nation-wide-anti-narcotics-fortnightly-drives-to-begin-from-": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-h1n1-virus-delhi-swine-flu-surge-1-777-cases-reported-healt": {
     "firstSeen": "2026-08-23T08:43:47.757Z",
     "signature": "",
     "norm": 33.9
