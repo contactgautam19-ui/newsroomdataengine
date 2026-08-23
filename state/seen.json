@@ -1,66 +1,116 @@
 {
-  "two-drown-in-sea-two-rescued-at-kakinada": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "drown|rescue|rescue|row",
-    "norm": 68.4
+  "iran-says-discovered-over-200-billion-cubic-metres-of-natura": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "bill|billion|iran|minister|petrol|petrol",
+    "norm": 78.4
   },
-  "ship-sinks-off-odisha-two-rescued-as-navy-coast-guard-contin": {
-    "firstSeen": "2026-08-23T17:30:29.699Z",
-    "signature": "navy|rescue|rescue",
-    "norm": 62.8
+  "30-killed-in-guinea-capital-after-landfill-collapse": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "collapse|collapse|collapse|injured|killed|killed",
+    "norm": 77.6
   },
-  "kpsc-scam-case-ed-raids-ias-officer-gangwar-s-premises-in-ka": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "mla|scam|war",
-    "norm": 62.5
+  "iran-says-new-sanctions-threatened-by-desperate-us-will-fail": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "iran|sanction|threat",
+    "norm": 67.6
   },
-  "no-new-h1n1-strain-in-india-existing-vaccines-sufficient-say": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "match|mp",
+  "amid-bathinda-road-row-opposition-alleges-police-crackdown-a": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "aap|controversy|opposition|row",
+    "norm": 65
+  },
+  "dmk-s-regional-satraps-among-22-who-will-lose-district-secre": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "election|election|mp",
+    "norm": 61.4
+  },
+  "haryana-horror-woman-murders-husband-takes-out-intestines-ju": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "horror|mla|mp",
+    "norm": 59.7
+  },
+  "woman-kills-husband-cuts-body-takes-out-intestines-landlord-": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "mla|mp|panic",
+    "norm": 59.7
+  },
+  "2-girls-detained-for-allegedly-drowning-14-year-old-at-vrind": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "drown|row",
+    "norm": 59.3
+  },
+  "cjp-warns-of-fresh-protests-to-decide-strategy-in-monday-mee": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "protest|protest|war",
+    "norm": 57.9
+  },
+  "-real-test-of-empowerment-is-if-bjp-counters-rahul-gandhi-s-": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "bjp|congress|mp|rahul gandhi|record",
+    "norm": 57.9
+  },
+  "-mayor-care-onam-kits-spark-row-in-thiruvananthapuram-corpor": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "opposition|row",
     "norm": 55.4
   },
-  "with-new-stores-u-p-aims-to-integrate-khadi-with-employment": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "economy|mp",
-    "norm": 53.2
+  "tamil-nadu-life-convict-selvam-s-book-oru-thooku-kaithiyin-v": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "record|war",
+    "norm": 54.2
   },
-  "nsa-ajit-doval-heads-to-china-for-high-level-talks-border-st": {
-    "firstSeen": "2026-08-23T17:30:29.699Z",
-    "signature": "border|china|minister",
-    "norm": 52.7
+  "-does-not-meet-launch-conditions-china-after-manned-moon-mis": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "china|mp",
+    "norm": 50.5
   },
-  "several-detained-after-300-people-gathered-at-delhi-s-connau": {
-    "firstSeen": "2026-08-23T17:30:29.699Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "the-jat-non-jat-fault-line-in-haryana": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "mp|opposition",
+    "norm": 50.5
   },
-  "operation-sindoor-wagah-attari-shut-how-150-pakistani-sindhi": {
-    "firstSeen": "2026-08-23T17:30:29.699Z",
-    "signature": "pakistan|wedding",
-    "norm": 51.7
+  "excited-to-take-deep-zoom-photos-with-your-foldable-iphone-g": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "fpi|photos",
+    "norm": 50.2
   },
-  "bjp-is-wasting-time-over-unnecessary-issues-says-laxman-sava": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "bjp|minister",
-    "norm": 48.7
+  "after-delhi-swine-flu-reaches-chhattisgarh-3-year-old-tests-": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "hospital",
+    "norm": 46.3
   },
-  "maharashtra-incentivises-tribal-participation-to-tackle-high": {
-    "firstSeen": "2026-08-23T17:30:29.699Z",
-    "signature": "maharashtra",
-    "norm": 48.2
-  },
-  "do-gulf-returnees-bring-conservative-gender-views-world-bank": {
-    "firstSeen": "2026-08-23T17:30:29.699Z",
+  "amid-calls-of-resignation-nc-mp-dares-party-for-a-show-cause": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
     "signature": "mp",
     "norm": 44
   },
-  "107-arrests-in-7-days-west-bengal-launches-op-cyber-prahar-t": {
-    "firstSeen": "2026-08-23T17:30:29.699Z",
+  "phoenix-cool-pavement-cut-road-heat-by-12f-but-raised-pedest": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "iphone-emi-not-sole-trigger-teen-attempted-suicide-last-year": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "scor-vijayawada-division-enhances-green-energy-with-4-864-kw": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "-spider-man-brand-new-day-no-1-109m-ww-insidious-franchise-r": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
+    "signature": "box office",
+    "norm": 42.4
+  },
+  "hero-stone-inscription-from-the-fifth-century-unearthed": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
     "signature": "",
     "norm": 36
   },
-  "cyberabad-security-council-marks-20-years-of-police-industry": {
-    "firstSeen": "2026-08-23T17:30:29.699Z",
+  "yellappa-reddy-urges-karnataka-chief-secretary-to-drop-propo": {
+    "firstSeen": "2026-08-23T18:44:31.294Z",
     "signature": "",
     "norm": 36
   }
