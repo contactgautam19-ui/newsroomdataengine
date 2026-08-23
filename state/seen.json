@@ -1,117 +1,102 @@
 {
-  "iran-says-discovered-over-200-billion-cubic-metres-of-natura": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "bill|billion|iran|minister|petrol|petrol",
-    "norm": 78.4
-  },
   "30-killed-in-guinea-capital-after-landfill-collapse": {
     "firstSeen": "2026-08-23T18:44:31.294Z",
     "signature": "collapse|collapse|collapse|injured|killed|killed",
-    "norm": 77.6
+    "norm": 76.1
   },
-  "iran-says-new-sanctions-threatened-by-desperate-us-will-fail": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "iran|sanction|threat",
+  "two-mlas-among-six-injured-in-car-crash-near-pwd-office-in-d": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "crash|crash|injured|mla",
+    "norm": 69
+  },
+  "heartbreak-for-india-as-oz-advance-to-semis-after-goalless-h": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "heartbreak|mp|world cup",
     "norm": 67.6
   },
-  "amid-bathinda-road-row-opposition-alleges-police-crackdown-a": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "aap|controversy|opposition|row",
-    "norm": 65
+  "one-killed-in-a-road-accident-near-sholinghur": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "accident|killed|killed",
+    "norm": 64.5
+  },
+  "assam-in-final-stage-of-partner-selection-to-build-satellite": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "chief minister|election|election|minister",
+    "norm": 61.8
   },
   "dmk-s-regional-satraps-among-22-who-will-lose-district-secre": {
     "firstSeen": "2026-08-23T18:44:31.294Z",
     "signature": "election|election|mp",
-    "norm": 61.4
-  },
-  "haryana-horror-woman-murders-husband-takes-out-intestines-ju": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "horror|mla|mp",
     "norm": 59.7
   },
-  "woman-kills-husband-cuts-body-takes-out-intestines-landlord-": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "mla|mp|panic",
-    "norm": 59.7
-  },
-  "2-girls-detained-for-allegedly-drowning-14-year-old-at-vrind": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "drown|row",
-    "norm": 59.3
-  },
-  "cjp-warns-of-fresh-protests-to-decide-strategy-in-monday-mee": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "protest|protest|war",
-    "norm": 57.9
-  },
-  "-real-test-of-empowerment-is-if-bjp-counters-rahul-gandhi-s-": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "bjp|congress|mp|rahul gandhi|record",
-    "norm": 57.9
-  },
-  "-mayor-care-onam-kits-spark-row-in-thiruvananthapuram-corpor": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "opposition|row",
-    "norm": 55.4
+  "search-continues-for-22-from-vessel-that-sunk-off-odisha": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "rescue|rescue",
+    "norm": 54.2
   },
   "tamil-nadu-life-convict-selvam-s-book-oru-thooku-kaithiyin-v": {
     "firstSeen": "2026-08-23T18:44:31.294Z",
     "signature": "record|war",
-    "norm": 54.2
+    "norm": 52.4
+  },
+  "t-n-to-explore-alternative-sites-for-chennai-s-second-airpor": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
   },
   "-does-not-meet-launch-conditions-china-after-manned-moon-mis": {
     "firstSeen": "2026-08-23T18:44:31.294Z",
     "signature": "china|mp",
-    "norm": 50.5
+    "norm": 48.7
   },
   "the-jat-non-jat-fault-line-in-haryana": {
     "firstSeen": "2026-08-23T18:44:31.294Z",
     "signature": "mp|opposition",
-    "norm": 50.5
+    "norm": 48.7
   },
-  "excited-to-take-deep-zoom-photos-with-your-foldable-iphone-g": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "fpi|photos",
-    "norm": 50.2
-  },
-  "after-delhi-swine-flu-reaches-chhattisgarh-3-year-old-tests-": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "hospital",
+  "iran-hackers-shut-uk-power-facility-for-4-days": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "iran",
     "norm": 46.3
   },
-  "amid-calls-of-resignation-nc-mp-dares-party-for-a-show-cause": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "mp",
+  "nagendra-episode-bjp-to-lay-siege-to-vidhana-soudha-on-augus": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "bjp",
     "norm": 44
   },
-  "phoenix-cool-pavement-cut-road-heat-by-12f-but-raised-pedest": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "mp",
-    "norm": 44
+  "man-held-for-chopping-sandalwood-tree-in-reserve-forest": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "",
+    "norm": 36
   },
-  "iphone-emi-not-sole-trigger-teen-attempted-suicide-last-year": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "mp",
-    "norm": 44
+  "rain-lashes-city-on-sunday-evening": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "",
+    "norm": 36
   },
-  "scor-vijayawada-division-enhances-green-energy-with-4-864-kw": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "crore",
-    "norm": 44
+  "sathuvachari-vit-high-road-in-vellore-opened-to-public-expec": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "",
+    "norm": 36
   },
-  "-spider-man-brand-new-day-no-1-109m-ww-insidious-franchise-r": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "box office",
-    "norm": 42.4
+  "former-sc-judge-flags-silence-of-journalists-over-media-laws": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "",
+    "norm": 36
+  },
+  "wash-rice-twice-not-7-times-drought-hit-england-targets-fait": {
+    "firstSeen": "2026-08-23T19:30:23.213Z",
+    "signature": "",
+    "norm": 33.9
   },
   "hero-stone-inscription-from-the-fifth-century-unearthed": {
     "firstSeen": "2026-08-23T18:44:31.294Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
   "yellappa-reddy-urges-karnataka-chief-secretary-to-drop-propo": {
     "firstSeen": "2026-08-23T18:44:31.294Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   }
 }
