@@ -1,171 +1,166 @@
 {
-  "seven-storey-building-collapsed-in-gachibowli-66-days-after-": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "building collapse|collapse|collapse|collapse|mp",
-    "norm": 73.3
+  "woman-kills-husband-in-brutal-knife-attack-in-haryana-later-": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "attack|attack|brutal|exam|mp|shock|shock|shocking|threat",
+    "norm": 89.7
   },
-  "bengaluru-woman-found-dead-at-agara-lake": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "dead|dead|mp|video",
-    "norm": 72.9
+  "indian-expat-killed-9-others-injured-after-vehicle-crashes-i": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "crash|crash|injured|killed|killed",
+    "norm": 73.5
   },
-  "iran-discovers-over-7-5-trillion-cubic-feet-of-gas-reserves-": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "iran|trillion|war",
-    "norm": 67.6
+  "two-drown-in-sea-two-rescued-at-kakinada": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "drown|rescue|rescue|row",
+    "norm": 70
   },
-  "dyfi-warns-of-state-wide-agitation-over-jobless-calendar-": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "mp|recruitment|war",
-    "norm": 67.6
+  "stray-dog-attacks-bites-5-year-old-girl-in-rajasthan-s-kota-": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "attack|attack|ipl",
+    "norm": 69.6
   },
-  "maharashtra-teen-survived-suicide-attempt-at-same-cliff-in-2": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
+  "gold-rush-in-remote-africa-village-after-farmer-s-find-goes-": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "gold|viral|viral|viral",
+    "norm": 68.4
+  },
+  "maharashtra-teen-who-died-with-parents-over-iphone-emi-attem": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "died|maharashtra|mp",
     "norm": 66
   },
-  "cjp-s-saurav-das-rejects-suggestion-on-inspecting-schools-re": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "attack|attack|war",
-    "norm": 64.5
+  "-you-ruined-my-family-teen-s-mother-s-old-video-surfaces-aft": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "maharashtra|mp|video",
+    "norm": 61.1
   },
-  "sugar-price-rise-allow-jaggery-units-to-produce-ethanol-says": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "actor|price|row",
-    "norm": 64.2
+  "several-detained-at-delhi-s-connaught-place-over-anti-reserv": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "mp|protest|protest",
+    "norm": 61.1
   },
-  "-we-are-watching-your-every-move-fresh-threat-letter-targets": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "mp|threat|watch",
-    "norm": 62.8
+  "vigilance-seeks-sanction-to-register-cases-over-alleged-scho": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "crore|record|sanction",
+    "norm": 59
   },
-  "congress-mla-mathew-kuzhalnadan-accuses-pinarayi-vijayan-of-": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "congress|fear|mla|opposition",
-    "norm": 61.8
+  "bjp-chief-holds-strategy-meet-for-next-round-of-assembly-pol": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "bjp|khan|poll",
+    "norm": 57.9
   },
-  "indira-gandhi-s-antakshari-games-to-modi-s-sabudana-khichdi-": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "minister|modi|modi|prime minister",
-    "norm": 61.8
+  "-attackers-took-bath-ate-dates-chilling-details-in-banglades": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "attack|attack",
+    "norm": 57.6
   },
   "no-new-h1n1-strain-in-india-existing-vaccines-sufficient-say": {
     "firstSeen": "2026-08-23T15:32:42.993Z",
     "signature": "match|mp",
-    "norm": 57.1
+    "norm": 55.4
   },
-  "bengaluru-courier-executive-who-faked-his-own-murder-11-year": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "policy|row",
-    "norm": 57.1
+  "with-new-stores-u-p-aims-to-integrate-khadi-with-employment": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "economy|mp",
+    "norm": 55
   },
-  "ed-taking-up-cases-with-political-motive-and-bias-claims-cpi": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "bjp|star",
-    "norm": 53.5
+  "ktr-calls-for-state-wide-protests-from-september-2-on-govt-f": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "in-karnataka-employment-generation-under-vb-g-ram-g-yet-to-p": {
-    "firstSeen": "2026-08-23T14:35:02.254Z",
-    "signature": "lakh|mp",
-    "norm": 53.2
+  "-reservation-hatao-andolan-over-20-detained-as-hundreds-prot": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "moth-released-for-biocontrol-later-became-a-threat-to-native": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "threat|war",
+  "india-open-2028-to-be-held-in-guwahati-confirms-bai-secretar": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "clash|clash",
+    "norm": 52.4
+  },
+  "3-500-aspirants-appear-for-eligibility-test-for-free-police-": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "iran|recruitment",
     "norm": 52.1
   },
-  "india-has-big-opportunity-to-become-global-shipbuilding-hub-": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "defence|minister",
+  "kpsc-scam-case-ed-raids-ias-officer-gangwar-s-premises-in-ka": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "scam|war",
+    "norm": 52.1
+  },
+  "bjp-is-wasting-time-over-unnecessary-issues-says-laxman-sava": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "bjp|minister",
     "norm": 50.5
   },
-  "ajit-doval-to-visit-china-for-boundary-talks-ahead-of-xi-s-i": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "china|president",
-    "norm": 50.5
-  },
-  "pinarayi-accuses-udf-govt-in-keralam-of-surrendering-to-bjp-": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "bjp|opposition",
-    "norm": 50.5
-  },
-  "-child-s-play-for-me-rahul-gandhi-may-need-training-kiren-ri": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "mp|rahul gandhi",
+  "pakistan-rebuilds-jaish-headquarters-destroyed-during-operat": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "mp|pakistan",
     "norm": 48.7
   },
-  "t-n-to-explore-alternative-sites-for-chennai-s-second-airpor": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "chief minister|minister",
-    "norm": 48.7
-  },
-  "goldenear-s-t44-hybrid-tower-speakers-feature-both-powered-a": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "gold",
-    "norm": 46.3
-  },
-  "central-gurudwara-sahib-gowliguda-marks-centenary-with-marat": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
+  "yashasvi-jaiswal-fight-shouldn-t-have-gone-so-close-says-ind": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "war",
     "norm": 46.3
   },
-  "-represented-india-in-3-countries-ex-envoy-says-name-missing": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "ipl",
-    "norm": 46.3
-  },
-  "-india-will-establish-its-own-space-station-by-2035-isro-chi": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "karnataka-employment-push-to-reduce-migration": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "mp",
+  "-three-claps-for-gen-z-faces-cjp-takes-swipe-at-bjp-s-youth-": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "bjp",
     "norm": 45.9
   },
-  "from-winning-formula-e-titles-to-need-for-speed-porsche-s-99": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
+  "district-level-onam-celebrations-in-kannur-from-august-24": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "minister",
+    "norm": 44
+  },
+  "-operation-scan-to-target-unauthorised-online-service-centre": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "cbi-books-ex-dgca-flying-training-director-aviation-firms-fo": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "captain",
-    "norm": 44.3
-  },
-  "hc-caps-removal-of-desilted-material-from-chulliyar-dam": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
-    "signature": "record",
-    "norm": 42.7
-  },
-  "original-reporting-key-to-regaining-public-trust-in-media-n-": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
+  "70-year-old-up-man-arrested-for-raping-minor-granddaughter-l": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "",
     "norm": 36
   },
-  "hdk-claims-lack-of-assembly-support-prevented-him-from-scrap": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
+  "freedom-doesn-t-mean-crossing-limits-mahesh-goud": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "",
     "norm": 36
   },
-  "press-clubs-unite-to-strengthen-journalists-rights": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
+  "denied-us-tour-permission-telangana-cm-revanth-reddy-to-retu": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "",
     "norm": 36
   },
-  "rains-lash-parts-of-hyderabad-on-sunday-bring-relief-from-he": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
+  "rajamahendravaram-s-ode-to-history-in-art-and-sculpture": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "",
     "norm": 36
   },
-  "detroit-couple-has-turned-abandoned-1925-bank-into-1-3-milli": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
+  "cpi-m-accuses-ed-of-politically-targeting-pinarayi-vijayan-i": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "",
     "norm": 36
   },
-  "two-weeks-with-the-samsung-galaxy-z-flip-8-almost-made-me-fo": {
-    "firstSeen": "2026-08-23T15:32:42.993Z",
+  "vancouver-turns-sewage-heat-into-renewable-energy-for-buildi": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "",
+    "norm": 36
+  },
+  "maga-skids-on-maple-syrup-us-canada-ties-on-a-slippery-slope": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "piyush-goyal-heads-for-japan-with-business-delegation-to-boo": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "five-held-for-kidnapping-assaulting-dry-fruit-traders-in-beg": {
+    "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "",
     "norm": 33.9
   }
