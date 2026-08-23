@@ -1,145 +1,120 @@
 {
-  "-felt-like-we-re-in-hitler-s-nazi-germany-jharkhand-bjp-slam": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "bjp|clash|clash|iran|khan|protest|protest|slam|slams",
-    "norm": 88.6
+  "12-year-old-daughter-of-rohit-pawar-s-pa-found-dead-after-ar": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "dead|dead|mla|rohit|war",
+    "norm": 77.5
   },
-  "jharkhand-protesters-attempt-to-burn-effigies-of-cm-hemant-s": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "clash|clash|khan|mp|protest|protest|rahul gandhi",
-    "norm": 79.5
+  "3-dead-21-injured-as-pickup-vehicle-crashes-into-pole-in-kar": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "crash|crash|dead|dead|injured",
+    "norm": 73.5
   },
-  "three-firs-filed-against-28-named-900-unnamed-people-over-po": {
-    "firstSeen": "2026-08-23T10:35:36.895Z",
-    "signature": "clash|clash|exam|ipl|protest|protest|recruitment",
-    "norm": 78.3
+  "-they-killed-my-only-son-before-my-eyes-adobe-techie-s-mothe": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "attack|attack|horror|killed|killed",
+    "norm": 72.1
   },
-  "-there-won-t-be-a-teleprompter-raut-dares-pm-modi-shah-to-si": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "amit shah|bjp|congress|inflation|minister|modi|modi|mp|prime minister|record",
-    "norm": 77.1
+  "rijiju-accuses-congress-of-avoiding-debate-on-anti-paper-lea": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "bill|congress|minister|opposition|parliament|rahul gandhi|slam|slams",
+    "norm": 68.8
   },
-  "jpsc-jssc-reform-manch-calls-off-stir-after-jharkhand-govt-s": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "exam|khan|protest|protest|recruitment",
-    "norm": 75
+  "bjp-s-big-membership-drive-ahead-of-polls-nitin-nabin-meetin": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "bjp|election|election|modi|modi|poll",
+    "norm": 68
   },
-  "iphone-emi-not-lone-trigger-maha-teen-attempted-suicide-from": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "died|mp|rescue|rescue",
-    "norm": 71.4
+  "efforts-on-to-identify-tiger-responsible-for-two-human-death": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "death|match|record",
+    "norm": 64.9
   },
-  "3-sisters-ate-baingan-bharta-for-dinner-hours-later-they-wer": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "dead|dead|exam",
-    "norm": 69.6
+  "support-women-s-quota-implementation-full-vande-mataram-rend": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "bjp|congress|iran|mp|rahul gandhi",
+    "norm": 62.9
   },
-  "china-s-media-slams-india-s-move-of-formally-naming-27-place": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "border|china|mp|slam|slams",
-    "norm": 67
+  "kpsc-scam-case-ed-raids-ias-officer-gangwar-s-premises-in-ka": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "mla|scam|war",
+    "norm": 62.5
   },
-  "wares-from-big-shops-occupy-footpaths-while-small-vendors-fe": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "fear|mp|threat|war",
-    "norm": 65.1
+  "power-of-democracy-gave-ordinary-person-like-me-chance-to-be": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "election|election|vote",
+    "norm": 59.7
   },
-  "supreme-court-panel-pulls-up-assam-government-for-inaction-o": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "chief minister|iran|minister|supreme court",
-    "norm": 63.5
+  "416-weddings-in-seven-hours-keralam-s-guruvayur-sets-a-new-r": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "mp|record|wedding",
+    "norm": 57.6
   },
-  "-put-abhijeet-dipke-s-photos-in-office-sanjay-raut-s-dig-at-": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "bjp|photos|war",
-    "norm": 62.8
+  "indian-national-shot-dead-by-unidentified-man-in-new-york-ci": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "dead|dead",
+    "norm": 57.6
   },
-  "alwar-school-principal-suspended-over-video-of-him-bathing-w": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "sharma|video|war",
-    "norm": 61.4
+  "-real-life-batman-posters-featuring-rahul-gandhi-surface-out": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "congress|rahul gandhi|video",
+    "norm": 54.7
   },
-  "-mai-yahan-ka-khiladi-hun-kiren-rijiju-hits-back-at-comparis": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "minister|mp|rahul gandhi|video",
-    "norm": 58.6
+  "-vishwasghaat-cjp-to-review-centre-s-promises-hints-at-fresh": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "-learn-marathi-or-face-action-maharashtra-govt-launches-insp": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "exam|maharashtra",
-    "norm": 53.9
-  },
-  "-abnormal-that-lok-sabha-has-not-been-prorogued-10-days-afte": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "bill|congress|lok sabha|minister",
-    "norm": 52.1
-  },
-  "eyes-on-xi-visit-early-harvest-as-doval-heads-to-beijing": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "brics|china|president|summit",
-    "norm": 52.1
-  },
-  "registrar-given-temporary-charge-of-department-students-unio": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "mp|president",
+  "amit-shah-vows-permanent-solution-to-west-bengal-s-darjeelin": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "amit shah|mp",
     "norm": 50.5
   },
-  "-grassroots-outreach-youth-connect-bjp-sharpens-poll-strateg": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "bjp|poll",
+  "the-bangladesh-divide-casting-uncertainty-over-tarique-rahma": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "president|ruling",
     "norm": 50.5
   },
-  "integrated-digital-mechanism-grading-launched-for-keralam-s-": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "price|prices",
+  "cm-yogi-predicts-sp-wipeout-in-next-up-polls-says-babua-akhi": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "poll|yogi",
     "norm": 48.7
   },
-  "india-capable-of-becoming-global-shipbuilding-hub-rajnath-si": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "defence|minister",
-    "norm": 48.7
-  },
-  "chhattisgarh-police-bust-inter-state-currency-doubling-racke": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "maharashtra",
+  "-mostly-self-limiting-no-new-h1n1-strain-in-india-says-icmr": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "match",
     "norm": 46.3
   },
-  "parliamentary-panel-reviews-space-and-science-projects-at-is": {
-    "firstSeen": "2026-08-23T10:35:36.895Z",
-    "signature": "parliament",
+  "rs-24-000-for-mumbai-ayodhya-trip-ahmedabad-goa-surpasses-du": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "ayodhya",
+    "norm": 46.3
+  },
+  "ind-vs-sl-devdutt-padikkal-shubman-gill-and-the-trailer-of-a": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "captain|trailer",
+    "norm": 46.3
+  },
+  "no-end-to-assam-meghalaya-cab-crisis-vehicles-stopped-at-shi": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
+    "signature": "border",
     "norm": 45.9
   },
-  "space-ai-and-other-tech-integration-to-shape-a-nation-s-geop": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "-three-claps-for-marvellous-set-of-gen-z-faces-cjp-s-saurav-": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "over-56-000-students-get-provisional-allotment-after-third-r": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
+  "edappadi-palaniswami-seeks-compensation-for-rain-affected-fa": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
     "signature": "mp",
     "norm": 44
   },
-  "orris-infrastructure-md-amit-gupta-arrested-in-forgery-case-": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
+  "doctor-calls-for-organ-donation-to-meet-demand-offer-healthy": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
     "signature": "",
     "norm": 36
   },
-  "child-s-play-for-me-rahul-may-need-training-rijiju-on-swimmi": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
-    "signature": "",
-    "norm": 36
-  },
-  "markapuram-police-arrest-man-linked-to-two-murder-cases": {
-    "firstSeen": "2026-08-23T11:30:57.887Z",
+  "delhi-s-marche-retail-faces-fssai-action-license-suspended-o": {
+    "firstSeen": "2026-08-23T12:58:21.292Z",
     "signature": "",
     "norm": 33.9
   },
-  "iphone-18-pro-launch-date-leaves-rivals-fighting-for-visibil": {
+  "child-s-play-for-me-rahul-may-need-training-rijiju-on-swimmi": {
     "firstSeen": "2026-08-23T11:30:57.887Z",
     "signature": "",
     "norm": 33.9
