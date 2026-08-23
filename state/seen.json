@@ -1,47 +1,72 @@
 {
-  "pm-modi-interacts-with-fresh-bjp-team-amid-upcoming-polls-an": {
-    "firstSeen": "2026-08-23T01:56:42.485Z",
-    "signature": "bjp|minister|modi|modi|poll|prime minister|row",
-    "norm": 75.1
+  "gangster-goldy-brar-admits-to-killing-khalistani-terrorist-n": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "gold|gst|ipl|minister|prime minister|row|terror|terror",
+    "norm": 97.7
   },
-  "5-9-earthquake-rattles-japan-23-injured-trains-disrupted-no-": {
-    "firstSeen": "2026-08-23T01:56:42.485Z",
-    "signature": "earthquake|earthquake|injured|threat|tsunami",
-    "norm": 72.5
+  "gujarat-store-owner-shot-dead-in-us-in-front-of-19-year-old-": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "dead|dead|fire|fire|ipl|mp",
+    "norm": 85.7
   },
-  "fir-against-abhijeet-dipke-for-entering-maharashtra-govt-sch": {
-    "firstSeen": "2026-08-23T01:56:42.485Z",
-    "signature": "maharashtra|threat",
+  "stray-dog-mauls-three-year-old-in-maharashtra-leaves-her-wit": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "attack|attack|maharashtra|video",
+    "norm": 74.9
+  },
+  "massive-ganpati-idol-falls-during-arrival-procession-in-mumb": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "dead|dead|died|injured|war",
+    "norm": 70.5
+  },
+  "fir-registered-against-abhijeet-dipke-for-entering-governmen": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "maharashtra|mp|threat",
+    "norm": 67.6
+  },
+  "vande-mataram-row-explodes-bjp-pushes-full-version-congress-": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "bjp|congress|mp|row",
+    "norm": 61.8
+  },
+  "find-ways-to-connect-with-youth-pm-meets-nitin-nabin-s-new-t": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "bjp|modi|modi",
+    "norm": 61.4
+  },
+  "let-founder-hafiz-saeed-faces-non-bailable-warrant-india-mov": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "ipl|war",
     "norm": 57.6
   },
-  "sowing-the-seeds-of-a-solar-power-intervention": {
-    "firstSeen": "2026-08-23T01:56:42.485Z",
-    "signature": "policy|row",
-    "norm": 55.4
+  "transshipment-scam-or-efficient-supply-chain-how-u-s-firms-t": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "mp|scam",
+    "norm": 57.1
   },
-  "-vote-bank-politics-what-bjp-s-new-vande-mataram-resolution-": {
-    "firstSeen": "2026-08-23T01:56:42.485Z",
-    "signature": "bjp|congress|mp|vote",
-    "norm": 52.1
+  "be-loud-be-proud-fight-for-your-space-rahul-gandhi-tells-gen": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "mp|rahul gandhi",
+    "norm": 50.5
   },
-  "visit-families-affected-by-ken-betwa-project-hear-their-grie": {
-    "firstSeen": "2026-08-23T01:56:42.485Z",
-    "signature": "chief minister|minister",
-    "norm": 48.7
-  },
-  "chhattisgarh-exam-paper-leak-how-professor-used-endoscopic-c": {
-    "firstSeen": "2026-08-23T01:56:42.485Z",
-    "signature": "exam",
+  "-wrong-side-driving-trend-12-deaths-in-britain-ireland-linke": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "death",
     "norm": 46.3
   },
-  "akhilesh-s-25-paise-remark-triggers-row-with-rld-mayawati-de": {
-    "firstSeen": "2026-08-23T01:56:42.485Z",
-    "signature": "row",
-    "norm": 46.3
+  "india-s-monsoon-enters-drier-than-normal-phase-inflation-ris": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "inflation",
+    "norm": 44
   },
-  "india-to-end-physical-boarding-pass-stamping-at-immigration-": {
-    "firstSeen": "2026-08-23T01:56:42.485Z",
-    "signature": "mp",
-    "norm": 45.9
+  "u-p-deputy-cm-brajesh-pathak-meets-reservation-reform-moveme": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "minister",
+    "norm": 44
+  },
+  "news-in-frames-toxic-water-runs-deep": {
+    "firstSeen": "2026-08-23T03:12:12.454Z",
+    "signature": "",
+    "norm": 36
   }
 }
