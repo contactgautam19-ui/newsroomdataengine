@@ -1,58 +1,18 @@
 {
-  "woman-kills-husband-in-brutal-knife-attack-in-haryana-later-": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "attack|attack|brutal|exam|mp|shock|shock|shocking|threat",
-    "norm": 89.7
-  },
-  "indian-expat-killed-9-others-injured-after-vehicle-crashes-i": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "crash|crash|injured|killed|killed",
-    "norm": 73.5
-  },
   "two-drown-in-sea-two-rescued-at-kakinada": {
     "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "drown|rescue|rescue|row",
-    "norm": 70
-  },
-  "stray-dog-attacks-bites-5-year-old-girl-in-rajasthan-s-kota-": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "attack|attack|ipl",
-    "norm": 69.6
-  },
-  "gold-rush-in-remote-africa-village-after-farmer-s-find-goes-": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "gold|viral|viral|viral",
     "norm": 68.4
   },
-  "maharashtra-teen-who-died-with-parents-over-iphone-emi-attem": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "died|maharashtra|mp",
-    "norm": 66
+  "ship-sinks-off-odisha-two-rescued-as-navy-coast-guard-contin": {
+    "firstSeen": "2026-08-23T17:30:29.699Z",
+    "signature": "navy|rescue|rescue",
+    "norm": 62.8
   },
-  "-you-ruined-my-family-teen-s-mother-s-old-video-surfaces-aft": {
+  "kpsc-scam-case-ed-raids-ias-officer-gangwar-s-premises-in-ka": {
     "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "maharashtra|mp|video",
-    "norm": 61.1
-  },
-  "several-detained-at-delhi-s-connaught-place-over-anti-reserv": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "mp|protest|protest",
-    "norm": 61.1
-  },
-  "vigilance-seeks-sanction-to-register-cases-over-alleged-scho": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "crore|record|sanction",
-    "norm": 59
-  },
-  "bjp-chief-holds-strategy-meet-for-next-round-of-assembly-pol": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "bjp|khan|poll",
-    "norm": 57.9
-  },
-  "-attackers-took-bath-ate-dates-chilling-details-in-banglades": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "attack|attack",
-    "norm": 57.6
+    "signature": "mla|scam|war",
+    "norm": 62.5
   },
   "no-new-h1n1-strain-in-india-existing-vaccines-sufficient-say": {
     "firstSeen": "2026-08-23T15:32:42.993Z",
@@ -62,106 +22,46 @@
   "with-new-stores-u-p-aims-to-integrate-khadi-with-employment": {
     "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "economy|mp",
-    "norm": 55
+    "norm": 53.2
   },
-  "ktr-calls-for-state-wide-protests-from-september-2-on-govt-f": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
+  "nsa-ajit-doval-heads-to-china-for-high-level-talks-border-st": {
+    "firstSeen": "2026-08-23T17:30:29.699Z",
+    "signature": "border|china|minister",
+    "norm": 52.7
+  },
+  "several-detained-after-300-people-gathered-at-delhi-s-connau": {
+    "firstSeen": "2026-08-23T17:30:29.699Z",
     "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "-reservation-hatao-andolan-over-20-detained-as-hundreds-prot": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "india-open-2028-to-be-held-in-guwahati-confirms-bai-secretar": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "clash|clash",
     "norm": 52.4
   },
-  "3-500-aspirants-appear-for-eligibility-test-for-free-police-": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "iran|recruitment",
-    "norm": 52.1
-  },
-  "kpsc-scam-case-ed-raids-ias-officer-gangwar-s-premises-in-ka": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "scam|war",
-    "norm": 52.1
+  "operation-sindoor-wagah-attari-shut-how-150-pakistani-sindhi": {
+    "firstSeen": "2026-08-23T17:30:29.699Z",
+    "signature": "pakistan|wedding",
+    "norm": 51.7
   },
   "bjp-is-wasting-time-over-unnecessary-issues-says-laxman-sava": {
     "firstSeen": "2026-08-23T16:37:49.437Z",
     "signature": "bjp|minister",
-    "norm": 50.5
-  },
-  "pakistan-rebuilds-jaish-headquarters-destroyed-during-operat": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "mp|pakistan",
     "norm": 48.7
   },
-  "yashasvi-jaiswal-fight-shouldn-t-have-gone-so-close-says-ind": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "war",
-    "norm": 46.3
+  "maharashtra-incentivises-tribal-participation-to-tackle-high": {
+    "firstSeen": "2026-08-23T17:30:29.699Z",
+    "signature": "maharashtra",
+    "norm": 48.2
   },
-  "-three-claps-for-gen-z-faces-cjp-takes-swipe-at-bjp-s-youth-": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "district-level-onam-celebrations-in-kannur-from-august-24": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "minister",
-    "norm": 44
-  },
-  "-operation-scan-to-target-unauthorised-online-service-centre": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
+  "do-gulf-returnees-bring-conservative-gender-views-world-bank": {
+    "firstSeen": "2026-08-23T17:30:29.699Z",
     "signature": "mp",
     "norm": 44
   },
-  "70-year-old-up-man-arrested-for-raping-minor-granddaughter-l": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
+  "107-arrests-in-7-days-west-bengal-launches-op-cyber-prahar-t": {
+    "firstSeen": "2026-08-23T17:30:29.699Z",
     "signature": "",
     "norm": 36
   },
-  "freedom-doesn-t-mean-crossing-limits-mahesh-goud": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
+  "cyberabad-security-council-marks-20-years-of-police-industry": {
+    "firstSeen": "2026-08-23T17:30:29.699Z",
     "signature": "",
     "norm": 36
-  },
-  "denied-us-tour-permission-telangana-cm-revanth-reddy-to-retu": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "",
-    "norm": 36
-  },
-  "rajamahendravaram-s-ode-to-history-in-art-and-sculpture": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "",
-    "norm": 36
-  },
-  "cpi-m-accuses-ed-of-politically-targeting-pinarayi-vijayan-i": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "",
-    "norm": 36
-  },
-  "vancouver-turns-sewage-heat-into-renewable-energy-for-buildi": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "",
-    "norm": 36
-  },
-  "maga-skids-on-maple-syrup-us-canada-ties-on-a-slippery-slope": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "piyush-goyal-heads-for-japan-with-business-delegation-to-boo": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "five-held-for-kidnapping-assaulting-dry-fruit-traders-in-beg": {
-    "firstSeen": "2026-08-23T16:37:49.437Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
