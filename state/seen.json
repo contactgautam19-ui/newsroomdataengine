@@ -1,72 +1,92 @@
 {
-  "gangster-goldy-brar-admits-to-killing-khalistani-terrorist-n": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "gold|gst|ipl|minister|prime minister|row|terror|terror",
-    "norm": 97.7
+  "-could-result-in-injury-or-death-thanedar-urges-halting-ice-": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "congress|death|record|result|shock|shock|war",
+    "norm": 81.2
   },
-  "gujarat-store-owner-shot-dead-in-us-in-front-of-19-year-old-": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "dead|dead|fire|fire|ipl|mp",
-    "norm": 85.7
+  "rahul-gandhi-calls-for-end-to-patriarchy-at-pune-event-after": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "modi|modi|rahul gandhi|shock|shock|video",
+    "norm": 80.4
   },
-  "stray-dog-mauls-three-year-old-in-maharashtra-leaves-her-wit": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "attack|attack|maharashtra|video",
-    "norm": 74.9
+  "yash-s-toxic-event-turns-chaotic-sound-system-collapses-stud": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "collapse|collapse|collapse|film|injured|panic",
+    "norm": 80.1
   },
-  "massive-ganpati-idol-falls-during-arrival-procession-in-mumb": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "dead|dead|died|injured|war",
-    "norm": 70.5
+  "from-dossiers-to-court-verdicts-how-hafiz-saeed-proclaimed-o": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "terror|terror|verdict",
+    "norm": 66
   },
-  "fir-registered-against-abhijeet-dipke-for-entering-governmen": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "maharashtra|mp|threat",
-    "norm": 67.6
+  "saransh-jain-makes-india-debut-at-33-who-is-the-allrounder-t": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "election|election|mp|record",
+    "norm": 65.3
   },
-  "vande-mataram-row-explodes-bjp-pushes-full-version-congress-": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "bjp|congress|mp|row",
-    "norm": 61.8
+  "low-pressure-area-forms-north-andhra-on-alert": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "alert|war|warning",
+    "norm": 64.5
   },
-  "find-ways-to-connect-with-youth-pm-meets-nitin-nabin-s-new-t": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "bjp|modi|modi",
-    "norm": 61.4
+  "h1n1-cases-soar-in-karnataka-doctors-warn-actual-numbers-cou": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "mp|row|war",
+    "norm": 60.8
   },
-  "let-founder-hafiz-saeed-faces-non-bailable-warrant-india-mov": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "ipl|war",
-    "norm": 57.6
+  "endoscopic-camera-11-000-deal-how-chhattisgarh-agriculture-e": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "deal|exam",
+    "norm": 55.4
   },
-  "transshipment-scam-or-efficient-supply-chain-how-u-s-firms-t": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "mp|scam",
-    "norm": 57.1
+  "tamil-nadu-life-convict-selvam-s-book-oru-thooku-kaithiyin-v": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "record|war",
+    "norm": 54.2
   },
-  "be-loud-be-proud-fight-for-your-space-rahul-gandhi-tells-gen": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "mp|rahul gandhi",
-    "norm": 50.5
+  "shillong-teer-result-today-august-23-2026-check-winning-numb": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "khan|result",
+    "norm": 53.9
   },
-  "-wrong-side-driving-trend-12-deaths-in-britain-ireland-linke": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
+  "tmc-rebels-await-official-status-after-breaking-off-from-mam": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "lok sabha|mamata|mp",
+    "norm": 52.7
+  },
+  "clash-erupts-between-andhra-north-east-region-students-in-nu": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "clash|clash",
+    "norm": 52.4
+  },
+  "35-year-old-man-hacked-to-death-with-swords-in-busy-bengalur": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
     "signature": "death",
+    "norm": 48.2
+  },
+  "while-madras-went-to-bed-early-chennai-stays-up": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "india-s-monsoon-enters-drier-than-normal-phase-inflation-ris": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "inflation",
-    "norm": 44
+  "india-s-big-legal-move-against-hafiz-saeed-nia-seeks-proclai": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "u-p-deputy-cm-brajesh-pathak-meets-reservation-reform-moveme": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
-    "signature": "minister",
-    "norm": 44
-  },
-  "news-in-frames-toxic-water-runs-deep": {
-    "firstSeen": "2026-08-23T03:12:12.454Z",
+  "chicken-chain-co-founder-restores-3-000-acre-texas-ranch-rev": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
     "signature": "",
     "norm": 36
+  },
+  "a-hark-back-to-collection-king-udhayam-theatre-in-chennai": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "beach-this-third-place-in-chennai-makes-room-for-everyone": {
+    "firstSeen": "2026-08-23T04:53:25.901Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
