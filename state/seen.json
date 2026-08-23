@@ -1,186 +1,191 @@
 {
-  "after-maharashtra-hill-tragedy-delhi-man-jumps-into-yamuna-o": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "alert|flood|flood|maharashtra|mp|rescue|rescue|tragedy",
-    "norm": 90.4
+  "-if-a-person-doesn-t-value-you-woman-who-died-in-maharashtra": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "died|freak|maharashtra|mp|tragedy|video",
+    "norm": 81.4
   },
-  "pregnant-defence-ministry-officer-found-dead-in-delhi-husban": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "dead|dead|defence|mp|war",
-    "norm": 76.5
+  "three-firs-filed-against-28-named-900-unnamed-people-over-po": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "clash|clash|exam|ipl|protest|protest|recruitment",
+    "norm": 79.9
   },
-  "pm-modi-warns-of-weaponisation-of-resources-sea-routes-urges": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "fuel|modi|modi|war",
-    "norm": 74
+  "pregnant-defence-ministry-officer-found-dead-family-alleges-": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "dead|dead|defence|khan",
+    "norm": 74.2
   },
-  "defence-ministry-officer-found-dead-in-dwarka-home-family-al": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "dead|dead|defence|war",
-    "norm": 72.6
+  "-my-statements-were-twisted-deepender-hooda-makes-u-turn-on-": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "backlash|congress|mp|riot|twist",
+    "norm": 72
   },
-  "one-person-injured-in-clash-between-rival-groups-of-bjp-work": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "bjp|clash|clash|injured",
-    "norm": 71.4
+  "poonawalla-vs-poonawalla-shehzad-takes-on-brother-tehseen-ov": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "mp|price|prices|rahul gandhi|scam",
+    "norm": 72
   },
-  "northeast-and-andhra-students-clash-over-phone-theft-complai": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "clash|clash|injured|mp",
-    "norm": 71.4
+  "dalal-street-outlook-markets-seek-recovery-after-two-week-sl": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "investor|iran|mp|price|prices",
+    "norm": 71.6
   },
-  "-empty-promises-cockroach-janta-party-warns-of-another-janta": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "betray|mp|protest|protest|war",
-    "norm": 70.5
+  "-no-point-in-playing-anymore-karn-sharma-winner-of-4-ipl-tit": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "cricket|ipl|match|mp|sharma",
+    "norm": 70.2
   },
-  "bengal-minister-dilip-ghosh-threatens-surgical-strikes-on-ja": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "bjp|hijack|minister|threat",
+  "-party-of-loudmouths-cm-fadnavis-says-rahul-s-pune-event-for": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "attack|attack|congress|vote",
     "norm": 70
   },
-  "free-hand-to-police-to-deal-with-gangsters-in-west-bengal-di": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "deal|gst|mla|threat",
-    "norm": 68
+  "vijay-s-pm-dream-sparks-political-war-in-tamil-nadu-congress": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "actor|congress|minister|mp|prime minister|war",
+    "norm": 69.7
   },
-  "efforts-on-to-identify-tiger-responsible-for-two-human-death": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "death|match|record",
-    "norm": 64.9
+  "udf-mps-from-keralam-seek-bjp-s-response-on-bifurcation-of-p": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "bjp|minister|mp|protest|protest",
+    "norm": 69
   },
-  "smriti-irani-targets-rahul-gandhi-over-women-s-reservation-b": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "bill|congress|iran|mp|rahul gandhi",
-    "norm": 64.6
+  "deepender-hooda-clarifies-1984-remarks-congress-faces-backla": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "backlash|congress|emotional|mp|riot|row",
+    "norm": 68.8
   },
-  "rains-trigger-landslides-across-uttarakhand-over-80-roads-bl": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "khan|landslide|war",
-    "norm": 64.6
+  "pezeshkian-sounds-alarm-says-iran-in-full-scale-war-as-us-sa": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "iran|sanction|war",
+    "norm": 66
   },
-  "delhi-3-cops-injured-in-mukundpur-attack-hit-with-bricks-chi": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "attack|attack|injured",
+  "heavy-rains-affect-normal-life-in-jammu-house-collapses-in-c": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "collapse|collapse|collapse|heavy rain",
+    "norm": 65.2
+  },
+  "gold-silver-prices-likely-to-extend-gains-next-week-as-inves": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "gold|inflation|investor|price|prices",
     "norm": 62.9
   },
-  "supreme-court-panel-pulls-up-assam-government-for-inaction-o": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "chief minister|iran|minister|supreme court",
-    "norm": 61.8
+  "engineering-student-fractures-leg-as-stage-equipment-collaps": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "collapse|collapse|collapse",
+    "norm": 60
   },
-  "iran-says-pakistan-s-army-chief-to-visit-tehran-on-monday": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "army|iran|pakistan",
-    "norm": 61.4
+  "china-says-border-with-india-generally-stable-at-the-moment-": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "border|china|mp|rally|rally",
+    "norm": 59.7
   },
-  "gujarat-hooch-tragedy-toll-rises-to-13-as-two-more-die-durin": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "toll|tragedy",
-    "norm": 59.3
-  },
-  "2-killed-after-illegal-building-in-hyderabad-s-gachibowli-ca": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "killed|killed",
-    "norm": 59.3
-  },
-  "-real-life-batman-posters-comparing-rahul-gandhi-to-caped-cr": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "congress|mp|rahul gandhi|watch",
-    "norm": 58.6
+  "golden-opportunity-for-india-in-shipbuilding-repairs-rajnath": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "defence|gold|minister",
+    "norm": 59.7
   },
   "rajnath-singh-lays-foundation-for-five-expansion-projects-of": {
     "firstSeen": "2026-08-23T09:38:03.685Z",
     "signature": "crore|defence|minister",
     "norm": 57.6
   },
-  "bjp-govt-in-west-bengal-appoints-party-mlas-mps-as-president": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "bjp|minister|mla|mp|president",
-    "norm": 54.4
+  "28-year-old-punjab-man-shot-dead-in-new-york-while-deliverin": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "dead|dead",
+    "norm": 57.6
   },
-  "eyes-on-xi-visit-early-harvest-as-doval-heads-to-beijing": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "brics|china|president|summit",
-    "norm": 53.9
+  "cm-vijay-s-govt-orders-quality-checks-on-alcohol-level-at-al": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "mp|row",
+    "norm": 57.1
   },
-  "tamil-nadu-official-seeks-clarification-on-government-direct": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "andhra-junior-doctors-to-continue-strike-as-talks-with-govt-": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "inflation|mp",
+    "norm": 55
   },
-  "congress-highlights-delay-in-lok-sabha-prorogation-asks-if-a": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "amit shah|bill|congress|lok sabha",
-    "norm": 52.1
+  "-40tn-debt-1-8tn-deficit-why-us-fiscal-strain-is-worrying-gl": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "mp|trillion",
+    "norm": 53.2
   },
-  "nsa-doval-to-meet-wang-in-beijing-on-monday-to-discuss-india": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "border|china",
+  "digital-mapping-of-rivulets-other-water-sources-completed-in": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "mp|record",
+    "norm": 52
+  },
+  "proposal-to-make-muvattupuzha-a-district-will-be-considered-": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "nia-probes-pakistan-australia-links-behind-arms-drop-by-rogu": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "drone|pakistan",
-    "norm": 50.2
+  "junior-doctors-strike-enters-seventh-day-without-emergency-s": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "hospital",
+    "norm": 48.2
   },
-  "sitharaman-goyal-commerce-secretary-to-lead-india-s-global-o": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "deal",
-    "norm": 45.9
+  "medical-shop-owner-hacked-to-death-in-full-public-view-in-ma": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "death",
+    "norm": 46.3
   },
-  "gaganyaan-in-final-leg-isro-plans-first-uncrewed-space-missi": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "bengal-gets-rs-3-500-cr-defence-push-rajnath-lays-foundation": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "defence",
-    "norm": 44
+  "climate-change-destabilising-western-ghats-forest-ecosystems": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "war",
+    "norm": 46.3
   },
   "attempts-to-dilute-the-glory-of-vande-mataram-can-never-succ": {
     "firstSeen": "2026-08-23T09:38:03.685Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "mysuru-division-begins-process-to-take-over-mangaluru-rail-r": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "mp",
     "norm": 44
   },
-  "pngrb-authorises-about-1-800-km-lpg-pipeline-infra-with-7-00": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "crore",
+  "parliamentary-panel-reviews-space-and-science-projects-at-is": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "parliament",
     "norm": 44
   },
-  "telangana-calls-for-private-parties-to-step-in-to-revive-11-": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
+  "how-bangladesh-s-loss-to-australia-boosts-india-s-wtc-final-": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "book-box-honey-mustard-and-the-art-of-getting-back-to-life": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "delhi-ncr-h1n1-spike-more-testing-same-old-strain-says-dr-so": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
     "signature": "",
     "norm": 36
   },
-  "maldives-largest-infra-project-advances-with-india-s-support": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
+  "engineering-graduates-should-turn-india-into-ai-creator-hub-": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
     "signature": "",
     "norm": 36
   },
-  "jai-tia-hills-to-the-g7-can-meghalaya-turn-lakadong-into-a-g": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
+  "cbi-registers-case-against-former-dgca-director-anil-gill-an": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
     "signature": "",
     "norm": 36
   },
-  "shantinagara-airport-bus-lounge-falls-into-neglect-raises-co": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
+  "power-of-democracy-gave-ordinary-person-like-me-chance-to-be": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
+    "signature": "",
+    "norm": 36
+  },
+  "keralam-to-write-to-pm-on-railways-unilateral-decision-of-de": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
     "signature": "",
     "norm": 33.9
   },
-  "lunar-eclipse-august-2026-when-and-where-will-it-be-visible-": {
-    "firstSeen": "2026-08-23T09:38:03.685Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "nation-wide-anti-narcotics-fortnightly-drives-to-begin-from-": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "centre-pushes-states-to-speed-up-png-adoption-seeks-district": {
-    "firstSeen": "2026-08-23T08:43:47.757Z",
+  "doctors-achieve-new-feat-in-cancer-treatment-with-cord-trans": {
+    "firstSeen": "2026-08-23T10:35:36.895Z",
     "signature": "",
     "norm": 33.9
   }
