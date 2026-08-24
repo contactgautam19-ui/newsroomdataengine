@@ -1,300 +1,130 @@
 {
-  "mp-kanwariya-killed-21-injured-as-tractor-trolley-falls-off-": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "actor|injured|killed|killed|mp|war",
-    "norm": 84.8
-  },
-  "us-strikes-boat-in-eastern-pacific-over-drug-trafficking-kil": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "bomb|death|mp|trump|trump",
-    "norm": 81.3
-  },
-  "pak-army-officer-opens-fire-after-wife-asks-him-to-handle-st": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "army|fire|fire|protest|protest",
-    "norm": 75.5
-  },
-  "nifty-sensex-end-lower-as-iran-sanctions-high-crude-and-risi": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "iran|nifty|sanction|sensex",
-    "norm": 72.3
-  },
-  "akali-dal-spell-checks-classroom-posters-aap-s-hatred-for-pu": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "aap|attack|attack|minister",
-    "norm": 71.6
-  },
-  "trump-threatens-50-tariffs-on-all-cars-and-trucks-from-canad": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "mp|threat|trump|trump",
-    "norm": 71.6
-  },
-  "cctv-footage-surfaces-of-mla-s-daughter-slapping-cop-at-karn": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "cctv|footage|mla|mp|war",
-    "norm": 69.6
-  },
-  "mark-cuban-worth-more-than-10-billion-has-a-bold-plan-to-tac": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "bill|billion|mp|star",
-    "norm": 67.3
+  "stalin-moves-madras-high-court-to-declare-him-elected-from-k": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "election|election|high court|mla|president",
+    "norm": 64.6
   },
   "2-un-peacekeepers-killed-7-injured-in-south-sudan-ambush": {
     "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "injured|killed|killed",
-    "norm": 64.5
+    "norm": 62.9
+  },
+  "calicut-varsity-to-revamp-college-union-election-rules": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "election|election|mp",
+    "norm": 61.4
   },
   "bjp-spokesperson-urges-modi-to-make-sewage-and-effluent-trea": {
     "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "bjp|modi|modi",
-    "norm": 61.4
-  },
-  "is-mecca-pact-a-counterweight-to-israel-or-simply-a-muslim-n": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "israel|mp",
-    "norm": 60
-  },
-  "putin-thanks-modi-for-paying-personal-attention-to-russia-in": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "modi|modi",
-    "norm": 60
-  },
-  "cash-for-transfers-in-punjab-pil-seeks-cbi-probe-into-allege": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "chief minister|deal|high court|minister",
     "norm": 59.7
   },
   "who-is-margarita-reutt-woman-accused-of-killing-russian-nava": {
     "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "attack|attack",
-    "norm": 59.3
+    "norm": 57.6
   },
-  "-economic-d-day-us-announces-expansion-of-sanctions-in-onsla": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "iran|sanction",
-    "norm": 58.3
+  "j-amp-k-cm-asks-police-to-take-poster-threatening-kashmir-pa": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "mp|threat",
+    "norm": 57.1
   },
-  "kharge-accuses-modi-govt-of-undermining-reservations-through": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "modi|modi",
-    "norm": 58.3
+  "from-celluloid-to-digital-the-changing-face-of-chennai-s-cin": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "film|shooting",
+    "norm": 55.7
   },
   "wayanad-gears-up-for-week-long-onam-celebrations": {
     "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "mp|war",
-    "norm": 57.1
+    "norm": 55.4
   },
-  "indiana-widow-s-20-year-land-fight-helped-preserve-lake-mich": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "death|mp",
-    "norm": 57.1
+  "mullappally-flays-centre-s-decision-to-shift-mangaluru-from-": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "crore|president",
+    "norm": 55
   },
-  "israel-netanyahu-says-iran-tried-to-kill-one-of-his-sons": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "iran|israel",
-    "norm": 56.8
-  },
-  "congress-backs-tvk-led-government-s-decision-to-cancel-paran": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "congress|president|record",
-    "norm": 54.7
-  },
-  "dmk-wouldn-t-be-in-the-opposition-without-its-allies-says-aa": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "coalition|congress|opposition|vote",
-    "norm": 53.9
-  },
-  "gujarat-chief-minister-visits-baps-swaminarayan-akshardham-i": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "chief minister|minister",
-    "norm": 53.5
-  },
-  "evms-don-t-have-internet-bluetooth-or-wi-fi-says-poll-body-c": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "mp|poll",
+  "t-n-government-actively-pursuing-v-c-appointment-issue-in-co": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "minister|mp",
     "norm": 50.5
   },
-  "midcap-it-likely-to-see-better-h2-ai-led-deflation-weighs-on": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "row",
-    "norm": 49.4
+  "rahul-gandhi-works-to-insult-uttar-pradesh-and-the-country-a": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "rahul gandhi|yogi",
+    "norm": 50.5
   },
-  "chandigarh-university-provides-in-house-training-for-civil-s": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "defence",
-    "norm": 49
+  "as-onion-prices-rise-centre-readies-retail-intervention-in-d": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "price|prices",
+    "norm": 48.7
   },
-  "-unemployment-highest-in-40-years-priyanka-gandhi-cites-niti": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "mp",
-    "norm": 49
+  "government-lifts-ban-on-wheat-exports-cites-farmers-interest": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "price|prices",
+    "norm": 48.7
   },
-  "madras-hc-extends-stay-on-five-tamil-nadu-assembly-bypolls-t": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "poll",
-    "norm": 49
+  "six-arrested-for-running-fake-airline-job-racket-victims-fro": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "iran",
+    "norm": 48.2
   },
   "class-9-student-found-hanging-in-karnataka-school-family-all": {
     "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "died",
-    "norm": 48.2
+    "norm": 46.3
   },
-  "kunal-kohli-asks-fda-s-tukaram-mundhe-to-raid-home-kitchens-": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "film|kohli",
-    "norm": 48.2
-  },
-  "union-finance-minister-nirmala-sitharaman-to-embark-on-offic": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "minister",
-    "norm": 47.1
-  },
-  "sister-brother-duo-shines-at-the-first-world-open-taekwondo-": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "-vizhinjam-port-operating-successfully-union-minister-sarban": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "minister",
-    "norm": 47.1
-  },
-  "suzlon-targets-5-gw-renewable-capacity-in-andhra-pradesh-by-": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "jobs",
-    "norm": 47.1
+  "stocking-speculation-behind-unnatural-sugar-price-surge-isma": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
+    "signature": "price",
+    "norm": 44
   },
   "chikkamagaluru-police-arrest-man-for-attempting-to-disturb-c": {
     "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
   "schools-not-ready-as-france-presses-ahead-with-phone-ban": {
     "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "parliament",
-    "norm": 45.9
+    "norm": 44
   },
   "teen-girl-gangraped-friend-tied-up-in-madhya-pradesh-s-pachm": {
     "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "mp",
-    "norm": 45.9
-  },
-  "chhattisgarh-govt-to-impart-lessons-on-state-s-art-and-cultu": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "tcs-to-acquire-porsche-subsidiary-mhp-for-373-mn-signs-five-": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "deal",
     "norm": 44
   },
-  "dmk-allies-walk-out-of-tn-assembly-over-parandur-airport-pro": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
+  "karnataka-suspends-food-licences-of-amazon-swiggy-instamart-": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
     "signature": "",
-    "norm": 39.4
+    "norm": 36
   },
-  "prsi-kolkata-chapter-honours-infinity-group-cmd-ravindra-cha": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
+  "malappuram-set-for-onam-celebrations-from-august-26": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
     "signature": "",
-    "norm": 39.4
+    "norm": 36
   },
-  "india-removes-export-restrictions-on-wheat-atta-and-maida": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
+  "romance-longing-life-and-cinema-on-chennai-s-beach": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
     "signature": "",
-    "norm": 39.4
+    "norm": 36
   },
-  "red-tape-cut-india-streamlines-medical-device-rules-to-fast-": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
+  "milad-e-sharif-procession-held-in-malappuram": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
     "signature": "",
-    "norm": 39.4
+    "norm": 33.9
   },
-  "fixing-the-foundations": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
+  "book-on-mahaperiyava-released": {
+    "firstSeen": "2026-08-24T19:38:17.626Z",
     "signature": "",
-    "norm": 39.4
-  },
-  "enforcement-directorate-arrests-two-in-2025-goa": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "vizhinjam-begins-exim-operations-opens-new-trade-gateway-the": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "tvs-supply-chain-solutions-and-japan-sankyu-inc-sign-strateg": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "iceye-establishes-indian-entity-to-support-india-sovereign-i": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "brazil-giant-orange-juice-plant-will-turn-citrus-wastewater-": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "rishabh-pant-surpasses-adam-gilchrist-becomes-3rd-highest-si": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "deportees-who-refused-to-leave-liberia-sent-to-equatorial-gu": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "-bihar-govt-committed-to-education-of-youth-cm-samrat-choudh": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "azb-partner-kalpana-merchant-joins-10-strong-lowly-geared-vi": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "sk-l-international-lucknow-elects-new-board-at-4th-annual-ge": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "beyon-from-the-house-of-titan-expands-to-noida-with-its-seco": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "newsletter-trials-errors-tribulations-issue-124-": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 37.4
+    "norm": 33.9
   },
   "us-proposes-103-265-h-1b-fee-hiring-set-to-become-more-costl": {
     "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "",
-    "norm": 36
-  },
-  "amazon-instamart-bigbasket-lose-food-licences-over-datura-sa": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 36
-  },
-  "chhattisgarh-cm-urges-workers-children-to-dream-big-work-har": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 36
-  },
-  "incois-advisory-helps-fishermen-net-hilsa-bonanza-off-bengal": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
     "norm": 33.9
   },
-  "comedian-tarang-hardikar-on-his-special-if-i-m-not-wrong-and": {
+  "amazon-instamart-bigbasket-lose-food-licences-over-datura-sa": {
     "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "",
     "norm": 33.9
