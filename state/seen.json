@@ -1,176 +1,301 @@
 {
-  "three-newborns-die-in-fire-at-government-hospital-in-amravat": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "fire|fire|hospital|injured|maharashtra|minister|mp",
-    "norm": 84
+  "mp-kanwariya-killed-21-injured-as-tractor-trolley-falls-off-": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "actor|injured|killed|killed|mp|war",
+    "norm": 84.8
   },
-  "4-46-crore-voters-in-karnataka-draft-rolls-1-07-crore-names-": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "crore|dead|dead|mp|vote",
-    "norm": 79.4
+  "us-strikes-boat-in-eastern-pacific-over-drug-trafficking-kil": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "bomb|death|mp|trump|trump",
+    "norm": 81.3
   },
-  "mcd-officer-suspended-after-teen-falls-into-open-drain-in-de": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "rescue|rescue|video|viral|viral|viral",
-    "norm": 78.8
+  "pak-army-officer-opens-fire-after-wife-asks-him-to-handle-st": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "army|fire|fire|protest|protest",
+    "norm": 75.5
   },
-  "nagpur-chlorine-leak-horror-56-hospitalised-8-fighting-for-l": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "anger|gas leak|horror|hospital|mp",
-    "norm": 77.5
+  "nifty-sensex-end-lower-as-iran-sanctions-high-crude-and-risi": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "iran|nifty|sanction|sensex",
+    "norm": 72.3
   },
-  "hope-to-see-pm-modi-soon-as-we-planned-putin-tells-jaishanka": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "brics|jaishankar|modi|modi|president|summit|war",
-    "norm": 75.1
-  },
-  "amit-shah-orders-crack-down-on-infiltration-calls-for-ai-use": {
-    "firstSeen": "2026-08-24T16:51:42.802Z",
-    "signature": "amit shah|mp|terror|terror|threat",
-    "norm": 75
-  },
-  "maharashtra-farm-loan-waiver-12-58-lakh-farmers-benefit-1-la": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "chief minister|crore|lakh|maharashtra|minister",
-    "norm": 73.6
-  },
-  "putin-assures-india-of-fuel-fertilisers-amid-disruptions-ove": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "brics|fuel|jaishankar|modi|modi|president|summit",
-    "norm": 71.5
+  "akali-dal-spell-checks-classroom-posters-aap-s-hatred-for-pu": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "aap|attack|attack|minister",
+    "norm": 71.6
   },
   "trump-threatens-50-tariffs-on-all-cars-and-trucks-from-canad": {
     "firstSeen": "2026-08-24T17:40:11.006Z",
     "signature": "mp|threat|trump|trump",
-    "norm": 70
+    "norm": 71.6
   },
-  "5-sectors-and-a-warning-for-world-us-launches-op-economic-ou": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "iran|war|warning",
+  "cctv-footage-surfaces-of-mla-s-daughter-slapping-cop-at-karn": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "cctv|footage|mla|mp|war",
     "norm": 69.6
   },
-  "officials-followed-standard-practice-sources-say-after-gor-c": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "modi|modi|mp|trump|trump",
-    "norm": 68.6
+  "mark-cuban-worth-more-than-10-billion-has-a-bold-plan-to-tac": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "bill|billion|mp|star",
+    "norm": 67.3
   },
-  "madras-high-court-dismisses-petitions-for-cbi-investigation-": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "fraud|high court|mla|war",
-    "norm": 65
+  "2-un-peacekeepers-killed-7-injured-in-south-sudan-ambush": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "injured|killed|killed",
+    "norm": 64.5
   },
-  "rules-at-tribal-hostels-undermining-dignity-of-students-rahu": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "chief minister|lok sabha|maharashtra|minister|opposition|rahul gandhi",
-    "norm": 63.4
-  },
-  "india-s-defence-indigenisation-drive-amca-fighter-jets-the-r": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "defence|mp|row",
+  "bjp-spokesperson-urges-modi-to-make-sewage-and-effluent-trea": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "bjp|modi|modi",
     "norm": 61.4
   },
-  "nagpur-gas-leak-56-hospitalised-8-in-icu-after-chlorine-leak": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "gas leak|hospital|mp",
-    "norm": 60.8
+  "is-mecca-pact-a-counterweight-to-israel-or-simply-a-muslim-n": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "israel|mp",
+    "norm": 60
   },
-  "watch-govt-did-not-honour-promises-made-for-a-month-slams-go": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "slam|slams|watch",
-    "norm": 57.9
+  "putin-thanks-modi-for-paying-personal-attention-to-russia-in": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "modi|modi",
+    "norm": 60
   },
-  "supreme-court-asks-centre-to-respond-to-plea-to-reduce-perce": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "neet|supreme court",
-    "norm": 57.1
+  "cash-for-transfers-in-punjab-pil-seeks-cbi-probe-into-allege": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "chief minister|deal|high court|minister",
+    "norm": 59.7
   },
-  "will-decide-tejpal-plea-against-surrender-before-listing-app": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
+  "who-is-margarita-reutt-woman-accused-of-killing-russian-nava": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "attack|attack",
+    "norm": 59.3
+  },
+  "-economic-d-day-us-announces-expansion-of-sanctions-in-onsla": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "iran|sanction",
+    "norm": 58.3
+  },
+  "kharge-accuses-modi-govt-of-undermining-reservations-through": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "modi|modi",
+    "norm": 58.3
+  },
+  "wayanad-gears-up-for-week-long-onam-celebrations": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "mp|war",
     "norm": 57.1
   },
-  "-iran-tried-to-murder-one-of-my-sons-benjamin-netanyahu-s-ex": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "iran|tax",
-    "norm": 55.4
+  "indiana-widow-s-20-year-land-fight-helped-preserve-lake-mich": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "death|mp",
+    "norm": 57.1
   },
-  "cjp-dictating-justice-honour-blanket-amnesty-vow-cjp-to-marc": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "israel-netanyahu-says-iran-tried-to-kill-one-of-his-sons": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "iran|israel",
+    "norm": 56.8
   },
-  "detect-and-deport-illegal-migrants-amit-shah-tells-police-ch": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "amit shah|minister",
+  "congress-backs-tvk-led-government-s-decision-to-cancel-paran": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "congress|president|record",
+    "norm": 54.7
+  },
+  "dmk-wouldn-t-be-in-the-opposition-without-its-allies-says-aa": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "coalition|congress|opposition|vote",
+    "norm": 53.9
+  },
+  "gujarat-chief-minister-visits-baps-swaminarayan-akshardham-i": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "chief minister|minister",
+    "norm": 53.5
+  },
+  "evms-don-t-have-internet-bluetooth-or-wi-fi-says-poll-body-c": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "mp|poll",
     "norm": 50.5
   },
-  "cet-final-seat-allotment-result-announced": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "result",
+  "midcap-it-likely-to-see-better-h2-ai-led-deflation-weighs-on": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "row",
+    "norm": 49.4
+  },
+  "chandigarh-university-provides-in-house-training-for-civil-s": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "defence",
+    "norm": 49
+  },
+  "-unemployment-highest-in-40-years-priyanka-gandhi-cites-niti": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "mp",
+    "norm": 49
+  },
+  "madras-hc-extends-stay-on-five-tamil-nadu-assembly-bypolls-t": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "poll",
+    "norm": 49
+  },
+  "class-9-student-found-hanging-in-karnataka-school-family-all": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "died",
     "norm": 48.2
   },
-  "abhishek-banerjee-moves-sc-seeking-early-decision-by-om-birl": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "mp",
-    "norm": 45.9
+  "kunal-kohli-asks-fda-s-tukaram-mundhe-to-raid-home-kitchens-": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "film|kohli",
+    "norm": 48.2
   },
-  "three-fugitives-linked-to-bambiha-gang-deported-from-malaysi": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "amit shah",
-    "norm": 45.9
-  },
-  "manipur-awaits-delhi-decision-on-census-as-meitei-naga-group": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "high court",
-    "norm": 45.9
-  },
-  "telangana-cm-brushes-aside-konda-surekha-s-episode-asks-mlas": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "mla",
-    "norm": 45.9
-  },
-  "minister-invites-entrepreneurs-to-invest-in-a-p-": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
+  "union-finance-minister-nirmala-sitharaman-to-embark-on-offic": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "minister",
-    "norm": 44
+    "norm": 47.1
   },
-  "bangladesh-india-discuss-easing-yarn-imports-through-land-po": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
+  "sister-brother-duo-shines-at-the-first-world-open-taekwondo-": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "mp",
+    "norm": 47.1
+  },
+  "-vizhinjam-port-operating-successfully-union-minister-sarban": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "minister",
+    "norm": 47.1
+  },
+  "suzlon-targets-5-gw-renewable-capacity-in-andhra-pradesh-by-": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "jobs",
+    "norm": 47.1
+  },
+  "chikkamagaluru-police-arrest-man-for-attempting-to-disturb-c": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "schools-not-ready-as-france-presses-ahead-with-phone-ban": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "parliament",
+    "norm": 45.9
+  },
+  "teen-girl-gangraped-friend-tied-up-in-madhya-pradesh-s-pachm": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "chhattisgarh-govt-to-impart-lessons-on-state-s-art-and-cultu": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "tcs-to-acquire-porsche-subsidiary-mhp-for-373-mn-signs-five-": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "deal",
     "norm": 44
   },
-  "day-after-gautam-adani-meets-d-k-shivakumar-government-amend": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "adani",
-    "norm": 42.4
+  "dmk-allies-walk-out-of-tn-assembly-over-parandur-airport-pro": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 39.4
   },
-  "farmers-body-terms-national-co-operative-development-corpora": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
+  "prsi-kolkata-chapter-honours-infinity-group-cmd-ravindra-cha": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "india-removes-export-restrictions-on-wheat-atta-and-maida": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "red-tape-cut-india-streamlines-medical-device-rules-to-fast-": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "fixing-the-foundations": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "enforcement-directorate-arrests-two-in-2025-goa": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "vizhinjam-begins-exim-operations-opens-new-trade-gateway-the": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "tvs-supply-chain-solutions-and-japan-sankyu-inc-sign-strateg": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "iceye-establishes-indian-entity-to-support-india-sovereign-i": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "brazil-giant-orange-juice-plant-will-turn-citrus-wastewater-": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "rishabh-pant-surpasses-adam-gilchrist-becomes-3rd-highest-si": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "deportees-who-refused-to-leave-liberia-sent-to-equatorial-gu": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "-bihar-govt-committed-to-education-of-youth-cm-samrat-choudh": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "azb-partner-kalpana-merchant-joins-10-strong-lowly-geared-vi": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "sk-l-international-lucknow-elects-new-board-at-4th-annual-ge": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "beyon-from-the-house-of-titan-expands-to-noida-with-its-seco": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "newsletter-trials-errors-tribulations-issue-124-": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "us-proposes-103-265-h-1b-fee-hiring-set-to-become-more-costl": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "",
     "norm": 36
   },
-  "colorado-land-sold-for-30-cents-an-acre-later-helped-create-": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
+  "amazon-instamart-bigbasket-lose-food-licences-over-datura-sa": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "",
     "norm": 36
   },
-  "handloom-expo-at-urban-haat-ahead-of-gowri-ganesh-festival": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
+  "chhattisgarh-cm-urges-workers-children-to-dream-big-work-har": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "",
     "norm": 36
   },
-  "experts-from-field-take-classes-for-students-of-sahyadri-art": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
+  "incois-advisory-helps-fishermen-net-hilsa-bonanza-off-bengal": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "",
     "norm": 33.9
   },
-  "textbook-supply-to-pu-students-delayed-mlc": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "michigan-couple-bought-farmhouse-for-26-000-spent-320-000-re": {
-    "firstSeen": "2026-08-24T17:40:11.006Z",
+  "comedian-tarang-hardikar-on-his-special-if-i-m-not-wrong-and": {
+    "firstSeen": "2026-08-24T18:54:36.991Z",
     "signature": "",
     "norm": 33.9
   }
