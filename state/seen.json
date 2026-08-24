@@ -1,106 +1,176 @@
 {
+  "ayodhya-fish-feast-row-why-a-congress-conference-menu-has-sp": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "attack|attack|ayodhya|bjp|congress|mla|row|storm",
+    "norm": 92.3
+  },
   "three-newborns-die-in-fire-at-government-hospital-in-amravat": {
     "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "died|fire|fire|hospital|maharashtra|minister|mp|rescue|rescue",
-    "norm": 94
+    "signature": "fire|fire|hospital|injured|maharashtra|minister|mp",
+    "norm": 82.4
   },
-  "three-newborns-burnt-to-death-after-ventilator-explodes-insi": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "death|fan|fire|fire|hospital|killed|killed",
-    "norm": 83.6
-  },
-  "rupee-climbs-to-95-64-against-us-dollar-iran-sanctions-crude": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "investor|iran|mp|price|prices|rupee|sanction",
-    "norm": 76.5
+  "uefa-chief-ceferin-rules-out-fifa-bid-but-warns-infantino-qu": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "election|election|fan|mp|president|war",
+    "norm": 78.5
   },
   "bjp-targets-aap-over-punjab-governance-calls-arvind-kejriwal": {
     "firstSeen": "2026-08-24T04:56:39.911Z",
     "signature": "aap|attack|attack|bjp|kejriwal",
-    "norm": 73.6
+    "norm": 72
   },
-  "footballers-coaches-protest-bmc-proposal-to-turn-bandra-grou": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "match|mp|protest|protest",
-    "norm": 72.9
+  "video-after-dombivli-another-doctor-assaulted-in-kalyan": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "hospital|mp|panic|video",
+    "norm": 71.4
   },
-  "man-paid-for-israel-job-got-no-employment-consumer-panel-ord": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "fund|israel|lakh|mp",
-    "norm": 69.6
+  "3-mowed-down-on-del-mum-expressway-protest-triggers-traffic-": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "killed|killed|protest|protest",
+    "norm": 68.4
   },
-  "ranveer-submits-defence-against-farhan-s-rs-45-cr-claim-warn": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "controversy|defence|mp|war",
-    "norm": 65
+  "delhi-s-swine-flu-surge-health-minister-calls-high-level-mee": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "hospital|minister|panic",
+    "norm": 67.6
   },
-  "from-rs-25-kg-to-rs-60-kg-your-kitchen-budget-may-soon-feel-": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "budget|price|prices|stocks|weather",
+  "valmiki-scam-row-cbi-seeks-prosecution-of-b-nagendra-bjp-jds": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "bjp|minister|row|scam",
+    "norm": 66.6
+  },
+  "tamil-nadu-drops-parandur-airport-project-vijay-says-i-stand": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "chief minister|minister|protest|protest",
+    "norm": 65.3
+  },
+  "dyfi-activists-storm-palakkad-drm-office-in-keralam-over-rai": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "protest|protest|storm",
+    "norm": 64.9
+  },
+  "mark-zuckerberg-s-wife-priscilla-chan-s-125-million-school-t": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "fund|result|results|results",
+    "norm": 63.4
+  },
+  "chlorine-gas-leak-at-nagpur-water-plant-triggers-panic-sever": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "gas leak|hospital|panic",
     "norm": 62.9
   },
-  "from-28-days-in-2019-to-14-now-government-is-speeding-up-gri": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "lakh|record|row",
-    "norm": 62.8
+  "what-are-the-u-s-s-latest-allegations-against-india-explaine": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "mp|row|scam",
+    "norm": 60.8
   },
-  "those-against-reservation-should-be-booked-for-sedition-unio": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "minister|protest|protest",
-    "norm": 61.1
+  "modi-government-strangulating-emasculating-isro-congress": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "congress|modi|modi",
+    "norm": 59.7
+  },
+  "-entering-endgame-us-warns-iran-of-economic-d-day-tehran-s-o": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "iran|war",
+    "norm": 57.6
+  },
+  "for-gen-z-outreach-rahul-gandhi-s-wardrobe-gets-a-peppy-make": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "rahul gandhi|war",
+    "norm": 55.4
   },
   "kerala-forest-officer-booked-over-alleged-misbehaviour-with-": {
     "firstSeen": "2026-08-24T04:56:39.911Z",
     "signature": "mp|war",
-    "norm": 57.1
-  },
-  "kerala-hc-directs-strict-action-against-illegal-vehicle-modi": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "modi|modi",
     "norm": 55.4
-  },
-  "chennai-home-reveals-more-horrors-after-woman-s-body-found-i": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "horror|mp",
-    "norm": 55.4
-  },
-  "chlorine-gas-leaks-at-water-treatment-plant-in-nagpur-severa": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "gas leak|hospital",
-    "norm": 53.9
   },
   "shillong-teer-result-today-august-24-2026-check-winning-numb": {
     "firstSeen": "2026-08-24T04:56:39.911Z",
     "signature": "khan|result",
     "norm": 53.9
   },
+  "supreme-court-bans-construction-within-100-metres-of-jojari-": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "star|supreme court",
+    "norm": 53.5
+  },
+  "chlorine-gas-leak-in-nagpur-leaves-several-hospitalised-area": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "gas leak|hospital",
+    "norm": 52.1
+  },
   "odisha-govt-rejects-opposition-demand-for-special-assembly-s": {
     "firstSeen": "2026-08-24T04:56:39.911Z",
     "signature": "bill|congress|opposition",
-    "norm": 52.7
+    "norm": 50.9
   },
-  "transformer-theft-backfires-in-punjab-as-thieves-car-recover": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "fire|fire",
-    "norm": 52.4
-  },
-  "stamping-of-boarding-passes-for-immigration-clearance-to-be-": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "mp|policy",
+  "tamil-nadu-govt-abandons-parandur-airport-project-eyes-new-s": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "mla|mp",
     "norm": 50.5
   },
-  "urban-company-takes-kent-ro-to-court-over-purifier-ads-read-": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "high court|mp",
-    "norm": 48.7
+  "20-year-old-student-finds-1-200-year-old-gold-90-minutes-int": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "gold",
+    "norm": 48.2
   },
-  "tn-govt-scraps-parandur-airport-project-eyes-new-site-chenna": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
+  "eggs-hurled-at-ganesh-procession-in-mumbai-s-mazgaon-police-": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "xiaomi-excludes-second-hand-phones-from-warranty-and-battery": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "shigellosis-cases-open-up-a-new-amr-challenge-in-keralam": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "tamil-nadu-government-to-reimburse-money-for-three-lpg-cylin": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "poll",
+    "norm": 45.9
+  },
+  "in-chennai-s-beachside-food-the-secret-ingredient-is-the-sea": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "from-dubai-to-colombo-how-150-pakistani-brides-facing-visa-h": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "pakistan",
+    "norm": 44
+  },
+  "3-free-lpg-cylinders-bus-travel-scheme-amped-tamil-nadu-cm-v": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "tamil-nadu-cm-announces-free-lpg-cylinders-to-eligible-famil": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "",
+    "norm": 36
+  },
+  "how-chennai-city-went-from-tiffin-carriers-to-food-apps": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "",
+    "norm": 36
+  },
+  "piyush-goyal-says-india-negotiating-ftas-with-8-to-9-more-bl": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
     "signature": "",
     "norm": 33.9
   },
-  "amrit-bharat-3-0-new-ac-coaches-to-bring-vande-bharat-style-": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
+  "pay-25-000-for-visa-indian-firm-under-probe-after-spain-s-al": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "three-lpg-cylinders-free-bus-travel-for-women-what-cm-vijay-": {
+    "firstSeen": "2026-08-24T05:49:21.035Z",
     "signature": "",
     "norm": 33.9
   }
