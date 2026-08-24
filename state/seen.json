@@ -1,221 +1,201 @@
 {
-  "harbhajan-singh-bowls-political-doosra-as-cops-confirm-viral": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "bjp|neet|video|viral|viral|viral",
-    "norm": 80.3
-  },
-  "tamil-nadu-politics-heats-up-vijay-offers-3-free-lpg-cylinde": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "bjp|chief minister|election|election|minister|slam|slams",
-    "norm": 77.9
-  },
-  "neet-protest-violence-cji-says-women-protestors-can-file-sex": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "cji|mp|neet|protest|protest",
+  "-ram-ram-inside-maach-bhaat-outside-why-bjp-and-congress-are": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "ayodhya|bjp|clash|clash|congress",
     "norm": 76.8
   },
-  "gold-price-prediction-today-worst-of-gold-price-dips-over-": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "gold|gold price|policy|price|prices",
-    "norm": 73
+  "kerala-gulf-migration-storm-world-bank-report-shashi-tharoor": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "controversy|exam|row|storm",
+    "norm": 74.6
   },
-  "harbhajan-singh-strikes-back-punjab-police-confirm-viral-dru": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "footage|video|viral|viral|viral",
-    "norm": 67.3
+  "-forced-to-leave-at-dead-of-night-mahua-moitra-moves-sc-over": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "dead|dead|mp|supreme court",
+    "norm": 71.6
   },
-  "india-to-surpass-china-in-affluent-consumers-by-2036-the-qua": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "china|investor|war",
-    "norm": 65.6
+  "15-flights-diverted-over-50-delayed-as-heavy-rains-batter-de": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "heavy rain|mp|weather",
+    "norm": 67.6
   },
-  "demolish-unauthorised-under-construction-structures-cyberaba": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "building collapse|collapse|collapse|collapse",
-    "norm": 65.2
+  "parts-of-delhi-on-red-alert-as-imd-warns-of-heavy-rain-light": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "alert|heavy rain|red alert|war|warning",
+    "norm": 66.8
   },
-  "maharashtra-cabinet-meet-rescheduled-fadnavis-calls-crucial-": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "alliance|cabinet|chief minister|maharashtra|minister|mp",
-    "norm": 65.1
+  "karnataka-beggar-dies-rs-8-40-lakh-found-stuffed-inside-30-s": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "dead|dead|lakh",
+    "norm": 66
   },
-  "women-s-reservation-bill-row-explodes-congress-targets-bjp-o": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "bill|bjp|congress|mp|row",
-    "norm": 62.9
+  "explained-why-tamil-nadu-dropped-2nd-airport-near-chennai-at": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "chief minister|minister|protest|protest",
+    "norm": 65.3
   },
-  "modi-government-strangulating-emasculating-isro-congress": {
-    "firstSeen": "2026-08-24T05:49:21.035Z",
-    "signature": "congress|modi|modi",
-    "norm": 61.4
+  "imran-khan-s-party-takes-pak-pm-shehbaz-sharif-to-court-afte": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "exam|hospital|khan",
+    "norm": 64.6
   },
-  "on-cctv-speeding-car-crashes-through-bikaner-house-gate-fami": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "cctv|crash|crash",
-    "norm": 61.1
+  "yogi-vs-congress-over-fish-feast-in-ayodhya-even-chameleon-w": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "ayodhya|congress|yogi",
+    "norm": 59.7
   },
-  "chinese-humanoid-robots-beat-bolt-s-100m-time-and-human-high": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "mp|record|row",
-    "norm": 61.1
+  "sambhaji-nagar-children-ate-two-kachoris-shocking-discovery-": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "shock|shock|shocking",
+    "norm": 59.6
   },
-  "former-diplomat-raises-concerns-over-sir-in-punjab-over-mism": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "ipl|match|vote",
-    "norm": 60.8
+  "23-kashmiri-pandits-massacred-on-holy-night-of-ramzan-j-k-re": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "brutal|massacre|star",
+    "norm": 59.4
+  },
+  "tamil-nadu-cm-vijay-drops-rs-20-000-crore-plan-for-chennai-s": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "chief minister|crore|minister",
+    "norm": 59.3
+  },
+  "sir-in-karnataka-draft-roll-out-now-here-s-how-you-can-check": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "record|star|vote",
+    "norm": 59.3
   },
   "tmc-mp-mahua-moitra-moves-supreme-court-alleging-eviction-fr": {
     "firstSeen": "2026-08-24T07:15:45.536Z",
     "signature": "fund|mp|supreme court",
-    "norm": 59.3
-  },
-  "-evicted-at-dead-of-night-mahua-moitra-moves-sc-over-nadia-c": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "dead|dead",
     "norm": 57.6
   },
-  "kashmiri-pandit-employees-seek-protection-in-j-k-after-threa": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "mp|threat",
-    "norm": 57.1
+  "-rumours-maharashtra-hill-tragedy-victims-relative-over-ipho": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "maharashtra|tragedy",
+    "norm": 57.6
   },
-  "samsung-galaxy-buds4-pro-wins-first-eisa-award": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "mp|war",
-    "norm": 57.1
+  "police-take-bjp-leaders-into-custody-as-they-try-to-lay-sieg": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "bjp|fund|minister",
+    "norm": 57.6
   },
-  "delhi-ncr-sees-heavy-rain-thunderstorms-traffic-snarls-water": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "alert|heavy rain|red alert|storm",
-    "norm": 56.2
+  "15-flights-diverted-from-delhi-airport-amid-heavy-rain-traff": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "alert|heavy rain|red alert",
+    "norm": 56.6
   },
-  "sc-to-hear-plea-challenging-fir-against-journalist-who-repor": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "mp|row",
+  "why-are-maharashtra-s-auto-rickshaw-taxi-drivers-being-issue": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "maharashtra|tax",
     "norm": 55.4
   },
-  "delhi-ncr-braces-for-more-rain-in-next-1-3-hours-as-imd-red-": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "alert|red alert",
+  "after-australia-new-zealand-proposes-social-media-ban-for-un": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "bill|coalition|minister|opposition|prime minister",
+    "norm": 54.4
+  },
+  "orange-alert-as-rain-leaves-gurugram-waterlogged-disrupts-tr": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "alert|visuals",
+    "norm": 54.2
+  },
+  "vijay-s-tvk-can-join-india-bloc-once-they-have-own-mps-says-": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "alliance|congress|mp|parliament",
     "norm": 53.9
   },
-  "-wishful-thinking-congress-scoffs-at-tvk-projecting-cm-vijay": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "congress|minister|mp|prime minister",
+  "-there-were-nerves-india-coach-reveals-what-went-wrong-in-mu": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "match|world cup",
     "norm": 53.9
   },
-  "-cta-intentionally-prevented-pti-alleges-negligence-over-imr": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "hospital|khan",
-    "norm": 53.9
+  "-political-comedy-show-rahul-s-smash-patriarchy-pitch-meets-": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "bjp|congress|opposition",
+    "norm": 52.7
   },
-  "heavy-rain-lashes-delhi-ncr-red-and-orange-alert-issued-for-": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "alert|heavy rain",
+  "manipur-1-crpf-personnel-injured-2-houses-burnt-by-unknown-a": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "blaze|injured",
+    "norm": 52.4
+  },
+  "gurugram-sees-heavy-waterlogging-traffic-snarls-as-intense-r": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "heavy rain|video",
+    "norm": 52.4
+  },
+  "-irreversible-setback-stalin-slams-cm-vijay-over-dropping-pl": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "slam|slams",
     "norm": 52.1
   },
-  "odisha-govt-rejects-opposition-demand-for-special-assembly-s": {
-    "firstSeen": "2026-08-24T04:56:39.911Z",
-    "signature": "bill|congress|opposition",
-    "norm": 50.9
+  "15-flights-diverted-from-delhi-airport-as-city-hit-by-heavy-": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "heavy rain|storm",
+    "norm": 52.1
   },
-  "jd-u-mp-backs-nishant-kumar-as-future-bihar-cm-hope-he-would": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "chief minister|minister|mp",
-    "norm": 50.9
-  },
-  "this-isn-t-just-popcorn-how-andhra-pradesh-s-new-crop-could-": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "price|prices",
+  "india-security-chief-visits-china-for-border-talks": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "border|china",
     "norm": 50.5
   },
-  "pune-tribal-students-continue-hunger-strike-for-10th-consecu": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "inflation|price",
-    "norm": 50.5
+  "shigellosis-cases-open-up-a-new-amr-challenge-in-keralam": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "row",
+    "norm": 48.2
   },
-  "-you-endorsed-misogyny-sexism-shehzad-poonawalla-targets-rah": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "bjp|rahul gandhi",
-    "norm": 48.7
+  "udf-announces-one-day-hunger-strike-over-centre-s-railway-bi": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "chhattisgarh-agri-university-cancels-exam-after-police-probe": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "exam",
-    "norm": 46.3
+  "garmin-just-scheduled-a-youtube-live-event-for-25-august-and": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "women-mlas-reiterate-need-to-drop-usage-of-maiden-speech-in-": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
+  "opinion-inside-pak-s-new-law-that-has-one-man-written-all-ov": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "pakistan",
+    "norm": 44
+  },
+  "women-mlas-reiterate-need-to-drop-usage-of-tamil-term-for-ma": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
     "signature": "mla",
-    "norm": 45.9
-  },
-  "in-chennai-s-beachside-food-the-secret-ingredient-is-the-sea": {
-    "firstSeen": "2026-08-24T05:49:21.035Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "tamil-nadu-government-to-reimburse-cost-of-three-lpg-cylinde": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "poll",
-    "norm": 45.9
-  },
-  "-toxic-advance-booking-surges-as-mumbai-adds-6-am-and-11-45-": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "star",
-    "norm": 44.3
-  },
-  "tmc-mp-mahua-moitra-moves-sc-alleging-eviction-from-circuit-": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "mp",
     "norm": 44
   },
-  "measures-planned-to-improve-quality-of-services-at-telangana": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "mp",
-    "norm": 44
+  "new-amrit-bharat-express-to-connect-coimbatore-with-dhanbad-": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "",
+    "norm": 36
   },
-  "a-hark-back-to-collection-king-udhayam-theatre-in-chennai": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
+  "sc-to-hear-delhi-race-club-plea-against-eviction-on-august-2": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "",
+    "norm": 36
+  },
+  "tamil-nadu-speaker-bans-prior-publication-of-issues-to-be-ra": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
+    "signature": "",
+    "norm": 36
+  },
+  "california-farmers-battle-argentine-ants-that-protect-other-": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
     "signature": "",
     "norm": 36
   },
   "parandur-airport-project-to-be-dropped-by-tamil-nadu-governm": {
     "firstSeen": "2026-08-24T07:15:45.536Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "rain-in-parts-of-hyderabad-on-august-24": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "",
-    "norm": 36
-  },
-  "when-national-theatre-brought-cinema-to-the-western-suburbs-": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "",
-    "norm": 36
-  },
-  "how-chennai-city-went-from-tiffin-carriers-to-food-apps": {
-    "firstSeen": "2026-08-24T05:49:21.035Z",
-    "signature": "",
-    "norm": 36
-  },
-  "keralam-receives-23-per-cent-less-monsoon-rain-than-normal-s": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "",
-    "norm": 36
-  },
-  "mexico-brings-back-47-bison-as-ecosystem-slowly-begins-to-re": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
+  "hopes-of-rescuing-crew-members-alive-fade-around-sunken-carg": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
     "signature": "",
     "norm": 33.9
   },
-  "farmers-water-bodies-why-has-cm-vijay-dropped-2nd-chennai-ai": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "tamil-nadu-cm-vijay-announces-expansion-of-free-bus-travel-f": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
+  "keralam-govt-approves-sop-for-euthanasia-of-rabid-incurably-": {
+    "firstSeen": "2026-08-24T08:59:58.396Z",
     "signature": "",
     "norm": 33.9
   }
