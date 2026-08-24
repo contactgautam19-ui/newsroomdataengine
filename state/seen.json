@@ -1,131 +1,66 @@
 {
-  "stalin-moves-madras-high-court-to-declare-him-elected-from-k": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "election|election|high court|mla|president",
-    "norm": 64.6
+  "congress-targets-modi-government-on-price-rise-ravaging-the-": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
+    "signature": "congress|jobs|modi|modi|mp|president|price|prices",
+    "norm": 78.5
   },
-  "2-un-peacekeepers-killed-7-injured-in-south-sudan-ambush": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "injured|killed|killed",
-    "norm": 62.9
-  },
-  "calicut-varsity-to-revamp-college-union-election-rules": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "election|election|mp",
-    "norm": 61.4
-  },
-  "bjp-spokesperson-urges-modi-to-make-sewage-and-effluent-trea": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "bjp|modi|modi",
+  "donald-trump-s-volatility-may-have-made-india-decline-g7-pre": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
+    "signature": "mp|trump|trump",
     "norm": 59.7
   },
-  "who-is-margarita-reutt-woman-accused-of-killing-russian-nava": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "attack|attack",
-    "norm": 57.6
+  "devendra-mahto-launches-examination-reform-yatra-in-jharkhan": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
+    "signature": "exam|khan|recruitment",
+    "norm": 59.4
   },
-  "j-amp-k-cm-asks-police-to-take-poster-threatening-kashmir-pa": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "mp|threat",
-    "norm": 57.1
+  "as-many-as-23-000-certificates-issued-under-caa-2-3-lakh-app": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
+    "signature": "chief minister|lakh|minister",
+    "norm": 59.3
   },
-  "from-celluloid-to-digital-the-changing-face-of-chennai-s-cin": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "film|shooting",
+  "cjp-calls-for-september-5-march-from-india-gate-accuses-cent": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
+    "signature": "star|war",
     "norm": 55.7
   },
-  "wayanad-gears-up-for-week-long-onam-celebrations": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "mp|war",
+  "row-over-u-p-ias-officer-s-bid-to-influence-civil-judge-deep": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
+    "signature": "mp|row",
     "norm": 55.4
   },
-  "mullappally-flays-centre-s-decision-to-shift-mangaluru-from-": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "crore|president",
-    "norm": 55
-  },
-  "t-n-government-actively-pursuing-v-c-appointment-issue-in-co": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "minister|mp",
-    "norm": 50.5
-  },
-  "rahul-gandhi-works-to-insult-uttar-pradesh-and-the-country-a": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "rahul gandhi|yogi",
-    "norm": 50.5
-  },
-  "as-onion-prices-rise-centre-readies-retail-intervention-in-d": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "price|prices",
+  "uproar-after-allahabad-high-court-refer-divisional-commissio": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
+    "signature": "high court|mp",
     "norm": 48.7
   },
-  "government-lifts-ban-on-wheat-exports-cites-farmers-interest": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "price|prices",
-    "norm": 48.7
-  },
-  "six-arrested-for-running-fake-airline-job-racket-victims-fro": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "iran",
-    "norm": 48.2
-  },
-  "class-9-student-found-hanging-in-karnataka-school-family-all": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "died",
+  "au-degree-supplementary-examinations-postponed-to-august-27": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
+    "signature": "exam",
     "norm": 46.3
   },
-  "stocking-speculation-behind-unnatural-sugar-price-surge-isma": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "price",
-    "norm": 44
-  },
-  "chikkamagaluru-police-arrest-man-for-attempting-to-disturb-c": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "schools-not-ready-as-france-presses-ahead-with-phone-ban": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "parliament",
-    "norm": 44
-  },
-  "teen-girl-gangraped-friend-tied-up-in-madhya-pradesh-s-pachm": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "karnataka-suspends-food-licences-of-amazon-swiggy-instamart-": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
+  "ins-sudarshini-in-lisbon-to-boost-india-portugal-naval-partn": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
     "signature": "",
     "norm": 36
   },
-  "malappuram-set-for-onam-celebrations-from-august-26": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
+  "why-august-can-be-a-hungry-month-for-honeybees-despite-summe": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
     "signature": "",
     "norm": 36
   },
-  "romance-longing-life-and-cinema-on-chennai-s-beach": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
-    "signature": "",
-    "norm": 36
-  },
-  "milad-e-sharif-procession-held-in-malappuram": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
+  "-failure-of-judicial-system-sc-on-45-year-old-case": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
     "signature": "",
     "norm": 33.9
   },
-  "book-on-mahaperiyava-released": {
-    "firstSeen": "2026-08-24T19:38:17.626Z",
+  "au-invites-applications-for-mba-mca-admissions": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
     "signature": "",
     "norm": 33.9
   },
-  "us-proposes-103-265-h-1b-fee-hiring-set-to-become-more-costl": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "amazon-instamart-bigbasket-lose-food-licences-over-datura-sa": {
-    "firstSeen": "2026-08-24T18:54:36.991Z",
+  "week-long-onam-celebrations-begin-in-kozhikode": {
+    "firstSeen": "2026-08-24T20:43:31.043Z",
     "signature": "",
     "norm": 33.9
   }
