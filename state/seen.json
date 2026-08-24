@@ -1,67 +1,137 @@
 {
-  "congress-targets-modi-government-on-price-rise-ravaging-the-": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "congress|jobs|modi|modi|mp|president|price|prices",
-    "norm": 78.5
+  "-warning-shot-and-a-level-set-of-expectations-treasury-secy-": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "iran|sanction|threat|war|warning",
+    "norm": 80.7
   },
-  "donald-trump-s-volatility-may-have-made-india-decline-g7-pre": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "mp|trump|trump",
-    "norm": 59.7
+  "bessent-on-iran-sanctions-10-key-points-from-trump-administr": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "iran|mp|sanction|trump|trump",
+    "norm": 71.3
   },
-  "devendra-mahto-launches-examination-reform-yatra-in-jharkhan": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "exam|khan|recruitment",
-    "norm": 59.4
+  "trump-admin-set-to-revoke-up-to-2-lakh-visas-in-historic-cra": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "lakh|mp|trump|trump",
+    "norm": 68
   },
-  "as-many-as-23-000-certificates-issued-under-caa-2-3-lakh-app": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "chief minister|lakh|minister",
-    "norm": 59.3
+  "-the-clock-just-started-ticking-us-treasury-secy-bessent-war": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "iran|star|war",
+    "norm": 64.6
   },
-  "cjp-calls-for-september-5-march-from-india-gate-accuses-cent": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "star|war",
-    "norm": 55.7
+  "sugar-prices-likely-to-cool-off-as-panic-buying-eases-says-i": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "panic|price|prices",
+    "norm": 62.5
   },
-  "row-over-u-p-ias-officer-s-bid-to-influence-civil-judge-deep": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "mp|row",
-    "norm": 55.4
+  "lisa-sawadika-sparks-backlash-as-fans-accuse-blackpink-star-": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "backlash|fan|star",
+    "norm": 62.1
   },
-  "uproar-after-allahabad-high-court-refer-divisional-commissio": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "high court|mp",
+  "suvendu-mamata-spar-over-annapurna-bhandar-benefits-in-west-": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "bjp|election|election|mamata",
+    "norm": 61.8
+  },
+  "topnotch-foundation-acknowledged-and-felicitated-the-winners": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "summit|war",
+    "norm": 58.3
+  },
+  "bwf-president-hails-india-after-successful-world-championshi": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "mp|president",
+    "norm": 51.7
+  },
+  "low-pressure-system-causes-rainfall-in-andhra-pradesh-imd-is": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "alert",
+    "norm": 49.4
+  },
+  "international-athlete-prathibha-alleges-threats-over-athlete": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "threat",
+    "norm": 49.4
+  },
+  "-where-is-the-accountability-pr-sreejesh-viren-rasquinha-rai": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "world cup",
+    "norm": 49.4
+  },
+  "mahayuti-finalises-district-fund-formula-govt-corporation-al": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "fund",
+    "norm": 49
+  },
+  "iphone-18-series-prices-confirmed-to-go-up-due-to-rising-mem": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "price|prices",
     "norm": 48.7
   },
-  "au-degree-supplementary-examinations-postponed-to-august-27": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "exam",
-    "norm": 46.3
+  "flight-diversions-in-delhi-ncr-traffic-jams-in-jaipur-as-nor": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "heavy rain",
+    "norm": 48.2
   },
-  "ins-sudarshini-in-lisbon-to-boost-india-portugal-naval-partn": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
+  "victim-statements-inconsistent-with-cctv-footage-rape-convic": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "cctv|footage",
+    "norm": 47.1
+  },
+  "telangana-assembly-to-meet-from-september-7-poll-age-cut-lik": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "poll",
+    "norm": 47.1
+  },
+  "bgre-secures-over-200-000-downloads-for-its-bespoke-campus-e": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "simultaneous-polls-possible-in-2029-says-panel-chief": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "poll",
+    "norm": 45.9
+  },
+  "in-a-first-census-2027-will-not-record-data-on-begging": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "record",
+    "norm": 40.7
+  },
+  "why-august-can-become-a-hungry-month-for-honeybees-despite-s": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "hits-on-government-sites-during-operation-sindoor-nia-begins": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "alan-johnson-backs-shabana-mahmood-immigration-reforms": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "india-to-amend-regulations-within-two-months-to-facilitate-m": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "csrbox-collaborates-with-finance-department-government-of-we": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "book-review-chronicle-of-the-queen-who-outwitted-aurangzeb": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "3-bambiha-members-deported-from-malaysia": {
+    "firstSeen": "2026-08-24T21:39:22.962Z",
     "signature": "",
     "norm": 36
-  },
-  "why-august-can-be-a-hungry-month-for-honeybees-despite-summe": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-failure-of-judicial-system-sc-on-45-year-old-case": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "au-invites-applications-for-mba-mca-admissions": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "week-long-onam-celebrations-begin-in-kozhikode": {
-    "firstSeen": "2026-08-24T20:43:31.043Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
