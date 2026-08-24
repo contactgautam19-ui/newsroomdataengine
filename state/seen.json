@@ -1,27 +1,27 @@
 {
-  "trump-tells-canada-to-fall-in-line-or-face-consequences": {
-    "firstSeen": "2026-08-24T22:38:52.589Z",
-    "signature": "mp|threat|trump|trump|war|warning",
-    "norm": 84.5
-  },
-  "amit-shah-focuses-on-new-doctrine-to-fight-terror-amp-radica": {
-    "firstSeen": "2026-08-24T22:38:52.589Z",
-    "signature": "amit shah|mp|terror|terror",
+  "canada-to-announce-retaliatory-tariffs-after-trump-warns-of-": {
+    "firstSeen": "2026-08-24T23:31:12.142Z",
+    "signature": "mp|trump|trump|war",
     "norm": 71.6
   },
-  "russian-president-putin-says-will-continue-fertiliser-suppli": {
-    "firstSeen": "2026-08-24T22:38:52.589Z",
-    "signature": "president",
-    "norm": 44
+  "tcs-to-acquire-porsche-arm-for-373-million-inks-1-4-billion-": {
+    "firstSeen": "2026-08-24T23:31:12.142Z",
+    "signature": "bill|billion|deal",
+    "norm": 57.6
   },
-  "15-decline-in-indian-students-seeking-undergraduate-courses-": {
-    "firstSeen": "2026-08-24T22:38:52.589Z",
-    "signature": "record",
-    "norm": 42.7
+  "us-threatens-countries-doing-business-with-iran-but-holds-of": {
+    "firstSeen": "2026-08-24T23:31:12.142Z",
+    "signature": "iran|threat",
+    "norm": 57.6
   },
-  "mizoram-s-misogynistic-marriage-divorce-law-faces-challenge-": {
-    "firstSeen": "2026-08-24T22:38:52.589Z",
+  "karnataka-suspends-food-licences-of-amazon-instamart-bigbask": {
+    "firstSeen": "2026-08-24T23:31:12.142Z",
     "signature": "",
     "norm": 36
+  },
+  "upi-10-how-platform-changed-the-way-we-pay": {
+    "firstSeen": "2026-08-24T23:31:12.142Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
