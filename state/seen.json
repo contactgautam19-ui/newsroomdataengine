@@ -1,217 +1,192 @@
 {
-  "cjp-activists-assaulted-in-rajasthan-village-during-school-i": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "attack|attack|bjp|congress|minister|mp|threat",
-    "norm": 79.4
+  "bpsc-official-refers-to-student-protesters-as-dogs-in-viral-": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "backlash|protest|protest|video|viral|viral|viral|viral video",
+    "norm": 82.7
   },
-  "neet-protest-violence-cji-says-women-protestors-can-file-sex": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "cji|mp|neet|protest|protest",
-    "norm": 76.8
+  "centre-highlights-kanda-express-move-as-congress-slams-skyro": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "congress|price|prices|slam|slams",
+    "norm": 73
   },
-  "putin-credits-pm-modi-for-growing-russia-india-trade-in-talk": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "jaishankar|minister|modi|modi|president|prime minister|row",
-    "norm": 73.5
-  },
-  "bjp-seeks-extension-of-a-p-sir-deadline-to-september-10": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "bjp|dead|dead|vote",
+  "political-turmoil-in-karnataka-b-nagendra-faces-corruption-a": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "bjp|congress|controversy|fund|minister",
     "norm": 71.6
   },
-  "exclusive-rajasthan-school-attack-caste-case-against-ashutos": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "attack|attack|controversy|video",
-    "norm": 70
+  "trump-threatens-tariffs-on-all-cars-and-trucks-to-50-amid-ca": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "mp|threat|trump|trump",
+    "norm": 71.6
   },
-  "tipu-was-more-nationalist-than-rss-priyank-kharge-hits-back-": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "bjp|controversy|minister|mp|row",
-    "norm": 67
+  "jpmorgan-filed-a-layoff-notice-with-new-jersey-city-office-w": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "layoff|layoffs|mp|war",
+    "norm": 69.6
   },
-  "-we-are-a-poor-family-father-of-indian-national-shot-dead-in": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "dead|dead|mp",
-    "norm": 66
+  "10-bills-passed-in-karnataka-legislature-without-debate-amid": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "bill|bjp|mp|protest|protest",
+    "norm": 69
   },
-  "tarique-rahman-s-cancelled-delhi-visit-says-a-lot-about-bang": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "china|pakistan|tragic|war",
-    "norm": 65
+  "elections-in-india-are-held-transparently-under-the-audit-of": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "election|election|war",
+    "norm": 67.6
   },
-  "-fix-schools-not-lavish-homes-cjp-on-upkeep-expenditure-of-u": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "crore|minister|mp|record",
-    "norm": 64.9
+  "mp-inaugurates-mineral-water-plants-to-ensure-safe-drinking-": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "fund|lakh|mp|parliament",
+    "norm": 63.5
   },
-  "crpf-jawan-injured-in-gunfight-houses-torched-in-manipur-s-s": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "injured|protest|protest",
-    "norm": 63.2
+  "protests-intensify-against-move-to-split-palakkad-rail-divis": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "congress|protest|protest",
+    "norm": 62.8
   },
-  "breaking-gurugram-s-waterlogging-traps-school-buses-kids-lef": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "alert|heavy rain|red alert|visuals",
-    "norm": 62.3
+  "kabini-reservoir-loses-10-ft-as-farmers-protest-water-releas": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "president|protest|protest",
+    "norm": 62.8
   },
-  "russian-president-vladimir-putin-expresses-hope-to-meet-pm-m": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "jaishankar|modi|modi|president",
-    "norm": 61.8
-  },
-  "revanth-reddy-denies-mamdani-meeting-on-us-itinerary-telanga": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "chief minister|minister|row",
+  "ed-probes-2-2-crore-foreign-funds-to-rajasthan-pastor-over-a": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "crore|exam|fund",
     "norm": 61.4
   },
-  "calcutta-high-court-stays-arrest-warrant-against-tmc-mp-mahu": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "high court|mp|war",
-    "norm": 59.7
-  },
-  "5-reasons-why-gurugram-floods-every-time-it-rains-and-why-rs": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "flood|flood|floods",
-    "norm": 59.6
-  },
-  "-where-is-rahul-gandhi-telangana-bjp-over-students-fee-reimb": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "bjp|crore|rahul gandhi",
+  "ysrcp-attacks-govt-over-karumuri-s-arrest-calls-it-political": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "attack|attack",
     "norm": 59.3
   },
-  "cjp-calls-for-september-5-march-from-india-gate-accuses-cent": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "brutal|neet",
+  "pulivendula-mega-water-project-works-gather-pace-with-280-cr": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "crore|fund|mp",
     "norm": 59.3
   },
-  "no-shortage-of-sugar-in-india-retail-prices-to-come-down-ind": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "president|price|prices",
+  "tamil-nadu-govt-abandons-parandur-airport-project-eyes-new-s": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "chief minister|crore|minister",
     "norm": 57.6
   },
-  "-have-right-to-know-cjp-demands-clarity-on-funding-facilitie": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "fund|minister|mp",
-    "norm": 57.6
+  "pppac-in-principle-nod-for-privatisation-of-11-airports": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "cabinet|ipl",
+    "norm": 57.1
   },
-  "-uk-participating-in-ukraine-war-why-russia-issued-outrageou": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "outrage|threat|war",
-    "norm": 56.6
+  "panel-orders-apple-to-pay-1-09-lakh-over-faulty-iphone": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "lakh|war",
+    "norm": 57.1
   },
-  "-footpaths-integral-to-human-life-sc-seeks-response-of-state": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "mp|threat",
+  "probe-yet-to-establish-love-jihad-link-in-kakinada-family-de": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "death|khan",
+    "norm": 55.7
+  },
+  "the-unseen-challenge-behind-every-bwf-world-c-ships-match-sc": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "match|mp",
     "norm": 55.4
   },
-  "gurugram-offices-schools-advised-to-work-from-home-amid-heav": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "heavy rain|mp",
+  "putin-thanks-pm-modi-for-strengthening-india-russia-ties-ass": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "modi|modi",
     "norm": 55.4
   },
-  "jaishankar-meets-russian-president-putin-discusses-bilateral": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "brics|jaishankar|president|summit",
-    "norm": 53.9
+  "pangolin-rescued-from-govt-building-in-odisha-s-nuapada-3-ar": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "rescue|rescue",
+    "norm": 54.2
   },
-  "supreme-court-declares-right-to-walk-on-footpath-a-fundament": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "fund|supreme court",
-    "norm": 53.2
+  "malayalam-actor-devan-set-to-join-vijay-s-tvk-former-bjp-lea": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "actor|bjp",
+    "norm": 53.5
   },
-  "government-opposition-spar-over-future-role-of-isro": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "congress|minister|opposition",
-    "norm": 52.7
+  "-dear-stunt-master-congress-takes-dig-at-kiren-rijiju-over-a": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "congress|mp|rahul gandhi",
+    "norm": 50.9
   },
-  "cops-used-electrocution-gloves-to-subdue-high-school-student": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "shock|shock",
-    "norm": 52.4
-  },
-  "khaki-content-on-instagram-youtube-up-cops-reel-bazi-trigger": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "instagram|video",
-    "norm": 48.7
-  },
-  "tarun-tejpal-must-surrender-seek-exemption-before-appeal-is-": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
+  "the-hindu-impact-juvenile-justice-committee-of-a-p-high-cour": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
     "signature": "high court|mp",
-    "norm": 48.7
+    "norm": 50.5
   },
-  "-against-federal-cooperatism-revanth-reddy-after-centre-s-no": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "chief minister|minister",
-    "norm": 48.7
-  },
-  "-matter-of-concern-omar-abdullah-flags-threats-to-kashmiri-p": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "threat",
+  "two-month-old-undergoes-robotic-surgery-at-hyderabad-hospita": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "hospital",
     "norm": 48.2
   },
-  "decoupling-footpaths-from-accidents": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "accident",
+  "marc-brown-wrote-half-his-books-at-martha-s-vineyard-estate-": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "national-resolve-needed-to-preserve-tribal-languages-culture": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "minister",
+  "karnataka-legislature-bill-on-public-spaces-does-not-make-it": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "bill",
     "norm": 45.9
   },
-  "three-fugitives-linked-to-bambiha-gang-deported-from-malaysi": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "amit shah",
+  "-can-t-work-much-new-generation-needs-nitin-gadkari-s-remark": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "cabinet",
     "norm": 45.9
   },
-  "dumping-menace-leaves-forest-fringes-of-erumely-in-keralam-u": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "mp",
+  "tamil-nadu-seeks-proportionate-cauvery-water-supreme-court-a": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "supreme court",
     "norm": 45.9
   },
-  "meghalaya-govt-invites-ksu-for-talks-as-assam-border-tension": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "border",
-    "norm": 45.9
+  "srisailam-darshan-tickets-available-online-from-august-25": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "vote",
+    "norm": 44
   },
-  "u-s-envoy-sergio-gor-visits-tata-lockheed-martin-manufacturi": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "cockroach-janta-party-alleges-government-schools-in-hyderaba": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "sc-reserves-order-on-tarun-tejpal-s-surrender-plea-goa-seeks": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
+  "tmc-moves-sc-against-delay-in-disqualification-of-20-rebel-m": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
     "signature": "mp",
     "norm": 44
   },
-  "tamil-nadu-cm-vijay-announces-expansion-of-free-bus-travel-f": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
+  "can-keralam-stop-radical-remittances-from-the-gulf-shashi-th": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "-their-faces-burnt-disturbing-details-emerge-in-bangladesh-h": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "rbi",
+    "norm": 44
+  },
+  "delhi-man-s-desperate-search-in-drain-where-his-son-fell-whi": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
+    "signature": "video",
+    "norm": 40.7
+  },
+  "telangana-junior-doctors-support-andhra-pradesh-counterparts": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
     "signature": "",
     "norm": 36
   },
-  "harvard-urges-int-l-students-to-return-to-us-before-sept-15-": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
+  "keltron-s-electronics-village-coming-up-near-moodadi": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "demolition-of-century-old-structures-at-badanavalu-khadi-cen": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
+  "hyderabad-traffic-police-announce-diversions-around-darussal": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "1-600-year-old-roman-bridge-emerges-as-danube-water-levels-p": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
+  "rain-in-parts-of-hyderabad-on-august-24": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "-govt-has-played-delay-games-cjp-announces-march-from-india-": {
-    "firstSeen": "2026-08-24T13:09:08.318Z",
+  "chokramudy-hills-in-keralam-open-to-tourists-as-neelakurinji": {
+    "firstSeen": "2026-08-24T14:54:37.810Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
