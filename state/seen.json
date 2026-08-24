@@ -1,302 +1,147 @@
 {
-  "cost-pressure-carmakers-see-strong-sales-but-lower-profits": {
-    "firstSeen": "2026-08-23T23:31:45.760Z",
-    "signature": "modi|modi|price|prices|toll",
-    "norm": 79.4
+  "three-newborns-burnt-to-death-after-fire-at-hospital-in-maha": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "death|fan|fire|fire|hospital|killed|killed|maharashtra",
+    "norm": 92.8
   },
-  "iran-says-discovered-over-200-billion-cubic-metres-of-natura": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "bill|billion|iran|minister|petrol|petrol",
-    "norm": 68.2
+  "2-delhi-mlas-among-several-injured-after-car-jumps-divider-s": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "accident|crash|crash|injured|mla|mp|slam|slams",
+    "norm": 91
   },
-  "30-killed-in-guinea-capital-after-landfill-collapse": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "collapse|collapse|collapse|injured|killed|killed",
-    "norm": 67.4
+  "watch-max-verstappen-s-horrific-dutch-gp-crash-as-lando-norr": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "crash|crash|horrific|mp|watch",
+    "norm": 79.1
   },
-  "-killed-nijjar-for-drug-trafficking-goldy-brar-in-leaked-aud": {
-    "firstSeen": "2026-08-23T22:33:45.294Z",
-    "signature": "gold|killed|killed",
-    "norm": 65.6
+  "belagavi-mla-abhay-patil-injured-in-delhi-car-accident-out-o": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "accident|anger|injured|mla",
+    "norm": 72.6
   },
-  "-you-ruined-my-family-teen-s-mother-s-old-video-surfaces-aft": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "maharashtra|mp|tragedy|video",
-    "norm": 62.4
+  "2-teachers-15-year-old-student-drown-in-waterfall-pool-in-ma": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "drown|drowned|rescue|rescue|row",
+    "norm": 72.5
   },
-  "two-mlas-among-six-injured-in-car-crash-near-pwd-office-in-d": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
+  "two-mlas-among-6-injured-after-car-crashes-through-divider-r": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "crash|crash|injured|mla",
-    "norm": 59.9
+    "norm": 71.7
   },
-  "why-was-revanth-reddy-s-us-visit-blocked-mea-decision-sparks": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "bjp|chief minister|congress|controversy|minister|war",
-    "norm": 58.9
+  "-if-you-can-t-take-it-back-don-t-say-it-jadeja-s-blunt-messa": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "cricket|cricketer|fire|fire",
+    "norm": 71.6
   },
-  "-who-do-you-think-you-are-patient-s-son-assaults-doctor-in-t": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "attack|attack|maharashtra",
-    "norm": 58.9
+  "us-imposes-50-tariffs-on-canadian-goods-after-talks-collapse": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "collapse|collapse|collapse|mp",
+    "norm": 69.4
   },
-  "rajasthan-high-court-questions-police-as-probe-into-attack-o": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "attack|attack|high court",
-    "norm": 56.7
+  "2-mlas-among-several-injured-after-car-crashes-into-suv-in-d": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "crash|crash|injured|mla",
+    "norm": 69
   },
-  "heartbreak-for-india-as-oz-advance-to-semis-after-goalless-h": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
-    "signature": "heartbreak|mp|world cup",
-    "norm": 56.7
+  "police-used-excessive-force-during-delhi-protests-amnesty": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "protest|protest|shock|shock",
+    "norm": 65.2
   },
-  "iran-says-new-sanctions-threatened-by-desperate-us-will-fail": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "iran|sanction|threat",
-    "norm": 56.7
+  "22-missing-2-rescued-after-china-bound-cargo-ship-sinks-off-": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "china|rescue|rescue",
+    "norm": 61.1
   },
-  "amid-bathinda-road-row-opposition-alleges-police-crackdown-a": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "aap|controversy|opposition|row",
-    "norm": 55.6
+  "awarapan-2-box-office-day-10-early-trends-emraan-hashmi-surp": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "box office|film|war",
+    "norm": 60.4
   },
-  "one-killed-in-a-road-accident-near-sholinghur": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
-    "signature": "accident|killed|killed",
-    "norm": 53.4
+  "strikers-end-campaign-with-victory-over-warriors": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "mp|war",
+    "norm": 58.3
   },
-  "iran-invited-to-join-mecca-pact-by-saudi-arabia-turkey-pakis": {
-    "firstSeen": "2026-08-23T22:33:45.294Z",
-    "signature": "iran|pakistan",
-    "norm": 52.7
+  "irumudi-box-office-day-3-early-trends-ravi-teja-takes-only-7": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "box office|film|verdict",
+    "norm": 58.3
   },
-  "decomposed-body-parts-found-in-suitcase-on-train-then-a-chil": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "killed|killed|mp",
-    "norm": 52.7
+  "bethlehem-kudumba-unit-box-office-day-3-early-trends-nivin-p": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "box office|budget|film",
+    "norm": 58.3
   },
-  "assam-in-final-stage-of-partner-selection-to-build-satellite": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
-    "signature": "chief minister|election|election|minister",
-    "norm": 52.3
+  "hawkish-mpc-west-asia-conflict-cloud-rupee-bond-yield-outloo": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "mp|rupee",
+    "norm": 56.1
   },
-  "dmk-s-regional-satraps-among-22-who-will-lose-district-secre": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "election|election|mp",
-    "norm": 50
+  "tempsens-instrument-ipo-gmp-soars-past-100-signalling-strong": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "ipo|mp",
+    "norm": 56.1
   },
-  "haryana-horror-woman-murders-husband-takes-out-intestines-ju": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "horror|mla|mp",
-    "norm": 50
+  "sebi-turns-down-adani-linked-fpi-settlement-applications": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "adani|fpi",
+    "norm": 54.7
   },
-  "woman-kills-husband-cuts-body-takes-out-intestines-landlord-": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "mla|mp|panic",
-    "norm": 50
-  },
-  "sanjay-singh-claims-5-government-schools-disappeared-in-up-s": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "aap|lakh|mp|record",
-    "norm": 49.7
-  },
-  "aaditya-thackeray-accuses-bmc-of-giving-open-spaces-to-insti": {
-    "firstSeen": "2026-08-23T23:31:45.760Z",
-    "signature": "bjp|war",
-    "norm": 49.6
-  },
-  "monsoon-session-yet-to-be-prorogued-bjp-congress-face-off-ov": {
-    "firstSeen": "2026-08-23T23:31:45.760Z",
-    "signature": "bill|bjp|congress",
-    "norm": 48.2
-  },
-  "cjp-warns-of-fresh-protests-to-decide-strategy-in-monday-mee": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "protest|protest|war",
-    "norm": 48.1
-  },
-  "-real-test-of-empowerment-is-if-bjp-counters-rahul-gandhi-s-": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "bjp|congress|mp|rahul gandhi|record",
-    "norm": 48.1
-  },
-  "-tax-money-for-religion-aap-vs-congress-over-hindu-outreach-": {
-    "firstSeen": "2026-08-23T21:31:34.791Z",
-    "signature": "aap|congress|tax",
-    "norm": 47.7
-  },
-  "2-girls-detained-for-allegedly-drowning-14-year-old-at-vrind": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "drown|row",
-    "norm": 47.7
-  },
-  "iphone-18-pro-release-date-has-already-crushed-the-competiti": {
-    "firstSeen": "2026-08-23T23:31:45.760Z",
-    "signature": "gst|mp",
-    "norm": 47.3
-  },
-  "speeding-suv-rams-chhattisgarh-minister-s-convoy-6-injured": {
-    "firstSeen": "2026-08-23T21:31:34.791Z",
-    "signature": "injured|minister",
-    "norm": 45.4
-  },
-  "2-mlas-among-6-injured-as-car-rams-suv-after-cng-cylinder-ex": {
-    "firstSeen": "2026-08-23T21:31:34.791Z",
-    "signature": "injured|mla",
-    "norm": 45.4
-  },
-  "for-gen-z-outreach-rahul-gandhi-s-wardrobe-gets-a-peppy-make": {
-    "firstSeen": "2026-08-23T21:31:34.791Z",
-    "signature": "rahul gandhi|war",
-    "norm": 45.4
-  },
-  "after-cjp-s-drive-rajasthan-unveils-rs-12-500-crore-school-r": {
-    "firstSeen": "2026-08-23T21:31:34.791Z",
-    "signature": "crore|mp",
-    "norm": 43
-  },
-  "search-continues-for-22-from-vessel-that-sunk-off-odisha": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
-    "signature": "rescue|rescue",
-    "norm": 42.2
-  },
-  "tamil-nadu-life-convict-selvam-s-book-oru-thooku-kaithiyin-v": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "record|war",
-    "norm": 42.2
-  },
-  "former-rockstar-director-calls-gta-6-leaks-a-nothing-burger-": {
-    "firstSeen": "2026-08-23T22:33:45.294Z",
-    "signature": "mp|star",
-    "norm": 41.4
-  },
-  "change-in-revenue-record-doesn-t-create-end-property-title-s": {
-    "firstSeen": "2026-08-23T23:31:45.760Z",
-    "signature": "record",
-    "norm": 40.7
-  },
-  "tamil-nadu-hr-ce-minister-defends-mandapam-proposal-at-templ": {
-    "firstSeen": "2026-08-23T22:33:45.294Z",
-    "signature": "minister|mp|vote",
-    "norm": 40.6
-  },
-  "excited-to-take-deep-zoom-photos-with-your-foldable-iphone-g": {
-    "firstSeen": "2026-08-23T22:33:45.294Z",
-    "signature": "fpi|photos",
-    "norm": 39.7
-  },
-  "10-pistols-drone-delivery-punjab-police-bust-cross-border-ar": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "border|drone",
-    "norm": 39.7
-  },
-  "t-n-to-explore-alternative-sites-for-chennai-s-second-airpor": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
-    "signature": "chief minister|minister",
-    "norm": 38
-  },
-  "-does-not-meet-launch-conditions-china-after-manned-moon-mis": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "china|mp",
-    "norm": 38
-  },
-  "military-bases-in-amritsar-on-pak-gang-radar-intel-puts-punj": {
-    "firstSeen": "2026-08-23T21:31:34.791Z",
-    "signature": "alert",
-    "norm": 35.5
-  },
-  "after-delhi-swine-flu-reaches-chhattisgarh-3-year-old-tests-": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "hospital",
-    "norm": 35.5
-  },
-  "broadway-bustles-with-onam-shoppers-but-rain-dampens-cheer": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
+  "will-not-compromise-national-interest-for-pm-s-india-visit-b": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "mp",
-    "norm": 32.8
+    "norm": 45.9
   },
-  "india-projected-to-surpass-china-in-affluent-consumers-by-20": {
-    "firstSeen": "2026-08-23T23:31:45.760Z",
-    "signature": "china",
-    "norm": 32.8
+  "former-supreme-court-judge-flags-silence-of-journalists-over": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
+    "signature": "supreme court",
+    "norm": 44
   },
-  "ysrcp-leader-accuses-government-of-failing-to-safeguard-temp": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "day-after-china-bound-cargo-ship-sank-off-odisha-22-of-crew-": {
-    "firstSeen": "2026-08-23T23:31:45.760Z",
-    "signature": "china",
-    "norm": 32.8
-  },
-  "iphone-emi-not-sole-trigger-teen-attempted-suicide-last-year": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "woman-dies-by-suicide-in-bengaluru-after-complaining-of-blac": {
-    "firstSeen": "2026-08-23T21:31:34.791Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "nagendra-episode-bjp-to-lay-siege-to-vidhana-soudha-on-augus": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
-    "signature": "bjp",
-    "norm": 32.8
-  },
-  "-spider-man-brand-new-day-no-1-109m-ww-insidious-franchise-r": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
-    "signature": "box office",
-    "norm": 31
-  },
-  "two-inmates-arrested-under-pocso-act-escape-from-srinagar-ce": {
-    "firstSeen": "2026-08-23T22:33:45.294Z",
+  "why-india-young-are-angry-and-losing-patience": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 37.4
   },
-  "abandon-incinerator-project-in-kodungaiyur-say-north-chennai": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
+  "how-hilton-is-turning-deepika-padukone-reach-into-business": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 37.4
   },
-  "man-held-for-chopping-sandalwood-tree-in-reserve-forest": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
+  "welspun-renewable-energy-business-race-macquarie-rpsg-in-las": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 37.4
   },
-  "rain-lashes-city-on-sunday-evening": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
+  "greenply-gets-real-sumo-wrestlers-to-prove-the-strength-of-i": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 37.4
   },
-  "sathuvachari-vit-high-road-in-vellore-opened-to-public-expec": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
+  "flipkart-introduces-penalties-for-sellers-over-despatch-dela": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 37.4
   },
-  "former-sc-judge-flags-silence-of-journalists-over-media-laws": {
-    "firstSeen": "2026-08-23T19:30:23.213Z",
+  "west-bengal-plans-incentives-to-spur-industrial-investments": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 37.4
   },
-  "transformer-theft-goes-wrong-car-gets-stuck-in-mud-so-does-r": {
-    "firstSeen": "2026-08-23T20:35:06.435Z",
+  "aditya-birla-group-taps-local-lenders-for-sprng-energy": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 37.4
   },
-  "month-after-love-marriage-28-year-old-man-found-hanging-in-u": {
-    "firstSeen": "2026-08-23T21:31:34.791Z",
+  "water-conservation-takes-center-stage-at-bharat-jal-vimarsh-": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 37.4
   },
-  "hero-stone-inscription-from-the-fifth-century-unearthed": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
+  "trust-the-basis-of-reforms": {
+    "firstSeen": "2026-08-24T01:54:16.421Z",
     "signature": "",
-    "norm": 21.2
-  },
-  "yellappa-reddy-urges-karnataka-chief-secretary-to-drop-propo": {
-    "firstSeen": "2026-08-23T18:44:31.294Z",
-    "signature": "",
-    "norm": 21.2
+    "norm": 37.4
   }
 }
