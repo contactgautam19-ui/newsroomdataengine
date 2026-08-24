@@ -1,301 +1,231 @@
 {
-  "over-250-flights-delayed-15-diverted-as-heavy-rains-batter-d": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "heavy rain|war|warning|weather",
-    "norm": 74.6
+  "no-relief-for-rial-iranian-currency-sinks-to-record-low-as-u": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "economy|iran|mp|president|record|sanction",
+    "norm": 76.8
   },
-  "bopanna-blasts-sports-ministry-rule-as-five-tennis-players-m": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "blast|election|election|result",
-    "norm": 72.6
+  "stock-market-highlights-sensex-today-sensex-drops-170-points": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "investor|iran|nifty|price|prices|sanction|sensex|stock market",
+    "norm": 71.8
   },
-  "arrangements-for-public-appearances-standard-protocol-ahead-": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "modi|modi|mp|trump|trump",
-    "norm": 71.3
+  "-no-sugar-shortage-isma-says-india-has-enough-stocks-prices-": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "mp|price|prices|stocks|weather",
+    "norm": 71.6
   },
-  "-why-should-it-matter-vijay-govt-minister-keerthana-slams-mi": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "minister|slam|slams|video",
-    "norm": 67.9
+  "-injustice-auto-rickshaw-drivers-protest-in-mumbai-over-mara": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "maharashtra|protest|protest|tax",
+    "norm": 71.4
   },
-  "pakistan-army-chief-asim-munir-spoke-to-donald-trump-ahead-o": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "army|mp|pakistan|trump|trump",
-    "norm": 67.3
+  "one-hour-of-rain-exposes-gurugram-s-civic-infrastructure-aga": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "collapse|collapse|collapse|mp",
+    "norm": 68.3
+  },
+  "3-babbar-khalsa-operatives-arrested-with-5-kg-explosives-gun": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "mp|terror|terror",
+    "norm": 67.6
   },
   "consider-it-your-birthright-to-denounce-india-s-heritage-yog": {
     "firstSeen": "2026-08-24T09:58:36.854Z",
     "signature": "rahul gandhi|slam|slams|yogi",
     "norm": 66.6
   },
-  "pakistan-munir-spoke-to-trump-ahead-of-tehran-visit-sources-": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "mp|pakistan|trump|trump",
-    "norm": 66.3
+  "-how-do-they-explain-this-dipke-has-another-question-on-cjp-": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "fire|fire|protest|protest",
+    "norm": 66
   },
-  "hanuman-ansh-box-office-collections-devotional-drama-surpris": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "box office|crore|surprise",
-    "norm": 62.1
+  "mk-stalin-challenges-tvk-candidate-v-s-babu-s-kolathur-victo": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "chief minister|election|election|high court|minister",
+    "norm": 64.6
   },
-  "journalist-who-reported-on-ram-mandir-donations-row-moves-sc": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "ram mandir|row",
-    "norm": 62.1
+  "akhilesh-yadav-questions-maharashtra-s-marathi-rule-for-cab-": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "maharashtra|minister|poll",
+    "norm": 61.4
   },
-  "hasanabi-vs-xqc-and-asmongold-hasanabi-calls-streamers-worm-": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "controversy|gold",
-    "norm": 62.1
+  "mk-stalin-moves-hc-challenging-tvk-candidate-s-victory-in-ko": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "election|election|vote",
+    "norm": 61.4
   },
-  "-inspiring-journey-of-nation-first-politics-delhi-cm-rekha-g": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "death|minister",
-    "norm": 60
+  "america-s-biggest-investor-michael-burry-dumps-alibaba-buys-": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "china|investor|mp",
+    "norm": 57.6
   },
-  "modi-govt-has": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "modi|modi",
-    "norm": 60
-  },
-  "lalithaa-jewellery-mart-share-price-today-stock-lists-at-31-": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "price|share price",
-    "norm": 60
-  },
-  "nijjar-killing-news18-raised-gang-war-theory-in-2024-goldy-b": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "gold|war",
-    "norm": 59.3
-  },
-  "sbi-research-flags-possibility-of-rbi-rate-hike-as-mpc-minut": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "mp|rbi",
-    "norm": 57.9
+  "hungarian-gripen-fighter-jet-crashes-pilot-ejects-safely-pro": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "crash|crash",
+    "norm": 57.1
   },
   "pm-modi-to-address-country-s-youth-on-thursday-ahead-of-nati": {
     "firstSeen": "2026-08-24T09:58:36.854Z",
     "signature": "modi|modi",
-    "norm": 57.1
+    "norm": 55.4
   },
-  "supreme-court-issues-notice-to-centre-cbi-on-plea-for-cbi-pr": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "exam|supreme court",
-    "norm": 57.1
+  "people-of-india-will-change-mindset-of-those-insulting-vande": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "bjp|riot",
+    "norm": 55.4
   },
-  "study-showing-when-llm-acceleration-helps-and-when-it-backfi": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "fire|fire",
-    "norm": 57.1
+  "after-bhatti-network-india-apprehends-three-fugitives-linked": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "amit shah|ipl",
+    "norm": 55.4
   },
-  "-irreversible-setback-stalin-slams-tvk-govt-decision-to-drop": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "slam|slams",
-    "norm": 56.8
+  "nsa-ajit-doval-arrives-in-beijing-set-for-border-talks-with-": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "border|brics|china|president|summit",
+    "norm": 54.4
   },
-  "the-odyssey-box-office-collection-christopher-nolan-epic-sag": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "box office|crore",
-    "norm": 56.4
-  },
-  "parandur-airport-in-chennai-scrapped-by-cm-vijay-what-was-th": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "protest|protest",
+  "middle-east-war-disrupts-india-s-aviation-sector-this-airpor": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "record|war",
     "norm": 54.2
+  },
+  "search-continues-for-22-from-vessel-that-sunk-off-odisha": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "rescue|rescue",
+    "norm": 54.2
+  },
+  "nainar-nagenthran-slams-tvk-led-government-s-decision-to-dro": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "slam|slams",
+    "norm": 53.9
+  },
+  "-irreversible-setback-stalin-slams-vijay-govt-for-scrapping-": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "slam|slams",
+    "norm": 53.9
+  },
+  "manusmriti-debate-intensifies-congress-challenges-yogi-bjp-f": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "bjp|chief minister|congress|minister|president|yogi",
+    "norm": 52.9
   },
   "dropping-parandur-airport-project-an-irreversible-setback-fo": {
     "firstSeen": "2026-08-24T09:58:36.854Z",
     "signature": "chief minister|minister|mla",
     "norm": 52.7
   },
-  "shepherd-looking-for-his-missing-goat-finds-natural-gold-wor": {
+  "parandur-airport-in-chennai-scrapped-by-cm-vijay-what-was-th": {
     "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "gold",
-    "norm": 51.2
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "destiny-says-asmongold-leaving-twitch-would-be-hasan-dream-a": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "gold",
-    "norm": 51.2
+  "delhi-student-protests-sc-says-no-to-separate-probe-into-sex": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "landslide-at-waste-mound-in-guinea-capital-kills-30-governme": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "landslide",
-    "norm": 51.2
+  "anant-ambani-s-vantara-and-indonesia-launch-major-wildlife-h": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "ambani|minister",
+    "norm": 51.7
   },
-  "batwara-1947-ott-release-timeline-streaming-platform-plot-an": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "war",
-    "norm": 51.2
+  "bjp-member-somu-veerraju-demands-probe-by-central-agencies-i": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "bjp|minister",
+    "norm": 50.5
   },
-  "govt-schemes-accelerate-india-manufacturing-growth-attract-g": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "row",
-    "norm": 51.2
+  "assam-meghalaya-tensions-hit-tourism-nearly-90-bookings-canc": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "rally|rally",
+    "norm": 50.2
   },
-  "u-s-racks-up-40-trillion-dollars-in-debt-raising-concerns-ov": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "trillion",
-    "norm": 49
+  "opinion-opinion-a-snub-gone-too-far-the-story-of-bangladesh-": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "minister|prime minister",
+    "norm": 48.7
   },
-  "mexico-governor-returns-to-office-after-us-charges": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "governor",
-    "norm": 49
+  "lokesh-to-inaugurate-suzlon-s-turbine-blade-manufacturing-un": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "crore|rbi",
+    "norm": 48.7
   },
-  "in-1969-she-helped-apollo-11-carrying-neil-armstrong-land-on": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "poll",
-    "norm": 49
+  "ajit-doval-in-beijing-as-india-china-border-tensions-rise-wh": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "border|china",
+    "norm": 48.7
   },
-  "l-t-signs-ultra-mega-middle-east-gas-compression-contract": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "mp",
-    "norm": 49
+  "delhi-airport-sees-15-flight-diversions-due-to-bad-weather": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "weather",
+    "norm": 48.2
   },
-  "flying-abroad-from-india-no-more-boarding-pass-stamping-from": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "redmi-note-17-pro-note-17-pro-max-india-launch-date-tipped-e": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "price",
-    "norm": 49
-  },
-  "due-to-need-for-absolute-success-china-delays-critical-moon-": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "china",
-    "norm": 49
-  },
-  "rs-30-carry-bag-charge-costs-shop-rs-26-000-gurgaon-consumer": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "restriction-zone-scheme-for-offenders-to-start-in-october": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "star",
-    "norm": 47.4
-  },
-  "pant-scripts-history-surpasses-dhoni-to-become-india-leading": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "dhoni",
-    "norm": 47.4
-  },
-  "in-chennai-s-beachside-food-the-secret-ingredient-is-the-sea": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
+  "-political-parties-suppressing-kakinada-love-jihad-incident-": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "krushna-abhishek-says-he-wont-entertain-questions-about-mama": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "footage",
+  "cjp-writes-to-education-ministers-seeks-info-on-govt-schools": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "3-south-releases-to-watch-this-week-in-theaters-yash-kiara-a": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "watch",
-    "norm": 45.9
+  "mk-stalin-moves-hc-against-tvk-mla-vs-babu-s-kolathur-win-se": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "mla",
+    "norm": 44
   },
-  "-could-take-at-least-10-years-annamalai-questions-vijay-led-": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "tax",
-    "norm": 45.9
+  "poverty-illiteracy-isolation-why-southern-rajasthan-s-tribal": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "fund",
+    "norm": 44
   },
-  "india-anchors-asia-pacific-office-leasing-with-over-70-share": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
+  "telangana-govt-to-utilise-advanced-tech-in-employees-health-": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "i-put-my-aching-arm-and-throbbing-foot-down-to-my-busy-life-": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
+  "-treat-education-as-urgent-priority-cjp-s-dipke-writes-to-ed": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "minister",
+    "norm": 44
   },
-  "samsung-galaxy-s27-ultra-design-renders-leaked-online-here-i": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "new-zealand-plans-social-media-ban-for-under-16s": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "asian-shares-mostly-decline-as-bond-market-pressure-mounts": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "is-your-new-car-really-new-what-to-check-before-delivery": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "kloudmate-unveils-india-first-agentic-observability-platform": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "aditya-seal-and-anushka-ranjan-announce-the-birth-of-twin-da": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "when-a-chinese-mythic-world-travels-without-translation": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "vinay-gowda-sends-strong-message-to-bigg-boss-kannada-agnipa": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "india-bhutan-ties-enter-stronger-phase-across-sectors-report": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "environmental-lead-exposure-linked-to-greater-neuronal-damag": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 36
-  },
-  "when-national-theatre-brought-cinema-to-the-western-suburbs-": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 36
-  },
-  "rain-in-parts-of-hyderabad-on-august-24": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 36
-  },
-  "air-india-flight-from-delhi-suffers-bird-hit-at-patna-airpor": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "",
-    "norm": 36
+  "india-gulf-bloc-discuss-next-steps-on-free-trade-agreement": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "mp",
+    "norm": 44
   },
   "parandur-airport-project-to-be-dropped-by-tamil-nadu-governm": {
     "firstSeen": "2026-08-24T07:15:45.536Z",
     "signature": "",
     "norm": 36
   },
-  "anushka-ranjan-and-aditya-seal-welcome-twin-baby-girls-vira-": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
+  "iuml-calls-for-district-reorganisation-in-keralam-based-on-p": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
     "signature": "",
     "norm": 36
   },
-  "freezing-liquid-inside-optical-fibre-makes-light-and-sound-i": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
+  "why-vijay-scrapped-chennai-s-second-airport-plan-at-parandur": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
     "signature": "",
     "norm": 36
   },
-  "piyush-goyal-says-india-negotiating-ftas-with-8-to-9-more-bl": {
+  "parandur-airport-delay-in-finding-new-site-could-set-tamil-n": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "",
+    "norm": 36
+  },
+  "how-chennai-city-went-from-tiffin-carriers-to-food-apps": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "air-india-flight-from-delhi-suffers-bird-hit-at-patna-airpor": {
     "firstSeen": "2026-08-24T09:58:36.854Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "indiramma-housing-towers-locations-in-hyderabad-cure-availab": {
+    "firstSeen": "2026-08-24T10:49:09.012Z",
     "signature": "",
     "norm": 33.9
   }
