@@ -1,121 +1,106 @@
 {
-  "3-newborns-killed-after-fire-breaks-out-at-maharashtra-hospi": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "fire|fire|hospital|killed|killed|maharashtra|rescue|rescue",
-    "norm": 85.7
+  "three-newborns-die-in-fire-at-government-hospital-in-amravat": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "died|fire|fire|hospital|maharashtra|minister|mp|rescue|rescue",
+    "norm": 94
   },
-  "3-newborns-die-after-fire-breaks-out-at-amravati-hospital-ni": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "blaze|died|evacuat|explosion|explosion|fan|fire|fire|hospital|star",
-    "norm": 85.5
+  "three-newborns-burnt-to-death-after-ventilator-explodes-insi": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "death|fan|fire|fire|hospital|killed|killed",
+    "norm": 83.6
   },
-  "3-newborns-die-after-ventilator-blast-triggers-fire-at-mahar": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "blast|fire|fire|hospital|maharashtra|row",
-    "norm": 80.6
+  "rupee-climbs-to-95-64-against-us-dollar-iran-sanctions-crude": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "investor|iran|mp|price|prices|rupee|sanction",
+    "norm": 76.5
   },
-  "-those-who-don-t-value-you-maharashtra-woman-alleged-harassm": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "died|maharashtra|record|tragedy|video",
-    "norm": 73.7
+  "bjp-targets-aap-over-punjab-governance-calls-arvind-kejriwal": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "aap|attack|attack|bjp|kejriwal",
+    "norm": 73.6
   },
-  "no-need-to-fake-kuldeep-yadav-s-illness-sitanshu-kotak": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "mp|viral|viral|viral",
+  "footballers-coaches-protest-bmc-proposal-to-turn-bandra-grou": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "match|mp|protest|protest",
     "norm": 72.9
   },
-  "19-year-old-killed-friend-injured-after-truck-hits-motorcycl": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "died|hospital|injured|killed|killed",
-    "norm": 70.5
-  },
-  "india-asked-us-to-skip-questions-at-pm-modi-trump-meet-us-pr": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "modi|modi|mp|president|trump|trump",
+  "man-paid-for-israel-job-got-no-employment-consumer-panel-ord": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "fund|israel|lakh|mp",
     "norm": 69.6
   },
-  "fissures-emerge-between-left-and-tvk-over-tamil-nadu-s-anti-": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "chief minister|minister|protest|protest|ruling",
-    "norm": 69
+  "ranveer-submits-defence-against-farhan-s-rs-45-cr-claim-warn": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "controversy|defence|mp|war",
+    "norm": 65
   },
-  "1984-anti-sikh-riots-hooda-regrets-sajjan-remarks-after-mass": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "congress|death|mp|riot|row",
-    "norm": 67.5
-  },
-  "smriti-asks-rahul-to-back-women-s-quota-law": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "bjp|iran|lok sabha|mp|opposition|rahul gandhi",
-    "norm": 65.1
-  },
-  "ed-raids-locked-house-of-kpsc-ex-controller": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "exam|recruitment|war",
-    "norm": 64.5
+  "from-rs-25-kg-to-rs-60-kg-your-kitchen-budget-may-soon-feel-": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "budget|price|prices|stocks|weather",
+    "norm": 62.9
   },
   "from-28-days-in-2019-to-14-now-government-is-speeding-up-gri": {
     "firstSeen": "2026-08-24T03:12:55.636Z",
     "signature": "lakh|record|row",
     "norm": 62.8
   },
-  "dmk-s-regional-satraps-among-22-who-will-lose-district-secre": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "election|election|mp",
-    "norm": 59.7
+  "those-against-reservation-should-be-booked-for-sedition-unio": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "minister|protest|protest",
+    "norm": 61.1
   },
-  "what-s-in-the-imran-khan-letter-gavaskar-kapil-make-three-re": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "captain|gavaskar|khan|pakistan",
-    "norm": 58.9
+  "kerala-forest-officer-booked-over-alleged-misbehaviour-with-": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "mp|war",
+    "norm": 57.1
   },
-  "adani-meet-with-dks-sparks-buzz-as-tunnel-project-awaits-nod": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "adani|chief minister|minister",
-    "norm": 57.9
+  "kerala-hc-directs-strict-action-against-illegal-vehicle-modi": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "modi|modi",
+    "norm": 55.4
   },
-  "chiranjeevi-s-fitness-routine-at-71-includes-strength-traini": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "iran|star|superstar",
-    "norm": 57.6
+  "chennai-home-reveals-more-horrors-after-woman-s-body-found-i": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "horror|mp",
+    "norm": 55.4
   },
-  "pharmacy-owner-hacked-to-death-in-b-luru": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "death",
-    "norm": 48.2
+  "chlorine-gas-leaks-at-water-treatment-plant-in-nagpur-severa": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "gas leak|hospital",
+    "norm": 53.9
   },
-  "ed-arrests-two-in-pan-india-cyber-fraud-crackdown-case": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "fraud",
-    "norm": 48.2
+  "shillong-teer-result-today-august-24-2026-check-winning-numb": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "khan|result",
+    "norm": 53.9
   },
-  "legal-action-even-false-fir-not-instigation-to-suicide-sc": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "supreme court",
-    "norm": 45.9
+  "odisha-govt-rejects-opposition-demand-for-special-assembly-s": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "bill|congress|opposition",
+    "norm": 52.7
   },
-  "the-rural-urban-divide-in-female-labour-force-participation": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "",
-    "norm": 36
+  "transformer-theft-backfires-in-punjab-as-thieves-car-recover": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "fire|fire",
+    "norm": 52.4
   },
-  "greepiece-dog-wildlife-conflicts-need-urgent-attention": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
+  "stamping-of-boarding-passes-for-immigration-clearance-to-be-": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "mp|policy",
+    "norm": 50.5
+  },
+  "urban-company-takes-kent-ro-to-court-over-purifier-ads-read-": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
+    "signature": "high court|mp",
+    "norm": 48.7
+  },
+  "tn-govt-scraps-parandur-airport-project-eyes-new-site-chenna": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
     "signature": "",
     "norm": 33.9
   },
-  "telangana-auto-drivers-call-off-strike-after-government-assu": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "i-ve-got-my-eye-on-you": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "over-45-000-rajasthan-school-buildings-need-major-repairs-go": {
-    "firstSeen": "2026-08-24T03:12:55.636Z",
+  "amrit-bharat-3-0-new-ac-coaches-to-bring-vande-bharat-style-": {
+    "firstSeen": "2026-08-24T04:56:39.911Z",
     "signature": "",
     "norm": 33.9
   }
