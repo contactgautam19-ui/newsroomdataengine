@@ -1,226 +1,216 @@
 {
-  "pak-rebuilds-jaish-e-mohammed-hq-at-bahawalpur-destroyed-by-": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "fund|pakistan|terror|terror|war",
-    "norm": 80.3
+  "cjp-activists-assaulted-in-rajasthan-village-during-school-i": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "attack|attack|bjp|congress|minister|mp|threat",
+    "norm": 79.4
   },
-  "no-relief-for-rial-iranian-currency-sinks-to-record-low-as-u": {
-    "firstSeen": "2026-08-24T10:49:09.012Z",
-    "signature": "economy|iran|mp|president|record|sanction",
-    "norm": 75.3
+  "neet-protest-violence-cji-says-women-protestors-can-file-sex": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "cji|mp|neet|protest|protest",
+    "norm": 76.8
   },
-  "-one-tip-one-hand-english-batter-out-in-bizarre-fashion-in-c": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "match|mp|war|watch",
-    "norm": 71.4
+  "putin-credits-pm-modi-for-growing-russia-india-trade-in-talk": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "jaishankar|minister|modi|modi|president|prime minister|row",
+    "norm": 73.5
   },
-  "-insult-to-telangana-cm-reddy-slams-centre-for-us-visit-deni": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "chief minister|controversy|minister|slam|slams",
-    "norm": 69.1
+  "bjp-seeks-extension-of-a-p-sir-deadline-to-september-10": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "bjp|dead|dead|vote",
+    "norm": 71.6
   },
-  "-birthright-to-denounce-india-s-heritage-yogi-adityanath-sla": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "chief minister|minister|opposition|rahul gandhi|slam|slams|yogi",
-    "norm": 68.5
+  "exclusive-rajasthan-school-attack-caste-case-against-ashutos": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "attack|attack|controversy|video",
+    "norm": 70
   },
-  "karnataka-legislative-assembly-passes-8-bills-in-an-hour-wit": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "bill|bjp|mp|protest|protest",
-    "norm": 67.3
+  "tipu-was-more-nationalist-than-rss-priyank-kharge-hits-back-": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "bjp|controversy|minister|mp|row",
+    "norm": 67
   },
-  "one-hour-of-rain-exposes-gurugram-s-civic-infrastructure-aga": {
-    "firstSeen": "2026-08-24T10:49:09.012Z",
-    "signature": "collapse|collapse|collapse|mp",
-    "norm": 66.7
-  },
-  "consider-it-your-birthright-to-denounce-india-s-heritage-yog": {
-    "firstSeen": "2026-08-24T09:58:36.854Z",
-    "signature": "rahul gandhi|slam|slams|yogi",
-    "norm": 66.6
-  },
-  "3-babbar-khalsa-operatives-arrested-with-5-kg-explosives-gun": {
-    "firstSeen": "2026-08-24T10:49:09.012Z",
-    "signature": "mp|terror|terror",
+  "-we-are-a-poor-family-father-of-indian-national-shot-dead-in": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "dead|dead|mp",
     "norm": 66
   },
-  "mk-stalin-challenges-tvk-candidate-v-s-babu-s-kolathur-victo": {
-    "firstSeen": "2026-08-24T10:49:09.012Z",
-    "signature": "chief minister|election|election|high court|minister",
-    "norm": 64.6
+  "tarique-rahman-s-cancelled-delhi-visit-says-a-lot-about-bang": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "china|pakistan|tragic|war",
+    "norm": 65
   },
   "-fix-schools-not-lavish-homes-cjp-on-upkeep-expenditure-of-u": {
     "firstSeen": "2026-08-24T11:39:03.290Z",
     "signature": "crore|minister|mp|record",
+    "norm": 64.9
+  },
+  "crpf-jawan-injured-in-gunfight-houses-torched-in-manipur-s-s": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "injured|protest|protest",
     "norm": 63.2
   },
-  "madras-high-court-extends-stay-on-5-tamil-nadu-assembly-bypo": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "election|election|high court|poll",
+  "breaking-gurugram-s-waterlogging-traps-school-buses-kids-lef": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "alert|heavy rain|red alert|visuals",
+    "norm": 62.3
+  },
+  "russian-president-vladimir-putin-expresses-hope-to-meet-pm-m": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "jaishankar|modi|modi|president",
     "norm": 61.8
   },
-  "india-cautious-over-trump-s-unpredictability-defends-media-m": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "mp|trump|trump",
+  "revanth-reddy-denies-mamdani-meeting-on-us-itinerary-telanga": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "chief minister|minister|row",
+    "norm": 61.4
+  },
+  "calcutta-high-court-stays-arrest-warrant-against-tmc-mp-mahu": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "high court|mp|war",
     "norm": 59.7
   },
-  "akhilesh-yadav-questions-maharashtra-s-marathi-rule-for-cab-": {
-    "firstSeen": "2026-08-24T10:49:09.012Z",
-    "signature": "maharashtra|minister|poll",
-    "norm": 59.7
+  "5-reasons-why-gurugram-floods-every-time-it-rains-and-why-rs": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "flood|flood|floods",
+    "norm": 59.6
   },
-  "work-from-home-advisory-issued-for-tomorrow-in-gurugram-amid": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "heavy rain|row",
+  "-where-is-rahul-gandhi-telangana-bjp-over-students-fee-reimb": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "bjp|crore|rahul gandhi",
     "norm": 59.3
   },
-  "tmc-mp-mahua-moitra-moves-supreme-court-alleging-eviction-fr": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "fund|mp|supreme court",
+  "cjp-calls-for-september-5-march-from-india-gate-accuses-cent": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "brutal|neet",
     "norm": 59.3
   },
-  "indian-army-to-get-100-indigenous-ak-203-sher-in-april-2027-": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "actor|army|sharma|star",
-    "norm": 58.9
-  },
-  "sir-in-karnataka-draft-roll-out-now-here-s-how-you-can-check": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "record|star|vote",
+  "no-shortage-of-sugar-in-india-retail-prices-to-come-down-ind": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "president|price|prices",
     "norm": 57.6
+  },
+  "-have-right-to-know-cjp-demands-clarity-on-funding-facilitie": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "fund|minister|mp",
+    "norm": 57.6
+  },
+  "-uk-participating-in-ukraine-war-why-russia-issued-outrageou": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "outrage|threat|war",
+    "norm": 56.6
   },
   "-footpaths-integral-to-human-life-sc-seeks-response-of-state": {
     "firstSeen": "2026-08-24T11:39:03.290Z",
     "signature": "mp|threat",
-    "norm": 57.1
+    "norm": 55.4
   },
-  "malayalam-actor-s-devan-to-join-vijay-s-tvk-meeting-set-for-": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "actor|bjp|president",
-    "norm": 56.1
+  "gurugram-offices-schools-advised-to-work-from-home-amid-heav": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "heavy rain|mp",
+    "norm": 55.4
   },
-  "over-8-23-lakh-posts-lie-vacant-in-central-govt-departments-": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "lakh|sanction",
-    "norm": 55
-  },
-  "nsa-ajit-doval-arrives-in-beijing-set-for-border-talks-with-": {
-    "firstSeen": "2026-08-24T10:49:09.012Z",
-    "signature": "border|brics|china|president|summit",
-    "norm": 54.4
-  },
-  "sc-notice-on-plea-for-cbi-probe-into-jharkhand-exam-irregula": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "exam|khan",
+  "jaishankar-meets-russian-president-putin-discusses-bilateral": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "brics|jaishankar|president|summit",
     "norm": 53.9
   },
-  "supreme-court-bans-construction-within-100-metres-of-jojari-": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "star|supreme court",
-    "norm": 53.5
-  },
-  "upi-completes-10-years-clocks-nearly-13-000-fold-rise-in-tra": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "crore|mp",
+  "supreme-court-declares-right-to-walk-on-footpath-a-fundament": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "fund|supreme court",
     "norm": 53.2
   },
-  "middle-east-war-disrupts-india-s-aviation-sector-this-airpor": {
-    "firstSeen": "2026-08-24T10:49:09.012Z",
-    "signature": "record|war",
+  "government-opposition-spar-over-future-role-of-isro": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "congress|minister|opposition",
+    "norm": 52.7
+  },
+  "cops-used-electrocution-gloves-to-subdue-high-school-student": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "shock|shock",
     "norm": 52.4
   },
-  "-insult-to-telangana-revanth-reddy-slams-centre-for-us-visit": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "slam|slams",
-    "norm": 52.1
+  "khaki-content-on-instagram-youtube-up-cops-reel-bazi-trigger": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "instagram|video",
+    "norm": 48.7
   },
-  "dispersed-at-1-30-still-stuck-at-4-15-gurugram-s-waterloggin": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "alert|red alert",
-    "norm": 52.1
+  "tarun-tejpal-must-surrender-seek-exemption-before-appeal-is-": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "high court|mp",
+    "norm": 48.7
   },
-  "indian-evms-not-connected-to-internet-bluetooth-or-wi-fi-cec": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "mp|vote",
-    "norm": 50.5
+  "-against-federal-cooperatism-revanth-reddy-after-centre-s-no": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
   },
-  "gurugram-offices-schools-advised-to-work-from-home-on-august": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "heavy rain",
+  "-matter-of-concern-omar-abdullah-flags-threats-to-kashmiri-p": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "threat",
     "norm": 48.2
   },
-  "thunderstorm-forecast-in-24-telangana-districts-on-august-25": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "storm",
-    "norm": 48.2
+  "decoupling-footpaths-from-accidents": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "accident",
+    "norm": 46.3
   },
-  "india-news-live-updates-24-august-2026-gurugram-traffic-heav": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "heavy rain",
-    "norm": 48.2
-  },
-  "harish-rao-flays-notification-for-supply-of-liquor-instead-o": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "jobs",
-    "norm": 45.9
-  },
-  "-political-parties-suppressing-kakinada-love-jihad-incident-": {
-    "firstSeen": "2026-08-24T10:49:09.012Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "sc-to-hear-plea-challenging-fir-filed-against-content-creato": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "sc-bans-construction-within-100-metres-of-rajasthan-s-jojari": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "poll",
-    "norm": 44
-  },
-  "cpi-s-demand-for-keralam-deputy-lop-post-genuine-pinarayi-vi": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "opposition",
-    "norm": 44
-  },
-  "govt-ends-loan-licensing-requirement-for-outsourced-medical-": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "cjp-writes-to-education-ministers-seeks-info-on-govt-schools": {
-    "firstSeen": "2026-08-24T10:49:09.012Z",
+  "national-resolve-needed-to-preserve-tribal-languages-culture": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
     "signature": "minister",
+    "norm": 45.9
+  },
+  "three-fugitives-linked-to-bambiha-gang-deported-from-malaysi": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "amit shah",
+    "norm": 45.9
+  },
+  "dumping-menace-leaves-forest-fringes-of-erumely-in-keralam-u": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "meghalaya-govt-invites-ksu-for-talks-as-assam-border-tension": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "border",
+    "norm": 45.9
+  },
+  "u-s-envoy-sergio-gor-visits-tata-lockheed-martin-manufacturi": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "cockroach-janta-party-alleges-government-schools-in-hyderaba": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "sc-reserves-order-on-tarun-tejpal-s-surrender-plea-goa-seeks": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
+    "signature": "mp",
     "norm": 44
   },
-  "government-must-explain-handling-of-palathayi-case-bail-says": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
+  "tamil-nadu-cm-vijay-announces-expansion-of-free-bus-travel-f": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
     "signature": "",
     "norm": 36
   },
-  "ranchi-police-asks-x-to-provide-user-data-of-account-linked-": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
-    "signature": "",
-    "norm": 36
-  },
-  "us-may-raise-h-1b-opt-costs-what-indian-students-and-tech-wo": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
+  "harvard-urges-int-l-students-to-return-to-us-before-sept-15-": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
     "signature": "",
     "norm": 33.9
   },
-  "gurman-early-iphone-ultra-testers-praise-its-design-hinge-an": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
+  "demolition-of-century-old-structures-at-badanavalu-khadi-cen": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
     "signature": "",
     "norm": 33.9
   },
-  "raksha-bandhan-2026-special-trains-announced-amid-high-passe": {
-    "firstSeen": "2026-08-24T11:39:03.290Z",
+  "1-600-year-old-roman-bridge-emerges-as-danube-water-levels-p": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
     "signature": "",
     "norm": 33.9
   },
-  "parandur-airport-project-to-be-dropped-by-tamil-nadu-governm": {
-    "firstSeen": "2026-08-24T07:15:45.536Z",
+  "-govt-has-played-delay-games-cjp-announces-march-from-india-": {
+    "firstSeen": "2026-08-24T13:09:08.318Z",
     "signature": "",
     "norm": 33.9
   }
