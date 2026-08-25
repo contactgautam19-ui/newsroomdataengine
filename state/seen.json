@@ -1,27 +1,47 @@
 {
-  "canada-to-announce-retaliatory-tariffs-after-trump-warns-of-": {
-    "firstSeen": "2026-08-24T23:31:12.142Z",
-    "signature": "mp|trump|trump|war",
-    "norm": 71.6
+  "ventilator-blast-or-short-circuit-maharashtra-probes-cause-o": {
+    "firstSeen": "2026-08-25T01:48:02.442Z",
+    "signature": "blast|fan|fire|fire|killed|killed|lakh|maharashtra",
+    "norm": 95.5
   },
-  "tcs-to-acquire-porsche-arm-for-373-million-inks-1-4-billion-": {
-    "firstSeen": "2026-08-24T23:31:12.142Z",
-    "signature": "bill|billion|deal",
+  "24-year-old-drowns-in-gujarat-pond-where-brother-died-3-mont": {
+    "firstSeen": "2026-08-25T01:48:02.442Z",
+    "signature": "alert|died|drown|fire|fire|row",
+    "norm": 75.8
+  },
+  "-not-a-us-subsidiary-canada-to-announce-retaliatory-tariffs-": {
+    "firstSeen": "2026-08-25T01:48:02.442Z",
+    "signature": "mp|threat|trump|trump",
+    "norm": 70
+  },
+  "stone-quarries-put-assam-semiconductor-plant-at-risk": {
+    "firstSeen": "2026-08-25T01:48:02.442Z",
+    "signature": "flood|flood|floods|poll",
+    "norm": 67.9
+  },
+  "bmc-storms-mumbai-s-posh-high-rise-flats-demolishes-unauthor": {
+    "firstSeen": "2026-08-25T01:48:02.442Z",
+    "signature": "row|storm",
+    "norm": 59.3
+  },
+  "-does-anyone-actually-care-sreejesh-s-scathing-attack-after-": {
+    "firstSeen": "2026-08-25T01:48:02.442Z",
+    "signature": "attack|attack",
     "norm": 57.6
   },
-  "us-threatens-countries-doing-business-with-iran-but-holds-of": {
-    "firstSeen": "2026-08-24T23:31:12.142Z",
-    "signature": "iran|threat",
-    "norm": 57.6
+  "firs-still-not-withdrawn-cjp-announces-september-5-march-in-": {
+    "firstSeen": "2026-08-25T01:48:02.442Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "karnataka-suspends-food-licences-of-amazon-instamart-bigbask": {
-    "firstSeen": "2026-08-24T23:31:12.142Z",
-    "signature": "",
-    "norm": 36
+  "india-china-talks-structural-differences-have-not-disappeare": {
+    "firstSeen": "2026-08-25T01:48:02.442Z",
+    "signature": "border|china",
+    "norm": 48.7
   },
-  "upi-10-how-platform-changed-the-way-we-pay": {
-    "firstSeen": "2026-08-24T23:31:12.142Z",
-    "signature": "",
-    "norm": 33.9
+  "sugar-surprise-how-india-went-from-surplus-to-shortage": {
+    "firstSeen": "2026-08-25T01:48:02.442Z",
+    "signature": "surprise",
+    "norm": 40.7
   }
 }
