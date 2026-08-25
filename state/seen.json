@@ -1,47 +1,152 @@
 {
-  "ventilator-blast-or-short-circuit-maharashtra-probes-cause-o": {
-    "firstSeen": "2026-08-25T01:48:02.442Z",
-    "signature": "blast|fan|fire|fire|killed|killed|lakh|maharashtra",
-    "norm": 95.5
+  "delhi-s-weather-shocker-streets-turn-to-canals-as-red-alert-": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "alert|heavy rain|mla|red alert|shock|shock|shocker|sudden|visuals|weather",
+    "norm": 97.8
   },
-  "24-year-old-drowns-in-gujarat-pond-where-brother-died-3-mont": {
-    "firstSeen": "2026-08-25T01:48:02.442Z",
-    "signature": "alert|died|drown|fire|fire|row",
-    "norm": 75.8
+  "nia-searches-five-locations-in-cyberattack-case-during-op-si": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "attack|attack|maharashtra|mp|terror|terror",
+    "norm": 86.9
   },
-  "-not-a-us-subsidiary-canada-to-announce-retaliatory-tariffs-": {
-    "firstSeen": "2026-08-25T01:48:02.442Z",
-    "signature": "mp|threat|trump|trump",
-    "norm": 70
+  "revanth-slams-centre-over-denial-of-nod-for-us-tour": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "attack|attack|bjp|chief minister|minister|slam|slams",
+    "norm": 80.8
   },
-  "stone-quarries-put-assam-semiconductor-plant-at-risk": {
-    "firstSeen": "2026-08-25T01:48:02.442Z",
-    "signature": "flood|flood|floods|poll",
-    "norm": 67.9
+  "amit-shah-tells-security-brass-to-act-tough-against-infiltra": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "amit shah|mp|policy|terror|terror",
+    "norm": 73.6
+  },
+  "july-20-cjp-protest-no-separate-probe-into-claims-of-sexual-": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "exam|protest|protest|supreme court",
+    "norm": 72.9
+  },
+  "congress-slams-centre-over-report-on-800-000-vacancies-in-po": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "congress|mp|opposition|rajya sabha|slam|slams",
+    "norm": 69.6
+  },
+  "india-defends-no-questions-media-request-for-modi-trump-meet": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "modi|modi|mp|trump|trump",
+    "norm": 68.6
+  },
+  "cid-probes-multi-state-10k-crore-chit-fund-fraud": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "crore|fraud|fund|investor|war",
+    "norm": 68.6
+  },
+  "trump-spoke-with-pak-army-chief-last-week-ahead-of-iran-visi": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "army|iran|mp|pakistan|trump|trump",
+    "norm": 68
+  },
+  "min-to-face-action-over-daughter-s-remark-on-cm": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "chief minister|congress|ipl|minister",
+    "norm": 63.5
+  },
+  "after-exit-will-former-tata-sons-chief-chandrasekaran-get-a-": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "cabinet|modi|modi|mp",
+    "norm": 63.5
+  },
+  "rain-hobbles-delhi-ncr-again-as-flooding-chokes-roads-and-tr": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "flood|flood|weather",
+    "norm": 63.2
+  },
+  "us-supreme-court-clears-way-for-trump-s-mail-voting-plan-ahe": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "mp|ruling|supreme court|trump|trump",
+    "norm": 62.9
+  },
+  "iphone-row-or-family-discord-what-really-led-to-maharashtra-": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "maharashtra|row|tragedy",
+    "norm": 62.9
+  },
+  "concern-in-bjp-over-renewed-outreach": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "bjp|protest|protest",
+    "norm": 62.8
+  },
+  "mk-stalin-moves-madras-hc-over-kolathur-poll-defeat-alleges-": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "election|election|poll",
+    "norm": 61.4
+  },
+  "actor-ex-bjp-leader-devan-says-tvk-offered-him-top-post-in-k": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "actor|bjp|chief minister|minister|president",
+    "norm": 61.1
   },
   "bmc-storms-mumbai-s-posh-high-rise-flats-demolishes-unauthor": {
     "firstSeen": "2026-08-25T01:48:02.442Z",
     "signature": "row|storm",
     "norm": 59.3
   },
-  "-does-anyone-actually-care-sreejesh-s-scathing-attack-after-": {
-    "firstSeen": "2026-08-25T01:48:02.442Z",
-    "signature": "attack|attack",
+  "sc-seeks-centre-reply-on-plea-for-mechanism-against-csam": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "deal|mp|supreme court",
+    "norm": 59.3
+  },
+  "elon-musk-s-power-warning-raises-a-tough-question-for-india-": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "war|warning",
     "norm": 57.6
   },
-  "firs-still-not-withdrawn-cjp-announces-september-5-march-in-": {
-    "firstSeen": "2026-08-25T01:48:02.442Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "vijayan-should-be-accommodative-says-d-raja-amid-dy-lop-post": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "opposition|row",
+    "norm": 57.1
   },
-  "india-china-talks-structural-differences-have-not-disappeare": {
-    "firstSeen": "2026-08-25T01:48:02.442Z",
+  "iran-vows-to-retaliate-after-u-s-widens-sanctions": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "iran|sanction",
+    "norm": 55.4
+  },
+  "delhi-ncr-rain-parts-of-capital-on-red-alert-as-heavy-shower": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "alert|red alert|storm",
+    "norm": 54.9
+  },
+  "-structural-differences-have-not-disappeared-chinese-strateg": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
     "signature": "border|china",
     "norm": 48.7
   },
-  "sugar-surprise-how-india-went-from-surplus-to-shortage": {
-    "firstSeen": "2026-08-25T01:48:02.442Z",
-    "signature": "surprise",
-    "norm": 40.7
+  "rape-convict-gurmeet-ram-rahim-walks-out-of-prison-on-21-day": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "ipl",
+    "norm": 46.3
+  },
+  "sc-declines-to-list-tejpal-s-appeal-until-surrender-plea-is-": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "gta-6-cyberleek-update-all-leaks-released-monday-and-over-th": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "fpi",
+    "norm": 44
+  },
+  "indian-origin-ex-ceo-pays-1-8-million-to-resolve-case-of-fal": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "rape-convict-ram-rahim-gets-21-day-parole-17th-since-2017-co": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "dera-chief-ram-rahim-granted-21-day-parole-his-17th-release-": {
+    "firstSeen": "2026-08-25T03:08:44.286Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
