@@ -1,216 +1,236 @@
 {
-  "bpsc-row-students-break-barricades-march-towards-raj-bhavan-": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "exam|protest|protest|recruitment|row|war|warning",
-    "norm": 86.7
+  "ventilator-blast-or-short-circuit-high-level-probe-ordered-i": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "blast|blaze|fan|fire|fire|hospital|killed|killed|maharashtra|rescue|rescue",
+    "norm": 93.6
   },
-  "video-showing-karnataka-bjp-mla-s-daughter-slapping-woman-po": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "bjp|mla|mp|video|viral|viral|viral",
-    "norm": 81.3
+  "bihar-students-break-barricades-cops-use-water-cannons-as-pr": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "chief minister|exam|minister|opposition|protest|protest|row",
+    "norm": 82
   },
-  "delhi-protest-crackdown-supreme-court-says-right-to-peaceful": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "exam|ipl|parliament|protest|protest|supreme court",
-    "norm": 80.1
+  "surat-fish-market-named-after-pm-modi-without-civic-body-app": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "budget|minister|modi|modi|mp|prime minister|row",
+    "norm": 80.7
   },
-  "why-trump-may-have-to-target-china-to-make-its-iran-economic": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "china|iran|mp|sanction|threat|trump|trump",
+  "taxpayers-in-waist-deep-water-gurgaon-s-annual-infrastructur": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "betray|flood|flood|mp|tax",
+    "norm": 79.1
+  },
+  "-89-crore-valmiki-corporation-scam-bjp-jds-demand-b-nagendra": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "bjp|crore|exam|minister|scam",
     "norm": 77.9
   },
-  "pakistan-isi-s-digital-war-on-two-fronts-nia-s-pahalgam-prob": {
-    "firstSeen": "2026-08-25T07:04:04.216Z",
-    "signature": "attack|attack|bomb|pakistan|war",
-    "norm": 75.9
+  "opinion-opinion-sajjan-kumar-congress-and-how-to-keep-messin": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "congress|death|exam|mp",
+    "norm": 70
   },
-  "patna-students-clash-with-police-break-barricades-during-pro": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "clash|clash|exam|protest|protest|war",
-    "norm": 73.5
+  "watch-delhi-father-waded-into-drain-searching-for-son-who-fe": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "video|viral|viral|viral|watch",
+    "norm": 69
   },
-  "supreme-court-s-samadhan-samaroh-2026-concludes-with-over-1-": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "accident|acquisition|mp|supreme court|tax",
-    "norm": 72
+  "10-bills-passed-in-karnataka-legislature-without-debate-amid": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "bill|bjp|mp|protest|protest",
+    "norm": 69
   },
-  "bihar-students-breach-barricades-clash-with-police-as-demand": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "clash|clash|exam|war",
-    "norm": 68.4
+  "claim-pahalgam-attack-first-deny-it-with-disinformation-late": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "attack|attack|panic",
+    "norm": 64.5
   },
-  "tamil-nadu-political-storm-marie-wilson-accuses-dmk-of-schoo": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "controversy|minister|storm",
-    "norm": 67.6
+  "-rahul-gandhi-on-right-track-for-2029-kerala-cm-predicts-con": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "coalition|congress|election|election|lok sabha|rahul gandhi|vote",
+    "norm": 63.7
   },
-  "lpg-e-kyc-deadline-is-over-what-happens-if-you-haven-t-compl": {
-    "firstSeen": "2026-08-25T07:04:04.216Z",
-    "signature": "dead|dead|mp",
-    "norm": 66
+  "maharashtra-oral-appointments-of-officers-and-employees-in-m": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "maharashtra|minister|mp",
+    "norm": 61.4
   },
-  "ahead-of-raksha-bandhan-up-cm-gives-four-major-gifts-to-3-54": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "accident|lakh|yogi",
-    "norm": 65.6
+  "hijab-vs-school-uniform-bjp-defends-dress-code-as-political-": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "bjp|row|supreme court",
+    "norm": 61.4
   },
-  "rahul-gandhi-s-student-campaign-faces-heat-bjp-claims-33-con": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "bjp|congress|controversy|mp|rahul gandhi",
-    "norm": 64.6
+  "-talk-of-war-won-t-change-reality-fazlur-rehman-flags-india-": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "pakistan|slam|war",
+    "norm": 60.8
   },
-  "check-tribal-hostels-in-congress-ruled-states-first-bjp-to-r": {
-    "firstSeen": "2026-08-25T07:04:04.216Z",
-    "signature": "bjp|congress|maharashtra|rahul gandhi|ruling",
-    "norm": 64.6
+  "-open-ended-questions-misleading-kharge-rahul-gandhi-write-t": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "modi|modi|rahul gandhi",
+    "norm": 59.7
   },
-  "ajit-doval-meets-wang-yi-in-beijing-india-china-border-talks": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "border|china|ipl|minister",
-    "norm": 63.5
-  },
-  "neet-ug-protests-case-petitioners-seek-re-constitution-of-hi": {
-    "firstSeen": "2026-08-25T07:04:04.216Z",
-    "signature": "neet|protest|protest",
-    "norm": 63.2
-  },
-  "p-v-anvar-blames-udf-for-poll-defeat-in-beypore-after-kozhik": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "congress|election|election|mla|poll",
-    "norm": 62.9
-  },
-  "obc-creamy-layer-judgment-centre-asks-for-cse-2025-2026-to-b": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "mp|recruitment|result",
-    "norm": 62.5
-  },
-  "-let-panel-work-sc-on-plea-seeking-reconstitution-of-panel-p": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "mp|protest|protest",
-    "norm": 61.1
+  "kashmiri-pandit-employees-in-valley-seek-urgent-security-aft": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "mp|threat",
+    "norm": 57.1
   },
   "-a-splendid-swimming-pool-aap-takes-dig-at-bjp-over-waterlog": {
     "firstSeen": "2026-08-25T07:56:12.021Z",
     "signature": "aap|bjp|mla|video",
-    "norm": 58.6
+    "norm": 56.9
   },
-  "imran-khan-getting-same-treatment-he-gave-his-opponents-mehb": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "khan|mp|pakistan",
-    "norm": 56.1
+  "from-celluloid-to-digital-the-changing-face-of-chennai-s-cin": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "film|shooting",
+    "norm": 55.7
   },
-  "thieves-recruited-through-social-media-s-crime-as-a-service-": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "fuel|gold",
+  "how-bicycles-motorcycles-took-over-the-roads-of-madras": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "star|war",
+    "norm": 55.7
+  },
+  "maharashtra-education-crisis-justice-prasanna-b-varale-quest": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "budget|maharashtra",
     "norm": 55.4
   },
-  "rifle-shooting-coach-held-over-forced-conversion-claim-after": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "mp|shooting",
-    "norm": 55.4
+  "when-yellow-black-taxis-cruised-the-roads-of-madras": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "mp|tax",
+    "norm": 55
   },
-  "school-bus-overturns-in-regidi-mandal-15-children-injured": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "hospital|injured",
-    "norm": 53.9
+  "apple-says-farewell-to-tim-cook-with-onerepublic-tributes-fr": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "jobs|mp",
+    "norm": 55
   },
-  "ravi-teja-s-irumudi-lands-in-trouble-as-teachers-federation-": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "controversy|film",
-    "norm": 53.9
+  "-crossed-every-boundary-of-decency-kangana-ranaut-hits-back-": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "tamil-nadu-taking-steps-to-distribute-medicine-for-haemophil": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "actor|minister",
-    "norm": 53.5
+  "25km-10-hours-and-200-students-protest-in-madhya-pradesh-aft": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "nsa-doval-calls-on-chinese-vice-president-han-zheng-ahead-of": {
-    "firstSeen": "2026-08-25T07:04:04.216Z",
-    "signature": "border|china|minister|president",
-    "norm": 52.1
+  "when-aircrafts-took-to-the-madras-skies-on-metal-wings": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "record|tax",
+    "norm": 52
   },
-  "supreme-court-shields-journalist-abhishek-upadhyay-from-coer": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "mp|supreme court",
+  "of-the-time-when-people-were-carried-in-palanquins-in-madras": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "mp|record",
+    "norm": 52
+  },
+  "rajnath-singh-okays-transfer-of-drdo-missile-tech-to-indian-": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "defence|mp",
     "norm": 50.5
   },
-  "-structural-differences-have-not-disappeared-chinese-strateg": {
-    "firstSeen": "2026-08-25T07:04:04.216Z",
-    "signature": "border|china",
+  "sc-seeks-response-from-20-rebel-tmc-mps-after-abhishek-baner": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "mp|supreme court",
     "norm": 48.7
   },
-  "-thudakkam-movie-review-vismaya-mohanlal-s-martial-arts-skil": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "movie|watch",
-    "norm": 48.7
-  },
-  "truck-carrying-pilgrims-falls-into-gorge-in-himachal-pradesh": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "injured",
+  "madras-lingo-on-transportation": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "bomb",
     "norm": 48.2
   },
-  "love-in-uniform-pune-s-two-women-cops-fell-for-each-other-du": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "maharashtra",
+  "jolted-about-on-carts-drawn-by-oxen-and-horses-in-madras": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "ipl",
     "norm": 48.2
   },
-  "this-indian-village-has-no-doors-or-locks-or-theft-reports-t": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "maharashtra",
-    "norm": 46.3
-  },
-  "inflows-improved-in-nagavali-vamsadhara-and-other-rivers-aft": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "mp",
+  "supreme-court-dismisses-tarun-tejpal-s-plea-directs-him-to-s": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "supreme court",
     "norm": 45.9
   },
-  "how-did-the-sc-read-the-obc-creamy-layer-test-explained": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "rajasthan-high-court-takes-up-gen-z-gen-alpha-concerns-asks-": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
-    "signature": "high court",
-    "norm": 45.9
-  },
-  "up-to-give-1-lakh-govt-appointment-letters-in-next-six-month": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
+  "getting-around-madras-on-autorickshaws": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
     "signature": "lakh",
+    "norm": 45.9
+  },
+  "onam-reels-by-accused-seven-museum-police-personnel-transfer": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "aboard-the-tramway-in-madras": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "supreme-court-directs-tarun-tejpal-to-surrender-in-two-weeks": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "2013-rape-case-supreme-court-directs-tarun-tejpal-to-surrend": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "rajnath-singh-clears-transfer-of-drdo-missile-tech-to-indian": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "defence",
+    "norm": 45.9
+  },
+  "tarun-tejpal-asked-by-supreme-court-to-surrender-in-two-week": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "supreme court",
     "norm": 44
   },
-  "-withdraw-existing-questionnaire-kharge-rahul-write-to-pm-ov": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
+  "four-fall-ill-after-eating-datura-leaf-curry-in-kakinada-dis": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
     "signature": "",
     "norm": 36
   },
-  "ahmedabad-bhagalpur-amrit-bharat-express-from-august-26-chec": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
+  "romance-longing-life-and-cinema-on-chennai-s-beaches": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
     "signature": "",
     "norm": 36
   },
-  "from-600-to-5-000-packages-an-hour-fedex-unveils-150-million": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
+  "how-buses-became-the-lifeline-of-madras": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
     "signature": "",
     "norm": 36
   },
-  "cjp-announces-new-members-names-national-spokespersons-joint": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
+  "hauling-about-the-madras-city-on-trains": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "dmk-raises-killing-of-3-tamils-by-k-taka-forest-dept-seeks-e": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
+  "udhayanidhi-demands-high-level-judicial-inquiry-into-killing": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "sc-stays-calcutta-hc-order-staying-notifications-on-dedicate": {
-    "firstSeen": "2026-08-25T07:56:12.021Z",
+  "the-four-key-roads-of-madras-that-originate-from-fort-st-geo": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "tamil-nadu-cm-vijay-plans-new-international-airport-near-che": {
-    "firstSeen": "2026-08-25T07:04:04.216Z",
+  "around-madras-city-in-hand-pulled-rickshaws": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "",
+    "norm": 36
+  },
+  "masula-boats-and-the-fishermen-who-kept-madras-afloat": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "",
+    "norm": 36
+  },
+  "garmin-play-harder-event-live-will-the-fenix-9-drop-today-": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
+    "signature": "",
+    "norm": 36
+  },
+  "woman-32-dies-after-falling-from-fifth-floor-of-building-in-": {
+    "firstSeen": "2026-08-25T08:54:41.374Z",
     "signature": "",
     "norm": 33.9
   }
