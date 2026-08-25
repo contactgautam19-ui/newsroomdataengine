@@ -1,102 +1,37 @@
 {
-  "pm-modi-chairs-pragati-meet-pushes-ai-use-in-farming-and-cyb": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "economy|fraud|minister|modi|modi|mp|prime minister",
-    "norm": 80.7
+  "us-sanctions-4-indian-firms-3-nationals-over-iran-trade-unde": {
+    "firstSeen": "2026-08-25T20:40:37.055Z",
+    "signature": "iran|mp|petrol|petrol|sanction",
+    "norm": 73
   },
-  "several-injured-as-police-stop-bihar-students-protest-march": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "exam|injured|protest|protest|recruitment",
-    "norm": 79.7
+  "identify-eliminate-threats-before-they-grow-big-amit-shah-ur": {
+    "firstSeen": "2026-08-25T20:40:37.055Z",
+    "signature": "amit shah|minister|mp|policy|row|threat",
+    "norm": 69.6
   },
-  "trump-orders-us-flags-lowered-for-true-loss-of-dolly-parton": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "death|mp|president|trump|trump",
-    "norm": 72
+  "kochi-wakes-to-thiruvonam-festivities": {
+    "firstSeen": "2026-08-25T20:40:37.055Z",
+    "signature": "crowd|mp|row",
+    "norm": 61.1
   },
-  "cia-chief-on-secret-trip-to-moscow-as-us-asks-ukraine-to-hal": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "attack|attack|drone|mp",
-    "norm": 71.4
+  "loitering-munition-may-have-hit-kirana-hills-during-operatio": {
+    "firstSeen": "2026-08-25T20:40:37.055Z",
+    "signature": "iran|pakistan",
+    "norm": 57.1
   },
-  "kashmiri-pandit-employees-under-threat-as-terror-poster-leak": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "mp|terror|terror|threat",
-    "norm": 71
+  "major-fire-engulfs-godown-at-angamaly": {
+    "firstSeen": "2026-08-25T20:40:37.055Z",
+    "signature": "fire|fire",
+    "norm": 52.4
   },
-  "spacex-announces-100-billion-spaceport-in-us-louisiana": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "bill|billion|jobs|mp|star",
-    "norm": 70.3
-  },
-  "2-killed-at-nhai-construction-sites-in-j-amp-k": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "killed|killed|mp",
-    "norm": 66
-  },
-  "weather-highlights-heavy-rain-in-delhi-waterlogging-traffic-": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "alert|heavy rain|storm|weather",
-    "norm": 65.5
-  },
-  "madhya-pradesh-forest-department-to-launch-snake-catcher-app": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "rescue|rescue|war",
-    "norm": 63.2
-  },
-  "bjp-to-take-out-a-10-day-padayatra-from-raichur-to-ballari-f": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "bjp|congress|war",
-    "norm": 61.4
-  },
-  "man-detained-for-throwing-stones-at-vande-bharat-up-governor": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "governor|row",
-    "norm": 55.4
-  },
-  "nmdc-launches-3-month-campaign-ahead-of-vigilance-awareness-": {
-    "firstSeen": "2026-08-25T18:53:28.784Z",
-    "signature": "mp|war",
-    "norm": 55.4
-  },
-  "sir-in-karnataka-chief-minister-seeks-more-time-for-sir-clai": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "delhi-police-register-abetment-to-suicide-case-in-iit-delhi-": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "death",
-    "norm": 46.3
-  },
-  "allahabad-high-court-orders-relocation-of-hathras-victim-s-f": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "high court",
-    "norm": 45.9
-  },
-  "kpsc-chairman-suspended-for-second-time-by-governor": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "governor",
-    "norm": 45.9
-  },
-  "clandestine-pan-masala-and-tobacco-unit-in-medchal-malkajgir": {
-    "firstSeen": "2026-08-25T18:53:28.784Z",
-    "signature": "crore",
-    "norm": 44
-  },
-  "pharmacy-worker-arrested-for-illegally-supplying-prescriptio": {
-    "firstSeen": "2026-08-25T18:53:28.784Z",
-    "signature": "lakh",
-    "norm": 44
+  "iamc-and-allied-faith-organisations-protest-against-mohan-bh": {
+    "firstSeen": "2026-08-25T20:40:37.055Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
   "nyc-mayor-mamdani-opposes-rss-chief-bhagwat-s-madison-square": {
     "firstSeen": "2026-08-25T19:40:42.663Z",
     "signature": "",
-    "norm": 36
-  },
-  "karnataka-food-safety-department-gives-food-businesses-15-da": {
-    "firstSeen": "2026-08-25T19:40:42.663Z",
-    "signature": "",
-    "norm": 36
+    "norm": 33.9
   }
 }
