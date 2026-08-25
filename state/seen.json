@@ -1,151 +1,91 @@
 {
-  "delhi-s-weather-shocker-streets-turn-to-canals-as-red-alert-": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "alert|heavy rain|mla|red alert|shock|shock|shocker|sudden|visuals|weather",
-    "norm": 97.8
+  "on-cam-karnataka-mla-s-daughter-clashes-with-psi-at-temple-s": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "cctv|clash|clash|controversy|footage|mla|mp",
+    "norm": 75.9
   },
-  "nia-searches-five-locations-in-cyberattack-case-during-op-si": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "attack|attack|maharashtra|mp|terror|terror",
-    "norm": 86.9
+  "luxury-cars-crorepati-flats-stocks-nothing-survives-gurgaon-": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "crore|flood|flood|floods|stocks",
+    "norm": 72
   },
-  "revanth-slams-centre-over-denial-of-nod-for-us-tour": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "attack|attack|bjp|chief minister|minister|slam|slams",
-    "norm": 80.8
+  "vinod-tawde-s-up-mission-100-seat-challenge-alliances-a-yogi": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "alliance|election|election|mla|modi|modi|mp|yogi",
+    "norm": 70.4
   },
-  "amit-shah-tells-security-brass-to-act-tough-against-infiltra": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "amit shah|mp|policy|terror|terror",
-    "norm": 73.6
+  "why-has-maharashtra-drafted-a-law-to-rein-in-coaching-centre": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "bill|maharashtra|mp",
+    "norm": 59.7
   },
-  "july-20-cjp-protest-no-separate-probe-into-claims-of-sexual-": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "exam|protest|protest|supreme court",
-    "norm": 72.9
-  },
-  "congress-slams-centre-over-report-on-800-000-vacancies-in-po": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "congress|mp|opposition|rajya sabha|slam|slams",
-    "norm": 69.6
-  },
-  "india-defends-no-questions-media-request-for-modi-trump-meet": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "modi|modi|mp|trump|trump",
-    "norm": 68.6
-  },
-  "cid-probes-multi-state-10k-crore-chit-fund-fraud": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "crore|fraud|fund|investor|war",
-    "norm": 68.6
-  },
-  "trump-spoke-with-pak-army-chief-last-week-ahead-of-iran-visi": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "army|iran|mp|pakistan|trump|trump",
-    "norm": 68
-  },
-  "min-to-face-action-over-daughter-s-remark-on-cm": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "chief minister|congress|ipl|minister",
-    "norm": 63.5
-  },
-  "after-exit-will-former-tata-sons-chief-chandrasekaran-get-a-": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "cabinet|modi|modi|mp",
-    "norm": 63.5
-  },
-  "rain-hobbles-delhi-ncr-again-as-flooding-chokes-roads-and-tr": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "flood|flood|weather",
-    "norm": 63.2
-  },
-  "us-supreme-court-clears-way-for-trump-s-mail-voting-plan-ahe": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "mp|ruling|supreme court|trump|trump",
-    "norm": 62.9
-  },
-  "iphone-row-or-family-discord-what-really-led-to-maharashtra-": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "maharashtra|row|tragedy",
-    "norm": 62.9
-  },
-  "concern-in-bjp-over-renewed-outreach": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "bjp|protest|protest",
-    "norm": 62.8
-  },
-  "mk-stalin-moves-madras-hc-over-kolathur-poll-defeat-alleges-": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "election|election|poll",
-    "norm": 61.4
-  },
-  "actor-ex-bjp-leader-devan-says-tvk-offered-him-top-post-in-k": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "actor|bjp|chief minister|minister|president",
-    "norm": 61.1
-  },
-  "bmc-storms-mumbai-s-posh-high-rise-flats-demolishes-unauthor": {
-    "firstSeen": "2026-08-25T01:48:02.442Z",
-    "signature": "row|storm",
-    "norm": 59.3
-  },
-  "sc-seeks-centre-reply-on-plea-for-mechanism-against-csam": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "deal|mp|supreme court",
-    "norm": 59.3
-  },
-  "elon-musk-s-power-warning-raises-a-tough-question-for-india-": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "war|warning",
-    "norm": 57.6
-  },
-  "vijayan-should-be-accommodative-says-d-raja-amid-dy-lop-post": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "opposition|row",
-    "norm": 57.1
-  },
-  "iran-vows-to-retaliate-after-u-s-widens-sanctions": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "iran|sanction",
+  "-not-integral-to-islam-hc-junks-up-girl-s-plea-for-allowing-": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "high court|slam",
     "norm": 55.4
   },
-  "delhi-ncr-rain-parts-of-capital-on-red-alert-as-heavy-shower": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "alert|red alert|storm",
-    "norm": 54.9
+  "fake-airline-jobs-real-call-centre-six-arrested-for-duping-j": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "iran|jobs",
+    "norm": 55.4
   },
-  "-structural-differences-have-not-disappeared-chinese-strateg": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "border|china",
-    "norm": 48.7
+  "shillong-teer-result-today-august-25-2026-check-winning-numb": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "khan|result",
+    "norm": 53.9
   },
-  "rape-convict-gurmeet-ram-rahim-walks-out-of-prison-on-21-day": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "ipl",
+  "lessons-from-jantar-mantar-delhi-police-s-ten-commandments-o": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "-hire-and-train-americans-jd-vance-defends-proposed-six-figu": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "minister|mp|president",
+    "norm": 50.9
+  },
+  "crpf-man-injured-as-fresh-gunfight-arson-hit-manipur": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "injured",
     "norm": 46.3
   },
-  "sc-declines-to-list-tejpal-s-appeal-until-surrender-plea-is-": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "supreme court",
+  "-hijab-not-essential-to-islam-allahabad-hc-rejects-student-s": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "slam",
+    "norm": 46.3
+  },
+  "national-security-guard-launches-first-all-women-commando-co": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "mumbai-only-indian-city-in-global-work-from-anywhere-index-a": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "gta-6-cyberleek-update-all-leaks-released-monday-and-over-th": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
-    "signature": "fpi",
-    "norm": 44
+  "keralites-to-do-list-during-onam-now-features-leisure-travel": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "budget",
+    "norm": 45.9
   },
-  "indian-origin-ex-ceo-pays-1-8-million-to-resolve-case-of-fal": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
+  "anthropic-s-job-interview-has-one-question-you-cannot-prepar": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
     "signature": "mp",
     "norm": 44
   },
-  "rape-convict-ram-rahim-gets-21-day-parole-17th-since-2017-co": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
+  "beggars-vagrants-lose-separate-category-in-census-2027-to-be": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
+    "signature": "",
+    "norm": 36
+  },
+  "gurmeet-ram-rahim-gets-21-day-furlough": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
     "signature": "",
     "norm": 33.9
   },
-  "dera-chief-ram-rahim-granted-21-day-parole-his-17th-release-": {
-    "firstSeen": "2026-08-25T03:08:44.286Z",
+  "rape-murder-convict-ram-rahim-walks-out-of-jail-on-a-21-day-": {
+    "firstSeen": "2026-08-25T04:49:43.290Z",
     "signature": "",
     "norm": 33.9
   }
