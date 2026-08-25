@@ -1,205 +1,145 @@
 {
+  "maharashtra-government-scraps-age-limit-for-tribal-hostels-a": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "bjp|congress|maharashtra|protest|protest|rahul gandhi",
+    "norm": 78.8
+  },
+  "former-cds-reveals-how-indian-drone-accidentally-hit-pakista": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "accident|defence|drone|iran|pakistan",
+    "norm": 76.8
+  },
   "-cut-kumbh-fund-for-schools-sc-judge-s-remark-sparks-why-tar": {
     "firstSeen": "2026-08-25T16:50:52.012Z",
     "signature": "fire|fire|fund|storm|supreme court",
-    "norm": 75.9
+    "norm": 74.3
   },
-  "pm-modi-reviews-cyber-fraud-cases-calls-for-targeted-awarene": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "fraud|modi|modi|scam|war",
-    "norm": 75.1
+  "37-year-old-man-jumps-to-death-from-fourth-floor-of-delhi-s-": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "death|exam|mp|star",
+    "norm": 74.2
   },
-  "india-s-drone-hit-pakistan-s-kirana-hills-gen-anil-chauhan-r": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "defence|drone|fuel|iran|pakistan",
-    "norm": 74.9
+  "rlm-jd-u-clash-over-nitish-s-legacy-in-bihar": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "clash|clash|president|slam|slams",
+    "norm": 70.5
   },
   "did-india-hit-pakistan-s-kirana-hills-nuclear-hub-during-op-": {
     "firstSeen": "2026-08-25T16:50:52.012Z",
     "signature": "iran|pakistan|war",
-    "norm": 67.6
-  },
-  "asian-games-tennis-row-deepens-as-aita-rebuts-sai-s-omission": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "election|election|row",
-    "norm": 67.6
-  },
-  "canada-to-impose-up-to-50-tariffs-on-700-us-goods-as-trade-w": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "match|mp|war",
-    "norm": 67.6
-  },
-  "historic-batman-begins-wayne-manor-faces-seizure-over-repair": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "dead|dead|mp",
     "norm": 66
   },
-  "p-v-anvar-blames-udf-for-poll-defeat-in-beypore-after-kozhik": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "congress|election|election|mla|poll",
-    "norm": 64.6
+  "3-yr-old-s-rape-murder-near-bihar-border-fuels-death-penalty": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "border|death|fuel",
+    "norm": 63.9
   },
-  "jadavpur-university-graffiti-row-free-speech-or-glorificatio": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "controversy|israel|row",
-    "norm": 64.5
-  },
-  "rise-in-somali-pirate-attacks-and-a-shift-towards-red-sea-ro": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "attack|attack|war",
-    "norm": 62.9
-  },
-  "stone-pelting-lathi-charge-water-cannons-mark-students-prote": {
-    "firstSeen": "2026-08-25T15:55:10.876Z",
-    "signature": "protest|protest|row|video",
-    "norm": 60.8
-  },
-  "-will-defend-interests-china-puts-us-on-notice-after-new-san": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "china|iran|sanction",
+  "karnataka-minister-flags-proposed-bengaluru-parking-fee-of-u": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "minister|mla|row",
     "norm": 59.7
   },
-  "technical-fault-in-mumbai-metro-station-lift-traps-passenger": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "accident|rescue|rescue",
-    "norm": 57.9
-  },
-  "will-place-bidadi-township-land-acquisition-award-before-cou": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "acquisition|war",
-    "norm": 57.1
-  },
-  "17-nehs-employee-mitra-helpdesks-to-be-set-up-at-super-speci": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "hospital|mp",
-    "norm": 57.1
-  },
-  "rahul-gandhi-wades-into-kriti-sanon-kangana-ranaut-instagram": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "instagram|mp|rahul gandhi",
-    "norm": 56.1
-  },
-  "kakinada-mp-calls-for-death-penalty-in-family-suicide-case": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "death|mp",
-    "norm": 55.4
-  },
-  "fiio-s-retro-modern-amp-takes-inspiration-from-the-golden-er": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "gold|mp",
-    "norm": 55.4
-  },
-  "nasa-s-4-billion-roman-telescope-to-map-2-billion-galaxies-a": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "bill|billion",
-    "norm": 55
-  },
-  "wearing-a-headscarf-has-not-been-established-as-an-essential": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "record|slam",
-    "norm": 54.2
+  "karnataka-chief-minister-holds-meeting-with-party-legislator": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "chief minister|minister|vote",
+    "norm": 52.7
   },
   "sc-takes-up-abhishek-banerjee-s-plea-seeking-action-against-": {
     "firstSeen": "2026-08-25T16:50:52.012Z",
     "signature": "defection|mp|supreme court",
-    "norm": 52.7
+    "norm": 50.9
   },
-  "kharge-rahul-gandhi-write-to-pm-seek-fresh-questionnaire-for": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "rahul gandhi|record",
-    "norm": 52
+  "nsa-ajit-doval-stresses-peace-and-tranquillity-at-25th-india": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "border|china",
+    "norm": 50.5
   },
-  "ex-consultant-dies-by-suicide-at-le-meridien-hotel-in-delhi-": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "mp|sharma",
-    "norm": 51.7
+  "mv-ocean-winner-empty-lifeboat-located-in-bay-of-bengal-22-c": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "china|mp",
+    "norm": 48.7
   },
   "-let-s-inspect-1-000-schools-each-in-gujarat-punjab-arvind-k": {
     "firstSeen": "2026-08-25T16:50:52.012Z",
     "signature": "bjp|kejriwal",
-    "norm": 50.5
+    "norm": 48.7
   },
   "india-china-look-to-advance-border-delimitation-in-beijing-t": {
     "firstSeen": "2026-08-25T16:50:52.012Z",
     "signature": "border|china",
-    "norm": 50.5
+    "norm": 48.7
   },
-  "ohio-sophomore-wins-ai-leadership-award-for-nonprofit-helpin": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "gurugram-administration-takes-big-action-for-school-buses-am": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "heavy rain",
+  "israeli-military-sent-us-universities-millions-for-weapons-r": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "israel",
     "norm": 46.3
   },
-  "50-bed-critical-care-unit-inaugurated-at-government-general-": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "hospital",
-    "norm": 46.3
+  "uttar-pradesh-cabinet-approves-lifelong-free-bus-travel-for-": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "cabinet",
+    "norm": 45.9
+  },
+  "a-p-star-hotels-association-calls-for-swift-reforms-to-boost": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "star",
+    "norm": 44.3
+  },
+  "congress-backs-women-s-right-to-choose-attire-says-bodily-au": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "congress",
+    "norm": 44
   },
   "affected-villagers-around-girivalam-path-request-tiruvannama": {
     "firstSeen": "2026-08-25T16:50:52.012Z",
     "signature": "tax",
-    "norm": 45.9
-  },
-  "keerthana-announces-new-industrial-parks-and-accommodation-f": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "minister",
     "norm": 44
   },
-  "who-was-aboard-mystery-us-aircraft-that-landed-in-russia-rep": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "mystery",
-    "norm": 40.7
+  "my-bharat-volunteer-applications-extended-until-august-27": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "",
+    "norm": 36
+  },
+  "mega-job-mela-in-a-p-s-chintapalli-on-august-27": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "",
+    "norm": 36
+  },
+  "au-invites-applications-for-final-phase-bba-admissions": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "",
+    "norm": 36
+  },
+  "h1n1-in-karnataka-4-428-cases-so-far-this-year-health-depart": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "",
+    "norm": 36
+  },
+  "a-p-u-k-sign-mou-to-strengthen-urban-infrastructure-develop-": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "women-s-andhra-premier-league-auction-held": {
+    "firstSeen": "2026-08-25T17:40:15.057Z",
+    "signature": "",
+    "norm": 33.9
   },
   "canals-desilted-before-water-release-from-mordhana-dam-in-ve": {
     "firstSeen": "2026-08-25T16:50:52.012Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
   "farmer-electrocuted-in-ranipet": {
     "firstSeen": "2026-08-25T16:50:52.012Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
   "boy-dies-in-tirupattur-after-swallowing-balloon": {
     "firstSeen": "2026-08-25T16:50:52.012Z",
     "signature": "",
-    "norm": 36
-  },
-  "cmc-performs-first-heart-transplant-in-vellore": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "",
-    "norm": 36
-  },
-  "anil-menon-sophie-adenot-conduct-spacewalk-outside-iss": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "",
-    "norm": 36
-  },
-  "why-urvashi-was-bengaluru-s-best-single-screen": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "",
-    "norm": 36
-  },
-  "postpone-census-to-first-hold-tripartite-talks-on-nrc-citize": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "",
-    "norm": 36
-  },
-  "punjab-govt-delivers-big-boost-to-adarsh-school-teachers-app": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "",
-    "norm": 36
-  },
-  "cwma-asks-karnataka-to-release-at-a-rate-of-9-000-cusecs-a-d": {
-    "firstSeen": "2026-08-25T16:50:52.012Z",
-    "signature": "",
     "norm": 33.9
   },
-  "bandi-sanjay-marks-upi-s-10th-anniversary-with-digital-payme": {
+  "cmc-performs-first-heart-transplant-in-vellore": {
     "firstSeen": "2026-08-25T16:50:52.012Z",
     "signature": "",
     "norm": 33.9
