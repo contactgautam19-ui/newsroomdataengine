@@ -1,121 +1,126 @@
 {
-  "iran-blacklists-indian-pakistani-ships-among-45-for-hormuz-v": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "attack|attack|iran|pakistan|threat|war",
-    "norm": 83.1
+  "14-infants-killed-in-fire-at-pakistan-s-islamabad-hospital-r": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "fan|fire|fire|hospital|killed|killed|pakistan|slam",
+    "norm": 89.5
+  },
+  "marathi-test-row-escalates-easy-test-video-viral-as-mumbai-d": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "clash|clash|protest|protest|row|twist|video|viral|viral|viral|viral video",
+    "norm": 87.9
+  },
+  "gurugram-waterlogging-sparks-outrage-residents-opposition-qu": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "anger|mp|opposition|outrage|video|viral|viral|viral",
+    "norm": 86.4
+  },
+  "trump-sends-saudi-nuclear-deal-to-congress-keeps-israel-norm": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "congress|deal|israel|mp|trump|trump",
+    "norm": 75
+  },
+  "-she-s-wearing-hijab-on-her-head-not-on-mind-owaisi-says-all": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "attack|attack|ruling|slam",
+    "norm": 72.6
   },
   "-do-you-swim-with-full-suit-coat-kiren-rijiju-fires-back-at-": {
     "firstSeen": "2026-08-26T04:51:19.009Z",
     "signature": "congress|fire|fire|mp|rajya sabha|video",
-    "norm": 71.6
-  },
-  "-they-had-gone-towards-sargodha-ex-navy-officer-backs-ex-cds": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "defence|iran|navy|war",
     "norm": 70
   },
-  "satya-nadella-s-record-pay-signals-microsoft-s-ai-cloud-grow": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "mp|record|row|unprecedented|war",
-    "norm": 69
+  "pok-s-skardu-airbase-india-s-next-target-after-sargodha-ex-c": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "pakistan|terror|terror",
+    "norm": 67.6
   },
   "villagers-in-telangana-wage-a-war-to-protect-75-year-old-pee": {
     "firstSeen": "2026-08-26T04:51:19.009Z",
     "signature": "mp|protest|protest|war",
     "norm": 66.3
   },
-  "jailed-karnataka-officer-found-with-girlfriend-during-surpri": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "hospital|iran|record|surprise",
-    "norm": 66
+  "-attack-on-islam-owaisi-criticises-allahabad-hc-order-on-hij": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "attack|attack|slam",
+    "norm": 64.5
   },
-  "delhi-man-vacations-at-five-star-udaipur-hotel-with-family-l": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "bill|lakh|star",
-    "norm": 62.1
+  "ex-cds-on-how-india-pak-ceasefire-info-leaked-to-us-before-i": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "fire|fire|pakistan",
+    "norm": 62.8
   },
-  "gurugram-s-rain-woes-iffco-chowk-road-caves-in-dry-taps-floo": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "flood|flood|heavy rain",
-    "norm": 59.6
-  },
-  "karnataka-minister-b-nagendra-offers-to-resign-over-corrupti": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "bjp|crore|minister",
-    "norm": 59.3
-  },
-  "-once-the-pakistanis-picked-up-the-phone-former-cds-anil-cha": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "ipl|pakistan",
-    "norm": 55.4
-  },
-  "test-cricketer-forced-to-retire-at-27-due-to-concussions-sue": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "cricket|cricketer",
-    "norm": 53.9
+  "kakinada-gateway-port-set-to-be-commissioned-by-early-2027": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "crore|mp",
+    "norm": 55
   },
   "shillong-teer-result-today-august-26-2026-check-winning-numb": {
     "firstSeen": "2026-08-26T04:51:19.009Z",
     "signature": "khan|result",
     "norm": 53.9
   },
-  "h1n1-in-india-a-seasonal-surge-not-a-new-strain-says-icmr": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "maharashtra|record",
+  "dolly-parton-s-iconic-cowboys-halftime-show-why-it-remains-u": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "fan|mp",
+    "norm": 53.5
+  },
+  "man-dies-after-village-headman-in-uttar-pradesh-opens-fire-a": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "fire|fire",
     "norm": 52.4
   },
-  "-partners-not-competitors-ajit-doval-wang-yi-hold-boundary-t": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "border|mp|president",
+  "rebel-tmc-mps-get-notices-from-lok-sabha-secretariat-on-disq": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "lok sabha|mp|supreme court",
     "norm": 50.9
   },
-  "karnataka-minister-nagendra-offers-to-resign-from-dks-cabine": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "cabinet|minister",
+  "lok-sabha-secretariat-notice-to-20-rebel-tmc-mps-on-disquali": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "lok sabha|mp",
     "norm": 50.5
   },
-  "up-s-sweet-surplus-can-meet-india-s-sugar-needs-for-2-months": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "lakh|stocks",
-    "norm": 50.5
-  },
-  "whatsapp-tightens-account-security-with-new-safety-features-": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "ipl",
-    "norm": 48.2
+  "who-is-anja-jenko-luka-doncic-s-night-out-sparks-dating-buzz": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "instagram|star",
+    "norm": 46.3
   },
   "no-one-should-engage-in-narrow-politics-mayawati-on-hijab-ro": {
     "firstSeen": "2026-08-26T04:51:19.009Z",
     "signature": "row",
     "norm": 46.3
   },
-  "andhra-junior-doctors-temporarily-call-off-strike-asks-govt-": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "mp",
-    "norm": 45.9
+  "-vacate-within-6-weeks-high-court-orders-three-slum-clusters": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "high court",
+    "norm": 44
   },
-  "was-skardu-airbase-next-after-sargodha-ex-cds-reveals-why-in": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
+  "nyc-mayor-mamdani-opposes-rss-chief-bhagwat-s-madison-square": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
     "signature": "",
     "norm": 36
   },
-  "epf-vs-equities-5-things-to-know-before-choosing-your-retire": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
+  "user-charges-at-hyderabad-airport-cut-by-30-sets-new-tariff-": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "",
+    "norm": 36
+  },
+  "six-militants-involved-in-extortion-kidnapping-arrested-in-m": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
+    "signature": "",
+    "norm": 36
+  },
+  "bournvita-maker-acts-after-notice-as-fssai-steps-up-crackdow": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
     "signature": "",
     "norm": 33.9
   },
-  "bank-holiday-today-are-banks-open-or-closed-on-august-26-che": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
+  "-indian-rhino-chungreng-koren-finds-his-way-back-with-ufc-co": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
     "signature": "",
     "norm": 33.9
   },
-  "international-community-must-work-collectively-to-safeguard-": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "eid-e-milad-2026-traffic-restrictions-check-diversions-road-": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
+  "muthanga-eviction-was-a-bid-to-crush-the-adivasi-movement-ge": {
+    "firstSeen": "2026-08-26T05:45:36.978Z",
     "signature": "",
     "norm": 33.9
   }
