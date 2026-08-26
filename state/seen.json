@@ -1,121 +1,206 @@
 {
-  "rahul-slams-bihar-govt-over-ak-47-firing-on-students-protest": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "bjp|exam|protest|protest|rahul gandhi|slam|slams",
-    "norm": 82.4
+  "nepal-floods-pm-modi-speaks-to-balendra-shah-offers-humanita": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "border|devastat|flood|flood|floods|modi|modi|sudden",
+    "norm": 95.6
   },
-  "rise-in-sugar-prices-take-a-toll-on-west-bengal-s-sweet-indu": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "mp|price|prices|toll|war",
-    "norm": 79.4
+  "105-indians-among-400-kailash-yatra-pilgrims-missing-in-nepa": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "border|crash|crash|dead|dead|flood|flood|floods|video",
+    "norm": 89.8
   },
-  "nepal-flash-floods-live-several-feared-dead-india-to-send-re": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
+  "how-hegseth-s-purge-triggered-a-us-army-leadership-crisis-as": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "army|attack|attack|drone|iran|mp|war",
+    "norm": 89.4
+  },
+  "nepal-flash-floods-live-19-dead-over-100-indian-missing-in-n": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "dead|dead|flood|flood|floods|rescue|rescue|sudden",
+    "norm": 81.4
+  },
+  "bjp-s-promise-of-achche-din-has-wrecked-the-common-man-s-kit": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "bjp|budget|congress|modi|modi|price|prices|vote",
+    "norm": 78.5
+  },
+  "nepal-flash-floods-live-at-least-18-feared-dead-over-350-mis": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
     "signature": "dead|dead|fear|flood|flood|floods",
     "norm": 77.3
   },
-  "nepal-flash-flood-105-indians-missing-modi-govt-to-send-reli": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "border|flood|flood|modi|modi",
-    "norm": 76.8
+  "ice-avalanche-glacial-lake-or-earthquake-what-triggered-nepa": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "dead|dead|earthquake|earthquake|flood|flood|floods",
+    "norm": 77.3
   },
-  "-india-stands-in-solidarity-pm-modi-offers-aid-to-pm-balen-s": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
+  "ht-evening-news-brief-aug-26-india-slams-un-over-report-giva": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "backlash|flood|flood|floods|row|slam|slams",
+    "norm": 77
+  },
+  "nepal-floods-amit-shah-assures-all-possible-help-as-gandak-s": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "alert|amit shah|flood|flood|floods|minister",
+    "norm": 74.4
+  },
+  "-india-stands-in-solidarity-pm-modi-speaks-to-pm-balen-shah-": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
     "signature": "flood|flood|modi|modi",
-    "norm": 72.9
+    "norm": 71.4
   },
-  "-stand-in-solidarity-pm-modi-speaks-to-nepal-s-balen-shah-of": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "flood|flood|modi|modi",
-    "norm": 72.9
+  "over-72-roads-blocked-by-boulder-falls-as-uttarakhand-braces": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "heavy rain|khan|storm|war",
+    "norm": 69.7
   },
-  "-played-competitive-matches-against-boys-pak-skipper-reveals": {
-    "firstSeen": "2026-08-26T10:47:50.615Z",
-    "signature": "captain|cricket|match|mp|pakistan",
-    "norm": 71.7
+  "bihar-government-using-police-to-evade-accountability-says-r": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "congress|exam|mp|rahul gandhi|recruitment",
+    "norm": 68.6
   },
-  "-get-this-started-or-cjp-warns-delhi-cm-rekha-gupta-over-con": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "mp|star|war",
-    "norm": 64.2
+  "in-nepal-floods-glacial-lake-link-and-flashback-to-last-year": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "flood|flood|floods|tragedy",
+    "norm": 68.4
   },
-  "cash-buyers-dominated-the-us-housing-boom-now-financed-buyer": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "mp|price|row",
-    "norm": 63.9
+  "indian-c-130-jet-ready-to-leave-for-nepal-flood-relief-ops-i": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "disaster|flood|flood|rescue|rescue",
+    "norm": 63.4
   },
-  "-no-discussion-regarding-resignation-karnataka-minister-b-na": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "controversy|minister|mp",
-    "norm": 59.7
+  "in-apocalyptic-video-scores-of-people-engulfed-by-nepal-flas": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "cctv|flood|flood|floods|footage|video",
+    "norm": 62.9
   },
-  "madras-high-court-orders-release-of-185-crore-for-eradicatin": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "crore|fund|high court",
-    "norm": 57.6
+  "bihar-uttar-pradesh-on-high-alert-as-nepal-flash-flood-wreak": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "alert|flood|flood",
+    "norm": 59.6
   },
-  "ima-issues-public-health-advisory-as-swine-flu-cases-surge-c": {
-    "firstSeen": "2026-08-26T10:47:50.615Z",
-    "signature": "alert|mp",
+  "six-of-family-found-dead-in-vijayapura-lake": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "dead|dead",
+    "norm": 59.3
+  },
+  "bomb-threat-letter-found-on-bengaluru-bound-indigo-flight-de": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "bomb|threat",
+    "norm": 59.3
+  },
+  "rolex-watch-louis-vuitton-scarf-and-rs-50-haircut-bjp-questi": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "bjp|mp|watch",
+    "norm": 56.4
+  },
+  "tamil-nadu-government-appoints-ministers-in-charge-monitorin": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "disaster|minister",
     "norm": 55.4
   },
-  "ndmc-apologises-for-waterlogging-after-unexpected-heavy-rain": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "heavy rain|record|unexpected",
-    "norm": 55.4
+  "watch-gangajal-in-hand-up-councillors-take-oath-to-share-civ": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "fund|video|watch",
+    "norm": 55
   },
-  "yash-s-toxic-beats-ranveer-singh-s-dhurandhar-opening-day-ha": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "backlash|crore",
-    "norm": 55.4
+  "b-nagendra-likely-to-quit-ministry-as-congress-seeks-to-defu": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "chief minister|congress|minister|opposition",
+    "norm": 53.9
   },
-  "india-set-ups-emergency-helpline-after-nepal-flash-flood-che": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "flood|flood",
-    "norm": 54.2
+  "paniit-summit-to-focus-on-deeptech-ai-and-investment-in-andh": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "chief minister|minister|summit",
+    "norm": 52.7
   },
-  "nepal-flash-flood-at-least-50-pilgrims-from-tamil-nadu-stran": {
-    "firstSeen": "2026-08-26T10:47:50.615Z",
-    "signature": "flood|flood",
-    "norm": 54.2
+  "rahul-gandhi-asked-pawan-khera-to-target-himanta-before-assa": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "congress|poll|rahul gandhi",
+    "norm": 50.9
   },
-  "north-american-crayfish-introduced-to-britain-now-threaten-n": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "threat",
+  "dashboard-to-track-groundwater-recharge-projects-in-state-so": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "minister|mp",
+    "norm": 50.5
+  },
+  "danish-firms-ready-to-pay-premium-to-build-ships-in-india-de": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "china|mp",
+    "norm": 48.7
+  },
+  "sukesh-chandrasekhar-convicted-for-posing-as-supreme-court-j": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "mp|supreme court",
+    "norm": 48.7
+  },
+  "piyush-goyal-to-visit-us-for-g20-trade-ministers-meet-in-sep": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "g20|minister",
+    "norm": 48.7
+  },
+  "leopard-sighting-causes-panic-in-village-near-bailhongal": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "panic",
     "norm": 48.2
   },
-  "madrasas-run-from-hostile-countries-bluetooth-chat-apps-gig-": {
-    "firstSeen": "2026-08-26T10:47:50.615Z",
-    "signature": "blast",
-    "norm": 46.3
+  "india-vs-sri-lanka-a-hold-the-choke-and-then-the-frustrating": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "india vs",
+    "norm": 48.2
   },
-  "telangana-ucbs-get-rbi-praise-for-response-to-saksham": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "rbi",
+  "from-800-to-3-000-onam-sadyas-gets-pricier-in-bengaluru": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "price",
     "norm": 45.9
   },
-  "builder-told-to-pay-rs-6-cr-to-housing-society-over-delay-in": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "crore",
+  "should-cm-s-remarks-on-corruption-at-dpcs-be-treated-like-fi": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "film",
+    "norm": 44.3
+  },
+  "cec-gyanesh-kumar-to-chair-regional-conference-on-electoral-": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "vote",
     "norm": 44
   },
-  "rhode-island-woman-left-family-farm-to-become-a-300-acre-wil": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
-    "signature": "watch",
-    "norm": 40.7
+  "2nd-test-rain-delays-india-s-impending-series-victory-over-s": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "mettur-dam-likely-to-be-opened-by-tamil-nadu-cm-vijay-on-aug": {
-    "firstSeen": "2026-08-26T11:38:57.162Z",
+  "karnataka-high-court-quashes-charges-against-kodagu-homestay": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "high court",
+    "norm": 44
+  },
+  "electors-receive-notices-some-for-50-age-gap-between-self-an": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "video",
+    "norm": 42.7
+  },
+  "chennai-canvas-madras-week-episode-4-how-cinema-became-part-": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "movie",
+    "norm": 42.4
+  },
+  "us-visa-changes-in-2026-how-they-affect-indians-phase-wise-b": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
     "signature": "",
     "norm": 36
   },
-  "hyderabad-police-commissioner-wishes-public-on-milad-un-nabi": {
-    "firstSeen": "2026-08-26T10:47:50.615Z",
+  "buckingham-canal-back-in-the-limelight": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
     "signature": "",
     "norm": 36
   },
-  "muthanga-eviction-was-a-bid-to-crush-the-adivasi-movement-ge": {
-    "firstSeen": "2026-08-26T10:47:50.615Z",
+  "canals-desilted-before-water-release-from-mordhana-dam-in-ve": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "india-uk-in-final-stages-of-signing-major-missile-pact-order": {
+    "firstSeen": "2026-08-26T13:11:30.187Z",
     "signature": "",
     "norm": 33.9
   }
