@@ -1,186 +1,131 @@
 {
-  "youth-vote-and-its-electoral-impact": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "bjp|election|election|exam|mp|protest|protest|result|results|results|vote",
-    "norm": 87
+  "massive-floods-sweep-through-nepal-several-districts-put-on-": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "alert|army|border|china|died|flood|flood|floods|rescue|rescue|sudden",
+    "norm": 92.8
   },
-  "pm-modi-s-instagram-engagement-up-289-9-rahul-gandhi-sees-18": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
+  "row-erupts-in-maharashtra-as-opposition-slams-cm-fadnavis-ov": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "exam|maharashtra|mp|opposition|recruitment|row|slam|slams",
+    "norm": 84.5
+  },
+  "cjp-stir-changes-the-political-feed-pm-modi-s-instagram-enga": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
     "signature": "instagram|modi|modi|mp|rahul gandhi|row",
-    "norm": 80
+    "norm": 78.5
   },
-  "china-defies-trump-pressure-vows-to-protect-economic-ties-wi": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "china|iran|mp|row|trump|trump",
-    "norm": 76.9
+  "h1n1-surge-ima-urges-caution-warns-against-self-medication-w": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "viral|viral|viral|war",
+    "norm": 68.4
   },
-  "karnataka-minister-b-nagendra-dismisses-resignation-reports-": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "bjp|cabinet|crore|minister|mp|scam",
-    "norm": 72.6
+  "six-killed-12-injured-as-hyderabad-eluru-electric-bus-rams-i": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "accident|injured|killed|killed",
+    "norm": 65.5
   },
-  "attachment-of-properties-under-tanpid-act-will-take-preceden": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "fraud|high court|rescue|rescue",
-    "norm": 71.4
+  "from-vibrant-pookkalams-to-traditional-feasts-keralites-arou": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "chief minister|minister|modi|modi|president|prime minister",
+    "norm": 65.1
   },
-  "pakistan-on-high-alert-near-loc-chinese-turkish-aircraft-rep": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "alert|drone|ipl|pakistan",
-    "norm": 71.4
+  "savannah-police-audits-39-000-flock-searches-6-employees-fir": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "fire|fire|mp",
+    "norm": 62.8
   },
-  "-be-ready-for-cockroaches-cjp-renews-sept-5-protest-call-ove": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "minister|mp|protest|protest",
-    "norm": 65.3
-  },
-  "house-price-growth-slows-to-3-6-in-q1-fy27-says-rbi-what-s-d": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "price|rbi|row",
+  "cockroaches-flies-expired-food-posh-delhi-hotels-booked-for-": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "brics|riot|summit",
     "norm": 61.4
   },
-  "us-singer-slams-zohran-mamdani-over-rss-chief-mohan-bhagwat-": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "singer|slam|slams",
-    "norm": 59.4
-  },
-  "mg-hector-tomahawk-launched-prices-range-amp-more": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "mp|price|prices",
-    "norm": 59.3
-  },
-  "five-killed-after-speeding-car-runs-over-people-performing-k": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "killed|killed",
-    "norm": 57.6
+  "blue-coloured-baby-socks-in-ad-prompts-action-against-ivf-ce": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "election|election|mp",
+    "norm": 61.4
   },
   "piyush-goyal-proposes-india-japan-shark-tank-style-startup-s": {
     "firstSeen": "2026-08-26T07:56:52.628Z",
     "signature": "minister|mp|star",
-    "norm": 56.1
+    "norm": 57.9
   },
-  "meet-nimaya-williams-one-of-just-two-us-students-to-win-40-0": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
+  "new-pigment-free-coating-stays-6-c-cooler-than-surrounding-a": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
     "signature": "mp|war",
+    "norm": 57.1
+  },
+  "hal-safran-seal-engine-deal-to-power-multi-role-choppers": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "deal|war",
     "norm": 55.4
   },
-  "loitering-munition-may-have-hit-kirana-hills-during-operatio": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "iran|pakistan",
-    "norm": 55.4
+  "a-new-right-of-way-what-andhra-pradesh-s-pedestrian-policy-m": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "fund|policy",
+    "norm": 53.2
   },
-  "maharashtra-s-food-nayak-and-a-history-of-25-transfers-but-z": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "maharashtra|mp",
-    "norm": 55.4
+  "h1n1-in-india-a-seasonal-surge-not-a-new-strain-says-icmr": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "maharashtra|record",
+    "norm": 52.4
   },
-  "delays-in-infrastructure-projects-cost-more-halt-benefits-pm": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "modi|modi",
-    "norm": 55.4
-  },
-  "chennai-couple-accused-of-cheating-man-of-1-crore-arrested-a": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "crore|mp",
-    "norm": 55
-  },
-  "pakistan-stepping-up-border-surveillance-turkish-bayraktar-t": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "border|drone|pakistan",
-    "norm": 54.7
-  },
-  "-brazen-misuse-of-powers-sc-judge-sandeep-mehta-urges-cji-to": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "cji|sharma",
-    "norm": 53.5
-  },
-  "how-a-family-reunion-in-china-ended-in-a-3-year-prison-term-": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "china|unexpected",
-    "norm": 52
-  },
-  "us-singer-mary-millben-hits-back-at-mamdani-for-opposing-moh": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "opposition|singer",
-    "norm": 51.7
-  },
-  "karnataka-to-bar-political-affiliations-in-student-polls-fir": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "minister|poll",
+  "sp-promises-stree-samman-samriddhi-yojana-if-voted-to-power-": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "poll|vote",
     "norm": 50.5
   },
-  "kriti-sanon-s-rakhi-ad-pulled-by-jewellery-brand-after-contr": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "controversy",
+  "conman-sukesh-chandrasekhar-convicted-for-posing-as-supreme-": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "mp|supreme court",
+    "norm": 48.7
+  },
+  "six-bodies-found-in-vijayapura-lake": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "death",
     "norm": 46.3
   },
-  "how-unnoticed-sarawati-idol-78-in-mp-s-ujjain-museum-storage": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
+  "only-two-stanzas-no-more-full-vande-mataram-dk-shivakumar-sa": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "congress",
+    "norm": 45.9
+  },
+  "54-tunnels-131-bridges-111-km-rail-line-inside-manipur-s-jir": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "from-formulas-to-verses-retired-rajasthan-professor-brings-p": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "mp",
+  "yogi-adityanath-s-big-move-for-up-private-workers-free-healt": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "yogi",
     "norm": 45.9
   },
-  "seven-low-pressure-systems-but-little-rain-relief-for-andhra": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "fgg-urges-telangana-govt-to-establish-functional-town-planni": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "president",
-    "norm": 45.9
-  },
-  "6-500-year-old-human-tooth-found-in-serbian-museum-collectio": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "rbi",
+  "ncb-busts-cross-border-heroin-cartel-in-jammu-mastermind-amo": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
+    "signature": "border",
     "norm": 44
   },
-  "opinion-opinion-harry-and-meghan-are-already-annoying-britis": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "tax",
-    "norm": 44
-  },
-  "when-the-british-built-a-4-000-km-wall-of-thorns-across-indi": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "tax",
-    "norm": 44
-  },
-  "india-rejects-politically-motivated-malicious-references-in-": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
+  "gajapayana-flags-off-dasara-elephant-journey-abhimanyu-accor": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
     "signature": "",
     "norm": 36
   },
-  "raksha-bandhan-2026-why-does-this-up-village-skip-the-festiv": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
+  "india-japan-maritime-security-pact-what-the-new-memorandum-o": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
     "signature": "",
     "norm": 36
   },
-  "sonya-gill-aidwa-leader-and-women-s-rights-activist-dies-at-": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
+  "bodies-of-1-woman-5-children-found-in-karnataka-lake-probe-u": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
     "signature": "",
     "norm": 36
   },
-  "when-chennai-s-sea-food-edged-out-catch-from-rivers-estuarie": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "",
-    "norm": 36
-  },
-  "abhijeet-dipke-takes-jibe-at-cops-after-gwalior-man-made-to-": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
-    "signature": "",
-    "norm": 36
-  },
-  "stranded-for-11-months-7-indian-seafarers-repatriated-from-a": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
+  "deletions-in-karnataka-s-draft-sir-rolls-alarming-data": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
     "signature": "",
     "norm": 33.9
   },
-  "15-tonnes-of-adulterated-unhygienic-food-seized-from-hyderab": {
-    "firstSeen": "2026-08-26T07:56:52.628Z",
+  "at-22-000-feet-15-c-drdo-pulls-off-high-altitude-combat-para": {
+    "firstSeen": "2026-08-26T08:57:27.450Z",
     "signature": "",
     "norm": 33.9
   }
