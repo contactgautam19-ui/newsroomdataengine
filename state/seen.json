@@ -1,37 +1,147 @@
 {
-  "amid-student-protests-at-iit-delhi-police-register-abetment-": {
-    "firstSeen": "2026-08-26T01:53:55.635Z",
-    "signature": "death|mp|protest|protest",
-    "norm": 67.9
+  "rijiju-slams-khera-over-indecent-remarks-on-his-swimming-vid": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "chief minister|congress|ipl|minister|parliament|slam|slams|video|war|warning",
+    "norm": 95.8
   },
-  "let-july-20-probe-into-delhi-protest-kick-off-supreme-court-": {
-    "firstSeen": "2026-08-26T01:53:55.635Z",
-    "signature": "amit shah|minister|protest|protest|supreme court",
-    "norm": 67.3
+  "-it-didn-t-leak-from-us-ex-cds-hints-pakistan-may-have-leake": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "fire|fire|mp|pakistan|trump|trump",
+    "norm": 78.8
   },
-  "-vaccinated-against-rabies-giriraj-singh-takes-jibe-at-pawan": {
-    "firstSeen": "2026-08-26T01:53:55.635Z",
-    "signature": "bjp|congress|mp|rahul gandhi|row",
+  "parl-panel-set-to-discuss-use-of-force-on-neet-protesters": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "exam|neet|opposition|protest|protest",
+    "norm": 77.8
+  },
+  "six-killed-12-injured-as-speeding-bus-crashes-into-lorry-in-": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "accident|crash|crash|injured|killed|killed",
+    "norm": 76.3
+  },
+  "mazgaon-ganpati-row-danish-khan-threw-eggs-as-firecracker-sm": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "fire|fire|khan|row|smoke",
+    "norm": 72.7
+  },
+  "prakash-raj-to-join-september-1-civil-campaign-to-flag-flaws": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "actor|election|election|election commission|mp",
+    "norm": 70.3
+  },
+  "5-of-family-found-dead-in-srisailam-suicide-suspected": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "dead|dead|mp",
+    "norm": 67.6
+  },
+  "kharge-rahul-urge-pm-to-amend-caste-format-in-census-form": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "congress|lok sabha|minister|modi|modi|opposition|president|prime minister|rahul gandhi",
+    "norm": 65.5
+  },
+  "union-cabinet-approves-extradition-treaties-with-kenya-kazak": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "cabinet|minister|modi|modi|prime minister",
     "norm": 64.6
   },
-  "india-not-a-dharamshala-says-amit-shah-cites-threats-from-in": {
-    "firstSeen": "2026-08-26T01:53:55.635Z",
-    "signature": "amit shah|economy|threat",
-    "norm": 63.9
+  "ram-rahim-gets-another-furlough-akal-takht-slams-move": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "mp|outrage|slam|slams",
+    "norm": 63.4
   },
-  "-a-tricky-one-dravid-reveals-big-concern-over-vaibhav-soorya": {
-    "firstSeen": "2026-08-26T01:53:55.635Z",
-    "signature": "ipl|sooryavanshi",
-    "norm": 55.7
+  "team-nabin-done-modi-cabinet-next-12-vacancies-up-for-grabs-": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "cabinet|minister|modi|modi",
+    "norm": 61.8
   },
-  "-people-don-t-believe-me-ishan-kishan-on-his-love-for-red-ba": {
-    "firstSeen": "2026-08-26T01:53:55.635Z",
-    "signature": "cricket|ipl|match",
-    "norm": 54.9
+  "us-halts-visa-appointments-globally-amid-trump-s-immigration": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
   },
-  "centre-seeks-2-years-to-frame-obc-creamy-layer-criteria-supr": {
-    "firstSeen": "2026-08-26T01:53:55.635Z",
-    "signature": "mp|policy|supreme court",
+  "pm-modi-flags-quality-lapses-in-public-projects-asks-secreta": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "bjp-signals-solo-punjab-fight-but-some-eye-sad-tie-up": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "alliance|bjp|ruling",
     "norm": 52.7
+  },
+  "cjp-leaders-under-radar-intel-tracking-on-how-delhi-police-i": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "-they-opposed-ambedkar-s-constitution-wanted-manusmriti-owai": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "bjp|mp",
+    "norm": 48.7
+  },
+  "gujarat-boy-murdered-by-villager-amid-land-row-witchcraft-cl": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "pc-vishnunadh-we-will-lure-travellers-to-keralam-using-ayurv": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "gadkari-s-office-clarifies-on-his-generational-shift-remark": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "sc-closes-plea-on-cbse-osm-glitches": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "us-court-orders-guardant-health-to-pay-245-million-for-cance": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "verdict",
+    "norm": 44
+  },
+  "cbi-filed-a-record-1-005-cases-and-preliminary-enquires-in-2": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "record",
+    "norm": 42.7
+  },
+  "prarthana-theatre-where-stars-sparkled-on-screen-and-in-the-": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "man-kills-two-sisters-in-uttarakhand-days-before-raksha-band": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "happy-onam-2026-wishes-50-thiruvonam-images-messages-quotes-": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "",
+    "norm": 36
+  },
+  "fresh-catch-from-the-ocean-in-bengaluru": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "",
+    "norm": 36
+  },
+  "when-sea-food-edged-out-catch-from-river": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "madras-built-the-engine-chennai-is-shifting-gears": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "98-flu-cases-this-season-down-to-h1n1-icmr": {
+    "firstSeen": "2026-08-26T03:14:47.682Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
