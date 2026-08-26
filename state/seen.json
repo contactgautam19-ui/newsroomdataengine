@@ -1,151 +1,186 @@
 {
-  "-fire-brigade-for-washing-cars-bjp-mla-s-innova-seen-being-s": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "bjp|fire|fire|mla|mp|video|viral|viral|viral",
-    "norm": 90.3
+  "youth-vote-and-its-electoral-impact": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "bjp|election|election|exam|mp|protest|protest|result|results|results|vote",
+    "norm": 87
   },
-  "-achche-din-keep-wrecking-common-person-s-budget-congress-sl": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "bjp|budget|congress|modi|modi|president|slam|slams",
-    "norm": 86.9
+  "pm-modi-s-instagram-engagement-up-289-9-rahul-gandhi-sees-18": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "instagram|modi|modi|mp|rahul gandhi|row",
+    "norm": 80
   },
-  "-hijab-on-their-heads-not-minds-owaisi-calls-allahabad-hc-ru": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "attack|attack|high court|mp|ruling|slam",
+  "china-defies-trump-pressure-vows-to-protect-economic-ties-wi": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "china|iran|mp|row|trump|trump",
     "norm": 76.9
   },
-  "-tera-bhi-number-aayega-abhijeet-dipke-jokes-saurav-could-be": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "attack|attack|protest|protest",
-    "norm": 68.4
+  "karnataka-minister-b-nagendra-dismisses-resignation-reports-": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "bjp|cabinet|crore|minister|mp|scam",
+    "norm": 72.6
   },
-  "identify-eliminate-threats-before-they-grow-big-amit-shah-ur": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "amit shah|minister|mp|policy|row|threat",
-    "norm": 68
+  "attachment-of-properties-under-tanpid-act-will-take-preceden": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "fraud|high court|rescue|rescue",
+    "norm": 71.4
   },
-  "villagers-in-telangana-wage-a-war-to-protect-75-year-old-pee": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "mp|protest|protest|war",
-    "norm": 66.3
+  "pakistan-on-high-alert-near-loc-chinese-turkish-aircraft-rep": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "alert|drone|ipl|pakistan",
+    "norm": 71.4
   },
-  "-trace-and-deport-bombay-high-court-calls-for-joint-action-o": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "bomb|fraud|high court",
-    "norm": 66
+  "-be-ready-for-cockroaches-cjp-renews-sept-5-protest-call-ove": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "minister|mp|protest|protest",
+    "norm": 65.3
   },
-  "hijab-debate-news-allahabad-hc-ruling-owaisi-vs-bjp-religiou": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "bjp|high court|ipl|ruling",
-    "norm": 61.8
-  },
-  "us-halts-visa-appointments-globally-amid-donald-trump-s-immi": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "mp|trump|trump",
+  "house-price-growth-slows-to-3-6-in-q1-fy27-says-rbi-what-s-d": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "price|rbi|row",
     "norm": 61.4
   },
-  "ex-cds-on-how-india-pak-ceasefire-info-leaked-to-us-before-d": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "fire|fire|pakistan",
-    "norm": 61.1
+  "us-singer-slams-zohran-mamdani-over-rss-chief-mohan-bhagwat-": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "singer|slam|slams",
+    "norm": 59.4
   },
-  "-tera-bhi-number-aayega-dipke-jokes-saurav-das-next-in-line-": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "attack|attack",
+  "mg-hector-tomahawk-launched-prices-range-amp-more": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "mp|price|prices",
+    "norm": 59.3
+  },
+  "five-killed-after-speeding-car-runs-over-people-performing-k": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "killed|killed",
     "norm": 57.6
   },
-  "-840-cr-buttaigudem-kovvur-highway-upgradation-approved-for-": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
+  "piyush-goyal-proposes-india-japan-shark-tank-style-startup-s": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "minister|mp|star",
+    "norm": 56.1
+  },
+  "meet-nimaya-williams-one-of-just-two-us-students-to-win-40-0": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
     "signature": "mp|war",
     "norm": 55.4
   },
-  "2020-riots-tahir-hussain-moves-delhi-hc-on-conviction-in-ank": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "riot|sharma",
-    "norm": 53.9
+  "loitering-munition-may-have-hit-kirana-hills-during-operatio": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "iran|pakistan",
+    "norm": 55.4
   },
-  "shillong-teer-result-today-august-26-2026-check-winning-numb": {
-    "firstSeen": "2026-08-26T04:51:19.009Z",
-    "signature": "khan|result",
-    "norm": 53.9
+  "maharashtra-s-food-nayak-and-a-history-of-25-transfers-but-z": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "maharashtra|mp",
+    "norm": 55.4
   },
-  "sc-judge-seeks-transfer-of-rajasthan-hc-acting-chief-justice": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
+  "delays-in-infrastructure-projects-cost-more-halt-benefits-pm": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "chennai-couple-accused-of-cheating-man-of-1-crore-arrested-a": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "crore|mp",
+    "norm": 55
+  },
+  "pakistan-stepping-up-border-surveillance-turkish-bayraktar-t": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "border|drone|pakistan",
+    "norm": 54.7
+  },
+  "-brazen-misuse-of-powers-sc-judge-sandeep-mehta-urges-cji-to": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
     "signature": "cji|sharma",
     "norm": 53.5
   },
-  "gk-which-indian-chief-minister-went-to-an-ivy-league-univers": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "chief minister|minister|mp",
-    "norm": 50.9
+  "how-a-family-reunion-in-china-ended-in-a-3-year-prison-term-": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "china|unexpected",
+    "norm": 52
   },
-  "rebel-tmc-mps-get-notices-from-lok-sabha-secretariat-on-disq": {
-    "firstSeen": "2026-08-26T05:45:36.978Z",
-    "signature": "lok sabha|mp|supreme court",
-    "norm": 50.9
+  "us-singer-mary-millben-hits-back-at-mamdani-for-opposing-moh": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "opposition|singer",
+    "norm": 51.7
   },
-  "bjp-mp-rao-inderjit-singh-blames-congress-era-for-gurugram-r": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "bjp|congress|mp",
-    "norm": 50.9
+  "karnataka-to-bar-political-affiliations-in-student-polls-fir": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "minister|poll",
+    "norm": 50.5
   },
-  "aisa-backs-cjp-s-september-5-delhi-march-seeks-withdrawal-of": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "mp|president",
-    "norm": 48.7
+  "kriti-sanon-s-rakhi-ad-pulled-by-jewellery-brand-after-contr": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "controversy",
+    "norm": 46.3
   },
-  "in-1906-william-bancroft-began-buying-land-that-later-became": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "-i-m-not-a-celebrity-singham-mundhe-speaks-amid-ayub-s-crack": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "celebrity",
-    "norm": 44.3
-  },
-  "parandur-airport-project-what-happens-now-to-the-land-acquir": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "acquisition",
-    "norm": 44
-  },
-  "-bharat-mata-ki-jay-kangana-trolls-rahul-gandhi-s-smash-the-": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "rahul gandhi",
-    "norm": 44
-  },
-  "tatkal-ticket-booking-railone-vs-irctc-rail-connect-which-ap": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
+  "how-unnoticed-sarawati-idol-78-in-mp-s-ujjain-museum-storage": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "from-formulas-to-verses-retired-rajasthan-professor-brings-p": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "seven-low-pressure-systems-but-little-rain-relief-for-andhra": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "fgg-urges-telangana-govt-to-establish-functional-town-planni": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "president",
+    "norm": 45.9
+  },
+  "6-500-year-old-human-tooth-found-in-serbian-museum-collectio": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "rbi",
     "norm": 44
   },
-  "firstpost-launches-firstpost-flaunt-a-new-destination-for-lu": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
-    "signature": "watch",
-    "norm": 42.7
+  "opinion-opinion-harry-and-meghan-are-already-annoying-britis": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "tax",
+    "norm": 44
   },
-  "muthanga-eviction-was-a-bid-to-crush-the-adivasi-movement-ge": {
-    "firstSeen": "2026-08-26T05:45:36.978Z",
+  "when-the-british-built-a-4-000-km-wall-of-thorns-across-indi": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "tax",
+    "norm": 44
+  },
+  "india-rejects-politically-motivated-malicious-references-in-": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
     "signature": "",
     "norm": 36
   },
-  "moefcc-urges-ngt-to-direct-states-to-submit-annual-plan-of-o": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
+  "raksha-bandhan-2026-why-does-this-up-village-skip-the-festiv": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
     "signature": "",
     "norm": 36
   },
-  "u-s-ambassador-hosts-business-roundtable-in-hyderabad-to-dri": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
+  "sonya-gill-aidwa-leader-and-women-s-rights-activist-dies-at-": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
     "signature": "",
     "norm": 36
   },
-  "mamdani-says-he-opposes-rss-does-not-support-mohan-bhagwat-s": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
+  "when-chennai-s-sea-food-edged-out-catch-from-rivers-estuarie": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "",
+    "norm": 36
+  },
+  "abhijeet-dipke-takes-jibe-at-cops-after-gwalior-man-made-to-": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
+    "signature": "",
+    "norm": 36
+  },
+  "stranded-for-11-months-7-indian-seafarers-repatriated-from-a": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
     "signature": "",
     "norm": 33.9
   },
-  "international-community-must-work-collectively-to-safeguard-": {
-    "firstSeen": "2026-08-26T07:04:10.205Z",
+  "15-tonnes-of-adulterated-unhygienic-food-seized-from-hyderab": {
+    "firstSeen": "2026-08-26T07:56:52.628Z",
     "signature": "",
     "norm": 33.9
   }
