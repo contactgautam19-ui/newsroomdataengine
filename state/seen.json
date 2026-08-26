@@ -1,302 +1,37 @@
 {
-  "u-p-congress-president-urges-pm-modi-to-review-ethanol-blend": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "congress|fuel|minister|modi|modi|policy|president|price|prices|prime minister",
-    "norm": 72.6
+  "amid-student-protests-at-iit-delhi-police-register-abetment-": {
+    "firstSeen": "2026-08-26T01:53:55.635Z",
+    "signature": "death|mp|protest|protest",
+    "norm": 67.9
   },
-  "pm-modi-chairs-pragati-meet-pushes-ai-use-in-farming-and-cyb": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "economy|fraud|minister|modi|modi|mp|prime minister",
-    "norm": 72.2
+  "let-july-20-probe-into-delhi-protest-kick-off-supreme-court-": {
+    "firstSeen": "2026-08-26T01:53:55.635Z",
+    "signature": "amit shah|minister|protest|protest|supreme court",
+    "norm": 67.3
   },
-  "several-injured-as-police-stop-bihar-students-protest-march": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "exam|injured|protest|protest|recruitment",
-    "norm": 69.6
+  "-vaccinated-against-rabies-giriraj-singh-takes-jibe-at-pawan": {
+    "firstSeen": "2026-08-26T01:53:55.635Z",
+    "signature": "bjp|congress|mp|rahul gandhi|row",
+    "norm": 64.6
   },
-  "us-sanctions-4-indian-firms-3-nationals-over-iran-trade-unde": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "iran|mp|petrol|petrol|sanction",
-    "norm": 64.1
+  "india-not-a-dharamshala-says-amit-shah-cites-threats-from-in": {
+    "firstSeen": "2026-08-26T01:53:55.635Z",
+    "signature": "amit shah|economy|threat",
+    "norm": 63.9
   },
-  "iran-oman-discuss-temporary-hormuz-corridor-as-impasse-with-": {
-    "firstSeen": "2026-08-25T22:39:13.156Z",
-    "signature": "iran|mp|war",
-    "norm": 63.5
+  "-a-tricky-one-dravid-reveals-big-concern-over-vaibhav-soorya": {
+    "firstSeen": "2026-08-26T01:53:55.635Z",
+    "signature": "ipl|sooryavanshi",
+    "norm": 55.7
   },
-  "trump-orders-us-flags-lowered-for-true-loss-of-dolly-parton": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "death|mp|president|trump|trump",
-    "norm": 63.1
+  "-people-don-t-believe-me-ishan-kishan-on-his-love-for-red-ba": {
+    "firstSeen": "2026-08-26T01:53:55.635Z",
+    "signature": "cricket|ipl|match",
+    "norm": 54.9
   },
-  "pune-tribal-students-protest-enters-13th-day-as-talks-with-t": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "minister|protest|protest",
-    "norm": 62.8
-  },
-  "cia-chief-on-secret-trip-to-moscow-as-us-asks-ukraine-to-hal": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "attack|attack|drone|mp",
-    "norm": 62.4
-  },
-  "kashmiri-pandit-employees-under-threat-as-terror-poster-leak": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "mp|terror|terror|threat",
-    "norm": 62
-  },
-  "-can-we-direct-fresh-elections-supreme-court-on-tmc-plea-ove": {
-    "firstSeen": "2026-08-25T22:39:13.156Z",
-    "signature": "congress|election|election|mamata|poll|supreme court|vote",
-    "norm": 61.1
-  },
-  "bombay-high-court-to-hear-pil-against-marathi-rule-for-drive": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "bomb|high court|maharashtra",
-    "norm": 60.6
-  },
-  "spacex-announces-100-billion-spaceport-in-us-louisiana": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "bill|billion|jobs|mp|star",
-    "norm": 59.6
-  },
-  "congress-raises-pellet-guns-bjp-counters-with-1984-riots-at-": {
-    "firstSeen": "2026-08-25T22:39:13.156Z",
-    "signature": "bjp|congress|mp|riot",
-    "norm": 59.3
-  },
-  "faridabad-woman-lover-arrested-for-husband-s-murder-body-fou": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "clash|clash|dead|dead",
-    "norm": 59.2
-  },
-  "identify-eliminate-threats-before-they-grow-big-amit-shah-ur": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "amit shah|minister|mp|policy|row|threat",
-    "norm": 58.9
-  },
-  "residents-petition-against-power-plant-southaven-neighbors-s": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "fuel|mp|poll|threat",
-    "norm": 58.9
-  },
-  "5-arrested-in-rs-13-80-crore-china-linked-cyber-fraud-in-gur": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "china|crore|fraud",
-    "norm": 58.4
-  },
-  "did-india-hit-pakistan-s-kirana-hills-nuclear-hub-during-op-": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "iran|pakistan|war",
-    "norm": 56.7
-  },
-  "weather-highlights-heavy-rain-in-delhi-waterlogging-traffic-": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "alert|heavy rain|storm|weather",
-    "norm": 56.2
-  },
-  "bjd-criticises-proposal-to-lease-out-bhubaneswar-airport-to-": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "crore|lakh|war",
-    "norm": 54.1
-  },
-  "madhya-pradesh-forest-department-to-launch-snake-catcher-app": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "rescue|rescue|war",
-    "norm": 53.8
-  },
-  "revanth-reddy-s-us-visit-row-telangana-bjp-questions-cm-over": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "bjp|chief minister|minister|row",
-    "norm": 52.3
-  },
-  "kochi-wakes-to-thiruvonam-festivities": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "crowd|mp|row",
-    "norm": 51.5
-  },
-  "bjp-to-take-out-a-10-day-padayatra-from-raichur-to-ballari-f": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "bjp|congress|war",
-    "norm": 50
-  },
-  "amid-protest-police-file-abetment-to-suicide-in-iit-delhi-st": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "death|protest|protest",
-    "norm": 48.1
-  },
-  "-i-don-t-support-the-rally-mamdani-opposes-rss-chief-s-madis": {
-    "firstSeen": "2026-08-25T22:39:13.156Z",
-    "signature": "rally|rally",
-    "norm": 47.4
-  },
-  "suvendu-vows-to-keep-mamata-off-the-streets-tmc-chairperson-": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "mamata",
-    "norm": 45.9
-  },
-  "-72-drop-in-questions-mumbai-mlas-assembly-performance-comes": {
-    "firstSeen": "2026-08-25T22:39:13.156Z",
-    "signature": "congress|mla",
-    "norm": 45.9
-  },
-  "-separatist-oci-card-holder-in-sc-seeks-nod-to-visit-kashmir": {
-    "firstSeen": "2026-08-25T22:39:13.156Z",
-    "signature": "high court|supreme court",
-    "norm": 45.9
-  },
-  "-india-is-not-dharamshala-amit-shah-vows-to-make-india-infil": {
-    "firstSeen": "2026-08-25T22:39:13.156Z",
-    "signature": "amit shah|mp",
-    "norm": 45.9
-  },
-  "loitering-munition-may-have-hit-kirana-hills-during-operatio": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "iran|pakistan",
-    "norm": 45.4
-  },
-  "-do-we-need-a-4th-party-audit-pm-raps-secretaries-over-quali": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "modi|modi",
-    "norm": 45.4
-  },
-  "oman-iran-say-will-establish-temporary-lane-through-strait-o": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "iran|mp",
-    "norm": 45.4
-  },
-  "man-detained-for-throwing-stones-at-vande-bharat-up-governor": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "governor|row",
-    "norm": 45.4
-  },
-  "all-banke-bihari-donations-must-go-to-deity-supreme-court": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "mp|supreme court|vote",
-    "norm": 44.9
-  },
-  "of-27-lakh-logical-discrepancy-deletions-in-west-bengal-only": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "cji|lakh",
-    "norm": 43
-  },
-  "surrender-within-3-weeks-sc-tells-ex-tehelka-editor-tarun-te": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "mp|supreme court",
-    "norm": 42.5
-  },
-  "govt-seeks-2-years-to-frame-creamy-layer-criteria-for-psu-pr": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "mp|policy",
-    "norm": 42.5
-  },
-  "major-fire-engulfs-godown-at-angamaly": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "fire|fire",
-    "norm": 42.2
-  },
-  "iamc-and-allied-faith-organisations-protest-against-mohan-bh": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "protest|protest",
-    "norm": 42.2
-  },
-  "us-man-kills-8-relatives-including-4-kids-at-sunday-dinner": {
-    "firstSeen": "2026-08-25T22:39:13.156Z",
-    "signature": "mp",
-    "norm": 41
-  },
-  "meghalaya-to-restore-vandalised-netaji-vivekananda-statues-i": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "rally|rally",
-    "norm": 39.7
-  },
-  "sir-in-karnataka-chief-minister-seeks-more-time-for-sir-clai": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "chief minister|minister",
-    "norm": 38
-  },
-  "-this-country-not-a-dharamshala-amit-shah-unveils-2047-secur": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "amit shah|minister",
-    "norm": 38
-  },
-  "delhi-police-register-abetment-to-suicide-case-in-iit-delhi-": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "death",
-    "norm": 35.5
-  },
-  "kerala-is-now-officially-keralam-centre-notifies-new-name": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "war",
-    "norm": 35.5
-  },
-  "gujarat-s-khijadiya-sanctuary-confirmed-as-key-black-necked-": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "assam-man-steals-50-lakh-from-father-splurges-on-girlfriend-": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "lakh",
-    "norm": 32.8
-  },
-  "allahabad-high-court-orders-relocation-of-hathras-victim-s-f": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "high court",
-    "norm": 32.8
-  },
-  "kpsc-chairman-suspended-for-second-time-by-governor": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "governor",
-    "norm": 32.8
-  },
-  "app-to-access-govt-services-to-be-launched-it-minister": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "minister",
-    "norm": 32.8
-  },
-  "saman-bird-sanctuary-to-get-tourism-boost-as-up-cabinet-appr": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "cabinet",
-    "norm": 32.8
-  },
-  "dolly-parton-iconic-american-singer-and-songwriter-who-shape": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "singer",
-    "norm": 31
-  },
-  "when-sea-food-edged-out-catch-from-river": {
-    "firstSeen": "2026-08-25T22:39:13.156Z",
-    "signature": "",
-    "norm": 30.7
-  },
-  "village-in-raebareli-tense-after-mud-smeared-on-ambedkar-s-s": {
-    "firstSeen": "2026-08-25T22:39:13.156Z",
-    "signature": "",
-    "norm": 30.7
-  },
-  "no-intention-to-quit-politics-nitin-gadkari-clarifies": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "samsung-s-updated-smart-switch-is-easier-to-use-and-copies-m": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "nyc-mayor-mamdani-opposes-rss-chief-bhagwat-s-madison-square": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "karnataka-food-safety-department-gives-food-businesses-15-da": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "world-s-first-mobile-phone-call-cooper-dials-rival-on-new-yo": {
-    "firstSeen": "2026-08-25T23:33:51.085Z",
-    "signature": "",
-    "norm": 21.2
+  "centre-seeks-2-years-to-frame-obc-creamy-layer-criteria-supr": {
+    "firstSeen": "2026-08-26T01:53:55.635Z",
+    "signature": "mp|policy|supreme court",
+    "norm": 52.7
   }
 }
