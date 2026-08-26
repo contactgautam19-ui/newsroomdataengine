@@ -1,97 +1,302 @@
 {
+  "-we-profoundly-value-nepal-s-balen-shah-thanks-pm-modi-for-i": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "dead|dead|flood|flood|floods|minister|modi|modi|prime minister|war",
+    "norm": 93.3
+  },
+  "160-dead-in-nepal-china-border-floods-142-indians-among-341-": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "border|china|dead|dead|death|flood|flood|floods",
+    "norm": 88.6
+  },
   "nepal-flash-floods-pm-balendra-shah-thanks-pm-modi-for-aid-o": {
     "firstSeen": "2026-08-26T19:16:37.655Z",
     "signature": "devastat|flood|flood|floods|jaishankar|minister|modi|modi|prime minister",
-    "norm": 93.5
+    "norm": 85.9
   },
-  "t-n-pilgrims-stranded-in-nepal-officials-coordinating-steps-": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
-    "signature": "devastat|flood|flood|floods|rescue|rescue|shock|shock",
-    "norm": 83.4
+  "-black-smoke-chokes-pakistan-maternity-ward-as-hospital-fire": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "fan|fire|fire|hospital|pakistan|row|smoke|war",
+    "norm": 84.9
   },
-  "gauhati-high-court-issues-notices-to-assam-nagaland-in-petit": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
-    "signature": "congress|dead|dead|flood|flood|high court",
-    "norm": 81.6
+  "how-canadians-are-boycotting-us-products-amid-trump-tariff-t": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "minister|mp|prime minister|riot|threat|trump|trump",
+    "norm": 77.9
+  },
+  "157-killed-in-nepal-flash-floods-133-indian-pilgrims-remain-": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "flood|flood|floods|killed|killed|minister|prime minister|rescue|rescue",
+    "norm": 77.8
+  },
+  "nepal-flash-floods-live-157-killed-142-indians-missing-in-ne": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "flood|flood|floods|killed|killed|rescue|rescue|sudden",
+    "norm": 73.3
+  },
+  "viral-video-shows-assam-teacher-on-census-duty-with-2-daught": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "mp|video|viral|viral|viral|viral video",
+    "norm": 71.9
+  },
+  "key-mountain-development-institute-warns-of-second-flood-in-": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "border|china|flood|flood|floods|war",
+    "norm": 71.6
   },
   "nepal-flash-floods-live-at-least-157-dead-hundreds-missing-i": {
     "firstSeen": "2026-08-26T19:16:37.655Z",
     "signature": "dead|dead|flood|flood|floods",
-    "norm": 72.5
+    "norm": 68.5
   },
-  "-teach-her-and-her-son-a-lesson-witness-in-prajwal-revanna-t": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
-    "signature": "death|mp|threat",
+  "160-killed-in-deadly-nepal-deluge-at-least-133-indians-among": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "dead|dead|death|killed|killed|toll",
+    "norm": 67.8
+  },
+  "centre-plans-integrated-command-centres-to-step-up-border-se": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "border|drone|pakistan|star|threat",
+    "norm": 66.8
+  },
+  "supreme-court-judge-seeks-transfer-of-rajasthan-high-court-a": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "cji|exam|high court|sharma|supreme court",
+    "norm": 63.4
+  },
+  "m-p-minister-s-remarks-on-sugar-price-surge-draw-congress-ir": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "backlash|congress|minister|price|prices",
+    "norm": 63.1
+  },
+  "india-relief-supplies-reach-flood-hit-nepal-us-eu-say-they-s": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "devastat|flood|flood|floods",
+    "norm": 63
+  },
+  "nepal-flash-flood-t-n-pilgrims-stranded-in-nepal-officials-c": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "flood|flood|rescue|rescue",
     "norm": 62.5
+  },
+  "nepal-floods-32-member-kolkata-group-among-many-from-west-be": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "flood|flood|floods|killed|killed",
+    "norm": 61.9
+  },
+  "us-earthquake-monitor-clarifies-nepal-quake-was-powerful-lan": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "border|china|earthquake|earthquake|landslide",
+    "norm": 61.3
+  },
+  "-we-don-t-need-canada-they-need-us-trump-amid-escalating-tra": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "mp|trump|trump|war",
+    "norm": 61
+  },
+  "nepal-flood-for-centuries-flood-hit-corridor-was-key-route-o": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "flood|flood|war",
+    "norm": 60.7
+  },
+  "agonising-wait-for-news-in-tamil-nadu-as-nepal-flood-hits-pi": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "flood|flood|floods|war",
+    "norm": 59.2
+  },
+  "in-nepal-floods-glacial-lake-link-and-flashback-to-last-year": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "flood|flood|floods|tragedy",
+    "norm": 59.2
+  },
+  "21-year-old-girl-stabbed-to-death-inside-her-house-in-delhi-": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "attack|attack|death",
+    "norm": 57.4
+  },
+  "dissidents-push-for-hindu-pradesh-congress-committee-chief-t": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "congress|poll|war",
+    "norm": 57.1
+  },
+  "77-isha-foundation-members-among-indians-missing-in-nepal-fl": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "flood|flood|floods|rescue|rescue",
+    "norm": 54
+  },
+  "how-a-nepali-labourer-survived-the-flood-because-of-a-mango-": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "death|flood|flood",
+    "norm": 53.8
+  },
+  "why-nepal-is-so-vulnerable-glacial-lakes-and-a-himalaya-that": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "accident|tsunami|weather",
+    "norm": 53.4
+  },
+  "ahead-of-xi-jinping-s-visit-india-amp-china-announce-8-point": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "border|china|ipl|mp",
+    "norm": 52.3
+  },
+  "lok-sabha-secretariat-issues-notices-to-20-rebel-tmc-mps": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "defection|lok sabha|mp|war",
+    "norm": 52.3
+  },
+  "-us-will-not-achieve-anything-with-economic-pressure-says-ir": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "iran|mp|president|sanction",
+    "norm": 52.3
+  },
+  "un-panel-report-on-minorities-is-politically-motivated-govt": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "attack|attack",
+    "norm": 51.8
+  },
+  "ensure-all-necessary-preparations-maintain-vigilance-in-view": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "flood|flood|yogi",
+    "norm": 51.5
   },
   "-someone-i-watched-growing-up-zane-maloney-joins-oliver-rowl": {
     "firstSeen": "2026-08-26T19:16:37.655Z",
     "signature": "mp|row|watch",
-    "norm": 61.1
+    "norm": 51.5
   },
-  "telangana-helpline-for-nepal-flood-victims": {
+  "-teach-her-and-her-son-a-lesson-witness-in-prajwal-revanna-t": {
     "firstSeen": "2026-08-26T19:16:37.655Z",
-    "signature": "flood|flood",
-    "norm": 54.2
+    "signature": "death|mp|threat",
+    "norm": 51.2
   },
-  "chidambaram-says-there-has-been-no-corruption-or-virtually-n": {
-    "firstSeen": "2026-08-26T16:32:50.327Z",
-    "signature": "congress|mp",
-    "norm": 48.7
+  "six-arrested-in-drug-inspector-paper-leak-case": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "mp|recruitment",
+    "norm": 49.6
   },
-  "karnataka-govt-to-call-special-legislature-session-on-kastur": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
-    "signature": "iran",
-    "norm": 48.2
+  "3-lakh-tonnes-of-refined-sugar-to-enter-market": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "lakh|mp",
+    "norm": 47.3
   },
-  "four-youth-arrested-in-ranipet-for-possession-of-country-mad": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
-    "signature": "bomb",
-    "norm": 46.3
+  "sc-judge-complains-against-raj-acting-cj-cji-surya-kant-seek": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "cji|mp|sharma",
+    "norm": 46.2
+  },
+  "-jhooth-ki-goonj-site-fact-checks-rahul-s-student-meet-claim": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "bjp|mp",
+    "norm": 45.9
+  },
+  "caste-count-method-in-census-misleading-congress-letter-to-p": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "congress",
+    "norm": 44
+  },
+  "indian-tea-association-issues-white-paper-on-darjeeling-dooa": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "row",
+    "norm": 43.5
+  },
+  "cross-border-drug-cartel-busted-in-j-k-heroin-worth-crores-s": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "border|crore",
+    "norm": 43
+  },
+  "bengaluru-s-risk-averse-force": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "t-n-students-youth-federation-to-organise-protest-on-sept-1": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "eci-eyes-gen-z-gen-alpha-india-s-future-voters-to-get-a-digi": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "mp|poll|vote",
+    "norm": 40.6
+  },
+  "sc-youth-s-death-cb-cid-names-six-police-officers-as-accused": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "death",
+    "norm": 40.1
+  },
+  "nvidia-earnings-live-q2-earnings-revenue-beat-street-estimat": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "mla",
+    "norm": 37.5
+  },
+  "health-institution-s-tedx-event-brings-new-perspective-on-in": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "in-chennai-the-beach-finds-its-way-into-love-and-heartbreak": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "heartbreak",
+    "norm": 35.5
   },
   "bengaluru-woman-orders-cake-gets-free-fruit-mother-falls-ill": {
     "firstSeen": "2026-08-26T19:16:37.655Z",
     "signature": "hospital",
-    "norm": 46.3
+    "norm": 35.5
   },
-  "in-2002-a-nasa-intern-stole-moon-rocks-for-love-then-his-onl": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
-    "signature": "deal",
-    "norm": 44
+  "4th-suspect-linked-to-pak-backed-handler-arrested-in-assam": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "slam",
+    "norm": 35.5
+  },
+  "apple-schedules-iphone-event-for-september-9-gsmarena-com-ne": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "drawing-lines-on-the-india-china-25th-special-representative": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "china",
+    "norm": 32.8
+  },
+  "birth-centenary-of-former-minister-k-rajaram-celebrated": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
+    "signature": "minister",
+    "norm": 32.8
   },
   "at-6-novak-djokovic-met-a-coach-who-changed-his-life-forever": {
     "firstSeen": "2026-08-26T19:16:37.655Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 32.8
   },
-  "senior-advocate-krishna-srinivasan-sets-up-law-firm": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
+  "sp-announces-stree-samman-samriddhi-yojna-promises-to-open-2": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
-  "medak-among-key-clusters-under-centre-s-energy-efficiency-in": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
+  "the-glorious-past-of-chennai-s-shanti-theatre": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
-  "a-legendary-theatre-on-anna-salai-becomes-a-corporate-hub": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
+  "when-public-transport-paves-the-way-for-chennai-s-developmen": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
-  "andhra-pradesh-adopts-four-pronged-strategy-to-support-agric": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
+  "bihar-police-to-conduct-dna-test-on-buffalo-to-settle-owners": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
-  "excise-sho-constable-suspended-over-alleged-forgery-of-panch": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
+  "chennai-s-sports-culture-is-still-going-strong-says-mrf-ltd-": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   },
-  "how-23-000-edible-dormice-became-a-problem-for-britain": {
-    "firstSeen": "2026-08-26T19:16:37.655Z",
+  "prince-harry-and-meghan-return-to-britain-with-children-afte": {
+    "firstSeen": "2026-08-26T23:24:52.549Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   }
 }
