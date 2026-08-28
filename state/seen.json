@@ -1,36 +1,141 @@
 {
-  "no-logistical-challenges-if-lower-ethanol-blend-is-introduce": {
-    "firstSeen": "2026-08-27T20:21:07.856Z",
-    "signature": "petrol|petrol|war",
-    "norm": 67.6
+  "nepal-flood-horror-how-a-visa-delay-saved-50-pilgrims-from-d": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "collapse|collapse|collapse|devastat|disaster|flood|flood|floods|horror|mp|rescue|rescue|row|war",
+    "norm": 98.4
   },
-  "jairam-ramesh-questions-conflicting-remarks-on-pakistan-chin": {
-    "firstSeen": "2026-08-27T20:21:07.856Z",
-    "signature": "china|congress|modi|modi|pakistan",
-    "norm": 62.9
+  "noida-woman-arrested-after-allegedly-abusing-security-guards": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "mp|rbi|viral|viral|viral",
+    "norm": 80.7
   },
-  "bjp-s-casteist-nature-exposed-by-haldwani-ritual-defence-say": {
-    "firstSeen": "2026-08-27T20:21:07.856Z",
-    "signature": "bjp|congress|defence|khan|opposition|poll",
-    "norm": 59.9
+  "sam-pitroda-s-temple-remark-sparks-bjp-congress-war-ahead-of": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "bjp|congress|controversy|election|election|mp|war",
+    "norm": 77.9
   },
-  "keralam-government-issues-technical-sanction-for-first-phase": {
-    "firstSeen": "2026-08-27T20:21:07.856Z",
-    "signature": "sanction",
+  "nepal-flash-floods-live-death-toll-surges-to-392-nearly-1-50": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "death|flood|flood|floods|threat|toll",
+    "norm": 75.8
+  },
+  "bjp-leader-slams-rahul-gandhi-s-remarks-on-manusmriti-files-": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "bjp|mp|rahul gandhi|slam|slams|twist",
+    "norm": 73.9
+  },
+  "iit-kanpur-sathee-registrations-surge-after-modi-s-online-co": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "modi|modi|mp|record",
+    "norm": 66.9
+  },
+  "-do-you-support-malala-clash-between-bajrang-dal-workers-act": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "clash|clash|opposition|video",
+    "norm": 63.9
+  },
+  "e10-petrol-comeback-in-plans-what-bpcl-said-amid-reports-on-": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "fuel|petrol|petrol",
+    "norm": 59.7
+  },
+  "andhra-pradesh-government-steps-up-efforts-to-trace-telugu-p": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "flood|flood|floods",
+    "norm": 59.6
+  },
+  "bodies-of-four-naga-civilians-killed-in-manipur-ambush-retri": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "killed|killed",
+    "norm": 57.6
+  },
+  "top-stocks-to-buy-today-stock-market-recommendations-for-aug": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "mp|stock market|stocks",
+    "norm": 57.6
+  },
+  "a-missing-flush-yamuna-fails-to-hit-warning-level-this-monso": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "war|warning",
+    "norm": 57.6
+  },
+  "two-people-booked-for-posting-obscene-deepfake-videos-target": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "mp|rahul gandhi|video",
+    "norm": 56.4
+  },
+  "keralam-home-minister-asks-crime-branch-to-verify-reports-fu": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "death|minister",
+    "norm": 55.4
+  },
+  "-let-s-talk-life-offers-anonymous-online-space-for-young-peo": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "emotional|fear",
+    "norm": 53.9
+  },
+  "india-china-open-door-to-clarifying-lac-perceptions": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "border|china|mp",
+    "norm": 52.7
+  },
+  "nit-calicut-22nd-convocation-record-2-128-graduates-to-recei": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "mp|record",
+    "norm": 52
+  },
+  "railway-staff-upset-over-bifurcation-of-palakkad-division": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "mp|upset",
+    "norm": 52
+  },
+  "billboard-removal-triggers-chaos-at-abhishek-banerjee-s-offi": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "bill|bjp|mp",
+    "norm": 50.9
+  },
+  "can-india-build-a-strategic-fuel-system-explained": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "fuel",
     "norm": 45.9
   },
-  "back-to-back-complaints-expose-illegal-sim-box-operations-in": {
-    "firstSeen": "2026-08-27T20:21:07.856Z",
+  "guru-ayyankali-championed-humanity-social-justice-cm-sathees": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "delhi-couple-held-over-pakistan-espionage-links-were-in-touc": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "pakistan",
+    "norm": 45.9
+  },
+  "court-to-pentagon-you-re-wrong-in-banning-anthropic-labellin": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "yash-starrer-toxic-sees-steep-64-drop-on-day-2-after-a-centu": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "star",
+    "norm": 44.3
+  },
+  "low-speed-e-bikes-may-be-exempted-from-motor-vehicle-rules": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
     "signature": "mp",
     "norm": 44
   },
-  "nlsiu-cancels-convocation-to-give-degrees-in-absentia": {
-    "firstSeen": "2026-08-27T20:21:07.856Z",
+  "onam-rush-in-keralam-railways-intensify-checks-to-curb-ticke": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "is-english-a-foreign-language-in-india-in-focus-podcast": {
-    "firstSeen": "2026-08-27T20:21:07.856Z",
+  "drug-pusher-posing-as-sub-inspector-arrested-in-keralam-s-ko": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
+    "signature": "",
+    "norm": 36
+  },
+  "tn-digitises-liquor-stock-supply-handheld-devices-mandatory-": {
+    "firstSeen": "2026-08-28T05:19:37.753Z",
     "signature": "",
     "norm": 33.9
   }
