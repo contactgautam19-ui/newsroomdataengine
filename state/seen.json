@@ -1,97 +1,302 @@
 {
+  "nepal-flash-flood-live-updates-damage-may-cost-up-to-5-billi": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "bill|billion|death|flood|flood|minister",
+    "norm": 79.9
+  },
+  "the-bhotekoshi-flood-a-himalayan-tragedy": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "devastat|flood|flood|floods|mp|tragedy|war",
+    "norm": 75
+  },
+  "us-court-rules-trump-cannot-deport-students-for-criticising-": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "israel|mp|ruling|threat|trump|trump",
+    "norm": 71.8
+  },
+  "nepal-says-post-flood-reconstruction-may-cost-billions-of-do": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "bill|billion|flood|flood|rescue|rescue",
+    "norm": 68.2
+  },
   "kailash-mansarovar-pilgrims-recall-narrow-escape-from-nepal-": {
     "firstSeen": "2026-08-29T18:24:11.316Z",
     "signature": "flood|flood|floods|row|threat|toll",
-    "norm": 75.8
+    "norm": 67
   },
-  "flood-scare-in-mp-iaf-helicopters-sdrf-teams-deployed-as-man": {
-    "firstSeen": "2026-08-29T18:24:11.316Z",
-    "signature": "air force|disaster|flood|flood|mp|rescue|rescue",
-    "norm": 75.4
+  "before-the-nepal-flood-a-glacial-fall-tracing-the-trigger-an": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "border|china|flood|flood|ipl",
+    "norm": 66.5
+  },
+  "nepal-flash-floods-live-rescuers-claw-through-mud-as-death-t": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "death|flood|flood|floods|rescue|rescue|toll",
+    "norm": 65.9
+  },
+  "-overwhelmed-by-the-warmth-pm-modi-receives-grand-welcome-in": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "modi|modi|war",
+    "norm": 63.5
   },
   "nepal-floods-108-indians-rescued-275-missing-govt-coordinati": {
     "firstSeen": "2026-08-29T18:24:11.316Z",
     "signature": "china|flood|flood|floods|rescue|rescue",
-    "norm": 73.1
-  },
-  "no-material-to-prove-thaman-was-paid-10-lakh-to-compose-tvk-": {
-    "firstSeen": "2026-08-29T18:24:11.316Z",
-    "signature": "election|election|high court|lakh|mp",
-    "norm": 71.6
+    "norm": 62.6
   },
   "bridge-washed-away-shops-inundated-mandakini-river-breaches-": {
     "firstSeen": "2026-08-29T18:24:11.316Z",
     "signature": "anger|evacuat|flood|flood|video",
-    "norm": 71
+    "norm": 62
+  },
+  "no-material-to-prove-thaman-was-paid-10-lakh-to-compose-tvk-": {
+    "firstSeen": "2026-08-29T18:24:11.316Z",
+    "signature": "election|election|high court|lakh|mp",
+    "norm": 61
+  },
+  "-i-urge-others-to-speak-up-ex-pak-cricketer-s-emotional-appe": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "captain|cricket|cricketer|emotional|khan",
+    "norm": 60.6
+  },
+  "flood-fears-in-bihar-as-several-rivers-cross-danger-marks-am": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "anger|fear|flood|flood",
+    "norm": 59.2
   },
   "kpsc-recruitment-scam-ias-officer-gyanendra-gangwar-taken-in": {
     "firstSeen": "2026-08-29T18:24:11.316Z",
     "signature": "exam|recruitment|scam|war",
-    "norm": 68
+    "norm": 58.9
   },
   "j-k-leaders-react-to-samay-raina-s-kashmiri-bihari-row-valle": {
     "firstSeen": "2026-08-29T18:24:11.316Z",
     "signature": "bjp|mla|mp|row|slam",
-    "norm": 67
+    "norm": 57.8
+  },
+  "pm-modi-lands-in-uzbekistan-on-two-nation-visit-president-sh": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "modi|modi|president",
+    "norm": 57.1
+  },
+  "judiciary-proactively-responded-to-emerging-fraudulent-schem": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "cji|fraud|mp|parliament",
+    "norm": 56.3
   },
   "nepal-flash-flood-india-sends-tunnel-rescue-team-to-nepal": {
     "firstSeen": "2026-08-29T18:24:11.316Z",
     "signature": "disaster|flood|flood|rescue|rescue",
-    "norm": 65.1
+    "norm": 54
+  },
+  "congress-targets-aap-at-amritsar-s-baba-bakala-event-skipped": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "aap|chief minister|congress|minister|president|war",
+    "norm": 54
+  },
+  "3-teens-drown-in-assam-s-jorhat-during-birthday-celebration": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "disaster|drown|row",
+    "norm": 53.4
+  },
+  "rahul-gandhi-calls-haldwani-ritual-untouchability-bjp-says-c": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "bjp|congress|rahul gandhi|row",
+    "norm": 52.3
+  },
+  "uttar-pradesh-cm-adityanath-slams-opposition-for-dividing-pe": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "opposition|slam|slams",
+    "norm": 51.2
+  },
+  "can-an-accused-be-denied-a-copy-of-the-fir-explained": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "cctv|cji|footage|high court|mp",
+    "norm": 50
+  },
+  "doctors-to-be-recruited-to-ccrc-on-priority-basis-keralam-fi": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "minister|recruitment",
+    "norm": 49.6
+  },
+  "abhishek-banerjee-summoned-by-kolkata-police-over-illegal-bi": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "bill|row",
+    "norm": 49.6
+  },
+  "-unity-and-diversity-in-india-s-dna-rss-chief-mohan-bhagwat-": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "row",
+    "norm": 48.2
   },
   "-trying-to-reach-a-safe-location-missing-uk-couple-s-last-me": {
     "firstSeen": "2026-08-29T18:24:11.316Z",
     "signature": "flood|flood|floods",
-    "norm": 57.9
+    "norm": 48.1
   },
-  "women-s-hockey-wc-argentina-stun-netherlands-in-shootout-to-": {
-    "firstSeen": "2026-08-29T18:24:11.316Z",
-    "signature": "match|upset|world cup",
-    "norm": 57.9
+  "highlights-in-mohan-bhagwat-s-address-to-indian-expats-a-jan": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "bill",
+    "norm": 45.9
+  },
+  "missing-assam-man-detained-in-bangladesh-for-illegal-entry-s": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "border|mamata",
+    "norm": 45.9
+  },
+  "-toxic-box-office-collection-day-4-live-yash-and-kiara-advan": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "box office|crore|film",
+    "norm": 45.4
   },
   "two-men-from-a-p-held-for-taking-photographs-inside-arunacha": {
     "firstSeen": "2026-08-29T18:24:11.316Z",
     "signature": "mp|war",
-    "norm": 57.1
+    "norm": 45.4
   },
-  "locations-of-two-additional-india-china-border-meeting-point": {
-    "firstSeen": "2026-08-29T18:24:11.316Z",
-    "signature": "border|china",
-    "norm": 48.7
+  "ai-in-healthcare-is-here-to-stay-but-doctors-must-remain-the": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "mp",
+    "norm": 41
   },
-  "goods-engine-derails-near-arakkonam-railway-station": {
-    "firstSeen": "2026-08-29T18:24:11.316Z",
-    "signature": "derail",
-    "norm": 48.2
+  "external-intelligence-agency-and-intelligence-bureau-form-th": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "defence",
+    "norm": 41
   },
-  "alagappa-manonmaniam-sundaranar-varsities-get-vice-chancello": {
-    "firstSeen": "2026-08-29T18:24:11.316Z",
-    "signature": "minister",
-    "norm": 44
+  "hyderabad-hospital-performs-400-kidney-transplants": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "hospital",
+    "norm": 40.1
   },
-  "court-grants-bail-to-priyank-kharge-nalapad-in-rss-defamatio": {
-    "firstSeen": "2026-08-29T18:24:11.316Z",
-    "signature": "lakh",
-    "norm": 44
+  "adityanath-directs-swift-disposal-of-revenue-cases-orders-hi": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "alert",
+    "norm": 40.1
+  },
+  "delhi-man-dies-of-electrocution-government-says-no-fault-in-": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "death",
+    "norm": 40.1
+  },
+  "wayalaying-of-keralam-cm-k-v-thomas-flays-action-against-con": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "congress",
+    "norm": 37.5
+  },
+  "mirwaiz-backs-nc-mp-demand-for-j-amp-k-statehood-article-370": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "around-50-karnataka-tourists-stranded-in-nepal-return-home-2": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "maharashtra-government-in-touch-with-338-of-the-404-stranded": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "maharashtra",
+    "norm": 35.5
+  },
+  "pak-drones-armed-men-spur-searches-in-poonch-rajouri": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "drone",
+    "norm": 34.1
+  },
+  "everest-laljee-godhoo-banned-from-selling-hing-powder-over-s": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "norway-s-new-king-haakon-viii-pays-tribute-to-father-in-firs": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "wedding",
+    "norm": 31
+  },
+  "british-far-right-commentator-deported-after-immigration-age": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "if-hindus-think-muslims-have-no-place-they-cease-to-be-hindu": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "22nd-convocation-held-at-nit-c": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "postcard-collection-with-artist-pavithra-srinivasan-s-illust": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "indian-standard-time-to-become-mandatory-for-all-entities-fr": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "at-387-city-turns-up-the-spirit-at-the-hindu-s-made-of-chenn": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "two-youth-held-for-chain-snatching-in-vellore": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "nainar-nagenthran-accuses-tvk-led-government-of-bringing-rel": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "from-society-to-politics-bhagwat-lays-out-rss-route-to-chang": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 21.2
   },
   "belagavi-hubballi-dharwad-police-commissioners-transferred": {
     "firstSeen": "2026-08-29T18:24:11.316Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
-  "-in-the-age-of-scrolling-journalism-must-adapt-to-shorter-fo": {
-    "firstSeen": "2026-08-29T18:24:11.316Z",
+  "-hindu-who-wants-no-muslims-in-bharat-is-not-a-hindu-rss-chi": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   },
-  "cardiac-care-must-become-integral-to-long-term-hiv-treatment": {
-    "firstSeen": "2026-08-29T18:24:11.316Z",
+  "centre-finalising-article-371-framework-for-ladakh-says-riji": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   },
-  "-if-any-hindu-thinks-there-should-be-no-muslims-in-india-he-": {
-    "firstSeen": "2026-08-29T18:24:11.316Z",
+  "delhi-government-deploys-top-officers-to-probe-139-waterlogg": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
+  },
+  "first-look-at-grand-theft-auto-6-gameplay-released-on-netfli": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "-any-hindu-who-thinks-rss-chief-mohan-bhagwat-on-what-about-": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "-if-any-hindu-doesn-t-want-muslims-in-india-mohan-bhagwat-s-": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "here-s-when-the-iphone-18-pro-and-iphone-18-pro-max-are-rumo": {
+    "firstSeen": "2026-08-29T21:41:16.975Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
