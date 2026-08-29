@@ -1,146 +1,141 @@
 {
-  "russia-has-oil-so-why-is-it-importing-petrol-from-india": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "attack|attack|drone|fuel|mp|petrol|petrol",
-    "norm": 92.1
-  },
-  "uttarakhand-ramps-up-glacier-monitoring-after-nepal-floods-k": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "border|collapse|collapse|collapse|disaster|flood|flood|floods|khan|mp",
-    "norm": 87.9
-  },
-  "sonia-gandhi-memoir-row-rahul-gandhi-says-diversion-bjp-deni": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "bjp|congress|controversy|rahul gandhi|row|storm",
-    "norm": 76.9
-  },
-  "bombay-high-court-slams-fda-for-pedantic-view-clears-reopeni": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "bomb|high court|slam|slams",
+  "haiti-gang-frees-13-women-and-children-days-after-raid-that-": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "brutal|killed|killed|mp",
     "norm": 72.6
   },
-  "27-killed-50-homes-damaged-in-russian-attack-near-ukraine-s-": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "attack|attack|killed|killed",
-    "norm": 68
+  "-new-ways-to-create-conflict-bjp-attacks-rahul-as-suddhikara": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "attack|attack|bjp|row",
+    "norm": 71
   },
-  "-not-interested-right-now-rahul-on-sonia-gandhi-book-row-cit": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "controversy|lok sabha|president|rahul gandhi|row",
-    "norm": 67
+  "baltimore-bridge-collapse-u-s-judge-dismisses-most-remaining": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "collapse|collapse|collapse|ruling",
+    "norm": 66.7
   },
-  "unity-on-everyone-s-lips-but-can-goa-oppositions-unite-ahead": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "aap|alliance|bjp|congress|election|election|opposition|poll",
-    "norm": 65.4
+  "-i-am-the-king-ex-cricketer-reveals-how-ganguly-transformed-": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "cricket|cricketer|mp",
+    "norm": 62.5
   },
-  "three-college-students-killed-four-injured-as-car-overturns-": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "injured|killed|killed",
-    "norm": 62.9
+  "house-panel-chief-says-didn-t-intend-to-question-modi-govern": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "bjp|modi|modi|mp",
+    "norm": 61.8
   },
-  "-violating-law-time-and-again-karnataka-hc-slams-police-over": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "ipl|slam|slams",
-    "norm": 62.9
+  "-bjp-ideology-root-cause-of-kharge-shuddhikaran-row-alleges-": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "bjp|congress|mp|row",
+    "norm": 61.8
   },
-  "maratha-activist-manoj-jarange-begins-fast-over-kunbi-certif": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "lakh|maharashtra|record",
+  "revenue-minister-satya-prasad-wonders-if-jac-leader-venkates": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "minister|mp|war",
+    "norm": 61.4
+  },
+  "samyukta-horata-karnataka-protest-turns-tense-in-kalaburagi": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "crore|protest|protest",
     "norm": 61.1
   },
-  "from-200-km-to-500-km-how-long-range-missiles-are-rewriting-": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "china|exam|mp",
+  "pm-modi-begins-central-asia-visit-with-two-day-offcial-visit": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "modi|modi|summit",
     "norm": 59.7
   },
-  "mobile-phones-cash-seized-from-prison-cell-of-mastermind-of-": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "attack|attack",
-    "norm": 59.3
+  "pm-modi-lands-in-uzbekistan-on-two-nation-visit-president-sh": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "modi|modi|president",
+    "norm": 59.7
   },
-  "karnataka-horror-man-chased-hacked-to-death-in-broad-dayligh": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "death|horror|video",
-    "norm": 57.9
+  "congress-retains-power-in-kalaburagi-city-corporation": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "congress|war",
+    "norm": 57.1
   },
-  "fir-against-mamata-banerjee-over-violation-of-high-court-ord": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "high court|mamata|rally|rally",
-    "norm": 56.9
-  },
-  "neeraj-chopra-s-season-over-ligament-tear-rules-him-out-of-d": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "mp|row",
+  "24-x-7-specialty-services-keralam-government-kgmoa-to-hold-d": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "hospital|sudden|surprise",
     "norm": 55.4
   },
-  "himachal-scheme-that-offers-rs-1-5-lakh-assistance-for-house": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "lakh|war",
-    "norm": 55.4
+  "six-out-of-16-people-from-assam-caught-in-the-nepal-disaster": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "disaster|hospital",
+    "norm": 53.9
   },
-  "india-s-hotel-sector-likely-to-gain-momentum-in-h2fy27-on-st": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "mp|row",
-    "norm": 55.4
+  "nagendra-s-exit-revives-lobbying-for-cabinet-berth-in-karnat": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "cabinet|congress|mla",
+    "norm": 52.7
   },
-  "former-mla-p-v-anvar-alleges-vote-leaks-in-udf-strongholds-l": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "mla|mp|vote",
-    "norm": 50.9
+  "russian-strike-on-kyiv-area-warehouse-sparks-detonation-kill": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "fir-against-mamata-banerjee-for-violating-calcutta-hc-order-": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "high court|mamata",
-    "norm": 50.5
-  },
-  "fir-against-mamata-banerjee-for-violation-of-calcutta-high-c": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "high court|mamata",
-    "norm": 50.5
-  },
-  "bjp-chief-nitin-nabin-holds-meeting-on-youth-outreach-assemb": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "bjp|poll",
-    "norm": 50.5
-  },
-  "-what-will-you-do-congress-leader-blocks-kerala-cm-s-convoy-": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "congress|mp",
-    "norm": 48.7
-  },
-  "case-filed-against-mamata-banerjee-over-violation-of-calcutt": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "high court|mamata",
-    "norm": 48.7
-  },
-  "delhi-court-takes-cognisance-of-nia-chargesheet-in-red-fort-": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "blast",
-    "norm": 48.2
-  },
-  "for-vultures-near-dehradun-2-4-km-separates-survival-from-el": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
+  "kakkadampoyil-eyes-tourism-boom-with-master-plan-travel-mart": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "assam-youth-suspected-in-woman-s-murder-in-tamil-nadu-arrest": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
+  "karnataka-minister-priyank-kharge-hits-back-at-union-ministe": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "dharashiv-mp-pushes-for-crop-loss-survey-and-compensation-fo": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "-we-can-change-our-mind-us-religious-freedom-panel-chair-ope": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
-    "signature": "sanction",
-    "norm": 44
+  "voice-of-kolleru-formed-to-protect-rights-of-kolleru-area-re": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "lakh",
+    "norm": 45.9
   },
-  "education-that-merely-provides-degree-without-developing-cha": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
+  "cii-yi-amaravati-chapter-sets-record-with-1-13-109-bamboo-se": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "record",
+    "norm": 42.7
+  },
+  "cm-inaugurates-111th-jayanti-celebrations-of-rajendra-swami": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
     "signature": "",
     "norm": 36
   },
-  "samajwadi-party-gang-of-dacoits-should-apologise-for-loot-of": {
-    "firstSeen": "2026-08-29T09:58:36.563Z",
+  "family-counselling-reunites-divorced-couple-in-sri-sathya-sa": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "",
+    "norm": 36
+  },
+  "lorry-driver-escapes-with-injuries-after-boulders-fall-at-qu": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "",
+    "norm": 36
+  },
+  "delegation-seeks-direct-flights-from-hubballi-to-ahmedabad-j": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "",
+    "norm": 36
+  },
+  "three-year-free-training-programme-for-law-graduates": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "man-arrested-for-allegedly-raping-82-year-old-woman-in-a-p-s": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "hdfc-bank-md-ceo-sashidhar-jagdishan-to-retire-on-october-26": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "hdfc-bank-ceo-jagdishan-to-step-down-after-term-ends-in-octo": {
+    "firstSeen": "2026-08-29T15:01:31.879Z",
     "signature": "",
     "norm": 33.9
   }
