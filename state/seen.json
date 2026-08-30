@@ -1,147 +1,107 @@
 {
-  "3-masked-men-rob-congress-leader-alka-lamba-s-father-s-delhi": {
-    "firstSeen": "2026-08-30T17:23:32.444Z",
-    "signature": "cctv|congress|election|election|lakh|record|shock|shock|shocking|video",
-    "norm": 89.3
-  },
   "us-strikes-iran-s-larak-island-tehran-vows-response-and-puni": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "fire|fire|iran|mp|slam",
-    "norm": 82.5
+    "norm": 78.8
   },
-  "russia-strike-on-kyiv-ammunition-depot-kills-38-in-year-s-de": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "attack|attack|blast|dead|dead|devastat|drone|result|tragic",
-    "norm": 80.5
+  "nepal-floods-hunt-intensifies-for-900-missing-at-hydel-units": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "death|devastat|flood|flood|floods|rescue|rescue",
+    "norm": 76
+  },
+  "taking-reforms-to-the-road-from-ranchi-protest-to-a-statewid": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "exam|jobs|khan|protest|protest|recruitment",
+    "norm": 74.2
   },
   "activist-manoj-jarange-sets-mumbai-protest-deadline-devendra": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "dead|dead|lakh|protest|protest|record",
-    "norm": 76.4
+    "norm": 72.9
   },
-  "why-did-viral-nepal-house-survive-flood-when-others-fell-x-v": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "flood|flood|video|viral|viral|viral",
-    "norm": 72.1
+  "us-iran-war-live-us-forces-hit-iranian-launchers-in-first-st": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "attack|attack|iran|result|war",
+    "norm": 72.8
   },
   "7-killed-24-missing-after-boat-with-270-people-on-board-over": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "killed|killed|minister|prime minister|rescue|rescue",
     "norm": 71.6
   },
-  "iiser-students-protest-continues-in-pune": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "ipl|mp|protest|protest",
-    "norm": 71.4
-  },
   "in-latest-attack-on-press-trump-demands-punishment-for-nbc-j": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "attack|attack|mp|trump|trump",
     "norm": 71.2
   },
-  "haldwani-shuddhikaran-row-rahul-gandhi-demands-fir-bjp-hits-": {
+  "create-social-media-content-against-drug-menace-pm-modi-s-me": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "lakh|minister|modi|modi|mp|prime minister",
+    "norm": 71
+  },
+  "why-did-viral-nepal-house-survive-flood-when-others-fell-x-v": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "bjp|congress|controversy|khan|rahul gandhi|rally|rally|row",
-    "norm": 71.2
+    "signature": "flood|flood|video|viral|viral|viral",
+    "norm": 68.6
   },
   "congress-will-quit-vijay-cabinet-if-rahul-is-not-accepted-as": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "cabinet|congress|minister|prime minister|war|warning",
-    "norm": 70.6
+    "norm": 64.1
   },
-  "pm-modi-arrives-in-kyrgyzstan-s-bishkek-for-sco-summit-recei": {
-    "firstSeen": "2026-08-30T17:23:32.444Z",
-    "signature": "modi|modi|summit|video|war",
-    "norm": 66.5
+  "india-uzbekistan-target-long-term-uranium-pact-set-annual-tr": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "bill|billion|ipl|mp",
+    "norm": 62.7
+  },
+  "iiser-students-protest-continues-in-pune": {
+    "firstSeen": "2026-08-30T20:59:29.585Z",
+    "signature": "ipl|mp|protest|protest",
+    "norm": 62.4
   },
   "6-killed-several-injured-after-bus-collides-with-truck-in-as": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "accident|injured|killed|killed|war",
-    "norm": 65.3
-  },
-  "nijjar-murder-case-bki-terrorist-parmjit-singh-pamma-rejects": {
-    "firstSeen": "2026-08-30T17:23:32.444Z",
-    "signature": "death|mp|terror|terror|threat",
-    "norm": 64.7
+    "norm": 61.5
   },
   "nepal-flash-flood-highlights-734-bodies-recovered-275-indian": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "collapse|collapse|collapse|flood|flood|sudden",
-    "norm": 63.7
+    "norm": 59.9
+  },
+  "pm-modi-likely-to-hold-bilateral-talks-with-iranian-presiden": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "iran|modi|modi|president",
+    "norm": 59.5
   },
   "bjp-leader-1984-riots-lawyer-slams-party-mps-over-sajjan-kum": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "bjp|controversy|mp|president|riot|slam|slams",
-    "norm": 61.8
+    "norm": 58
   },
-  "army-aviation-pilots-pull-off-daring-high-altitude-helicopte": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "army|evacuat|mp|rescue|rescue",
-    "norm": 61.3
+  "pm-modi-arrives-in-kyrgyzstan-s-bishkek-for-sco-summit-recei": {
+    "firstSeen": "2026-08-30T17:23:32.444Z",
+    "signature": "modi|modi|summit|video|war",
+    "norm": 55.9
+  },
+  "-cjp-netas-not-saints-nothing-wrong-in-having-political-ambi": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "killed|killed",
+    "norm": 55
   },
   "swiss-police-launch-manhunt-after-rave-shooting-terrorism-am": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "shooting|terror|terror",
-    "norm": 60.4
-  },
-  "four-killed-in-encounter-with-meghalaya-police-ats-in-east-g": {
-    "firstSeen": "2026-08-30T17:23:32.444Z",
-    "signature": "fire|fire|killed|killed",
-    "norm": 59.2
+    "norm": 53.4
   },
   "-islam-superior-says-karnataka-minister-bjp-demands-apology-": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "bjp|congress|minister|slam|vote",
-    "norm": 57.4
-  },
-  "kpsc-veterinary-recruitment-scam-cid-detains-political-party": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "recruitment|scam|war",
-    "norm": 57.4
-  },
-  "ex-madras-hc-judge-missing-in-nepal-after-floods-advocates-b": {
-    "firstSeen": "2026-08-30T17:23:32.444Z",
-    "signature": "cji|flood|flood|floods",
-    "norm": 57.1
-  },
-  "pm-modi-conferred-with-uzbekistan-s-highest-honour-for-forei": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "modi|modi|war",
-    "norm": 56.7
+    "norm": 53.4
   },
   "aiadmk-to-protest-in-alanganallur-condemning-tvk-mla-s-comme": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "mla|protest|protest",
-    "norm": 55.5
-  },
-  "retired-bengal-couple-returns-from-nepal-recounts-narrow-esc": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "flood|flood|row",
-    "norm": 53.8
-  },
-  "deepti-sharma-scripts-history-stunning-3-0-makes-her-world-s": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "cricket|match|sharma",
-    "norm": 53.7
-  },
-  "8-year-old-boy-dies-after-mumbai-woman-on-a-phone-call-runs-": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "dead|dead|hospital",
-    "norm": 53.4
-  },
-  "best-in-112-years-robinson-breaks-bumrah-s-mark-to-claim-tes": {
-    "firstSeen": "2026-08-30T17:23:32.444Z",
-    "signature": "bumrah|cricket|pakistan",
-    "norm": 53
-  },
-  "pm-modi-s-36-international-honours-at-a-glance-graphics": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "modi|modi",
-    "norm": 52.7
-  },
-  "-standing-firm-ex-venezuela-president-maduro-shares-photo-fr": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "fire|fire|president",
     "norm": 51.5
   },
   "iceland-voters-say-no-to-resume-talks-to-rejoin-european-uni": {
@@ -149,65 +109,125 @@
     "signature": "poll|row|vote",
     "norm": 50
   },
+  "deepti-sharma-scripts-history-stunning-3-0-makes-her-world-s": {
+    "firstSeen": "2026-08-30T20:59:29.585Z",
+    "signature": "cricket|match|sharma",
+    "norm": 49.7
+  },
+  "retired-bengal-couple-returns-from-nepal-recounts-narrow-esc": {
+    "firstSeen": "2026-08-30T20:59:29.585Z",
+    "signature": "flood|flood|row",
+    "norm": 49.7
+  },
+  "right-to-question-not-defiance-every-dissent-not-a-threat-sc": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "supreme court|threat",
+    "norm": 49.6
+  },
+  "neet-pg-2026-conducted-smoothly-retest-on-sept-5-for-jaipur-": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "exam|neet",
+    "norm": 49.4
+  },
+  "8-year-old-boy-dies-after-mumbai-woman-on-a-phone-call-runs-": {
+    "firstSeen": "2026-08-30T20:59:29.585Z",
+    "signature": "dead|dead|hospital",
+    "norm": 49.4
+  },
+  "four-killed-in-encounter-with-meghalaya-police-ats-in-east-g": {
+    "firstSeen": "2026-08-30T17:23:32.444Z",
+    "signature": "fire|fire|killed|killed",
+    "norm": 49.2
+  },
+  "-standing-firm-ex-venezuela-president-maduro-shares-photo-fr": {
+    "firstSeen": "2026-08-30T20:59:29.585Z",
+    "signature": "fire|fire|president",
+    "norm": 47.4
+  },
+  "ex-madras-hc-judge-missing-in-nepal-after-floods-advocates-b": {
+    "firstSeen": "2026-08-30T17:23:32.444Z",
+    "signature": "cji|flood|flood|floods",
+    "norm": 47.2
+  },
+  "pm-modi-s-36-international-honours-at-a-glance-graphics": {
+    "firstSeen": "2026-08-30T20:59:29.585Z",
+    "signature": "modi|modi",
+    "norm": 45.4
+  },
   "assam-clears-rs-50-000-crore-package-for-women-health-roads-": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "crore|war",
-    "norm": 49.6
+    "norm": 45.4
   },
-  "keralam-islamic-scholar-says-women-s-public-appearances-will": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "president|slam",
-    "norm": 49.6
+  "fpis-turn-buyers-for-second-month-invest-30-919-crore-in-aug": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "crore|fpi",
+    "norm": 42.5
   },
-  "three-including-two-police-officials-injured-in-patna-encoun": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "injured",
-    "norm": 48.2
+  "revanth-s-govt-leaves-its-imprint-after-1-000-days-in-office": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "mp",
+    "norm": 41
   },
   "amid-alliance-suspense-akali-bjp-student-wings-tie-up-for-un": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "alliance|bjp|poll",
-    "norm": 48.2
+    "norm": 40.6
+  },
+  "three-including-two-police-officials-injured-in-patna-encoun": {
+    "firstSeen": "2026-08-30T20:59:29.585Z",
+    "signature": "injured",
+    "norm": 40.1
+  },
+  "for-every-100-laundered-only-1-recovered-by-authorities-cji-": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "cji",
+    "norm": 37.5
+  },
+  "diabetes-impacts-men-women-differently-study": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "mp",
+    "norm": 37.5
   },
   "bengaluru-tunnel-road-vs-lalbagh-5-parkland-bill-sparks-deve": {
     "firstSeen": "2026-08-30T17:23:32.444Z",
     "signature": "bill|row",
-    "norm": 45.4
-  },
-  "should-the-cjp-be-a-political-party-": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "vote",
-    "norm": 44
+    "norm": 36.5
   },
   "krishna-byre-gowda-directs-gba-to-take-disciplinary-action-a": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "ipl",
-    "norm": 43.5
+    "norm": 35.5
   },
   "four-die-in-suspected-hooch-tragedy-in-patna": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "tragedy",
-    "norm": 43.5
-  },
-  "farmers-associations-seek-lifting-of-toddy-ban-in-tamil-nadu": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "jobs",
-    "norm": 41
+    "norm": 35.5
   },
   "tributes-paid-to-moopanar-on-his-25th-death-anniversary": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "death",
-    "norm": 40.1
-  },
-  "woman-s-murder-couple-arrested-in-manipur-being-brought-to-c": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "mp",
-    "norm": 37.5
+    "norm": 35.5
   },
   "iran-s-khamenei-urges-gulf-rulers-in-written-message-to-conf": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "iran",
     "norm": 35.5
+  },
+  "should-the-cjp-be-a-political-party-": {
+    "firstSeen": "2026-08-30T20:59:29.585Z",
+    "signature": "vote",
+    "norm": 32.8
+  },
+  "farmers-associations-seek-lifting-of-toddy-ban-in-tamil-nadu": {
+    "firstSeen": "2026-08-30T20:59:29.585Z",
+    "signature": "jobs",
+    "norm": 32.8
+  },
+  "woman-s-murder-couple-arrested-in-manipur-being-brought-to-c": {
+    "firstSeen": "2026-08-30T20:59:29.585Z",
+    "signature": "mp",
+    "norm": 32.8
   },
   "bridge-on-shimla-kalka-toy-train-line-loses-foundation-due-t": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
@@ -222,74 +242,54 @@
   "-no-strict-action-akal-takht-leader-tears-into-aap-over-punj": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "aap",
-    "norm": 32.8
-  },
-  "russia-says-it-helped-to-repel-niger-attempted-coup": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "nhai-mandates-end-to-end-ai-mc-deployment-for-projects-over-": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "",
-    "norm": 30.7
+    "norm": 27.8
   },
   "state-of-exception-on-india-the-un-cerd-report": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 21.2
   },
   "neelakurinji-like-bloom-adds-charm-to-kudremukh-hills": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 21.2
+  },
+  "jammu-and-kashmir-should-focus-on-retaining-talented-youth-m": {
+    "firstSeen": "2026-08-30T23:26:20.296Z",
+    "signature": "",
+    "norm": 21.2
   },
   "congregation-facing-mass-resumes-at-st-mary-s-cathedral-basi": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "v-p-to-inaugurate-college-s-silver-jubilee-celebrations-in-k": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "assam-government-approves-proton-beam-cancer-therapy-facilit": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "benaka-to-organise-month-long-karantha-maasa-celebration-in-": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "ai-agents-built-secret-society-then-some-chose-to-sacrifice-": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "",
-    "norm": 26.7
-  },
-  "create-a-large-reservoir-in-parandur-anbumani": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "",
-    "norm": 26.7
-  },
-  "four-persons-in-ambur-held-for-selling-baby": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "",
-    "norm": 26.7
+    "norm": 21.2
   },
   "bandra-woman-runs-over-8-year-old-boy-while-speaking-on-phon": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "",
-    "norm": 26.7
-  },
-  "india-s-hdfc-bank-weighing-deputy-md-bharucha-outsider-for-c": {
-    "firstSeen": "2026-08-30T20:59:29.585Z",
-    "signature": "",
     "norm": 21.2
   },
-  "five-arrested-in-sexual-assault-case": {
+  "india-s-hdfc-bank-weighing-deputy-md-bharucha-outsider-for-c": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "",
     "norm": 21.2
@@ -297,6 +297,6 @@
   "no-food-discussion-no-fatwas-vhp-on-reports-of-satvik-food-o": {
     "firstSeen": "2026-08-30T20:59:29.585Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 15.1
   }
 }
