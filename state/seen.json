@@ -1,111 +1,181 @@
 {
-  "nepal-flash-floods-live-at-least-933-workers-trapped-in-hydr": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "disaster|flood|flood|floods|heartbreak|minister|prime minister",
-    "norm": 84
+  "trump-s-ai-generated-military-posts-spark-mockery-amid-ongoi": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "attack|attack|iran|mp|president|trump|trump|video",
+    "norm": 91.2
   },
-  "bhagwat-defended-gen-z-protesters-then-modi-branded-them-dim": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "bjp|modi|modi|protest|protest|star",
-    "norm": 81.7
+  "pm-modi-meets-iran-s-pezeshkian-at-sco-discusses-west-asia-w": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "economy|iran|modi|modi|sanction|war",
+    "norm": 82.6
   },
-  "telangana-nurse-found-dead-at-home-bjp-leader-alleges-assaul": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "bjp|cctv|dead|dead|footage|khan",
-    "norm": 80.4
+  "us-iran-war-to-hormuz-global-oil-shock-how-india-beat-all-od": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "gdp|iran|row|shock|shock|war",
+    "norm": 80.2
   },
-  "aimim-leader-mehboob-ali-stabbed-to-death-in-hyderabad-polic": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "attack|attack|cctv|death|footage",
+  "sco-summit-pm-modi-iran-president-pezeshkian-reaffirm-india-": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "iran|modi|modi|mp|president|summit|trump|trump",
     "norm": 71
   },
-  "stock-market-live-updates-sensex-today-sensex-drops-400-poin": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "iran|nifty|price|prices|sensex|stock market",
-    "norm": 65.1
+  "gdp-growth-comes-in-at-7-8-in-q1-slower-than-last-quarter-bu": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "defence|gdp|mp|row",
+    "norm": 69.6
   },
-  "congress-warns-of-cabinet-exit-if-vijay-s-tvk-rejects-rahul-": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "cabinet|congress|minister|rahul gandhi|war",
-    "norm": 62.9
+  "mla-threatens-protest-against-govt-failure-to-include-gurmit": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "mla|protest|protest|threat",
+    "norm": 67.9
   },
-  "nellore-mahalakshmi-temple-set-for-reconstruction-with-1-01-": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "budget|crore|fund|mp",
-    "norm": 61.4
+  "shopkeeper-arrested-in-karnataka-for-assaulting-two-minors-w": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "video|viral|viral|viral",
+    "norm": 66
   },
-  "cjp-finds-in-aap-an-all-weather-friend-supporting-it-at-ever": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "aap|kejriwal|weather",
-    "norm": 61.4
+  "nine-seed-storage-warehouses-to-be-set-up-across-tamil-nadu-": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "crore|minister|war",
+    "norm": 65.6
   },
-  "16-year-old-girl-gang-raped-inside-moving-bus-during-47-km-r": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "heavy rain|threat",
+  "congress-to-hold-massive-protests-over-fir-against-rahul-gan": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "congress|protest|protest|rahul gandhi",
+    "norm": 65.3
+  },
+  "high-drama-unfolds-as-youth-congress-workers-protest-outside": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "bjp|congress|protest|protest",
+    "norm": 65.3
+  },
+  "patient-attendant-attacks-nims-hyderabad-security-guard-thre": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "attack|attack|threat",
+    "norm": 64.5
+  },
+  "anec-serves-legal-notice-over-elephant-deaths-on-walayar-rai": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "death|war|warning",
+    "norm": 64.5
+  },
+  "1-burnt-to-death-after-moving-car-catches-fire-at-venganoor-": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "death|fire|fire",
+    "norm": 63.2
+  },
+  "us-open-mariano-navone-wins-battle-as-novak-djokovic-s-body-": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "deal|match|upset",
+    "norm": 62.8
+  },
+  "nalsar-student-body-says-cruel-as-national-law-school-cancel": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "cji|protest|protest",
+    "norm": 61.1
+  },
+  "tamil-nadu-s-business-houses-line-up-for-the-ipo-route": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "drone|ipo|mp",
+    "norm": 59
+  },
+  "minor-girl-gang-raped-inside-moving-bus-during-noida-delhi-j": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "exam|heavy rain",
     "norm": 57.6
   },
-  "shillong-teer-result-today-august-31-2026-check-winning-numb": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "khan|result",
-    "norm": 55.7
+  "two-kerala-women-killed-in-california-one-murdered-in-flat-a": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "killed|killed",
+    "norm": 57.6
   },
-  "jharkhand-cid-arrests-one-more-person-in-exam-irregularities": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "exam|khan",
-    "norm": 55.7
+  "ganga-nears-danger-mark-84-varanasi-ghats-shut-6-400-displac": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "anger|heavy rain",
+    "norm": 57.6
   },
-  "rupee-falls-13-paise-to-95-56-as-crude-rises-fed-hike-bets-s": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "price|prices|rupee|rupee falls",
-    "norm": 52.1
+  "pm-modi-s-jackets-rahul-s-shirts-how-leaders-use-fashion-for": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "modi|modi",
+    "norm": 55.4
   },
-  "gogi-gotra-court-me-murder-song-police-reveal-motive-behind-": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "gst|singer",
-    "norm": 51.7
+  "goa-opposition-members-disrupt-house-over-disallowed-land-co": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "congress|opposition",
+    "norm": 48.7
   },
-  "nirmala-sitharaman-in-u-s-asheville-city-for-g-20-finance-mi": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "governor|minister",
-    "norm": 50.5
+  "parliamentary-panel-holds-meeting-on-t-n-s-water-resources": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "mp|parliament",
+    "norm": 48.7
   },
-  "can-an-accused-be-denied-a-copy-of-the-fir-explained": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "mp|supreme court",
-    "norm": 50.5
+  "kmc-chief-calls-for-removal-of-posters-marring-city-s-aesthe": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "war",
+    "norm": 48.2
   },
-  "andhra-woman-allegedly-gang-raped-assaulted-at-home-2-detain": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "exam",
+  "patient-carried-on-makeshift-bamboo-stretcher-to-hospital-in": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "hospital",
+    "norm": 48.2
+  },
+  "italy-population-to-shrink-by-nearly-4-million-by-2050-as-ag": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "new-traffic-rules-in-bengaluru-no-entry-for-two-wheelers-on-": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
+  "srikakulam-needs-more-blood-donors-says-ex-mla": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "mla",
+    "norm": 45.9
+  },
+  "thief-takes-away-valuables-worth-over-1-42-crore-from-shivam": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "crore",
+    "norm": 45.9
+  },
+  "manipur-census-2027-deferred-amid-demand-to-first-build-citi": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "star",
+    "norm": 44.3
+  },
+  "india-s-gps-problem-why-the-armed-forces-need-navic-to-work": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
     "signature": "mp",
     "norm": 44
   },
-  "bjp-thinks-it-is-bigger-than-rss-should-listen-to-mohan-bhag": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "bjp",
-    "norm": 44
+  "3-year-old-tied-to-chair-for-hours-beaten-at-delhi-playschoo": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "sudden",
+    "norm": 40.7
   },
-  "muslim-law-bars-elder-brother-from-selling-minor-siblings-la": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
-    "signature": "high court",
-    "norm": 44
-  },
-  "suresh-gopi-assures-steps-to-repatriate-remains-of-two-keral": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
+  "566-motorists-booked-for-drunk-driving-in-bengaluru": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "developer-bought-83-acres-near-yosemite-for-4m-us-weighs-lan": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
+  "sonia-gandhi-memoir-prhi-denies-external-pressure-cites-a-pa": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "in-1934-black-cave-guide-sold-mammoth-cave-hotel-for-just-3-": {
-    "firstSeen": "2026-08-31T05:24:16.584Z",
+  "31-bangladeshi-nationals-sent-from-bengaluru-to-west-bengal-": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "",
+    "norm": 36
+  },
+  "new-ayurvedic-medical-college-will-benefit-public-says-seer": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "",
+    "norm": 36
+  },
+  "a-p-cm-felicitates-poola-subbaiah-s-daughters-at-veligonda-p": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
+    "signature": "",
+    "norm": 36
+  },
+  "madras-a-place-where-women-found-home-and-freedom-author-pro": {
+    "firstSeen": "2026-08-31T13:35:26.848Z",
     "signature": "",
     "norm": 33.9
   }
