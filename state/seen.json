@@ -1,112 +1,302 @@
 {
+  "economy-grew-7-8-in-q1-despite-iran-crisis-and-el-nino-condi": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "economy|iran|mp|record|row",
+    "norm": 74.1
+  },
+  "iran-president-meets-pm-modi-seeks-help-to-end-war": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "iran|minister|modi|modi|president|prime minister|war",
+    "norm": 72.8
+  },
+  "the-nepal-paradox-near-zero-emissions-catastrophic-climate-c": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "border|china|collapse|collapse|collapse|flood|flood|floods",
+    "norm": 72.1
+  },
+  "it-s-time-to-move-from-endless-war-to-end-of-war-pm-modi-to-": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "minister|modi|modi|mp|president|prime minister|war",
+    "norm": 68.3
+  },
+  "haldwani-purification-row-day-after-fir-against-rahul-bjp-co": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "bjp|congress|mp|rahul gandhi|row|slam|threat",
+    "norm": 68.1
+  },
+  "bangladesh-china-finalise-plans-on-teesta-river-j-10ce-fight": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "attack|attack|china|deal",
+    "norm": 65.2
+  },
+  "nepal-flash-floods-news-live-updates-death-count-crosses-900": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "death|disaster|flood|flood|floods",
+    "norm": 64
+  },
+  "government-terms-arbitration-award-on-indus-waters-treaty-il": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "rbi|ruling|war",
+    "norm": 63.9
+  },
+  "-golden-age-of-america-trump-celebrates-as-sc-clears-400m-wh": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "gold|mp|trump|trump",
+    "norm": 62.5
+  },
+  "trump-says-us-reviewing-its-position-on-uk-controlled-falkla": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "mp|rally|rally|trump|trump",
+    "norm": 62
+  },
+  "51-of-227-indians-serving-in-russian-army-killed-in-ukraine-": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "army|killed|killed|war",
+    "norm": 62
+  },
   "pinarayi-accuses-taliparamba-mla-of-betrayal-": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "betray|exam|mla|mp",
-    "norm": 71.6
+    "norm": 61
   },
-  "pm-modi-told-putin-india-ready-to-do-whatever-is-feasible-to": {
-    "firstSeen": "2026-08-31T19:58:52.050Z",
-    "signature": "modi|modi|war",
-    "norm": 67.6
+  "bjp-targets-aap-government-over-employee-protests-unfulfille": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "aap|bjp|chief minister|minister|mp|protest|protest",
+    "norm": 59.8
   },
-  "51-indias-killed-in-russian-army-139-discharged-mea-says-tal": {
-    "firstSeen": "2026-08-31T19:58:52.050Z",
-    "signature": "army|killed|killed",
-    "norm": 67.6
+  "bihar-jharkhand-sign-sone-water-agreement-resolving-25-year-": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "amit shah|exam|khan|minister|mp",
+    "norm": 59.6
   },
   "pm-modi-urges-iran-to-ensure-peace-freedom-of-navigation": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "iran|israel|modi|modi|president",
-    "norm": 67.5
+    "norm": 58.3
+  },
+  "trump-plans-4-million-for-right-wing-media-in-europe-report": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "mp|trump|trump",
+    "norm": 57.1
+  },
+  "pm-modi-told-putin-india-ready-to-do-whatever-is-feasible-to": {
+    "firstSeen": "2026-08-31T19:58:52.050Z",
+    "signature": "modi|modi|war",
+    "norm": 56.7
+  },
+  "51-indias-killed-in-russian-army-139-discharged-mea-says-tal": {
+    "firstSeen": "2026-08-31T19:58:52.050Z",
+    "signature": "army|killed|killed",
+    "norm": 56.7
+  },
+  "trump-asks-apple-to-change-lake-ontario-name-to-lake-america": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "mp|president|trump|trump",
+    "norm": 56.3
+  },
+  "tamil-nadu-police-transfers-6-crypto-fraud-cases-to-economic": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "cry|fraud|fund|investor",
+    "norm": 55.6
+  },
+  "not-just-nepal-floods-have-displaced-30-million-people-world": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "flood|flood|floods|rescue|rescue",
+    "norm": 54
   },
   "anna-hazare-admitted-to-icu-in-mumbai-due-to-viral-infection": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "viral|viral|viral",
-    "norm": 63.2
+    "norm": 53.8
+  },
+  "supreme-court-allows-trump-to-continue-white-house-ballroom-": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "congress|mp|supreme court|trump|trump",
+    "norm": 53.4
+  },
+  "bihar-couple-3-children-injured-in-acid-attack-over-financia": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "attack|attack|injured",
+    "norm": 53.4
+  },
+  "who-to-blame-for-indore-s-water-deaths-600-page-report-has-a": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "death|high court|mp",
+    "norm": 50
   },
   "the-battle-within-the-bjp-in-bengal": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "bjp|mamata|rbi",
-    "norm": 59.3
+    "norm": 47.7
   },
-  "mbbs-bds-interns-in-j-amp-k-start-indefinite-strike-over-low": {
-    "firstSeen": "2026-08-31T19:58:52.050Z",
-    "signature": "mp|star",
-    "norm": 53.5
+  "us-army-secretary-resigns-after-tensions-with-pete-hegseth": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "army",
+    "norm": 45.9
+  },
+  "malicious-ads-on-social-media-lure-users-into-fraud-centre": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "fraud",
+    "norm": 43.5
   },
   "draft-voter-lists-see-over-6-crore-deletions-so-far-in-sir-t": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "crore|vote",
-    "norm": 53.2
+    "norm": 43
+  },
+  "8-year-jail-for-conman-sukesh-chandrasekhar-for-posing-as-to": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "mp|rbi",
+    "norm": 43
   },
   "akali-bjp-experiment-gets-students-stamp-ahead-of-punjab-pol": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "bjp|mp|poll|president",
-    "norm": 52.1
+    "norm": 41.8
+  },
+  "why-priyanka-gandhi-not-given-chance-d-fadnavis-targets-rahu": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "bill|congress|parliament|rahul gandhi",
+    "norm": 41.8
+  },
+  "ahead-of-sco-pm-holds-talks-with-kyrgyz-president-pm-of-arme": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "president",
+    "norm": 41
+  },
+  "u-p-congress-chief-ajay-rai-flags-ias-officer-divya-mittal-s": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "congress|governor",
+    "norm": 38
   },
   "onions-arrive-from-nashik-to-reduce-prices": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "price|prices",
-    "norm": 48.7
+    "norm": 38
+  },
+  "action-against-minister-over-colonel-sofiya-qureshi-remark-e": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "governor|minister",
+    "norm": 38
+  },
+  "tech-news-2026-issue-36": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "israeli-air-strikes-on-gaza-kill-at-least-five-people-report": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "israel",
+    "norm": 35.5
+  },
+  "woman-shot-by-police-after-stabbing-two-at-new-york-s-times-": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "firms-including-chevron-ongc-ge-vernova-on-track-to-sign-fin": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "",
+    "norm": 33.9
   },
   "telangana-ayush-doctors-call-off-28-day-strike-after-health-": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "minister",
-    "norm": 45.9
+    "norm": 32.8
   },
   "sumadhura-group-makes-chennai-debut-with-400-crore-logistics": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "crore",
-    "norm": 45.9
+    "norm": 32.8
+  },
+  "rajasthan-high-court-lawyers-to-abstain-from-work-till-septe": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "high court",
+    "norm": 32.8
   },
   "keralam-cm-condemns-registration-of-fir-against-rahul-gandhi": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "rahul gandhi",
-    "norm": 44
+    "norm": 32.8
   },
   "the-need-for-political-unity-in-kashmir": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 32.8
   },
   "campaign-to-ensure-vehicles-are-not-parked-along-nhs": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 32.8
   },
   "after-fir-against-tdp-mla-for-abduction-of-bengaluru-busines": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "mla",
-    "norm": 44
+    "norm": 32.8
   },
   "t-n-handlooms-minister-announces-change-in-length-of-dhotis-": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "minister",
-    "norm": 44
+    "norm": 32.8
   },
   "25-year-old-man-arrested-for-killing-wife-over-dowry-in-up": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 32.8
+  },
+  "shivraj-reviews-watershed-scheme-calls-for-faster-implementa": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "on-his-last-day-as-apple-ceo-tim-cook-sends-memo-to-employee": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "nab-these-nothing-ear-3a-earbuds-while-they-re-down-to-a-rec": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "record",
+    "norm": 29.2
+  },
+  "harikatha-artistes-seek-govt-support-to-promote-art": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "",
+    "norm": 21.2
   },
   "51-pwds-in-vizag-get-three-wheel-bikes": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
   "engineering-as-a-career-prospect-losing-its-sheen-in-tamil-n": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
+  },
+  "apple-s-iphone-18-pro-launch-scheduled-in-ten-days": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "",
+    "norm": 21.2
   },
   "food-safety-drive-finds-labelling-hygiene-violations-at-swee": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   },
   "us-strips-citizenship-of-indian-origin-cab-driver-convicted-": {
     "firstSeen": "2026-08-31T19:58:52.050Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
+  },
+  "a-p-govt-moves-to-resolve-journalists-housing-issue-in-amara": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "d4vd-s-private-lawyers-withdraw-from-case-why-did-he-switch-": {
+    "firstSeen": "2026-08-31T23:46:52.223Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
