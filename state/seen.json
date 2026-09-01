@@ -1,196 +1,116 @@
 {
-  "pune-pm-modi-photo-row-triggers-bjp-vs-mns-in-kalyan-dombivl": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "bjp|coalition|modi|modi|row|ruling|threat",
-    "norm": 79.4
+  "trump-warns-of-biggest-attack-as-strikes-begin-iran-says-us-": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "attack|attack|iran|mp|president|trump|trump|war",
+    "norm": 90.9
   },
-  "-we-can-resist-us-unilateralism-iran-president-tells-putin-o": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "iran|mp|president|sanction|summit|war",
-    "norm": 74.6
+  "up-shock-loading-for-asaduddin-owaisi-sources-say-big-exit-u": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "congress|deal|shock|shock",
+    "norm": 71
   },
-  "rush-hour-rain-floods-parts-of-ncr-traffic-crawls-in-delhi-n": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "flood|flood|floods|weather",
+  "opinion-opinion-every-glacier-is-different-our-failure-to-pr": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "flood|flood|war|warning",
     "norm": 70
   },
-  "visuals-from-uttarakhand-show-severe-waterlogging-flood-like": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "flood|flood|heavy rain|khan|video|visuals",
-    "norm": 69
+  "cpi-targets-modi-government-at-delhi-rally-calls-for-change-": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "bjp|modi|modi|rally|rally",
+    "norm": 67.3
   },
-  "-petty-play-and-posturing-pakistan-s-embarrassed-at-sco-bras": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "ipl|minister|modi|modi|pakistan|prime minister|summit",
-    "norm": 68.5
+  "pakistan-chaos-pcb-seeks-answers-over-rizwan-imam-picks-as-m": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "cricket|election|election|pakistan",
+    "norm": 65
   },
-  "rain-lashes-delhi-ncr-as-imd-issues-orange-alert-more-shower": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "alert|video|war|warning",
-    "norm": 68.4
+  "inside-modi-s-balancing-act-at-the-sco-xi-putin-and-a-pointe": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "modi|modi|mp|pakistan|summit",
+    "norm": 62.9
   },
-  "pm-modi-to-participate-in-jal-shakti-ministry-summit-on-wedn": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "minister|modi|modi|prime minister|summit",
-    "norm": 64.6
-  },
-  "asian-games-2026-karnataka-high-court-orders-enquiry-through": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "election|election|high court|mp",
-    "norm": 63.5
-  },
-  "sixteen-students-suspended-over-sfi-protest-at-university-in": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
-  },
-  "delhi-to-see-traffic-diversions-for-5-hours-tomorrow-amid-br": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "brics|row|summit",
-    "norm": 59.7
-  },
-  "hospital-asked-to-pay-1-cr-to-family-of-uoh-scholar-who-died": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "died|hospital",
-    "norm": 59.3
-  },
-  "keralam-govt-tightens-norms-for-contract-renewal-of-nhm-nam-": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "mp|war",
+  "child-dies-52-hospitalised-after-chloroquine-tablets-adminis": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "hospital|minister",
     "norm": 57.1
   },
-  "shivamogga-government-official-sentenced-to-four-years-impri": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "mp|war",
-    "norm": 57.1
-  },
-  "sonos-beam-ultra-and-ace-ultra-incoming-launches-appear-immi": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "mp|upsc",
-    "norm": 57.1
-  },
-  "-may-land-me-in-hot-water-multan-sultans-ceo-delivers-explos": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "cricket|pakistan",
+  "women-dominate-voter-deletions-in-five-old-city-constituenci": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "death|vote",
     "norm": 55.4
   },
-  "rahul-gandhi-vs-vijay-for-2029-pm-congress-tvk-alliance-rift": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "alliance|congress|minister|prime minister|rahul gandhi",
-    "norm": 54.4
-  },
-  "vijay-gifts-his-rs-40k-dior-sunglasses-to-elderly-woman-in-t": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "war|watch",
+  "car-catches-fire-at-eenchakkal-in-thiruvananthapuram": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "fire|fire",
     "norm": 54.2
   },
-  "keralam-leader-of-the-opposition-pinarayi-vijayan-counters-h": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "chief minister|minister|opposition",
-    "norm": 52.7
+  "lam-research-to-offer-240-hour-training-to-make-people-emplo": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "jobs|mp",
+    "norm": 53.2
   },
-  "ambasamudram-former-mla-esakki-subaya-says-he-has-written-to": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "high court|mla",
-    "norm": 50.5
+  "trinamool-worker-tortured-in-custody-over-signboard-dispute-": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "bjp|mp",
+    "norm": 48.7
   },
-  "india-s-big-brics-push-a-new-payment-system-that-could-reduc": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "border|brics",
-    "norm": 50.5
+  "central-team-to-examine-land-parcels-in-telangana-s-kothagud": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "exam",
+    "norm": 46.3
   },
-  "waylaying-of-keralam-cm-s-vehicle-police-granted-custody-of-": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
+  "kannada-actor-duniya-vijay-s-son-accused-of-assaulting-stude": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "actor",
+    "norm": 44.3
   },
-  "tiger-movement-creates-panic-at-polavaram-project-site-in-a-": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "panic",
-    "norm": 48.2
-  },
-  "amphibian-and-reptile-survey-in-munnar-wildlife-division-fro": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "amruthukulam-tribal-post-metric-hostel-to-reopen-following-y": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "delhi-hc-asks-centre-meta-to-respond-to-nc-mp-mehdi-s-plea-a": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "the-river-took-it-all-aerial-visuals-from-nepal-show-scale-o": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "aerial|visuals",
-    "norm": 44
-  },
-  "west-bengal-to-levy-fine-over-spitting-defecating-dumping-wa": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
+  "balyaspandanam-to-be-rolled-out-for-anganwadi-children-in-ke": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
     "signature": "mp",
     "norm": 44
   },
-  "villupuram-collector-issues-guidelines-for-vinayaka-chaturth": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
+  "cockroach-infestation-spoiled-vegetables-tukaram-mundhe-crac": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "punjab-sacked-police-officer-over-lawrence-bishnoi-jail-inte": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "gst",
+    "norm": 44
+  },
+  "srinagar-ghost-mall-turns-into-rs-422cr-jewel-in-auction": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
     "signature": "",
     "norm": 36
   },
-  "-pocso-act-applies-court-refuses-to-quash-case-against-musli": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
+  "pinarayi-vijayan-accuses-udf-government-of-surrender-to-rss-": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
     "signature": "",
     "norm": 36
   },
-  "cm-promises-to-make-nit-c-partner-in-puthuyuga-keralam-proje": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
+  "310-private-colleges-closed-due-to-non-release-of-fee-reimbu": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
     "signature": "",
     "norm": 36
   },
-  "keralam-may-witness-early-summer-like-conditions-this-year-a": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "",
-    "norm": 36
-  },
-  "fake-currency-racket-unearthed-in-ramanagara-seven-held": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "",
-    "norm": 36
-  },
-  "panel-to-submit-safety-report-on-mullaperiyar-dam-in-two-wee": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "",
-    "norm": 36
-  },
-  "chhattisgarh-ed-raids-seven-locations-in-state-in-cgpsc-case": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "",
-    "norm": 36
-  },
-  "acb-traps-tolichowki-si-accepting-10-000-bribe": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "",
-    "norm": 36
-  },
-  "noida-delhi-bus-gang-rape-case-vehicle-had-challans-worth-63": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "",
-    "norm": 36
-  },
-  "andhra-pradesh-state-police-sports-and-games-meet-begins": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
-    "signature": "",
-    "norm": 36
-  },
-  "jee-advanced-may-shift-to-adaptive-testing-by-2030-to-reduce": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
+  "hc-stays-single-judge-order-stalling-kalyana-lakshmi-shaadi-": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
     "signature": "",
     "norm": 33.9
   },
-  "tukaram-mundhe-s-decision-reversed-why-cm-devendra-fadnavis-": {
-    "firstSeen": "2026-09-01T14:47:33.589Z",
+  "tg-wants-tripartite-partnership-to-focus-on-critical-mineral": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "knruhs-reopens-mbbs-bds-management-quota-registration-for-20": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "beed-mother-runs-to-win-prize-money-for-daughters-education": {
+    "firstSeen": "2026-09-01T18:24:59.088Z",
     "signature": "",
     "norm": 33.9
   }
