@@ -1,117 +1,242 @@
 {
-  "pm-modi-s-jhooth-ki-goonj-attack-at-rahul-gandhi-after-7-8-g": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "attack|attack|gdp|modi|modi|rahul gandhi|row",
-    "norm": 91.8
+  "pm-modi-reiterates-appeal-to-buy-local-avoid-foreign-travel-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "gdp|gold|minister|modi|modi|prime minister|row|video|wedding",
+    "norm": 96.8
   },
-  "-nation-is-filled-with-joy-pm-modi-lauds-7-8-gdp-growth-slam": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "gdp|modi|modi|row|slam|slams",
-    "norm": 81.2
+  "mamata-banerjee-s-niece-who-lost-job-after-teacher-recruitme": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "dead|dead|died|mamata|recruitment|scam|supreme court",
+    "norm": 88.3
   },
-  "pm-modi-takes-a-jhooth-ki-goonj-swipe-at-rahul-gandhi-on-gdp": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "gdp|modi|modi|rahul gandhi|war",
-    "norm": 79.4
+  "karnataka-minister-meets-protesters-promises-to-highlight-co": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "actor|dead|dead|minister|protest|protest",
+    "norm": 82.6
   },
-  "software-update-for-lpg-agencies-signals-intent-as-e-kyc-dea": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "crore|dead|dead|mp|war",
-    "norm": 78.8
+  "rescuers-comb-through-mud-and-debris-as-nepal-china-floods-l": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "china|dead|dead|flood|flood|floods|rescue|rescue",
+    "norm": 82.4
   },
-  "stock-market-live-updates-sensex-today-sensex-drops-150-poin": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "iran|nifty|price|prices|sensex|stock market",
-    "norm": 65.1
+  "-dalit-khatre-mein-hain-why-congress-is-turning-kharge-s-utt": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "congress|election|election|khan|rahul gandhi|row",
+    "norm": 78.5
   },
-  "maharashtra-draft-electoral-roll-for-all-288-assembly-consti": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "crore|maharashtra|vote",
-    "norm": 63.9
+  "indian-among-12-killed-in-latest-russian-attacks-on-ukraine-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "attack|attack|killed|killed|president",
+    "norm": 75.9
   },
-  "us-has-no-plans-to-deploy-troops-at-polling-sites-in-novembe": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "election|election|poll",
+  "-shuddhikaran-row-haryana-congress-protests-over-fir-against": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "chief minister|congress|minister|mla|protest|protest|rahul gandhi|row",
+    "norm": 73.8
+  },
+  "neet-protests-in-delhi-cjp-calls-off-september-5-protest-mar": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "cji|neet|protest|protest",
+    "norm": 72.9
+  },
+  "sc-to-hear-delhi-police-s-plea-to-quash-firs-against-neet-pr": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "neet|protest|protest|supreme court",
+    "norm": 72.9
+  },
+  "supreme-court-quashes-all-firs-across-the-country-against-ne": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "neet|protest|protest|supreme court",
+    "norm": 72.9
+  },
+  "mamata-banerjee-s-niece-found-dead-at-birbhum-house-cops-sus": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "dead|dead|death|mamata",
+    "norm": 72.6
+  },
+  "india-s-gdp-growth-bjp-hails-economic-resilience-congress-as": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "bjp|congress|gdp|jobs|row",
+    "norm": 72
+  },
+  "mamata-banerjee-s-niece-found-dead-at-her-residence-in-west-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "dead|dead|mamata|mp",
+    "norm": 71.6
+  },
+  "-i-ll-sleep-here-until-you-fix-the-potholes-hyderabad-man-s-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "protest|protest|viral|viral|viral",
+    "norm": 71
+  },
+  "3-of-kin-including-12-yr-old-daughter-die-in-guwahati-landsl": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "collapse|collapse|collapse|landslide|rescue|rescue",
+    "norm": 68.9
+  },
+  "ram-mandir-may-get-first-ceo-tomorrow-3-retired-bureaucrats-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "mp|ram mandir|row",
+    "norm": 67.6
+  },
+  "up-heavy-rain-shuts-schools-in-lakhimpur-kheri-boats-out-in-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "heavy rain|lakh|mp",
+    "norm": 65.6
+  },
+  "nhai-s-poor-highway-maintenance-led-to-fatal-accident-assam-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "accident|killed|killed|toll",
+    "norm": 65.5
+  },
+  "indus-water-treaty-row-explodes-shehbaz-sharif-takes-aim-at-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "minister|pakistan|prime minister|row|summit",
+    "norm": 64.6
+  },
+  "part-with-land-for-narsapuram-port-andhra-pradesh-cm-naidu-a": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "chief minister|election|election|minister",
+    "norm": 63.5
+  },
+  "supreme-court-quashes-firs-against-student-protesters-across": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "protest|protest|supreme court",
+    "norm": 62.8
+  },
+  "cjp-withdraws-september-5-march-cites-centre-s-move-to-drop-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "protest|protest|supreme court",
+    "norm": 62.8
+  },
+  "what-two-districts-can-teach-india-about-dealing-with-rural-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "bill|billion|deal|mp",
+    "norm": 61.8
+  },
+  "sc-seeks-centre-s-stand-on-use-of-totalisers-in-polls-ec-war": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "poll|vote|war",
+    "norm": 61.4
+  },
+  "centre-halves-sugar-stock-limit-for-dealers-to-2-000-quintal": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "deal|mp|price|prices",
     "norm": 59.7
   },
-  "canada-slaps-up-to-50-tariffs-on-hundreds-of-us-goods-see-th": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "bill|billion|mp",
+  "-ldf-is-cpi-s-child-binoy-viswam-urges-end-to-cpi-cpi-m-row-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "opposition|poll|row",
+    "norm": 59.7
+  },
+  "keralam-excise-minister-says-vigilance-probe-to-be-recommend": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "minister|policy|war",
+    "norm": 59.7
+  },
+  "tihar-interrogation-nia-to-quiz-vandyke-ukrainian-over-myanm": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "terror|terror",
     "norm": 57.6
   },
-  "74-year-old-man-from-keralam-s-wayanad-conquers-mt-elbrus-th": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "summit|weather",
-    "norm": 57.1
+  "cjp-calls-off-sept-5-march-after-centre-asks-sc-to-drop-firs": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "thousands-rally-to-save-bengaluru-s-lalbagh-oppose-tunnel-ro": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "bill|rally|rally",
-    "norm": 54.7
+  "vande-mataram-sung-in-full-twice-at-kerala-university-sports": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "governor|minister",
+    "norm": 50.5
   },
-  "vijay-backs-rahul-gandhi-as-pm-candidate-claims-congress-dis": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "alliance|congress|minister|prime minister|rahul gandhi",
-    "norm": 54.4
-  },
-  "cjp-s-proposed-march-on-sep-5-an-attempt-to-create-lawlessne": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "brics|mp|summit|supreme court",
-    "norm": 53.9
-  },
-  "shillong-teer-result-today-september-1-2026-check-winning-nu": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "khan|result",
-    "norm": 53.9
-  },
-  "karnataka-high-court-quashes-acquisition-of-1-938-acres-for-": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "acquisition|high court",
-    "norm": 53.2
-  },
-  "jet-fuel-prices-hiked-will-your-flight-ticket-get-costlier-w": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "fuel|price|prices",
-    "norm": 52.7
-  },
-  "commercial-lpg-prices-raised-by-rs-9-5-for-every-19kg-cylind": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
+  "onion-price-hike-centre-expands-rs-35-kg-sale-to-19-cities-a": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
     "signature": "price|prices",
+    "norm": 50.5
+  },
+  "over-12-000-sepsis-cases-treated-under-punjab-s-mukh-mantri-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "crore|lakh",
     "norm": 48.7
   },
-  "patient-carried-on-makeshift-bamboo-stretcher-to-hospital-in": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "hospital",
-    "norm": 48.2
+  "row-within-ldf-in-keralam-cpi-cpi-m-question-each-other-s-le": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "row",
+    "norm": 46.3
   },
-  "kozhikode-aboobacker-composer-and-noted-mappilapattu-veteran": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "mp",
+  "keralam-man-who-had-been-conning-people-for-25-years-by-posi": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "fraud",
+    "norm": 46.3
+  },
+  "three-of-family-die-one-injured-in-landslip-in-assam": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "injured",
+    "norm": 46.3
+  },
+  "to-keep-himself-in-focus-pak-pm-sharif-crops-out-world-leade": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "summit",
     "norm": 45.9
   },
-  "why-was-a-peptide-party-banned-in-bengaluru-explained": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "key-posts-at-govt-medical-institutions-across-t-n-vacant-or-": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "fir-against-tdp-mla-for-abduction-of-bengaluru-businessman-f": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
-    "signature": "mla",
-    "norm": 44
-  },
-  "scholars-experts-to-explore-india-s-rich-grammatical-traditi": {
-    "firstSeen": "2026-09-01T04:58:28.805Z",
+  "jensen-huang-explains-why-naming-the-smartest-person-is-now-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
     "signature": "mp",
     "norm": 44
   },
-  "the-need-for-political-unity-in-kashmir": {
-    "firstSeen": "2026-08-31T19:58:52.050Z",
+  "tamil-nadu-assembly-10-hike-in-wages-and-da-for-handloom-wea": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "minister",
+    "norm": 44
+  },
+  "ryan-seacrest-sells-40-acre-napa-estate-for-18-5m-after-22m-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "price",
+    "norm": 44
+  },
+  "the-orissan-tells-the-story-of-odisha-through-history-cultur": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
     "signature": "mp",
-    "norm": 40.8
+    "norm": 44
+  },
+  "nclt-five-member-bench-stays-approval-of-subhash-chandra-s-6": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "cjp-tells-supreme-court-it-s-withdrawing-september-5-india-g": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "supreme court",
+    "norm": 44
+  },
+  "95-year-old-florida-clock-gets-700-hour-restoration-after-de": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "indians-may-have-to-wait-179-years-for-us-green-card-here-s-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "woman-s-dismembered-body-found-in-overhead-tanks-of-tamil-na": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "",
+    "norm": 36
+  },
+  "dyson-debuts-499-ai-powered-toothbrush-with-a-built-in-camer": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "",
+    "norm": 36
+  },
+  "told-to-stop-posting-flaws-teen-hacker-uses-govt-email-id-to": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "how-a-derelict-1866-washington-house-was-saved-and-restored-": {
+    "firstSeen": "2026-09-01T09:59:42.172Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
