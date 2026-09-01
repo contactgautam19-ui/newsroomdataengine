@@ -1,241 +1,196 @@
 {
-  "pm-modi-reiterates-appeal-to-buy-local-avoid-foreign-travel-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "gdp|gold|minister|modi|modi|prime minister|row|video|wedding",
-    "norm": 96.8
+  "pune-pm-modi-photo-row-triggers-bjp-vs-mns-in-kalyan-dombivl": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "bjp|coalition|modi|modi|row|ruling|threat",
+    "norm": 79.4
   },
-  "mamata-banerjee-s-niece-who-lost-job-after-teacher-recruitme": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "dead|dead|died|mamata|recruitment|scam|supreme court",
-    "norm": 88.3
+  "-we-can-resist-us-unilateralism-iran-president-tells-putin-o": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "iran|mp|president|sanction|summit|war",
+    "norm": 74.6
   },
-  "karnataka-minister-meets-protesters-promises-to-highlight-co": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "actor|dead|dead|minister|protest|protest",
-    "norm": 82.6
+  "rush-hour-rain-floods-parts-of-ncr-traffic-crawls-in-delhi-n": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "flood|flood|floods|weather",
+    "norm": 70
   },
-  "rescuers-comb-through-mud-and-debris-as-nepal-china-floods-l": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "china|dead|dead|flood|flood|floods|rescue|rescue",
-    "norm": 82.4
+  "visuals-from-uttarakhand-show-severe-waterlogging-flood-like": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "flood|flood|heavy rain|khan|video|visuals",
+    "norm": 69
   },
-  "-dalit-khatre-mein-hain-why-congress-is-turning-kharge-s-utt": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "congress|election|election|khan|rahul gandhi|row",
-    "norm": 78.5
+  "-petty-play-and-posturing-pakistan-s-embarrassed-at-sco-bras": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "ipl|minister|modi|modi|pakistan|prime minister|summit",
+    "norm": 68.5
   },
-  "indian-among-12-killed-in-latest-russian-attacks-on-ukraine-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "attack|attack|killed|killed|president",
-    "norm": 75.9
+  "rain-lashes-delhi-ncr-as-imd-issues-orange-alert-more-shower": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "alert|video|war|warning",
+    "norm": 68.4
   },
-  "-shuddhikaran-row-haryana-congress-protests-over-fir-against": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "chief minister|congress|minister|mla|protest|protest|rahul gandhi|row",
-    "norm": 73.8
-  },
-  "neet-protests-in-delhi-cjp-calls-off-september-5-protest-mar": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "cji|neet|protest|protest",
-    "norm": 72.9
-  },
-  "sc-to-hear-delhi-police-s-plea-to-quash-firs-against-neet-pr": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "neet|protest|protest|supreme court",
-    "norm": 72.9
-  },
-  "supreme-court-quashes-all-firs-across-the-country-against-ne": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "neet|protest|protest|supreme court",
-    "norm": 72.9
-  },
-  "mamata-banerjee-s-niece-found-dead-at-birbhum-house-cops-sus": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "dead|dead|death|mamata",
-    "norm": 72.6
-  },
-  "india-s-gdp-growth-bjp-hails-economic-resilience-congress-as": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "bjp|congress|gdp|jobs|row",
-    "norm": 72
-  },
-  "mamata-banerjee-s-niece-found-dead-at-her-residence-in-west-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "dead|dead|mamata|mp",
-    "norm": 71.6
-  },
-  "-i-ll-sleep-here-until-you-fix-the-potholes-hyderabad-man-s-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "protest|protest|viral|viral|viral",
-    "norm": 71
-  },
-  "3-of-kin-including-12-yr-old-daughter-die-in-guwahati-landsl": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "collapse|collapse|collapse|landslide|rescue|rescue",
-    "norm": 68.9
-  },
-  "ram-mandir-may-get-first-ceo-tomorrow-3-retired-bureaucrats-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "mp|ram mandir|row",
-    "norm": 67.6
-  },
-  "up-heavy-rain-shuts-schools-in-lakhimpur-kheri-boats-out-in-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "heavy rain|lakh|mp",
-    "norm": 65.6
-  },
-  "nhai-s-poor-highway-maintenance-led-to-fatal-accident-assam-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "accident|killed|killed|toll",
-    "norm": 65.5
-  },
-  "indus-water-treaty-row-explodes-shehbaz-sharif-takes-aim-at-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "minister|pakistan|prime minister|row|summit",
+  "pm-modi-to-participate-in-jal-shakti-ministry-summit-on-wedn": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "minister|modi|modi|prime minister|summit",
     "norm": 64.6
   },
-  "part-with-land-for-narsapuram-port-andhra-pradesh-cm-naidu-a": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "chief minister|election|election|minister",
+  "asian-games-2026-karnataka-high-court-orders-enquiry-through": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "election|election|high court|mp",
     "norm": 63.5
   },
-  "supreme-court-quashes-firs-against-student-protesters-across": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "protest|protest|supreme court",
+  "sixteen-students-suspended-over-sfi-protest-at-university-in": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "mp|protest|protest",
     "norm": 62.8
   },
-  "cjp-withdraws-september-5-march-cites-centre-s-move-to-drop-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "protest|protest|supreme court",
-    "norm": 62.8
-  },
-  "what-two-districts-can-teach-india-about-dealing-with-rural-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "bill|billion|deal|mp",
-    "norm": 61.8
-  },
-  "sc-seeks-centre-s-stand-on-use-of-totalisers-in-polls-ec-war": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "poll|vote|war",
-    "norm": 61.4
-  },
-  "centre-halves-sugar-stock-limit-for-dealers-to-2-000-quintal": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "deal|mp|price|prices",
+  "delhi-to-see-traffic-diversions-for-5-hours-tomorrow-amid-br": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "brics|row|summit",
     "norm": 59.7
   },
-  "-ldf-is-cpi-s-child-binoy-viswam-urges-end-to-cpi-cpi-m-row-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "opposition|poll|row",
-    "norm": 59.7
+  "hospital-asked-to-pay-1-cr-to-family-of-uoh-scholar-who-died": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "died|hospital",
+    "norm": 59.3
   },
-  "keralam-excise-minister-says-vigilance-probe-to-be-recommend": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "minister|policy|war",
-    "norm": 59.7
+  "keralam-govt-tightens-norms-for-contract-renewal-of-nhm-nam-": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "mp|war",
+    "norm": 57.1
   },
-  "tihar-interrogation-nia-to-quiz-vandyke-ukrainian-over-myanm": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "terror|terror",
-    "norm": 57.6
+  "shivamogga-government-official-sentenced-to-four-years-impri": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "mp|war",
+    "norm": 57.1
   },
-  "cjp-calls-off-sept-5-march-after-centre-asks-sc-to-drop-firs": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "sonos-beam-ultra-and-ace-ultra-incoming-launches-appear-immi": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "mp|upsc",
+    "norm": 57.1
   },
-  "vande-mataram-sung-in-full-twice-at-kerala-university-sports": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "governor|minister",
+  "-may-land-me-in-hot-water-multan-sultans-ceo-delivers-explos": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "cricket|pakistan",
+    "norm": 55.4
+  },
+  "rahul-gandhi-vs-vijay-for-2029-pm-congress-tvk-alliance-rift": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "alliance|congress|minister|prime minister|rahul gandhi",
+    "norm": 54.4
+  },
+  "vijay-gifts-his-rs-40k-dior-sunglasses-to-elderly-woman-in-t": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "war|watch",
+    "norm": 54.2
+  },
+  "keralam-leader-of-the-opposition-pinarayi-vijayan-counters-h": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "chief minister|minister|opposition",
+    "norm": 52.7
+  },
+  "ambasamudram-former-mla-esakki-subaya-says-he-has-written-to": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "high court|mla",
     "norm": 50.5
   },
-  "onion-price-hike-centre-expands-rs-35-kg-sale-to-19-cities-a": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "price|prices",
+  "india-s-big-brics-push-a-new-payment-system-that-could-reduc": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "border|brics",
     "norm": 50.5
   },
-  "over-12-000-sepsis-cases-treated-under-punjab-s-mukh-mantri-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "crore|lakh",
-    "norm": 48.7
+  "waylaying-of-keralam-cm-s-vehicle-police-granted-custody-of-": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
   },
-  "row-within-ldf-in-keralam-cpi-cpi-m-question-each-other-s-le": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "row",
-    "norm": 46.3
+  "tiger-movement-creates-panic-at-polavaram-project-site-in-a-": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "panic",
+    "norm": 48.2
   },
-  "keralam-man-who-had-been-conning-people-for-25-years-by-posi": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "fraud",
-    "norm": 46.3
-  },
-  "three-of-family-die-one-injured-in-landslip-in-assam": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "injured",
-    "norm": 46.3
-  },
-  "to-keep-himself-in-focus-pak-pm-sharif-crops-out-world-leade": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "summit",
+  "amphibian-and-reptile-survey-in-munnar-wildlife-division-fro": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "jensen-huang-explains-why-naming-the-smartest-person-is-now-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
+  "amruthukulam-tribal-post-metric-hostel-to-reopen-following-y": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "delhi-hc-asks-centre-meta-to-respond-to-nc-mp-mehdi-s-plea-a": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "the-river-took-it-all-aerial-visuals-from-nepal-show-scale-o": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "aerial|visuals",
+    "norm": 44
+  },
+  "west-bengal-to-levy-fine-over-spitting-defecating-dumping-wa": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
     "signature": "mp",
     "norm": 44
   },
-  "tamil-nadu-assembly-10-hike-in-wages-and-da-for-handloom-wea": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "minister",
-    "norm": 44
-  },
-  "ryan-seacrest-sells-40-acre-napa-estate-for-18-5m-after-22m-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "price",
-    "norm": 44
-  },
-  "the-orissan-tells-the-story-of-odisha-through-history-cultur": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "nclt-five-member-bench-stays-approval-of-subhash-chandra-s-6": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "crore",
-    "norm": 44
-  },
-  "cjp-tells-supreme-court-it-s-withdrawing-september-5-india-g": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "supreme court",
-    "norm": 44
-  },
-  "95-year-old-florida-clock-gets-700-hour-restoration-after-de": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "indians-may-have-to-wait-179-years-for-us-green-card-here-s-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "woman-s-dismembered-body-found-in-overhead-tanks-of-tamil-na": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
+  "villupuram-collector-issues-guidelines-for-vinayaka-chaturth": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
     "signature": "",
     "norm": 36
   },
-  "dyson-debuts-499-ai-powered-toothbrush-with-a-built-in-camer": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
+  "-pocso-act-applies-court-refuses-to-quash-case-against-musli": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
     "signature": "",
     "norm": 36
   },
-  "told-to-stop-posting-flaws-teen-hacker-uses-govt-email-id-to": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
+  "cm-promises-to-make-nit-c-partner-in-puthuyuga-keralam-proje": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "",
+    "norm": 36
+  },
+  "keralam-may-witness-early-summer-like-conditions-this-year-a": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "",
+    "norm": 36
+  },
+  "fake-currency-racket-unearthed-in-ramanagara-seven-held": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "",
+    "norm": 36
+  },
+  "panel-to-submit-safety-report-on-mullaperiyar-dam-in-two-wee": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "",
+    "norm": 36
+  },
+  "chhattisgarh-ed-raids-seven-locations-in-state-in-cgpsc-case": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "",
+    "norm": 36
+  },
+  "acb-traps-tolichowki-si-accepting-10-000-bribe": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "",
+    "norm": 36
+  },
+  "noida-delhi-bus-gang-rape-case-vehicle-had-challans-worth-63": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "",
+    "norm": 36
+  },
+  "andhra-pradesh-state-police-sports-and-games-meet-begins": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
+    "signature": "",
+    "norm": 36
+  },
+  "jee-advanced-may-shift-to-adaptive-testing-by-2030-to-reduce": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
     "signature": "",
     "norm": 33.9
   },
-  "how-a-derelict-1866-washington-house-was-saved-and-restored-": {
-    "firstSeen": "2026-09-01T09:59:42.172Z",
+  "tukaram-mundhe-s-decision-reversed-why-cm-devendra-fadnavis-": {
+    "firstSeen": "2026-09-01T14:47:33.589Z",
     "signature": "",
     "norm": 33.9
   }
