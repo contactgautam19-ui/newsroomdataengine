@@ -1,252 +1,82 @@
 {
-  "jharkhand-bjp-seeks-cbi-probe-into-exam-irregularities": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "bjp|exam|khan|protest|protest|war",
-    "norm": 84.1
-  },
-  "-she-should-respect-other-women-bjp-attacks-swara-bhasker-ov": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "attack|attack|bjp|movie|mp|war",
-    "norm": 82.9
-  },
-  "nepal-pm-thanks-india-china-for-aid-after-min-seeks-compensa": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "china|dead|dead|flood|flood|mp",
-    "norm": 81.6
-  },
-  "12-dead-across-uttarakhand-since-yesterday-heavy-rain-alert-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "alert|dead|dead|died|disaster|heavy rain|khan",
-    "norm": 79.8
-  },
-  "maharashtra-s-princess-treatment-family-celebrates-birth-of-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "hospital|maharashtra|mp|riot",
-    "norm": 77.5
-  },
-  "-deal-with-it-priyanka-chaturvedi-bjp-leader-react-to-swara-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "bjp|deal|movie|mp|war",
-    "norm": 76.2
-  },
-  "orange-alert-issued-for-3-uttarakhand-districts-12-dead-in-r": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "alert|dead|dead|heavy rain|khan",
-    "norm": 73.8
-  },
-  "thrissur-vigilance-court-orders-case-against-chalakudy-mla-o": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "attack|attack|congress|mla|ruling",
-    "norm": 73.6
-  },
-  "kerala-women-row-cleric-compares-women-to-gold-critics-quest": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "controversy|gold|mp|row",
-    "norm": 72.6
-  },
-  "-why-did-you-take-up-post-if-you-don-t-want-to-do-vikas-70-y": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "maharashtra|video|viral|viral|viral",
-    "norm": 72.6
-  },
-  "kottarakara-casualty-row-dmo-recommends-transfer-and-departm": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "controversy|hospital|record|row|war",
-    "norm": 72.5
-  },
-  "india-s-7-8-gdp-growth-bjp-celebrates-as-congress-raises-tou": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "bjp|congress|economy|gdp|row",
+  "villages-vulnerable-to-floods-will-be-shifted-permanently-sa": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "chief minister|flood|flood|floods|minister",
     "norm": 72
   },
-  "-they-are-the-only-jobless-people-left-minister-piyush-goyal": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "gdp|minister|mp|row",
-    "norm": 68
+  "india-s-bold-shift-sco-statement-condemns-us-and-israel-s-ac": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "ipl|iran|israel|summit",
+    "norm": 65.1
   },
-  "-we-don-t-know-what-we-are-consuming-tukaram-mundhe-s-big-fo": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "mp|war|warning",
-    "norm": 67.6
+  "nitin-gadkari-urges-all-state-governments-to-allow-bike-taxi": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "minister|mp|tax",
+    "norm": 57.6
   },
-  "declare-kalaburagi-district-as-drought-hit-bjp-to-karnataka-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "bjp|mp|protest|protest",
-    "norm": 66.9
+  "priest-arrested-for-stealing-gold-ornaments-from-temple": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "gold|mp",
+    "norm": 57.1
   },
-  "exclusive-food-safety-under-the-scanner-tukaram-munde-s-stro": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "ipl|mp|war",
-    "norm": 66
-  },
-  "dissolve-karnataka-assembly-and-face-polls-vijayendra-challe": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "bjp|congress|poll|president|war",
-    "norm": 64.6
-  },
-  "palakkad-division-bifurcation-is-centre-s-biggest-betrayal-o": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "betray|congress|minister|prime minister",
-    "norm": 63.5
-  },
-  "story-concocted-by-state-allahabad-hc-quashes-du-student-s-d": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "exam|protest|protest",
-    "norm": 63.2
-  },
-  "doctor-found-dead-in-guwahati-s-private-hospital-suicide-sus": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "dead|dead|hospital",
-    "norm": 62.9
-  },
-  "sonu-sood-reaches-nepal-with-flood-relief-will-try-to-bring-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "actor|flood|flood",
-    "norm": 61.4
-  },
-  "mettur-dam-built-at-4-80-cr-cm-vijay-s-visit-cost-5-cr-alleg": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "bjp|chief minister|fund|minister",
-    "norm": 59.7
-  },
-  "ayodhya-ram-temple-gets-air-force-veteran-as-ceo-3-new-membe": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "air force|ayodhya|mp",
-    "norm": 59.7
-  },
-  "-build-and-strengthen-people-s-trust-ram-mandir-trust-ceo-ji": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
+  "retired-air-marshal-jeetendra-mishra-named-ram-temple-trust-": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
     "signature": "mp|ram mandir",
-    "norm": 57.1
-  },
-  "-7-8-growth-very-strong-amid-challenegs-to-world-economy-pm-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "economy|row",
-    "norm": 57.1
-  },
-  "-made-to-stand-in-sun-for-hours-faridabad-girl-jumps-from-sc": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "died|mp",
     "norm": 55.4
   },
-  "ayodhya-ram-temple-gets-first-ceo-3-new-members-check-full-l": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "ayodhya|mp",
-    "norm": 55.4
-  },
-  "yolo-meets-sip-how-gen-z-is-rewriting-money-rules-amp-mistak": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "mp|war",
-    "norm": 55.4
-  },
-  "man-beaten-to-death-over-cattle-theft-suspicion-in-tripura-s": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "death|mp",
-    "norm": 55.4
-  },
-  "supreme-court-orders-oversight-by-ag-sg-in-bci-policy-decisi": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "policy|poll|supreme court",
-    "norm": 52.7
-  },
-  "untouchability-and-the-idea-of-purity-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "high court|poll|supreme court",
-    "norm": 52.7
-  },
-  "-did-we-forget-what-we-did-author-amish-says-gen-z-tamer-tha": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "protest|protest",
+  "straw-laden-lorry-catches-fire-in-ranipet": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "fire|fire",
     "norm": 52.4
   },
-  "mallojula-venugopal-rao-alias-bhupati-from-dreaded-maoist-to": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "dread",
-    "norm": 48.2
+  "abhinandan-varthaman-who-downed-pakistani-f-16-in-2019-joins": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "captain|pakistan",
+    "norm": 51.7
   },
-  "jagan-sharmila-pay-tributes-to-ysr-in-kadapa-district-on-17t": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
+  "-cancel-deal-or-we-ll-kill-you-video-shows-pune-sons-thrashi": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "deal|video",
+    "norm": 50.2
+  },
+  "police-deny-assault-allegations-into-man-s-death-probe-conti": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
     "signature": "death",
-    "norm": 48.2
+    "norm": 46.3
   },
-  "hyderabad-to-get-india-s-first-olympic-standard-bmx-supercro": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "mp",
-    "norm": 45.9
+  "guntur-police-launch-stop-wash-and-go-drive-to-prevent-road-": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "accident",
+    "norm": 46.3
   },
-  "-many-missing-links-supreme-court-acquits-man-in-murder-case": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "supreme court",
-    "norm": 45.9
+  "over-300-acres-of-farmland-to-be-acquired-for-new-airport-ex": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "mla",
+    "norm": 44
   },
-  "police-arrest-man-for-series-of-house-burglaries-recover-val": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "lakh",
-    "norm": 45.9
-  },
-  "india-to-host-inaugural-icc-women-s-champions-trophy-check-t": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "one-year-on-decision-making-and-public-interaction-improved-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "brs-releases-chargesheet-calls-congress-rule-a-criminal-wast": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "congress",
-    "norm": 45.9
-  },
-  "piyush-goyal-to-travel-to-us-later-this-month-for-g20-talks-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "g20",
-    "norm": 45.9
-  },
-  "truck-gets-stuck-on-arunachal-bridge-disrupts-access-to-bord": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "border",
-    "norm": 45.9
-  },
-  "netanyahu-says-gaza-under-control-vows-to-complete-hamas-dis": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
+  "district-judge-withdraws-order-prohibiting-litigants-vehicle": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
     "signature": "mp",
     "norm": 44
   },
-  "historic-shivappa-nayaka-palace-in-shivamogga-renovated-need": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
+  "hmda-garners-101-51-crore-from-auctions": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "residents-block-key-stretch-near-ambur-demanding-resumption-": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "more-women-should-become-entrepreneurs-a-p-minister": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
+    "signature": "minister",
+    "norm": 44
+  },
+  "begin-identifying-tenant-farmers-under-2011-act-parties-urge": {
+    "firstSeen": "2026-09-02T18:36:57.814Z",
     "signature": "",
     "norm": 36
-  },
-  "six-arrested-in-connection-with-daylight-murder-of-hubballi-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "",
-    "norm": 36
-  },
-  "keralam-s-punalur-municipality-unveils-care-vision-document-": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "",
-    "norm": 36
-  },
-  "consul-general-of-japan-in-chennai-calls-on-vijay": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "",
-    "norm": 36
-  },
-  "andhra-pradesh-s-literacy-rate-surpasses-national-average-in": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "",
-    "norm": 36
-  },
-  "pak-pleads-for-dialogue-after-india-stands-firm-on-suspendin": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "oregon-crews-restore-9-acre-marsh-after-nearly-a-century-cut": {
-    "firstSeen": "2026-09-02T14:23:45.084Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
