@@ -1,196 +1,136 @@
 {
-  "india-s-gdp-growth-at-7-8-pm-modi-hails-economic-resilience-": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "economy|gdp|ipl|minister|modi|modi|prime minister|record|row",
-    "norm": 93
+  "black-flag-protest-during-bhagwant-mann-s-event-sparks-row-m": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "aap|mp|protest|protest|row|slam|slams",
+    "norm": 74.1
   },
-  "punjabi-singer-baljeet-singh-found-dead-police-launch-probe": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "dead|dead|mp|rbi|singer|tragic",
-    "norm": 85.1
+  "encounter-underway-in-j-k-s-pirpanjal-2-terrorists-suspected": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "fire|fire|terror|terror",
+    "norm": 68.4
   },
-  "5-killed-in-up-as-heavy-rain-batters-several-states-flood-al": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "alert|death|flood|flood|heavy rain|killed|killed",
-    "norm": 77
+  "us-probing-airstrike-that-iran-claims-hit-wedding-party-jd-v": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "died|iran|wedding",
+    "norm": 64.6
   },
-  "trinamool-congress-leader-abhishek-banerjee-s-office-in-kolk": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "attack|attack|bjp|congress|mp",
-    "norm": 73.6
+  "israeli-minister-presents-plan-to-remove-2-5-lakh-palestinia": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "israel|lakh|minister",
+    "norm": 63.9
   },
-  "31-member-parliament-panel-formed-to-examine-foreign-funding": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "bill|bjp|congress|exam|fund|mp|parliament",
-    "norm": 71.5
+  "recent-state-level-legislative-shifts-and-reforms-boost-beer": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "mp|row|tax",
+    "norm": 63.9
   },
-  "revenue-officer-found-dead-days-after-he-goes-missing-in-mah": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "dead|dead|maharashtra",
-    "norm": 68
+  "lokayukta-registers-suo-motu-case-over-school-ceiling-collap": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "collapse|collapse|collapse",
+    "norm": 58.3
   },
-  "bank-holiday-on-janmashtami-where-are-banks-closed-on-sept-4": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "election|election|war",
-    "norm": 67.6
+  "air-india-express-threat-note-probe-crew-member-under-scanne": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "match|threat",
+    "norm": 57.6
   },
-  "pinarayi-vijayan-slams-fabricated-reports-on-police-vehicle-": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "mp|opposition|slam|slams",
-    "norm": 65
-  },
-  "student-taken-into-custody-on-charges-of-circulating-morphed": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
-  },
-  "bjp-leaders-booked-over-unauthorised-protest-in-kalaburagi": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "bjp|protest|protest",
-    "norm": 62.8
-  },
-  "konda-surekha-dropped-from-cabinet-for-indiscipline-senior-l": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "cabinet|ipl|mp",
-    "norm": 61.4
-  },
-  "take-alternative-steps-to-ensure-not-one-acre-dries-up-in-a-": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "chief minister|crore|minister",
-    "norm": 59.3
+  "peace-hinges-on-diplomacy-not-oil-trade-eam-in-ukraine": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "diplomacy|ipl",
+    "norm": 57.1
   },
   "periyar-pollution-pcb-serves-closure-notice-on-chicken-rende": {
     "firstSeen": "2026-09-03T16:20:57.364Z",
     "signature": "poll|storm",
     "norm": 57.1
   },
-  "unfilled-neet-super-speciality-seats-to-go-to-tamil-nadu-cen": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "neet|supreme court",
+  "apex-bank-election-slated-for-september-10": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "election|election",
     "norm": 55.4
   },
-  "odisha-passenger-train-detained-after-engine-fire-report-nea": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "fire|fire",
-    "norm": 54.2
+  "don-t-politicise-ajit-pawar-s-death-sunetra-pawar-after-supr": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "death|tragedy|war",
+    "norm": 54.9
   },
-  "cockroach-janta-party-backs-polytechnic-students-protest-in-": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "karnataka-report-on-plugging-exam-and-recruitment-loopholes-": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "exam|recruitment",
+    "norm": 53.9
   },
-  "21-higher-education-teachers-to-receive-national-teachers-aw": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "drone|war",
-    "norm": 54.2
+  "madras-high-court-directs-chengalpattu-police-to-keep-land-g": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "high court|mp",
+    "norm": 48.7
   },
-  "sir-may-be-legal-but-it-is-not-fair-former-ec-ashok-lavasa": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "star|sudden|suddenly",
-    "norm": 53.5
-  },
-  "vice-chairperson-poll-puts-ruling-alliance-in-kerala-s-pala-": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "alliance|poll|ruling",
-    "norm": 50.9
-  },
-  "surekha-to-stay-as-mla-writes-to-aicc-alleging-caste-bias-in": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "cabinet|mla",
-    "norm": 50.5
-  },
-  "political-affairs-committee-members-resent-delay-in-revampin": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "congress|mp",
-    "norm": 50.5
-  },
-  "telangana-cm-revanth-recommends-konda-surekha-s-removal-from": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "cabinet|governor",
-    "norm": 50.5
-  },
-  "bihar-education-department-suspends-two-teachers-in-buxar-ov": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "mp|video",
-    "norm": 50.2
-  },
-  "s-vincent-chosen-for-aatsea-award-for-education-and-research": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "karnataka-to-have-three-day-special-session-to-discuss-droug": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "iran",
-    "norm": 48.2
-  },
-  "govt-suspends-gyanendra-kumar-gangwar": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "muslim-body-looks-to-jinnah-brackets-shariat-with-india-save": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
+  "self-governance-needed-to-address-local-issues-mp-sribharat": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "isro-eos-05-launch-live-updates-isro-to-launch-naughty-boy-g": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "rbi",
-    "norm": 45.9
-  },
-  "ambulance-abandoned-kerala-villagers-carry-patients-through-": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
+  "west-virginia-s-1906-coal-bridges-are-being-rebuilt-for-hike": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "opinion-opinion-an-ode-to-tim-cook-who-made-apple-boring": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "jobs",
+  "naidu-urges-tdp-leaders-to-prepare-for-local-body-polls": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "poll",
     "norm": 44
   },
-  "-no-one-should-run-away-hear-my-reply-on-monday-vijay-hits-b": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
+  "neglected-ambulance-forces-kerala-tribals-to-carry-sick-acro": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "anbumani-urges-t-n-govt-to-step-up-opposition-to-mekedatu-da": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
     "signature": "opposition",
     "norm": 44
   },
-  "keralam-to-expand-higher-education-facilities-programmes-min": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
-    "signature": "minister",
-    "norm": 44
-  },
-  "amazon-lays-off-150-employees-at-northern-california-offices": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
+  "two-time-punjab-mp-dharamvira-gandhi-s-name-not-on-draft-ele": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
     "signature": "mp",
     "norm": 44
   },
-  "slbc-conducts-quarterly-performance-reviews-of-banks-in-karn": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
+  "bengal-to-have-1-000-rss-run-schools-within-a-year-suvendu": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
     "signature": "",
     "norm": 36
   },
-  "search-for-elusive-tiger-enters-14th-day-in-ooty": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
+  "cms-of-all-southern-states-to-be-invited-for-dasara": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "lenovo-s-first-rtx-spark-laptops-can-have-up-to-128gb-of-ram": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
+  "council-can-seek-appraisals-from-teachers-institues-sc": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "hotel-shadab-in-hyderabad-s-madina-circle-sealed-after-food-": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
+  "kanthapuram-clarifies-remarks-on-women-amid-criticism": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
+  },
+  "manickam-tagore-alleges-narikuravar-students-were-pushed-out": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "sir-preparation-under-jj-act-crucial-cj-aparesh-kumar-singh": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
+    "signature": "",
+    "norm": 33.9
   },
   "ed-books-money-laundering-case-against-suspended-dsp-bheem-r": {
     "firstSeen": "2026-09-03T16:20:57.364Z",
     "signature": "",
     "norm": 33.9
   },
-  "in-nepal-symbolic-funerals-along-trishuli-and-anguish-of-fam": {
-    "firstSeen": "2026-09-03T16:20:57.364Z",
+  "gig-work-a-full-time-job-for-many-in-india-finds-survey": {
+    "firstSeen": "2026-09-03T19:45:40.025Z",
     "signature": "",
     "norm": 33.9
   }
