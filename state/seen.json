@@ -1,181 +1,191 @@
 {
-  "relatives-hold-symbolic-funerals-for-thousands-missing-as-ne": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "death|disaster|flood|flood|floods|minister|mp|prime minister|rescue|rescue|toll|tragic",
-    "norm": 93
+  "306-killed-49-missing-in-ethnic-violence-since-may-2023-mani": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "killed|killed|minister|protest|protest|star",
+    "norm": 84.1
   },
-  "-no-nation-should-help-iran-rubio-s-sanctions-warning-after-": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "iran|modi|modi|mp|president|sanction|trump|trump|war|warning",
-    "norm": 90
+  "140kg-deadlift-who-is-keyaa-who-lifted-over-3-times-her-body": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "dead|dead|gold|mp",
+    "norm": 75.9
   },
-  "-16-lakh-attempts-in-a-minute-after-g20-cyber-onslaught-indi": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "attack|attack|brics|g20|lakh|mp|summit",
-    "norm": 80.7
+  "india-s-economic-growth-source-of-confidence-for-world-pm-mo": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "minister|modi|modi|prime minister|row",
+    "norm": 73.6
   },
-  "nvidia-ceo-jensen-huang-recalls-pm-modi-s-ai-push-says-india": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "economy|modi|modi|mp|star",
-    "norm": 76.2
+  "nepal-flash-floods-aftermath-live-death-toll-goes-past-1-250": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "death|flood|flood|floods|toll",
+    "norm": 72.5
   },
-  "-baseless-born-of-animosity-rajasthan-hc-acting-chief-justic": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "mp|sharma|slam|slams",
-    "norm": 67.7
+  "karnataka-leader-r-ashok-ridicules-rahul-gandhi-tells-him-to": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "collapse|collapse|collapse|opposition|rahul gandhi",
+    "norm": 72.3
   },
-  "-intellectual-dishonesty-sbi-hits-back-at-2-6-gdp-growth-cla": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "gdp|mp|row",
-    "norm": 65.6
+  "eam-s-jaishankar-in-ukraine-after-pm-modi-s-peace-message-sa": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "jaishankar|minister|modi|modi|war",
+    "norm": 72
   },
-  "-i-don-t-think-too-long-trump-says-iran-strikes-likely-to-be": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "iran|mp|trump|trump",
-    "norm": 65
+  "100-days-of-bjp-govt-in-west-bengal-achievements-and-challen": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "bjp|controversy|exam|opposition",
+    "norm": 71.6
   },
-  "nepal-s-pm-balendra-shah-thanks-india-china-for-flood-relief": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "china|flood|flood",
-    "norm": 61.1
+  "pune-activist-opposing-loud-djs-during-ganpati-processions-s": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "attack|attack|opposition|video",
+    "norm": 71.4
   },
-  "tunnel-rescue-teams-dna-experts-more-how-india-is-helping-it": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "flood|flood|rescue|rescue",
-    "norm": 60.8
+  "two-workers-die-in-separate-accidents-at-firecracker-units-i": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "accident|fire|fire|mp",
+    "norm": 67.9
   },
-  "bihar-cabinet-approves-allocation-of-9169-crore-for-ulbs": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "cabinet|crore|fund",
+  "india-unveils-10-year-raksha-roadmap-to-expand-global-defenc": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "defence|diplomacy|ipl|minister|mp",
+    "norm": 64.6
+  },
+  "anna-hazare-s-health-improving-to-remain-in-mumbai-hospital-": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "bomb|hospital|mp",
+    "norm": 62.5
+  },
+  "india-u-s-trade-pact-to-be-finalised-once-u-s-offers-prefere": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "gdp|minister|trillion",
     "norm": 59.3
   },
-  "auto-driver-murdered-in-hyderabad-second-killing-in-city": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "attack|attack",
-    "norm": 57.6
+  "sugar-gets-sweeter-again-retail-prices-fall-3-85-to-rs-62-57": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "price|prices|star",
+    "norm": 57.9
   },
-  "wife-cannot-follow-her-husband-everywhere-like-vodafone-ad-s": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "exam|high court",
+  "former-indian-air-force-group-captain-abhinandan-varthaman-j": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "air force|captain|star",
     "norm": 57.1
   },
-  "-ill-educated-egregiously-wrong-world-bank-ed-mishra-on-row-": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "gdp|row",
+  "delhi-bound-ai-express-flight-makes-precautionary-landing-at": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "fire|fire|smoke",
     "norm": 57.1
   },
-  "shillong-teer-result-today-september-3-2026-check-winning-nu": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "khan|result",
-    "norm": 55.7
-  },
-  "yasin-malik-to-divorce-pak-wife-won-t-challenge-death-penalt": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "death|pakistan",
+  "motor-sports-city-to-be-established-in-tamil-nadu-chennai-to": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "mp|row",
     "norm": 55.4
   },
-  "rupee-gains-47-paise-as-record-fcnr-inflows-boost-forex-liqu": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "fuel|record|rupee",
-    "norm": 54.7
+  "-india-ready-to-help-end-war-jaishankar-in-ukraine-after-pm-": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "jaishankar|war",
+    "norm": 55.4
   },
-  "how-noida-workers-protest-landed-a-du-student-in-jail-under-": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "bridges-amp-underpasses-gadkari-announces-rs-2-077cr-project": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "crore|mp",
+    "norm": 53.2
   },
-  "tamil-for-madras-hc-cm-vijay-to-move-resolution-urging-centr": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "chief minister|minister|ruling",
+  "tamil-nadu-government-identifies-three-sites-for-the-new-ass": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "chief minister|minister|mp",
     "norm": 52.7
   },
-  "-political-thuggery-abhishek-banerjee-claims-bjp-workers-ran": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "bjp|high court|mp",
+  "-injustice-done-to-my-mother-konda-susmita-curses-revanth-re": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "cabinet|chief minister|minister",
     "norm": 52.7
   },
-  "i-ve-watched-chennai-grow-and-change-through-the-years": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "row|watch",
-    "norm": 52.4
+  "-strive-to-become-excellent-cm-tamil-nadu-congress-chief-s-m": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "chief minister|congress|minister",
+    "norm": 52.7
   },
-  "madras-hc-dismisses-mk-stalin-s-plea-challenging-tvk-s-kolat": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "chief minister|minister",
+  "telangana-cm-revanth-recommends-konda-surekha-s-removal-from": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "cabinet|governor|mp",
+    "norm": 50.9
+  },
+  "tamil-nadu-assembly-unanimously-adopts-resolution-urging-cen": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "governor|high court|president",
+    "norm": 50.9
+  },
+  "plea-seeks-denial-of-perks-to-judges-resigning-to-avoid-remo": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "high court|parliament",
     "norm": 50.5
   },
-  "ed-raids-multiple-locations-in-keralam-in-hybrid-ganja-smugg": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "ipl",
-    "norm": 46.3
+  "jagan-sharmila-pay-tributes-to-ysr-in-kadapa-district-on-17t": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "death",
+    "norm": 48.2
   },
-  "-24-days-no-fir-yet-kharge-writes-to-jp-nadda-over-shuddhika": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "consent-irrelevant-in-pocso-cases-says-kerala-high-court": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "high court",
+  "keralam-s-kochi-corporation-to-invite-eoi-for-consultants-to": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "crore",
     "norm": 45.9
   },
-  "us-india-working-on-fair-reciprocal-trade-ties-sergio-gor": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "defence",
+  "iphone-18-pro-leaks-suggest-photographers-are-finally-gettin": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "when-periyar-ambedkar-and-jinnah-sailed-together-politically": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "congress",
+  "five-msf-kasaragod-district-committee-office-bearers-resign-": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "president",
     "norm": 45.9
   },
-  "delhi-hc-asks-police-to-reply-to-ex-aap-councillor-tahir-hus": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "aap",
+  "new-secretariat-assembly-complex-olympic-city-motor-sports-c": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "farmers-groups-catholic-church-and-local-mla-from-keralam-de": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "mla",
-    "norm": 45.9
-  },
-  "police-remove-vehicle-used-as-makeshift-station-from-outside": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "star",
-    "norm": 44.3
-  },
-  "pm-kusum-c-where-the-sun-keeps-water-pumpsets-running-in-kar": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
+  "the-never-ending-talk-of-shifting-tamil-nadu-s-assembly-secr": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
     "signature": "mp",
     "norm": 44
   },
-  "rights-panel-seeks-answers-over-instagram-ads-linked-to-chil": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "instagram",
+  "cjp-s-democratic-faction-launched-says-abhijit-dipke-s-movem": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "kejriwal",
+    "norm": 44
+  },
+  "-no-trade-deal-till-us-gives-preferential-tariff-terms-india": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "deal",
+    "norm": 44
+  },
+  "justice-sharma-passed-over-as-junior-judge-recommended-by-sc": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "sharma",
     "norm": 42.4
   },
-  "-every-citizen-deserves-dignity-milind-deora-reacts-after-mu": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "video",
-    "norm": 40.7
-  },
-  "leaders-hail-valour-of-abhinandan": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
+  "manipur-violence-accounted-for-97-of-displacements-in-south-": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
     "signature": "",
     "norm": 36
   },
-  "rotten-meat-spoiled-milk-seized-across-bengal-as-food-safety": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-why-did-you-sell-the-land-sons-beat-up-parents-in-pune-vill": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
+  "over-58-800-people-displaced-by-ethnic-violence-since-may-20": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
     "signature": "",
     "norm": 33.9
   },
-  "thar-crushes-bike-borne-man-woman-in-delhi-cantt-both-die": {
-    "firstSeen": "2026-09-03T05:42:35.844Z",
+  "abhinandan-varthaman-joins-fly91-why-did-balakot-hero-choose": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "48-room-louisville-mansion-that-inspired-art-museum-listed-f": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "sonam-wangchuk-shared-the-ice-stupa-name-with-a-young-zanska": {
+    "firstSeen": "2026-09-03T11:07:10.457Z",
     "signature": "",
     "norm": 33.9
   }
