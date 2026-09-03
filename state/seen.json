@@ -1,191 +1,196 @@
 {
-  "306-killed-49-missing-in-ethnic-violence-since-may-2023-mani": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "killed|killed|minister|protest|protest|star",
-    "norm": 84.1
+  "india-s-gdp-growth-at-7-8-pm-modi-hails-economic-resilience-": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "economy|gdp|ipl|minister|modi|modi|prime minister|record|row",
+    "norm": 93
   },
-  "140kg-deadlift-who-is-keyaa-who-lifted-over-3-times-her-body": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "dead|dead|gold|mp",
-    "norm": 75.9
+  "punjabi-singer-baljeet-singh-found-dead-police-launch-probe": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "dead|dead|mp|rbi|singer|tragic",
+    "norm": 85.1
   },
-  "india-s-economic-growth-source-of-confidence-for-world-pm-mo": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "minister|modi|modi|prime minister|row",
+  "5-killed-in-up-as-heavy-rain-batters-several-states-flood-al": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "alert|death|flood|flood|heavy rain|killed|killed",
+    "norm": 77
+  },
+  "trinamool-congress-leader-abhishek-banerjee-s-office-in-kolk": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "attack|attack|bjp|congress|mp",
     "norm": 73.6
   },
-  "nepal-flash-floods-aftermath-live-death-toll-goes-past-1-250": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "death|flood|flood|floods|toll",
-    "norm": 72.5
+  "31-member-parliament-panel-formed-to-examine-foreign-funding": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "bill|bjp|congress|exam|fund|mp|parliament",
+    "norm": 71.5
   },
-  "karnataka-leader-r-ashok-ridicules-rahul-gandhi-tells-him-to": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "collapse|collapse|collapse|opposition|rahul gandhi",
-    "norm": 72.3
+  "revenue-officer-found-dead-days-after-he-goes-missing-in-mah": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "dead|dead|maharashtra",
+    "norm": 68
   },
-  "eam-s-jaishankar-in-ukraine-after-pm-modi-s-peace-message-sa": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "jaishankar|minister|modi|modi|war",
-    "norm": 72
+  "bank-holiday-on-janmashtami-where-are-banks-closed-on-sept-4": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "election|election|war",
+    "norm": 67.6
   },
-  "100-days-of-bjp-govt-in-west-bengal-achievements-and-challen": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "bjp|controversy|exam|opposition",
-    "norm": 71.6
+  "pinarayi-vijayan-slams-fabricated-reports-on-police-vehicle-": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "mp|opposition|slam|slams",
+    "norm": 65
   },
-  "pune-activist-opposing-loud-djs-during-ganpati-processions-s": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "attack|attack|opposition|video",
-    "norm": 71.4
+  "student-taken-into-custody-on-charges-of-circulating-morphed": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "mp|protest|protest",
+    "norm": 62.8
   },
-  "two-workers-die-in-separate-accidents-at-firecracker-units-i": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "accident|fire|fire|mp",
-    "norm": 67.9
+  "bjp-leaders-booked-over-unauthorised-protest-in-kalaburagi": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "bjp|protest|protest",
+    "norm": 62.8
   },
-  "india-unveils-10-year-raksha-roadmap-to-expand-global-defenc": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "defence|diplomacy|ipl|minister|mp",
-    "norm": 64.6
+  "konda-surekha-dropped-from-cabinet-for-indiscipline-senior-l": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "cabinet|ipl|mp",
+    "norm": 61.4
   },
-  "anna-hazare-s-health-improving-to-remain-in-mumbai-hospital-": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "bomb|hospital|mp",
-    "norm": 62.5
-  },
-  "india-u-s-trade-pact-to-be-finalised-once-u-s-offers-prefere": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "gdp|minister|trillion",
+  "take-alternative-steps-to-ensure-not-one-acre-dries-up-in-a-": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "chief minister|crore|minister",
     "norm": 59.3
   },
-  "sugar-gets-sweeter-again-retail-prices-fall-3-85-to-rs-62-57": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "price|prices|star",
-    "norm": 57.9
-  },
-  "former-indian-air-force-group-captain-abhinandan-varthaman-j": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "air force|captain|star",
+  "periyar-pollution-pcb-serves-closure-notice-on-chicken-rende": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "poll|storm",
     "norm": 57.1
   },
-  "delhi-bound-ai-express-flight-makes-precautionary-landing-at": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "fire|fire|smoke",
-    "norm": 57.1
-  },
-  "motor-sports-city-to-be-established-in-tamil-nadu-chennai-to": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "mp|row",
+  "unfilled-neet-super-speciality-seats-to-go-to-tamil-nadu-cen": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "neet|supreme court",
     "norm": 55.4
   },
-  "-india-ready-to-help-end-war-jaishankar-in-ukraine-after-pm-": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "jaishankar|war",
-    "norm": 55.4
+  "odisha-passenger-train-detained-after-engine-fire-report-nea": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "fire|fire",
+    "norm": 54.2
   },
-  "bridges-amp-underpasses-gadkari-announces-rs-2-077cr-project": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "crore|mp",
-    "norm": 53.2
+  "cockroach-janta-party-backs-polytechnic-students-protest-in-": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "tamil-nadu-government-identifies-three-sites-for-the-new-ass": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "chief minister|minister|mp",
-    "norm": 52.7
+  "21-higher-education-teachers-to-receive-national-teachers-aw": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "drone|war",
+    "norm": 54.2
   },
-  "-injustice-done-to-my-mother-konda-susmita-curses-revanth-re": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "cabinet|chief minister|minister",
-    "norm": 52.7
+  "sir-may-be-legal-but-it-is-not-fair-former-ec-ashok-lavasa": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "star|sudden|suddenly",
+    "norm": 53.5
   },
-  "-strive-to-become-excellent-cm-tamil-nadu-congress-chief-s-m": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "chief minister|congress|minister",
-    "norm": 52.7
+  "vice-chairperson-poll-puts-ruling-alliance-in-kerala-s-pala-": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "alliance|poll|ruling",
+    "norm": 50.9
+  },
+  "surekha-to-stay-as-mla-writes-to-aicc-alleging-caste-bias-in": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "cabinet|mla",
+    "norm": 50.5
+  },
+  "political-affairs-committee-members-resent-delay-in-revampin": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "congress|mp",
+    "norm": 50.5
   },
   "telangana-cm-revanth-recommends-konda-surekha-s-removal-from": {
     "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "cabinet|governor|mp",
-    "norm": 50.9
-  },
-  "tamil-nadu-assembly-unanimously-adopts-resolution-urging-cen": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "governor|high court|president",
-    "norm": 50.9
-  },
-  "plea-seeks-denial-of-perks-to-judges-resigning-to-avoid-remo": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "high court|parliament",
+    "signature": "cabinet|governor",
     "norm": 50.5
   },
-  "jagan-sharmila-pay-tributes-to-ysr-in-kadapa-district-on-17t": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "death",
+  "bihar-education-department-suspends-two-teachers-in-buxar-ov": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "mp|video",
+    "norm": 50.2
+  },
+  "s-vincent-chosen-for-aatsea-award-for-education-and-research": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "keralam-s-kochi-corporation-to-invite-eoi-for-consultants-to": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "crore",
-    "norm": 45.9
+  "karnataka-to-have-three-day-special-session-to-discuss-droug": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "iran",
+    "norm": 48.2
   },
-  "iphone-18-pro-leaks-suggest-photographers-are-finally-gettin": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
+  "govt-suspends-gyanendra-kumar-gangwar": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "muslim-body-looks-to-jinnah-brackets-shariat-with-india-save": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "five-msf-kasaragod-district-committee-office-bearers-resign-": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "president",
+  "isro-eos-05-launch-live-updates-isro-to-launch-naughty-boy-g": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "rbi",
     "norm": 45.9
   },
-  "new-secretariat-assembly-complex-olympic-city-motor-sports-c": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
+  "ambulance-abandoned-kerala-villagers-carry-patients-through-": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "the-never-ending-talk-of-shifting-tamil-nadu-s-assembly-secr": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
+  "opinion-opinion-an-ode-to-tim-cook-who-made-apple-boring": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "jobs",
+    "norm": 44
+  },
+  "-no-one-should-run-away-hear-my-reply-on-monday-vijay-hits-b": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "opposition",
+    "norm": 44
+  },
+  "keralam-to-expand-higher-education-facilities-programmes-min": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "minister",
+    "norm": 44
+  },
+  "amazon-lays-off-150-employees-at-northern-california-offices": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
     "signature": "mp",
     "norm": 44
   },
-  "cjp-s-democratic-faction-launched-says-abhijit-dipke-s-movem": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "kejriwal",
-    "norm": 44
-  },
-  "-no-trade-deal-till-us-gives-preferential-tariff-terms-india": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "deal",
-    "norm": 44
-  },
-  "justice-sharma-passed-over-as-junior-judge-recommended-by-sc": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "sharma",
-    "norm": 42.4
-  },
-  "manipur-violence-accounted-for-97-of-displacements-in-south-": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
+  "slbc-conducts-quarterly-performance-reviews-of-banks-in-karn": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
     "signature": "",
     "norm": 36
   },
-  "over-58-800-people-displaced-by-ethnic-violence-since-may-20": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
+  "search-for-elusive-tiger-enters-14th-day-in-ooty": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "",
+    "norm": 36
+  },
+  "lenovo-s-first-rtx-spark-laptops-can-have-up-to-128gb-of-ram": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "",
+    "norm": 36
+  },
+  "hotel-shadab-in-hyderabad-s-madina-circle-sealed-after-food-": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
+    "signature": "",
+    "norm": 36
+  },
+  "ed-books-money-laundering-case-against-suspended-dsp-bheem-r": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
     "signature": "",
     "norm": 33.9
   },
-  "abhinandan-varthaman-joins-fly91-why-did-balakot-hero-choose": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "48-room-louisville-mansion-that-inspired-art-museum-listed-f": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "sonam-wangchuk-shared-the-ice-stupa-name-with-a-young-zanska": {
-    "firstSeen": "2026-09-03T11:07:10.457Z",
+  "in-nepal-symbolic-funerals-along-trishuli-and-anguish-of-fam": {
+    "firstSeen": "2026-09-03T16:20:57.364Z",
     "signature": "",
     "norm": 33.9
   }
