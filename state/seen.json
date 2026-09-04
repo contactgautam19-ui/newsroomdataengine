@@ -1,212 +1,142 @@
 {
-  "terrorist-killed-during-anti-terror-operation-in-j-k-s-budga": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "fire|fire|killed|killed|result|terror|terror",
-    "norm": 86.7
+  "-focus-on-cricket-not-the-noise-mithali-tells-india-ahead-of": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "captain|clash|clash|cricket|match|pakistan",
+    "norm": 84.1
   },
-  "-maharashtra-s-shashi-tharoor-meet-pune-s-vidyanand-bapat-wh": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "maharashtra|mp|surprise|viral|viral|viral",
-    "norm": 82.9
+  "game-on-history-off-white-house-unveils-maga-arcade": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "controversy|mp|president|trump|trump|video",
+    "norm": 77.2
   },
-  "making-hyderabad-s-vertical-boom-safer": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "collapse|collapse|collapse|deal|row|war",
-    "norm": 82.9
+  "jharkhand-bjp-to-gherao-police-commissioner-s-offices-from-s": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "bjp|khan|protest|protest",
+    "norm": 69.6
   },
-  "regime-suppressing-youth-will-have-to-answer-to-the-people-s": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "brutal|fire|fire|horrific|protest|protest|rahul gandhi",
-    "norm": 81.2
-  },
-  "-pm-modi-warned-us-belgian-pm-says-europe-ignored-india-s-tr": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "modi|modi|war|warning",
-    "norm": 77.5
-  },
-  "terrorist-killed-in-joint-operation-by-indian-army-other-for": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "army|killed|killed|terror|terror",
-    "norm": 77.5
-  },
-  "three-women-survive-grand-canyon-flood-after-clinging-to-roc": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "anger|fear|flood|flood|rescue|rescue",
-    "norm": 75.9
-  },
-  "-pm-modi-warned-us-but-we-didn-t-listen-belgium-pm-on-china-": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "china|modi|modi|threat|war",
-    "norm": 75
-  },
-  "forest-fire-in-sathyamangalam-tiger-reserve-doused-after-thr": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "fire|fire|mp|row",
-    "norm": 72.9
-  },
-  "social-media-diplomacy-at-work-defence-minister-rajnath-sing": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "defence|diplomacy|instagram|ipl|minister",
-    "norm": 70.3
-  },
-  "heavy-rain-lashes-parts-of-delhi-imd-issues-red-alert-for-th": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "alert|heavy rain|red alert|storm|weather",
-    "norm": 68.4
-  },
-  "keralam-cm-hails-ksrtc-driver-s-dedication-after-emotional-f": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "chief minister|emotional|minister|video",
-    "norm": 66.9
-  },
-  "srpf-personnel-shifted-from-bmc-school-after-video-goes-vira": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "video|viral|viral|viral",
-    "norm": 66
-  },
-  "parents-sold-gold-for-rahul-mehta-s-us-education-he-later-fu": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "fund|gold|mp",
-    "norm": 63.9
-  },
-  "heavy-rain-hits-delhi-red-alert-issued-for-thunderstorms-lig": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "alert|heavy rain|red alert|storm|sudden",
-    "norm": 63.6
-  },
-  "centre-s-farmer-outreach-ahead-of-punjab-polls-minister-ml-k": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "minister|modi|modi|poll",
+  "kerala-high-court-warns-chief-secretary-biswanath-sinha-of-c": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "high court|mp|sanction|war",
     "norm": 63.5
   },
-  "-will-do-again-if-man-who-hit-student-s-father-as-cjp-protes": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "defence|protest|protest",
+  "nulm-conservancy-workers-temporarily-call-off-protests": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "mp|protest|protest",
     "norm": 62.8
   },
-  "national-child-rights-commission-rescues-over-3800-children-": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "mp|rescue|rescue",
-    "norm": 62.8
+  "criminal-cases-will-be-filed-against-encroachers-of-gram-pan": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "khan|minister|war",
+    "norm": 62.5
   },
-  "jntu-hyderabad-teej-celebrations-turn-violent-student-groups": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "clash|clash|mp",
-    "norm": 62.8
+  "elaborate-security-crowd-management-plan-for-tirumala-brahmo": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "cctv|crowd|row",
+    "norm": 57.1
   },
-  "amit-shah-must-answer-for-brutalities-against-students-says-": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "amit shah|brutal|minister|opposition",
-    "norm": 61.8
+  "ap-transco-mulls-drone-patrolling-to-assess-health-of-transm": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "aerial|drone|mp",
+    "norm": 53.2
   },
-  "cockroach-janta-party-protests-collection-of-the-hindu-s-gro": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "clash|clash|protest|protest",
-    "norm": 60.8
-  },
-  "opinion-opinion-nepal-needs-5-billion-to-rebuild-world-s-cli": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "bill|billion|fund",
-    "norm": 59.3
-  },
-  "delhi-ncr-rain-brings-relief-from-humid-heat-several-flights": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "war|warning",
-    "norm": 59.3
-  },
-  "search-for-terrorists-in-j-k-s-budgam-forest-enters-second-d": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "terror|terror",
-    "norm": 57.6
-  },
-  "keralam-dairy-farming-malabar-milma-sanctions-1-72-crore-as-": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "crore|sanction",
-    "norm": 55
-  },
-  "-please-get-me-out-they-torture-me-tamil-nadu-woman-rescued-": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "rescue|rescue",
-    "norm": 54.2
-  },
-  "swatantra-bharadwaj-flees-bulandshahr-before-delhi-police-te": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "tamil-nadu-cm-vijay-s-convoy-security-breach-kin-of-custodia": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "death|died",
-    "norm": 53.9
-  },
-  "how-kerala-man-used-multiple-marriages-to-smuggle-gold-throu": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "gold|ipl",
-    "norm": 53.9
-  },
-  "cbi-open-to-probe-corruption-charges-against-punjab-chief-mi": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "chief minister|high court|minister",
-    "norm": 52.7
-  },
-  "-sanatani-yodha-who-is-swatantra-bhardwaj-hindutva-influence": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "row|video",
+  "bihar-flood-situation-remains-grim-in-saran-as-ganga-saryu-g": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "flood|flood",
     "norm": 52.4
   },
-  "from-basketball-amp-boxing-obsessed-nation-alex-eala-is-crea": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "fan|mp",
-    "norm": 51.7
+  "krishna-janmashtami-fills-hyderabad-with-colour-music-and-mi": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "mp|vote",
+    "norm": 50.5
   },
-  "tamil-nadu-assembly-ranipet-tvk-mla-demands-non-existent-tyr": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "actor|mla",
-    "norm": 51.7
+  "dry-spell-leaves-chittoor-farmers-staring-at-crop-loss": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "record|star",
+    "norm": 48.7
   },
-  "no-more-junk-maharashtra-govt-canteens-get-a-healthier-menu-": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "maharashtra",
+  "people-have-given-me-the-authority-to-take-an-s-turn-says-ch": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
+  },
+  "guruvayur-brims-with-devotion-on-ashtami-rohini": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "mp|vote",
+    "norm": 48.7
+  },
+  "brics-summit-2026-delhi-gears-up-for-vvip-movement-with-24x7": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "brics|summit",
+    "norm": 48.7
+  },
+  "cpm-demands-daily-drinking-water-supply-in-gvmc-s-22nd-ward": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "tamil-nadu-finance-minister-n-marie-wilson-receives-charge-s": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "minister",
+  "tension-in-arunachal-over-inclusion-of-non-indigenous-groups": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "injured",
+    "norm": 48.2
+  },
+  "air-india-sacks-delhi-phuket-flight-pilot-who-tested-positiv": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "accident",
+    "norm": 46.3
+  },
+  "cbi-searches-89-locations-across-20-states-arrests-three-ove": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "fraud",
+    "norm": 46.3
+  },
+  "publish-anomalies-list-like-puducherry-demands-congress": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "congress",
+    "norm": 45.9
+  },
+  "-falsely-implicated-yasin-malik-urges-court-to-give-him-capi": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-56-5-crore-road-project-to-sidilu-mallikarjuna-swamy-hill-l": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "crore",
+    "norm": 45.9
+  },
+  "bengaluru-police-file-zero-fir-over-purification-ritual-utta": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "khan",
+    "norm": 44.3
+  },
+  "bengaluru-bans-two-wheelers-on-airport-road-traffic-curbs-im": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "mp",
     "norm": 44
   },
-  "mining-baron-r-veeramani-arrested-in-minor-sexual-assault-ca": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "video",
-    "norm": 42.7
+  "supreme-court-questions-for-dismissal-tag-in-andhra-pradesh-": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "supreme court",
+    "norm": 44
   },
-  "air-india-phuket-delhi-flight-lost-hydraulic-systems-take-ac": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "upset",
-    "norm": 40.7
+  "sai-creates-little-japan-indian-athletes-get-taste-of-asian-": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "iit-madras-pravartak-swayam-plus-to-offer-multi-cloud-founda": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
+  "venkaiah-naidu-praises-cattamanchi-s-contribution-to-telugu-": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
     "signature": "",
     "norm": 36
   },
-  "court-issued-divorce-certificate-made-mandatory-for-remarria": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
+  "govt-urged-to-expedite-works-of-sujala-sravanthi-project": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
     "signature": "",
     "norm": 36
   },
-  "villagers-drag-beat-crocodile-driven-ashore-by-sinking-tunga": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
+  "after-68-years-air-india-flight-connecting-madurai-and-chenn": {
+    "firstSeen": "2026-09-04T16:16:52.726Z",
     "signature": "",
-    "norm": 33.9
-  },
-  "internet-leaves-citizens-vulnerable-to-profiling-and-surveil": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "8-months-pregnant-when-detained-bangladeshi-woman-delivers-b": {
-    "firstSeen": "2026-09-04T11:11:38.067Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
