@@ -1,302 +1,152 @@
 {
-  "west-asia-war-live-iran-media-says-six-navy-personnel-killed": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "attack|attack|iran|killed|killed|navy|war",
-    "norm": 79.5
+  "air-india-express-bomb-threat-note-crew-member-passenger-und": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "bomb|exam|match|threat",
+    "norm": 73
   },
-  "-treated-like-daughter-21-year-old-niece-steals-rs-5-15-lakh": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "gold|lakh|mp",
-    "norm": 65.6
+  "nepal-floods-dna-samples-of-kin-of-vidisha-engineer-two-work": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "flood|flood|floods|mp",
+    "norm": 67.9
   },
-  "black-flag-protest-during-bhagwant-mann-s-event-sparks-row-m": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "aap|mp|protest|protest|row|slam|slams",
-    "norm": 65.3
+  "-egregiously-wrong-world-bank-s-neelkanth-mishra-slams-criti": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "economy|gdp|slam|slams",
+    "norm": 65
   },
-  "congress-s-criticism-of-gdp-figures-is-a-dimagi-naxal-mindse": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "bjp|congress|gdp|minister|modi|modi|mp|prime minister",
-    "norm": 62.8
+  "2-rescued-alive-from-hydropower-tunnel-9-days-after-nepal-fl": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "flood|flood|floods|rescue|rescue",
+    "norm": 63.4
   },
-  "white-house-launches-deportation-video-games-to-promote-trum": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "mp|trump|trump|video",
-    "norm": 59.9
+  "jio-launches-jiopc-with-up-to-16gb-ram-1tb-storage-starts-at": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "mp|star|war",
+    "norm": 62.5
   },
-  "trump-appoints-adam-telle-as-acting-us-army-secretary": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "army|mp|trump|trump",
-    "norm": 59.3
+  "discontinue-personality-test-in-kpsc-recruitment-congress-le": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "congress|president|recruitment",
+    "norm": 61.4
   },
-  "encounter-underway-in-j-k-s-pirpanjal-2-terrorists-suspected": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "fire|fire|terror|terror",
-    "norm": 59.2
+  "up-floods-over-17-500-evacuated-26-districts-hit": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "evacuat|flood|flood|floods",
+    "norm": 60.6
   },
-  "us-probing-airstrike-that-iran-claims-hit-wedding-party-jd-v": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "died|iran|wedding",
-    "norm": 55.3
+  "farmers-union-to-mobilise-one-million-swayamsevaks-to-fight-": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "deal|minister|mla|mp",
+    "norm": 59.7
   },
-  "israeli-minister-presents-plan-to-remove-2-5-lakh-palestinia": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "israel|lakh|minister",
-    "norm": 54.5
+  "jadavpur-university-students-use-ex-pm-vajpayee-s-remark-to-": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "israel|minister|prime minister",
+    "norm": 59.7
   },
-  "trump-asks-us-court-to-lift-order-blocking-mail-in-voting-ru": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "mp|supreme court|trump|trump",
-    "norm": 52.3
+  "hyderabad-on-new-growth-orbit": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "rbi|row",
+    "norm": 55.4
   },
-  "akash-anand-in-need-of-more-political-maturity-won-t-give-hi": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "chief minister|election|election|minister",
-    "norm": 52.3
+  "railway-employee-lures-odisha-passenger-with-confirmed-ticke": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "mp|war",
+    "norm": 55.4
   },
-  "courtroom-dramas-clipped-and-shared": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "exam|footage|supreme court",
-    "norm": 51.5
+  "how-hyderabad-spread-beyond-its-boundaries-": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "jobs|mp",
+    "norm": 55
   },
-  "india-ready-to-extend-any-help-to-end-russia-ukraine-war-s-j": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "jaishankar|president|war",
-    "norm": 50
+  "-reimagining-keralam-council-of-ministers-attend-two-day-str": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "chief minister|minister|mp",
+    "norm": 52.7
   },
-  "bjp-seeks-sacking-of-two-ministers-over-congress-mla-s-alleg": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "actor|bjp|congress|minister|mla",
-    "norm": 49.7
+  "five-decades-two-landmarks-one-evolving-city": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "mp|record",
+    "norm": 52
   },
-  "isro-successfully-deploys-india-s-first-geosynchronous-imagi": {
-    "firstSeen": "2026-09-03T22:34:54.082Z",
-    "signature": "blast|rbi",
-    "norm": 49.6
+  "blas-not-responsible-for-verifying-every-detail-in-enumerati": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "congress|president",
+    "norm": 48.7
   },
-  "lokayukta-registers-suo-motu-case-over-school-ceiling-collap": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "collapse|collapse|collapse",
-    "norm": 48.5
+  "fading-fear-of-hiv-puts-focus-on-rising-sti-risks-among-yout": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "fear",
+    "norm": 48.2
   },
-  "lost-a-loved-one-in-nepal-floods-india-offers-dna-profiling-": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "flood|flood|floods",
-    "norm": 48.1
-  },
-  "home-secretary-reviews-himalayan-states-preparedness-for-gla": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "war|warning",
-    "norm": 47.7
-  },
-  "government-to-allow-retrofit-devices-for-polluting-trucks-am": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "diesel|mp|poll",
-    "norm": 47.7
-  },
-  "tougher-than-everest-rescues-inside-nepal-s-biggest-airlift": {
-    "firstSeen": "2026-09-03T22:34:54.082Z",
-    "signature": "rescue|rescue",
-    "norm": 46.5
-  },
-  "periyar-pollution-pcb-serves-closure-notice-on-chicken-rende": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "poll|storm",
-    "norm": 45.4
-  },
-  "apex-bank-election-slated-for-september-10": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "election|election",
-    "norm": 45.4
-  },
-  "centre-willing-to-return-unfilled-neet-ss-seats-to-t-n-gover": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "neet|supreme court",
-    "norm": 45.4
-  },
-  "engineering-a-soft-shield-a-self-healing-hydrogel-for-impact": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "sixth-day-of-maratha-reservation-protest-supporters-block-ma": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "protest|protest",
-    "norm": 42.2
-  },
-  "karnataka-report-on-plugging-exam-and-recruitment-loopholes-": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "exam|recruitment",
-    "norm": 41.8
+  "rowdy-takes-inspiration-from-duryodhana-in-mahabharata-to-ev": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "row",
+    "norm": 46.3
   },
   "isro-successfully-launches-earth-observation-satellite-eos-0": {
     "firstSeen": "2026-09-04T00:56:23.590Z",
     "signature": "rbi",
-    "norm": 41
+    "norm": 45.9
   },
-  "don-t-politicise-ajit-pawar-s-death-sunetra-pawar-after-supr": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "death|tragedy|war",
-    "norm": 40.4
+  "indigo-flight-s-parking-goes-awry-at-srinagar-airport-as-air": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "lake-district-river-re-bent-after-200-years-salmon-return-in": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "flood|flood",
-    "norm": 37.7
+  "isro-successfully-launches-eos-05-how-its-naughty-boy-rocket": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "gslv-f17-rocket-successfully-places-heaviest-earth-observati": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "rbi",
-    "norm": 37.5
-  },
-  "isro-eos-05-launch-live-highlights-eos-05-successfully-place": {
-    "firstSeen": "2026-09-03T22:34:54.082Z",
-    "signature": "rbi",
-    "norm": 37.5
-  },
-  "-great-achievement-for-india-isro-chief-hails-gslv-f17-missi": {
-    "firstSeen": "2026-09-03T22:34:54.082Z",
-    "signature": "rbi",
-    "norm": 37.5
-  },
-  "family-blames-harassment-by-woman-for-guwahati-doctor-s-deat": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "death|threat",
-    "norm": 37.3
-  },
-  "isro-successfully-launches-gslv-f17-rocket-carrying-imaging-": {
-    "firstSeen": "2026-09-03T22:34:54.082Z",
+  "-serious-concern-air-india-phuket-delhi-pilot-tested-positiv": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
     "signature": "",
     "norm": 36
   },
-  "on-uttam-kumar-s-birth-centenary-west-bengal-cm-vows-to-keep": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "toll",
-    "norm": 35.5
-  },
-  "isro-s-gslv-f17-successfully-places-eos-05-earth-observation": {
-    "firstSeen": "2026-09-03T22:34:54.082Z",
-    "signature": "rbi",
-    "norm": 32.8
-  },
-  "isro-s-gslv-f17-carrying-eos-05-earth-observation-spacecraft": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "don-t-share-any-sensitive-tech-with-pak-rajnath-asks-belgian": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "minister",
-    "norm": 32.8
-  },
-  "apple-iphone-18-pro-release-date-schedule-your-complete-sept": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "volkswagen-says-cutting-100-000-jobs-by-end-of-decade": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "jobs",
-    "norm": 32.8
-  },
-  "child-sex-abuse-material-on-meta-nhrc-notices-to-it-i-amp-b-": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "self-governance-needed-to-address-local-issues-mp-sribharat": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "naidu-urges-tdp-leaders-to-prepare-for-local-body-polls": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "poll",
-    "norm": 32.8
-  },
-  "neglected-ambulance-forces-kerala-tribals-to-carry-sick-acro": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "south-korea-preparing-to-deploy-troops-in-strait-of-hormuz-r": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
+  "state-leaderships-to-resolve-deputy-lop-issue-no-need-for-ou": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 36
   },
-  "can-ratan-tata-s-inherited-shares-go-to-his-charities-": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
+  "phuket-delhi-turbulence-air-india-pilot-found-non-negative-f": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 36
   },
-  "anbumani-urges-t-n-govt-to-step-up-opposition-to-mekedatu-da": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "opposition",
-    "norm": 27.8
-  },
-  "two-time-punjab-mp-dharamvira-gandhi-s-name-not-on-draft-ele": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "mp",
-    "norm": 27.8
-  },
-  "-didn-t-benefit-country-kenya-ousts-tata-chemicals": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
+  "hyderabad-s-art-scene-is-finding-new-ways-to-make-itself-see": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 36
   },
-  "poverty-inequality-seed-delinquency-in-minors-sc": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
+  "the-dedicated-band-of-district-correspondents": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 36
   },
-  "bengal-to-have-1-000-rss-run-schools-within-a-year-suvendu": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
+  "the-hyderabad-that-was-and-the-city-it-is-now": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "fair-eyeing-to-educate-sanatani-people-about-spirituality-cu": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
+  "anti-national-forces-harming-india-s-unity-will-face-consequ": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "aravalis-can-t-be-defined-by-height-or-any-single-criterion-": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
+  "indigo-flight-from-navi-mumbai-hits-pole-at-srinagar-airport": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "big-relief-for-karnataka-teachers-suspended-for-taking-part-": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
+  "indigo-plane-hits-pole-during-parking-process-at-srinagar-ai": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "cms-of-all-southern-states-to-be-invited-for-dasara": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
+  "north-dakota-ranch-restores-270-acres-to-native-grass-as-bea": {
+    "firstSeen": "2026-09-04T05:55:03.661Z",
     "signature": "",
-    "norm": 21.2
-  },
-  "kanthapuram-clarifies-remarks-on-women-amid-criticism": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "manickam-tagore-alleges-narikuravar-students-were-pushed-out": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "-not-mature-mayawati-pushes-nephew-akash-anand-to-the-margin": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "assam-police-to-get-15-000-20-000-recruits-5-000-promotions-": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "google-pixel-11-review-better-performance-capable-cameras-bu": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "",
-    "norm": 15.1
+    "norm": 33.9
   }
 }
