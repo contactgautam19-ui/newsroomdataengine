@@ -1,151 +1,211 @@
 {
-  "air-india-express-bomb-threat-note-crew-member-passenger-und": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "bomb|exam|match|threat",
-    "norm": 73
+  "terrorist-killed-during-anti-terror-operation-in-j-k-s-budga": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "fire|fire|killed|killed|result|terror|terror",
+    "norm": 86.7
   },
-  "nepal-floods-dna-samples-of-kin-of-vidisha-engineer-two-work": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "flood|flood|floods|mp",
-    "norm": 67.9
+  "-maharashtra-s-shashi-tharoor-meet-pune-s-vidyanand-bapat-wh": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "maharashtra|mp|surprise|viral|viral|viral",
+    "norm": 82.9
   },
-  "-egregiously-wrong-world-bank-s-neelkanth-mishra-slams-criti": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "economy|gdp|slam|slams",
-    "norm": 65
+  "making-hyderabad-s-vertical-boom-safer": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "collapse|collapse|collapse|deal|row|war",
+    "norm": 82.9
   },
-  "2-rescued-alive-from-hydropower-tunnel-9-days-after-nepal-fl": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "flood|flood|floods|rescue|rescue",
-    "norm": 63.4
+  "regime-suppressing-youth-will-have-to-answer-to-the-people-s": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "brutal|fire|fire|horrific|protest|protest|rahul gandhi",
+    "norm": 81.2
   },
-  "jio-launches-jiopc-with-up-to-16gb-ram-1tb-storage-starts-at": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "mp|star|war",
-    "norm": 62.5
+  "-pm-modi-warned-us-belgian-pm-says-europe-ignored-india-s-tr": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "modi|modi|war|warning",
+    "norm": 77.5
   },
-  "discontinue-personality-test-in-kpsc-recruitment-congress-le": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "congress|president|recruitment",
-    "norm": 61.4
+  "terrorist-killed-in-joint-operation-by-indian-army-other-for": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "army|killed|killed|terror|terror",
+    "norm": 77.5
   },
-  "up-floods-over-17-500-evacuated-26-districts-hit": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "evacuat|flood|flood|floods",
-    "norm": 60.6
+  "three-women-survive-grand-canyon-flood-after-clinging-to-roc": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "anger|fear|flood|flood|rescue|rescue",
+    "norm": 75.9
   },
-  "farmers-union-to-mobilise-one-million-swayamsevaks-to-fight-": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "deal|minister|mla|mp",
-    "norm": 59.7
+  "-pm-modi-warned-us-but-we-didn-t-listen-belgium-pm-on-china-": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "china|modi|modi|threat|war",
+    "norm": 75
   },
-  "jadavpur-university-students-use-ex-pm-vajpayee-s-remark-to-": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "israel|minister|prime minister",
-    "norm": 59.7
+  "forest-fire-in-sathyamangalam-tiger-reserve-doused-after-thr": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "fire|fire|mp|row",
+    "norm": 72.9
   },
-  "hyderabad-on-new-growth-orbit": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "rbi|row",
-    "norm": 55.4
+  "social-media-diplomacy-at-work-defence-minister-rajnath-sing": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "defence|diplomacy|instagram|ipl|minister",
+    "norm": 70.3
   },
-  "railway-employee-lures-odisha-passenger-with-confirmed-ticke": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "mp|war",
-    "norm": 55.4
+  "heavy-rain-lashes-parts-of-delhi-imd-issues-red-alert-for-th": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "alert|heavy rain|red alert|storm|weather",
+    "norm": 68.4
   },
-  "how-hyderabad-spread-beyond-its-boundaries-": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "jobs|mp",
+  "keralam-cm-hails-ksrtc-driver-s-dedication-after-emotional-f": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "chief minister|emotional|minister|video",
+    "norm": 66.9
+  },
+  "srpf-personnel-shifted-from-bmc-school-after-video-goes-vira": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "video|viral|viral|viral",
+    "norm": 66
+  },
+  "parents-sold-gold-for-rahul-mehta-s-us-education-he-later-fu": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "fund|gold|mp",
+    "norm": 63.9
+  },
+  "heavy-rain-hits-delhi-red-alert-issued-for-thunderstorms-lig": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "alert|heavy rain|red alert|storm|sudden",
+    "norm": 63.6
+  },
+  "centre-s-farmer-outreach-ahead-of-punjab-polls-minister-ml-k": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "minister|modi|modi|poll",
+    "norm": 63.5
+  },
+  "-will-do-again-if-man-who-hit-student-s-father-as-cjp-protes": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "defence|protest|protest",
+    "norm": 62.8
+  },
+  "national-child-rights-commission-rescues-over-3800-children-": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "mp|rescue|rescue",
+    "norm": 62.8
+  },
+  "jntu-hyderabad-teej-celebrations-turn-violent-student-groups": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "clash|clash|mp",
+    "norm": 62.8
+  },
+  "amit-shah-must-answer-for-brutalities-against-students-says-": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "amit shah|brutal|minister|opposition",
+    "norm": 61.8
+  },
+  "cockroach-janta-party-protests-collection-of-the-hindu-s-gro": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "clash|clash|protest|protest",
+    "norm": 60.8
+  },
+  "opinion-opinion-nepal-needs-5-billion-to-rebuild-world-s-cli": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "bill|billion|fund",
+    "norm": 59.3
+  },
+  "delhi-ncr-rain-brings-relief-from-humid-heat-several-flights": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "war|warning",
+    "norm": 59.3
+  },
+  "search-for-terrorists-in-j-k-s-budgam-forest-enters-second-d": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "terror|terror",
+    "norm": 57.6
+  },
+  "keralam-dairy-farming-malabar-milma-sanctions-1-72-crore-as-": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "crore|sanction",
     "norm": 55
   },
-  "-reimagining-keralam-council-of-ministers-attend-two-day-str": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "chief minister|minister|mp",
+  "-please-get-me-out-they-torture-me-tamil-nadu-woman-rescued-": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "rescue|rescue",
+    "norm": 54.2
+  },
+  "swatantra-bharadwaj-flees-bulandshahr-before-delhi-police-te": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "tamil-nadu-cm-vijay-s-convoy-security-breach-kin-of-custodia": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "death|died",
+    "norm": 53.9
+  },
+  "how-kerala-man-used-multiple-marriages-to-smuggle-gold-throu": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "gold|ipl",
+    "norm": 53.9
+  },
+  "cbi-open-to-probe-corruption-charges-against-punjab-chief-mi": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "chief minister|high court|minister",
     "norm": 52.7
   },
-  "five-decades-two-landmarks-one-evolving-city": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "mp|record",
-    "norm": 52
+  "-sanatani-yodha-who-is-swatantra-bhardwaj-hindutva-influence": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "row|video",
+    "norm": 52.4
   },
-  "blas-not-responsible-for-verifying-every-detail-in-enumerati": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "congress|president",
-    "norm": 48.7
+  "from-basketball-amp-boxing-obsessed-nation-alex-eala-is-crea": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "fan|mp",
+    "norm": 51.7
   },
-  "fading-fear-of-hiv-puts-focus-on-rising-sti-risks-among-yout": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "fear",
+  "tamil-nadu-assembly-ranipet-tvk-mla-demands-non-existent-tyr": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "actor|mla",
+    "norm": 51.7
+  },
+  "no-more-junk-maharashtra-govt-canteens-get-a-healthier-menu-": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "maharashtra",
     "norm": 48.2
   },
-  "rowdy-takes-inspiration-from-duryodhana-in-mahabharata-to-ev": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "isro-successfully-launches-earth-observation-satellite-eos-0": {
-    "firstSeen": "2026-09-04T00:56:23.590Z",
-    "signature": "rbi",
-    "norm": 45.9
-  },
-  "indigo-flight-s-parking-goes-awry-at-srinagar-airport-as-air": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "mp",
+  "tamil-nadu-finance-minister-n-marie-wilson-receives-charge-s": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "minister",
     "norm": 44
   },
-  "isro-successfully-launches-eos-05-how-its-naughty-boy-rocket": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "record",
+  "mining-baron-r-veeramani-arrested-in-minor-sexual-assault-ca": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "video",
+    "norm": 42.7
+  },
+  "air-india-phuket-delhi-flight-lost-hydraulic-systems-take-ac": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
+    "signature": "upset",
     "norm": 40.7
   },
-  "-serious-concern-air-india-phuket-delhi-pilot-tested-positiv": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
+  "iit-madras-pravartak-swayam-plus-to-offer-multi-cloud-founda": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
     "signature": "",
     "norm": 36
   },
-  "state-leaderships-to-resolve-deputy-lop-issue-no-need-for-ou": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
+  "court-issued-divorce-certificate-made-mandatory-for-remarria": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
     "signature": "",
     "norm": 36
   },
-  "phuket-delhi-turbulence-air-india-pilot-found-non-negative-f": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "",
-    "norm": 36
-  },
-  "hyderabad-s-art-scene-is-finding-new-ways-to-make-itself-see": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "",
-    "norm": 36
-  },
-  "the-dedicated-band-of-district-correspondents": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "",
-    "norm": 36
-  },
-  "the-hyderabad-that-was-and-the-city-it-is-now": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
+  "villagers-drag-beat-crocodile-driven-ashore-by-sinking-tunga": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
     "signature": "",
     "norm": 33.9
   },
-  "anti-national-forces-harming-india-s-unity-will-face-consequ": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
+  "internet-leaves-citizens-vulnerable-to-profiling-and-surveil": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
     "signature": "",
     "norm": 33.9
   },
-  "indigo-flight-from-navi-mumbai-hits-pole-at-srinagar-airport": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "indigo-plane-hits-pole-during-parking-process-at-srinagar-ai": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "north-dakota-ranch-restores-270-acres-to-native-grass-as-bea": {
-    "firstSeen": "2026-09-04T05:55:03.661Z",
+  "8-months-pregnant-when-detained-bangladeshi-woman-delivers-b": {
+    "firstSeen": "2026-09-04T11:11:38.067Z",
     "signature": "",
     "norm": 33.9
   }
