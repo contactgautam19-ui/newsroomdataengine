@@ -1,142 +1,302 @@
 {
-  "scheduled-caste-panel-issues-notice-to-the-punjab-government": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "aap|bjp|mp|recruitment|war",
-    "norm": 72
+  "gdp-swipe-at-opposition-warning-to-pakistan-pm-modi-s-top-qu": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "chief minister|gdp|minister|modi|modi|opposition|pakistan|war|warning",
+    "norm": 82.3
+  },
+  "at-least-22-killed-in-wedding-party-fire-in-congo-s-kinshasa": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "fire|fire|killed|killed|wedding",
+    "norm": 75
+  },
+  "china-to-proceed-with-brahmaputra-mega-dam-despite-new-conce": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "border|china|devastat|flood|flood|mp",
+    "norm": 74.9
+  },
+  "trump-planning-something-much-bigger-for-middle-east-after-i": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "iran|israel|mp|trump|trump|war",
+    "norm": 72.3
+  },
+  "chinese-national-rescued-from-nepal-tunnel-10-days-after-fla": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "flood|flood|mp|rescue|rescue",
+    "norm": 63.7
+  },
+  "india-crush-pakistan-by-7-wickets-after-spin-attack-bundles-": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "attack|attack|mp|pakistan",
+    "norm": 61
+  },
+  "greek-f-4-phantom-fighter-jet-crashes-during-airshow-near-at": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "crash|crash|explosion|explosion|watch",
+    "norm": 59.9
+  },
+  "up-mosque-demolition-row-encroachment-court-order-minority-r": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "controversy|opposition|row",
+    "norm": 58.2
   },
   "pm-modi-at-srcc-bharat-will-soon-have-it-s-own-space-station": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "minister|modi|modi|mp|prime minister",
-    "norm": 64.6
+    "norm": 57.4
   },
   "7-year-old-among-2-dead-212-injured-during-mumbai-dahi-handi": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "dead|dead|injured",
-    "norm": 62.9
+    "norm": 57.4
+  },
+  "spotlight-on-illegal-coal-trade-in-meghalaya-after-truck-acc": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "accident|high court",
+    "norm": 57.1
+  },
+  "from-oratory-to-screen-time-pm-amp-teachers-exchange-notes": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "mp|war",
+    "norm": 55.4
+  },
+  "-india-buys-oil-from-russia-for-its-development-not-to-help-": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "ipo|sanction|slam",
+    "norm": 54.5
+  },
+  "-trump-sends-his-best-wishes-us-envoys-witkoff-kushner-meet-": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "mp|trump|trump",
+    "norm": 54.1
   },
   "meta-restores-kerala-chief-minister-office-s-facebook-posts-": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "chief minister|minister|outrage",
-    "norm": 59.7
+    "norm": 54.1
   },
-  "efforts-on-to-capture-a-second-tiger-in-gudalur-forest-divis": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "killed|killed",
-    "norm": 57.6
+  "-dimagi-naxal-dhurandhar-naraz-fufa-make-special-appearance-": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "minister|modi|modi|opposition|prime minister",
+    "norm": 53.4
+  },
+  "pm-modi-recycles-half-water-half-air-line-at-shri-ram-colleg": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "chief minister|minister|modi|modi",
+    "norm": 52.3
+  },
+  "bjp-leader-dinesh-sharma-appointed-andaman-and-nicobar-islan": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "bjp|chief minister|governor|minister|rajya sabha|sharma",
+    "norm": 50.2
+  },
+  "sachin-pilot-in-bhupesh-baghel-out-why-punjab-congress-chang": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "congress|mp|war",
+    "norm": 50
+  },
+  "eight-high-court-judges-appointed-as-chief-justices": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "controversy|high court",
+    "norm": 49.6
+  },
+  "centre-appoints-8-chief-justices-in-high-courts-across-india": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "bomb|high court",
+    "norm": 49.6
   },
   "-situation-not-simple-putin-meets-us-envoys-talks-to-end-ukr": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "mp|war",
-    "norm": 57.1
+    "norm": 49.6
   },
-  "applications-invited-for-journalist-awards-in-a-p-": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "lakh|war",
-    "norm": 55.4
-  },
-  "71-year-old-doctor-loses-5-lakh-in-fake-customer-care-scam": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "lakh|scam",
-    "norm": 55.4
+  "iphone-ultra-iphone-18-pro-and-18-pro-max-prices-leaked-by-v": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "mp|price|prices",
+    "norm": 47.7
   },
   "govt-gets-ready-for-kharif-paddy-procurement-with-18-250-cr-": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "lakh|minister",
-    "norm": 55
+    "norm": 47.3
   },
-  "residents-protest-proposed-stone-quarry-in-tirupattur": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "342-complete-training-at-ota-commissioned-as-officers-in-ind": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "army|mp",
+    "norm": 45.9
+  },
+  "kolkata-school-teacher-booked-for-forcing-student-to-remove-": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "chief minister|minister",
+    "norm": 45.9
+  },
+  "rahul-gandhi-will-be-pm-candidate-says-tncc-president": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "president|rahul gandhi",
+    "norm": 45.9
+  },
+  "-og-dhurandhar-pm-modi-uses-gen-z-lingo-at-srcc-revisits-201": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "modi|modi",
+    "norm": 45.4
+  },
+  "-dimagi-naxal-worked-like-homeopathic-pill-revealed-who-they": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "modi|modi",
+    "norm": 45.4
   },
   "bjp-commits-to-tripartite-agreement-in-tripura": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "amit shah|bjp|minister",
-    "norm": 50.9
+    "norm": 44.9
   },
-  "traffic-diversions-announced-for-cm-s-public-meeting-foot-ra": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "rally|rally",
-    "norm": 50.2
+  "police-issues-summons-to-tmc-mp-abhishek-banerjee-s-aide-ove": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "ipo|mp",
+    "norm": 43
   },
-  "kanthapuram-says-will-defend-shariat-laws-no-matter-whoever-": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "slam",
-    "norm": 46.3
+  "census-2027-enumeration-advanced-in-four-poll-bound-states": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "poll",
+    "norm": 41
   },
-  "coal-shortage-deepens-power-crisis-in-punjab-generation-drop": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "minister",
-    "norm": 45.9
+  "mla-seeks-steps-to-address-water-shortage-in-chittoor-vaduth": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "mla",
+    "norm": 41
   },
-  "dvac-holds-searches-at-30-places-linked-to-k-n-nehru": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "minister",
-    "norm": 45.9
+  "manipur-tribe-body-seeks-impartial-nia-probe-in-killing-of-t": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "mp",
+    "norm": 41
+  },
+  "traffic-curbs-in-kochi-in-view-of-police-marathon": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "mp",
+    "norm": 41
+  },
+  "second-homes-lifestyle-upgrades-fuel-interest-at-property-ex": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "fuel",
+    "norm": 41
+  },
+  "cil-offers-extra-fuel-57-plants-now-report-critically-low-st": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "fuel",
+    "norm": 41
+  },
+  "two-rajasthan-leaders-to-face-off-in-punjab-as-sachin-pilot-": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "bjp|congress|mp",
+    "norm": 40.6
+  },
+  "eight-years-after-chargesheets-filed-trials-in-gauri-lankesh": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "death",
+    "norm": 40.1
+  },
+  "man-strangles-wife-s-male-friend-dumps-body-in-sump-in-kolar": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "mp",
+    "norm": 37.5
   },
   "labourer-dies-after-falling-from-temple-tower-while-installi": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 37.5
   },
-  "road-works-worth-15-71-crore-progressing-rapidly-in-ponnur-c": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "crore",
-    "norm": 44
+  "census-2027-population-enumeration-in-4-poll-bound-states-fr": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "poll",
+    "norm": 37.5
   },
-  "dairy-conclave-in-jhansi-on-september-11-as-u-p-pushes-women": {
+  "coal-shortage-deepens-power-crisis-in-punjab-generation-drop": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "economy",
-    "norm": 44
+    "signature": "minister",
+    "norm": 37.5
+  },
+  "heavy-rains-trigger-waterlogging-heavy-traffic-in-key-delhi-": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "heavy rain",
+    "norm": 35.5
+  },
+  "meet-andy-barrett-13-who-turned-school-3d-printer-into-a-sma": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "pest-infestation-expired-drinks-found-at-bengaluru-hockey-cl": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "minister",
+    "norm": 32.8
+  },
+  "centre-notifies-appointment-of-chief-justices-of-eight-high-": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "high court",
+    "norm": 32.8
+  },
+  "after-swatantra-bhardwaj-s-arrest-complaint-against-nishu-aa": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "putin-tells-us-envoys-witkoff-kushner-that-situation-in-ukra": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "documentary-on-wildlife-in-tamil-nadu-to-be-screened-from-mo": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "allahabad-hc-dismisses-plea-seeking-fir-against-spiritual-le": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "assured-transit-time-container-train-service-launched-betwee": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "the-hindu-made-of-chennai-treasure-hunt-takes-participants-o": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "",
+    "norm": 26.7
   },
   "restored-amma-canteen-in-arakkonam-inaugurated": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "",
-    "norm": 36
-  },
-  "malappuram-ddc-urges-centre-to-drop-palakkad-rail-division-s": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "",
-    "norm": 36
-  },
-  "nhai-trials-reclaimed-bitumen-on-stretch-of-chennai-tirupath": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "",
-    "norm": 36
-  },
-  "toddler-dies-after-falling-into-water-tank-near-gudiyatham": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "",
-    "norm": 36
+    "norm": 26.7
   },
   "mayawati-s-tough-love-nephew-akash-anand-benched-again-what-": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "",
-    "norm": 36
+    "norm": 26.7
   },
-  "tiruvannamalai-gets-auto-stand-for-women-drivers": {
+  "malappuram-ddc-urges-centre-to-drop-palakkad-rail-division-s": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 26.7
   },
-  "meet-claire-wang-texas-student-whose-tutoring-network-has-re": {
+  "delhi-teenager-returns-home-late-family-scolds-her-she-dies-": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "nhai-trials-reclaimed-bitumen-on-stretch-of-chennai-tirupath": {
     "firstSeen": "2026-09-05T18:59:34.780Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 26.7
   },
-  "panun-kashmir-stages-hunger-strike-demands-genocide-law": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
+  "over-saharanpur-mosque-demolition-asaduddin-owaisi-s-only-mu": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   },
-  "lokayukta-registers-suo-motu-case-over-lack-of-medical-aid-a": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
+  "ketan-agarwal-murder-police-arrest-friend-of-accused-chetan-": {
+    "firstSeen": "2026-09-05T21:09:31.070Z",
     "signature": "",
-    "norm": 33.9
-  },
-  "peringamala-gearing-up-to-host-niravu-farm-fete": {
-    "firstSeen": "2026-09-05T18:59:34.780Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   }
 }
