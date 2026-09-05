@@ -1,302 +1,122 @@
 {
-  "amid-iran-war-us-approves-5-billion-sale-of-bombs-to-saudi": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "bill|billion|bomb|drone|iran|israel|war",
-    "norm": 85
+  "-i-was-the-target-class-x-student-recalls-jantar-mantar-atta": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "attack|attack|injured|threat|video|viral|viral|viral|viral video",
+    "norm": 93.7
   },
-  "eight-tamil-nadu-engineering-students-killed-after-car-crash": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "accident|crash|crash|killed|killed|war",
-    "norm": 78.3
+  "-identify-talent-of-students-pm-modi-interacts-with-national": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "minister|modi|modi|mp|president|prime minister|war",
+    "norm": 75.1
   },
-  "trump-issues-fresh-threat-to-strike-iran-s-pickaxe-mountain-": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "iran|mp|slam|threat|trump|trump",
-    "norm": 77.5
+  "speeding-mercedes-rams-into-scooty-in-goa-then-drags-it-up-t": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "death|killed|killed|result",
+    "norm": 74.6
   },
-  "eight-killed-as-car-rams-parked-lorry-on-nh-66-in-thrissur": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "crash|crash|hospital|killed|killed|mp",
-    "norm": 72.7
+  "maharashtra-bill-does-not-regulate-private-hospital-treatmen": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "bill|hospital|maharashtra|minister|mla|mp",
+    "norm": 73
   },
-  "-it-s-a-military-conflict-trump-says-iran-war-is-small-potat": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "iran|mp|president|trump|trump|war",
-    "norm": 68.2
-  },
-  "influencer-who-bragged-about-hitting-student-s-father-at-cjp": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "congress|protest|protest|video|viral|viral|viral",
-    "norm": 67.9
-  },
-  "-threaten-disenfranchisement-us-court-blocks-trump-s-mail-vo": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "mp|threat|trump|trump",
+  "meet-radha-rajesh-teacher-using-messi-and-real-life-stories-": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "exam|mp|war",
     "norm": 67.6
   },
-  "how-bjp-is-treating-local-elections-in-rajasthan-as-a-diagno": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "bjp|election|election|mp|poll|protest|protest",
-    "norm": 65.9
+  "ganga-in-spate-flood-threat-mounts-in-bihar-up-as-ghats-go-u": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "flood|flood|threat|video",
+    "norm": 66
   },
-  "stripped-filmed-threatened-bengaluru-woman-assaulted-over-lo": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "film|lakh|row|threat",
-    "norm": 65.2
+  "delhi-ncr-battered-by-heavy-rain-several-areas-waterlogged-i": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "alert|heavy rain|war",
+    "norm": 64.5
   },
-  "chirag-paswan-s-party-seeks-fir-against-swatantra-bhardwaj-d": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "clash|clash|minister|mp|parliament|protest|protest",
-    "norm": 62.5
+  "three-children-dead-and-a-mistrial-what-is-the-lindsay-clanc": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "dead|dead",
+    "norm": 57.6
   },
-  "-very-very-distressing-sc-judge-slams-police-assault-on-stud": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "protest|protest|slam|slams",
-    "norm": 60.6
+  "-we-are-open-to-dialogue-rss-on-protests-over-mohan-bhagwat-": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "witkoff-kushner-heading-to-russia-ukraine-to-present-peace-d": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "deal|mp|trump|trump",
-    "norm": 58.9
+  "-order-can-t-be-without-reasoning-supreme-court-sets-aside-a": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "ruling|supreme court",
+    "norm": 50.5
   },
-  "-hunchha-9-days-on-a-miracle-rescue-in-nepal": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "flood|flood|rescue|rescue",
-    "norm": 58.2
+  "what-legal-protections-exist-for-women-returning-from-matern": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "high court|mp",
+    "norm": 48.7
   },
-  "maharashtra-woman-2-kids-die-after-jumping-off-fort-family-a": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "maharashtra|mp",
-    "norm": 57.1
+  "from-asteroid-hunter-to-maths-wizard-82-educators-to-receive": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "war",
+    "norm": 48.2
   },
-  "cm-vijay-condoles-deaths-of-four-girls-in-namakkal-road-acci": {
-    "firstSeen": "2026-09-04T19:28:38.476Z",
-    "signature": "accident|death|sanction",
-    "norm": 56.7
+  "ladakh-apex-body-warns-of-bigger-agitation-ahead-of-talks-wi": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "-sept-14-deadline-ktr-warns-revanth-reddy-govt-of-high-volta": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "dead|dead|war",
-    "norm": 53.4
-  },
-  "india-in-continuous-touch-with-ukraine-and-russia-to-help-en": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "jaishankar|minister|prime minister|war",
-    "norm": 52.3
-  },
-  "omar-abdullah-meets-amit-shah-discusses-early-restoration-of": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "amit shah|parliament|protest|protest",
-    "norm": 52
-  },
-  "gcc-conservancy-workers-call-off-protest-temporarily": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "mp|protest|protest",
-    "norm": 51.5
-  },
-  "three-bonded-labour-victims-rescued-from-cold-storage-at-wes": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "actor|rescue|rescue",
-    "norm": 50
-  },
-  "congress-mla-ramya-haridas-hospitalised-after-late-night-fra": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "congress|hospital|mla",
-    "norm": 50
-  },
-  "tvk-calls-allies-meeting-amid-growing-vijay-for-pm-row-with-": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "congress|minister|row",
+  "retaining-experience-on-the-bench": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "supreme court",
     "norm": 45.9
   },
-  "sixth-last-accused-in-up-illegal-cracker-factory-blast-arres": {
-    "firstSeen": "2026-09-04T19:28:38.476Z",
-    "signature": "actor|blast",
-    "norm": 43.8
+  "jaishankar-to-address-annual-high-level-unga-session-on-sept": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "jaishankar",
+    "norm": 45.9
   },
-  "zelenskyy-proposes-ceasefire-with-russia-ahead-of-us-envoys-": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "fire|fire",
-    "norm": 42.2
+  "dairy-conclave-in-jhansi-on-september-11-as-u-p-pushes-women": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "economy",
+    "norm": 45.9
   },
-  "-will-protest-if-constructionon-pallikaranai-marshland-is-no": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "protest|protest",
-    "norm": 42.2
+  "dvac-conducts-raid-at-former-minister-k-n-nehru-s-residence": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "minister",
+    "norm": 45.9
   },
-  "24-injured-as-bus-rams-toll-plaza-pillar-at-kumbalam": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "injured|toll",
-    "norm": 41.8
+  "distrusting-a-system-is-not-a-problem-at-all-it-is-a-sure-si": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "star",
+    "norm": 44.3
   },
-  "fbi-wanted-fraudster-arrested-in-jalandhar-over-600-000-scam": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "fraud|scam",
-    "norm": 41.8
+  "keralam-cm-cabinet-to-skip-press-interaction-at-iim-kozhikod": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
+    "signature": "cabinet",
+    "norm": 44
   },
-  "bihar-reiterates-parents-salaries-agricultural-income-cannot": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "deal|rohit",
-    "norm": 41.4
-  },
-  "former-deputy-collector-held-in-bribery-case-in-keralam-s-ko": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "mp|record",
-    "norm": 39.7
-  },
-  "air-india-initiates-100-voluntary-pilot-testing-after-phuket": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "sebi-clears-nse-s-ipo-papers-to-be-india-s-biggest-so-far": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "ipo",
-    "norm": 37.5
-  },
-  "aadhaar-tilak-aarti-vhp-calls-for-muslim-ban-at-maharashtra-": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "maharashtra",
-    "norm": 35.5
-  },
-  "sc-awards-pension-to-mumbai-engineer-who-forged-st-certifica": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "war",
-    "norm": 35.5
-  },
-  "delhi-hc-allows-2-linked-to-neet-leak-to-go-for-counselling": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "neet",
-    "norm": 35.5
-  },
-  "glacial-lake-spurs-disaster-readiness-push-in-lahaul-spiti": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "disaster",
-    "norm": 35.5
-  },
-  "active-collaboration-between-public-private-sectors-a-must-f": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "war",
-    "norm": 35.5
-  },
-  "develop-north-karnataka-cities-as-alternative-growth-centres": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "row",
-    "norm": 35.5
-  },
-  "missing-boundary-walls-bathrooms-blackboards": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "war",
-    "norm": 35.5
-  },
-  "india-working-with-moscow-kyiv-to-end-war-eam": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "war",
-    "norm": 35.5
-  },
-  "seven-held-over-brutal-vattepally-murder-linked-to-black-mag": {
-    "firstSeen": "2026-09-04T19:28:38.476Z",
-    "signature": "brutal",
-    "norm": 35.5
-  },
-  "class-9-student-stabbed-to-death-in-delhi-over-girl-3-arrest": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "death",
-    "norm": 35.5
-  },
-  "probe-on-into-spotting-of-fake-note-bundle-at-thoppumpady": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "tenure-of-tdb-chief-vigilance-and-security-officer-extended-": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "high court",
-    "norm": 32.8
-  },
-  "akhilesh-promises-world-class-development-of-braj-region-if-": {
-    "firstSeen": "2026-09-05T00:52:55.804Z",
-    "signature": "president",
-    "norm": 32.8
-  },
-  "fewer-births-bigger-questions-for-tamil-nadu": {
-    "firstSeen": "2026-09-04T19:28:38.476Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "lindsay-clancy-murder-trial-ends-in-mistrial-as-jury-fails-t": {
-    "firstSeen": "2026-09-04T19:28:38.476Z",
-    "signature": "verdict",
-    "norm": 32.8
-  },
-  "apple-loop-final-iphone-18-pro-details-iphone-ultra-delays-m": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "mp",
-    "norm": 27.8
-  },
-  "ai-phuket-delhi-flight-incident-all-3-hydraulics-failed-in-e": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
+  "1-000-transplants-and-new-beginnings-thalassemia-patients-ge": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "coal-stock-at-thermal-plants-plummets-critical-at-50-units": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
+  "indian-researchers-map-colonial-spider-s-venom-gland-uncover": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "sree-krishna-jayanti-processions-part-of-rss-political-proje": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
+  "tripura-train-services-vehicular-movement-hit-as-blockade-by": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "exclusive-india-flags-abhayrab-rabies-vaccine-batch-as-subst": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
+  "a-string-of-non-academic-tasks-take-teachers-away-from-class": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "india-flags-abhayrab-rabies-vaccine-batch-as-substandard-pro": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
+  "ht-morning-brief-sept-5-more-s-400s-on-india-s-radar-delhi-r": {
+    "firstSeen": "2026-09-05T05:38:40.344Z",
     "signature": "",
-    "norm": 21.2
-  },
-  "iit-madras-incubated-centre-launches-ai-models-in-indian-lan": {
-    "firstSeen": "2026-09-04T19:28:38.476Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "judge-declares-mistrial-in-trial-of-us-woman-for-killing-of-": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "-first-step-to-victory-teen-dalit-activist-on-swatantra-bhar": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "-cracked-his-skull-was-not-all-far-right-influencer-swatantr": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "-let-them-speak-we-re-open-to-dialogue-rss-on-critics-of-moh": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "assam-signs-mous-with-6-firms-iit-madras-to-bring-ai-to-scho": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "rouge-openai-agents-planned-heist-hacked-website-went-undete": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "wanted-in-16-cases-karnataka-man-hid-in-pond-to-dodge-cops-i": {
-    "firstSeen": "2026-09-04T22:19:25.290Z",
-    "signature": "",
-    "norm": 15.1
+    "norm": 33.9
   }
 }
