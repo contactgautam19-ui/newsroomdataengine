@@ -1,121 +1,141 @@
 {
-  "-i-was-the-target-class-x-student-recalls-jantar-mantar-atta": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "attack|attack|injured|threat|video|viral|viral|viral|viral video",
-    "norm": 93.7
+  "let-terrorist-killed-in-j-amp-k-yasir-was-behind-2024-attack": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "attack|attack|killed|killed|mp|terror|terror",
+    "norm": 82.2
   },
-  "-identify-talent-of-students-pm-modi-interacts-with-national": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "minister|modi|modi|mp|president|prime minister|war",
-    "norm": 75.1
+  "delhi-weather-live-update-light-to-moderate-rain-thunderstor": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "alert|mp|rally|rally|storm|weather",
+    "norm": 81.6
   },
-  "speeding-mercedes-rams-into-scooty-in-goa-then-drags-it-up-t": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "death|killed|killed|result",
-    "norm": 74.6
+  "terrorist-killed-in-budgam-encounter-identified-as-pakistani": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "killed|killed|pakistan|terror|terror",
+    "norm": 77.5
   },
-  "maharashtra-bill-does-not-regulate-private-hospital-treatmen": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "bill|hospital|maharashtra|minister|mla|mp",
-    "norm": 73
+  "police-action-against-sfi-pinarayi-urges-mallikarjun-kharge-": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "congress|opposition|protest|protest",
+    "norm": 66.9
   },
-  "meet-radha-rajesh-teacher-using-messi-and-real-life-stories-": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "exam|mp|war",
-    "norm": 67.6
+  "ktr-warns-congress-against-seeking-kcr-s-resignation-recalls": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "congress|president|rahul gandhi|war",
+    "norm": 63.5
   },
-  "ganga-in-spate-flood-threat-mounts-in-bihar-up-as-ghats-go-u": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "flood|flood|threat|video",
-    "norm": 66
+  "jhiram-valley-massacre-nia-court-convicts-all-10-accused-in-": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "attack|attack|massacre",
+    "norm": 62.9
   },
-  "delhi-ncr-battered-by-heavy-rain-several-areas-waterlogged-i": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "alert|heavy rain|war",
-    "norm": 64.5
+  "couple-along-with-two-children-attempt-to-end-their-lives-wi": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "mp|rescue|rescue",
+    "norm": 62.8
   },
-  "three-children-dead-and-a-mistrial-what-is-the-lindsay-clanc": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
+  "pune-woman-dies-as-iron-structure-collapses-during-dahi-hand": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "collapse|collapse|collapse",
+    "norm": 60
+  },
+  "opinion-blog-why-you-should-care-whether-schrodinger-s-cat-i": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
     "signature": "dead|dead",
     "norm": 57.6
   },
-  "-we-are-open-to-dialogue-rss-on-protests-over-mohan-bhagwat-": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
+  "overpriced-popcorn-bottled-water-in-multiplexes-keralam-govt": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "ipl|price",
+    "norm": 57.1
+  },
+  "jharkhand-court-denies-bail-to-ex-jpsc-chief-khiangte-in-exa": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "exam|khan",
+    "norm": 55.7
+  },
+  "new-york-students-park-idea-from-2017-finally-built-in-1m-pr": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "mp|row",
+    "norm": 55.4
+  },
+  "tvk-to-formalise-existing-alliance-led-by-it-in-tamil-nadu-o": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "alliance|chief minister|congress|minister|president",
+    "norm": 54.4
+  },
+  "-very-strange-minor-s-counsel-questions-swatantra-bhardwaj-s": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
     "signature": "protest|protest",
-    "norm": 52.4
+    "norm": 54.2
   },
-  "-order-can-t-be-without-reasoning-supreme-court-sets-aside-a": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "ruling|supreme court",
-    "norm": 50.5
+  "nagpur-man-stabs-wife-to-death-for-refusing-to-cook-to-atten": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "death|died",
+    "norm": 53.9
   },
-  "what-legal-protections-exist-for-women-returning-from-matern": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "high court|mp",
-    "norm": 48.7
+  "sonny-ramadhin-1st-indian-origin-wi-cricketer-who-destroyed-": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "cricket|cricketer",
+    "norm": 53.9
   },
-  "from-asteroid-hunter-to-maths-wizard-82-educators-to-receive": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
+  "five-eu-countries-move-towards-first-return-hub-for-rejected": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
     "signature": "war",
     "norm": 48.2
   },
-  "ladakh-apex-body-warns-of-bigger-agitation-ahead-of-talks-wi": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "war",
+  "40-years-ago-a-flight-with-193-indians-was-hijacked-in-karac": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "hijack",
     "norm": 46.3
   },
-  "retaining-experience-on-the-bench": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "supreme court",
-    "norm": 45.9
-  },
-  "jaishankar-to-address-annual-high-level-unga-session-on-sept": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "jaishankar",
-    "norm": 45.9
-  },
-  "dairy-conclave-in-jhansi-on-september-11-as-u-p-pushes-women": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "economy",
-    "norm": 45.9
-  },
-  "dvac-conducts-raid-at-former-minister-k-n-nehru-s-residence": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
+  "in-teachers-day-post-keralam-higher-education-minister-takes": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
     "signature": "minister",
     "norm": 45.9
   },
-  "distrusting-a-system-is-not-a-problem-at-all-it-is-a-sure-si": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "star",
-    "norm": 44.3
-  },
-  "keralam-cm-cabinet-to-skip-press-interaction-at-iim-kozhikod": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
-    "signature": "cabinet",
+  "don-t-take-to-streets-give-me-two-years-to-resolve-issues-te": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "president",
     "norm": 44
   },
-  "1-000-transplants-and-new-beginnings-thalassemia-patients-ge": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
+  "from-mp-to-bihar-how-fake-ias-officers-are-using-forged-ids-": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "jarange-hardens-stand-refuses-water-medical-treatment-as-hun": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "",
+    "norm": 36
+  },
+  "saharanpur-mosque-demolition-why-action-at-5am-owaisi-akhile": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
+    "signature": "",
+    "norm": 36
+  },
+  "a-teacher-is-also-a-learner": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
     "signature": "",
     "norm": 33.9
   },
-  "indian-researchers-map-colonial-spider-s-venom-gland-uncover": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
+  "35-years-one-phone-call-how-sir-reunited-brothers-in-haryana": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
     "signature": "",
     "norm": 33.9
   },
-  "tripura-train-services-vehicular-movement-hit-as-blockade-by": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
+  "keralam-seeks-sadya-emoji-eyes-global-branding-for-tradition": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
     "signature": "",
     "norm": 33.9
   },
-  "a-string-of-non-academic-tasks-take-teachers-away-from-class": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
+  "russia-hit-ukraine-airports-ahead-of-us-envoys-visit-zelensk": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
     "signature": "",
     "norm": 33.9
   },
-  "ht-morning-brief-sept-5-more-s-400s-on-india-s-radar-delhi-r": {
-    "firstSeen": "2026-09-05T05:38:40.344Z",
+  "unlike-gloria-steinem-i-was-a-tomboy-before-i-knew-i-was-a-f": {
+    "firstSeen": "2026-09-05T10:29:26.918Z",
     "signature": "",
     "norm": 33.9
   }
