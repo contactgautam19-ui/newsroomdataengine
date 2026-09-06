@@ -1,62 +1,27 @@
 {
-  "delhi-building-collapse-live-at-least-five-dead-fir-register": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "building collapse|collapse|collapse|collapse|dead|dead|mp|rescue|rescue",
-    "norm": 87.3
+  "after-meeting-bihar-youth-rahul-slams-pm-modi-samrat-choudha": {
+    "firstSeen": "2026-09-06T22:05:35.213Z",
+    "signature": "modi|modi|slam|slams",
+    "norm": 71
   },
-  "-new-milestone-in-india-france-ties-pm-modi-virtually-inaugu": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "modi|modi|mp|row",
-    "norm": 70
+  "uttarakhand-waqf-board-bid-to-align-nikahnama-with-ucc-draws": {
+    "firstSeen": "2026-09-06T22:05:35.213Z",
+    "signature": "khan|opposition",
+    "norm": 51.7
   },
-  "bjp-to-go-alone-in-bengal-civic-polls-no-alliance-with-ncpi-": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "alliance|bjp|election|election|poll",
-    "norm": 64.6
+  "govt-in-a-tangle-over-supreme-court-ruling-on-creamy-layer-": {
+    "firstSeen": "2026-09-06T22:05:35.213Z",
+    "signature": "ruling|supreme court",
+    "norm": 48.7
   },
-  "four-police-officers-suspended-over-custodial-torture-compla": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "brutal|mp|tax",
-    "norm": 63.9
+  "5-state-polls-set-for-feb-march-with-up-voting-2-months-befo": {
+    "firstSeen": "2026-09-06T22:05:35.213Z",
+    "signature": "poll",
+    "norm": 45.9
   },
-  "-new-america-george-washington-meet-amp-de-niro-jibe-trump-u": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "mp|trump|trump",
-    "norm": 61.4
-  },
-  "three-bonded-labourers-from-tiruvannamalai-rescued-in-karnat": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "rescue|rescue",
-    "norm": 54.2
-  },
-  "-i-would-not-trade-chennai-for-any-other-city-in-the-world-i": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "weather",
-    "norm": 46.3
-  },
-  "safety-violations-put-nh-66-users-at-risk-in-kozhikode": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "sudden",
-    "norm": 42.7
-  },
-  "spate-of-thefts-triggers-security-concerns-in-ernakulam-dist": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "",
-    "norm": 36
-  },
-  "woman-lover-arrested-for-murdering-her-two-children-in-tirup": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "",
-    "norm": 36
-  },
-  "six-forest-officials-suspended-for-letting-tribals-illegally": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "images-of-gauri-lankesh-murder-accused-with-police-commissio": {
-    "firstSeen": "2026-09-06T19:05:40.749Z",
-    "signature": "",
-    "norm": 33.9
+  "relief-in-congress-as-all-factions-accept-pilot-as-punjab-ha": {
+    "firstSeen": "2026-09-06T22:05:35.213Z",
+    "signature": "congress",
+    "norm": 44
   }
 }
