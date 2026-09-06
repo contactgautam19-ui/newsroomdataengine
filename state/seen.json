@@ -1,136 +1,211 @@
 {
-  "building-collapses-in-delhi-s-satya-niketan-several-feared-t": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "building collapse|collapse|collapse|collapse|evacuat|fear|fire|fire|rescue|rescue",
-    "norm": 81.7
+  "delhi-university-students-union-campaigner-recalls-pulling-s": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "building collapse|collapse|collapse|collapse|died|mp|rescue|rescue",
+    "norm": 87.7
   },
-  "building-collapses-in-delhi-several-feared-trapped-under-deb": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "building collapse|collapse|collapse|collapse|fear|mp",
+  "shah-inaugurates-new-goa-bjp-headquarters-event-curtailed-ov": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "bjp|building collapse|collapse|collapse|collapse|dead|dead",
+    "norm": 85.2
+  },
+  "jammu-kashmir-under-modi-amit-shah-highlights-drop-in-terror": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "amit shah|minister|modi|modi|mp|terror|terror",
+    "norm": 84.1
+  },
+  "delhi-building-collapse-locals-order-oxygen-cylinders-from-b": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "building collapse|collapse|collapse|collapse|ipl|mp",
+    "norm": 82.9
+  },
+  "the-yamuna-is-rising-again-how-prepared-is-delhi-for-another": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "anger|flood|flood|floods|result|threat",
+    "norm": 82.9
+  },
+  "satya-niketan-building-collapse-eyewitness-says-basement-wor": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "building collapse|collapse|collapse|collapse|fear|flood|flood|rescue|rescue",
+    "norm": 82.6
+  },
+  "delhi-building-collapse-live-updates-two-dead-after-pg-colla": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "building collapse|collapse|collapse|collapse|dead|dead|fear",
+    "norm": 82.4
+  },
+  "delhi-building-collapse-live-at-least-one-dead-eight-people-": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "building collapse|collapse|collapse|collapse|dead|dead|rescue|rescue",
     "norm": 81.4
   },
-  "telangana-cm-revanth-and-tcs-announce-70-000-crore-ai-data-c": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "chief minister|crore|dead|dead|minister",
-    "norm": 79.4
+  "-students-forced-to-live-in-inhumane-conditions-rahul-gandhi": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "building collapse|collapse|collapse|collapse|fear|rahul gandhi",
+    "norm": 81.4
   },
-  "building-collapses-in-delhi-s-satya-niketan-one-rescued-seve": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
+  "1-dead-several-feared-trapped-after-six-storey-building-coll": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "building collapse|collapse|collapse|collapse|dead|dead|fear",
+    "norm": 80.9
+  },
+  "at-least-six-including-four-family-members-killed-in-house-c": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "collapse|collapse|collapse|killed|killed|rescue|rescue",
+    "norm": 80.2
+  },
+  "delhi-building-collapse-2-dead-several-trapped-as-pg-hostel-": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "building collapse|collapse|collapse|collapse|dead|dead|rescue|rescue",
+    "norm": 79.9
+  },
+  "in-chamundeshwari-veteran-jd-s-leader-g-t-deve-gowda-says-he": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "election|election|minister|president|rally|rally|war",
+    "norm": 79.7
+  },
+  "-the-walls-were-cracking-student-who-lived-in-collapsed-delh": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "collapse|collapse|collapse|fear|killed|killed",
+    "norm": 78.5
+  },
+  "one-dead-another-rescued-in-krishna-river-drowning-incident": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "dead|dead|drown|rescue|rescue|row",
+    "norm": 77.3
+  },
+  "student-trapped-under-debris-of-collapsed-delhi-building-sha": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "collapse|collapse|collapse|congress|rescue|rescue|video",
+    "norm": 75.6
+  },
+  "delhi-building-collapse-basement-was-being-built-after-upper": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "anger|building collapse|collapse|collapse|collapse",
+    "norm": 75.2
+  },
+  "delhi-building-collapse-live-updates-case-registered-against": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "building collapse|collapse|collapse|collapse|mp",
+    "norm": 73.3
+  },
+  "pg-building-collapses-in-delhi-s-satya-niketan-6-rescued-sev": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
     "signature": "building collapse|collapse|collapse|collapse|fire|fire|rescue|rescue|video",
-    "norm": 73.7
+    "norm": 72.1
   },
-  "several-trapped-after-building-collapses-in-delhi-s-satya-ni": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "building collapse|collapse|collapse|collapse|fire|fire|rescue|rescue",
-    "norm": 71.4
+  "delhi-south-campus-pg-safety-row-unauthorized-accommodations": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "crowd|mp|row|tragic",
+    "norm": 67.9
   },
-  "-influencer-swatantra-bhardwaj-sent-to-1-day-judicial-custod": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "attack|attack|protest|protest",
-    "norm": 68.4
+  "-situation-being-closely-monitored-cm-rekha-gupta-minister-k": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "collapse|collapse|collapse|minister",
+    "norm": 66.7
   },
-  "-shameful-nasty-singapore-minister-hits-out-at-anti-india-ra": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "flood|flood|floods|minister",
-    "norm": 66.3
+  "-win-against-india-damaged-us-a-lot-yousuf-explains-pakistan": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "cricket|match|pakistan|world cup",
+    "norm": 65.1
   },
-  "-bye-bye-papa-what-21-year-old-told-father-before-jumping-in": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "mp|rescue|rescue",
-    "norm": 62.8
-  },
-  "pm-narendra-modi-s-big-govt-performance-review-ministers-min": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "minister|modi|modi|prime minister",
-    "norm": 61.8
-  },
-  "india-backs-new-world-map-plan-mea-draws-red-line-on-j-k-lad": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "border|china|row|vote",
-    "norm": 61.8
-  },
-  "kpcc-poised-to-take-tough-line-on-discipline-without-closing": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "ipl|mla|parliament",
-    "norm": 59.7
-  },
-  "-goons-surrounded-our-house-cjp-protester-alleges-stones-pel": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "protest|protest|video",
+  "police-notices-halt-civic-group-s-walk-to-raise-awareness-on": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "mp|war",
     "norm": 57.1
   },
-  "collector-inspects-flood-mitigation-projects-in-cuddalore": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "flood|flood",
-    "norm": 54.2
+  "cpi-m-seeks-judicial-probe-into-agricultural-smart-meter-pay": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "crore|mp",
+    "norm": 55
   },
-  "delhi-schools-to-remain-closed-on-september-11-for-brics-sum": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "brics|summit",
+  "chief-minister-visiting-north-karnataka-after-bjp-announced-": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "bjp|chief minister|minister|mp|president",
+    "norm": 54.4
+  },
+  "azharuddin-highlights-govt-s-welfare-initiatives-slams-kcr-f": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "slam|slams",
+    "norm": 53.9
+  },
+  "new-zealand-home-values-hit-three-year-low-as-buyers-remain-": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "actor|economy",
+    "norm": 51.7
+  },
+  "tuberculosis-free-panchayats-in-kollam-felicitated": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "minister|mp",
     "norm": 50.5
   },
-  "government-sells-4-000-tonnes-of-buffer-onions-in-10-days-to": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "price|prices",
-    "norm": 48.7
+  "cpi-m-identifies-parliamentary-aberrations-failure-to-follow": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "mp|parliament",
+    "norm": 50.5
   },
-  "old-monk-cannot-be-sold-as-rum-what-fssai-told-bombay-hc": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "bomb",
+  "manipur-final-electoral-roll-records-1-96-million-voters-aft": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "record|vote",
+    "norm": 50.2
+  },
+  "red-cross-to-set-up-blood-bank-thalassemia-ward-at-kukatpall": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "-extra-marks-if-jnu-professor-accused-of-sexual-harassment-s": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "exam",
     "norm": 46.3
   },
-  "in-1984-lou-dobbs-acquired-a-new-jersey-farm-and-expanded-it": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
+  "revanth-hails-mahesh-goud-on-completing-two-years-as-tpcc-ch": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "hassan-district-administration-receives-1-076-applications-d": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "-we-eradicated-naxalism-narcotics-next-amit-shah-on-drug-fre": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "amit shah",
     "norm": 44
   },
-  "justice-lokur-flags-poor-implementation-of-fra-pesa-says-tri": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "mp",
-    "norm": 44
+  "missile-shortage-forces-ukraine-to-use-1970s-era-r-60-agains": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
+    "signature": "drone",
+    "norm": 40.7
   },
-  "20-foot-deep-well-under-up-s-saharanpur-collectorate-mosque-": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
+  "telangana-chief-secretary-inspects-proposed-elevated-corrido": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
     "signature": "",
     "norm": 36
   },
-  "london-bound-virgin-atlantic-flight-makes-emergency-landing-": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
+  "sweetening-livelihoods-one-beehive-at-a-time": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "why-is-the-central-consumer-protection-authority-racking-dow": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
+  "clear-dues-to-ensure-students-get-certificates-harish-rao-ur": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "theft-cases-at-regular-intervals-in-ernakulam-trigger-securi": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
+  "calicut-university-to-have-panel-on-fyugp-facilitation": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "india-appears-smaller-in-world-map-than-it-really-is-here-s-": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
+  "katha-ghar-17-year-old-girl-sets-up-free-library-outside-her": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "mit-sends-robot-beneath-arctic-ice-transmits-data-at-1-2-kb-": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "what-to-expect-at-september-9-apple-event-foldable-iphone-ip": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-eliminated-15-of-population-ex-cec-quraishi-takes-dig-at-si": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "un-backed-proposed-world-map-must-depict-j-k-ladakh-as-per-i": {
-    "firstSeen": "2026-09-06T09:20:50.675Z",
+  "5-myanmar-nationals-arrested-in-arunachal-amid-crackdown-on-": {
+    "firstSeen": "2026-09-06T13:37:39.551Z",
     "signature": "",
     "norm": 33.9
   }
