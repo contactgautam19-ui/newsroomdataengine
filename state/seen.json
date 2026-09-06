@@ -1,101 +1,136 @@
 {
-  "five-dead-after-consuming-spurious-liquor-in-mp-s-sagar-over": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "dead|dead|died|hospital|mp",
-    "norm": 77.5
+  "building-collapses-in-delhi-s-satya-niketan-several-feared-t": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "building collapse|collapse|collapse|collapse|evacuat|fear|fire|fire|rescue|rescue",
+    "norm": 81.7
   },
-  "cjp-slams-pm-modi-for-reviving-dimagi-naxal-remark-at-srcc-g": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "minister|modi|modi|prime minister|slam|slams",
-    "norm": 76.9
+  "building-collapses-in-delhi-several-feared-trapped-under-deb": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "building collapse|collapse|collapse|collapse|fear|mp",
+    "norm": 81.4
   },
-  "-something-much-bigger-trump-planning-major-middle-east-rese": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "iran|mp|trump|trump|war",
-    "norm": 76.5
+  "telangana-cm-revanth-and-tcs-announce-70-000-crore-ai-data-c": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "chief minister|crore|dead|dead|minister",
+    "norm": 79.4
   },
-  "-students-tormented-by-bjp-rahul-backs-mpsc-paper-leak-prote": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "bjp|maharashtra|mp|protest|protest",
-    "norm": 75.3
+  "building-collapses-in-delhi-s-satya-niketan-one-rescued-seve": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "building collapse|collapse|collapse|collapse|fire|fire|rescue|rescue|video",
+    "norm": 73.7
   },
-  "-check-aadhar-card-apply-tilak-maharashtra-vhp-seeks-to-bar-": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "maharashtra|war|warning",
-    "norm": 69.6
+  "several-trapped-after-building-collapses-in-delhi-s-satya-ni": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "building collapse|collapse|collapse|collapse|fire|fire|rescue|rescue",
+    "norm": 71.4
   },
-  "mayor-mamdani-summoned-by-nyc-council-for-his-team-using-an-": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "bill|cry|mp",
+  "-influencer-swatantra-bhardwaj-sent-to-1-day-judicial-custod": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "attack|attack|protest|protest",
+    "norm": 68.4
+  },
+  "-shameful-nasty-singapore-minister-hits-out-at-anti-india-ra": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "flood|flood|floods|minister",
+    "norm": 66.3
+  },
+  "-bye-bye-papa-what-21-year-old-told-father-before-jumping-in": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "mp|rescue|rescue",
+    "norm": 62.8
+  },
+  "pm-narendra-modi-s-big-govt-performance-review-ministers-min": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 61.8
+  },
+  "india-backs-new-world-map-plan-mea-draws-red-line-on-j-k-lad": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "border|china|row|vote",
+    "norm": 61.8
+  },
+  "kpcc-poised-to-take-tough-line-on-discipline-without-closing": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "ipl|mla|parliament",
     "norm": 59.7
   },
-  "rain-alert-across-india-today-heavy-showers-in-up-haryana-ye": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "alert|mp",
+  "-goons-surrounded-our-house-cjp-protester-alleges-stones-pel": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "protest|protest|video",
     "norm": 57.1
   },
-  "kerala-lottery-result-today-live-samrudhi-sm-71-winning-numb": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "crore|result",
-    "norm": 57.1
+  "collector-inspects-flood-mitigation-projects-in-cuddalore": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "flood|flood",
+    "norm": 54.2
   },
-  "mappilappattu-singer-nisar-wayanad-passes-away-in-dubai": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "hospital|singer",
-    "norm": 55.7
+  "delhi-schools-to-remain-closed-on-september-11-for-brics-sum": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "brics|summit",
+    "norm": 50.5
   },
-  "shillong-teer-result-today-september-6-2026-winning-numbers-": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "khan|result",
-    "norm": 55.7
+  "government-sells-4-000-tonnes-of-buffer-onions-in-10-days-to": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "price|prices",
+    "norm": 48.7
   },
-  "amid-corruption-nepotism-row-centre-names-justice-sanjay-kum": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "high court|row",
-    "norm": 55.4
-  },
-  "influencer-igho-ubiribo-passes-away-at-43-in-thailand": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "death|mp",
-    "norm": 55.4
-  },
-  "news-in-frames-where-the-mountains-narrate-stories": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "slam",
-    "norm": 48.2
-  },
-  "vhp-calls-for-no-muslims-at-maharashtra-garba-dandiya-events": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "maharashtra",
+  "old-monk-cannot-be-sold-as-rum-what-fssai-told-bombay-hc": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "bomb",
     "norm": 46.3
   },
-  "-sexual-advances-lewd-remarks-10-jnu-students-accuse-profess": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
+  "in-1984-lou-dobbs-acquired-a-new-jersey-farm-and-expanded-it": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "flyover-to-cut-down-travel-time-by-30-minutes": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
+  "justice-lokur-flags-poor-implementation-of-fra-pesa-says-tri": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "teachers-day-2026-a-deep-dive-into-the-education-ecosystem": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
+  "20-foot-deep-well-under-up-s-saharanpur-collectorate-mosque-": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
     "signature": "",
     "norm": 36
   },
-  "15-days-after-cremation-punjab-family-gets-a-call-your-son-i": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
-    "signature": "",
-    "norm": 36
-  },
-  "kanthapuram-a-p-aboobacker-power-beyond-the-pulpit": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
+  "london-bound-virgin-atlantic-flight-makes-emergency-landing-": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
     "signature": "",
     "norm": 33.9
   },
-  "-highly-useful-but-no-breakthrough-what-was-discussed-in-put": {
-    "firstSeen": "2026-09-06T04:28:36.727Z",
+  "why-is-the-central-consumer-protection-authority-racking-dow": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "theft-cases-at-regular-intervals-in-ernakulam-trigger-securi": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "india-appears-smaller-in-world-map-than-it-really-is-here-s-": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "mit-sends-robot-beneath-arctic-ice-transmits-data-at-1-2-kb-": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "what-to-expect-at-september-9-apple-event-foldable-iphone-ip": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-eliminated-15-of-population-ex-cec-quraishi-takes-dig-at-si": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "un-backed-proposed-world-map-must-depict-j-k-ladakh-as-per-i": {
+    "firstSeen": "2026-09-06T09:20:50.675Z",
     "signature": "",
     "norm": 33.9
   }
