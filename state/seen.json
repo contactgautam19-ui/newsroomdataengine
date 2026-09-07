@@ -1,171 +1,221 @@
 {
-  "-men-would-never-have-to-face-this-keyaa-calls-out-sexism-af": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "dead|dead|mp|photos|viral|viral|viral",
-    "norm": 88.2
+  "mcd-chief-sanjeev-khirwar-who-was-at-the-centre-of-dog-walk-": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "building collapse|collapse|collapse|collapse|mp|row|tragedy|war",
+    "norm": 88.3
   },
-  "three-charred-to-death-after-car-crashes-into-transformer-in": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "crash|crash|death|fire|fire|lakh|mp",
-    "norm": 87.6
+  "when-you-ask-accountablity-pm-says-dimagi-naxal-rahul-on-del": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "building collapse|collapse|collapse|collapse|outrage|rahul gandhi|tragic",
+    "norm": 87.5
   },
-  "watch-deadly-pyrotechnic-explosion-rocks-church-festival-in-": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "dead|dead|explosion|explosion|fire|fire|injured|killed|killed|tragic|watch",
-    "norm": 83.7
+  "shiv-sena-will-not-tolerate-such-incidents-deputy-cm-eknath-": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "attack|attack|chief minister|hospital|maharashtra|minister",
+    "norm": 86
   },
-  "the-bhotekoshi-flood-a-himalayan-tragedy": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "devastat|flood|flood|floods|mp|tragedy|war",
-    "norm": 83.4
+  "why-was-there-a-delay-congress-criticises-delhi-government-o": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "building collapse|collapse|collapse|collapse|congress|killed|killed",
+    "norm": 85.2
   },
-  "the-critical-task-that-brought-an-unstable-delhi-building-do": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "building collapse|chief minister|collapse|collapse|collapse|minister|rescue|rescue",
+  "delhi-pg-collapse-horror-7-dead-corruption-safety-rules-acco": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "collapse|collapse|collapse|dead|dead|devastat|horror|tragedy",
     "norm": 82.1
   },
-  "delhi-building-collapse-satya-niketan-case-joins-a-grim-list": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "building collapse|collapse|collapse|collapse|dead|dead|war|warning",
-    "norm": 82.1
+  "satya-niketan-building-collapse-rescue-operation-ends-after-": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "building collapse|collapse|collapse|collapse|dead|dead|rescue|rescue",
+    "norm": 81.4
   },
-  "delhi-building-collapse-families-wait-in-fear-for-loved-ones": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "building collapse|collapse|collapse|collapse|fear|rescue|rescue",
-    "norm": 78.7
+  "only-9-000-beds-2-lakh-students-how-du-s-hostel-shortage-is-": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "collapse|collapse|collapse|killed|killed|lakh",
+    "norm": 81.4
   },
-  "youth-killed-in-accident-involving-tamil-nadu-minister-jagad": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "accident|killed|killed|minister|war",
+  "mpsc-exam-paper-leak-aspirants-protest-in-pune-ncp-sp-cong-l": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "exam|iran|maharashtra|mp|protest|protest",
+    "norm": 80.2
+  },
+  "who-is-hariram-gupta-owner-of-delhi-pg-that-collapsed-killed": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "collapse|collapse|collapse|killed|killed|war",
+    "norm": 78.5
+  },
+  "12-pilgrims-killed-as-pickup-vehicle-overturns-after-hitting": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "crash|crash|horror|killed|killed",
     "norm": 77.5
   },
-  "dozens-feared-trapped-in-collapsed-building-in-delhi": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "collapse|collapse|collapse|fear|mp",
-    "norm": 76.6
+  "delhi-cm-rekha-gupta-inspects-satya-niketan-collapse-site-or": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "building collapse|chief minister|collapse|collapse|collapse|minister",
+    "norm": 77.2
   },
-  "jharkhand-cid-arrests-one-accused-in-jssc-cgl-exam-irregular": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "exam|khan|protest|protest|recruitment",
-    "norm": 76.5
+  "jhiram-valley-maoist-attack-a-verdict-after-13-years-but-sam": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "attack|attack|blast|congress|mp|verdict",
+    "norm": 76.9
   },
-  "28-year-old-killed-after-tn-minister-jagadeeswari-s-car-hits": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "killed|killed|minister|tragedy|war",
-    "norm": 73.5
+  "tumultuous-scenes-in-tamil-nadu-assembly-as-cm-vijay-attacks": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "attack|attack|mla|protest|protest",
+    "norm": 76.3
   },
-  "dry-spell-pushes-temperatures-above-normal-at-many-places-in": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "alert|mp|war|warning",
-    "norm": 71
+  "at-least-five-dead-as-pg-accommodation-building-collapses-in": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "building collapse|collapse|collapse|collapse|dead|dead",
+    "norm": 76.1
   },
-  "vijay-slams-rising-double-meaning-remarks-against-women-days": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "attack|attack|row|slam|slams",
-    "norm": 66.8
+  "operation-sindoor-showed-india-s-resolve-to-go-to-any-extent": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "defence|minister|pakistan|terror|terror",
+    "norm": 72
   },
-  "delhi-building-collapse-live-updates-look-out-circular-issue": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "building collapse|collapse|collapse|collapse",
-    "norm": 65.2
+  "akhilesh-s-chavanni-jab-can-jayant-be-bjp-s-trump-card-in-up": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "alliance|bjp|election|election|lok sabha|mp|trump|trump",
+    "norm": 68.8
   },
-  "award-winning-keralam-filmmaker-r-sarath-passes-away": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "film|mp|war",
-    "norm": 64.2
+  "-can-t-shirk-responsibility-delhi-hc-raps-centre-orders-prob": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "collapse|collapse|collapse|high court",
+    "norm": 68.3
   },
-  "stock-market-live-updates-sensex-today-sensex-drops-300-poin": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "iran|nifty|sensex|stock market",
-    "norm": 63.5
+  "du-south-campus-remains-deserted-as-colleges-stay-shut-after": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "collapse|collapse|collapse|mp",
+    "norm": 66.7
   },
-  "suspected-drones-near-amritsar-airport-trigger-flight-divers": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "alert|drone|mp",
-    "norm": 62.8
+  "supreme-court-refuses-extension-for-aravalli-panel-sets-nove": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "dead|dead|supreme court",
+    "norm": 66
   },
-  "drone-scare-at-amritsar-airport-7-flights-diverted-after-sus": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "alert|drone|mp",
+  "pm-modi-s-vadodara-youth-connect-tickets-sold-out-in-1-hour-": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 61.8
+  },
+  "greater-noida-student-slapped-with-rs-5-lakh-fine-for-joinin": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "lakh|protest|protest",
     "norm": 61.1
   },
-  "mla-appraisal-sikh-outreach-bjp-s-2027-strategy-what-s-on-ni": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "bjp|khan|mla",
-    "norm": 57.9
+  "calcutta-hc-questions-multiple-firs-against-abhishek-banerje": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "ipl|mp|record",
+    "norm": 61.1
   },
-  "shillong-teer-result-today-september-7-2026-winning-numbers-": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "khan|result",
-    "norm": 53.9
+  "dac-clears-acqusition-worth-rs-1-10-lakh-crore-for-armed-for": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "army|crore|lakh",
+    "norm": 57.6
   },
-  "google-tcs-and-the-physics-of-air-cooling-a-large-data-centr": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "mp|tax",
-    "norm": 53.2
+  "satara-student-suicide-family-alleges-pressure-over-complain": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "died|mp",
+    "norm": 57.1
   },
-  "-if-women-are-insulted-law-will-take-action-vijay-amid-row-o": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "row",
+  "eknath-shinde-suspends-shiv-sena-s-palghar-unit-chief-over-h": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "hospital|mla",
+    "norm": 57.1
+  },
+  "parliament-panel-questions-delay-in-response-to-baiga-child-": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "death|parliament",
+    "norm": 57.1
+  },
+  "-space-ecosystem-has-to-grow-isro-chief-defends-expanding-pr": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "mp|row",
+    "norm": 57.1
+  },
+  "national-film-awards-move-out-of-delhi-to-be-held-in-kevadia": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "film|war",
+    "norm": 55.7
+  },
+  "tamil-nadu-cm-vijay-warns-of-action-against-anyone-making-ob": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "verdict|war",
+    "norm": 55.4
+  },
+  "frequent-power-disruptions-affect-residents-of-vyttila-trigg": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "mani-ratnam-s-next-titled-inji-vellam-vijay-sethupathi-sai-p": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "film|mp",
+    "norm": 51.7
+  },
+  "women-s-reservation-will-open-new-avenues-for-political-lead": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "lok sabha|parliament",
+    "norm": 50.5
+  },
+  "monsoon-session-on-ventilator-as-shah-seeks-two-thirds-major": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "bill|congress",
+    "norm": 48.7
+  },
+  "international-vulture-awareness-day-observed-in-the-nilgiris": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "jnu-professor-accused-of-harassment-offered-extra-marks-for-": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "exam",
-    "norm": 48.2
-  },
-  "-will-not-tolerate-tn-cm-vijay-warns-over-abusive-remarks-ag": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
+  "scientists-find-underwater-city-of-20-000-octopus-nests-off-": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
     "signature": "war",
     "norm": 46.3
   },
-  "alabama-monk-recreated-125-landmarks-he-had-mostly-never-see": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "mp",
+  "mizoram-final-electoral-roll-out-how-to-check-your-name": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "vote",
     "norm": 45.9
   },
-  "how-putin-s-shadow-fleet-is-using-fake-identities-to-evade-u": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "sanction",
+  "bengal-bjp-says-eating-non-veg-during-durga-puja-personal-ch": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "bjp",
     "norm": 45.9
   },
-  "hc-to-hear-habeas-corpus-plea-on-swatantra-bhardwaj-s-arrest": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "high court",
-    "norm": 44
+  "-strategy-yet-to-be-decided-shinde-on-nda-alliance-in-goa": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "alliance",
+    "norm": 45.9
   },
-  "china-building-secret-desert-airbase-to-fast-track-next-gen-": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "china",
-    "norm": 44
+  "lpg-refill-booking-interval-cut-to-25-days-for-rural-consume": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "minister",
+    "norm": 45.9
   },
-  "veteran-keralam-cinematographer-t-n-krishnankutty-dies": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "film",
-    "norm": 42.4
-  },
-  "keralam-gym-trainer-arrested-for-allegedly-drugging-and-sexu": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "record",
-    "norm": 40.7
-  },
-  "since-2007-rockefeller-center-christmas-trees-have-been-turn": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "",
-    "norm": 36
-  },
-  "pregnant-telangana-woman-rides-bullock-cart-to-reach-ambulan": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-how-can-my-press-conference-damage-india-bangladesh-relatio": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
+  "suntec-city-case-ex-punjab-chief-secretary-anurag-verma-miss": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
     "signature": "",
     "norm": 33.9
   },
-  "private-island-with-napoleonic-fort-up-for-sale-a-look-at-th": {
-    "firstSeen": "2026-09-07T06:00:05.255Z",
+  "-delhi-cops-had-audacity-to-go-to-bulandshahr-after-me-influ": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "ganpati-festival-latur-police-roll-out-no-dj-no-dolby-drive": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "scientists-removed-70-of-lake-logs-yellow-perch-nearly-vanis": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "man-paraded-shirtless-with-a-noose-around-his-neck-over-30-0": {
+    "firstSeen": "2026-09-07T12:20:29.141Z",
     "signature": "",
     "norm": 33.9
   }
