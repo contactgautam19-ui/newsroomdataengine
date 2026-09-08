@@ -1,32 +1,302 @@
 {
+  "tejashwi-writes-to-pm-modi-urges-him-to-grant-5-000-crore-fo": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "crore|disaster|flood|flood|floods|modi|modi|result",
+    "norm": 82.6
+  },
+  "-era-is-over-trump-threatens-to-ban-canadian-plane-maker-bom": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "bomb|mp|president|threat|trump|trump|war",
+    "norm": 78.1
+  },
+  "gift-amid-grief-delhi-building-collapse-victim-s-family-dona": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "building collapse|collapse|collapse|collapse|death|grief",
+    "norm": 69.9
+  },
+  "13-days-after-flood-killed-hundreds-nepal-mourns-the-dead": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "dead|dead|disaster|flood|flood|killed|killed",
+    "norm": 68.3
+  },
+  "ground-report-sunlight-is-a-luxury-in-delhi-students-hub-whe": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "building collapse|collapse|collapse|collapse|killed|killed",
+    "norm": 67.4
+  },
+  "delhi-pg-collapse-owner-wife-sent-to-judicial-custody-son-ge": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "building collapse|collapse|collapse|collapse|dead|dead",
+    "norm": 67.4
+  },
+  "bjp-all-set-for-four-day-protest-over-student-issues-in-jhar": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "bjp|chief minister|khan|minister|opposition|president|protest|protest",
+    "norm": 66.7
+  },
+  "-ties-with-india-long-standing-historic-iran-ahead-of-pezesh": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "brics|diplomacy|ipl|iran|president|summit",
+    "norm": 65.6
+  },
   "-great-importance-iran-hails-india-ties-after-modi-pezeshkia": {
     "firstSeen": "2026-09-07T21:58:43.329Z",
     "signature": "brics|iran|modi|modi|mp|summit",
-    "norm": 69.6
+    "norm": 62.7
+  },
+  "satya-niketan-building-collapse-delhi-l-g-orders-safety-audi": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "building collapse|collapse|collapse|collapse|minister",
+    "norm": 62.7
+  },
+  "tigress-tranquilised-after-killing-4-dies-on-way-to-rescue-c": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "rescue|rescue|terror|terror|war",
+    "norm": 60.7
+  },
+  "newborn-dies-after-ambulance-gets-stuck-for-2-hours-on-damag": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "actor|hospital|mp",
+    "norm": 60
+  },
+  "u-k-recognises-india-s-carbon-credit-scheme-under-its-carbon": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "mp|price|tax",
+    "norm": 59.3
+  },
+  "sanjay-kumar-agrawal-sworn-in-as-rajasthan-hc-chief-justice": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "controversy|high court|sharma",
+    "norm": 57
+  },
+  "two-bike-riders-killed-one-injured-in-separate-accidents-in-": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "accident|injured|killed|killed",
+    "norm": 56.2
+  },
+  "mizoram-electoral-rolls-see-78-442-deletions-39-243-addition": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "lakh|result|vote",
+    "norm": 54.5
+  },
+  "russia-shuts-german-consulate-in-st-petersburg-over-drone-at": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "attack|attack|drone",
+    "norm": 53.8
   },
   "uttar-pradesh-congress-president-ajay-rai-others-detained-as": {
     "firstSeen": "2026-09-07T21:58:43.329Z",
     "signature": "bjp|congress|opposition|president|row",
-    "norm": 62.9
+    "norm": 53.4
   },
-  "san-antonio-library-book-checked-out-in-1943-returns-82-year": {
-    "firstSeen": "2026-09-07T21:58:43.329Z",
-    "signature": "row",
-    "norm": 46.3
+  "eknath-shinde-suspends-sena-leader-arrested-over-attack-on-m": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "attack|attack|hospital",
+    "norm": 53.4
   },
-  "eiffel-tower-shuts-after-female-staff-allegedly-sidelined-du": {
-    "firstSeen": "2026-09-07T21:58:43.329Z",
+  "punjab-woos-uae-investors-at-dubai-summit-assures-seamless-c": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "investor|summit",
+    "norm": 53.2
+  },
+  "padma-shri-awardee-harekala-hajabba-gets-sir-notice-over-nam": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "record|vote|war",
+    "norm": 51.5
+  },
+  "govt-clears-rs-1-1-lakh-crore-proposals-to-buy-military-hard": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "crore|lakh|war",
+    "norm": 50
+  },
+  "revanth-calls-for-left-congress-unity-against-modi": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "congress|modi|modi",
+    "norm": 50
+  },
+  "dry-day-grants-cut-suvendu-adhikari-s-big-ticket-changes-for": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "chief minister|lakh|minister",
+    "norm": 47.7
+  },
+  "pg-buildings-to-undergo-structural-audits-rules-to-be-review": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "killed|killed",
+    "norm": 47.7
+  },
+  "authorities-must-show-leniency-while-asking-members-of-sc-st": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "fraud|high court",
+    "norm": 45.4
+  },
+  "-conduct-worthy-of-derision-allahabad-hc-pulls-up-district-m": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "exam|mp",
+    "norm": 45.4
+  },
+  "delhi-tragedy-building-owner-retired-from-air-force-runs-sho": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "air force|tragedy",
+    "norm": 45.4
+  },
+  "there-is-a-misinformation-campaign-in-the-public-domain-says": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "mp|row",
+    "norm": 45.4
+  },
+  "after-delhi-tragedy-building-owners-may-face-mandatory-struc": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "policy|tragedy",
+    "norm": 45.4
+  },
+  "student-protest-to-anti-establishment-movement-abvp-takes-on": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "death|protest|protest",
+    "norm": 43.9
+  },
+  "man-kills-wife-in-guwahati-chops-fingers-stores-severed-head": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "dead|dead",
+    "norm": 43.5
+  },
+  "passive-smoking-deaths-up-50-since-1990-lancet": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "death|died",
+    "norm": 41.8
+  },
+  "civil-services-foundation-course-on-hold-as-candidates-wait-": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "mp|rohit",
+    "norm": 41.4
+  },
+  "77-days-and-counting-haryana-guest-teachers-intensify-agitat": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "high court|mp|supreme court",
+    "norm": 40.6
+  },
+  "gauhati-hc-orders-assam-govt-to-pay-rs-2-lakh-to-husband-of-": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "lakh|mp",
+    "norm": 38.6
+  },
+  "supreme-court-judge-writes-4th-letter-to-cji-against-raj-hc-": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "cji|supreme court",
+    "norm": 38
+  },
+  "with-ec-bypoll-notification-focus-shifts-to-whether-tvk-will": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "mla|poll",
+    "norm": 38
+  },
+  "detained-pakistan-national-repatriated-via-international-bor": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "border|pakistan",
+    "norm": 38
+  },
+  "employees-strike-illegal-says-punjab-minister-arora-ahead-of": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "minister|mp",
+    "norm": 38
+  },
+  "sc-rejects-panel-s-plea-for-6-more-months-to-define-aravali-": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "company-can-face-fine-for-offence-carrying-jail-term-sc": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "manoj-jarange-patil-on-11th-fast-warned-would-bring-mumbai-t": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "war",
+    "norm": 35.5
+  },
+  "top-honour-for-goa-police-as-amit-shah-presents-president-s-": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "amit shah|president",
+    "norm": 33.4
+  },
+  "new-un-map-depicts-arunachal-aksai-chin-as-territories-caugh": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "border",
+    "norm": 32.8
+  },
+  "assam-woman-s-severed-head-found-in-fridge": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "un-human-rights-experts-ask-pakistan-to-end-violence-on-ahma": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "pakistan",
+    "norm": 32.8
+  },
+  "india-s-gulf-balancing-act-gets-a-parliament-check-in": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "parliament",
+    "norm": 32.8
+  },
+  "india-bangladesh-to-discuss-restarting-train-services-at-key": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "star",
+    "norm": 31
+  },
+  "resolution-doesn-t-endorse-any-specific-map-mea": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
     "signature": "",
-    "norm": 36
+    "norm": 30.7
+  },
+  "jakarta-airport-and-others-reopen-after-volcanic-ash-crisis": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "eiffel-tower-closes-after-female-staff-allegedly-sidelined-d": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "",
+    "norm": 26.7
   },
   "india-joins-us-24-nations-in-push-for-next-generation-6g-net": {
     "firstSeen": "2026-09-07T21:58:43.329Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 26.7
   },
   "bangladesh-and-india-plan-to-resume-train-ops-by-october": {
     "firstSeen": "2026-09-07T21:58:43.329Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
+  },
+  "student-from-alappuzha-arrested-in-ernakulam-college-morphin": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "baba-ramdev-s-aide-balkrishna-acquitted-in-15-year-old-forge": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "aai-team-begins-two-day-inspection-of-sites-for-proposed-gre": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "vijay-argues-individual-crimes-should-not-be-equated-with-la": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "applications-open-for-iit-madras-school-connect-programme": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "ai-may-soon-help-humans-talk-to-animals-and-birds": {
+    "firstSeen": "2026-09-08T00:15:44.700Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
