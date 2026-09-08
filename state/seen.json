@@ -1,186 +1,161 @@
 {
-  "delhi-building-collapse-death-toll-up-to-7-hc-orders-citywid": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "building collapse|collapse|collapse|collapse|death|policy|toll",
-    "norm": 85.2
+  "neet-ug-protests-after-supreme-court-quashes-firs-petitioner": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "neet|protest|protest|supreme court",
+    "norm": 72.9
   },
-  "nhrc-seeks-plan-from-delhi-govt-ugc-to-increase-hostels-afte": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "building collapse|collapse|collapse|collapse|killed|killed|mp",
-    "norm": 83.7
+  "congress-protest-near-kcr-s-farmhouse-leads-to-clashes-ktr-a": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "clash|clash|congress|protest|protest",
+    "norm": 70.6
   },
-  "six-including-3-year-old-killed-as-speeding-truck-collides-w": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "crash|crash|killed|killed|maharashtra",
-    "norm": 82.2
+  "ptr-s-warning-to-tamil-nadu-s-new-government-inexperience-go": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "minister|mp|war|warning",
+    "norm": 70
   },
-  "-truth-will-defeat-jhooth-ki-goonj-pm-modi-targets-rahul-gan": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "crore|minister|modi|modi|prime minister|rahul gandhi|war",
-    "norm": 82.2
+  "cpi-m-keralam-state-committee-unanimously-passes-report-on-s": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "election|election|result|results|results",
+    "norm": 66.3
   },
-  "satya-niketan-building-collapse-sc-to-consider-issues-on-sep": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "building collapse|collapse|collapse|collapse|fire|fire|supreme court",
-    "norm": 78.3
+  "husband-died-in-2006-widow-got-pf-and-gratuity-why-hc-reject": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "died|maharashtra|mp",
+    "norm": 66
   },
-  "tumultuous-scenes-in-tamil-nadu-assembly-as-cm-vijay-attacks": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "attack|attack|mla|protest|protest",
-    "norm": 77.8
+  "why-bharat-s-ngo-to-startup-ratio-is-a-red-flag-for-growth-s": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "lakh|row|star",
+    "norm": 64.2
   },
-  "man-absconding-for-29-years-in-attempt-to-murder-case-arrest": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "attack|attack|dead|dead|mp",
-    "norm": 75.9
-  },
-  "6-killed-as-speeding-truck-collides-head-on-with-vehicle-in-": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "killed|killed|maharashtra|mp",
-    "norm": 75.9
-  },
-  "-illegal-construction-exorbitant-rent-why-pgs-in-delhi-s-sat": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "accident|bomb|building collapse|collapse|collapse|collapse|rbi",
-    "norm": 75.4
-  },
-  "-please-let-me-go-there-s-an-emergency-i-ll-cry-mumbai-woman": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "cry|video|viral|viral|viral",
-    "norm": 72.6
-  },
-  "3-of-family-killed-as-speeding-school-bus-hits-bike-in-up-s-": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "hospital|injured|khan|killed|killed",
-    "norm": 72.2
-  },
-  "kerala-hc-stays-trial-in-2016-puttingal-fireworks-accident-c": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "accident|fire|fire|injured|killed|killed",
-    "norm": 72.1
-  },
-  "keralam-government-begins-to-examine-enforcement-directorate": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "exam|opposition|war",
-    "norm": 67.6
-  },
-  "ktr-booked-for-alleged-assault-on-cops-outside-telangana-ass": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "congress|minister|president|protest|protest",
-    "norm": 67.3
-  },
-  "pm-modi-unveils-rail-road-projects-worth-rs-35-000-crore-in-": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "crore|modi|modi",
-    "norm": 63.9
-  },
-  "message-to-trump-india-to-debate-de-dollarisation-with-allie": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "brics|mp|summit|trump|trump",
+  "t20-leagues-taking-over-ponting-fears-odi-cricket-will-be-pl": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "cricket|fear|match",
     "norm": 62.9
   },
-  "-prefer-death-to-being-called-coward-up-judge-claims-100-cas": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "death|gst|war",
-    "norm": 62.5
+  "dmk-s-entry-makes-bypolls-a-three-corner-contest": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "election|election|poll",
+    "norm": 61.4
   },
-  "2010-spot-fixing-when-amir-butt-and-asif-brought-shame-to-pa": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "cricket|match|pakistan",
-    "norm": 62.5
+  "nse-ipo-live-updates-expected-date-share-price-band-current-": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "ipo|price|share price",
+    "norm": 61.4
   },
-  "orangutans-not-native-to-india-found-in-odisha-forest-govt-o": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "minister|rescue|rescue",
+  "godavari-family-deaths-court-gives-police-three-days-custody": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "death|khan|war",
     "norm": 61.1
   },
-  "-networks-are-fully-operational-delhi-police-says-no-jammers": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "mp|rescue|rescue",
-    "norm": 61.1
-  },
-  "-modiji-aap-ka-aura-hi-alag-hai-gen-z-friends-click-with-pm-": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "aap|modi|modi",
-    "norm": 59.7
-  },
-  "man-with-fake-pmo-id-card-detained-in-mumbai-ahead-of-pm-mod": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
+  "russia-india-plan-brahmos-upgrade-ahead-of-pm-modi-putin-mee": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
     "signature": "modi|modi",
     "norm": 57.1
   },
-  "bengaluru-minister-fixes-streetlights-on-key-stretch-but-cit": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "minister|upsc",
+  "punjab-leaders-have-assured-me-of-working-collectively-under": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "congress|war",
     "norm": 57.1
   },
-  "pointillist-painting-of-venkateswara-and-padmavathi-to-adorn": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "lakh|war",
-    "norm": 57.1
+  "tyler-perry-offers-to-clear-17-827-lien-for-81-year-old-illi": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "mp|threat",
+    "norm": 55.4
   },
-  "now-protesters-at-jantar-mantar-seek-overhaul-of-reservation": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "twins-given-under-10-survival-chance-now-prepare-for-first-d": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "hospital|mp",
+    "norm": 55.4
   },
-  "inl-accuses-keralam-chief-minister-v-d-satheesan-of-pushing-": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "bjp|chief minister|minister|mp|president",
-    "norm": 52.6
-  },
-  "in-bhagwant-mann-s-one-time-promise-on-farm-debt-a-decade-ol": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "captain|mp",
+  "ncpcr-summons-meta-india-official-over-child-sex-abuse-mater": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "instagram|policy",
     "norm": 51.7
   },
-  "-traffic-may-be-regulated-delhi-police-advisory-ahead-of-bri": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "brics|summit",
-    "norm": 48.7
+  "andhra-cm-naidu-tells-mlas-to-stay-close-to-people-address-g": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "mla|mp|president",
+    "norm": 50.9
   },
-  "t-usha-rani-appointed-as-superintendent-of-gandhi-hospital": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "hospital",
+  "telangana-offers-to-increase-rice-exports-to-philippines": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "cabinet|minister",
+    "norm": 50.5
+  },
+  "karnataka-directed-to-release-6-000-cusecs-of-water-a-day-to": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "minister|supreme court",
+    "norm": 50.5
+  },
+  "hc-directs-police-recruitment-board-to-allow-transgenders-to": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "recruitment",
     "norm": 48.2
   },
-  "brs-mlcs-tata-madhu-naveen-kumar-reddy-arrested-over-remarks": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "controversy",
+  "no-special-treatment-for-unruly-customers-claiming-political": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "after-satya-niketan-tragedy-mcd-plans-pg-survey-steps-up-dem": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "tragedy",
     "norm": 46.3
   },
-  "what-was-sarkaria-commission-and-what-were-its-findings-expl": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "cabinet",
+  "flipkart-widens-lead-against-amazon-as-quick-commerce-surges": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "india-has-51-days-coal-stocks-to-meet-power-demand-productio": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "stocks",
     "norm": 45.9
   },
-  "new-un-map-projects-arunachal-pradesh-aksai-chin-outside-ind": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "border",
-    "norm": 44
+  "navy-chief-krishna-swaminathan-to-visit-australia-new-zealan": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "navy",
+    "norm": 45.9
   },
-  "in-a-first-uttarakhand-could-require-qazis-to-get-unique-ids": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
-    "signature": "khan",
-    "norm": 42.4
+  "singareni-supplying-a-lion-s-share-of-its-coal-to-thermal-st": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "-the-country-s-future-is-shaped-in-classrooms-ncte-member-op": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
+  "no-uapa-charges-in-nia-s-first-charge-sheet-against-ukrainia": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
     "signature": "",
     "norm": 36
   },
-  "21-year-old-student-found-hanging-in-rented-room-in-up-s-mat": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
+  "free-coaching-for-eligible-students-and-meritorious-sportspe": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
     "signature": "",
     "norm": 36
   },
-  "meghalaya-assam-hold-meeting-to-address-tourist-cab-operator": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
+  "-phone-sticking-and-running-metro-trend-raises-safety-concer": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
     "signature": "",
     "norm": 36
   },
-  "50-years-on-sarkaria-commission-rocks-tamil-nadu-assembly-ag": {
-    "firstSeen": "2026-09-08T11:10:03.293Z",
+  "tdp-activist-clings-to-zp-chairman-s-car-for-3km-in-chittoor": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "",
+    "norm": 36
+  },
+  "airport-chaos-in-uk-nearly-300-flights-cancelled-due-to-air-": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "",
+    "norm": 36
+  },
+  "kochi-police-invoke-pocso-act-against-two-accused-in-morphin": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
+    "signature": "",
+    "norm": 36
+  },
+  "kannur-varsity-registrar-removed-amid-shift-in-stand-in-priy": {
+    "firstSeen": "2026-09-08T16:33:59.337Z",
     "signature": "",
     "norm": 33.9
   }
