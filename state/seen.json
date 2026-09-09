@@ -1,47 +1,57 @@
 {
-  "maharashtra-fda-cracks-down-on-irctc-iskcon-juhu-facilities-": {
-    "firstSeen": "2026-09-08T22:34:42.662Z",
-    "signature": "maharashtra|mp|record",
-    "norm": 62.8
+  "building-collapses-to-fires-33k-died-in-5-years-from-2020": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
+    "signature": "building collapse|collapse|collapse|collapse|died|fire|fire",
+    "norm": 78.7
   },
-  "nia-drops-uapa-against-american-6-ukrainians-held-in-terror-": {
-    "firstSeen": "2026-09-08T22:34:42.662Z",
-    "signature": "terror|terror",
-    "norm": 57.6
+  "-we-have-nothing-to-lose-babar-azam-rallies-pakistan-for-edg": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
+    "signature": "captain|cricket|pakistan|surprise",
+    "norm": 69.6
   },
-  "us-strikes-iranian-tankers-near-kharg-island-tehran-threaten": {
-    "firstSeen": "2026-09-08T22:34:42.662Z",
-    "signature": "iran|threat",
-    "norm": 57.6
+  "caught-on-cctv-kanpur-shopkeeper-objects-to-public-urination": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
+    "signature": "attack|attack|cctv|death",
+    "norm": 68.4
   },
-  "on-sheikh-abdullah-s-44th-death-anniversary-nc-reclaims-his-": {
-    "firstSeen": "2026-09-08T22:34:42.662Z",
-    "signature": "death|video",
-    "norm": 54.2
+  "putin-meeting-pm-modi-on-friday-energy-defence-high-on-agend": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
+    "signature": "defence|modi|modi",
+    "norm": 61.4
   },
-  "bjp-demands-punjab-cm-s-resignation-over-farmer-s-suicide": {
-    "firstSeen": "2026-09-08T22:34:42.662Z",
-    "signature": "bjp",
-    "norm": 45.9
+  "j-k-cm-omar-abdullah-watches-mirzapur-at-srinagar-s-only-fun": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
+    "signature": "film|ipl|watch",
+    "norm": 59.7
   },
-  "digital-asset-firms-court-sovereign-funds": {
-    "firstSeen": "2026-09-08T22:34:42.662Z",
-    "signature": "fund",
-    "norm": 45.9
+  "punjab-leaders-have-assured-me-of-working-collectively-under": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
+    "signature": "congress|war",
+    "norm": 57.1
   },
-  "apple-event-kicks-off-tech-season-2026-2027-conference-calen": {
-    "firstSeen": "2026-09-08T22:34:42.662Z",
-    "signature": "mp",
-    "norm": 44
+  "upi-ng-the-ante-pm-modi-wants-desi-connect-with-global-pay": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
+    "signature": "modi|modi",
+    "norm": 57.1
   },
-  "on-putin-s-agenda-sale-of-5th-generation-jets-to-india": {
-    "firstSeen": "2026-09-08T22:34:42.662Z",
+  "dilip-gavit-s-journey-from-losing-right-arm-to-raising-the-t": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
+    "signature": "accident|record",
+    "norm": 52.4
+  },
+  "dua-steals-show-in-deepika-ranveer-maternity-shoot-fans-call": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
+    "signature": "fan|photos",
+    "norm": 50.5
+  },
+  "vit-chennai-the-hindu-to-hold-conclave-on-the-future-of-biot": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
+    "signature": "iran",
+    "norm": 46.3
+  },
+  "delhi-hc-raps-centre-for-outing-survivor-s-name-in-its-posh-": {
+    "firstSeen": "2026-09-09T01:12:34.090Z",
     "signature": "",
     "norm": 36
-  },
-  "odisha-s-rural-work-does-not-have-adequate-photographic-evid": {
-    "firstSeen": "2026-09-08T22:34:42.662Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
