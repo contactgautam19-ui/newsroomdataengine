@@ -1,57 +1,192 @@
 {
-  "building-collapses-to-fires-33k-died-in-5-years-from-2020": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
-    "signature": "building collapse|collapse|collapse|collapse|died|fire|fire",
-    "norm": 78.7
+  "one-killed-four-injured-in-oxygen-cylinder-blast-in-okhla": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "accident|blast|died|hospital|injured|killed|killed|trauma",
+    "norm": 76.4
   },
-  "-we-have-nothing-to-lose-babar-azam-rallies-pakistan-for-edg": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
-    "signature": "captain|cricket|pakistan|surprise",
-    "norm": 69.6
+  "how-agencies-cracked-shahzad-bhatti-s-isi-linked-terror-netw": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "gst|pakistan|terror|terror",
+    "norm": 75.5
   },
-  "caught-on-cctv-kanpur-shopkeeper-objects-to-public-urination": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
-    "signature": "attack|attack|cctv|death",
-    "norm": 68.4
+  "neet-ug-protests-supreme-court-questions-u-p-magistrate-s-no": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "neet|protest|protest|supreme court",
+    "norm": 72.9
   },
-  "putin-meeting-pm-modi-on-friday-energy-defence-high-on-agend": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
-    "signature": "defence|modi|modi",
+  "rahul-gandhi-urges-cm-mann-to-sack-harpal-cheema-ensure-impa": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "aap|anger|death|mp|rahul gandhi|threat",
+    "norm": 71.1
+  },
+  "-threats-and-torture-rahul-gandhi-claims-dangerous-pattern-i": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "aap|anger|congress|rahul gandhi|slam|slams|threat",
+    "norm": 70.8
+  },
+  "adani-enterprises-shares-jump-as-airport-unit-enters-into-1-": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "adani|bill|billion|deal|fund|mp",
+    "norm": 70.7
+  },
+  "india-condemns-houthi-attacks-on-saudi-oil-installations": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "attack|attack|iran",
+    "norm": 68
+  },
+  "why-vijay-s-gold-ring-scheme-may-miss-its-september-15-launc": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "chief minister|gold|minister|surprising",
+    "norm": 65.3
+  },
+  "bjp-to-launch-month-long-campaign-on-modi-s-birthday-to-mark": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "bjp|modi|modi|mp",
+    "norm": 63.5
+  },
+  "sir-row-bharat-ratna-scientist-cnr-rao-gets-notice-over-prof": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "match|record|row",
+    "norm": 63.2
+  },
+  "mandatory-licence-fixed-rent-bands-security-deposit-cap-cctv": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "cctv|collapse|collapse|collapse",
+    "norm": 62.8
+  },
+  "blaze-erupts-in-surat-textile-market-several-shops-damaged-f": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "blaze|fire|fire|injured",
+    "norm": 62.5
+  },
+  "from-blood-donation-to-a-month-long-seva-campaign-how-bjp-pl": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "bjp|modi|modi|mp",
+    "norm": 61.8
+  },
+  "-beat-him-with-slippers-karnataka-minister-faces-flak-over-d": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "bjp|controversy|minister|mla",
+    "norm": 61.8
+  },
+  "high-city-mileage-petrol-e20-cng-choices-5-best-selling-etha": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "budget|lakh|petrol|petrol",
+    "norm": 61.8
+  },
+  "bjp-launches-month-long-seva-sanklap-abhiyan-to-mark-pm-modi": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "bjp|modi|modi",
     "norm": 61.4
   },
-  "j-k-cm-omar-abdullah-watches-mirzapur-at-srinagar-s-only-fun": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
-    "signature": "film|ipl|watch",
-    "norm": 59.7
+  "-how-dare-they-sc-slams-greater-noida-magistrate-for-sending": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "protest|protest|slam|slams",
+    "norm": 60.6
   },
-  "punjab-leaders-have-assured-me-of-working-collectively-under": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
-    "signature": "congress|war",
+  "delhi-cm-rekha-gupta-orders-bulldozer-action-after-satya-nik": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "collapse|collapse|collapse",
+    "norm": 60
+  },
+  "ola-electric-held-for-delay-in-delivery-ordered-to-pay-2-34-": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "fund|lakh|mp",
+    "norm": 57.6
+  },
+  "tamil-nadu-cm-vijay-to-travel-to-london-on-first-official-ov": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "gold|mp",
     "norm": 57.1
   },
-  "upi-ng-the-ante-pm-modi-wants-desi-connect-with-global-pay": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
+  "nataraja-parvati-vishnu-ancient-idols-linked-to-subhash-chan": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "exam|mp",
+    "norm": 55.4
+  },
+  "telangana-hc-reserves-order-on-modifying-order-for-action-ag": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
     "signature": "modi|modi",
-    "norm": 57.1
+    "norm": 55.4
   },
-  "dilip-gavit-s-journey-from-losing-right-arm-to-raising-the-t": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
-    "signature": "accident|record",
+  "congress-nc-spar-as-abdullahs-stand-for-full-version-of-vand": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "chief minister|congress|minister|mp|president",
+    "norm": 54.4
+  },
+  "orangutans-rescued-from-odisha-forest-state-begins-probe-gre": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "rescue|rescue",
+    "norm": 54.2
+  },
+  "keralam-govt-introduces-new-mechanism-to-ensure-timely-imple": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "budget|mp",
+    "norm": 53.2
+  },
+  "call-to-create-adequate-jobs-in-rajasthan-as-youth-eager-to-": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "jobs|mp",
+    "norm": 53.2
+  },
+  "eci-to-move-bharat-ratna-cnr-rao-s-electoral-hearing-to-his-": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "backlash|record",
     "norm": 52.4
   },
-  "dua-steals-show-in-deepika-ranveer-maternity-shoot-fans-call": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
-    "signature": "fan|photos",
+  "-how-can-magistrate-issue-notice-sc-raps-greater-noida-offic": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "telangana-assembly-monsoon-session-live-sept-9-over-20-brs-m": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "minister|mla",
     "norm": 50.5
   },
-  "vit-chennai-the-hindu-to-hold-conclave-on-the-future-of-biot": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
-    "signature": "iran",
-    "norm": 46.3
+  "justice-ravindra-vithalrao-ghuge-sworn-in-as-chief-justice-o": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "high court|mp",
+    "norm": 48.7
   },
-  "delhi-hc-raps-centre-for-outing-survivor-s-name-in-its-posh-": {
-    "firstSeen": "2026-09-09T01:12:34.090Z",
+  "aiadmk-dmk-governments-in-t-n-gave-inadequate-publicity-to-s": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "result",
+    "norm": 48.2
+  },
+  "journalist-jijo-john-puthezhath-dies": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "bharat-ratna-scientist-prof-cnr-rao-gets-sir-notice-over-nam": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "match",
+    "norm": 48.2
+  },
+  "andhra-pradesh-unveils-roadmap-to-ensure-24x7-quality-power-": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "who-is-rohan-parekh-diamond-merchant-s-son-at-centre-of-mumb": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "kanpur-man-dies-after-being-allegedly-assaulted-for-objectin": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "cctv",
+    "norm": 40.7
+  },
+  "bhogapuram-airport-air-india-express-to-fly-visakhapatnam-ba": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
     "signature": "",
     "norm": 36
+  },
+  "who-was-rakesh-mehta-chief-secretary-under-sheila-dikshit-di": {
+    "firstSeen": "2026-09-09T07:20:19.880Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
