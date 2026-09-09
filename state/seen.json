@@ -1,192 +1,302 @@
 {
-  "one-killed-four-injured-in-oxygen-cylinder-blast-in-okhla": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "accident|blast|died|hospital|injured|killed|killed|trauma",
-    "norm": 76.4
+  "satya-niketan-pg-collapse-mcd-demolishes-dangerous-adjoining": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "anger|building collapse|collapse|collapse|collapse|dead|dead|tragedy",
+    "norm": 84.7
   },
-  "how-agencies-cracked-shahzad-bhatti-s-isi-linked-terror-netw": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "gst|pakistan|terror|terror",
-    "norm": 75.5
+  "25-years-since-9-11-terror-s-new-faces-and-india-s-evolving-": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "attack|attack|recruitment|terror|terror",
+    "norm": 79.4
   },
-  "neet-ug-protests-supreme-court-questions-u-p-magistrate-s-no": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "neet|protest|protest|supreme court",
-    "norm": 72.9
+  "ht-evening-brief-sept-9-india-condemns-houthi-attacks-on-sau": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "attack|attack|kohli|rohit|world cup",
+    "norm": 79.4
   },
-  "rahul-gandhi-urges-cm-mann-to-sack-harpal-cheema-ensure-impa": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "aap|anger|death|mp|rahul gandhi|threat",
-    "norm": 71.1
+  "singapore-pm-s-salary-is-rs-26-9-crore-how-much-do-us-prez-t": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "crore|minister|modi|modi|mp|prime minister|trump|trump",
+    "norm": 78
   },
-  "-threats-and-torture-rahul-gandhi-claims-dangerous-pattern-i": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "aap|anger|congress|rahul gandhi|slam|slams|threat",
-    "norm": 70.8
+  "multiple-merchant-vessels-disabled-by-fire-in-northern-gulf-": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "fire|fire|ipl|mp|navy",
+    "norm": 76.8
   },
-  "adani-enterprises-shares-jump-as-airport-unit-enters-into-1-": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "adani|bill|billion|deal|fund|mp",
-    "norm": 70.7
+  "pappu-yadav-raises-alarm-over-bihar-floods-says-55-lakh-peop": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "flood|flood|floods|lakh",
+    "norm": 70.6
   },
-  "india-condemns-houthi-attacks-on-saudi-oil-installations": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "attack|attack|iran",
-    "norm": 68
+  "bjd-seeks-president-s-intervention-for-reversal-of-2026-amen": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "crore|lakh|president|war",
+    "norm": 69.6
   },
-  "why-vijay-s-gold-ring-scheme-may-miss-its-september-15-launc": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "chief minister|gold|minister|surprising",
-    "norm": 65.3
+  "ttd-approves-2-lakh-cover-for-pilgrims-who-die-of-natural-ca": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "accident|crore|lakh|mp",
+    "norm": 69.6
   },
-  "bjp-to-launch-month-long-campaign-on-modi-s-birthday-to-mark": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "bjp|modi|modi|mp",
-    "norm": 63.5
+  "flash-flood-diphu-river-rises-above-danger-level": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "anger|flood|flood",
+    "norm": 67.6
   },
-  "sir-row-bharat-ratna-scientist-cnr-rao-gets-notice-over-prof": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "match|record|row",
-    "norm": 63.2
+  "-everyone-wants-to-vote-for-bjp-says-rajasthan-deputy-cm-as-": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "bjp|election|election|poll|vote",
+    "norm": 67.3
   },
-  "mandatory-licence-fixed-rent-bands-security-deposit-cap-cctv": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "cctv|collapse|collapse|collapse",
+  "addis-ababa-call-to-action-early-warnings-for-all-to-protect": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "disaster|war|warning",
+    "norm": 67.3
+  },
+  "deadly-decibels-why-noise-disputes-in-india-are-turning-fata": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "anger|dead|dead",
+    "norm": 64.5
+  },
+  "guwahati-milk-tanker-gets-stuck-after-newly-laid-drain-slab-": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "collapse|collapse|collapse",
     "norm": 62.8
   },
-  "blaze-erupts-in-surat-textile-market-several-shops-damaged-f": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "blaze|fire|fire|injured",
-    "norm": 62.5
+  "tanker-seen-listing-after-possible-projectile-attack-near-ua": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "attack|attack",
+    "norm": 62.1
   },
-  "from-blood-donation-to-a-month-long-seva-campaign-how-bjp-pl": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "bjp|modi|modi|mp",
-    "norm": 61.8
-  },
-  "-beat-him-with-slippers-karnataka-minister-faces-flak-over-d": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "bjp|controversy|minister|mla",
-    "norm": 61.8
-  },
-  "high-city-mileage-petrol-e20-cng-choices-5-best-selling-etha": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "budget|lakh|petrol|petrol",
-    "norm": 61.8
-  },
-  "bjp-launches-month-long-seva-sanklap-abhiyan-to-mark-pm-modi": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "bjp|modi|modi",
+  "brics-navigating-geopolitical-tensions-and-energy-security-a": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "brics|iran|mp",
     "norm": 61.4
   },
-  "-how-dare-they-sc-slams-greater-noida-magistrate-for-sending": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "protest|protest|slam|slams",
-    "norm": 60.6
-  },
-  "delhi-cm-rekha-gupta-orders-bulldozer-action-after-satya-nik": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "collapse|collapse|collapse",
+  "vande-mataram-row-cong-hopes-allies-follow-two-stanza-rendit": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "bjp|row",
     "norm": 60
   },
-  "ola-electric-held-for-delay-in-delivery-ordered-to-pay-2-34-": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "fund|lakh|mp",
-    "norm": 57.6
+  "pm-narendra-modi-witnesses-perfio-showcase-of-the-ai-powered": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "modi|modi",
+    "norm": 60
   },
-  "tamil-nadu-cm-vijay-to-travel-to-london-on-first-official-ov": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "gold|mp",
+  "tamil-nadu-s-new-assembly-secretariat-complex-to-come-up-at-": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "ipl|mp",
     "norm": 57.1
   },
-  "nataraja-parvati-vishnu-ancient-idols-linked-to-subhash-chan": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
+  "keralam-mvd-to-digitise-vehicle-inspections-after-autoricksh": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "death|photos|video",
+    "norm": 57.1
+  },
+  "three-language-scheme-centre-raises-issue-in-sc-over-treatin": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
     "signature": "exam|mp",
-    "norm": 55.4
+    "norm": 57.1
   },
-  "telangana-hc-reserves-order-on-modifying-order-for-action-ag": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "modi|modi",
-    "norm": 55.4
+  "cabinet-approves-three-multitracking-projects-covering-14-di": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "cabinet|khan",
+    "norm": 56.4
   },
-  "congress-nc-spar-as-abdullahs-stand-for-full-version-of-vand": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "chief minister|congress|minister|mp|president",
-    "norm": 54.4
+  "hang-seng-taiwan-taiex-slip-as-middle-east-tensions-push-oil": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "investor|watch",
+    "norm": 55
   },
-  "orangutans-rescued-from-odisha-forest-state-begins-probe-gre": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "rescue|rescue",
-    "norm": 54.2
+  "iron-rods-pierce-karnataka-bus-after-tractor-collision-drive": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "actor|mp",
+    "norm": 53.5
   },
-  "keralam-govt-introduces-new-mechanism-to-ensure-timely-imple": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "budget|mp",
-    "norm": 53.2
+  "sc-allows-withdrawal-of-65-criminal-cases-against-former-sit": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "high court|mla|mp",
+    "norm": 52.7
   },
-  "call-to-create-adequate-jobs-in-rajasthan-as-youth-eager-to-": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "jobs|mp",
-    "norm": 53.2
+  "maharashtra-fda-suspends-food-licenses-of-railway-catering-s": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "maharashtra",
+    "norm": 51.2
   },
-  "eci-to-move-bharat-ratna-cnr-rao-s-electoral-hearing-to-his-": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "backlash|record",
-    "norm": 52.4
+  "riya-murder-case-police-to-recreate-crime-scene-in-hatigaon-": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "row",
+    "norm": 51.2
   },
-  "-how-can-magistrate-issue-notice-sc-raps-greater-noida-offic": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "telangana-assembly-monsoon-session-live-sept-9-over-20-brs-m": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "minister|mla",
-    "norm": 50.5
-  },
-  "justice-ravindra-vithalrao-ghuge-sworn-in-as-chief-justice-o": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "high court|mp",
-    "norm": 48.7
-  },
-  "aiadmk-dmk-governments-in-t-n-gave-inadequate-publicity-to-s": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "result",
-    "norm": 48.2
-  },
-  "journalist-jijo-john-puthezhath-dies": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "bharat-ratna-scientist-prof-cnr-rao-gets-sir-notice-over-nam": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
+  "cnr-rao-name-mismatch-hearing-did-bharat-ratna-scientist-rec": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
     "signature": "match",
-    "norm": 48.2
+    "norm": 51.2
   },
-  "andhra-pradesh-unveils-roadmap-to-ensure-24x7-quality-power-": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
+  "goods-train-wagon-derails-in-jammu-kashmir-rail-traffic-hit": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "derail",
+    "norm": 51.2
+  },
+  "suriya-s-next-is-scene-directed-by-jithu-madhavan-title-teas": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "film|star|teaser",
+    "norm": 50.1
+  },
+  "two-domestic-helps-suspected-in-rs-2-5-crore-theft-from-delh": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "crore",
+    "norm": 49
+  },
+  "air-fryer-for-a-small-family-these-5-models-get-the-capacity": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "price",
+    "norm": 49
+  },
+  "rhiya-ahir-shehzad-poonawalla-spar-over-bigg-boss-20-rahul-g": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "rahul gandhi",
+    "norm": 49
+  },
+  "gunmen-rob-man-of-rs-1-crore-in-cash-at-gunpoint-in-delhi-da": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "crore",
+    "norm": 49
+  },
+  "nse-ipo-will-not-be-of-30000-cr-why-reduced-ofs-could-bring-": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "ipo",
+    "norm": 49
+  },
+  "kbc-18-question-that-made-iit-graduate-lose-rs-25-lakhs": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "lakh",
+    "norm": 49
+  },
+  "gauhati-high-court-to-hear-bail-pleas-of-two-accused-in-zube": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "high court",
+    "norm": 49
+  },
+  "bjp-condemns-tanvir-sadiq-alleged-remarks-seeks-public-apolo": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "bjp",
+    "norm": 49
+  },
+  "county-group-to-invest-2-500-crore-to-develop-luxury-homes-i": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "crore",
+    "norm": 49
+  },
+  "rbi-vasudevan-flags-legal-privacy-interoperability-risks-in-": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "rbi",
+    "norm": 49
+  },
+  "tariq-karra-criticises-nc-over-full-rendition-of-vande-matar": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "film",
+    "norm": 47.4
+  },
+  "india-remembers-captain-vikram-batra-on-his-birth-anniversar": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "captain",
+    "norm": 47.4
+  },
+  "mayawati-has-1-condition-for-nephew-akash-anand-s-bsp-rise-h": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "who-is-rohan-parekh-diamond-merchant-s-son-at-centre-of-mumb": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "mp",
-    "norm": 44
+  "man-rapes-6-year-old-girl-in-uttarakhand-kashipur-booked-pol": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "khan",
+    "norm": 44.3
   },
-  "kanpur-man-dies-after-being-allegedly-assaulted-for-objectin": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
-    "signature": "cctv",
-    "norm": 40.7
+  "iphone-18-launch-today-when-and-where-to-watch-apple-big-eve": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "watch",
+    "norm": 42.7
   },
-  "bhogapuram-airport-air-india-express-to-fly-visakhapatnam-ba": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
+  "omc-earnings-likely-to-rebound-in-q2fy27-but-crude-volatilit": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "india-likely-to-return-to-current-account-surplus-soon-niti-": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "epf-advance-rules-withdrawals-for-education-illness-and-hous": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "year-1909-inscribed-bricks-found-at-saharanpur-mosque-demoli": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "nre-vs-nro-your-money-may-be-sitting-in-the-wrong-account-wh": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "-wont-bow-to-paper-tiger-cpi-m-defends-leadership-accuses-ed": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "katrina-kaif-and-anne-hathaway-what-their-body-shaming-exper": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "dsej-revokes-suspension-of-two-officials": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "-sharing-the-court-with-carlos-is-an-absolute-honour-shelton": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "dr-mansukh-mandaviya-to-chair-national-conference-on-buildin": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "meta-india-executives-appear-before-rights-body-in-child-abu": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
     "signature": "",
     "norm": 36
   },
-  "who-was-rakesh-mehta-chief-secretary-under-sheila-dikshit-di": {
-    "firstSeen": "2026-09-09T07:20:19.880Z",
+  "fsda-officials-shut-down-hotel-in-bengaluru-citing-hygiene-i": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
+  },
+  "telangana-legislature-monsoon-session-live-sept-9-house-adjo": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 36
+  },
+  "international-cooperation-key-to-future-spaceflight-sunita-w": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 36
+  },
+  "delhi-court-acquits-man-in-illicit-liquor-case-says-lack-of-": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-no-notice-issued-to-cnr-rao-for-electoral-roll-revision-cla": {
+    "firstSeen": "2026-09-09T12:56:09.074Z",
+    "signature": "",
+    "norm": 36
   }
 }
