@@ -1,146 +1,171 @@
 {
-  "collector-makes-thar-fortuner-owners-take-road-safety-pledge": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "minister|rally|rally|video|viral|viral|viral|war",
-    "norm": 83.9
+  "congress-attacks-weak-modi-govt-over-controversial-u-s-adver": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "attack|attack|congress|modi|modi|opposition",
+    "norm": 81.7
   },
-  "imf-welcomes-india-s-7-8-gdp-growth-showed-lot-of-resilience": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "gdp|mp|price|row|shock|shock",
-    "norm": 78.2
+  "satya-niketan-pg-operator-was-warned-of-a-wall-collapse-hour": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "collapse|collapse|collapse|tragedy|war|warning",
+    "norm": 80
   },
-  "ht-morning-brief-september-11-putin-arrives-in-india-for-bri": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "attack|attack|brics|terror|terror",
-    "norm": 75.9
+  "bjp-nominates-devasish-sharma-for-assam-s-nagaon-lok-sabha-b": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "bjp|congress|election|election|election commission|lok sabha|mp|sharma",
+    "norm": 72
   },
-  "sc-asks-govt-to-teach-nutrition-in-schools-quizzes-fssai-on-": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "mp|supreme court|war|warning",
-    "norm": 71.6
+  "brics-summit-2026-live-updates-iran-president-pezeshkian-arr": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "brics|iran|minister|modi|modi|president|prime minister|summit",
+    "norm": 70.4
   },
-  "ed-raids-ramnandi-hotels-across-9-locations-in-alleged-rs-13": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "crore|fraud|fund|mp",
-    "norm": 69.6
+  "kpcc-to-seek-reconciliation-in-keralam-mla-ramya-haridas-fra": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "congress|mla|president|row|war",
+    "norm": 67
   },
-  "india-s-gdp-growth-surges-to-7-8-economy-beats-imf-and-world": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "economy|gdp|mp|row",
-    "norm": 68
+  "-we-value-brics-cooperation-support-india-in-hosting-a-succe": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "brics|china|modi|modi|summit",
+    "norm": 64.6
   },
-  "why-do-gdp-figures-face-a-controversy-in-india-": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "controversy|gdp|opposition",
-    "norm": 65.6
+  "-men-will-go-and-win-medals-delhi-hc-highlights-women-athlet": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "election|election|mp",
+    "norm": 59.7
   },
-  "brics-summit-2026-live-updates-pm-modi-hopes-for-positive-di": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "brics|modi|modi|summit",
-    "norm": 63.5
+  "-mirzapur-the-movie-bo-day-8-live-pankaj-tripathi-film-eyes-": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "box office|crore|film|movie|star",
+    "norm": 58.1
   },
-  "-confident-of-positive-meaningful-talks-for-global-welfare-p": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "brics|minister|modi|modi|prime minister|summit",
-    "norm": 63.4
-  },
-  "-key-growth-engine-imf-hails-india-s-7-8-growth-backs-gdp-es": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "economy|fund|gdp|row",
-    "norm": 61.8
-  },
-  "brics-summit-2026-delhi-decked-up-to-welcome-global-leaders-": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "brics|photos|president|summit",
-    "norm": 58.6
-  },
-  "how-should-rupps-be-regulated-explained": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "mp|tax|vote",
+  "rajasthan-civic-polls-evm-glitches-disrupt-voting-at-some-bo": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "lakh|poll|vote",
     "norm": 57.6
   },
-  "mother-allegedly-kills-1-year-old-daughter-by-slitting-her-t": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "hospital|mp",
-    "norm": 57.1
-  },
-  "jaishankar-meets-prince-rahim-aga-khan-v": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "jaishankar|khan|president",
-    "norm": 56.1
-  },
-  "pm-modi-german-chancellor-merz-reaffirm-commitment-to-streng": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "modi|modi",
+  "from-keywords-to-digital-trails-how-delhi-police-are-trackin": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "brics|threat",
     "norm": 55.4
   },
-  "-congress-exposes-congress-tharoor-fact-checks-chidambaram-o": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "bjp|brics|congress|summit",
+  "bengal-cm-eats-fish-at-kalighat-amid-bageshwar-baba-row-what": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "controversy|row|war",
+    "norm": 54.9
+  },
+  "abhijit-dipke-meets-manoj-jarange-patil-backs-maratha-quota-": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "max-thieriot-turned-90-acre-sonoma-ranch-into-vineyard-farm-": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "actor|riot",
     "norm": 53.9
   },
-  "shillong-teer-result-today-september-11-2026-winning-numbers": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "khan|result",
-    "norm": 53.9
+  "the-saket-problem-egyptian-team-s-brics-stay-complicates-del": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "brics|mp|summit",
+    "norm": 50.9
   },
-  "after-p-chidambaram-questions-brics-benefits-shashi-tharoor-": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "brics|fpi",
-    "norm": 53.2
-  },
-  "brics-summit-2026-schedule-full-timings-for-september-12-13-": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "brics|summit",
+  "madras-high-court-allows-real-estate-firm-to-serve-contempt-": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "high court|mp",
     "norm": 50.5
   },
-  "brics-summit-delhi-schools-offices-closed-today-check-what-s": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
+  "india-hosts-brics-what-s-on-the-agenda-": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
     "signature": "brics|summit",
-    "norm": 50.5
+    "norm": 48.7
   },
-  "suv-face-masks-and-55-cctv-trail-odisha-stf-probe-extends-to": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "cctv|mystery",
-    "norm": 49
+  "sensex-rises-650-pts-from-day-s-low-nifty-near-23-450-key-re": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "nifty|sensex",
+    "norm": 48.7
   },
-  "-1km-turns-into-8km-delhi-s-traffic-patience-wears-thin-as-b": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "brics",
+  "urged-brics-nations-to-create-predictable-business-environme": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "brics|jaishankar",
+    "norm": 48.7
+  },
+  "putin-xi-and-a-bigger-brics-india-takes-its-vision-for-the-b": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "brics|summit",
+    "norm": 48.7
+  },
+  "hair-in-ice-cream-expired-stock-multiplexes-in-keralam-s-kol": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "ipl",
+    "norm": 48.2
+  },
+  "this-snake-grows-a-fake-spider-on-its-tail-to-lure-birds": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "malaysian-pm-anwar-ibrahim-to-meet-kanthapuram-on-september-": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "bank-delays-release-of-deceased-wife-s-savings-to-elderly-ma": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "relations-over-rivalry-people-over-politics-india-looks-to-b": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
+  "lotus-in-many-hues-with-a-namaste-at-the-centre-what-india-s": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
     "signature": "brics",
     "norm": 44
   },
-  "assam-cm-sunil-gavaskar-launch-guwahati-international-marath": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "gavaskar",
-    "norm": 42.4
+  "countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "bank-strike-news-today-live-updates-banking-services-hit-acr": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
+  "experts-discuss-technology-s-role-in-improving-diagnosis-and": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "why-caitlin-clark-chose-iowa-over-notre-dame-and-changed-her": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "hc-seeks-delhi-govt-centre-s-stand-on-plea-to-constitute-del": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "55-cctv-cameras-checked-black-suv-key-to-odisha-orangutan-pr": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "cctv",
+    "norm": 40.7
+  },
+  "focus-on-translational-research-vit-pro-vice-chancellor-t-th": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
     "signature": "",
     "norm": 36
   },
-  "kerala-hc-raps-authorities-over-road-safety-failures-reckles": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
+  "bank-strike-hits-branch-operations-in-hyderabad-on-september": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
     "signature": "",
     "norm": 36
   },
-  "kunickaa-sadanand-poonam-dhillon-and-padmini-kolhapure-took-": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
-    "signature": "",
-    "norm": 36
-  },
-  "mini-ac-buses-for-all-namma-metro-stations-in-bengaluru-for-": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
+  "karnataka-upalokayukta-orders-suo-motu-probe-into-poor-quali": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
     "signature": "",
     "norm": 33.9
   },
-  "retired-millitary-officer-detained-in-bolarum-arms-theft-cas": {
-    "firstSeen": "2026-09-11T04:33:07.555Z",
+  "-talaq-e-hassan-valid-form-of-divorce-to-be-registered-under": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "retired-military-jawan-detained-in-bolarum-arms-theft-case": {
+    "firstSeen": "2026-09-11T09:34:27.752Z",
     "signature": "",
     "norm": 33.9
   }
