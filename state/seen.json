@@ -1,171 +1,211 @@
 {
-  "congress-attacks-weak-modi-govt-over-controversial-u-s-adver": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "attack|attack|congress|modi|modi|opposition",
-    "norm": 81.7
+  "focus-on-local-body-elections-madhav-tells-bjp-cadre-in-andh": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "bjp|election|election|ipl|president|row|war",
+    "norm": 83.2
   },
-  "satya-niketan-pg-operator-was-warned-of-a-wall-collapse-hour": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "collapse|collapse|collapse|tragedy|war|warning",
-    "norm": 80
+  "the-weaponisation-of-maritime-chokepoints-is-concerning-says": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|congress|mp|row|war|warning",
+    "norm": 76.9
   },
-  "bjp-nominates-devasish-sharma-for-assam-s-nagaon-lok-sabha-b": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "bjp|congress|election|election|election commission|lok sabha|mp|sharma",
-    "norm": 72
+  "pm-modi-highlights-trade-barriers-and-sea-route-disruptions-": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|iran|modi|modi|president",
+    "norm": 68.6
   },
-  "brics-summit-2026-live-updates-iran-president-pezeshkian-arr": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "brics|iran|minister|modi|modi|president|prime minister|summit",
-    "norm": 70.4
+  "-interests-are-permanent-alliances-are-not-manish-tewari-on-": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "alliance|brics|china|row|war",
+    "norm": 68.6
   },
-  "kpcc-to-seek-reconciliation-in-keralam-mla-ramya-haridas-fra": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "congress|mla|president|row|war",
-    "norm": 67
+  "pm-modi-s-brics-action-plan-10-trade-barriers-100-startups-1": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|modi|modi|star",
+    "norm": 68.3
   },
-  "-we-value-brics-cooperation-support-india-in-hosting-a-succe": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "brics|china|modi|modi|summit",
-    "norm": 64.6
+  "brics-2026-pm-modi-holds-bilateral-meeting-with-iran-s-masou": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|iran|modi|modi|president|summit",
+    "norm": 68
   },
-  "-men-will-go-and-win-medals-delhi-hc-highlights-women-athlet": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "election|election|mp",
-    "norm": 59.7
+  "-40-of-global-gdp-over-25-of-trade-pm-modi-on-economic-stren": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|gdp|modi|modi",
+    "norm": 68
   },
-  "-mirzapur-the-movie-bo-day-8-live-pankaj-tripathi-film-eyes-": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "box office|crore|film|movie|star",
-    "norm": 58.1
+  "a-strong-msg-for-trump-what-pm-modi-putin-amp-pezeshkian-sai": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|modi|modi|mp|trump|trump",
+    "norm": 68
   },
-  "rajasthan-civic-polls-evm-glitches-disrupt-voting-at-some-bo": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "lakh|poll|vote",
+  "street-dog-in-chennai-s-besant-nagar-adopted-habitues-of-the": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "gold|shock|shock",
+    "norm": 64.9
+  },
+  "-all-is-well-in-isro-jitendra-singh-hails-india-s-quantum-le": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "economy|mp|row",
+    "norm": 63.9
+  },
+  "congress-questions-modi-govt-s-silence-over-u-s-homeland-sec": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "congress|modi|modi|opposition",
+    "norm": 63.5
+  },
+  "-secure-sea-lanes-safe-seafarers-pm-modi-talks-navigation-fr": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|modi|modi|president",
+    "norm": 63.5
+  },
+  "modi-putin-agree-to-strengthen-india-russia-partnership-on-e": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|modi|modi|mp|summit",
+    "norm": 62.9
+  },
+  "brics-2026-salman-khurshid-says-summit-must-seek-solutions-t": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|minister|mp|summit|war",
+    "norm": 62.9
+  },
+  "former-army-havaldar-arrested-in-bolarum-arms-theft-case-he-": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "army|fire|fire",
+    "norm": 62.8
+  },
+  "-he-rejected-it-ex-pcb-selector-blames-imran-khan-for-pakist": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "cricket|khan|pakistan",
+    "norm": 62.5
+  },
+  "1980s-ai-photo-trend-5-chatgpt-prompts-to-make-your-wedding-": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "mp|photos|wedding",
     "norm": 57.6
   },
-  "from-keywords-to-digital-trails-how-delhi-police-are-trackin": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "brics|threat",
-    "norm": 55.4
+  "-main-umeed-karta-hun-russian-diplomat-s-message-for-brics-i": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|ipl",
+    "norm": 57.1
   },
-  "bengal-cm-eats-fish-at-kalighat-amid-bageshwar-baba-row-what": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "controversy|row|war",
-    "norm": 54.9
+  "rope-of-pothireddypadu-gate-snaps-efforts-on-to-fix-it-says-": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "lakh|sanction",
+    "norm": 55
   },
-  "abhijit-dipke-meets-manoj-jarange-patil-backs-maratha-quota-": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
+  "brics-2026-india-can-have-it-both-ways-shashi-tharoor-on-str": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|china|congress|minister|mp|policy",
+    "norm": 54.7
+  },
+  "farmers-take-out-protest-in-hassan-opposing-ring-road-projec": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "max-thieriot-turned-90-acre-sonoma-ranch-into-vineyard-farm-": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "actor|riot",
-    "norm": 53.9
+  "fire-erupts-at-vishwa-samudra-bio-energy-plant-in-nellore-di": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "fire|fire",
+    "norm": 54.2
   },
-  "the-saket-problem-egyptian-team-s-brics-stay-complicates-del": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "brics|mp|summit",
-    "norm": 50.9
+  "aadhaar-card-global-push-uidai-working-on-access-for-nris-an": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "fire|fire",
+    "norm": 52.4
   },
-  "madras-high-court-allows-real-estate-firm-to-serve-contempt-": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "high court|mp",
+  "a-p-chief-minister-to-visit-kuppam-on-september-21": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "india-hosts-brics-what-s-on-the-agenda-": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "brics|summit",
+  "-brics-is-not-anti-west-we-need-other-options-shashi-tharoor": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "brics|mp",
     "norm": 48.7
   },
-  "sensex-rises-650-pts-from-day-s-low-nifty-near-23-450-key-re": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "nifty|sensex",
-    "norm": 48.7
+  "more-women-candidates-to-be-in-fray-for-vizianagaram-local-b": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "poll",
+    "norm": 45.9
   },
-  "urged-brics-nations-to-create-predictable-business-environme": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "brics|jaishankar",
-    "norm": 48.7
+  "telangana-assembly-monsoon-session-live-sept-11-it-minister-": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "minister",
+    "norm": 45.9
   },
-  "putin-xi-and-a-bigger-brics-india-takes-its-vision-for-the-b": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "brics|summit",
-    "norm": 48.7
+  "government-land-worth-crores-cleared-of-encroachment-in-ball": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "crore",
+    "norm": 45.9
   },
-  "hair-in-ice-cream-expired-stock-multiplexes-in-keralam-s-kol": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "ipl",
-    "norm": 48.2
+  "gujarat-assembly-passes-rent-bill-2026-caps-security-deposit": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "bill",
+    "norm": 45.9
   },
-  "this-snake-grows-a-fake-spider-on-its-tail-to-lure-birds": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "malaysian-pm-anwar-ibrahim-to-meet-kanthapuram-on-september-": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "bank-delays-release-of-deceased-wife-s-savings-to-elderly-ma": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
+  "gps-collars-revealed-male-lions-follow-hyenas-not-the-other-": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "lotus-in-many-hues-with-a-namaste-at-the-centre-what-india-s": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "brics",
-    "norm": 44
+  "russia-s-rosatom-offers-advanced-reactors-to-support-india-s": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "actor",
+    "norm": 44.3
   },
-  "countries-where-you-can-buy-iphone-18-pro-and-iphone-18-pro-": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
+  "meet-neha-blunt-13-whose-campaign-helped-save-20-million-gal": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
     "signature": "mp",
     "norm": 44
   },
-  "experts-discuss-technology-s-role-in-improving-diagnosis-and": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "mp",
+  "eu-commission-takes-crucial-step-to-finalise-india-eu-free-t": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "deal",
     "norm": 44
   },
-  "why-caitlin-clark-chose-iowa-over-notre-dame-and-changed-her": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "hc-seeks-delhi-govt-centre-s-stand-on-plea-to-constitute-del": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "55-cctv-cameras-checked-black-suv-key-to-odisha-orangutan-pr": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
-    "signature": "cctv",
-    "norm": 40.7
-  },
-  "focus-on-translational-research-vit-pro-vice-chancellor-t-th": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
+  "hassan-murder-two-arrested": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
     "signature": "",
     "norm": 36
   },
-  "bank-strike-hits-branch-operations-in-hyderabad-on-september": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
+  "mysuru-to-host-holy-relics-expo-2026-from-september-12-to-14": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
     "signature": "",
     "norm": 36
   },
-  "karnataka-upalokayukta-orders-suo-motu-probe-into-poor-quali": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
+  "sircilla-weaver-showcases-rich-craftsmanship-blended-with-de": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "-talaq-e-hassan-valid-form-of-divorce-to-be-registered-under": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
+  "telangana-bans-manufacture-sale-of-analogue-paneer-for-one-y": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "retired-military-jawan-detained-in-bolarum-arms-theft-case": {
-    "firstSeen": "2026-09-11T09:34:27.752Z",
+  "mysuru-to-host-first-l-tape-cycling-series-by-tour-de-france": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "",
+    "norm": 36
+  },
+  "five-arrested-for-providing-mobile-phone-to-prajwal-revanna-": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "",
+    "norm": 36
+  },
+  "from-savings-groups-to-solar-entrepreneurs-telangana-s-shg-w": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "",
+    "norm": 36
+  },
+  "konkani-language-activist-and-author-passes-away": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
+    "signature": "",
+    "norm": 36
+  },
+  "delhi-2047-the-big-plan-the-bigger-question": {
+    "firstSeen": "2026-09-11T14:21:34.183Z",
     "signature": "",
     "norm": 33.9
   }
