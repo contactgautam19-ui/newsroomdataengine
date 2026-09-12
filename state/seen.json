@@ -1,82 +1,32 @@
 {
-  "decomposed-body-of-pak-jaish-terrorist-m4-rifle-found-in-j-a": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "mp|pakistan|terror|terror",
-    "norm": 70
+  "mehbooba-mufti-welcomes-brics-condemnation-of-pahalgam-terro": {
+    "firstSeen": "2026-09-12T22:17:45.898Z",
+    "signature": "attack|attack|brics|iran|outrage|terror|terror",
+    "norm": 89.2
   },
-  "will-withdraw-candidate-from-nandigram-if-mamata-decides-to-": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "dead|dead|mamata|poll",
-    "norm": 70
+  "brics-opposes-unilateral-trade-steps-like-eu-carbon-border-t": {
+    "firstSeen": "2026-09-12T22:17:45.898Z",
+    "signature": "border|brics|fuel|mp|protest|protest|tax|war",
+    "norm": 83.9
   },
-  "brics-by-numbers-11-countries-4-continents-nearly-4-billion-": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "bill|billion|brics|economy|gdp|trillion",
-    "norm": 65
+  "sebi-for-changes-to-cas-timing-derivatives-settlement-prices": {
+    "firstSeen": "2026-09-12T22:17:45.898Z",
+    "signature": "modi|modi|price|prices",
+    "norm": 69.6
   },
-  "t-n-chief-minister-vijay-flags-off-silverstone-motor-race-in": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "actor|chief minister|minister|mp",
-    "norm": 58.3
+  "-global-south-must-shape-not-just-follow-rules-pm-modi-at-br": {
+    "firstSeen": "2026-09-12T22:17:45.898Z",
+    "signature": "brics|minister|modi|modi|prime minister|summit",
+    "norm": 63.4
   },
-  "air-india-pilot-found-dead-in-delhi-hotel-police-rule-out-fo": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "dead|dead",
-    "norm": 57.6
+  "congress-claims-nsui-s-victory-in-garhwal-university-student": {
+    "firstSeen": "2026-09-12T22:17:45.898Z",
+    "signature": "bjp|congress|election|election|poll",
+    "norm": 62.9
   },
-  "male-tiger-explorer-attacks-two-buffaloes-in-kakinada-distri": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "attack|attack",
-    "norm": 57.6
-  },
-  "gcc-to-take-up-infra-maintenance-works-across-three-regions": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "lakh|mp",
-    "norm": 55
-  },
-  "complainant-in-ed-case-has-relations-with-congress-but-is-a-": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "bjp|congress|minister|mp|vote",
-    "norm": 54.4
-  },
-  "-optics-of-xi-visiting-india-very-important-ex-envoy-on-bric": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "brics|china|mp",
+  "brics-summit-success-gives-bjp-a-boost-in-domestic-politics": {
+    "firstSeen": "2026-09-12T22:17:45.898Z",
+    "signature": "bjp|brics|summit",
     "norm": 50.9
-  },
-  "-savukku-shankar-presents-falsehoods-as-facts-for-financial-": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "high court|mp",
-    "norm": 48.7
-  },
-  "-won-t-field-candidate-trinamool-rebels-nandigram-offer-to-m": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "mamata|poll",
-    "norm": 48.7
-  },
-  "hr-ce-minister-inspects-northeast-monsoon-preparedness-in-ti": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "sia-searches-poonch-udhampur-in-j-amp-k-radicalisation-probe": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "backing-ideas-before-they-become-enterprises": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "",
-    "norm": 36
-  },
-  "climate-change-has-become-an-economic-risk-kspcb-chairman": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "",
-    "norm": 36
-  },
-  "deer-fled-human-voices-64-of-the-time-then-learned-to-ignore": {
-    "firstSeen": "2026-09-12T19:17:56.290Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
