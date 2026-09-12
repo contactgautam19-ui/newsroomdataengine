@@ -1,136 +1,81 @@
 {
-  "brics-2026-us-has-caused-this-resistance-steve-hanke-on-bric": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "brics|iran|mp|row|war",
-    "norm": 76.5
+  "decomposed-body-of-pak-jaish-terrorist-m4-rifle-found-in-j-a": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
+    "signature": "mp|pakistan|terror|terror",
+    "norm": 70
   },
-  "harish-rawat-says-he-would-like-to-step-down-from-congress-p": {
-    "firstSeen": "2026-09-12T14:02:58.720Z",
-    "signature": "congress|election|election|election commission|exam|khan|recruitment",
-    "norm": 76.1
+  "will-withdraw-candidate-from-nandigram-if-mamata-decides-to-": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
+    "signature": "dead|dead|mamata|poll",
+    "norm": 70
   },
-  "modi-xi-bilateral-india-china-seek-trade-supply-chain-cooper": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "border|brics|china|minister|modi|modi|president|prime minister|summit",
-    "norm": 63.9
+  "brics-by-numbers-11-countries-4-continents-nearly-4-billion-": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
+    "signature": "bill|billion|brics|economy|gdp|trillion",
+    "norm": 65
   },
-  "brics-summit-2026-updates-india-china-stress-need-for-peace-": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "border|brics|china|minister|modi|modi|prime minister|summit",
-    "norm": 63.8
+  "t-n-chief-minister-vijay-flags-off-silverstone-motor-race-in": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
+    "signature": "actor|chief minister|minister|mp",
+    "norm": 58.3
   },
-  "eight-killed-in-russian-strikes-on-ukraine-putin-warns-europ": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "killed|killed|war",
-    "norm": 62.9
+  "air-india-pilot-found-dead-in-delhi-hotel-police-rule-out-fo": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
+    "signature": "dead|dead",
+    "norm": 57.6
   },
-  "modi-greets-brics-leaders-against-backdrop-of-tamil-nadu-s-r": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "brics|modi|modi|mp",
-    "norm": 61.8
+  "male-tiger-explorer-attacks-two-buffaloes-in-kakinada-distri": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
+    "signature": "attack|attack",
+    "norm": 57.6
   },
-  "malaysian-prime-minister-s-visit-stringent-traffic-restricti": {
-    "firstSeen": "2026-09-12T14:02:58.720Z",
-    "signature": "minister|prime minister|war",
-    "norm": 61.4
+  "gcc-to-take-up-infra-maintenance-works-across-three-regions": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
+    "signature": "lakh|mp",
+    "norm": 55
   },
-  "how-india-pulled-off-brics-consensus-on-delhi-declaration-am": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "brics|diplomacy|ipl",
-    "norm": 59.7
+  "complainant-in-ed-case-has-relations-with-congress-but-is-a-": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
+    "signature": "bjp|congress|minister|mp|vote",
+    "norm": 54.4
   },
-  "indian-origin-man-sentenced-to-5-years-in-us-for-running-27m": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "fraud|tax",
-    "norm": 57.1
-  },
-  "surprise-inspection-by-forest-minister-exposes-irregularitie": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "minister|poll|surprise",
-    "norm": 54.7
-  },
-  "iconic-moments-landmark-talks-amp-a-breakthrough-pact-key-po": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "brics|mp|summit",
+  "-optics-of-xi-visiting-india-very-important-ex-envoy-on-bric": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
+    "signature": "brics|china|mp",
     "norm": 50.9
   },
-  "brics-declaration-china-russia-back-india-brazil-s-aspiratio": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "brics|china",
-    "norm": 50.5
+  "-savukku-shankar-presents-falsehoods-as-facts-for-financial-": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
+    "signature": "high court|mp",
+    "norm": 48.7
   },
-  "slum-settlement-in-south-delhi-veiled-for-brics-summit": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "brics|summit",
-    "norm": 50.5
-  },
-  "mawthoh-joins-bjp-eight-udp-mlas-may-follow-in-meghalaya": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "bjp|mla",
-    "norm": 50.5
-  },
-  "russians-cast-votes-for-duma-polls-in-keralam-capital": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "poll|vote",
-    "norm": 50.5
-  },
-  "a-taste-of-odisha-at-brics-summit-koraput-coffee-given-to-gl": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "brics|summit",
-    "norm": 50.5
-  },
-  "murali-wants-esma-invoked-to-stop-ambulance-workers-strike": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "minister|mp",
-    "norm": 50.5
-  },
-  "-we-will-not-field-a-candidate-mamata-banerjee-gets-nandigra": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
+  "-won-t-field-candidate-trinamool-rebels-nandigram-offer-to-m": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
     "signature": "mamata|poll",
     "norm": 48.7
   },
-  "10-overseas-fugitives-brought-back-in-7-months-21-more-cases": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
+  "hr-ce-minister-inspects-northeast-monsoon-preparedness-in-ti": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
     "signature": "minister",
     "norm": 45.9
   },
-  "brics-agrees-to-establish-agrin-continue-work-on-grain-tradi": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "brics",
-    "norm": 45.9
-  },
-  "government-employee-dies-in-hit-and-run-on-nh-44": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "health-officials-sound-caution-as-soaring-temperature-trigge": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
+  "sia-searches-poonch-udhampur-in-j-amp-k-radicalisation-probe": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
     "signature": "mp",
     "norm": 44
   },
-  "over-250-video-clips-including-porn-found-on-mobile-and-pend": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "video",
-    "norm": 42.7
-  },
-  "kochi-airport-launches-robot-for-enhanced-passenger-assistan": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
+  "backing-ideas-before-they-become-enterprises": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
     "signature": "",
     "norm": 36
   },
-  "meet-zayd-badar-13-who-washed-60-cars-and-raised-2-100-for-l": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
+  "climate-change-has-become-an-economic-risk-kspcb-chairman": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
     "signature": "",
     "norm": 36
   },
-  "man-in-custody-allegedly-assaults-cops-in-kochi": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "measures-to-revise-school-timings-in-bengaluru-city-madhu-ba": {
-    "firstSeen": "2026-09-12T17:04:41.485Z",
+  "deer-fled-human-voices-64-of-the-time-then-learned-to-ignore": {
+    "firstSeen": "2026-09-12T19:17:56.290Z",
     "signature": "",
     "norm": 33.9
   }
