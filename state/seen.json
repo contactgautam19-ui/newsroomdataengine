@@ -1,37 +1,27 @@
 {
-  "north-korea-fires-unidentified-projectile-toward-sea-of-japa": {
-    "firstSeen": "2026-09-11T21:41:01.354Z",
-    "signature": "fire|fire|mp|president|trump|trump|war",
-    "norm": 88.1
+  "-haiwaan-opens-at-rs-3-crore-amid-hanuman-ansh-and-mirzapur-": {
+    "firstSeen": "2026-09-12T00:12:04.086Z",
+    "signature": "actor|box office|crore|film|khan|movie|mp|star",
+    "norm": 68.7
   },
-  "with-eye-on-poll-bjp-to-begin-drug-free-punjab-drive-amid-ro": {
-    "firstSeen": "2026-09-11T21:41:01.354Z",
-    "signature": "bjp|death|minister|mp|poll|row",
-    "norm": 69.6
+  "from-weak-link-to-growth-engine-how-india-s-brics-story-chan": {
+    "firstSeen": "2026-09-12T00:12:04.086Z",
+    "signature": "brics|mp|row",
+    "norm": 61.4
   },
-  "us-to-vote-on-russia-sanctions-bill-next-week-giving-trump-m": {
-    "firstSeen": "2026-09-11T21:41:01.354Z",
-    "signature": "bill|iran|mp|president|sanction|trump|trump|vote",
-    "norm": 68.8
+  "no-tunnel-through-bengaluru-s-lalbagh-govt-explores-alternat": {
+    "firstSeen": "2026-09-12T00:12:04.086Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "vice-principal-of-kolkata-college-forced-to-resign-abvp-puri": {
-    "firstSeen": "2026-09-11T21:41:01.354Z",
-    "signature": "protest|protest|rescue|rescue",
-    "norm": 66
+  "-allow-easy-movement-to-professionals-piyush-goyal-urges-bri": {
+    "firstSeen": "2026-09-12T00:12:04.086Z",
+    "signature": "brics|jaishankar|minister|mp",
+    "norm": 52.1
   },
-  "european-troop-deployment-in-ukraine-would-be-war-against-ru": {
-    "firstSeen": "2026-09-11T21:41:01.354Z",
-    "signature": "president|threat|war",
-    "norm": 60.8
-  },
-  "allahabad-hc-seeks-uttar-pradesh-government-s-reply-over-sah": {
-    "firstSeen": "2026-09-11T21:41:01.354Z",
-    "signature": "crore",
+  "brics-2026-officials-claim-50-outcomes-but-no-clarity-on-uni": {
+    "firstSeen": "2026-09-12T00:12:04.086Z",
+    "signature": "brics",
     "norm": 45.9
-  },
-  "80-lakh-hpv-vaccine-doses-given-since-february-launch": {
-    "firstSeen": "2026-09-11T21:41:01.354Z",
-    "signature": "lakh",
-    "norm": 44
   }
 }
