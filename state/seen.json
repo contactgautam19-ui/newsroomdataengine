@@ -1,147 +1,222 @@
 {
-  "building-7-collapse-fact-checked-viral-9-11-theories-about-b": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "collapse|collapse|collapse|viral|viral|viral",
-    "norm": 82.5
+  "1-killed-3-injured-after-merchant-ship-struck-in-hormuz-iran": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "attack|attack|clash|clash|injured|iran|killed|killed",
+    "norm": 89
   },
-  "west-bengal-professors-oppose-govt-s-inter-university-transf": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "attack|attack|bill|governor|rbi",
+  "brics-declaration-modi-backs-multilateralism-tackles-terrori": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|minister|modi|modi|mp|prime minister|summit|terror|terror",
+    "norm": 83.3
+  },
+  "1-dead-102-rescued-from-indonesian-ship-that-lost-contact-du": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "dead|dead|died|rescue|rescue|weather",
+    "norm": 82.9
+  },
+  "-diplomatic-coup-india-china-thaw-how-global-media-saw-pm-mo": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|china|derail|ipl|modi|modi|summit",
     "norm": 79.4
   },
-  "explosions-heard-off-the-coast-of-iran-qeshm-island-1650-am-": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "bollywood|bollywood|explosion|explosion|iran",
-    "norm": 79.1
+  "india-china-agree-to-settle-boundary-row-amid-broader-ties-p": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "border|china|minister|modi|modi|president|prime minister|row|war",
+    "norm": 78.6
   },
-  "bumrah-sooryavanshi-on-afghanistan-s-radar-ibrahim-zadran-re": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "bumrah|cricket|match|mp|sooryavanshi|star",
-    "norm": 74.2
+  "-critical-minerals-must-not-be-weaponised-pm-modi-s-message-": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|fund|modi|modi|star|summit",
+    "norm": 78.1
   },
-  "why-did-the-trump-administration-block-25-million-in-nationa": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "fund|mp|trump|trump",
-    "norm": 69.6
+  "brics-issues-new-delhi-declaration-as-uae-and-iran-back-down": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|iran|israel|president|summit|war",
+    "norm": 76.9
   },
-  "brics-2026-global-south-must-now-shape-not-merely-follow-rul": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "brics|modi|modi",
-    "norm": 64.2
+  "25-years-after-9-11-ten-house-has-just-one-active-member-lef": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "attack|attack|fire|fire|mp",
+    "norm": 76.3
   },
-  "-canadian-renaissance-stars-share-their-love-for-homegrown-f": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "film|row|star",
-    "norm": 62.1
+  "suvendu-eats-fish-offering-at-kalighat-temple-amidst-bageshw": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "bjp|chief minister|minister|mp|row|video|war",
+    "norm": 74.9
   },
-  "-ordeal-of-trial-will-be-futile-madras-hc-quashes-case-again": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "deal|mp",
+  "brics-summit-2026-live-updates-global-leaders-express-concer": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "anger|brics|fpi|row|summit",
+    "norm": 74.6
+  },
+  "brics-day-2-what-s-on-the-agenda-pm-modi-s-key-meetings-majo": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|minister|modi|modi|mp|prime minister|summit|watch",
+    "norm": 70.7
+  },
+  "-still-selecting-kohli-amp-rohit-ex-cricketer-makes-big-stat": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "cricket|cricketer|kohli|mp|rohit",
+    "norm": 67.7
+  },
+  "mumbai-s-serial-cat-killer-arrested-confesses-to-killing-ove": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "cctv|footage|killed|killed",
+    "norm": 66
+  },
+  "iran-president-meets-abu-dhabi-crown-prince-amid-west-asia-h": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "iran|president|row",
+    "norm": 66
+  },
+  "street-dog-in-chennai-s-besant-nagar-adopted-habitues-of-the": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "gold|shock|shock",
+    "norm": 64.9
+  },
+  "-china-needs-stability-with-india-ex-government-adviser-to-n": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "border|china|modi|modi|president",
+    "norm": 64.6
+  },
+  "brics-summit-2026-live-updates-at-brics-pm-modi-calls-for-re": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|modi|modi|mp|summit",
+    "norm": 64.6
+  },
+  "brics-summit-2026-live-updates-india-focused-on-four-pillars": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|modi|modi|summit",
+    "norm": 63.5
+  },
+  "with-xi-putin-on-his-sides-pm-modi-addresses-day-2-of-brics-": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|modi|modi|summit",
+    "norm": 63.5
+  },
+  "pm-modi-putin-xi-join-world-leaders-at-bharat-mandapam-for-f": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "modi|modi|video",
+    "norm": 62.8
+  },
+  "global-one-horned-rhino-population-hits-record-4-075-assam-h": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "iran|minister|record",
+    "norm": 62.8
+  },
+  "brics-summit-2026-delhi-breakfast-becomes-a-taste-of-india-s": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|hospital|mp|summit",
+    "norm": 61.8
+  },
+  "why-xi-jinping-skipped-dinner-hosted-by-pm-modi-on-brics-day": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|modi|modi|summit",
+    "norm": 61.8
+  },
+  "kishore-kumar-at-brics-summit-2026-and-the-world-leaders-dip": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|ipl|president|summit",
+    "norm": 61.8
+  },
+  "bengal-congress-lodges-police-complaint-against-bageshwar-ba": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "congress|mp|war",
+    "norm": 61.4
+  },
+  "ganesh-idol-topples-amid-rain-in-maharashtra-several-trapped": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "maharashtra|video|vote",
+    "norm": 61.1
+  },
+  "rahul-gandhi-priyanka-meet-malaysian-pm-over-breakfast-amid-": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "brics|congress|pictures|rahul gandhi|summit",
+    "norm": 59.7
+  },
+  "t-n-chief-minister-vijay-flags-off-silverstone-motor-race-in": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "actor|chief minister|minister|mp",
+    "norm": 58.3
+  },
+  "ganeshotsav-rush-triggers-3-km-traffic-jam-on-mumbai-pune-ex": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "maharashtra|toll",
+    "norm": 57.6
+  },
+  "nagpur-man-kills-daughter-in-law-with-axe-over-black-magic-s": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "hospital|mp",
+    "norm": 55.4
+  },
+  "tata-sons-to-go-for-public-listing-after-rbi-rejects-applica": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "mp|rbi",
     "norm": 55
   },
-  "opinion-opinion-building-brics-in-new-delhi": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "brics",
-    "norm": 49
+  "-i-resign-as-cm-cjp-s-abhijeet-dipke-takes-dig-at-mp-govt-da": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "chief minister|minister|mp",
+    "norm": 50.9
   },
-  "move-to-fill-4-724-vacant-posts-of-staff-nurses-on-temporary": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
+  "mamata-banerjee-vs-ritabrata-faction-before-eci-over-tmc-nam": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "mamata|poll",
+    "norm": 50.5
+  },
+  "vijay-and-ajith-kumar-reunite-at-silverstone-fans-call-it-bi": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "fan|star|superstar",
+    "norm": 48.3
+  },
+  "assam-cm-highlights-big-comeback-of-small-hog-": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "anger",
+    "norm": 46.3
+  },
+  "can-ai-kill-humans-what-anthropic-ceo-dario-amodei-said": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
     "signature": "mp",
-    "norm": 49
+    "norm": 45.9
   },
-  "brics-targets-self-reliance-through-energy-food-rare-earths": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
+  "alaska-crew-restores-former-fuel-site-with-new-trails-and-na": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "fuel",
+    "norm": 45.9
+  },
+  "brics-embraces-ai-but-leaves-job-displacement-largely-unaddr": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
     "signature": "brics",
-    "norm": 49
+    "norm": 45.9
   },
-  "why-is-ncpcr-investigating-meta-instagram-": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "instagram",
-    "norm": 47.4
-  },
-  "pio-missing-in-nepal-help-denied-as-he-holds-indian-passport": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
+  "12th-century-telangana-temple-lying-in-a-state-of-neglect-ge": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
     "signature": "mp",
     "norm": 44
   },
-  "a-roof-overhead-and-then-some": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 39.4
+  "-ai-could-kill-all-humans-then-why-race-to-build-it-is-still": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "tata-sons-nrc-may-ask-chairman-chandrasekaran-to-reconsider-": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "youth-led-study-calls-for-localised-heat-action-plans-in-che": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "west-benagal-govt-to-revive-chandannagar-s-french-legacy": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
+  "news-in-frames-a-village-with-no-people": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
     "signature": "",
     "norm": 36
   },
-  "charleston-white-arrested-why-was-comedian-booked-in-florida": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
+  "cop-stabbed-robbed-of-mobile-and-wallet-by-4-masked-men-in-a": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
     "signature": "",
     "norm": 36
   },
-  "panchang-today-september-13-2026-shukla-dwitiya-under-hasta-": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
+  "new-york-turned-250-christmas-trees-into-breakwaters-to-rest": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
     "signature": "",
     "norm": 36
   },
-  "why-did-alan-ritchson-and-his-wife-catherine-separate-inside": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
+  "suvendu-adhikari-backs-freedom-of-food-choice-religious-prac": {
+    "firstSeen": "2026-09-13T06:01:44.473Z",
     "signature": "",
-    "norm": 36
-  },
-  "weekly-horoscope-prediction-september-13-to-september-19-202": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 36
-  },
-  "sagittarius-horoscope-today-september-13-2026-your-social-en": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 36
-  },
-  "shivsankar-pal-shiv-shankar-prasad-vs-the-state-of-bihar-on-": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 36
-  },
-  "pisces-horoscope-today-september-13-2026-a-deeper-conversati": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 36
-  },
-  "capricorn-horoscope-today-september-13-2026-a-helpful-turn-m": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 36
-  },
-  "the-old-farmer-almanac-calls-september-full-moon-a-harvest-m": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 36
-  },
-  "lindsay-clancy-trial-update-juror-breaks-silence-on-altruist": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 36
-  },
-  "houthis-say-hit-saudi-base-after-renewed-fighting-with-yemen": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 36
-  },
-  "aquarius-horoscope-today-september-13-2026-patience-may-help": {
-    "firstSeen": "2026-09-13T00:54:35.089Z",
-    "signature": "",
-    "norm": 36
+    "norm": 33.9
   }
 }
