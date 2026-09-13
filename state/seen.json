@@ -1,221 +1,246 @@
 {
-  "1-killed-3-injured-after-merchant-ship-struck-in-hormuz-iran": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "attack|attack|clash|clash|injured|iran|killed|killed",
-    "norm": 89
+  "salman-khurshid-breaks-congress-party-line-to-praise-modi-go": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "attack|attack|brics|congress|diplomacy|ipl|modi|modi|terror|terror",
+    "norm": 97.7
   },
-  "brics-declaration-modi-backs-multilateralism-tackles-terrori": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|minister|modi|modi|mp|prime minister|summit|terror|terror",
-    "norm": 83.3
+  "delhi-police-with-brics-id-card-flaunts-gun-in-viral-haryanv": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "brics|fire|fire|summit|video|viral|viral|viral",
+    "norm": 88.5
   },
-  "1-dead-102-rescued-from-indonesian-ship-that-lost-contact-du": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "dead|dead|died|rescue|rescue|weather",
-    "norm": 82.9
-  },
-  "-diplomatic-coup-india-china-thaw-how-global-media-saw-pm-mo": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|china|derail|ipl|modi|modi|summit",
-    "norm": 79.4
-  },
-  "india-china-agree-to-settle-boundary-row-amid-broader-ties-p": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "border|china|minister|modi|modi|president|prime minister|row|war",
-    "norm": 78.6
-  },
-  "-critical-minerals-must-not-be-weaponised-pm-modi-s-message-": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|fund|modi|modi|star|summit",
-    "norm": 78.1
-  },
-  "brics-issues-new-delhi-declaration-as-uae-and-iran-back-down": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|iran|israel|president|summit|war",
-    "norm": 76.9
-  },
-  "25-years-after-9-11-ten-house-has-just-one-active-member-lef": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "attack|attack|fire|fire|mp",
-    "norm": 76.3
-  },
-  "suvendu-eats-fish-offering-at-kalighat-temple-amidst-bageshw": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "bjp|chief minister|minister|mp|row|video|war",
-    "norm": 74.9
-  },
-  "brics-summit-2026-live-updates-global-leaders-express-concer": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "anger|brics|fpi|row|summit",
-    "norm": 74.6
-  },
-  "brics-day-2-what-s-on-the-agenda-pm-modi-s-key-meetings-majo": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|minister|modi|modi|mp|prime minister|summit|watch",
-    "norm": 70.7
-  },
-  "-still-selecting-kohli-amp-rohit-ex-cricketer-makes-big-stat": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "cricket|cricketer|kohli|mp|rohit",
-    "norm": 67.7
-  },
-  "mumbai-s-serial-cat-killer-arrested-confesses-to-killing-ove": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "cctv|footage|killed|killed",
-    "norm": 66
-  },
-  "iran-president-meets-abu-dhabi-crown-prince-amid-west-asia-h": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "iran|president|row",
-    "norm": 66
-  },
-  "street-dog-in-chennai-s-besant-nagar-adopted-habitues-of-the": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "gold|shock|shock",
-    "norm": 64.9
-  },
-  "-china-needs-stability-with-india-ex-government-adviser-to-n": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "border|china|modi|modi|president",
-    "norm": 64.6
-  },
-  "brics-summit-2026-live-updates-at-brics-pm-modi-calls-for-re": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|modi|modi|mp|summit",
-    "norm": 64.6
+  "-china-backed-pakistan-congress-questions-why-brics-declarat": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "attack|attack|brics|china|congress|injured|killed|killed|pakistan|terror|terror",
+    "norm": 88.4
   },
   "brics-summit-2026-live-updates-india-focused-on-four-pillars": {
     "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|modi|modi|summit",
+    "signature": "brics|minister|modi|modi|prime minister|summit|war",
+    "norm": 75.1
+  },
+  "-goa-first-aap-gfp-announce-alliance-for-2027-assembly-polls": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "aap|alliance|bjp|congress|election|election|kejriwal|poll|vote|war",
+    "norm": 73.9
+  },
+  "goa-2027-aap-goa-forward-party-form-goa-first-alliance-kejri": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "aap|alliance|election|election|kejriwal|war",
+    "norm": 73
+  },
+  "-war-only-multiplies-suffering-kashmir-leaders-peace-call-in": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "ipl|iran|minister|war",
+    "norm": 71
+  },
+  "130-missing-after-indonesian-ferry-sinks-in-java-sea-107-res": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "dead|dead|rescue|rescue|video",
+    "norm": 71
+  },
+  "72-hours-11-key-meetings-how-pm-modi-made-the-most-of-brics-": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "brics|iran|modi|modi|president|summit",
+    "norm": 69.6
+  },
+  "brics-gala-dinner-row-rahul-gandhi-targets-veg-menu-bjp-hits": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "bjp|brics|congress|controversy|mp|rahul gandhi|row",
+    "norm": 68.5
+  },
+  "-our-guests-relished-indian-veg-cuisine-bjp-hits-back-at-con": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "bjp|brics|clash|clash|congress",
+    "norm": 67.3
+  },
+  "row-erupts-over-ganesh-chaturthi-procession-in-karnataka-aft": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "bjp|congress|row|threat",
+    "norm": 66.6
+  },
+  "66-million-year-old-feather-found-in-dinosaur-poop-may-expla": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "killed|killed|mp",
+    "norm": 66
+  },
+  "aap-goa-forward-party-announce-alliance-for-2027-polls-name-": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "aap|alliance|bjp|congress|kejriwal|poll|war",
+    "norm": 63.7
+  },
+  "tamil-nadu-bypolls-tvk-fields-former-aiadmk-mlas-in-madurant": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "election|election|mla|poll",
     "norm": 63.5
   },
-  "with-xi-putin-on-his-sides-pm-modi-addresses-day-2-of-brics-": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|modi|modi|summit",
+  "left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-c": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "election|election|mp|poll",
     "norm": 63.5
   },
-  "pm-modi-putin-xi-join-world-leaders-at-bharat-mandapam-for-f": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "modi|modi|video",
-    "norm": 62.8
+  "fire-breaks-out-at-warehouse-in-delhi-s-new-ashok-nagar-11-f": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "fire|fire|war",
+    "norm": 63.2
   },
-  "global-one-horned-rhino-population-hits-record-4-075-assam-h": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "iran|minister|record",
-    "norm": 62.8
+  "brics-summit-2026-live-pm-modi-holds-bilateral-meeting-with-": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "brics|modi|modi|president|summit",
+    "norm": 62.9
   },
-  "brics-summit-2026-delhi-breakfast-becomes-a-taste-of-india-s": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|hospital|mp|summit",
+  "justice-v-kameswar-rao-takes-oath-as-chief-justice-of-patna-": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "chief minister|high court|minister|war",
     "norm": 61.8
   },
-  "why-xi-jinping-skipped-dinner-hosted-by-pm-modi-on-brics-day": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|modi|modi|summit",
+  "pm-modi-extends-best-wishes-to-xi-as-brics-chairship-passes-": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "brics|china|modi|modi",
     "norm": 61.8
   },
-  "kishore-kumar-at-brics-summit-2026-and-the-world-leaders-dip": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|ipl|president|summit",
-    "norm": 61.8
-  },
-  "bengal-congress-lodges-police-complaint-against-bageshwar-ba": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "congress|mp|war",
+  "greater-noida-dm-moves-sc-against-hc-order-on-student-s-nsa-": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "exam|high court|mp",
     "norm": 61.4
   },
-  "ganesh-idol-topples-amid-rain-in-maharashtra-several-trapped": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "maharashtra|video|vote",
-    "norm": 61.1
+  "maratha-reservation-protest-conspiracy-to-kill-me-during-mum": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "death|protest|protest",
+    "norm": 59.6
   },
-  "rahul-gandhi-priyanka-meet-malaysian-pm-over-breakfast-amid-": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|congress|pictures|rahul gandhi|summit",
-    "norm": 59.7
+  "suffocated-injuries-to-private-parts-bengaluru-woman-kills-b": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "killed|killed",
+    "norm": 59.3
   },
-  "t-n-chief-minister-vijay-flags-off-silverstone-motor-race-in": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "actor|chief minister|minister|mp",
-    "norm": 58.3
-  },
-  "ganeshotsav-rush-triggers-3-km-traffic-jam-on-mumbai-pune-ex": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "maharashtra|toll",
+  "assam-man-22-who-tried-to-kill-himself-after-murdering-his-g": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "dead|dead",
     "norm": 57.6
   },
-  "nagpur-man-kills-daughter-in-law-with-axe-over-black-magic-s": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "hospital|mp",
+  "brics-leaders-call-for-stronger-international-cooperation-wi": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "brics|row",
+    "norm": 57.1
+  },
+  "young-elephant-durga-from-assam-to-reach-madurai-meenakshi-t": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "mp|war",
     "norm": 55.4
   },
-  "tata-sons-to-go-for-public-listing-after-rbi-rejects-applica": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "mp|rbi",
-    "norm": 55
+  "officer-stresses-need-to-raise-awareness-about-social-dimens": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "mp|war",
+    "norm": 55.4
   },
-  "-i-resign-as-cm-cjp-s-abhijeet-dipke-takes-dig-at-mp-govt-da": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "chief minister|minister|mp",
+  "who-was-gulzar-singh-why-his-suicide-triggered-a-fresh-polit": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "minister|storm",
+    "norm": 55.4
+  },
+  "who-is-vijai-sardesai-goa-heavyweight-joins-hands-with-arvin": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "aap|bjp|kejriwal|poll|vote",
+    "norm": 54.4
+  },
+  "aap-gfp-alliance-can-kejriwal-turn-a-two-seat-goa-base-into-": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "aap|alliance|bjp|kejriwal",
+    "norm": 53.9
+  },
+  "after-a-prolonged-lull-vemireddys-hit-back-at-ysrcp-for-wild": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "mla|mp|opposition",
+    "norm": 52.7
+  },
+  "former-bjp-mla-joins-congress-in-karnataka-dk-shivakumar-say": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "bjp|congress|mla",
+    "norm": 52.7
+  },
+  "decolonisation-means-presenting-full-authentic-history-with-": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "amit shah|minister|mp",
     "norm": 50.9
   },
-  "mamata-banerjee-vs-ritabrata-faction-before-eci-over-tmc-nam": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "mamata|poll",
+  "82-year-old-sinatra-fan-travels-10-000-miles-to-keep-promise": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "fan|record",
     "norm": 50.5
   },
-  "vijay-and-ajith-kumar-reunite-at-silverstone-fans-call-it-bi": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "fan|star|superstar",
-    "norm": 48.3
+  "-aap-will-be-extra-cautious-kejriwal-on-rs-picks-after-ragha": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "aap|kejriwal",
+    "norm": 48.7
   },
-  "assam-cm-highlights-big-comeback-of-small-hog-": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "anger",
+  "brics-backs-india-for-bigger-un-role-new-delhi-declaration-c": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "brics|mp",
+    "norm": 48.7
+  },
+  "40-year-old-chicken-shop-owner-murdered-over-domestic-row": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "can-ai-kill-humans-what-anthropic-ceo-dario-amodei-said": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "mp",
+  "third-extension-of-former-assam-pccf-challenged-gauhati-high": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "high court",
     "norm": 45.9
   },
-  "alaska-crew-restores-former-fuel-site-with-new-trails-and-na": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "fuel",
+  "why-bengal-govt-is-shutting-down-252-madrassas": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "brics-embraces-ai-but-leaves-job-displacement-largely-unaddr": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics",
+  "kerala-high-court-prescribes-timelines-for-speedy-disposal-o": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "high court",
     "norm": 45.9
   },
-  "12th-century-telangana-temple-lying-in-a-state-of-neglect-ge": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "-ai-could-kill-all-humans-then-why-race-to-build-it-is-still": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
+  "abvp-seeks-cancellation-of-umar-khalid-documentary-screening": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
     "signature": "mp",
     "norm": 44
   },
-  "news-in-frames-a-village-with-no-people": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
+  "house-break-in-attempt-assam-native-held-in-keralam-s-thriss": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "pralhad-joshi-seeks-suspension-of-mysuru-inspector-over-gane": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
     "signature": "",
     "norm": 36
   },
-  "cop-stabbed-robbed-of-mobile-and-wallet-by-4-masked-men-in-a": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
+  "flying-to-uae-several-flights-from-india-delayed-up-to-14-ho": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
     "signature": "",
     "norm": 36
   },
-  "new-york-turned-250-christmas-trees-into-breakwaters-to-rest": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
+  "t-rex-footprints-reveal-the-giant-dinosaur-walked-not-ran": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
     "signature": "",
     "norm": 36
   },
-  "suvendu-adhikari-backs-freedom-of-food-choice-religious-prac": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
+  "scientists-activists-urge-govt-to-halt-e20-rollout-enact-ant": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "revanth-reddy-calls-on-vaishya-community-to-secure-political": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "over-1-300-candidates-get-appointment-letters-at-cuddalore-j": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "kapil-sibal-calls-for-10-year-ban-on-politicians-switching-p": {
+    "firstSeen": "2026-09-13T11:43:41.520Z",
     "signature": "",
     "norm": 33.9
   }
