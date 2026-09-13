@@ -1,246 +1,141 @@
 {
-  "salman-khurshid-breaks-congress-party-line-to-praise-modi-go": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "attack|attack|brics|congress|diplomacy|ipl|modi|modi|terror|terror",
-    "norm": 97.7
+  "mecca-pact-but-no-troops-yet-pak-expresses-solidarity-with-s": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "attack|attack|minister|pakistan|prime minister|row|threat",
+    "norm": 80.8
   },
-  "delhi-police-with-brics-id-card-flaunts-gun-in-viral-haryanv": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "brics|fire|fire|summit|video|viral|viral|viral",
-    "norm": 88.5
-  },
-  "-china-backed-pakistan-congress-questions-why-brics-declarat": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "attack|attack|brics|china|congress|injured|killed|killed|pakistan|terror|terror",
-    "norm": 88.4
-  },
-  "brics-summit-2026-live-updates-india-focused-on-four-pillars": {
-    "firstSeen": "2026-09-13T06:01:44.473Z",
-    "signature": "brics|minister|modi|modi|prime minister|summit|war",
-    "norm": 75.1
-  },
-  "-goa-first-aap-gfp-announce-alliance-for-2027-assembly-polls": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "aap|alliance|bjp|congress|election|election|kejriwal|poll|vote|war",
-    "norm": 73.9
-  },
-  "goa-2027-aap-goa-forward-party-form-goa-first-alliance-kejri": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "aap|alliance|election|election|kejriwal|war",
-    "norm": 73
-  },
-  "-war-only-multiplies-suffering-kashmir-leaders-peace-call-in": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "ipl|iran|minister|war",
-    "norm": 71
-  },
-  "130-missing-after-indonesian-ferry-sinks-in-java-sea-107-res": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "dead|dead|rescue|rescue|video",
-    "norm": 71
-  },
-  "72-hours-11-key-meetings-how-pm-modi-made-the-most-of-brics-": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "brics|iran|modi|modi|president|summit",
-    "norm": 69.6
-  },
-  "brics-gala-dinner-row-rahul-gandhi-targets-veg-menu-bjp-hits": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "bjp|brics|congress|controversy|mp|rahul gandhi|row",
-    "norm": 68.5
-  },
-  "-our-guests-relished-indian-veg-cuisine-bjp-hits-back-at-con": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "bjp|brics|clash|clash|congress",
-    "norm": 67.3
-  },
-  "row-erupts-over-ganesh-chaturthi-procession-in-karnataka-aft": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "bjp|congress|row|threat",
-    "norm": 66.6
-  },
-  "66-million-year-old-feather-found-in-dinosaur-poop-may-expla": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "killed|killed|mp",
-    "norm": 66
-  },
-  "aap-goa-forward-party-announce-alliance-for-2027-polls-name-": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "aap|alliance|bjp|congress|kejriwal|poll|war",
-    "norm": 63.7
-  },
-  "tamil-nadu-bypolls-tvk-fields-former-aiadmk-mlas-in-madurant": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "election|election|mla|poll",
+  "modi-s-bilateral-meetings-on-brics-sidelines-put-defence-sec": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "brics|defence|modi|modi",
     "norm": 63.5
   },
-  "left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-c": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "election|election|mp|poll",
-    "norm": 63.5
-  },
-  "fire-breaks-out-at-warehouse-in-delhi-s-new-ashok-nagar-11-f": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "fire|fire|war",
-    "norm": 63.2
-  },
-  "brics-summit-2026-live-pm-modi-holds-bilateral-meeting-with-": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "brics|modi|modi|president|summit",
+  "malaysian-prime-minister-anwar-ibrahim-meets-kanthapuram": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "brics|minister|prime minister|summit|war",
     "norm": 62.9
   },
-  "justice-v-kameswar-rao-takes-oath-as-chief-justice-of-patna-": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "chief minister|high court|minister|war",
-    "norm": 61.8
+  "ponguleti-counters-brs-and-bjp-on-22-a-with-records-video-ev": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "bjp|congress|record|video",
+    "norm": 62.1
   },
-  "pm-modi-extends-best-wishes-to-xi-as-brics-chairship-passes-": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "brics|china|modi|modi",
-    "norm": 61.8
-  },
-  "greater-noida-dm-moves-sc-against-hc-order-on-student-s-nsa-": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "exam|high court|mp",
-    "norm": 61.4
-  },
-  "maratha-reservation-protest-conspiracy-to-kill-me-during-mum": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "death|protest|protest",
-    "norm": 59.6
-  },
-  "suffocated-injuries-to-private-parts-bengaluru-woman-kills-b": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "killed|killed",
+  "four-struck-dead-by-lightning-in-separate-incidents-in-palna": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "dead|dead",
     "norm": 59.3
   },
-  "assam-man-22-who-tried-to-kill-himself-after-murdering-his-g": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "dead|dead",
-    "norm": 57.6
-  },
-  "brics-leaders-call-for-stronger-international-cooperation-wi": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "brics|row",
+  "house-burglary-case-one-held-for-stealing-40-lakh-in-gold-si": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "gold|lakh",
     "norm": 57.1
   },
-  "young-elephant-durga-from-assam-to-reach-madurai-meenakshi-t": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
+  "pain-that-persists-after-healing-needs-specialised-care-say-": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
     "signature": "mp|war",
     "norm": 55.4
   },
-  "officer-stresses-need-to-raise-awareness-about-social-dimens": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "mp|war",
+  "ysrcp-accuses-narayana-of-involvement-in-waste-management-sc": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "crore|scam",
     "norm": 55.4
   },
-  "who-was-gulzar-singh-why-his-suicide-triggered-a-fresh-polit": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "minister|storm",
-    "norm": 55.4
+  "kochi-corporation-to-roll-out-nutrient-kits-under-tb-eradica": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "fund|mp",
+    "norm": 55
   },
-  "who-is-vijai-sardesai-goa-heavyweight-joins-hands-with-arvin": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "aap|bjp|kejriwal|poll|vote",
-    "norm": 54.4
+  "state-to-seek-200-crore-for-underground-drainage-in-kakinada": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "crore|minister",
+    "norm": 55
   },
-  "aap-gfp-alliance-can-kejriwal-turn-a-two-seat-goa-base-into-": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "aap|alliance|bjp|kejriwal",
-    "norm": 53.9
-  },
-  "after-a-prolonged-lull-vemireddys-hit-back-at-ysrcp-for-wild": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "mla|mp|opposition",
-    "norm": 52.7
-  },
-  "former-bjp-mla-joins-congress-in-karnataka-dk-shivakumar-say": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "bjp|congress|mla",
-    "norm": 52.7
-  },
-  "decolonisation-means-presenting-full-authentic-history-with-": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "amit shah|minister|mp",
-    "norm": 50.9
-  },
-  "82-year-old-sinatra-fan-travels-10-000-miles-to-keep-promise": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "fan|record",
+  "mamata-s-tmc-faction-names-candidates-for-nandigram-rejinaga": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "mamata|poll",
     "norm": 50.5
   },
-  "-aap-will-be-extra-cautious-kejriwal-on-rs-picks-after-ragha": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "aap|kejriwal",
+  "pla-troop-deployment-along-lac-reduced-in-2025-but-10-combin": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "border|china",
     "norm": 48.7
   },
-  "brics-backs-india-for-bigger-un-role-new-delhi-declaration-c": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "brics|mp",
-    "norm": 48.7
-  },
-  "40-year-old-chicken-shop-owner-murdered-over-domestic-row": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "row",
+  "govt-raisin-processing-unit-in-vijayapura-to-help-farmers-cu": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "maharashtra",
     "norm": 46.3
   },
-  "third-extension-of-former-assam-pccf-challenged-gauhati-high": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "high court",
+  "assam-man-23-held-for-rape-murder-of-woman-over-alleged-affa": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "hospital",
+    "norm": 46.3
+  },
+  "m-a-baby-blames-creation-of-false-perception-for-cpi-m-s-deb": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "alert",
+    "norm": 46.3
+  },
+  "russia-proposes-joint-production-of-ivolga-trains-with-india": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "why-bengal-govt-is-shutting-down-252-madrassas": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "minister",
+  "india-builds-brics-without-breaking-up-with-us": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "brics",
     "norm": 45.9
   },
-  "kerala-high-court-prescribes-timelines-for-speedy-disposal-o": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "high court",
-    "norm": 45.9
+  "jsp-has-upper-hand-in-araku-local-body-polls-korikana-raviku": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "poll",
+    "norm": 44
   },
-  "abvp-seeks-cancellation-of-umar-khalid-documentary-screening": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
+  "no-restrictions-on-private-vehicles-during-tirumala-brahmots": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
     "signature": "mp",
     "norm": 44
   },
-  "house-break-in-attempt-assam-native-held-in-keralam-s-thriss": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "mp",
-    "norm": 44
+  "how-monty-don-turned-a-2-acre-field-into-a-garden-millions-l": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "watch",
+    "norm": 40.7
   },
-  "pralhad-joshi-seeks-suspension-of-mysuru-inspector-over-gane": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
+  "cpi-m-s-extended-keralam-state-committee-meet-begins-in-kozh": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
     "signature": "",
     "norm": 36
   },
-  "flying-to-uae-several-flights-from-india-delayed-up-to-14-ho": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
+  "over-6-000-kg-of-rice-wheat-allegedly-diverted-from-ration-s": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
     "signature": "",
     "norm": 36
   },
-  "t-rex-footprints-reveal-the-giant-dinosaur-walked-not-ran": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
-    "signature": "",
-    "norm": 36
-  },
-  "scientists-activists-urge-govt-to-halt-e20-rollout-enact-ant": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
+  "youth-allegedly-assaulted-robbed-near-aluva-railway-station": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
     "signature": "",
     "norm": 33.9
   },
-  "revanth-reddy-calls-on-vaishya-community-to-secure-political": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
+  "govt-intensifies-efforts-to-fight-rising-vector-food-borne-d": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
     "signature": "",
     "norm": 33.9
   },
-  "over-1-300-candidates-get-appointment-letters-at-cuddalore-j": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
+  "happy-ganesh-chaturthi-2026-wishes-messages-quotes-and-statu": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
     "signature": "",
     "norm": 33.9
   },
-  "kapil-sibal-calls-for-10-year-ban-on-politicians-switching-p": {
-    "firstSeen": "2026-09-13T11:43:41.520Z",
+  "three-day-wet-spell-brings-down-rainfall-deficit-to-51-7-in-": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "7-addl-cops-37-dcps-16-000-personnel-how-mumbai-police-are-s": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "teachers-body-seeks-increase-in-rice-allocation-under-mid-da": {
+    "firstSeen": "2026-09-13T16:10:38.341Z",
     "signature": "",
     "norm": 33.9
   }
