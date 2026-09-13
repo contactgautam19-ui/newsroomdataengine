@@ -1,141 +1,116 @@
 {
-  "mecca-pact-but-no-troops-yet-pak-expresses-solidarity-with-s": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "attack|attack|minister|pakistan|prime minister|row|threat",
-    "norm": 80.8
+  "a-year-on-rs-15-lakh-for-kin-of-4-killed-in-leh-firing": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "governor|killed|killed|lakh|mp|protest|protest",
+    "norm": 87.6
   },
-  "modi-s-bilateral-meetings-on-brics-sidelines-put-defence-sec": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "brics|defence|modi|modi",
+  "sheesh-mahal-row-returns-panel-to-inspect-arvind-kejriwal-s-": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "aap|bjp|exam|kejriwal|mla|row|war",
+    "norm": 77.9
+  },
+  "indian-missing-after-attack-on-panama-flagged-tanker-off-oma": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "attack|attack|rescue|rescue",
+    "norm": 68.4
+  },
+  "left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-c": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "election|election|mp|poll",
     "norm": 63.5
   },
-  "malaysian-prime-minister-anwar-ibrahim-meets-kanthapuram": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
+  "-move-towards-new-relationship-bangladesh-wants-to-reset-ind": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
     "signature": "brics|minister|prime minister|summit|war",
     "norm": 62.9
   },
-  "ponguleti-counters-brs-and-bjp-on-22-a-with-records-video-ev": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "bjp|congress|record|video",
-    "norm": 62.1
+  "india-keeps-door-open-for-normalisation-of-bangladesh-ties-d": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "minister|prime minister|row",
+    "norm": 59.7
   },
-  "four-struck-dead-by-lightning-in-separate-incidents-in-palna": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "dead|dead",
-    "norm": 59.3
+  "-op-safed-sagar-veteran-attacked-with-iron-rod-by-parking-st": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "attack|attack",
+    "norm": 57.6
   },
-  "house-burglary-case-one-held-for-stealing-40-lakh-in-gold-si": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "gold|lakh",
-    "norm": 57.1
-  },
-  "pain-that-persists-after-healing-needs-specialised-care-say-": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "mp|war",
+  "senior-western-officials-were-at-ukrainian-train-station-bef": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "border|ipl",
     "norm": 55.4
   },
-  "ysrcp-accuses-narayana-of-involvement-in-waste-management-sc": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "crore|scam",
-    "norm": 55.4
+  "bjp-imposing-its-deeply-problematic-dietary-preferences-on-f": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "bjp|brics|congress|mp|rahul gandhi",
+    "norm": 54.4
   },
-  "kochi-corporation-to-roll-out-nutrient-kits-under-tb-eradica": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "fund|mp",
-    "norm": 55
-  },
-  "state-to-seek-200-crore-for-underground-drainage-in-kakinada": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "crore|minister",
-    "norm": 55
-  },
-  "mamata-s-tmc-faction-names-candidates-for-nandigram-rejinaga": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "mamata|poll",
+  "india-women-s-team-refuses-asia-cup-trophy-from-mohsin-naqvi": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "captain|record",
     "norm": 50.5
   },
-  "pla-troop-deployment-along-lac-reduced-in-2025-but-10-combin": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "border|china",
-    "norm": 48.7
+  "brics-summit-2026-here-are-the-5-biggest-takeaways-from-the-": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "brics|summit",
+    "norm": 50.5
   },
-  "govt-raisin-processing-unit-in-vijayapura-to-help-farmers-cu": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "maharashtra",
-    "norm": 46.3
-  },
-  "assam-man-23-held-for-rape-murder-of-woman-over-alleged-affa": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "m-a-baby-blames-creation-of-false-perception-for-cpi-m-s-deb": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "alert",
-    "norm": 46.3
-  },
-  "russia-proposes-joint-production-of-ivolga-trains-with-india": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "mp",
+  "want-to-reset-ties-with-india-should-be-done-through-bilater": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "india-builds-brics-without-breaking-up-with-us": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "brics",
-    "norm": 45.9
-  },
-  "jsp-has-upper-hand-in-araku-local-body-polls-korikana-raviku": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "poll",
-    "norm": 44
-  },
-  "no-restrictions-on-private-vehicles-during-tirumala-brahmots": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
+  "stalled-ferry-services-to-two-key-jetties-hit-tourists-commu": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
     "signature": "mp",
     "norm": 44
   },
-  "how-monty-don-turned-a-2-acre-field-into-a-garden-millions-l": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "watch",
-    "norm": 40.7
+  "temple-tenants-urge-cm-to-implement-g-o-fixing-rents": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "cpi-m-s-extended-keralam-state-committee-meet-begins-in-kozh": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
+  "bjp-opposes-circular-on-breakfast-scheme": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "bjp",
+    "norm": 44
+  },
+  "there-is-no-such-thing-as-a-un-map-with-borders-un-secretary": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "border",
+    "norm": 44
+  },
+  "reed-hastings-invests-300-million-in-utah-ski-resort-expansi": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
+    "signature": "fund",
+    "norm": 44
+  },
+  "pre-booking-of-photo-book-on-indira-gandhi-launched": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
     "signature": "",
     "norm": 36
   },
-  "over-6-000-kg-of-rice-wheat-allegedly-diverted-from-ration-s": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "",
-    "norm": 36
-  },
-  "youth-allegedly-assaulted-robbed-near-aluva-railway-station": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
+  "two-held-for-alleged-robbery-bid-in-kozhikode": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
     "signature": "",
     "norm": 33.9
   },
-  "govt-intensifies-efforts-to-fight-rising-vector-food-borne-d": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
+  "bid-to-revive-ladakh-lake-that-shrunk-by-70-in-a-decade": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
     "signature": "",
     "norm": 33.9
   },
-  "happy-ganesh-chaturthi-2026-wishes-messages-quotes-and-statu": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
+  "jaywalking-a-menace-on-omr-motorists-say": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
     "signature": "",
     "norm": 33.9
   },
-  "three-day-wet-spell-brings-down-rainfall-deficit-to-51-7-in-": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
+  "bridge-to-replace-part-of-pallavaram-thoraipakkam-radial-roa": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
     "signature": "",
     "norm": 33.9
   },
-  "7-addl-cops-37-dcps-16-000-personnel-how-mumbai-police-are-s": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "teachers-body-seeks-increase-in-rice-allocation-under-mid-da": {
-    "firstSeen": "2026-09-13T16:10:38.341Z",
+  "procession-of-silk-umbrellas-leaves-for-tirupati-from-chenna": {
+    "firstSeen": "2026-09-13T19:23:42.176Z",
     "signature": "",
     "norm": 33.9
   }
