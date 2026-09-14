@@ -1,302 +1,147 @@
 {
-  "chinese-satellite-intel-linked-to-iran-strike-that-killed-3-": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "iran|killed|killed|mp|trump|trump|war|warning",
-    "norm": 82.2
+  "rajasthan-local-body-election-results-2026-live-setback-for-": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "bjp|congress|election|election|result|results|results|vote|war",
+    "norm": 83
   },
-  "adult-film-star-audi-arms-viral-video-raises-fresh-questions": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "actor|film|mp|star|video|viral|viral|viral|viral video",
-    "norm": 74.1
+  "jaipur-election-results-2026-live-bjp-leads-early-nagar-niga": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "bjp|congress|election|election|result|results|results|war",
+    "norm": 82
   },
-  "mumbai-on-orange-alert-as-imd-warns-of-heavy-rain-in-parts-o": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "alert|heavy rain|maharashtra|war",
-    "norm": 70.6
+  "houthi-drone-attack-saudi-oil-stocks-could-run-dry-soon-if-k": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "attack|attack|drone|stocks|threat",
+    "norm": 77.8
   },
-  "uttarakhand-s-road-safety-crisis-775-killed-in-accidents-in-": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "accident|death|khan|killed|killed|record",
+  "-chai-pe-charcha-with-xi-putin-unseen-footage-from-brics-sum": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "brics|footage|modi|modi|summit|watch",
+    "norm": 71.6
+  },
+  "-op-safed-sagar-veteran-assaulted-over-parking-dispute-in-gu": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "hospital|ipl|war",
+    "norm": 69.6
+  },
+  "alaska-teen-survives-62-hours-at-sea-how-the-15-year-old-fou": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "rescue|rescue|row|tragedy",
+    "norm": 68.4
+  },
+  "-no-other-country-has-stronger-claim-us-economist-backs-indi": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "economy|ipl|row",
     "norm": 67.6
   },
-  "jharkhand-lop-accuses-soren-led-govt-of-protecting-influenti": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "chief minister|exam|khan|minister|mp",
-    "norm": 66.3
+  "india-russia-china-bonhomie-on-display-at-brics-what-the-mod": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "brics|china|modi|modi|photos",
+    "norm": 67.3
   },
-  "sheesh-mahal-row-returns-panel-to-inspect-arvind-kejriwal-s-": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "aap|bjp|exam|kejriwal|mla|row|war",
-    "norm": 65.6
+  "india-women-refused-trophy-from-mohsin-naqvi-following-bcci-": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "cricket|minister|pakistan|surprise",
+    "norm": 65.3
   },
-  "centre-treating-bihar-as-stepchild-tejashwi-yadav-on-flood-r": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "fire|fire|flood|flood|floods|lakh",
-    "norm": 62.6
+  "dalits-counter-bjp-protest-in-t-narsipur-over-ganesha-proces": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "bjp|mp|protest|protest",
+    "norm": 65.3
   },
-  "brics-2026-xi-listening-pm-modi-warns-against-weaponisation-": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "brics|modi|modi|war",
-    "norm": 61
+  "woman-on-sports-bike-hit-by-car-in-gurugram-for-asking-drive": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "viral|viral|viral",
+    "norm": 63.2
   },
-  "man-killed-by-falling-boulders-near-cheerbasa-helipad-as-ked": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "killed|killed|mp",
-    "norm": 60.6
+  "tamil-nadu-cm-vijay-s-london-silverstone-visit-sparks-row-op": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "bjp|opposition|row",
+    "norm": 59.7
   },
-  "neet-ug-all-set-to-go-digital-nta-chief-says-computer-based-": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "exam|mp|neet",
-    "norm": 58.2
+  "dinesh-sharma-to-take-oath-as-andaman-and-nicobar-islands-li": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "governor|high court|sharma",
+    "norm": 57.9
   },
-  "turkey-cracks-down-on-lgbtq-groups-ahead-of-elections": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "election|election|war",
-    "norm": 56.7
+  "aland-mla-b-r-patil-flags-lapses-in-crop-insurance-disbursem": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "crore|mla|sanction",
+    "norm": 57.6
   },
-  "indian-missing-after-attack-on-panama-flagged-tanker-off-oma": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "attack|attack|rescue|rescue",
-    "norm": 55.3
+  "pain-that-persists-after-healing-needs-specialised-care-say-": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "mp|war",
+    "norm": 57.1
   },
-  "sc-lets-manager-off-the-hook-puts-focus-on-indian-bank-in-35": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "crore|row|supreme court",
-    "norm": 54.5
+  "gadkari-delayed-by-mumbai-traffic-by-nearly-an-hour-pitches-": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "maharashtra|minister",
+    "norm": 57.1
   },
-  "brics-summit-2026-updates-india-china-stress-need-for-peace-": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "border|brics|china|minister|modi|modi|prime minister|summit",
-    "norm": 54.4
-  },
-  "brics-summit-2026-highlights-pm-modi-thanks-leaders-for-maki": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "brics|modi|modi|mp|summit",
-    "norm": 53.4
-  },
-  "stanchart-warns-oil-is-now-built-for-sharper-more-frequent-s": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "price|war",
+  "m-a-baby-to-open-cpi-m-extended-state-committee-meeting-in-k": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "chief minister|minister|mla",
     "norm": 52.7
   },
-  "brics-summit-pm-modi-s-bilateral-talks-put-security-trade-in": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "brics|modi|modi|summit",
-    "norm": 52.3
-  },
-  "-no-threats-no-pressure-bhopal-court-acquits-muslim-man-in-c": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "fraud|threat",
-    "norm": 52.1
-  },
-  "ipo-set-to-unlock-value-in-group-coompanies-holding-tata-son": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "ipo|mp",
+  "rs-6-42l-business-travel-paid-via-wife-s-card-man-gets-tax-n": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "lakh|tax",
     "norm": 50.5
   },
-  "xi-s-5-point-action-plan-for-brics-may-see-red-flags-go-up-i": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "brics|china|threat",
-    "norm": 50
-  },
-  "-move-towards-new-relationship-bangladesh-wants-to-reset-ind": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "brics|minister|prime minister|summit|war",
-    "norm": 49.4
-  },
-  "oil-infra-hit-by-ukraine-russia-gets-70-of-its-fuel-from-ind": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "fuel|mp|record",
-    "norm": 49.3
-  },
-  "left-parties-to-contest-in-tamil-nadu-bypolls-cpi-to-field-c": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "election|election|mp|poll",
+  "m-a-baby-blames-creation-of-false-perception-for-cpi-m-s-deb": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "alert",
     "norm": 48.2
   },
-  "india-keeps-door-open-for-normalisation-of-bangladesh-ties-d": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "minister|prime minister|row",
-    "norm": 45.9
+  "gurugram-woman-biker-thrown-off-sports-bike-after-car-hits-h": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "row",
+    "norm": 48.2
   },
-  "pm-modi-holds-bilateral-talks-with-south-africa-philippines-": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "defence|modi|modi",
-    "norm": 45.9
+  "tribal-children-s-deaths-in-balaghat-cjp-s-dipke-mocks-madhy": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "death",
+    "norm": 46.3
   },
-  "ai-must-not-get-out-of-control-south-africa-president-at-bri": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "brics|president|row",
-    "norm": 45.9
-  },
-  "police-deny-activist-manoj-jarange-permission-to-hold-mumbai": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "maharashtra|slam",
-    "norm": 43.5
-  },
-  "-op-safed-sagar-veteran-attacked-with-iron-rod-by-parking-st": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "attack|attack",
-    "norm": 43.5
-  },
-  "nlsiu-postpones-umar-khalid-film-student-body-cites-security": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "film",
-    "norm": 42.4
-  },
-  "maratha-quota-protest-jarange-alleges-conspiracy-to-kill-him": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "protest|protest",
-    "norm": 42.2
-  },
-  "asia-cup-indian-women-s-cricket-team-refuses-to-accept-troph": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "cricket|record",
-    "norm": 42.2
-  },
-  "senior-western-officials-were-at-ukrainian-train-station-bef": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "border|ipl",
-    "norm": 41
-  },
-  "massive-global-support-needed-for-developing-nations-sdgs-un": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "brics|mp|summit",
-    "norm": 40.6
-  },
-  "sweden-opposition-holds-one-seat-advantage-over-ruling-bloc-": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "opposition|ruling",
-    "norm": 38
-  },
-  "india-women-s-team-refuses-to-take-asia-cup-trophy-from-mohs": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "captain|record",
-    "norm": 38
-  },
-  "brics-summit-2026-here-are-the-5-biggest-takeaways-from-the-": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "brics|summit",
-    "norm": 38
-  },
-  "bjp-imposing-its-deeply-problematic-dietary-preferences-on-f": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "bjp|brics|congress|mp|rahul gandhi",
-    "norm": 37.9
-  },
-  "-some-regional-countries-requested-iran-after-meeting-with-g": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "iran",
-    "norm": 35.5
-  },
-  "-india-key-player-in-conflict-resolution-south-africa-minist": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "minister|mp",
-    "norm": 33.4
-  },
-  "bangladesh-wants-to-reset-ties-with-india-calls-hasina-era-r": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "minister|prime minister",
-    "norm": 33.4
-  },
-  "apple-unveils-its-first-foldable-the-iphone-duo-iphone-18-pr": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
+  "england-brought-back-ospreys-after-149-years-300-chicks-have": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
     "signature": "mp",
-    "norm": 32.8
+    "norm": 45.9
   },
-  "want-to-reset-ties-with-india-should-be-done-through-bilater": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "minister",
-    "norm": 32.8
+  "-pradhama-drishtiya-kuttakkar-movie-review-a-taut-thriller-t": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "movie",
+    "norm": 44.3
   },
-  "portland-teen-17-makes-small-ai-models-90-more-empathetic": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
+  "west-bengal-government-issues-closure-notice-to-252-unaided-": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
     "signature": "mp",
-    "norm": 30.7
+    "norm": 44
+  },
+  "bought-as-a-christmas-gift-in-1986-this-super-mario-bros-sol": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "record",
+    "norm": 42.7
   },
   "opinion-opinion-from-non-alignment-to-all-alignment-towards-": {
     "firstSeen": "2026-09-13T22:22:16.590Z",
     "signature": "war",
-    "norm": 30.7
+    "norm": 41.2
   },
-  "last-few-monsoon-showers-for-delhi-imd-forecasts-light-to-he": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "heavy rain",
-    "norm": 30.7
+  "in-a-first-ganga-aarti-held-on-london-s-thames-river-watch": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
+    "signature": "watch",
+    "norm": 40.7
   },
-  "stalled-ferry-services-to-two-key-jetties-hit-tourists-commu": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "mp",
-    "norm": 27.8
-  },
-  "temple-tenants-urge-cm-to-implement-g-o-fixing-rents": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "mp",
-    "norm": 27.8
-  },
-  "bjp-opposes-circular-on-breakfast-scheme": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "bjp",
-    "norm": 27.8
-  },
-  "brigadier-mishra-gets-royal-college-fellowship-for-contribut": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "mp",
-    "norm": 27.8
-  },
-  "high-ranges-of-kottayam-mobilise-against-centre-s-proposed-e": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
+  "diet-exercise-combo-most-effective-for-lasting-weight-loss-i": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 36
   },
-  "murder-accused-s-victory-march-sc-asks-haryana-police-to-pro": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
+  "unqualified-practitioners-found-treating-patients-prescribin": {
+    "firstSeen": "2026-09-14T06:09:17.260Z",
     "signature": "",
-    "norm": 26.7
-  },
-  "keralam-cm-v-d-satheesan-takes-a-trip-down-memory-lane-at-al": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "pre-booking-of-photo-book-on-indira-gandhi-launched": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "mayawati-refutes-illness-claims-appears-before-media-to-disp": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "two-held-for-alleged-robbery-bid-in-kozhikode": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "bid-to-revive-ladakh-lake-that-shrunk-by-70-in-a-decade": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "jaywalking-a-menace-on-omr-motorists-say": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "bridge-to-replace-part-of-pallavaram-thoraipakkam-radial-roa": {
-    "firstSeen": "2026-09-13T19:23:42.176Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "mumbai-police-deny-nod-for-activist-manoj-jarange-s-septembe": {
-    "firstSeen": "2026-09-13T22:22:16.590Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "dario-amodei-says-ai-industry-lied-about-technology-s-risks": {
-    "firstSeen": "2026-09-14T00:58:50.005Z",
-    "signature": "",
-    "norm": 15.1
+    "norm": 33.9
   }
 }
