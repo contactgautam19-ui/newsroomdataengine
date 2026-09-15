@@ -1,186 +1,56 @@
 {
-  "india-opposes-attacks-on-merchant-shipping-civilian-infrastr": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "attack|attack|fire|fire|injured|ipl",
-    "norm": 80.6
+  "omar-praises-india-s-foreign-policy-over-brics-mention-of-pa": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
+    "signature": "attack|attack|brics|chief minister|ipl|minister|mp|policy|slam|slams|summit|terror|terror",
+    "norm": 97.2
   },
-  "mp-forms-one-member-judicial-panel-to-probe-sagar-spurious-l": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "died|mp|toll|tragedy",
-    "norm": 71
+  "rescued-baby-orangutans-get-health-check-up-after-one-develo": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
+    "signature": "rally|rally|rescue|rescue",
+    "norm": 65.6
   },
-  "indigo-agartala-delhi-flight-diverted-to-lucknow-after-smoke": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "alert|smoke|war|warning",
-    "norm": 68.4
-  },
-  "four-of-family-killed-after-refrigerator-explodes-at-house-i": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "fire|fire|killed|killed",
-    "norm": 68.4
-  },
-  "ceiling-panel-collapses-at-hospital-in-palakkad": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "collapse|collapse|collapse|hospital|injured",
-    "norm": 67.8
-  },
-  "indigo-flight-from-agartala-to-delhi-diverted-to-lucknow-aft": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "smoke|war|warning",
-    "norm": 64.9
-  },
-  "cpi-m-protests-vijaya-dairy-milk-price-hike-in-vijayawada": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "price|protest|protest",
-    "norm": 62.8
-  },
-  "three-member-gang-arrested-for-temple-thefts-across-a-p-karn": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "cctv|lakh|mp",
-    "norm": 60.7
-  },
-  "why-china-s-housing-market-remains-weak-despite-new-governme": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "china|fund|price|prices",
-    "norm": 59.7
-  },
-  "west-bengal-withdraws-approval-for-akshaya-patra-to-provide-": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "bjp|controversy",
-    "norm": 57.1
-  },
-  "gurugram-biker-crash-accused-first-absconded-tried-to-escape": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "crash|crash",
-    "norm": 55.4
-  },
-  "ap-rythu-sangham-stages-protest-seeks-transparency-in-land-r": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "rowdy-sheeter-stabbed-to-death-at-nagole-wine-shop-childhood": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "death|row",
-    "norm": 53.9
-  },
-  "why-is-varun-chakaravarthy-not-playing-against-afghanistan-i": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "captain|match",
-    "norm": 53.9
-  },
-  "how-fish-has-bjp-s-plate-full-in-west-bengal": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "bjp|chief minister|minister",
-    "norm": 50.9
-  },
-  "at-22-jayden-williams-became-youngest-mayor-10-months-later-": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "mp|surprising",
-    "norm": 50.2
-  },
-  "person-to-person-upi-transactions-above-2-000-to-remain-free": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "row",
+  "heavy-rain-paralyses-traffic-in-several-parts-of-bengaluru": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
+    "signature": "heavy rain",
     "norm": 46.3
   },
-  "governor-offers-prayers-to-63-foot-maha-ganapathi-idol-at-ma": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "governor",
+  "j-amp-k-police-bust-let-module-3-held-with-ied": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "svims-opens-first-aid-centres-for-devotees-trekking-to-tirum": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
+  "cpi-alleges-vote-deletions-in-a-p-sir": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
     "signature": "vote",
     "norm": 45.9
   },
-  "knruhs-releases-phase-2-mbbs-allotment-list-under-competent-": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "npci-introduces-0-4-mdr-charge-on-upi-payments-above-2-000-e": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "-real-sena-case-in-sc-shinde-camp-backs-ec-s-organisational-": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "mp",
+  "state-legislature-presiding-officers-showcase-karnataka-s-pa": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
+    "signature": "parliament",
     "norm": 44
   },
-  "what-mdr-on-upi-payments-above-rs-2-000-means-for-you-faqs-a": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "mp",
-    "norm": 44
+  "meta-india-faces-renewed-s": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
+    "signature": "instagram",
+    "norm": 42.4
   },
-  "bengal-opposition-cries-foul-as-muslim-ips-officer-transferr": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "opposition",
-    "norm": 44
-  },
-  "meta-to-share-child-safety-information-directly-with-indian-": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "record",
-    "norm": 42.7
-  },
-  "ex-abvp-convenor-pm-eac-members-in-ncert-s-new-english-and-e": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
+  "engineers-day-observed-at-andhra-university": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
     "signature": "",
     "norm": 36
   },
-  "hsl-helps-450-persons-with-disabilities-in-vizianagaram": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
+  "meet-angus-liddell-who-raised-10-000-and-won-young-citizen-o": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "vmc-makes-special-arrangements-for-ganesh-idol-immersions-in": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
+  "school-arts-fete-in-ernakulam-in-january": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "government-law-college-thiruvananthapuram-holds-convocation": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "",
-    "norm": 36
-  },
-  "cpi-m-s-keralam-meet-condemns-ed-action-against-pinarayi-vee": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "",
-    "norm": 36
-  },
-  "forest-department-enhances-safety-of-locals-in-o-valley-amid": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "",
-    "norm": 36
-  },
-  "resident-of-care-home-steps-into-a-new-life": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "",
-    "norm": 36
-  },
-  "upi-merchant-transactions-above-2-000-to-attract-0-4-mdr-max": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "",
-    "norm": 36
-  },
-  "no-charges-on-upi-transactions-up-to-2-000-government-yet-to": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-vidya-bus-yatra-gets-rolling-to-press-for-education-reforms": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "",
-    "norm": 36
-  },
-  "family-wants-1-500-acre-penn-s-cave-property-to-become-state": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-get-on-a-train-envoy-shares-australian-pm-s-advise-on-how-t": {
-    "firstSeen": "2026-09-15T14:55:35.122Z",
+  "there-is-a-need-to-reinvent-engineering-make-it-fit-current-": {
+    "firstSeen": "2026-09-15T18:55:10.512Z",
     "signature": "",
     "norm": 33.9
   }
