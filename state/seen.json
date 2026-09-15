@@ -1,26 +1,131 @@
 {
-  "-sympathy-game-woman-biker-hits-back-at-gurugram-hit-and-run": {
-    "firstSeen": "2026-09-14T23:05:32.352Z",
-    "signature": "mp|video|watch",
-    "norm": 55
+  "-he-kept-giving-strange-signals-gurugram-biker-sia-demands-a": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "crash|crash|died|emotional|injured|mp",
+    "norm": 83.5
   },
-  "interim-ec-ruling-on-real-tmc-likely-on-sept-17": {
-    "firstSeen": "2026-09-14T23:05:32.352Z",
-    "signature": "ruling",
+  "himalayan-glaciers-melting-65-faster-black-carbon-to-blame-s": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "collapse|collapse|collapse|dead|dead|flood|flood|floods",
+    "norm": 81.4
+  },
+  "singapore-among-world-s-most-polluted-cities-as-indonesia-wi": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "fire|fire|fuel|poll|weather",
+    "norm": 79.1
+  },
+  "emmys-2026-winners-widow-s-bay-to-the-pitt-shows-and-stars-w": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "actor|ipl|mp|star|war",
+    "norm": 77.5
+  },
+  "mystery-missile-in-yemen-did-saudi-arabia-use-china-made-df-": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "attack|attack|china|mp|mystery",
+    "norm": 75.3
+  },
+  "fresh-100-trump-tariff-threat-looms-over-india-as-us-russia-": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "bill|china|mp|sanction|threat|trump|trump",
+    "norm": 75.1
+  },
+  "vadodara-rs-21-000-ganpati-chanda-demand-ends-in-fir-but-not": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "video|viral|viral|viral|viral video",
+    "norm": 74.2
+  },
+  "-4-drunk-men-tried-to-harass-me-gurugram-biker-files-hit-and": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "footage|mp|outrage|video",
+    "norm": 63.9
+  },
+  "trump-faces-fresh-setback-as-judge-blocks-stricter-foreign-s": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
+  },
+  "jharkhand-cid-arrests-two-more-in-recruitment-exam-irregular": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "exam|khan|recruitment",
+    "norm": 59.4
+  },
+  "on-camera-indian-origin-woman-friend-crushed-to-death-by-sub": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "death|video|war",
+    "norm": 57.9
+  },
+  "meta-agrees-to-report-child-sexual-abuse-cases-amid-india-cr": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "fund|ipl",
+    "norm": 57.1
+  },
+  "kerala-vlogger-escapes-afghanistan-arrest-threat-says-had-to": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "mp|threat",
+    "norm": 55.4
+  },
+  "c-dot-developing-interactive-disaster-alerts-for-mobile-user": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "alert|disaster",
+    "norm": 53.9
+  },
+  "-felt-sorry-why-didn-t-you-stop-gurugram-biker-slams-hit-and": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "slam|slams",
+    "norm": 53.9
+  },
+  "shillong-teer-result-today-september-15-2026-winning-numbers": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "khan|result",
+    "norm": 53.9
+  },
+  "stock-market-live-updates-sensex-today-sensex-nifty-trade-fl": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "nifty|sensex|stock market|stocks",
+    "norm": 53.9
+  },
+  "digital-libraries-established-in-57-600-gram-panchayats-up-c": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "chief minister|minister|yogi",
+    "norm": 52.7
+  },
+  "four-members-of-family-die-in-fire-at-home-in-belagavi": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "fire|fire",
+    "norm": 52.4
+  },
+  "speeding-thar-rams-into-people-near-navi-mumbai-hospital-dri": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "hospital|injured",
+    "norm": 52.1
+  },
+  "supreme-court-lens-on-stem-cell-therapy-for-autism": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "supreme court",
     "norm": 44
   },
-  "cong-rejects-tmc-proposal-for-bypoll-pact": {
-    "firstSeen": "2026-09-14T23:05:32.352Z",
-    "signature": "poll",
+  "oil-price-today-brent-crude-rises-as-saudi-pipeline-outage-r": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "price",
     "norm": 44
   },
-  "voluminous-evidence-in-graft-cases-leading-to-long-pendency-": {
-    "firstSeen": "2026-09-14T23:05:32.352Z",
+  "young-man-drives-car-wearing-helmet-in-athani": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "record",
+    "norm": 40.7
+  },
+  "the-diet-diktat-how-india-s-food-plate-became-the-ultimate-f": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
     "signature": "",
     "norm": 36
   },
-  "us-rejects-irgc-claim-that-panama-flagged-tanker-hit-naval-m": {
-    "firstSeen": "2026-09-14T23:05:32.352Z",
+  "-kabaddi-player-what-we-know-about-gurugram-hit-and-run-accu": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "meta-commits-to-reporting-child-abuse-content-amid-centre-s-": {
+    "firstSeen": "2026-09-15T04:46:18.244Z",
     "signature": "",
     "norm": 33.9
   }
