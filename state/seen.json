@@ -1,302 +1,37 @@
 {
-  "omar-praises-india-s-foreign-policy-over-brics-mention-of-pa": {
-    "firstSeen": "2026-09-15T18:55:10.512Z",
-    "signature": "attack|attack|brics|chief minister|ipl|minister|mp|policy|slam|slams|summit|terror|terror",
-    "norm": 87.9
+  "samson-s-blitz-against-afg-keeps-sooryavanshi-waiting-and-th": {
+    "firstSeen": "2026-09-16T01:21:35.163Z",
+    "signature": "election|election|fear|match|mp|sooryavanshi",
+    "norm": 82.9
   },
-  "after-rescuing-529-child-labourers-in-bengaluru-karnataka-fa": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "mp|petrol|petrol|rescue|rescue|war",
-    "norm": 86.3
+  "india-others-face-100-us-tariffs-as-house-advances-russia-sa": {
+    "firstSeen": "2026-09-16T01:21:35.163Z",
+    "signature": "bill|iran|row|sanction|vote|war",
+    "norm": 78.4
   },
-  "-not-people-i-interviewed-trump-slams-judges-over-mail-in-ba": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "deal|election|election|mp|ruling|slam|slams|supreme court|trump|trump",
-    "norm": 82.3
+  "us-house-advances-bill-allowing-trump-to-impose-100-tariffs-": {
+    "firstSeen": "2026-09-16T01:21:35.163Z",
+    "signature": "bill|iran|mp|sanction|trump|trump",
+    "norm": 69.6
   },
-  "iran-war-has-cost-the-us-more-than-38-billion": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "bill|billion|congress|fund|iran|war",
-    "norm": 76.7
+  "jasprit-bumrah-does-it-again-india-star-breaks-major-t20i-re": {
+    "firstSeen": "2026-09-16T01:21:35.163Z",
+    "signature": "bumrah|cricket|record|star",
+    "norm": 63.2
   },
-  "-modi-tax-opposition-slams-centre-over-upi-charges-on-mercha": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "modi|modi|opposition|slam|slams|tax",
-    "norm": 74.2
+  "in-a-rare-debate-baghel-and-vijay-sharma-spar-over-pm-awas-y": {
+    "firstSeen": "2026-09-16T01:21:35.163Z",
+    "signature": "bjp|congress|mp|sharma",
+    "norm": 60
   },
-  "explosion-in-bengal-s-rejinagar-ahead-of-bypolls-cops-recove": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "bomb|explosion|explosion|poll|smoke|war",
-    "norm": 70.2
-  },
-  "kash-patel-defends-fbi-hiring-standard-changes-on-prostituti": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "clash|clash|mp|president|trump|trump",
-    "norm": 68.6
-  },
-  "punjab-villager-death-congress-leaders-stage-demonstration-a": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "congress|death|minister|protest|protest",
-    "norm": 67.9
-  },
-  "us-military-destroys-2-small-iranian-boats-trying-to-steal-a": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "attack|attack|drone|iran",
-    "norm": 64.5
-  },
-  "digital-eyewitness-gurugram-hit-run-case-shows-how-helmet-ca": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "footage|viral|viral|viral",
-    "norm": 63.5
-  },
-  "-with-a-heavy-heart-emotional-post-by-techie-s-wife-after-or": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "emotional|layoff|layoffs|mp",
-    "norm": 62.7
-  },
-  "egyptian-mummy-left-screaming-for-3-000-years": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "death|exam|mp|sudden",
-    "norm": 62.4
-  },
-  "china-s-air-operations-in-pakistan-the-new-space-race-threat": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "china|pakistan|rbi|threat",
-    "norm": 58.9
-  },
-  "kennedy-center-board-votes-to-close-amid-financial-trump-bra": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "congress|mp|president|trump|trump|vote",
-    "norm": 57.9
-  },
-  "agartala-delhi-flight-diverted-to-lucknow-after-smoke-warnin": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "smoke|war|warning",
-    "norm": 57.7
-  },
-  "rescued-baby-orangutans-get-health-check-up-after-one-develo": {
-    "firstSeen": "2026-09-15T18:55:10.512Z",
-    "signature": "rally|rally|rescue|rescue",
-    "norm": 54.5
-  },
-  "candidate-dies-during-physical-test-for-u-p-home-guard-recru": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "mp|recruitment",
-    "norm": 52.7
-  },
-  "president-revokes-crpf-dig-s-suspension-over-messages-opposi": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "ipl|president|video",
-    "norm": 51.5
-  },
-  "noida-workers-protest-case-allahabad-hc-adjourns-bail-plea-p": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "protest|protest",
-    "norm": 49.7
-  },
-  "aap-alleges-cover-up-in-girl-s-death-at-a-satya-niketan-pg-p": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "aap|death",
-    "norm": 49.6
-  },
-  "ohio-turned-former-glass-factory-into-250-acre-park-with-qua": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "actor|smoke",
-    "norm": 48.7
-  },
-  "tanker-el-gaia-hit-in-the-strait-of-hormuz-was-operating-in-": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "pakistan|photos",
-    "norm": 47.4
-  },
-  "fuel-payment-phone-purchase-restaurant-bills-upi-charges-exp": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "bill|fuel",
-    "norm": 47.3
-  },
-  "-trinamool-is-liability-for-bypoll-congress-leaves-mamata-ba": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "alliance|congress|mamata|poll",
-    "norm": 46.1
-  },
-  "tamil-nadu-cm-vijay-s-london-event-cancelled-over-safety-con": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "chief minister|minister",
+  "sc-criticises-centre-for-challenging-pension-to-disabled-sol": {
+    "firstSeen": "2026-09-16T01:21:35.163Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "pakistan-raising-masood-azhar-bounty-a-gimmick-india": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "pakistan",
+  "hear-us-first-if-tata-sons-files-any-plea-rbi-caveat-in-hc": {
+    "firstSeen": "2026-09-16T01:21:35.163Z",
+    "signature": "rbi",
     "norm": 44
-  },
-  "us-announces-visa-curbs-over-south-africa-race-based-discrim": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "ed-puts-lens-on-ibc-frauds-including-excessive-haircuts": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "fraud",
-    "norm": 43.5
-  },
-  "man-held-for-damaging-temple-idols-in-tirupattur": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "cctv|footage|mp",
-    "norm": 43
-  },
-  "noise-from-plant-powering-musk-s-ai-data-centres-keeps-missi": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "mp|rbi",
-    "norm": 43
-  },
-  "bhagwant-mann-govt-made-fight-against-drugs-gangsters-top-pr": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "aap|gst",
-    "norm": 43
-  },
-  "power-discom-is-still-heavily-reliant-on-tamil-nadu-governme": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "crore|lakh",
-    "norm": 42.5
-  },
-  "-reckless-eu-after-russian-ship-fires-flares-at-danish-milit": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "fire|fire",
-    "norm": 42.2
-  },
-  "six-states-ut-sign-kishau-multipurpose-project-agreement-cm-": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "border|khan",
-    "norm": 41.4
-  },
-  "samson-s-57-off-22-establishes-his-role-of-preferred-opener-": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "mp|sharma",
-    "norm": 41.4
-  },
-  "aiudf-chief-badruddin-ajmal-to-contest-lok-sabha-bypoll-from": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "lok sabha|poll",
-    "norm": 38
-  },
-  "meta-to-share-child-safety-information-directly-with-indian-": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "record",
-    "norm": 37.7
-  },
-  "asian-games-2026-j-k-govt-allows-mir-bilquis-to-travel-after": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "supreme court",
-    "norm": 37.5
-  },
-  "iit-palakkad-researchers-develop-sensors-for-faster-heparin-": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "sc-bins-ex-nse-chief-chitra-ramakrishna-s-plea-to-stop-graft": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "",
-    "norm": 36
-  },
-  "man-electrocuted-nine-others-injured-in-ranipet": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "injured",
-    "norm": 35.5
-  },
-  "-world-is-suffering-enough-qatar-warns-against-bab-al-mandab": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "war",
-    "norm": 35.5
-  },
-  "diplomatic-ties-still-strained-india-yet-to-approve-next-ban": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "ipl",
-    "norm": 35.5
-  },
-  "heavy-rain-paralyses-traffic-in-several-parts-of-bengaluru": {
-    "firstSeen": "2026-09-15T18:55:10.512Z",
-    "signature": "heavy rain",
-    "norm": 35.5
-  },
-  "us-redirects-military-aid-from-europe-middle-east-to-allies-": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "congress",
-    "norm": 32.8
-  },
-  "udhayanidhi-condemns-tvk-led-govt-over-attempt-to-paralyse-h": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "j-amp-k-police-bust-let-module-3-held-with-ied": {
-    "firstSeen": "2026-09-15T18:55:10.512Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "cpi-alleges-vote-deletions-in-a-p-sir": {
-    "firstSeen": "2026-09-15T18:55:10.512Z",
-    "signature": "vote",
-    "norm": 32.8
-  },
-  "state-legislature-presiding-officers-showcase-karnataka-s-pa": {
-    "firstSeen": "2026-09-15T18:55:10.512Z",
-    "signature": "parliament",
-    "norm": 32.8
-  },
-  "kolkata-police-floats-rs-89-lakh-tender-to-dress-up-puja-vol": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "lakh",
-    "norm": 32.8
-  },
-  "can-the-houthis-hold-on-to-yemen-s-strategic-western-coast-": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "meta-india-faces-renewed-s": {
-    "firstSeen": "2026-09-15T18:55:10.512Z",
-    "signature": "instagram",
-    "norm": 31
-  },
-  "meta-india-head-summoned-for-3rd-time-over-child-abuse-adver": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "instagram",
-    "norm": 31
-  },
-  "meta-agrees-to-report-child-safety-matters-directly-to-india": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "",
-    "norm": 30.7
-  },
-  "mumbai-s-iconic-cafe-mondegar-loses-licence-over-food-safety": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "",
-    "norm": 26.7
-  },
-  "mmc-rotary-club-provide-five-pink-autos-to-women": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "",
-    "norm": 26.7
-  },
-  "-extinction-not-a-credible-risk-ai-researcher-sara-hooker-to": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "engineers-day-observed-at-andhra-university": {
-    "firstSeen": "2026-09-15T18:55:10.512Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "did-iphone-18-pro-just-beat-the-new-mac-mini-first-m6-benchm": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "rafael-nadal-vs-maria-francisca-perello-net-worth-who-is-ric": {
-    "firstSeen": "2026-09-15T22:09:17.054Z",
-    "signature": "",
-    "norm": 21.2
   }
 }
