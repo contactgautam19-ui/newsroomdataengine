@@ -1,197 +1,42 @@
 {
-  "trump-praises-pm-modi-s-opium-crackdown-as-india-remains-on-": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "modi|modi|mp|terror|terror|trump|trump",
-    "norm": 86.3
-  },
-  "us-officials-met-houthi-leaders-in-oman-after-red-sea-blitz-": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "attack|attack|fire|fire|israel",
-    "norm": 79.7
-  },
-  "naval-collision-sparks-diplomatic-row-pakistan-summons-india": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "ipl|pakistan|protest|protest|row",
-    "norm": 77.8
-  },
-  "pakistan-summons-indian-diplomat-after-new-delhi-lodges-stro": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "ipl|pakistan|protest|protest|war",
-    "norm": 76.3
-  },
-  "maratha-quota-activist-firm-on-march-to-mumbai-despite-healt": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "bomb|high court|protest|protest",
-    "norm": 72.9
-  },
-  "arabian-sea-face-off-india-protests-after-pak-warship-collid": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "navy|pakistan|protest|protest|war",
+  "-we-re-the-best-credit-trump-fumes-after-1st-fed-rate-hike-i": {
+    "firstSeen": "2026-09-16T22:05:06.436Z",
+    "signature": "mp|president|row|trump|trump",
     "norm": 72
   },
-  "india-rejects-pak-china-border-commission-slams-theatrics-": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "border|china|pakistan|slam|slams",
-    "norm": 67
+  "govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf": {
+    "firstSeen": "2026-09-16T22:05:06.436Z",
+    "signature": "diesel|petrol|petrol|tax",
+    "norm": 61.8
   },
-  "india-protests-to-pakistan-over-collision-of-naval-ships-at-": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "mp|pakistan|protest|protest",
-    "norm": 66.9
+  "us-contracted-vessel-hit-by-iranian-missiles-near-strait-of-": {
+    "firstSeen": "2026-09-16T22:05:06.436Z",
+    "signature": "drone|iran|mp",
+    "norm": 61.1
   },
-  "love-marriage-abduction-high-speed-crash-newlywed-rescued-in": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "crash|crash|rescue|rescue",
-    "norm": 66.3
+  "don-t-trust-centre-unless-it-s-a-written-deal-j-amp-k-cm-tel": {
+    "firstSeen": "2026-09-16T22:05:06.436Z",
+    "signature": "deal|mp",
+    "norm": 53.2
   },
-  "meet-joey-rescue-dog-who-found-3-people-alive-under-earthqua": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "earthquake|earthquake|rescue|rescue",
-    "norm": 65.2
-  },
-  "upi-charges-row-chidambaram-among-5-congress-mps-who-had-bac": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "congress|mp|row",
-    "norm": 61.4
-  },
-  "keralam-to-support-new-medical-device-parks-fast-track-appro": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "chief minister|minister|war",
-    "norm": 61.4
-  },
-  "after-12-years-centre-hikes-epfo-wage-ceiling-to-25-000-a-mo": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "crore|lakh|mp",
-    "norm": 57.6
-  },
-  "plea-in-supreme-court-challenges-levy-on-upi-payments-above-": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "lakh|mp|supreme court",
-    "norm": 57.6
-  },
-  "us-federal-reserve-hikes-interest-rate-to-3-75-4-range-first": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "inflation|row",
-    "norm": 57.1
-  },
-  "old-census-town-criteria-will-not-capture-india-s-urbanisati": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "parliament|row",
-    "norm": 57.1
-  },
-  "from-ideas-to-impact-maharashtra-sets-up-statewide-health-in": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "maharashtra|mp",
-    "norm": 57.1
-  },
-  "from-sombre-to-comic-the-infinite-range-of-anant-nag": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "actor|war",
-    "norm": 55.7
-  },
-  "odisha-three-rescued-orangutans-anaemic-dna-tests-planned-to": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "rescue|rescue",
-    "norm": 52.4
-  },
-  "-mockery-of-democracy-madras-high-court-declines-to-stay-byp": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "high court|mla|poll|ruling",
-    "norm": 52.1
-  },
-  "bengaluru-s-infrastructure-woes-strike-a-musical-chord": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "chief minister|minister|mp",
-    "norm": 50.9
-  },
-  "water-power-crisis-ahead-karnataka-s-reservoir-numbers-raise": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "telangana-cm-urges-supreme-court-to-quash-2015-cash-for-vote": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "supreme court|vote",
-    "norm": 50.5
-  },
-  "ncte-to-review-tet-syllabus-exam-pattern-and-qualifying-mark": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "exam",
-    "norm": 46.3
-  },
-  "eighth-e-auction-of-pm-mementos-to-begin-on-september-17": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
+  "rajasthan-achieves-plantation-target-ahead-of-schedule": {
+    "firstSeen": "2026-09-16T22:05:06.436Z",
     "signature": "crore",
     "norm": 45.9
   },
-  "aap-s-baltej-pannu-opposes-draft-chandigarh-health-service-r": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "aap",
+  "j-amp-k-cop-accused-of-sexually-exploiting-constable-gets-ba": {
+    "firstSeen": "2026-09-16T22:05:06.436Z",
+    "signature": "mp",
     "norm": 44
   },
-  "houthis-claim-to-have-shot-down-saudi-f-15-jet-with-locally-": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "video",
-    "norm": 42.7
+  "matt-holliday-s-62-acre-oklahoma-estate-asks-9-8-million": {
+    "firstSeen": "2026-09-16T22:05:06.436Z",
+    "signature": "star",
+    "norm": 42.4
   },
-  "vit-s-gravitas-tech-fest-to-begin-on-september-18": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
+  "indian-couple-win-payout-after-suing-uk-home-office-for-unla": {
+    "firstSeen": "2026-09-16T22:05:06.436Z",
     "signature": "",
     "norm": 36
-  },
-  "-kcr-came-from-bihar-and-looted-telangana-revanth-reddy-orde": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 36
-  },
-  "cm-s-plan-to-relocate-city-zoo-triggers-debate": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 36
-  },
-  "kerala-hc-raps-authorities-over-road-safety-failures-reckles": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 36
-  },
-  "punjab-govt-constitutes-seven-member-panel-over-sri-guru-gra": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "eci-calls-both-factions-of-trinamool-for-hearing-on-septembe": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "it-took-two-to-tango-to-set-stage-for-september-17-1948-in-h": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "over-720-illegal-outlets-found-discharging-untreated-sewage-": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "us-limits-visas-for-south-african-officials-over-discriminat": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "keralam-cm-launches-nature-festival-logo": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "oman-pitches-new-port-that-could-give-india-better-access-to": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "women-s-andhra-premier-league-to-begin-from-september-19": {
-    "firstSeen": "2026-09-16T18:09:15.338Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
