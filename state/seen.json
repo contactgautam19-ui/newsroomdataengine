@@ -1,31 +1,41 @@
 {
-  "2-jaish-terrorists-killed-in-j-amp-k-s-udhampur": {
-    "firstSeen": "2026-09-17T20:14:44.015Z",
-    "signature": "killed|killed|mp|terror|terror",
-    "norm": 77.5
+  "bihar-cm-other-bjp-leaders-take-part-in-ashirwad-ka-diya-eve": {
+    "firstSeen": "2026-09-17T23:31:19.921Z",
+    "signature": "bjp|flood|flood|opposition|slam",
+    "norm": 76.8
   },
-  "bangladesh-pm-rahman-wishes-pm-modi-on-birthday-wishes-him-g": {
-    "firstSeen": "2026-09-17T20:14:44.015Z",
-    "signature": "minister|modi|modi|mp|opposition|prime minister|war",
-    "norm": 73.5
+  "no-culture-of-cut-money-in-bengal-anymore-pm-modi": {
+    "firstSeen": "2026-09-17T23:31:19.921Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 61.8
   },
-  "bob-dylan-s-former-harlem-townhouse-sells-for-2-8-million": {
-    "firstSeen": "2026-09-17T20:14:44.015Z",
-    "signature": "mp|row",
-    "norm": 55.4
+  "west-bengal-govt-participates-in-pm-modi-s-birthday-celebrat": {
+    "firstSeen": "2026-09-17T23:31:19.921Z",
+    "signature": "bjp|modi|modi",
+    "norm": 59.7
   },
-  "wall-st-rebounds-after-fed-s-first-rate-hike-in-years-as-oil": {
-    "firstSeen": "2026-09-17T20:14:44.015Z",
-    "signature": "fan",
-    "norm": 42.4
+  "india-s-crude-imports-down-3-since-august-last-year-but-bill": {
+    "firstSeen": "2026-09-17T23:31:19.921Z",
+    "signature": "bill|mp",
+    "norm": 48.7
   },
-  "new-fault-lines-on-manipur-s-kuki-zo-naga-conflict": {
-    "firstSeen": "2026-09-17T20:14:44.015Z",
+  "goldman-s-october-hike-call-underscores-renewed-fed-tighteni": {
+    "firstSeen": "2026-09-17T23:31:19.921Z",
+    "signature": "gold",
+    "norm": 48.2
+  },
+  "on-pm-s-birthday-j-k-cm-omar-abdullah-wishes-for-statehood-r": {
+    "firstSeen": "2026-09-17T23:31:19.921Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "prasanna-kumar-acharya-is-new-cmd-of-nlcil": {
-    "firstSeen": "2026-09-17T20:14:44.015Z",
+  "ec-accepts-tmc-split-freezes-name-symbol-in-interim-order": {
+    "firstSeen": "2026-09-17T23:31:19.921Z",
+    "signature": "",
+    "norm": 36
+  },
+  "lenovo-ends-us-patent-lawsuit-over-asus-laptops": {
+    "firstSeen": "2026-09-17T23:31:19.921Z",
     "signature": "",
     "norm": 33.9
   }
