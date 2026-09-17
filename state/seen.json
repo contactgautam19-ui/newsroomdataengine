@@ -1,201 +1,151 @@
 {
-  "nia-court-issues-arrest-warrant-against-pakistan-based-let-c": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "attack|attack|killed|killed|pakistan|terror|terror|war",
-    "norm": 83.4
+  "on-pm-modi-s-birthday-youth-congress-gives-government-one-ye": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "congress|lakh|minister|modi|modi|mp|prime minister|protest|protest|war",
+    "norm": 92.2
   },
-  "2-pakistani-jaish-terrorists-killed-in-j-k-s-udhampur-arms-a": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "killed|killed|mp|pakistan|terror|terror",
-    "norm": 81.3
-  },
-  "us-committed-war-crimes-in-2-deadly-strikes-on-iranian-schoo": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "dead|dead|death|iran|result|war",
-    "norm": 80.2
-  },
-  "india-responds-to-us-tariff-threat-over-russian-oil-mea-vows": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "iran|mp|president|sanction|threat",
+  "west-bengal-police-arrest-top-maoist-leader-akash": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "chief minister|minister|mp|terror|terror",
     "norm": 73.6
   },
-  "breaking-j-k-dgp-orders-property-attachment-of-2-pakistan-ba": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "pakistan|terror|terror|war",
+  "officially-declared-dead-in-odisha-2-487-workers-come-alive-": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "crore|dead|dead|death",
     "norm": 72.6
   },
-  "fortis-moves-supreme-court-against-delhi-high-court-order": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "deal|high court|rbi|supreme court|war",
-    "norm": 72
+  "supreme-court-seeks-manipur-chief-secretary-report-on-25-unn": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "cji|death|mp|slam|slams|supreme court",
+    "norm": 71.1
   },
-  "from-new-schemes-to-infrastructure-push-how-narendra-modi-ce": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "minister|modi|modi|prime minister|war",
-    "norm": 72
+  "maharashtra-fda-suspends-nair-hospital-canteen-olympia-coffe": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "hospital|maharashtra|mp",
+    "norm": 67.6
   },
-  "disha-salian-case-raut-backs-aaditya-says-cbi-fir-attempt-to": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "bomb|death|high court|mp",
-    "norm": 71.6
+  "tmc-vs-tmc-ec-freezes-party-name-symbol-for-both-factions-ah": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "election|election|poll",
+    "norm": 61.4
   },
-  "fire-and-rescue-force-s-swift-response-to-emergencies-its-bi": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "disaster|fire|fire|minister|rescue|rescue",
-    "norm": 71.5
+  "india-reliable-amp-prepared-destination-to-meet-new-global-m": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "modi|modi|mp",
+    "norm": 61.4
   },
-  "macroeconomics-of-pm-modi-s-birthday-how-sept-17-comes-as-an": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "crore|modi|modi|mp",
-    "norm": 68
+  "-europe-canada-are-stronger-together-carney-after-trump-call": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
   },
-  "gurugram-hit-and-run-2-km-chase-after-overnight-club-party-p": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "crash|crash|exam",
-    "norm": 66
-  },
-  "28-year-old-hyderabad-civil-engineer-dies-in-us-days-after-w": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "died|jaishankar|wedding",
-    "norm": 64.2
-  },
-  "e-m-sudarsana-natchiappan-former-union-minister-and-senior-c": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "congress|election|election|lok sabha|minister",
-    "norm": 62.9
-  },
-  "tata-trusts-dissents-to-reappointment-of-n-chandrasekaran-as": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "election|election|record",
-    "norm": 62.8
-  },
-  "pm-modi-turns-76-from-pahadi-cap-to-bengali-dhoti-how-his-at": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "brics|modi|modi|summit",
-    "norm": 61.8
-  },
-  "congress-rejects-claim-that-party-mps-backed-upi-fee": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "congress|mp|parliament|war",
-    "norm": 61.8
-  },
-  "-of-birthdays-and-same-to-yous-pm-modi-shares-video-on-insta": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "modi|modi|video",
-    "norm": 61.1
-  },
-  "big-battle-breaks-out-tata-trusts-call-reappointment-of-chan": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "mp|opposition|rbi",
+  "man-attacks-wife-with-machete-suspected-acid-in-bengaluru-s-": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "attack|attack",
     "norm": 59.3
   },
-  "indian-man-found-dead-in-us-home-17-days-after-marriage-fami": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "dead|dead",
-    "norm": 57.6
+  "supreme-court-agrees-to-give-precedence-in-hearing-plea-agai": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "lakh|supreme court|vote",
+    "norm": 59.3
   },
-  "no-proposal-from-nse-seeking-approval-for-trading-on-its-own": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "exam|mp",
+  "congress-top-brass-warns-state-leaders-not-to-make-statement": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "congress|war",
     "norm": 57.1
   },
-  "supreme-court-to-tamil-nadu-change-mindset-on-hindi-mandates": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "opposition|policy|ruling|supreme court",
-    "norm": 53.9
+  "rohit-s-record-broken-virat-s-equalled-list-of-abhishek-shar": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "captain|record|rohit|sharma",
+    "norm": 54.3
   },
-  "supreme-court-asks-cbse-to-consider-implementing-3-language-": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "mp|policy|supreme court",
-    "norm": 52.7
+  "debate-rages-over-plan-to-shift-thiruvananthapuram-zoo-in-ke": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
   },
-  "mea-monitoring-developments-of-russia-sanctions-bill-in-u-s-": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "bill|congress|mp|president|sanction",
-    "norm": 52.6
+  "eci-reserves-tmc-symbol-amid-dispute-asks-mamata-ritabrata-f": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "mamata|poll",
+    "norm": 50.5
   },
-  "nashik-stray-dog-menace-protesters-release-puppies-on-civic-": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "arunachal-cm-denies-using-might-for-proposed-mega-dam-on-sia": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "fund|khan",
-    "norm": 51.7
-  },
-  "karnataka-cm-and-colleagues-to-go-to-cabinet-meeting-in-mang": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "cabinet|minister|mp",
-    "norm": 50.9
-  },
-  "politics-to-prime-video-after-bjp-exit-shehzad-poonawalla-jo": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "bjp|video",
-    "norm": 50.2
-  },
-  "delhi-hc-declines-centre-s-appeal-over-20-lakh-release-to-ch": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "fund|lakh",
-    "norm": 48.7
-  },
-  "thunderstorm-forecast-in-25-telangana-districts-on-september": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "storm",
+  "kseab-to-provide-question-papers-for-sslc-mid-term-exams": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "exam",
     "norm": 46.3
   },
-  "-chennai-shouldn-t-alienate-delhi-vice-versa-sc-on-tamil-nad": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "supreme court",
+  "16-year-old-girl-gang-raped-by-4-teens-found-stabbed-to-deat": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "death",
+    "norm": 46.3
+  },
+  "tmc-vs-tmc-ec-bars-both-factions-from-using-party-symbol-nam": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "poll",
     "norm": 45.9
   },
-  "-all-beings-are-equal-by-birth-vijay-administers-social-just": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "minister",
+  "oil-india-plans-to-spend-15-000-crore-for-deepwater-explorat": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "crore",
     "norm": 45.9
   },
-  "breaking-n-chandrasekaran-to-continue-as-tata-sons-chairman-": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "vote",
-    "norm": 45.9
+  "govt-puts-25-coal-blocks-on-sale-in-16th-round-of-commercial": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "khan",
+    "norm": 44.3
   },
-  "andhra-saw-the-el-ni-o-drought-coming-in-february-farmers-st": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "president",
-    "norm": 44
-  },
-  "why-construct-new-secretariat-complex-when-t-n-is-facing-fin": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
+  "decomposed-body-of-woman-found-in-car-in-ernakulam": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
     "signature": "mp",
     "norm": 44
   },
-  "delhi-high-court-asks-cbfc-to-decide-on-mirzapur-producer-s-": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
+  "kerala-high-court-directs-railways-to-shift-electrical-infra": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
     "signature": "high court",
     "norm": 44
   },
-  "govt-proposes-mandatory-cctv-to-monitor-unauthorised-sale-of": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
-    "signature": "cctv",
-    "norm": 40.7
+  "panchayats-facing-crisis-as-material-costs-for-mgnregs-in-pr": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "crore",
+    "norm": 44
   },
-  "boy-s-body-found-search-on-for-father-uncle-who-swept-away-i": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
+  "manapparai-society-increases-sale-price-of-milk-by-5-a-litre": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "price",
+    "norm": 44
+  },
+  "ktr-three-others-to-appear-before-acb-court-in-formula-e-cas": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
     "signature": "",
     "norm": 36
   },
-  "tata-sons-statement-on-n-chandrasekaran-s-reappointment-as-c": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
+  "drought-hit-taluks-rise-to-124-with-23-more-additions": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "",
+    "norm": 36
+  },
+  "meet-tilcayo-tiny-wild-cat-discovered-in-bolivia-s-forests-a": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "",
+    "norm": 36
+  },
+  "india-secures-eu-steel-quota-seafood-and-shipbreaking-conces": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
+    "signature": "",
+    "norm": 36
+  },
+  "pac-pulls-up-railways-over-gaps-in-passenger-amenities-despi": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
     "signature": "",
     "norm": 33.9
   },
-  "kerala-state-women-s-commission-raises-concerns-on-safety-of": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
+  "revenue-officials-begin-verification-of-lands-at-kcr-s-errav": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
     "signature": "",
     "norm": 33.9
   },
-  "tirupati-bids-farewell-to-ganesha-at-vinayaka-sagar-on-third": {
-    "firstSeen": "2026-09-17T11:36:27.043Z",
+  "bengaluru-varthur-gunjur-congestion-leaves-schoolchildren-st": {
+    "firstSeen": "2026-09-17T16:53:09.233Z",
     "signature": "",
     "norm": 33.9
   }
