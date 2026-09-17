@@ -1,112 +1,112 @@
 {
-  "exercise-restraint-mirwaiz-on-reported-drone-attack-near-mec": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "attack|attack|diplomacy|drone|ipl",
-    "norm": 81
+  "nia-court-issues-arrest-warrant-against-pakistan-based-let-c": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "attack|attack|killed|killed|pakistan|terror|terror|war",
+    "norm": 83.4
   },
-  "pm-modi-likely-to-hold-two-day-cabinet-huddle-soon-amid-resh": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "cabinet|modi|modi|mp|storm",
+  "2-pakistani-jaish-terrorists-killed-in-j-k-s-udhampur-arms-a": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "killed|killed|mp|pakistan|terror|terror",
+    "norm": 81.3
+  },
+  "us-committed-war-crimes-in-2-deadly-strikes-on-iranian-schoo": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "dead|dead|death|iran|result|war",
+    "norm": 80.2
+  },
+  "india-responds-to-us-tariff-threat-over-russian-oil-mea-vows": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "iran|mp|president|sanction|threat",
     "norm": 73.6
   },
-  "how-rahul-gandhi-rajnath-singh-kiren-rijiju-others-wished-pm": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "defence|minister|modi|modi|rahul gandhi|war",
-    "norm": 73
+  "breaking-j-k-dgp-orders-property-attachment-of-2-pakistan-ba": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "pakistan|terror|terror|war",
+    "norm": 72.6
   },
-  "ed-raids-ex-haryana-minister-gopal-kanda-in-pmla-case-linked": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "crore|fraud|investor|minister|mla",
+  "fortis-moves-supreme-court-against-delhi-high-court-order": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "deal|high court|rbi|supreme court|war",
     "norm": 72
   },
-  "bengaluru-man-s-song-on-crumbling-infrastructure-potholes-fl": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "chief minister|flood|flood|minister|mp",
-    "norm": 69
+  "from-new-schemes-to-infrastructure-push-how-narendra-modi-ce": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "minister|modi|modi|prime minister|war",
+    "norm": 72
   },
-  "namma-metro-pink-line-may-miss-september-deadline-as-approva": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "dead|dead|sanction",
-    "norm": 67.6
+  "disha-salian-case-raut-backs-aaditya-says-cbi-fir-attempt-to": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "bomb|death|high court|mp",
+    "norm": 71.6
   },
-  "opposition-leaders-wish-pm-modi-on-his-76th-birthday-leads-n": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "minister|modi|modi|opposition|prime minister",
-    "norm": 64.6
+  "fire-and-rescue-force-s-swift-response-to-emergencies-its-bi": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "disaster|fire|fire|minister|rescue|rescue",
+    "norm": 71.5
   },
-  "-serious-imputation-on-credibility-disha-salian-s-father-sla": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "crore|death|mp",
-    "norm": 63.9
+  "macroeconomics-of-pm-modi-s-birthday-how-sept-17-comes-as-an": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "crore|modi|modi|mp",
+    "norm": 68
   },
-  "bribery-case-bombay-hc-sets-aside-spl-court-s-bail-to-3-incl": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "bomb|gst|high court",
-    "norm": 63.9
+  "gurugram-hit-and-run-2-km-chase-after-overnight-club-party-p": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "crash|crash|exam",
+    "norm": 66
   },
-  "-every-blessing-strengthens-my-resolve-pm-modi-hails-aashirw": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "bjp|modi|modi|mp",
+  "28-year-old-hyderabad-civil-engineer-dies-in-us-days-after-w": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "died|jaishankar|wedding",
+    "norm": 64.2
+  },
+  "e-m-sudarsana-natchiappan-former-union-minister-and-senior-c": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "congress|election|election|lok sabha|minister",
+    "norm": 62.9
+  },
+  "tata-trusts-dissents-to-reappointment-of-n-chandrasekaran-as": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "election|election|record",
+    "norm": 62.8
+  },
+  "pm-modi-turns-76-from-pahadi-cap-to-bengali-dhoti-how-his-at": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "brics|modi|modi|summit",
     "norm": 61.8
   },
-  "apple-executive-vivek-tiwari-s-killing-by-up-cop-verdict-in-": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "verdict|war|watch",
+  "congress-rejects-claim-that-party-mps-backed-upi-fee": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "congress|mp|parliament|war",
+    "norm": 61.8
+  },
+  "-of-birthdays-and-same-to-yous-pm-modi-shares-video-on-insta": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "modi|modi|video",
     "norm": 61.1
   },
-  "parliament-standing-committee-didn-t-discuss-mdr-charges-on-": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "actor|congress|mp|parliament",
-    "norm": 60
+  "big-battle-breaks-out-tata-trusts-call-reappointment-of-chan": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "mp|opposition|rbi",
+    "norm": 59.3
   },
-  "-good-health-and-a-long-life-rahul-gandhi-wishes-pm-modi-on-": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "modi|modi|rahul gandhi",
-    "norm": 59.7
+  "indian-man-found-dead-in-us-home-17-days-after-marriage-fami": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "dead|dead",
+    "norm": 57.6
   },
-  "sports-city-it-park-cctv-camera-network-among-projects-for-k": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "cctv|chief minister|minister",
-    "norm": 56.4
+  "no-proposal-from-nse-seeking-approval-for-trading-on-its-own": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "exam|mp",
+    "norm": 57.1
   },
-  "shillong-teer-result-today-september-17-2026-winning-numbers": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "khan|result",
-    "norm": 55.7
+  "supreme-court-to-tamil-nadu-change-mindset-on-hindi-mandates": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "opposition|policy|ruling|supreme court",
+    "norm": 53.9
   },
-  "from-sombre-to-comic-the-infinite-range-of-anant-nag": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "actor|war",
-    "norm": 55.7
-  },
-  "t-n-cm-vijay-returns-from-u-k-with-15-300-crore-investment-c": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "crore|mp",
-    "norm": 55
-  },
-  "keesara-sho-si-caught-in-acb-case-over-5-lakh-bribe": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "lakh|mp",
-    "norm": 55
-  },
-  "bombay-court-allows-correction-of-school-records-even-after-": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "bomb|record",
-    "norm": 54.2
-  },
-  "mumbai-police-seek-clarification-from-manoj-jarange-over-con": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "agentic-ai-is-not-a-magic-wand-arundhati-bhattacharya-presid": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "actor|president",
-    "norm": 53.5
-  },
-  "devotees-gather-in-thousands-for-historic-consecration-of-me": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "minister|mp|vote",
+  "supreme-court-asks-cbse-to-consider-implementing-3-language-": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "mp|policy|supreme court",
     "norm": 52.7
   },
   "mea-monitoring-developments-of-russia-sanctions-bill-in-u-s-": {
@@ -114,58 +114,88 @@
     "signature": "bill|congress|mp|president|sanction",
     "norm": 52.6
   },
-  "-misleading-malicious-mea-fact-checks-reports-claiming-sever": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "brics|summit",
-    "norm": 50.5
+  "nashik-stray-dog-menace-protesters-release-puppies-on-civic-": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "cctv-at-pharmacies-centre-proposes-surveillance-for-prescrip": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "cctv|deal",
+  "arunachal-cm-denies-using-might-for-proposed-mega-dam-on-sia": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "fund|khan",
+    "norm": 51.7
+  },
+  "karnataka-cm-and-colleagues-to-go-to-cabinet-meeting-in-mang": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "cabinet|minister|mp",
+    "norm": 50.9
+  },
+  "politics-to-prime-video-after-bjp-exit-shehzad-poonawalla-jo": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "bjp|video",
     "norm": 50.2
   },
-  "ex-bjp-mla-dismissed-cop-booked-for-gang-raping-22-year-old-": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "bjp|mla",
+  "delhi-hc-declines-centre-s-appeal-over-20-lakh-release-to-ch": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "fund|lakh",
     "norm": 48.7
   },
-  "influenza-leptospirosis-emerge-as-major-killers-this-season-": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "death",
+  "thunderstorm-forecast-in-25-telangana-districts-on-september": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "storm",
     "norm": 46.3
   },
-  "i-m-facing-health-issues-due-to-hunger-strike-tour-might-be-": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "mp",
+  "-chennai-shouldn-t-alienate-delhi-vice-versa-sc-on-tamil-nad": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "supreme court",
     "norm": 45.9
   },
-  "oklahoma-begins-408-million-replacement-of-81-year-old-lake-": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
+  "-all-beings-are-equal-by-birth-vijay-administers-social-just": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "breaking-n-chandrasekaran-to-continue-as-tata-sons-chairman-": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "vote",
+    "norm": 45.9
+  },
+  "andhra-saw-the-el-ni-o-drought-coming-in-february-farmers-st": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "president",
+    "norm": 44
+  },
+  "why-construct-new-secretariat-complex-when-t-n-is-facing-fin": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
     "signature": "mp",
     "norm": 44
   },
-  "anto-augustine-arrested-by-excise-in-abkari-case": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
+  "delhi-high-court-asks-cbfc-to-decide-on-mirzapur-producer-s-": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "high court",
+    "norm": 44
+  },
+  "govt-proposes-mandatory-cctv-to-monitor-unauthorised-sale-of": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "cctv",
+    "norm": 40.7
+  },
+  "boy-s-body-found-search-on-for-father-uncle-who-swept-away-i": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
     "signature": "",
     "norm": 36
   },
-  "oman-pitches-new-port-that-could-give-india-better-access-to": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "",
-    "norm": 36
-  },
-  "former-australian-miner-spotted-saturn-ripple-helped-discove": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
-    "signature": "",
-    "norm": 36
-  },
-  "montana-protects-34-610-acres-next-phase-could-create-47-907": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
+  "tata-sons-statement-on-n-chandrasekaran-s-reappointment-as-c": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
     "signature": "",
     "norm": 33.9
   },
-  "-speeding-at-over-100-km-h-man-crossing-road-with-his-birthd": {
-    "firstSeen": "2026-09-17T06:04:44.085Z",
+  "kerala-state-women-s-commission-raises-concerns-on-safety-of": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "tirupati-bids-farewell-to-ganesha-at-vinayaka-sagar-on-third": {
+    "firstSeen": "2026-09-17T11:36:27.043Z",
     "signature": "",
     "norm": 33.9
   }
