@@ -1,41 +1,36 @@
 {
-  "-we-re-the-best-credit-trump-fumes-after-1st-fed-rate-hike-i": {
-    "firstSeen": "2026-09-16T22:05:06.436Z",
-    "signature": "mp|president|row|trump|trump",
-    "norm": 72
+  "us-fed-hikes-rates-to-tackle-inflation-trump-slams-move-as-h": {
+    "firstSeen": "2026-09-17T00:28:46.451Z",
+    "signature": "inflation|iran|mp|price|prices|slam|slams|trump|trump|war",
+    "norm": 94.9
+  },
+  "jharkhand-congress-takes-out-protest-march-demanding-separat": {
+    "firstSeen": "2026-09-17T00:28:46.451Z",
+    "signature": "congress|governor|khan|policy|protest|protest",
+    "norm": 74
+  },
+  "j-k-mlas-decry-18-representation-to-kashmir-valley-in-ut-off": {
+    "firstSeen": "2026-09-17T00:28:46.451Z",
+    "signature": "cry|exam|mla|mp",
+    "norm": 70
   },
   "govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf": {
     "firstSeen": "2026-09-16T22:05:06.436Z",
     "signature": "diesel|petrol|petrol|tax",
     "norm": 61.8
   },
-  "us-contracted-vessel-hit-by-iranian-missiles-near-strait-of-": {
-    "firstSeen": "2026-09-16T22:05:06.436Z",
-    "signature": "drone|iran|mp",
-    "norm": 61.1
+  "factbox-ai-rivalry-hangs-over-trump-xi-talks": {
+    "firstSeen": "2026-09-17T00:28:46.451Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
   },
-  "don-t-trust-centre-unless-it-s-a-written-deal-j-amp-k-cm-tel": {
-    "firstSeen": "2026-09-16T22:05:06.436Z",
-    "signature": "deal|mp",
-    "norm": 53.2
+  "himachal-s-policy-uncompromising-toward-those-involved-in-il": {
+    "firstSeen": "2026-09-17T00:28:46.451Z",
+    "signature": "mp|policy|war",
+    "norm": 59.7
   },
-  "rajasthan-achieves-plantation-target-ahead-of-schedule": {
-    "firstSeen": "2026-09-16T22:05:06.436Z",
-    "signature": "crore",
-    "norm": 45.9
-  },
-  "j-amp-k-cop-accused-of-sexually-exploiting-constable-gets-ba": {
-    "firstSeen": "2026-09-16T22:05:06.436Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "matt-holliday-s-62-acre-oklahoma-estate-asks-9-8-million": {
-    "firstSeen": "2026-09-16T22:05:06.436Z",
-    "signature": "star",
-    "norm": 42.4
-  },
-  "indian-couple-win-payout-after-suing-uk-home-office-for-unla": {
-    "firstSeen": "2026-09-16T22:05:06.436Z",
+  "sc-pulls-up-govt-for-denying-disabled-soldiers-their-benefit": {
+    "firstSeen": "2026-09-17T00:28:46.451Z",
     "signature": "",
     "norm": 36
   }
