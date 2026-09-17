@@ -1,151 +1,31 @@
 {
-  "on-pm-modi-s-birthday-youth-congress-gives-government-one-ye": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "congress|lakh|minister|modi|modi|mp|prime minister|protest|protest|war",
-    "norm": 92.2
+  "2-jaish-terrorists-killed-in-j-amp-k-s-udhampur": {
+    "firstSeen": "2026-09-17T20:14:44.015Z",
+    "signature": "killed|killed|mp|terror|terror",
+    "norm": 77.5
   },
-  "west-bengal-police-arrest-top-maoist-leader-akash": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "chief minister|minister|mp|terror|terror",
-    "norm": 73.6
+  "bangladesh-pm-rahman-wishes-pm-modi-on-birthday-wishes-him-g": {
+    "firstSeen": "2026-09-17T20:14:44.015Z",
+    "signature": "minister|modi|modi|mp|opposition|prime minister|war",
+    "norm": 73.5
   },
-  "officially-declared-dead-in-odisha-2-487-workers-come-alive-": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "crore|dead|dead|death",
-    "norm": 72.6
+  "bob-dylan-s-former-harlem-townhouse-sells-for-2-8-million": {
+    "firstSeen": "2026-09-17T20:14:44.015Z",
+    "signature": "mp|row",
+    "norm": 55.4
   },
-  "supreme-court-seeks-manipur-chief-secretary-report-on-25-unn": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "cji|death|mp|slam|slams|supreme court",
-    "norm": 71.1
+  "wall-st-rebounds-after-fed-s-first-rate-hike-in-years-as-oil": {
+    "firstSeen": "2026-09-17T20:14:44.015Z",
+    "signature": "fan",
+    "norm": 42.4
   },
-  "maharashtra-fda-suspends-nair-hospital-canteen-olympia-coffe": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "hospital|maharashtra|mp",
-    "norm": 67.6
-  },
-  "tmc-vs-tmc-ec-freezes-party-name-symbol-for-both-factions-ah": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "election|election|poll",
-    "norm": 61.4
-  },
-  "india-reliable-amp-prepared-destination-to-meet-new-global-m": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "modi|modi|mp",
-    "norm": 61.4
-  },
-  "-europe-canada-are-stronger-together-carney-after-trump-call": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "mp|trump|trump",
-    "norm": 59.7
-  },
-  "man-attacks-wife-with-machete-suspected-acid-in-bengaluru-s-": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "attack|attack",
-    "norm": 59.3
-  },
-  "supreme-court-agrees-to-give-precedence-in-hearing-plea-agai": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "lakh|supreme court|vote",
-    "norm": 59.3
-  },
-  "congress-top-brass-warns-state-leaders-not-to-make-statement": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "congress|war",
-    "norm": 57.1
-  },
-  "rohit-s-record-broken-virat-s-equalled-list-of-abhishek-shar": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "captain|record|rohit|sharma",
-    "norm": 54.3
-  },
-  "debate-rages-over-plan-to-shift-thiruvananthapuram-zoo-in-ke": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "eci-reserves-tmc-symbol-amid-dispute-asks-mamata-ritabrata-f": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "mamata|poll",
-    "norm": 50.5
-  },
-  "kseab-to-provide-question-papers-for-sslc-mid-term-exams": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "exam",
-    "norm": 46.3
-  },
-  "16-year-old-girl-gang-raped-by-4-teens-found-stabbed-to-deat": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "death",
-    "norm": 46.3
-  },
-  "tmc-vs-tmc-ec-bars-both-factions-from-using-party-symbol-nam": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "poll",
-    "norm": 45.9
-  },
-  "oil-india-plans-to-spend-15-000-crore-for-deepwater-explorat": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "crore",
-    "norm": 45.9
-  },
-  "govt-puts-25-coal-blocks-on-sale-in-16th-round-of-commercial": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "khan",
-    "norm": 44.3
-  },
-  "decomposed-body-of-woman-found-in-car-in-ernakulam": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "kerala-high-court-directs-railways-to-shift-electrical-infra": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "high court",
-    "norm": 44
-  },
-  "panchayats-facing-crisis-as-material-costs-for-mgnregs-in-pr": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "crore",
-    "norm": 44
-  },
-  "manapparai-society-increases-sale-price-of-milk-by-5-a-litre": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "price",
-    "norm": 44
-  },
-  "ktr-three-others-to-appear-before-acb-court-in-formula-e-cas": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "",
-    "norm": 36
-  },
-  "drought-hit-taluks-rise-to-124-with-23-more-additions": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "",
-    "norm": 36
-  },
-  "meet-tilcayo-tiny-wild-cat-discovered-in-bolivia-s-forests-a": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "",
-    "norm": 36
-  },
-  "india-secures-eu-steel-quota-seafood-and-shipbreaking-conces": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "",
-    "norm": 36
-  },
-  "pac-pulls-up-railways-over-gaps-in-passenger-amenities-despi": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
+  "new-fault-lines-on-manipur-s-kuki-zo-naga-conflict": {
+    "firstSeen": "2026-09-17T20:14:44.015Z",
     "signature": "",
     "norm": 33.9
   },
-  "revenue-officials-begin-verification-of-lands-at-kcr-s-errav": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "bengaluru-varthur-gunjur-congestion-leaves-schoolchildren-st": {
-    "firstSeen": "2026-09-17T16:53:09.233Z",
+  "prasanna-kumar-acharya-is-new-cmd-of-nlcil": {
+    "firstSeen": "2026-09-17T20:14:44.015Z",
     "signature": "",
     "norm": 33.9
   }
