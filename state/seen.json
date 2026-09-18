@@ -1,122 +1,32 @@
 {
-  "trump-to-sign-russia-sanctions-bill-today-that-threatens-100": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "bill|mp|sanction|threat|trump|trump",
-    "norm": 73
+  "-reporting-fake-news-trump-bars-cnn-ms-now-politico-from-whi": {
+    "firstSeen": "2026-09-18T21:36:59.891Z",
+    "signature": "mp|threat|trump|trump",
+    "norm": 70
   },
-  "-no-company-can-function-in-deadlock-harish-salve-on-tata-so": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "dead|dead|mp",
-    "norm": 66
+  "odisha-revises-schedule-for-ward-delimitation-seat-reservati": {
+    "firstSeen": "2026-09-18T21:36:59.891Z",
+    "signature": "poll|war",
+    "norm": 57.1
   },
-  "cbi-case-against-reliance-capital-anil-ambani-over-lic-inves": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "ambani|fraud|mp",
-    "norm": 64.2
+  "we-saved-trinamool-symbol-from-disgrace-say-leaders-of-ritab": {
+    "firstSeen": "2026-09-18T21:36:59.891Z",
+    "signature": "bjp|mamata|mp|poll",
+    "norm": 52.1
   },
-  "nandigram-bypoll-congress-candidate-milan-pradhan-arrested-h": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "congress|election|election|mamata|poll",
-    "norm": 62.9
+  "meghalaya-ips-officer-injured-in-deliberate-hit-by-two-wheel": {
+    "firstSeen": "2026-09-18T21:36:59.891Z",
+    "signature": "injured",
+    "norm": 48.2
   },
-  "congress-betrayed-allies-sidelined-veterans-brought-down-gov": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "betray|bjp|congress",
-    "norm": 59.7
-  },
-  "india-rejects-pakistan-s-allegations-regarding-collision-of-": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "navy|pakistan|war",
-    "norm": 59.7
-  },
-  "au-distance-education-admission-deadline-extended": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "dead|dead",
-    "norm": 59.3
-  },
-  "tiger-that-killed-two-people-in-o-valley-in-gudalur-captured": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "killed|killed",
-    "norm": 57.6
-  },
-  "sfi-ksu-claim-victory-in-union-elections-at-polytechnic-coll": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "election|election",
-    "norm": 55.4
-  },
-  "telangana-took-pro-active-measures-to-tackle-el-nino-says-de": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "economy|mp",
-    "norm": 55
-  },
-  "interests-of-a-political-party-being-served-says-mamata-afte": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "bjp|chief minister|mamata|minister",
-    "norm": 53.9
-  },
-  "france-s-naval-group-partners-with-nibe-ltd-to-develop-under": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "drone|mp",
-    "norm": 50.2
-  },
-  "un-report-finds-widespread-sexual-violence-in-ukraine-war-89": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
+  "innovation-centre-inaugurated-at-easwari-engineering-college": {
+    "firstSeen": "2026-09-18T21:36:59.891Z",
     "signature": "war",
     "norm": 46.3
   },
-  "southern-states-urged-to-tap-horticulture-export-potential": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "biomed-bharat-2026-mp-calls-upon-youth-to-drive-medtech-inno": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "asian-games-karate-team-leaves-without-coaches-equestrian-ri": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "excise-seizes-suspected-banned-tobacco-products-from-perumba": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "lakh",
-    "norm": 44
-  },
-  "power-outage-complaints-pour-in-from-across-state": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "kerala-hc-directs-kochi-corporation-to-complete-rectificatio": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "america-s-ultimate-luxury-experiences-private-trains-secret-": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "celebrity",
-    "norm": 42.4
-  },
-  "south-african-high-commission-official-visits-andhra-univers": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
+  "every-police-station-in-bihar-to-have-a-child-help-desk-from": {
+    "firstSeen": "2026-09-18T21:36:59.891Z",
     "signature": "",
     "norm": 36
-  },
-  "in-numbers-how-russia-india-energy-dynamics-are-changing": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "charaka-to-hold-gandhi-santhe-on-sept-26-and-27-at-heggodu-i": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "traders-forum-in-keralam-to-boycott-upi-transactions-on-octo": {
-    "firstSeen": "2026-09-18T18:21:48.167Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
