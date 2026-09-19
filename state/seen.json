@@ -1,31 +1,26 @@
 {
-  "-reporting-fake-news-trump-bars-cnn-ms-now-politico-from-whi": {
-    "firstSeen": "2026-09-18T21:36:59.891Z",
-    "signature": "mp|threat|trump|trump",
-    "norm": 70
+  "nitin-nabin-donates-3-month-s-salary-for-flood-relief-in-bih": {
+    "firstSeen": "2026-09-19T00:13:51.623Z",
+    "signature": "flood|flood",
+    "norm": 54.2
   },
-  "odisha-revises-schedule-for-ward-delimitation-seat-reservati": {
-    "firstSeen": "2026-09-18T21:36:59.891Z",
-    "signature": "poll|war",
-    "norm": 57.1
+  "waste-of-public-money-amid-economic-crisis-u-p-congress-on-p": {
+    "firstSeen": "2026-09-19T00:13:51.623Z",
+    "signature": "congress|deal",
+    "norm": 53.2
   },
-  "we-saved-trinamool-symbol-from-disgrace-say-leaders-of-ritab": {
-    "firstSeen": "2026-09-18T21:36:59.891Z",
-    "signature": "bjp|mamata|mp|poll",
-    "norm": 52.1
+  "new-symbols-mamata-gets-football-player-envelope-for-rebel-t": {
+    "firstSeen": "2026-09-19T00:13:51.623Z",
+    "signature": "mamata",
+    "norm": 45.9
   },
-  "meghalaya-ips-officer-injured-in-deliberate-hit-by-two-wheel": {
-    "firstSeen": "2026-09-18T21:36:59.891Z",
-    "signature": "injured",
-    "norm": 48.2
+  "25-youths-in-250-districts-not-in-education-or-jobs-survey": {
+    "firstSeen": "2026-09-19T00:13:51.623Z",
+    "signature": "jobs",
+    "norm": 44
   },
-  "innovation-centre-inaugurated-at-easwari-engineering-college": {
-    "firstSeen": "2026-09-18T21:36:59.891Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "every-police-station-in-bihar-to-have-a-child-help-desk-from": {
-    "firstSeen": "2026-09-18T21:36:59.891Z",
+  "shapoorji-pallonji-group-with-18-4-tata-sons-stake-backs-its": {
+    "firstSeen": "2026-09-19T00:13:51.623Z",
     "signature": "",
     "norm": 36
   }
