@@ -1,27 +1,122 @@
 {
-  "nitin-nabin-donates-3-month-s-salary-for-flood-relief-in-bih": {
-    "firstSeen": "2026-09-19T00:13:51.623Z",
-    "signature": "flood|flood",
-    "norm": 54.2
+  "-can-t-afford-petrol-pakistan-pti-lawmakers-ride-donkey-cart": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "diesel|fuel|mp|pakistan|petrol|petrol|price|prices|protest|protest|rupee",
+    "norm": 90.1
   },
-  "waste-of-public-money-amid-economic-crisis-u-p-congress-on-p": {
-    "firstSeen": "2026-09-19T00:13:51.623Z",
-    "signature": "congress|deal",
-    "norm": 53.2
+  "iit-bombay-student-found-dead-in-hostel-institute-says-had-b": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "bomb|dead|dead|exam",
+    "norm": 74.6
   },
-  "new-symbols-mamata-gets-football-player-envelope-for-rebel-t": {
-    "firstSeen": "2026-09-19T00:13:51.623Z",
-    "signature": "mamata",
+  "if-two-employees-do-the-same-work-should-they-get-equal-pay-": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "actor|exam|ipl|mp|supreme court",
+    "norm": 73.3
+  },
+  "caught-using-chatgpt-in-exam-iit-bombay-student-kills-self-p": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "bomb|exam|protest|protest",
+    "norm": 73.3
+  },
+  "dusu-election-results-2026-live-abvp-leads-for-president-sec": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "election|election|poll|president|result|results|results|vote",
+    "norm": 71.8
+  },
+  "hugs-kisses-before-tragedy-indian-origin-woman-jumped-to-sav": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "killed|killed|mp|tragedy",
+    "norm": 71
+  },
+  "iit-bombay-student-warned-of-1-year-suspension-for-using-cha": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "bomb|exam|war",
+    "norm": 69.6
+  },
+  "-how-is-it-a-book-on-cinema-kishore-kumar-biography-s-nation": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "film|high court|war",
+    "norm": 62.5
+  },
+  "nepal-disaster-impact-sikkim-high-court-initiates-pil-on-cli": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "disaster|high court|mp",
+    "norm": 61.4
+  },
+  "ribcage-visible-arm-cut-off-police-assumed-raped-delhi-teen-": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "death|mp|war",
+    "norm": 60.8
+  },
+  "jpc-members-question-centre-on-foreign-funds-asset-takeover-": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "fund|mp|opposition",
+    "norm": 57.6
+  },
+  "shillong-teer-result-today-september-19-2026-winning-numbers": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "khan|result",
+    "norm": 55.7
+  },
+  "equal-work-alone-not-enough-to-claim-equal-pay-supreme-court": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "recruitment|supreme court",
+    "norm": 55.4
+  },
+  "nithari-acquittee-surendra-koli-changed-name-to-sada-ram-wor": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "death|row|war",
+    "norm": 54.9
+  },
+  "dc-cricketer-gets-bail-in-alleged-rape-case-after-more-than-": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "cricket|cricketer",
+    "norm": 53.9
+  },
+  "nandigram-by-poll-a-reset-for-mamata-and-congress-ties": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "congress|mamata|opposition|poll",
+    "norm": 52.1
+  },
+  "mamata-banerjee-moves-supreme-court-against-eci-freeze-on-tm": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "mamata|supreme court",
+    "norm": 48.7
+  },
+  "at-unbound-art-exhibition-in-thiruvananthapuram-the-mortal-a": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "cry",
+    "norm": 46.3
+  },
+  "weather-bee-where-is-monsoon-2026-ending-": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "weather",
+    "norm": 46.3
+  },
+  "can-a-muslim-minor-marry-under-personal-law-what-courts-have": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "high court",
     "norm": 45.9
   },
-  "25-youths-in-250-districts-not-in-education-or-jobs-survey": {
-    "firstSeen": "2026-09-19T00:13:51.623Z",
-    "signature": "jobs",
+  "fcra-amendments-not-against-any-community-centre-tells-house": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "mp",
     "norm": 44
   },
-  "shapoorji-pallonji-group-with-18-4-tata-sons-stake-backs-its": {
-    "firstSeen": "2026-09-19T00:13:51.623Z",
+  "montana-family-s-57-acre-wildlife-haven-protected-forever": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "record",
+    "norm": 42.7
+  },
+  "cmrl-exalogic-pay-off-case-keralam-advocate-general-recommen": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
+  },
+  "bangladesh-pm-tarique-rahman-likely-to-visit-india-in-novemb": {
+    "firstSeen": "2026-09-19T05:46:05.663Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
