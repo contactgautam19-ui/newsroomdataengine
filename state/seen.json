@@ -1,121 +1,166 @@
 {
-  "-can-t-afford-petrol-pakistan-pti-lawmakers-ride-donkey-cart": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "diesel|fuel|mp|pakistan|petrol|petrol|price|prices|protest|protest|rupee",
-    "norm": 90.1
+  "iit-bombay-faces-fir-after-student-s-death-chatgpt-exam-row-": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "bomb|death|exam|ipl|mp|protest|protest|row|threat",
+    "norm": 95.1
   },
-  "iit-bombay-student-found-dead-in-hostel-institute-says-had-b": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "bomb|dead|dead|exam",
-    "norm": 74.6
+  "iit-bombay-student-death-sparks-questions-over-academic-pres": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "bomb|death|died|exam|protest|protest|tragic",
+    "norm": 81.8
   },
-  "if-two-employees-do-the-same-work-should-they-get-equal-pay-": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "actor|exam|ipl|mp|supreme court",
+  "iit-bombay-charged-with-abetment-of-suicide-after-student-s-": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "bomb|death|exam|mp|row",
+    "norm": 80.7
+  },
+  "bjd-protests-upi-changes-says-centre-should-fund-digital-pay": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "fund|mp|protest|protest|rupee",
     "norm": 73.3
   },
-  "caught-using-chatgpt-in-exam-iit-bombay-student-kills-self-p": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "bomb|exam|protest|protest",
-    "norm": 73.3
+  "former-vice-president-hamid-ansari-invokes-nehru-warning-on-": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "minister|president|prime minister|war|warning",
+    "norm": 72
   },
-  "dusu-election-results-2026-live-abvp-leads-for-president-sec": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "election|election|poll|president|result|results|results|vote",
-    "norm": 71.8
+  "-jhooth-nahi-bolunga-rohit-reveals-comfort-food-he-craved-du": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "captain|match|mp|rohit|sharma",
+    "norm": 67.7
   },
-  "hugs-kisses-before-tragedy-indian-origin-woman-jumped-to-sav": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "killed|killed|mp|tragedy",
-    "norm": 71
+  "-we-do-not-operate-under-pressure-govt-on-trump-s-russia-san": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "bill|mp|sanction|trump|trump",
+    "norm": 64.6
   },
-  "iit-bombay-student-warned-of-1-year-suspension-for-using-cha": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "bomb|exam|war",
-    "norm": 69.6
+  "-true-partnership-rebel-trinamool-mp-saayoni-ghosh-bats-for-": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "alliance|congress|mp|poll|storm",
+    "norm": 62.9
   },
-  "-how-is-it-a-book-on-cinema-kishore-kumar-biography-s-nation": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "film|high court|war",
-    "norm": 62.5
+  "t-n-government-writes-to-pm-modi-seeking-to-change-the-opera": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "chief minister|minister|modi|modi|mp",
+    "norm": 62.9
   },
-  "nepal-disaster-impact-sikkim-high-court-initiates-pil-on-cli": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "disaster|high court|mp",
-    "norm": 61.4
+  "trump-extends-100-000-h-1b-fee-for-another-year-what-it-mean": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
   },
-  "ribcage-visible-arm-cut-off-police-assumed-raped-delhi-teen-": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "death|mp|war",
-    "norm": 60.8
+  "illinois-approves-first-permit-for-18-billion-data-centre-ca": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "bill|billion|mp",
+    "norm": 59.3
   },
-  "jpc-members-question-centre-on-foreign-funds-asset-takeover-": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "fund|mp|opposition",
+  "us-tightens-h-1b-scrutiny-employers-with-layoffs-face-closer": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "layoff|layoffs|mp",
     "norm": 57.6
   },
-  "shillong-teer-result-today-september-19-2026-winning-numbers": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "khan|result",
-    "norm": 55.7
+  "opinion-modi-at-76-the-year-india-became-an-arms-exporter": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "modi|modi",
+    "norm": 57.1
   },
-  "equal-work-alone-not-enough-to-claim-equal-pay-supreme-court": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "recruitment|supreme court",
-    "norm": 55.4
+  "despite-zoonotic-diseases-threat-keralam-s-proposed-veterina": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "cabinet|threat",
+    "norm": 57.1
   },
-  "nithari-acquittee-surendra-koli-changed-name-to-sada-ram-wor": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "death|row|war",
-    "norm": 54.9
+  "keralam-power-crisis-suresh-gopi-says-previous-governments-t": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "bjp|deal",
+    "norm": 55
   },
-  "dc-cricketer-gets-bail-in-alleged-rape-case-after-more-than-": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "cricket|cricketer",
-    "norm": 53.9
+  "1965-indo-pak-war-hero-flight-lieutenant-a-t-cooke-dies-iaf-": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "war",
+    "norm": 48.2
   },
-  "nandigram-by-poll-a-reset-for-mamata-and-congress-ties": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "congress|mamata|opposition|poll",
-    "norm": 52.1
+  "assam-salutes-cultural-icon-zubeen-garg-on-his-first-death-a": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "death",
+    "norm": 48.2
   },
-  "mamata-banerjee-moves-supreme-court-against-eci-freeze-on-tm": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "mamata|supreme court",
-    "norm": 48.7
+  "rash-driving-injures-four-near-greater-noida-college-driver-": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "hospital",
+    "norm": 48.2
   },
-  "at-unbound-art-exhibition-in-thiruvananthapuram-the-mortal-a": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "cry",
+  "india-sends-fresh-tranche-of-relief-material-to-nepal": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "disaster",
     "norm": 46.3
   },
-  "weather-bee-where-is-monsoon-2026-ending-": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "weather",
+  "mumbai-s-ganeshotsav-grand-pandals-emotional-darshan-modak-m": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "emotional",
     "norm": 46.3
   },
-  "can-a-muslim-minor-marry-under-personal-law-what-courts-have": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "high court",
+  "jennifer-winget-gears-up-for-an-indian-wedding": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "actress|wedding",
+    "norm": 46.3
+  },
+  "retired-madras-hc-judge-relinquishes-3-lakh-monthly-honorari": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "lakh",
     "norm": 45.9
   },
-  "fcra-amendments-not-against-any-community-centre-tells-house": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
+  "russia-should-respond-to-us-sanctions-with-military-deterren": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "sanction",
+    "norm": 45.9
+  },
+  "delhi-international-airport-to-reopen-third-runway-for-opera": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
     "signature": "mp",
     "norm": 44
   },
-  "montana-family-s-57-acre-wildlife-haven-protected-forever": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
-    "signature": "record",
-    "norm": 42.7
+  "government-can-bear-cost-of-maintaining-upi-network-bjd-mp-s": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "cmrl-exalogic-pay-off-case-keralam-advocate-general-recommen": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
+  "priced-out-of-gurugram-see-where-middle-class-homebuyers-are": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "price",
+    "norm": 44
+  },
+  "amendments-made-to-industrial-land-allotment-regulations-in-": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "",
+    "norm": 36
+  },
+  "the-hindu-foundation-day-marked-at-hyderabad-school": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "",
+    "norm": 36
+  },
+  "mit-robot-built-a-working-laser-cavity-in-under-30-minutes": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "",
+    "norm": 36
+  },
+  "with-southern-states-in-the-same-boat-karnataka-turns-to-ass": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "",
+    "norm": 36
+  },
+  "buying-a-home-in-us-how-0-down-usda-mortgage-works-and-who-c": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
     "signature": "",
     "norm": 33.9
   },
-  "bangladesh-pm-tarique-rahman-likely-to-visit-india-in-novemb": {
-    "firstSeen": "2026-09-19T05:46:05.663Z",
+  "egg-freezing-trend-experts-explain-age-timing-future-pregnan": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "2-workers-die-after-falling-from-19th-floor-at-gurugram-cons": {
+    "firstSeen": "2026-09-19T10:51:01.292Z",
     "signature": "",
     "norm": 33.9
   }
