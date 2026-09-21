@@ -1,86 +1,301 @@
 {
-  "two-workers-killed-in-fire-at-tyre-oil-factory-in-up": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "actor|fire|fire|killed|killed",
-    "norm": 75
+  "satya-niketan-building-collapse-case-court-denies-bail-to-ha": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "building collapse|collapse|collapse|collapse|death",
+    "norm": 73.7
   },
-  "tamil-nadu-bypolls-after-dmk-s-plaint-to-ec-tvk-drops-leader": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "alliance|mp|poll|star",
-    "norm": 60
+  "-making-such-statements-to-gloss-over-their-own-non-performa": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "aap|fund|slam|slams",
+    "norm": 69
   },
-  "getting-away-from-gunshots": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "israel|war",
-    "norm": 59.3
+  "el-nino-ties-record-intensity-what-3-07-c-pacific-warming-me": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "record|war|weather",
+    "norm": 66
   },
-  "hyderabad-s-paradise-shamirpet-elevated-corridor-hopes-to-ta": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "ipl|mp",
-    "norm": 57.1
+  "un-scrambles-to-avoid-a-repeat-of-trump-2025-escalator-snafu": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "mp|trump|trump",
+    "norm": 62.5
   },
-  "businessline-s-8th-changemaker-awards-to-be-presented-by-fin": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "minister|war",
+  "gracie-mansion-meeting-zohran-mamdani-hosts-donald-trump-in-": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "mp|trump|trump",
+    "norm": 62.5
+  },
+  "enrol-eligible-workers-before-oct-31-deadline-epfo-to-firms": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "dead|dead",
+    "norm": 62.1
+  },
+  "what-does-haryana-congres-three-month-performance-deadline-m": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "dead|dead",
+    "norm": 60.4
+  },
+  "trump-inaugurates-new-white-house-south-lawn-helipad-departs": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
+  },
+  "-one-of-my-favorite-places-in-the-world-trump-heads-to-graci": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
+  },
+  "distressed-software-firm-symplr-to-get-injection-from-privat": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "mp|war",
+    "norm": 58.3
+  },
+  "himachal-congress-mla-seeks-increase-in-support-price-for-ap": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "congress|mla|price",
+    "norm": 57.6
+  },
+  "agri-minister-rana-stresses-skills-jobs-for-haryana-youth": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "jobs|minister",
+    "norm": 56.1
+  },
+  "sanitation-workers-protest-over-waste-management-project-in-": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "protest|protest",
     "norm": 55.4
   },
-  "supreme-court-orders-fresh-probe-into-2012-rape-murder-near-": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "mp|supreme court",
-    "norm": 50.5
+  "shimla-administration-suspends-blasting-permission-for-tunne": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "blast|mla",
+    "norm": 55.4
   },
-  "assembly-witnesses-blame-game-on-origin-of-kasturirangan-rep": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "iran",
-    "norm": 48.2
+  "-i-am-truly-incredibly-happy-actor-kartik-aaryan-expresses-h": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "actor|war",
+    "norm": 53.9
   },
-  "assistant-professor-recruitment-candidates-demand-independen": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "recruitment",
-    "norm": 48.2
+  "-grateful-to-be-a-part-of-these-awards-randeep-hooda-arrives": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "film|war",
+    "norm": 53.9
   },
-  "tamil-nadu-explains-to-cauvery-authority-the-rationale-behin": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "ipl",
-    "norm": 48.2
+  "manipal-health-clears-5-310-crore-debt-using-ipo-proceeds-ey": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "crore|ipo",
+    "norm": 53.5
   },
-  "sit-files-chargesheet-in-sai-krishna-s-alleged-custodial-dea": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "death",
-    "norm": 46.3
+  "-incompetent-uneducated-congress-rashid-alvi-targets-bjp-cm-": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "bjp|congress|mp",
+    "norm": 50.9
   },
-  "ntr-collector-launches-operation-trishul-to-combat-drug-usag": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "accident",
-    "norm": 46.3
+  "a-lumpsum-is-not-a-paycheck-what-indians-get-wrong-after-ret": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "mp",
+    "norm": 49
   },
-  "g-palanithurai-appointed-adviser-to-minister-anand": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
+  "mahayuti-minister-mangal-prabhat-lodha-is-suppressing-voice-": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "minister",
+    "norm": 49
+  },
+  "india-v4-countries-agree-to-deepen-political-economic-and-de": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "defence|jaishankar",
+    "norm": 48.7
+  },
+  "selja-urges-congress-workers-to-raise-issues-concerning-publ": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "congress",
+    "norm": 47.1
+  },
+  "ryan-reynolds-aviation-gin-610-million-diageo-deal-ryan-reyn": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "deal",
+    "norm": 47.1
+  },
+  "tsx-gains-powered-by-tech-financial-stocks": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "stocks",
+    "norm": 47.1
+  },
+  "sbsp-chief-rajbhar-claim-on-u-p-division-ignites-fresh-debat": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "opposition",
+    "norm": 47.1
+  },
+  "-upcoming-superpower-four-european-v4-nations-back-india-s-p": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
     "signature": "minister",
     "norm": 45.9
   },
-  "it-may-be-time-for-thirumavalavan-to-lead-alliance-in-2031-v": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "alliance",
-    "norm": 45.9
+  "googlebook-laptop-starts-at-899-gemini-ai-android-integratio": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "star",
+    "norm": 45.5
   },
-  "ram-temple-donations-theft-case-sit-report-finds-105-instanc": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
-    "signature": "mp",
-    "norm": 45.9
+  "courts-must-not-interfere-in-cop-probe-supreme-court": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "supreme court",
+    "norm": 44
   },
-  "asr-collector-reviews-trishul-strategy-against-crime-in-dist": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
+  "supreme-court-flags-grosslypoor-infra-at-ibc-tribunals": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "supreme court",
+    "norm": 44
+  },
+  "sohrabkhan-sohrab-bismillahkhan-vs-state-of-gujarat-on-18-se": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "iqbalkhan-kyumkham-khan-vs-state-of-gujarat-on-18-september-": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "porvorim-corridor-ban-leaves-bike-commuters-facing-traffic-c": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
     "signature": "",
-    "norm": 36
+    "norm": 39.4
   },
-  "flights-grounded-at-major-us-airports-after-construction-wor": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
+  "two-cars-collide-on-porvorim-flyover-no-serious-injuries": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
     "signature": "",
-    "norm": 36
+    "norm": 39.4
   },
-  "collector-inspects-dengue-prevention-measures-in-cuddalore": {
-    "firstSeen": "2026-09-21T19:20:14.790Z",
+  "bizman-dies-by-suicide-in-hotel-over-property-dispute": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "leaving-home-at-11-jagsher-now-set-for-world-stage": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "youtuber-among-3-arrested-for-jandiala-police-naka-firing": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "f-members-sign-letter-against-outsourcing-of-garbage-collect": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "blatant-misuse-of-hooters-by-political-religious-leaders-con": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "98-year-old-shanti-bai-takes-literacy-test-in-sirsa": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "soni-razdan-shares-how-her-use-of-silence-has-evolved-as-art": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "wall-street-ends-sharply-higher-as-ai-optimism-reignites-and": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "nyc-airports-face-delays-after-air-traffic-control-outage": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "man-shot-by-ice-in-austin-says-he-still-has-bullet-in-his-bo": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "vizhinjam-lighthouse-illuminated-on-99th-lighthouse-day-cele": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-it-is-very-sad-shouldnt-be-happening-rakesh-bedi-expresses-": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "himachal-reworks-power-water-revenue-model-to-become-financi": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "varanasi-police-commissioner-cp-mohit-agarwal-directs-change": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-new-cm-office-an-institution-not-personal-space-himachal-cm": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "arjan-alabhai-kodiyatar-vs-state-of-gujarat-on-18-september-": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "ashokbhai-ukabhai-kanala-vs-state-of-gujarat-on-18-september": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "dev-kalu-girishbhai-dodiya-vs-state-of-gujarat-on-18-septemb": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "rajubhai-barvatiyo-kanubhai-bhojak-vs-state-of-gujarat-on-18": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "vikaskumar-basantmaji-pasvan-vs-state-of-gujarat-on-18-septe": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "talvinder-darasinh-sindhu-vs-state-of-gujarat-on-18-septembe": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "vipulbhai-mansurbhai-bodar-vs-state-of-gujarat-on-18-septemb": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "state-of-gujarat-vs-hiteshbhai-budhabhai-maachhi-on-17-septe": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "prabhat-rama-jagbahadur-sing-vs-state-of-gujarat-on-18-septe": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "state-of-gujarat-vs-ketankumar-gunvantbhai-patel-on-18-septe": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "roshan-s-o-sanjay-ramuprasad-chaudhari-vs-state-of-gujarat-o": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "dhaval-rameshbhai-rajubhai-rawat-vs-state-of-gujarat-on-18-s": {
+    "firstSeen": "2026-09-21T23:13:32.106Z",
     "signature": "",
     "norm": 33.9
   }
