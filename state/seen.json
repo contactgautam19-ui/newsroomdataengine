@@ -1,171 +1,86 @@
 {
-  "us-iran-war-live-updates-iran-says-it-has-new-targets-weapon": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "attack|attack|iran|mp|war",
-    "norm": 82.2
+  "two-workers-killed-in-fire-at-tyre-oil-factory-in-up": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "actor|fire|fire|killed|killed",
+    "norm": 75
   },
-  "keralam-will-unveil-district-specific-disaster-management-pl": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "cabinet|died|disaster|flood|flood",
-    "norm": 77.8
+  "tamil-nadu-bypolls-after-dmk-s-plaint-to-ec-tvk-drops-leader": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "alliance|mp|poll|star",
+    "norm": 60
   },
-  "student-s-death-rocks-iit-b-caste-becomig-a-increasing-facto": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "actor|bomb|controversy|death|mp",
-    "norm": 77.5
-  },
-  "anantapur-mla-conducts-surprise-inspection-at-ggh": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "hospital|mla|surprise|war",
-    "norm": 72.9
-  },
-  "congress-seeks-cbi-probe-into-sai-krishna-custodial-death-ca": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "congress|death|footage|president|war",
-    "norm": 72
-  },
-  "-fake-news-has-grown-like-cancer-trump-as-top-us-media-move-": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "mp|row|trump|trump",
-    "norm": 71.6
-  },
-  "cockroach-janta-party-threatens-maha-dharna-if-warangal-supe": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "hospital|threat|war",
-    "norm": 64.5
-  },
-  "cnn-ms-now-and-politico-suing-trump-over-white-house-ban": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "mp|trump|trump",
-    "norm": 61.4
-  },
-  "two-women-killed-in-lightning-strike-in-kalaburagi-district": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "killed|killed",
+  "getting-away-from-gunshots": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "israel|war",
     "norm": 59.3
   },
-  "105-theft-instances-found-at-ram-temple-by-sit-aims-to-file-": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "mp|record|video",
-    "norm": 57.9
+  "hyderabad-s-paradise-shamirpet-elevated-corridor-hopes-to-ta": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "ipl|mp",
+    "norm": 57.1
   },
-  "contract-electricity-employees-seek-job-security-pay-hike": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "mp|rally|rally",
-    "norm": 56.4
+  "businessline-s-8th-changemaker-awards-to-be-presented-by-fin": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "minister|war",
+    "norm": 55.4
   },
-  "cm-sanctions-15-lakh-assistance-to-families-of-telangana-mov": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "lakh|sanction",
-    "norm": 55
-  },
-  "bodies-of-landslip-victims-in-kottayam-district-handed-over-": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "minister|mla|mp",
-    "norm": 52.7
-  },
-  "punjab-drug-crisis-sachin-pilot-targets-aap-bjp-over-drugs-l": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "aap|bjp|congress",
-    "norm": 50.9
-  },
-  "naidu-urges-farmers-to-shift-to-natural-farming-focus-on-bio": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "chief minister|minister",
+  "supreme-court-orders-fresh-probe-into-2012-rape-murder-near-": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "mp|supreme court",
     "norm": 50.5
   },
-  "italy-s-meloni-plans-burqa-niqab-ban-in-schools-cap-on-forei": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "minister|prime minister",
-    "norm": 50.5
-  },
-  "-division-is-inevitable-up-minister-calls-for-split-of-state": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "minister|vote",
-    "norm": 48.7
-  },
-  "-revoke-hamid-ansari-s-padma-shri-hindu-sena-demands-centre-": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "bjp|congress",
-    "norm": 48.7
-  },
-  "dasara-gold-cards-event-tickets-go-on-sale": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "gold",
+  "assembly-witnesses-blame-game-on-origin-of-kasturirangan-rep": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "iran",
     "norm": 48.2
   },
-  "ysrcp-seeks-independent-probe-into-alleged-mega-dsc-irregula": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "mp",
-    "norm": 45.9
+  "assistant-professor-recruitment-candidates-demand-independen": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "recruitment",
+    "norm": 48.2
   },
-  "farmers-seek-early-implementation-of-mahadayi-kalasa-banduri": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "mp",
-    "norm": 45.9
+  "tamil-nadu-explains-to-cauvery-authority-the-rationale-behin": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "ipl",
+    "norm": 48.2
   },
-  "ryots-won-t-forgive-congress-govt-for-denying-water-power-br": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "congress",
-    "norm": 45.9
+  "sit-files-chargesheet-in-sai-krishna-s-alleged-custodial-dea": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "death",
+    "norm": 46.3
   },
-  "two-nizamabad-municipal-employees-caught-taking-15-000-bribe": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "mp",
-    "norm": 45.9
+  "ntr-collector-launches-operation-trishul-to-combat-drug-usag": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "accident",
+    "norm": 46.3
   },
-  "grace-marks-on-the-cards-to-promote-students-interest-in-far": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
+  "g-palanithurai-appointed-adviser-to-minister-anand": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
     "signature": "minister",
     "norm": 45.9
   },
-  "nse-ipo-subscribed-5-7-times-as-bidding-ends-shares-to-list-": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "ipo",
-    "norm": 44
+  "it-may-be-time-for-thirumavalavan-to-lead-alliance-in-2031-v": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "alliance",
+    "norm": 45.9
   },
-  "siya-goyal-chetan-chaudhary-pushed-ketan-agarwal-off-pune-fo": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "watch",
-    "norm": 42.7
+  "ram-temple-donations-theft-case-sit-report-finds-105-instanc": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "csk-appoint-zaheer-khan-as-head-coach-after-stephen-fleming-": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "khan",
-    "norm": 42.4
-  },
-  "focus-on-welfare-education-of-pourakarmikas-children-commiss": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
+  "asr-collector-reviews-trishul-strategy-against-crime-in-dist": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
     "signature": "",
     "norm": 36
   },
-  "tulu-as-additional-official-language-of-dakshina-kannada-and": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
+  "flights-grounded-at-major-us-airports-after-construction-wor": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
     "signature": "",
     "norm": 36
   },
-  "allocate-srikakulam-mayor-post-to-sc-tdp-leader-to-govt-": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "",
-    "norm": 36
-  },
-  "ktr-faults-govt-for-denying-water-to-jurala-ayacut": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "",
-    "norm": 36
-  },
-  "plan-in-advance-slbc-tells-customers-as-3-day-bank-strike-lo": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "",
-    "norm": 36
-  },
-  "digiyatra-to-make-international-departures-for-indians-easie": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "snapdragon-powered-googlebook-laptops-promise-seamless-conne": {
-    "firstSeen": "2026-09-21T13:59:16.989Z",
+  "collector-inspects-dengue-prevention-measures-in-cuddalore": {
+    "firstSeen": "2026-09-21T19:20:14.790Z",
     "signature": "",
     "norm": 33.9
   }
