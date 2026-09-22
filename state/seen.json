@@ -1,142 +1,207 @@
 {
-  "lakhimpur-kheri-murder-cctv-shows-accused-dragging-teacher-b": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "cctv|died|killed|killed|lakh|mp|shooting",
-    "norm": 89.9
+  "pakistan-must-act-on-cross-border-terror-before-world-trusts": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "army|border|pakistan|terror|terror|war",
+    "norm": 78.4
   },
-  "jagan-to-meet-governor-over-alleged-attack-on-ysrcp-rallies-": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "attack|attack|chief minister|governor|minister|president|recruitment",
-    "norm": 84.1
+  "asian-games-medal-tally-where-does-india-rank-after-women-s-": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "captain|cricket|gold|mp|row",
+    "norm": 77.5
   },
-  "key-accused-in-bihar-groping-horror-shot-during-encounter-ta": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "horror|hospital|pictures",
-    "norm": 63.2
+  "sri-lanka-court-convicts-15-men-over-2019-easter-sunday-bomb": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "attack|attack|bomb|devastat|killed|killed|tragic",
+    "norm": 75.8
   },
-  "women-s-cricket-team-extends-dominance-delivers-india-its-fi": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "cricket|gold|mp",
-    "norm": 60.8
+  "iit-bombay-death-case-if-cheating-is-proved-should-professor": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "bomb|death|exam",
+    "norm": 69.6
   },
-  "asian-games-2026-india-wins-first-gold-women-s-cricket-suchi": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "cricket|gold|mp",
-    "norm": 60.8
+  "cyclone-arnab-threat-which-states-will-be-affected-as-bay-of": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "cyclone|threat|weather",
+    "norm": 68
   },
-  "-bring-your-sisters-and-daughters-bjp-mla-s-remarks-on-musli": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "bjp|mla|row",
-    "norm": 59.7
+  "chirayinkeezhu-fracas-ramya-haridas-district-panchayat-membe": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "president|war|warning",
+    "norm": 67.6
   },
-  "bombay-hc-warns-vijay-mallya-against-posting-court-documents": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "bomb|war",
+  "gurugram-collapses-in-rains-while-greater-noida-planned-for-": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "collapse|collapse|collapse|supreme court",
+    "norm": 66.7
+  },
+  "meet-sanat-pandit-sixth-grader-whose-300-drone-put-out-18-of": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "anger|drone|fire|fire",
+    "norm": 66
+  },
+  "modi-ed-vd-caucus-operating-in-keralam-says-chintha-jerome": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "chief minister|minister|modi|modi|mp|opposition|president|prime minister",
+    "norm": 65.4
+  },
+  "ldf-takes-out-protest-march-to-govt-medical-college-in-kozhi": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "hospital|protest|protest",
+    "norm": 64.9
+  },
+  "-no-differences-with-yogi-kp-maurya-admits-cm-ambition-confi": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "bjp|election|election|poll|yogi",
+    "norm": 64.6
+  },
+  "-yadavs-only-7-maulana-shahabuddin-demands-muslim-cm-face-fr": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "chief minister|election|election|minister|poll",
+    "norm": 64.6
+  },
+  "rani-mukerji-s-mother-s-funeral-srk-alia-anil-kapoor-arrive-": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "died|film|heartbreak|khan",
+    "norm": 64.5
+  },
+  "bengaluru-itbp-soldier-dies-after-bike-crashes-into-tractor-": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "actor|crash|crash",
+    "norm": 64.2
+  },
+  "2020-delhi-riots-case-sharjeel-imam-gets-interim-bail-to-att": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "high court|riot|wedding",
+    "norm": 64.2
+  },
+  "citu-to-protest-outside-legislators-and-ministers-residences": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "minister|protest|protest",
+    "norm": 62.8
+  },
+  "second-deccan-youth-conclave-examines-india-s-foreign-policy": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "exam|ipl|policy",
+    "norm": 62.5
+  },
+  "-you-can-t-win-without-losing-what-rahul-gandhi-told-maha-co": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "bjp|congress|maharashtra|rahul gandhi",
+    "norm": 61.8
+  },
+  "tirumala-rathotsavam-draws-thousands-of-devotees-on-penultim": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "mp|riot|vote",
+    "norm": 61.4
+  },
+  "what-is-the-p4m-initiative-key-objectives-which-countries-ar": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "jaishankar|mp|row",
+    "norm": 61.4
+  },
+  "chargesheet-prepared-in-ed-attack-case-27-accused-named": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "attack|attack",
     "norm": 59.3
   },
-  "dmk-moves-madras-hc-against-tvk-s-proposed-rs-1-200-crore-se": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "crore|high court|mp",
-    "norm": 59.3
-  },
-  "indo-tibet-border-force-scales-24-100-foot-mt-abi-gamin-unfu": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "border|khan|summit",
-    "norm": 57.9
-  },
-  "top-court-questions-poll-body-on-notices-issued-during-delhi": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "lakh|poll|vote",
+  "mahindra-thar-og-launched-prices-variants-features-and-more": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "mp|price|prices",
     "norm": 57.6
   },
-  "sharad-pawar-flags-tata-sons-board-decisions-says-tata-trust": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "congress|war",
-    "norm": 55.4
+  "lakhimpur-kheri-violence-case-sc-asks-allahabad-hc-cj-for-re": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "lakh|mp",
+    "norm": 55
   },
-  "0-6-gram-seizure-2-000-km-chase-how-kerala-police-cracked-a-": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "exam|record",
-    "norm": 52.4
+  "a-father-s-hope-cut-short-as-fire-incident-at-rims-claims-ne": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "fire|fire",
+    "norm": 54.2
   },
-  "tata-trusts-vs-tata-sons-why-a-supreme-court-s-2021-ruling-i": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "ruling|supreme court",
-    "norm": 48.7
+  "rajya-sabha-polls-for-12-seats-bjp-likely-to-retain-8-in-up-": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "bjp|poll|rajya sabha",
+    "norm": 50.9
   },
-  "heavy-rain-lashes-odisha-as-depression-intensifies-schools-c": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "heavy rain",
+  "20-injured-as-rtc-bus-overturns-on-tirupati-madanapalle-high": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "injured",
     "norm": 48.2
   },
-  "cm-vijay-launches-expanded-breakfast-scheme-as-schoolbag-sea": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
+  "training-programme-for-police-on-disaster-management-measure": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "disaster",
+    "norm": 48.2
+  },
+  "cm-to-present-akshaya-awards-on-september-26": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "house-crows-aid-efforts-to-enhance-green-cover-across-arid-r": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
     "signature": "row",
+    "norm": 48.2
+  },
+  "beats-taps-multiple-kendall-jenners-to-promote-customizable-": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "ipl",
     "norm": 46.3
   },
-  "-wrong-to-fix-guilt-on-upper-castes-iit-bombay-alumnus-urges": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "bomb",
-    "norm": 46.3
-  },
-  "bjp-legislator-strikes-a-different-note-in-anti-ucc-mizoram": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "bjp",
+  "-abuse-of-process-of-law-gandhis-question-ed-s-revision-peti": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "rahul gandhi",
     "norm": 45.9
   },
-  "-law-making-cannot-be-as-per-naxalites-idea-solicitor-genera": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "parliament",
-    "norm": 45.9
-  },
-  "sc-says-state-can-set-national-song-but-cannot-impose-consci": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
+  "ed-not-misused-in-cmrl-payout-case-janeesh": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "-no-compromise-on-safety-naidu-says-centre-dgca-monitoring-s": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
+  "expert-panel-to-frame-guidelines-for-compensation-in-human-w": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "no-advisory-for-cops-to-avoid-uniforms-outside-of-stations-s": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "opposition",
+  "shift-30-foreign-nationals-to-detention-centre-orders-meghal": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "india-s-30-crore-basic-mobile-phone-users-get-relief-you-can": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "crore",
     "norm": 44
   },
-  "news18-defcon-2026-india-s-defence-transformation-enters-a-n": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "defence",
+  "india-strongly-condemns-pakistani-airstrikes-on-afghanistan-": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "pakistan",
     "norm": 44
   },
-  "jamui-molestation-case-main-accused-nandan-yadav-arrested-af": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
+  "rani-mukerji-s-mother-s-funeral-shah-rukh-khan-alia-bhatt-ka": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "pandit-indudhar-nirody-passes-away": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
     "signature": "",
     "norm": 36
   },
-  "-sweets-made-next-to-open-drains-garbage-mundhe-s-fda-suspen": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
+  "tuna-caught-along-indian-coast-safe-to-consume-says-cmfri": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
     "signature": "",
     "norm": 36
   },
-  "students-block-anantapur-tirupati-highway-at-burakayalakota-": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
+  "woman-dies-after-falling-into-hot-sambar-vessel-during-ganes": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
     "signature": "",
     "norm": 36
   },
-  "tamil-nadu-cm-vijay-reviews-northeast-monsoon-preparedness-i": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
+  "-touched-our-cheeks-peeked-at-us-inside-toilet-bihar-school-": {
+    "firstSeen": "2026-09-22T14:45:11.656Z",
     "signature": "",
-    "norm": 33.9
-  },
-  "dadar-puducherry-express-gets-a-halt-at-kuppam-chandrababu-n": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "asian-games-2026-india-s-medallists-full-list-of-winners": {
-    "firstSeen": "2026-09-22T09:52:46.350Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
