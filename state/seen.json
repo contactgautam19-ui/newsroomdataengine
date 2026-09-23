@@ -1,166 +1,191 @@
 {
-  "three-infants-killed-in-fire-accident-at-telangana-s-rims-ad": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "accident|chief minister|fan|fire|fire|hospital|killed|killed|minister|rescue|rescue|war",
-    "norm": 97.2
+  "engineer-s-unhappy-post-on-horrible-state-of-engineering-rig": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "mp|row|viral|viral|viral|war",
+    "norm": 78.7
   },
-  "sahil-wakode-case-crime-branch-probes-exam-hall-exchange-cct": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "bomb|cctv|death|exam|footage|record",
-    "norm": 82.5
+  "-deliberations-sign-of-pure-democracy-bjp-reacts-to-ec-sir-s": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "bjp|congress|election|election|election commission|mp|opposition|row",
+    "norm": 73.7
   },
-  "pdp-s-iltija-mufti-leads-protest-over-apartheid-reservation-": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "cabinet|iran|policy|protest|protest",
-    "norm": 75.3
-  },
-  "carney-looks-forward-to-hosting-pm-modi-in-december-says-ind": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "g20|modi|modi|summit|war",
-    "norm": 73.6
-  },
-  "ucc-bulldozer-is-to-permanently-polarise-society-congress": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "bomb|congress|high court|maharashtra|mp|opposition",
+  "from-sir-deletions-to-form-6-and-voter-database-election-com": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "election|election|election commission|mp|row|vote",
     "norm": 73
   },
-  "-no-family-will-be-without-support-chouhan-surveys-bihar-s-f": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "flood|flood|lakh|minister",
-    "norm": 69.4
+  "three-people-killed-in-as-many-conflicts-with-elephants-in-a": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "killed|killed|rbi",
+    "norm": 67.6
   },
-  "52-year-old-woman-killed-in-elephant-attack-at-attappady-in-": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "attack|attack|killed|killed",
-    "norm": 68
+  "minister-in-cec-ec-selection-panel-fails-perception-test-say": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "cabinet|election|election|minister|prime minister|verdict",
+    "norm": 65.1
   },
-  "family-alleges-police-vehicle-deliberately-rammed-bike-deman": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "injured|mp|record|video",
-    "norm": 66.7
+  "e-m-sudarsana-natchiappan-former-union-minister-and-senior-c": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "congress|election|election|lok sabha|minister",
+    "norm": 64.6
   },
-  "south-africa-mass-shooting-at-least-11-killed-by-unidentifie": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "killed|killed|shooting",
-    "norm": 64.5
+  "india-france-uae-ai-partnership-what-does-it-mean-for-jobs-s": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "jobs|star|war",
+    "norm": 64.2
   },
-  "-no-place-for-dictatorship-ritabrata-banerjee-on-ec-s-tmc-sy": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "congress|election|election|election commission|mp|opposition|poll",
-    "norm": 63.7
+  "gautam-adani-dethrones-mukesh-ambani-to-become-india-s-riche": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "adani|ambani|crore|lakh",
+    "norm": 61.4
   },
-  "-will-he-run-our-party-sp-slams-muslim-cleric-over-akhilesh-": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "mp|slam|slams",
-    "norm": 62.5
+  "no-elections-should-be-held-under-cec-gyanesh-kumar-says-akh": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "election|election|mp",
+    "norm": 61.4
   },
-  "india-odi-squad-to-assemble-in-thiruvananthapuram-by-septemb": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "kohli|match|rohit|sharma",
-    "norm": 61.1
+  "4-die-after-being-run-over-by-speeding-train-in-andhra-prade": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "accident|injured|rescue|rescue",
+    "norm": 60.6
   },
-  "mp-spurious-alcohol-hooch-tragedy-main-accused-arrested-afte": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "mp|tragedy|war",
-    "norm": 60.8
+  "tamil-nadu-bypolls-after-dmk-s-plaint-to-ec-tvk-drops-leader": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "alliance|mp|poll|star",
+    "norm": 60
   },
-  "gyanesh-kumar-enemy-of-india-scripting-elections-cjp-s-abhij": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "election|election|poll",
-    "norm": 59.7
+  "prominent-dissident-mlas-left-out-of-aiadmk-s-bypoll-campaig": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "mla|mp|poll|star",
+    "norm": 60
   },
-  "up-murders-family-blames-ghost-priest-points-to-ritual-for-d": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "dead|dead",
+  "navodaya-schools-case-supreme-court-asks-tamil-nadu-to-drop-": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "fund|mp|supreme court",
     "norm": 59.3
   },
-  "asian-games-2026-live-mirabai-chanu-eyes-gold-as-women-s-48k": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "gold|shooting",
-    "norm": 59.3
-  },
-  "-all-decisions-including-sir-were-unanimous-ec-sources-amid-": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
+  "-govts-formed-amid-lapses-unconstitutional-akhilesh-attacks-": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
     "signature": "attack|attack",
     "norm": 57.6
   },
-  "attacks-on-women-horrible-centre-states-should-ensure-safety": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "attack|attack",
+  "sahil-wakode-case-iphone-locked-crime-branch-probe-intensifi": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "bomb|death",
     "norm": 57.6
   },
-  "cyclone-arnab-live-updates-deep-depression-near-odisha-andhr": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "alert|cyclone|heavy rain",
-    "norm": 56.6
+  "karnataka-forms-sit-to-probe-fraudulent-insurance-claims-as-": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "fraud|supreme court",
+    "norm": 57.1
   },
-  "delhi-s-aqi-begins-to-worsen-as-winter-pollution-cycle-nears": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "mp|poll|record",
-    "norm": 56.4
-  },
-  "army-man-returning-home-on-vacation-beaten-to-death-in-mizor": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "army|death",
+  "asian-games-satwik-chirag-win-not-enough-india-lose-men-s-ba": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "china|result",
     "norm": 55.4
   },
-  "sonam-wangchuk-slams-delay-in-making-public-judicial-panel-r": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "slam|slams",
-    "norm": 52.1
+  "red-alert-in-five-telangana-districts-on-september-24": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "alert|red alert",
+    "norm": 53.9
   },
-  "storm-alert-are-schools-in-odisha-andhra-pradesh-open-or-clo": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "alert|storm",
-    "norm": 52.1
+  "breaking-ram-mandir-donation-theft-case-sit-files-7-000-page": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "exam|ram mandir",
+    "norm": 53.9
   },
-  "-invisible-hand-opposition-questions-eci-after-report-on-com": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "opposition|record",
-    "norm": 50.2
+  "lee-radziwill-s-east-hampton-home-listed-for-120m-later-sold": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "mp|price",
+    "norm": 53.2
   },
-  "comprehensive-occupational-safety-and-health-framework-for-u": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
+  "tamil-nadu-cm-vijay-conducts-surprise-inspection-at-tndpcl-h": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "mp|surprise",
+    "norm": 52
+  },
+  "naidu-sitharaman-to-lay-foundation-for-1-lakh-crore-rayalase": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "crore|lakh",
+    "norm": 48.7
+  },
+  "telangana-rain-forecast-puts-officials-on-alert": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "alert",
+    "norm": 48.2
+  },
+  "centre-in-sc-reduces-neet-ss-qualifying-percentile-to-30-tn-": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "neet",
+    "norm": 48.2
+  },
+  "class-5-student-bitten-by-snake-on-school-premises-in-kerala": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "hospital",
+    "norm": 48.2
+  },
+  "asian-games-2026-live-indian-men-s-badminton-team-settles-fo": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "china",
+    "norm": 45.9
+  },
+  "why-construct-new-secretariat-complex-when-t-n-is-facing-fin": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-go-counsel-pakistan-india-hits-back-at-oic-over-kashmir-rem": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "pakistan",
+    "norm": 45.9
+  },
+  "-up-ke-ladke-in-for-political-brawl-sp-cong-spar-over-who-ca": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "deboning-technology-by-icar-ciba-to-popularise-milkfish": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-this-is-democracy-bjp-says-sir-decision-was-unanimous-no-di": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "mp-spurious-liquor-case-prime-suspect-with-30-000-bounty-hel": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
     "signature": "mp",
     "norm": 44
   },
-  "bengaluru-union-law-minister-meghwal-visits-nlsiu-abvp-submi": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "minister",
-    "norm": 44
-  },
-  "india-men-s-skeet-team-clinch-bronze-after-shoot-off-win-ove": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
+  "delhi-varanasi-sleeper-vande-bharat-9-pm-departure-5-am-arri": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
     "signature": "mp",
     "norm": 44
   },
-  "astha-kunj-park-gang-rape-lsr-suspends-classes-students-cons": {
-    "firstSeen": "2026-09-22T22:01:09.098Z",
-    "signature": "fear",
-    "norm": 41.2
+  "guwahati-school-students-document-1-517-species-in-biodivers": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "",
+    "norm": 36
   },
-  "nearly-2-000-marriage-records-in-odisha-manipulated-to-claim": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "record",
-    "norm": 40.7
+  "exalogic-cmrl-payoff-case-kerala-cm-says-police-inquiry-not-": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "",
+    "norm": 36
   },
-  "experts-call-for-cities-designed-for-and-by-women-to-create-": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
+  "asian-games-2026-india-s-medallists-full-list-of-winners": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
+    "signature": "",
+    "norm": 36
+  },
+  "tamil-nadu-how-the-museum-of-chettinad-keeps-a-community-s-m": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
     "signature": "",
     "norm": 33.9
   },
-  "nationwide-strike-banks-to-remain-shut-for-three-days-what-c": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "they-said-janab-wore-jeans-but-weren-t-cops-inside-kalkaji-g": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "phillip-island-removed-foxes-little-penguin-colony-grew-from": {
-    "firstSeen": "2026-09-23T05:53:42.706Z",
+  "maryland-family-let-62-acre-farm-heal-72-years-later-land-is": {
+    "firstSeen": "2026-09-23T11:26:58.791Z",
     "signature": "",
     "norm": 33.9
   }
