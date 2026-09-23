@@ -1,36 +1,61 @@
 {
-  "cpcl-looking-to-be-a-part-of-the-renewable-energy-growth-jou": {
-    "firstSeen": "2026-09-23T20:15:22.371Z",
-    "signature": "fuel|mp|row",
-    "norm": 63.9
+  "xi-jinping-lands-in-us-for-key-state-visit-trump-receives-hi": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "bomb|mp|trump|trump",
+    "norm": 70
   },
-  "priyanka-gandhi-meets-flood-victims-workers-in-nilambur": {
-    "firstSeen": "2026-09-23T20:15:22.371Z",
-    "signature": "flood|flood|mp",
-    "norm": 61.1
+  "inflation-to-stay-within-band-rbi-deputy-governor-poonam-gup": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "governor|inflation|rbi",
+    "norm": 57.6
   },
-  "rain-batters-srikakulam-for-second-day": {
-    "firstSeen": "2026-09-23T20:15:22.371Z",
-    "signature": "alert|heavy rain|record",
-    "norm": 57.9
+  "bihar-bjp-mla-criticises-own-government-for-distributing-10-": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "bjp|crore|mla",
+    "norm": 57.6
   },
-  "elephant-calf-swept-away-in-teesta-rescued-by-fishermen-reun": {
-    "firstSeen": "2026-09-23T20:15:22.371Z",
-    "signature": "rescue|rescue",
-    "norm": 54.2
+  "cm-fadnavis-and-dcm-shinde-visit-drought-prone-regions-in-ma": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "maharashtra|minister",
+    "norm": 55.4
   },
-  "tap-water-on-paper-no-proper-accounts-says-j-amp-k-probe-pan": {
-    "firstSeen": "2026-09-23T20:15:22.371Z",
-    "signature": "mp",
-    "norm": 45.9
+  "-cyclone-arnab-has-taken-social-media-by-storm-and-yet-it-do": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "cyclone|storm",
+    "norm": 52.1
   },
-  "several-banks-offer-rebate-on-interest-rates-for-green-build": {
-    "firstSeen": "2026-09-23T20:15:22.371Z",
-    "signature": "summit",
+  "-unacceptable-australian-pm-says-openai-hacked-government-he": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "minister|prime minister",
+    "norm": 48.7
+  },
+  "arunachal-pradesh-state-cabinet-approves-panel-for-survey-of": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "cabinet",
     "norm": 44
   },
-  "murder-accused-who-fled-juvie-home-among-3-criminals-held-in": {
-    "firstSeen": "2026-09-23T20:15:22.371Z",
+  "j-k-observes-holiday-on-dogra-king-hari-singh-s-birthday-bjp": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "bjp",
+    "norm": 44
+  },
+  "n-chandrasekaran-s-real-vote-test-tata-sons-agm-not-boardroo": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "vote",
+    "norm": 44
+  },
+  "airtel-money-plans-to-list-on-lse-looks-to-raise-800mn": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "",
+    "norm": 36
+  },
+  "delhi-clears-1-300-pink-e-autos-for-women-transgender-driver": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
+    "signature": "",
+    "norm": 36
+  },
+  "anthropic-says-claude-ai-helped-discover-novel-enzyme-system": {
+    "firstSeen": "2026-09-23T23:37:38.844Z",
     "signature": "",
     "norm": 33.9
   }
