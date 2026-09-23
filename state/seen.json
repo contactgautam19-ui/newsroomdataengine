@@ -1,191 +1,201 @@
 {
-  "engineer-s-unhappy-post-on-horrible-state-of-engineering-rig": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "mp|row|viral|viral|viral|war",
-    "norm": 78.7
+  "one-indian-killed-after-ship-attacked-off-oman-coast-mea-con": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "attack|attack|death|killed|killed|rescue|rescue|result|tragic",
+    "norm": 90.2
   },
-  "-deliberations-sign-of-pure-democracy-bjp-reacts-to-ec-sir-s": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "bjp|congress|election|election|election commission|mp|opposition|row",
-    "norm": 73.7
+  "indian-seafarer-killed-after-attack-on-commercial-vessel-off": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "attack|attack|diplomacy|ipl|killed|killed",
+    "norm": 86.9
   },
-  "from-sir-deletions-to-form-6-and-voter-database-election-com": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "election|election|election commission|mp|row|vote",
+  "election-commission-row-2-ecs-raised-14-objections-over-sir-": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "controversy|election|election|election commission|row",
+    "norm": 75
+  },
+  "sahil-wakode-caught-cheating-on-cam-footage-from-iit-b-exami": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "bomb|cctv|exam|footage|mp",
+    "norm": 74
+  },
+  "on-camera-iit-student-who-died-by-suicide-stopped-during-exa": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "bomb|died|exam|row",
     "norm": 73
   },
-  "three-people-killed-in-as-many-conflicts-with-elephants-in-a": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "killed|killed|rbi",
-    "norm": 67.6
+  "long-term-plans-rahul-gandhi-and-son-s-wedding-mohan-yadav-a": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "minister|modi|modi|prime minister|rahul gandhi|wedding",
+    "norm": 71.3
   },
-  "minister-in-cec-ec-selection-panel-fails-perception-test-say": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "cabinet|election|election|minister|prime minister|verdict",
-    "norm": 65.1
+  "opposition-calls-for-cec-gyanesh-kumar-s-removal-after-repor": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "congress|election|election|election commission|opposition|poll|record|vote",
+    "norm": 70.7
   },
-  "e-m-sudarsana-natchiappan-former-union-minister-and-senior-c": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "congress|election|election|lok sabha|minister",
-    "norm": 64.6
+  "in-meeting-with-rubio-jaishankar-raises-india-s-concerns-abo": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "jaishankar|minister|modi|modi|mp|president|prime minister|sanction|trump|trump",
+    "norm": 70.6
   },
-  "india-france-uae-ai-partnership-what-does-it-mean-for-jobs-s": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "jobs|star|war",
-    "norm": 64.2
+  "indian-national-killed-in-attack-on-mv-cape-dao-says-embassy": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "attack|attack|killed|killed|war",
+    "norm": 70.5
   },
-  "gautam-adani-dethrones-mukesh-ambani-to-become-india-s-riche": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "adani|ambani|crore|lakh",
+  "after-damning-reports-on-cec-tejashwi-yadav-seeks-re-electio": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "amit shah|election|election|minister|modi|modi|prime minister",
+    "norm": 70.1
+  },
+  "indian-seafarer-killed-19-rescued-after-torpedoes-strike-shi": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "killed|killed|rescue|rescue",
+    "norm": 70
+  },
+  "tribal-farmer-killed-in-wild-elephant-attack-in-idukki-in-ke": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "attack|attack|killed|killed",
+    "norm": 69.6
+  },
+  "eci-should-give-details-of-decisions-taken-and-whether-they-": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "election|election|election commission|record",
+    "norm": 66.9
+  },
+  "-gurugram-system-collapses-during-rains-sc-says-no-such-prob": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "collapse|collapse|collapse|high court",
+    "norm": 66.7
+  },
+  "bengaluru-passenger-jumps-onto-tracks-at-rajajinagar-metro-s": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "alert|mp|rescue|rescue",
+    "norm": 66.3
+  },
+  "-no-drama-no-altercation-cctv-video-shows-iit-bombay-s-sahil": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "bomb|cctv|exam|video",
+    "norm": 66
+  },
+  "-no-drama-no-altercation-sahil-wakode-cctv-raises-questions-": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "bomb|cctv|exam|footage",
+    "norm": 66
+  },
+  "mod-inks-811-crore-contract-for-160-sat-saaw-glide-bombs-for": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "bomb|crore|defence",
+    "norm": 65.6
+  },
+  "keralam-cm-bats-again-for-zoo-relocation": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "mp|protest|protest",
+    "norm": 62.8
+  },
+  "communication-between-cec-ecs-shows-functioning-democracy-bj": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "bjp|ipl|opposition|supreme court",
+    "norm": 61.8
+  },
+  "bjp-announces-new-state-in-charges-anil-baluni-elevated-as-c": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "bjp|khan|lok sabha|mp|poll|president",
+    "norm": 61.6
+  },
+  "trump-plans-grand-spectacle-for-potentially-tense-xi-talks": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "mp|trump|trump",
     "norm": 61.4
   },
-  "no-elections-should-be-held-under-cec-gyanesh-kumar-says-akh": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "election|election|mp",
-    "norm": 61.4
-  },
-  "4-die-after-being-run-over-by-speeding-train-in-andhra-prade": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "accident|injured|rescue|rescue",
-    "norm": 60.6
-  },
-  "tamil-nadu-bypolls-after-dmk-s-plaint-to-ec-tvk-drops-leader": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "alliance|mp|poll|star",
-    "norm": 60
-  },
-  "prominent-dissident-mlas-left-out-of-aiadmk-s-bypoll-campaig": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "mla|mp|poll|star",
-    "norm": 60
-  },
-  "navodaya-schools-case-supreme-court-asks-tamil-nadu-to-drop-": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "fund|mp|supreme court",
-    "norm": 59.3
-  },
-  "-govts-formed-amid-lapses-unconstitutional-akhilesh-attacks-": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "attack|attack",
-    "norm": 57.6
-  },
-  "sahil-wakode-case-iphone-locked-crime-branch-probe-intensifi": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "bomb|death",
-    "norm": 57.6
-  },
-  "karnataka-forms-sit-to-probe-fraudulent-insurance-claims-as-": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "fraud|supreme court",
-    "norm": 57.1
-  },
-  "asian-games-satwik-chirag-win-not-enough-india-lose-men-s-ba": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "china|result",
+  "omar-abdullah-flags-opaque-delimitation-amid-poll-body-contr": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "controversy|poll",
     "norm": 55.4
   },
-  "red-alert-in-five-telangana-districts-on-september-24": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "alert|red alert",
-    "norm": 53.9
-  },
-  "breaking-ram-mandir-donation-theft-case-sit-files-7-000-page": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "exam|ram mandir",
-    "norm": 53.9
-  },
-  "lee-radziwill-s-east-hampton-home-listed-for-120m-later-sold": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "mp|price",
-    "norm": 53.2
-  },
-  "tamil-nadu-cm-vijay-conducts-surprise-inspection-at-tndpcl-h": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "mp|surprise",
+  "bengaluru-traffic-police-books-record-10-99-lakh-wrong-parki": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "lakh|record",
     "norm": 52
   },
-  "naidu-sitharaman-to-lay-foundation-for-1-lakh-crore-rayalase": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "crore|lakh",
+  "india-s-proposal-under-consideration-for-safe-black-sea-ship": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "jaishankar|minister|president",
+    "norm": 50.9
+  },
+  "india-china-have-sufficient-political-historical-wisdom-to-h": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "border|china",
     "norm": 48.7
   },
-  "telangana-rain-forecast-puts-officials-on-alert": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
+  "d-k-aruna-and-kasam-venkateshwarlu-get-plum-positions-as-sah": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "asian-games-2026-live-india-concludes-day-4-with-overall-one": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "gold",
+    "norm": 48.2
+  },
+  "iit-bombay-alumni-defends-professor-doolla-why-has-he-been-m": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "bomb",
+    "norm": 46.3
+  },
+  "schools-to-remain-closed-today-in-bhadradri-kothagudem-distr": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
     "signature": "alert",
-    "norm": 48.2
+    "norm": 46.3
   },
-  "centre-in-sc-reduces-neet-ss-qualifying-percentile-to-30-tn-": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "neet",
-    "norm": 48.2
-  },
-  "class-5-student-bitten-by-snake-on-school-premises-in-kerala": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "hospital",
-    "norm": 48.2
-  },
-  "asian-games-2026-live-indian-men-s-badminton-team-settles-fo": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "china",
+  "eagle-force-seizes-25-lakh-assets-linked-to-drug-trafficking": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "lakh",
     "norm": 45.9
   },
-  "why-construct-new-secretariat-complex-when-t-n-is-facing-fin": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "mp",
+  "cji-surya-kant-to-inaugurate-first-victim-rights-centre-in-p": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "cji",
     "norm": 45.9
   },
-  "-go-counsel-pakistan-india-hits-back-at-oic-over-kashmir-rem": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "pakistan",
-    "norm": 45.9
+  "sanjana-sanghi-at-unga-actor-calls-for-investment-in-educati": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "actor",
+    "norm": 44.3
   },
-  "-up-ke-ladke-in-for-political-brawl-sp-cong-spar-over-who-ca": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "deboning-technology-by-icar-ciba-to-popularise-milkfish": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "-this-is-democracy-bjp-says-sir-decision-was-unanimous-no-di": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "mp-spurious-liquor-case-prime-suspect-with-30-000-bounty-hel": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
+  "no-unfit-drinking-water-samples-says-swr-after-quality-check": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
     "signature": "mp",
     "norm": 44
   },
-  "delhi-varanasi-sleeper-vande-bharat-9-pm-departure-5-am-arri": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "mp",
+  "west-bengal-govt-to-roll-out-new-industrial-policy-before-du": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "policy",
     "norm": 44
   },
-  "guwahati-school-students-document-1-517-species-in-biodivers": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
+  "three-maoists-surrender-in-bankura-with-ak-47-insas-rifles-w": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "harvey-weinstein-gets-15-years-in-prison-after-retrial-for-2": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
+    "signature": "oscar",
+    "norm": 42.4
+  },
+  "man-held-for-posing-as-doctor-in-hyderabad": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
     "signature": "",
     "norm": 36
   },
-  "exalogic-cmrl-payoff-case-kerala-cm-says-police-inquiry-not-": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "",
-    "norm": 36
-  },
-  "asian-games-2026-india-s-medallists-full-list-of-winners": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
-    "signature": "",
-    "norm": 36
-  },
-  "tamil-nadu-how-the-museum-of-chettinad-keeps-a-community-s-m": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
+  "219-vulnerable-locations-identified-ahead-of-northeast-monso": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
     "signature": "",
     "norm": 33.9
   },
-  "maryland-family-let-62-acre-farm-heal-72-years-later-land-is": {
-    "firstSeen": "2026-09-23T11:26:58.791Z",
+  "disgraced-hollywood-producer-harvey-weinstein-sentenced-to-1": {
+    "firstSeen": "2026-09-23T16:49:35.451Z",
     "signature": "",
     "norm": 33.9
   }
