@@ -1,132 +1,302 @@
 {
-  "trump-xi-jinping-live-updates-trump-xi-to-talk-trade-ai-iran": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
-    "signature": "china|iran|mp|trump|trump|war",
-    "norm": 78.4
+  "-terror-attack-from-pak-soil-will-be-act-of-war-defence-mini": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "attack|attack|defence|minister|terror|terror|war",
+    "norm": 83.6
   },
-  "woman-alleges-her-photo-was-morphed-during-cjp-protests-cops": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
+  "petition-in-bombay-high-court-seeks-stay-on-sir-in-maharasht": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "bomb|high court|maharashtra|record|vote|war",
+    "norm": 82.5
+  },
+  "-many-jews-no-longer-feel-safe-in-new-york-netanyahu-slams-m": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "election|election|israel|minister|prime minister|slam|slams",
+    "norm": 79.4
+  },
+  "-no-greater-partner-than-trump-netanyahu-defends-iran-war-as": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "iran|mp|trump|trump|war",
+    "norm": 72.6
+  },
+  "netanyahu-attacks-uk-france-turkey-in-fiery-un-speech": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "attack|attack|iran|israel",
+    "norm": 70.6
+  },
+  "woman-alleges-her-photo-was-morphed-during-cjp-protests-case": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
     "signature": "minister|modi|modi|mp|prime minister|protest|protest",
-    "norm": 78.2
+    "norm": 69.6
+  },
+  "trump-xi-jinping-live-updates-trump-says-he-had-a-great-meet": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "mp|trump|trump|war",
+    "norm": 66.8
+  },
+  "hollywood-stars-among-arrests-in-new-york-anti-netanyahu-pro": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "israel|protest|protest|star",
+    "norm": 64.7
+  },
+  "iit-bombay-student-death-youth-congress-seeks-arrest-of-dire": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "bomb|congress|death|president",
+    "norm": 64.7
+  },
+  "bay-of-bengal-depression-to-bring-heavy-rain-to-bengal-odish": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "heavy rain|ipl|war|warning",
+    "norm": 64.1
+  },
+  "video-dozens-of-delegates-walk-out-as-netanyahu-takes-un-sta": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "israel|minister|prime minister|video",
+    "norm": 62.8
   },
   "meta-ai-boss-posts-edited-altman-dario-pic-with-pm-modi-then": {
     "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "modi|modi|mp|war",
-    "norm": 71.6
+    "norm": 61
   },
-  "uae-suspends-all-flights-by-iranian-airlines-to-comply-with-": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
-    "signature": "ipl|iran|mp|sanction",
-    "norm": 65
+  "hundreds-of-trucks-block-turkey-iran-border-after-us-blockad": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "border|economy|iran|mp|president",
+    "norm": 61
+  },
+  "the-murky-world-of-political-party-finance": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "election|election|election commission|vote",
+    "norm": 59.3
+  },
+  "get-details-communicate-govt-s-position-effectively-pm-modi-": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "minister|modi|modi",
+    "norm": 57.1
+  },
+  "yet-to-assess-impact-of-mines-act-on-odisha-says-minister-as": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "minister|mp|parliament|tax",
+    "norm": 54.1
+  },
+  "mps-shashi-tharoor-manoj-jha-praise-pdp-mla-mehdi-s-bill-on-": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "bill|mla|mp|trauma",
+    "norm": 52.3
   },
   "centre-seeks-2-year-window-to-implement-top-court-s-obc-crea": {
     "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "mp|recruitment|ruling|verdict",
-    "norm": 61.8
+    "norm": 52.3
   },
-  "-even-china-isn-t-doing-this-to-tibet-sonam-wangchuk-draws-s": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
-    "signature": "amit shah|china|minister|mp|star",
-    "norm": 61.1
+  "-enter-at-own-risk-churches-to-non-christians-as-anti-conver": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "war|warning",
+    "norm": 51.8
+  },
+  "barmer-mla-ravindra-bhati-plans-5-day-march-for-bigger-footp": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "instagram|lakh|mla",
+    "norm": 50.8
   },
   "delhi-police-registers-fir-after-woman-alleges-harassment-an": {
     "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "protest|protest|threat",
-    "norm": 59.6
+    "norm": 50.4
+  },
+  "cnn-ms-now-and-politico-back-at-white-house-after-court-halt": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "mp|trump|trump",
+    "norm": 50
+  },
+  "-even-china-isn-t-doing-this-to-tibet-sonam-wangchuk-draws-s": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "amit shah|china|minister|mp|star",
+    "norm": 49.7
+  },
+  "myanmar-drone-training-camp-nia-court-allows-matthew-vandyke": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "drone|fund|mp",
+    "norm": 49.3
+  },
+  "akhilesh-visits-raebareli-under-pda-yatra-eyeing-broader-pub": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "bjp|mp|president",
+    "norm": 48.2
+  },
+  "un-delegations-walk-out-on-netanyahu-israeli-pm-calls-them-m": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "israel|war",
+    "norm": 47.7
+  },
+  "bitumen-price-surge-hits-road-works-adding-to-motorists-woes": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "actor|price",
+    "norm": 45.7
+  },
+  "tiruvannamalai-arunachaleswarar-temple-receives-eight-year-o": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "mp|war",
+    "norm": 45.4
+  },
+  "calling-husband-dark-fat-not-grounds-for-divorce-high-court": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "high court|war",
+    "norm": 45.4
+  },
+  "take-schemes-to-grassroots-key-takeaways-from-union-minister": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "minister|storm",
+    "norm": 45.4
   },
   "india-russia-iran-among-9-countries-to-be-part-of-brics-thea": {
     "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "brics|iran",
-    "norm": 55.4
+    "norm": 45.4
   },
-  "students-protest-flag-poor-infra-at-andhra-university-vc-ass": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "opposition-to-move-third-motion-to-remove-cec-gyanesh-kumar": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "opposition",
+    "norm": 44
   },
-  "khabib-nurmagomedov-and-islam-makhachev-s-brotherhood-beyond": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
-    "signature": "row|slam",
-    "norm": 52.1
+  "confident-that-vijay-will-accept-rahul-as-prime-ministerial-": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "minister|prime minister",
+    "norm": 42.5
   },
   "china-to-send-2-giant-pandas-ping-ping-and-fu-shuang-to-us-z": {
     "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "china|star",
-    "norm": 51.7
+    "norm": 41.4
+  },
+  "wangchuk-fears-encounter-after-accusing-govt-of-ladakh-atroc": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "fear",
+    "norm": 40.1
+  },
+  "drive-through-tollgates-new-rules-for-high-speed-highways": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "toll",
+    "norm": 40.1
   },
   "child-rape-cases-went-up-4-times-over-a-decade-convictions-r": {
     "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "mp|record",
-    "norm": 50.2
+    "norm": 39.7
   },
-  "u-s-ambassador-indian-army-commander-witness-firing-demonstr": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
-    "signature": "army|mp",
-    "norm": 48.7
+  "-gaadi-mein-baith-men-in-suv-harass-chase-two-female-delhi-u": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "g4-unsc-losing-its-credibility-unable-to-maintain-global-pea": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 36
+  },
+  "shehbaz-pezeshkian-meet-in-new-york-pak-pushes-de-escalation": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "slam",
+    "norm": 35.5
   },
   "upi-mdr-row-government-moves-to-ensure-merchants-don-t-pass-": {
     "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "row",
-    "norm": 48.2
+    "norm": 35.5
   },
   "bypoll-in-madurantakam-was-forced-palaniswami": {
     "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "poll",
-    "norm": 45.9
+    "norm": 32.8
   },
-  "congress-cadre-seek-cec-s-resignation": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
-    "signature": "congress",
-    "norm": 44
+  "-no-eligible-elector-will-be-left-behind-goa-ceo-clarifies-o": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "vote",
+    "norm": 32.8
   },
-  "pranay-murder-case-convict-dies-after-complaining-of-chest-p": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
-    "signature": "mp",
-    "norm": 44
+  "eco-moorings-cut-seagrass-damage-by-94-at-england-s-studland": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 30.7
   },
-  "veeramani-pocso-case-two-senior-ips-officers-removed-from-po": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
-    "signature": "mp",
-    "norm": 44
+  "a-nation-s-song-on-vande-mataram-s-rendition": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "gvp-college-to-organise-national-seminar-on-nep-2020": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "role-of-pharmacists-in-strengthening-healthcare-systems-high": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "veeramani-case-stalin-says-dmk-regime-did-not-protect-anyone": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "dmk-didn-t-try-to-shield-granite-baron-accused-in-sex-abuse-": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "us-deploys-laser-weapons-in-hormuz-that-can-be-operated-with": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "lizard-found-in-food-served-to-students-cooks-relieved-of-du": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "medical-college-students-union-in-kozhikode-objects-to-appoi": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "seven-persons-held-in-tirupattur-for-possession-of-sharp-wea": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
+    "signature": "",
+    "norm": 21.2
   },
   "encroachments-removed-to-provide-easy-access-to-government-h": {
     "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
   "ex-servicemen-widows-in-telangana-to-get-higher-welfare-gran": {
     "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
-  "anna-university-partners-with-boeing-india-to-establish-flam": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
+  "opinion-blog-20-years-on-my-lsr-memories-of-harassment-have-": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
-  "andhra-university-leads-in-nss-activities": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
+  "-many-added-goa-electoral-officer-on-97-electors-not-being-i": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
-  "ponnam-reviews-arrangements-for-cm-s-visit-to-karimnagar-on-": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
+  "dyson-launches-v16-piston-animal-vacuum-in-india-at-79-900": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
-  "ganesh-immersion-finale-to-take-over-hyderabad-roads-on-frid": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
+  "delhi-court-allows-vandyke-6-ukrainians-to-travel-home-after": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   },
-  "-ytps-to-remain-a-burden-on-state-forever-due-to-lack-of-g9-": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
+  "railway-protection-force-sets-up-narcotics-cell-plans-mou-wi": {
+    "firstSeen": "2026-09-24T22:20:51.782Z",
     "signature": "",
-    "norm": 33.9
-  },
-  "2-men-on-bike-snatch-woman-sarpanch-s-earrings-in-punjab-vil": {
-    "firstSeen": "2026-09-24T19:04:04.832Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   }
 }
