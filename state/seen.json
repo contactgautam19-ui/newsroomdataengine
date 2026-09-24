@@ -1,61 +1,156 @@
 {
-  "xi-jinping-lands-in-us-for-key-state-visit-trump-receives-hi": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
-    "signature": "bomb|mp|trump|trump",
-    "norm": 70
+  "mamata-calls-for-chief-election-commissioner-s-arrest-seeks-": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "chief minister|election|election|election commission|mamata|minister|opposition|poll|protest|protest",
+    "norm": 80.5
   },
-  "inflation-to-stay-within-band-rbi-deputy-governor-poonam-gup": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
-    "signature": "governor|inflation|rbi",
+  "trump-winces-as-b-1-bombers-roar-xi-stands-unfazed-during-us": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "bomb|mp|trump|trump|watch",
+    "norm": 76.8
+  },
+  "-fortunate-to-have-rohit-virat-gambhir-s-big-endorsement-of-": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "captain|kohli|mp|rohit|row|sharma",
+    "norm": 70.1
+  },
+  "bengaluru-passenger-jumps-onto-tracks-at-rajajinagar-metro-s": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "alert|mp|rescue|rescue",
+    "norm": 67.9
+  },
+  "how-mobile-games-have-become-a-means-of-protest-against-powe": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "chief minister|minister|protest|protest",
+    "norm": 66.9
+  },
+  "how-are-road-accident-claims-decided-explained": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "accident|death|mp",
+    "norm": 66
+  },
+  "election-commissioners-law-sc-judge-says-pm-s-cabinet-pick-n": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "cabinet|cji|election|election|election commission",
+    "norm": 64.6
+  },
+  "national-stock-exchange-ipo-what-makes-it-a-rare-moment-for-": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "investor|ipo|mp",
     "norm": 57.6
   },
-  "bihar-bjp-mla-criticises-own-government-for-distributing-10-": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
-    "signature": "bjp|crore|mla",
-    "norm": 57.6
+  "air-india-express-flight-carrying-two-andhra-ministers-to-bh": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "minister|weather",
+    "norm": 57.1
   },
-  "cm-fadnavis-and-dcm-shinde-visit-drought-prone-regions-in-ma": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
-    "signature": "maharashtra|minister",
-    "norm": 55.4
+  "ec-dissent-row-live-opposition-seeks-cec-gyanesh-kumar-s-rem": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "opposition|row",
+    "norm": 57.1
   },
-  "-cyclone-arnab-has-taken-social-media-by-storm-and-yet-it-do": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
-    "signature": "cyclone|storm",
-    "norm": 52.1
+  "sensex-down-600-pts-nifty-below-23-250-rising-bond-yields-am": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "actor|nifty|sensex",
+    "norm": 56.1
   },
-  "-unacceptable-australian-pm-says-openai-hacked-government-he": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
-    "signature": "minister|prime minister",
-    "norm": 48.7
+  "shillong-teer-result-today-september-24-2026-winning-numbers": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "khan|result",
+    "norm": 53.9
   },
-  "arunachal-pradesh-state-cabinet-approves-panel-for-survey-of": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
-    "signature": "cabinet",
-    "norm": 44
+  "tamil-nadu-congress-leader-says-he-told-chennai-police-about": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "congress|mp|president",
+    "norm": 50.9
   },
-  "j-k-observes-holiday-on-dogra-king-hari-singh-s-birthday-bjp": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
-    "signature": "bjp",
-    "norm": 44
+  "bis-conducts-search-and-seizure-at-mysuru-jewellery-shop": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "gold",
+    "norm": 48.2
   },
-  "n-chandrasekaran-s-real-vote-test-tata-sons-agm-not-boardroo": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
-    "signature": "vote",
-    "norm": 44
+  "-why-not-arrest-them-iit-bombay-student-s-father-on-accused-": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "bomb",
+    "norm": 46.3
   },
-  "airtel-money-plans-to-list-on-lse-looks-to-raise-800mn": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
+  "heavy-rain-closes-chaparai-kothapalli-waterfalls-in-asr-dist": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "heavy rain",
+    "norm": 46.3
+  },
+  "meta-adds-parental-control-to-threads-in-india-amid-child-sa": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "ipl",
+    "norm": 46.3
+  },
+  "ensure-proper-disposal-of-hazardous-waste-dinesh-reddy": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "after-jamui-another-girl-molested-on-camera-in-bihar-4-nabbe": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "video",
+    "norm": 40.7
+  },
+  "jamui-harassment-accused-nandan-yadav-slapped-outside-court-": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "video",
+    "norm": 40.7
+  },
+  "asian-games-2026-live-roshibina-devi-bags-second-asian-games": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
     "signature": "",
     "norm": 36
   },
-  "delhi-clears-1-300-pink-e-autos-for-women-transgender-driver": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
+  "india-s-infra-push-cuts-travel-time-across-key-routes-from-d": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
     "signature": "",
     "norm": 36
   },
-  "anthropic-says-claude-ai-helped-discover-novel-enzyme-system": {
-    "firstSeen": "2026-09-23T23:37:38.844Z",
+  "nikon-unveils-z5iic-camera-aimed-at-making-photography-less-": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "",
+    "norm": 36
+  },
+  "mother-daughter-s-car-smashed-on-gurugram-stretch-where-bike": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "",
+    "norm": 36
+  },
+  "from-vintage-vespas-to-royal-enfields-meet-thiruvananthapura": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "",
+    "norm": 36
+  },
+  "jlm-urges-karnataka-government-to-retain-management-of-anubh": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "",
+    "norm": 36
+  },
+  "target-2029-how-big-is-india-s-drug-challenge-what-the-lates": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "schools-in-chamarajanagar-barred-from-taking-students-to-rel": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "delhi-rape-case-accused-was-removed-from-gym-for-misbehaving": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "cop-on-ganesh-immersion-duty-in-hyderabad-knocked-down-by-bi": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "youtube-launches-new-ai-tools-says-will-help-creators-not-re": {
+    "firstSeen": "2026-09-24T04:38:24.459Z",
     "signature": "",
     "norm": 33.9
   }
