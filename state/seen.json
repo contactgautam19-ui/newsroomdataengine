@@ -1,302 +1,132 @@
 {
-  "-no-safe-haven-for-those-who-threaten-india-s-security-rajna": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "attack|attack|pakistan|terror|terror|threat|war",
-    "norm": 81.1
+  "trump-xi-jinping-live-updates-trump-xi-to-talk-trade-ai-iran": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "china|iran|mp|trump|trump|war",
+    "norm": 78.4
   },
-  "mushtaq-khan-welcome-and-gadar-ek-prem-katha-actor-passes-aw": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "actor|bollywood|bollywood|hospital|khan|mp",
-    "norm": 79.1
+  "woman-alleges-her-photo-was-morphed-during-cjp-protests-cops": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "minister|modi|modi|mp|prime minister|protest|protest",
+    "norm": 78.2
   },
-  "prakash-raj-backs-anti-baldota-anti-pollution-protest-in-kop": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "actor|mp|poll|protest|protest",
-    "norm": 73.6
+  "meta-ai-boss-posts-edited-altman-dario-pic-with-pm-modi-then": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "modi|modi|mp|war",
+    "norm": 71.6
   },
-  "trump-xi-jinping-live-updates-us-china-must-ensure-ai-develo": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "china|mp|trump|trump|war",
-    "norm": 73.6
+  "uae-suspends-all-flights-by-iranian-airlines-to-comply-with-": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "ipl|iran|mp|sanction",
+    "norm": 65
   },
-  "-modi-shah-gyanesh-kumar-are-deshdrohi-rahul-gandhi-says-all": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "election|election|modi|modi|rahul gandhi",
-    "norm": 71.3
+  "centre-seeks-2-year-window-to-implement-top-court-s-obc-crea": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "mp|recruitment|ruling|verdict",
+    "norm": 61.8
   },
-  "cong-killed-sikhs-in-84-aap-now-killing-youth-with-drugs-pho": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "aap|killed|killed",
-    "norm": 70.3
+  "-even-china-isn-t-doing-this-to-tibet-sonam-wangchuk-draws-s": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "amit shah|china|minister|mp|star",
+    "norm": 61.1
   },
-  "-we-must-be-prepared-for-future-security-challenges-rajnath-": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "deal|defence|minister|war",
-    "norm": 69.6
+  "delhi-police-registers-fir-after-woman-alleges-harassment-an": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "protest|protest|threat",
+    "norm": 59.6
   },
-  "trump-should-address-beijing-ethnic-unity-law-during-meeting": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "mp|president|trump|trump",
-    "norm": 66.3
+  "india-russia-iran-among-9-countries-to-be-part-of-brics-thea": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "brics|iran",
+    "norm": 55.4
   },
-  "trump-xi-jinping-head-into-washington-summit-with-both-leade": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "mp|summit|trump|trump",
-    "norm": 66.3
+  "students-protest-flag-poor-infra-at-andhra-university-vc-ass": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "govt-hospitals-will-get-new-staff-pattern-says-keralam-healt": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "crore|hospital|minister",
-    "norm": 65.6
+  "khabib-nurmagomedov-and-islam-makhachev-s-brotherhood-beyond": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "row|slam",
+    "norm": 52.1
   },
-  "-modiji-has-weaponised-ed-punjab-minister-harpal-cheema-targ": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "minister|modi|modi",
-    "norm": 64.2
+  "china-to-send-2-giant-pandas-ping-ping-and-fu-shuang-to-us-z": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "china|star",
+    "norm": 51.7
   },
-  "centre-seeks-two-year-window-to-implement-sc-ruling-on-obc-c": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "mp|recruitment|ruling",
-    "norm": 64.2
+  "child-rape-cases-went-up-4-times-over-a-decade-convictions-r": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "mp|record",
+    "norm": 50.2
   },
-  "lokesh-allays-fears-over-environmental-impact-of-data-centre": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "fear|minister|mp",
-    "norm": 61.4
+  "u-s-ambassador-indian-army-commander-witness-firing-demonstr": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "army|mp",
+    "norm": 48.7
   },
-  "-election-snatcher-akhilesh-yadav-says-gyanesh-kumar-must-st": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "election|election|vote",
-    "norm": 61.4
-  },
-  "diljit-dosanjh-to-bring-aura-world-tour-at-narendra-modi-sta": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "modi|modi",
-    "norm": 60
-  },
-  "india-highlights-principles-of-sarvodaya-for-inclusive-path-": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "ipl|minister",
-    "norm": 60
-  },
-  "asian-games-asha-misses-women-triple-jump-medal-on-countback": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "ipl|mp",
-    "norm": 60
-  },
-  "kochi-metro-rail-limited-issues-circular-imposing-curbs-on-o": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "mp|war",
-    "norm": 57.1
-  },
-  "-india-will-no-longer-tolerate-nuclear-blackmail-rajnath-sin": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "pakistan|war",
-    "norm": 57.1
-  },
-  "senior-ips-officer-a-arun-transferred-placed-in-vacancy-rese": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "controversy|mp",
-    "norm": 57.1
-  },
-  "raipur-cops-give-9-hr-280km-inter-state-chase-to-rescue-todd": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "rescue|rescue",
-    "norm": 57.1
-  },
-  "how-microsoft-helped-uncover-an-urban-myth-it-went-that-atar": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "mystery|war",
-    "norm": 57.1
-  },
-  "interarch-building-solutions-to-invest-300-crore-for-heavy-s": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "crore|mp",
-    "norm": 55
-  },
-  "brs-hails-supreme-court-verdict-on-danam-nagender-s-disquali": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "mla|rahul gandhi|supreme court|verdict",
-    "norm": 53.9
-  },
-  "collector-directs-officials-to-fast-track-industrial-growth-": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "row|war",
-    "norm": 53.9
-  },
-  "understanding-premature-baby-milestones-how-parents-can-trac": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "row|war",
-    "norm": 53.9
-  },
-  "-lacks-knowledge-of-indian-politic-bjp-hits-back-at-rahul-ga": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "bjp|rahul gandhi",
-    "norm": 53.5
-  },
-  "ed-wraps-up-36-hour-gmada-searches-aap-accuses-centre-of-tar": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "aap|poll",
-    "norm": 53.5
-  },
-  "palestinian-president-delivers-un-speech-by-video-after-us-d": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "president|video",
-    "norm": 52
-  },
-  "raghav-chadha-on-3-years-of-marital-bliss-with-parineeti-cho": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "neet",
-    "norm": 51.2
-  },
-  "explained-how-an-ai-assisted-kill-chain-led-to-the-minab-sch": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "iran",
-    "norm": 51.2
-  },
-  "father-affair-property-fear-why-kanpur-millionaire-son-order": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "fear",
-    "norm": 51.2
-  },
-  "bjp-stages-mock-funeral-of-bankrupt-congress-govt-": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "bjp|congress",
-    "norm": 50.5
-  },
-  "tmc-mahua-moitra-files-complaint-against-cec-gyanesh-kumar-o": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "jailed-haryana-gangster-mainpal-dhilla-gets-12-hour-parole-t": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "gst",
-    "norm": 49
-  },
-  "ap-special-aadhaar-camps-for-students-from-sept-25": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "mp",
-    "norm": 49
-  },
-  "nationwide-bank-strike-state-level-bankers-committee-advises": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "alert",
+  "upi-mdr-row-government-moves-to-ensure-merchants-don-t-pass-": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "row",
     "norm": 48.2
   },
-  "collector-calls-for-promotion-of-millets-to-boost-health-far": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
+  "bypoll-in-madurantakam-was-forced-palaniswami": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "poll",
+    "norm": 45.9
+  },
+  "congress-cadre-seek-cec-s-resignation": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
+    "signature": "congress",
+    "norm": 44
+  },
+  "pranay-murder-case-convict-dies-after-complaining-of-chest-p": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "streams-rivulets-swell-in-north-andhra-motorists-stranded": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
+  "veeramani-pocso-case-two-senior-ips-officers-removed-from-po": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "indraprastha-gas-ltd-records-highest-ever-gas-sales-at-9-39-": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "record",
-    "norm": 45.9
-  },
-  "myanmar-training-camp-case-nia-court-grants-permission-to-tr": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "all-about-dolly-parton-bond-with-nephew-bryan-seaver-and-the": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "convergent-backed-jagsonpal-bluebinaries-macquarie-blueleaf-": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "ladakh-shuts-down-to-honour-victims-of-last-year-unrest": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "zoha-is-crafting-a-sound-entirely-her-own": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "odisha-opens-door-to-nuclear-power-six-sites-under-study": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "mecca-in-crosshairs-again-saudi-arabia-sounds-alarm-for-holy": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "timor-leste-backs-india-un-security-council-bid": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "scimitar-horned-oryx-was-declared-extinct-in-the-wild-in-200": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "neermahal-jal-utsav-2026-to-be-held-in-melaghar-from-october": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 39.4
-  },
-  "telangana-forms-panel-to-probe-16-cases-of-alleged-land-irre": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
+  "encroachments-removed-to-provide-easy-access-to-government-h": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "",
     "norm": 36
   },
-  "ktr-urges-apex-court-to-fix-anomalies-in-ec-functioning": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
+  "ex-servicemen-widows-in-telangana-to-get-higher-welfare-gran": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "",
     "norm": 36
   },
-  "cmrl-exalogic-pay-off-case-kerala-police-issue-formal-orders": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
+  "anna-university-partners-with-boeing-india-to-establish-flam": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "",
     "norm": 36
   },
-  "councillor-sugathan-s-brother-arrested-for-alleged-trespass-": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
+  "andhra-university-leads-in-nss-activities": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "",
     "norm": 36
   },
-  "-do-guna-zindagi-song-from-little-thoma-unveiled": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
+  "ponnam-reviews-arrangements-for-cm-s-visit-to-karimnagar-on-": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "",
     "norm": 36
   },
-  "l-t-technology-services-partners-with-cognite-to-advance-eng": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
+  "ganesh-immersion-finale-to-take-over-hyderabad-roads-on-frid": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "ktr-flags-reported-differences-within-ec-calls-for-greater-s": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
+  "-ytps-to-remain-a-burden-on-state-forever-due-to-lack-of-g9-": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "more-ways-to-design-your-future-isdi-atlas-skilltech-univers": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
+  "2-men-on-bike-snatch-woman-sarpanch-s-earrings-in-punjab-vil": {
+    "firstSeen": "2026-09-24T19:04:04.832Z",
     "signature": "",
-    "norm": 36
-  },
-  "us-weekly-jobless-claims-fall-to-197-000-pointing-to-continu": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 36
-  },
-  "from-emissions-to-assets-india-carbon-market-set-for-trading": {
-    "firstSeen": "2026-09-24T14:58:25.359Z",
-    "signature": "",
-    "norm": 36
+    "norm": 33.9
   }
 }
