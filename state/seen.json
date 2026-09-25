@@ -1,206 +1,191 @@
 {
-  "rain-fury-in-odisha-triggers-flood-fear-schools-closed-10-00": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "evacuat|fear|flood|flood|fury|fury|heavy rain",
-    "norm": 78.2
+  "trump-gives-totally-unacceptable-warning-to-xi-over-china-he": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "china|iran|mp|trump|trump|war|warning",
+    "norm": 87.8
   },
-  "pumping-life-into-mecca-pact-saudi-turkey-pak-plan-meet-agai": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "attack|attack|minister|mp|pakistan|prime minister|threat",
-    "norm": 77.9
+  "election-commission-row-live-cpi-ml-liberation-leaders-aisa-": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "congress|election|election|election commission|opposition|poll|protest|protest|row",
+    "norm": 84.9
   },
-  "heavy-rain-lashes-odisha-over-8-000-people-evacuated-ministe": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "evacuat|heavy rain|minister|mp|weather",
-    "norm": 75
+  "election-commission-row-live-assam-congress-chief-gaurav-gog": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "congress|election|election|election commission|protest|protest|row",
+    "norm": 83.5
   },
-  "election-commission-row-live-cjp-founder-dipke-urges-opposit": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "election|election|election commission|opposition|rahul gandhi|row",
-    "norm": 73
+  "jantar-mantar-news-live-several-protesters-detained-in-delhi": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "election|election|election commission|mp|protest|protest|row",
+    "norm": 83.5
   },
-  "sir-civil-society-groups-to-conduct-social-audit-in-kodagu-o": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "dead|dead|mp|poll",
-    "norm": 71.6
+  "-dmk-bjp-vijay-sounds-poll-bugle-for-tamil-nadu-bye-election": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "attack|attack|bjp|election|election|poll",
+    "norm": 81.7
   },
-  "shocking-details-in-kanpur-businessman-vineet-minocha-s-murd": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "fear|neet|shock|shock|shocking",
-    "norm": 70.9
+  "brahmos-made-in-u-p-giving-pakistan-sleepless-nights-says-am": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "amit shah|economy|modi|modi|pakistan|row",
+    "norm": 81.3
   },
-  "third-case-in-a-week-minor-girl-harassed-in-bihar-s-banka-af": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "attack|attack|death|video",
+  "man-s-crowdfunding-drive-for-sister-s-surgery-went-viral-she": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "crowd|fund|row|viral|viral|viral",
+    "norm": 78.8
+  },
+  "bjp-leader-s-son-stays-back-to-save-mother-in-noida-bus-fire": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "bjp|died|fire|fire",
+    "norm": 71.4
+  },
+  "from-ukraine-to-africa-drone-dog-fights-now-a-reality": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "attack|attack|drone|mp",
+    "norm": 71.4
+  },
+  "shehbaz-sharif-at-unga-anti-pakistan-protests-in-geneva-balo": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "pakistan|protest|protest|row|slam",
+    "norm": 68.9
+  },
+  "cop-shot-dead-inside-chandigarh-home-son-detained": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "dead|dead|fire|fire",
     "norm": 68.4
   },
-  "ed-searches-arafa-gold-premises-in-kollam-thiruvananthapuram": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "fraud|gold|mp",
+  "at-unga-jaishankar-flags-attacks-on-seafarers-no-longer-exce": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "attack|attack|jaishankar",
     "norm": 67.6
   },
-  "colorado-researchers-grow-saffron-on-solar-panels-double-yie": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "result|results|results|row",
-    "norm": 67.1
+  "boulders-crash-onto-indrakeeladri-ghat-road-in-vijayawada-af": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "crash|crash|war",
+    "norm": 67.6
   },
-  "azamgarh-shooting-injured-boy-dies-taking-toll-to-5-two-sist": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "died|hospital|injured|shooting|toll",
-    "norm": 66.8
+  "centre-extends-disturbed-area-status-under-afspa-in-manipur-": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "border|killed|killed",
+    "norm": 67.6
   },
-  "confident-that-vijay-will-accept-rahul-as-prime-ministerial-": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "congress|election|election|minister|parliament|president|prime minister",
-    "norm": 65.3
+  "-gyanesh-kumar-deserves-padma-bhushan-bjp-hits-back-amid-opp": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "bjp|opposition|protest|protest",
+    "norm": 66.9
   },
-  "j-k-cm-moves-resolution-for-full-statehood-restoration-in-as": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "bjp|mla|protest|protest",
-    "norm": 65.3
-  },
-  "the-eci-work-order-that-triggered-letters-to-cabinet-secreta": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "cabinet|election|election|election commission",
+  "delhi-hc-directs-meta-to-remove-morphed-photo-of-woman-with-": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "minister|modi|modi|prime minister",
     "norm": 63.5
   },
-  "revisit-sir-exercise-cec-must-resign-naveen-patnaik-on-repor": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "election|election|election commission|poll",
-    "norm": 63.5
+  "cec-gyanesh-kumar-vs-cjp-what-happens-if-a-chief-election-co": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "election|election|election commission",
+    "norm": 61.4
   },
-  "the-murky-world-of-political-party-finance": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "election|election|election commission|vote",
-    "norm": 61.8
-  },
-  "51-000-chair-battery-packs-recalled-after-overheating-smokin": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "fire|fire|mp",
+  "ht-evening-news-brief-sept-25-hc-notice-to-dipke-over-morphe": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "congress|protest|protest",
     "norm": 61.1
   },
-  "hormuz-to-truce-talks-inside-iran-s-new-7-day-plan-to-end-wa": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "iran|war",
-    "norm": 57.6
-  },
-  "-more-made-in-india-more-investment-more-exports-pm-modi-mar": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "modi|modi",
+  "jarkiholi-backs-d-k-shivakumar-as-karnataka-cm-after-2028-po": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "poll|row",
     "norm": 57.1
   },
-  "messi-visit-row-court-postpones-order-on-anto-augustine-s-an": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "defence|row",
-    "norm": 55.4
+  "protest-staged-against-basavadi-sharanara-hindu-samavesha": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "power-bank-sold-for-27-recalled-after-9-fires-one-caused-2m-": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "fire|fire",
-    "norm": 52.4
+  "congress-bjp-responsible-for-defections-in-country-brs": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "bjp|congress|defection",
+    "norm": 52.7
   },
-  "several-houses-at-risk-as-fresh-landslides-hit-sikkim-s-rimb": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "heavy rain|landslide",
-    "norm": 52.1
+  "defence-minister-felicitates-expedition-crew-summitting-20-u": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "defence|minister|summit",
+    "norm": 52.7
   },
-  "ganesh-immersion-2026-live-balapur-ganesh-laddu-fetches-reco": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "lakh|record",
+  "pinarayi-calls-for-removal-of-gyanesh-kumar-from-cec-post": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "minister|record",
     "norm": 52
   },
-  "inquiry-into-allegations-of-bjp-trying-to-file-bulk-objectio": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "bjp|vote",
+  "veeramani-case-dmk-files-1-cr-defamation-suit-against-minist": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "high court|minister",
     "norm": 50.5
   },
-  "locked-iphone-at-heart-of-investigation-in-iit-bombay-studen": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "bomb",
-    "norm": 46.3
+  "keralam-govt-to-crackdown-on-fraudulent-agencies": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "fraud",
+    "norm": 48.2
   },
-  "punjab-woman-lover-feed-poisoned-sweets-to-3-children-stage-": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "died",
-    "norm": 46.3
+  "-dhoomakethu-movie-review-a-humorous-time-loop-film-which-wo": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "film|movie",
+    "norm": 48.2
   },
-  "oregon-approves-2m-deal-to-protect-92-foot-abiqua-falls-and-": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "deal",
+  "lokesh-woos-investments-in-clean-energy-manufacturing-and-da": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "google-hitches-a-ride-aboard-elon-musk-s-spacex-to-send-tpus": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "mp",
+  "poor-lighting-broken-walls-security-risks-at-delhi-s-aastha-": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "gst",
     "norm": 44
   },
-  "immersion-procession-of-khairatabad-ganesh-idol-in-hyderabad": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "star",
-    "norm": 42.4
+  "veeramani-s-judicial-custody-extended-till-oct-9-in-pocso-ac": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "video",
+    "norm": 42.7
   },
-  "12th-pass-hyderabad-doctor-arrested-treated-patiens-with-sex": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "khan",
-    "norm": 42.4
-  },
-  "-gem-granites-veeramani-case-police-officer-m-a-yasmin-who-f": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "star",
-    "norm": 42.4
-  },
-  "us-returns-36-ancient-syrian-artifacts-worth-over-5-million": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
+  "faulty-traffic-signals-expose-traffic-police-to-health-hazar": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
     "signature": "",
     "norm": 36
   },
-  "poor-government-schools-rising-private-fees-burden-telangana": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
+  "drop-move-to-relocate-thiruvananthapuram-zoo-chinchurani": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
     "signature": "",
     "norm": 36
   },
-  "centenarian-yoga-guru-b-n-s-iyengar-felicitated-in-mysuru": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
+  "trek-organised-to-promote-eco-tourism-at-horsley-hills": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
     "signature": "",
     "norm": 36
   },
-  "-gem-granites-veeramani-pocso-act-case-all-woman-sit-to-take": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
+  "t-n-government-looks-at-developing-gccs-in-fintech-space-in-": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
     "signature": "",
     "norm": 36
   },
-  "dengue-under-control-in-tamil-nadu-says-health-secretary-in-": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
+  "telangana-urges-mojs-to-expedite-drainage-congestion-studies": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
     "signature": "",
     "norm": 36
   },
-  "what-allowed-vandyke-6-ukrainians-to-walk-free-and-return-ho": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
+  "mgp-opposes-railway-construction-near-108-year-old-school-in": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "",
+    "norm": 36
+  },
+  "sri-sathya-sai-district-to-play-key-role-in-transforming-ray": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
+    "signature": "",
+    "norm": 36
+  },
+  "op-fortress-siliguri-india-takes-underground-route-to-secure": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
     "signature": "",
     "norm": 33.9
   },
-  "-not-a-government-issue-fm-sitharaman-explains-where-upi-mdr": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "lizard-in-free-breakfast-served-to-school-students-cooks-rel": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "andhra-govt-to-turn-rayalaseema-into-global-fruit-bowl": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "sc-seeks-goa-response-to-tarun-tejpal-challenging-conviction": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-if-there-can-be-housewives-there-can-be-house-husbands-madr": {
-    "firstSeen": "2026-09-25T07:41:11.384Z",
+  "nazi-seized-1892-painting-returned-to-us-heirs-after-decades": {
+    "firstSeen": "2026-09-25T13:40:12.788Z",
     "signature": "",
     "norm": 33.9
   }
