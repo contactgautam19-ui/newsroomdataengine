@@ -1,51 +1,206 @@
 {
-  "watch-netanyahu-holds-up-pager-at-un-recalls-israel-s-attack": {
-    "firstSeen": "2026-09-25T01:25:18.650Z",
-    "signature": "attack|attack|israel|watch",
-    "norm": 73.3
+  "rain-fury-in-odisha-triggers-flood-fear-schools-closed-10-00": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "evacuat|fear|flood|flood|fury|fury|heavy rain",
+    "norm": 78.2
   },
-  "trinamool-symbol-freeze-row-supreme-court-asks-ec-adjudicati": {
-    "firstSeen": "2026-09-25T01:25:18.650Z",
-    "signature": "election|election|row|supreme court",
+  "pumping-life-into-mecca-pact-saudi-turkey-pak-plan-meet-agai": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "attack|attack|minister|mp|pakistan|prime minister|threat",
+    "norm": 77.9
+  },
+  "heavy-rain-lashes-odisha-over-8-000-people-evacuated-ministe": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "evacuat|heavy rain|minister|mp|weather",
+    "norm": 75
+  },
+  "election-commission-row-live-cjp-founder-dipke-urges-opposit": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "election|election|election commission|opposition|rahul gandhi|row",
+    "norm": 73
+  },
+  "sir-civil-society-groups-to-conduct-social-audit-in-kodagu-o": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "dead|dead|mp|poll",
     "norm": 71.6
   },
-  "-we-ve-never-gotten-along-better-trump-xi-strike-warm-tone-a": {
-    "firstSeen": "2026-09-25T01:25:18.650Z",
-    "signature": "mp|trump|trump|war",
-    "norm": 71.6
+  "shocking-details-in-kanpur-businessman-vineet-minocha-s-murd": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "fear|neet|shock|shock|shocking",
+    "norm": 70.9
   },
-  "rahul-gandhi-a-master-of-deception-allegations-of-vote-theft": {
-    "firstSeen": "2026-09-25T01:25:18.650Z",
-    "signature": "bjp|election|election|election commission|rahul gandhi|vote",
-    "norm": 65.1
+  "third-case-in-a-week-minor-girl-harassed-in-bihar-s-banka-af": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "attack|attack|death|video",
+    "norm": 68.4
   },
-  "covering-the-bases-from-visibility-to-votes": {
-    "firstSeen": "2026-09-25T01:25:18.650Z",
-    "signature": "border|congress|rahul gandhi|vote|war",
-    "norm": 64.6
+  "ed-searches-arafa-gold-premises-in-kollam-thiruvananthapuram": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "fraud|gold|mp",
+    "norm": 67.6
   },
-  "changing-culture-of-movie-watching": {
-    "firstSeen": "2026-09-25T01:25:18.650Z",
-    "signature": "ipl|movie|watch",
-    "norm": 61.4
+  "colorado-researchers-grow-saffron-on-solar-panels-double-yie": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "result|results|results|row",
+    "norm": 67.1
   },
-  "12-years-of-make-in-india-in-12-metrics-low-and-patchy-impac": {
-    "firstSeen": "2026-09-25T01:25:18.650Z",
-    "signature": "mp|row",
+  "azamgarh-shooting-injured-boy-dies-taking-toll-to-5-two-sist": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "died|hospital|injured|shooting|toll",
+    "norm": 66.8
+  },
+  "confident-that-vijay-will-accept-rahul-as-prime-ministerial-": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "congress|election|election|minister|parliament|president|prime minister",
+    "norm": 65.3
+  },
+  "j-k-cm-moves-resolution-for-full-statehood-restoration-in-as": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "bjp|mla|protest|protest",
+    "norm": 65.3
+  },
+  "the-eci-work-order-that-triggered-letters-to-cabinet-secreta": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "cabinet|election|election|election commission",
+    "norm": 63.5
+  },
+  "revisit-sir-exercise-cec-must-resign-naveen-patnaik-on-repor": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "election|election|election commission|poll",
+    "norm": 63.5
+  },
+  "the-murky-world-of-political-party-finance": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "election|election|election commission|vote",
+    "norm": 61.8
+  },
+  "51-000-chair-battery-packs-recalled-after-overheating-smokin": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "fire|fire|mp",
+    "norm": 61.1
+  },
+  "hormuz-to-truce-talks-inside-iran-s-new-7-day-plan-to-end-wa": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "iran|war",
+    "norm": 57.6
+  },
+  "-more-made-in-india-more-investment-more-exports-pm-modi-mar": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "modi|modi",
     "norm": 57.1
   },
-  "opposition-to-move-fresh-notice-for-cec-s-removal-india-bloc": {
-    "firstSeen": "2026-09-25T01:25:18.650Z",
-    "signature": "opposition|parliament|rajya sabha",
-    "norm": 52.7
+  "messi-visit-row-court-postpones-order-on-anto-augustine-s-an": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "defence|row",
+    "norm": 55.4
   },
-  "bengaluru-police-issues-guidelines-to-curb-harassment-extort": {
-    "firstSeen": "2026-09-25T01:25:18.650Z",
+  "power-bank-sold-for-27-recalled-after-9-fires-one-caused-2m-": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "fire|fire",
+    "norm": 52.4
+  },
+  "several-houses-at-risk-as-fresh-landslides-hit-sikkim-s-rimb": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "heavy rain|landslide",
+    "norm": 52.1
+  },
+  "ganesh-immersion-2026-live-balapur-ganesh-laddu-fetches-reco": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "lakh|record",
+    "norm": 52
+  },
+  "inquiry-into-allegations-of-bjp-trying-to-file-bulk-objectio": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "bjp|vote",
+    "norm": 50.5
+  },
+  "locked-iphone-at-heart-of-investigation-in-iit-bombay-studen": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "bomb",
+    "norm": 46.3
+  },
+  "punjab-woman-lover-feed-poisoned-sweets-to-3-children-stage-": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "died",
+    "norm": 46.3
+  },
+  "oregon-approves-2m-deal-to-protect-92-foot-abiqua-falls-and-": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "deal",
+    "norm": 45.9
+  },
+  "google-hitches-a-ride-aboard-elon-musk-s-spacex-to-send-tpus": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
     "signature": "mp",
     "norm": 44
   },
-  "-mark-vip-eci-adds-fresh-feature-in-app-used-by-booth-level-": {
-    "firstSeen": "2026-09-25T01:25:18.650Z",
+  "immersion-procession-of-khairatabad-ganesh-idol-in-hyderabad": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "12th-pass-hyderabad-doctor-arrested-treated-patiens-with-sex": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "-gem-granites-veeramani-case-police-officer-m-a-yasmin-who-f": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "us-returns-36-ancient-syrian-artifacts-worth-over-5-million": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "",
+    "norm": 36
+  },
+  "poor-government-schools-rising-private-fees-burden-telangana": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "",
+    "norm": 36
+  },
+  "centenarian-yoga-guru-b-n-s-iyengar-felicitated-in-mysuru": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-gem-granites-veeramani-pocso-act-case-all-woman-sit-to-take": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "",
+    "norm": 36
+  },
+  "dengue-under-control-in-tamil-nadu-says-health-secretary-in-": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "",
+    "norm": 36
+  },
+  "what-allowed-vandyke-6-ukrainians-to-walk-free-and-return-ho": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-not-a-government-issue-fm-sitharaman-explains-where-upi-mdr": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "lizard-in-free-breakfast-served-to-school-students-cooks-rel": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "andhra-govt-to-turn-rayalaseema-into-global-fruit-bowl": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "sc-seeks-goa-response-to-tarun-tejpal-challenging-conviction": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-if-there-can-be-housewives-there-can-be-house-husbands-madr": {
+    "firstSeen": "2026-09-25T07:41:11.384Z",
     "signature": "",
     "norm": 33.9
   }
