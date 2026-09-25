@@ -1,122 +1,27 @@
 {
-  "heavy-rain-floods-chhattisgarh-one-dead-bastar-villages-cut-": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "dead|dead|flood|flood|floods|heavy rain|star",
-    "norm": 78.6
+  "u-p-congress-leaders-clash-with-police-detained-during-prote": {
+    "firstSeen": "2026-09-25T22:14:42.606Z",
+    "signature": "clash|clash|congress|election|election|election commission|protest|protest|war",
+    "norm": 88.3
   },
-  "congress-leads-protests-demanding-cec-s-resignation-arrest": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "congress|modi|modi|opposition|protest|protest",
-    "norm": 77.2
+  "trump-mocks-biden-s-autopen-use-while-showing-xi-presidentia": {
+    "firstSeen": "2026-09-25T22:14:42.606Z",
+    "signature": "mp|president|trump|trump",
+    "norm": 63.5
   },
-  "trump-xi-bonhomie-set-to-continue-leaders-announce-two-more-": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "china|g20|mp|president|result|summit|trump|trump",
-    "norm": 68.8
-  },
-  "royal-bengal-tiger-cub-rescued-from-house-in-odisha-s-mayurb": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "heavy rain|mp|rescue|rescue",
-    "norm": 66.3
-  },
-  "stalin-hits-back-at-vijay-accuses-him-of-surrendering-to-bjp": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "bjp|chief minister|election|election|minister|mla|president",
-    "norm": 65.3
-  },
-  "18th-idsffk-begins-under-a-cloud-of-censorship": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "film|minister|mp",
-    "norm": 56.1
-  },
-  "lawyers-group-seek-fresh-hearing-in-cec-law-challenge-noida-": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "high court|mp|sharma",
-    "norm": 56.1
-  },
-  "union-minister-and-nda-ally-jitan-ram-manjhi-says-scheduled-": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "bjp|lok sabha|minister|mp|parliament",
-    "norm": 54.4
-  },
-  "polavaram-officials-sound-alert-as-sabari-river-in-spate": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "alert|heavy rain",
-    "norm": 53.9
-  },
-  "matthew-vandyke-6-ukrainians-allowed-to-leave-india-amid-dro": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "drone|war",
-    "norm": 52.4
-  },
-  "farmers-protesting-bidadi-township-project-detained-after-ro": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "minister-assures-aid-for-submerged-farmlands-in-srikakulam-d": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "minister|mla",
-    "norm": 50.5
-  },
-  "ai-led-phone-price-hikes-persist-hitting-indian-customers": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "budget|price",
-    "norm": 48.7
-  },
-  "two-held-for-planting-ai-generated-maoist-threat-letters-in-": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "threat",
+  "months-after-osm-row-government-appoints-new-cbse-chairperso": {
+    "firstSeen": "2026-09-25T22:14:42.606Z",
+    "signature": "row",
     "norm": 48.2
   },
-  "over-300-participate-in-pu-principals-summit": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "summit",
-    "norm": 45.9
-  },
-  "villagers-oppose-setting-up-of-sewage-treatment-plant-near-s": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "mla",
-    "norm": 45.9
-  },
-  "cmc-to-organise-cookery-competition-to-mark-world-diabetes-d": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
+  "on-unga-margins-india-amp-liberia-set-up-sailors-safety-body": {
+    "firstSeen": "2026-09-25T22:14:42.606Z",
     "signature": "mp",
     "norm": 44
   },
-  "dvac-searches-premises-linked-to-dmk-s-tiruvannamalai-mp-c-n": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "more-than-88-000-ganesh-idols-immersed-in-telangana-dgp": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "cctv",
-    "norm": 42.7
-  },
-  "people-urged-not-to-abandon-children": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
+  "psu-banks-lift-atm-charges-in-view-of-strike": {
+    "firstSeen": "2026-09-25T22:14:42.606Z",
     "signature": "",
     "norm": 36
-  },
-  "sc-panel-urges-action-to-recover-dalit-lands-encroached-by-i": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "",
-    "norm": 36
-  },
-  "man-dies-as-two-wheeler-rams-his-vehicle": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "ias-officer-mandeep-bhandari-appointed-chairperson-of-cbse": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "rgi-mritunjay-kumar-narayan-reviews-census-work-in-ladakh": {
-    "firstSeen": "2026-09-25T18:31:33.532Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
