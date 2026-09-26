@@ -1,117 +1,42 @@
 {
-  "election-commission-stops-physical-hearings-for-voters-to-st": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "dead|dead|election|election|election commission|maharashtra|star|vote",
-    "norm": 93.8
+  "4-killed-5-injured-as-metal-container-carrying-gelatin-stick": {
+    "firstSeen": "2026-09-26T21:03:33.741Z",
+    "signature": "actor|blast|injured|killed|killed|maharashtra",
+    "norm": 81.8
   },
-  "old-form-6-forms-ecinet-review-election-commission-announces": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "dead|dead|election|election|election commission|maharashtra|row|vote",
-    "norm": 90.9
+  "daunte-wright-s-1-04m-gofundme-led-to-lawsuit-over-son-s-sup": {
+    "firstSeen": "2026-09-26T21:03:33.741Z",
+    "signature": "fund|mp|shooting|tragic",
+    "norm": 74
   },
-  "gyanesh-kumar-under-fire-opposition-demands-cec-resignation-": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "congress|controversy|election|election|election commission|fire|fire|opposition",
-    "norm": 89
-  },
-  "weather-updates-six-dead-over-100-houses-damaged-as-heavy-ra": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "alert|dead|dead|heavy rain|red alert|storm|war|weather",
-    "norm": 83.5
-  },
-  "-gyanu-must-go-says-dipke-after-kerala-bureaucrat-claims-gya": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "bjp|controversy|election|election|election commission",
-    "norm": 72
-  },
-  "iowa-firm-lost-800k-to-fake-invoices-feds-recover-375k-four-": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "fraud|fund|mp|scam",
-    "norm": 69
-  },
-  "mamata-vows-opposition-unity-on-demands-for-removal-of-cec-g": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "congress|mamata|opposition|protest|protest|rahul gandhi",
-    "norm": 68.4
-  },
-  "tamil-nadu-youtuber-s-gold-cash-flaunting-on-social-media-ba": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "fire|fire|gold|video",
-    "norm": 66
-  },
-  "-attempts-to-undermine-global-confidence-bjp-hits-back-at-op": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "bjp|mp|opposition|poll|row",
-    "norm": 64.6
-  },
-  "press-club-condemns-detention-of-journalists-covering-protes": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "amit shah|protest|protest",
+  "trade-unions-farm-outfits-join-chorus-to-remove-cec-gyanesh-": {
+    "firstSeen": "2026-09-26T21:03:33.741Z",
+    "signature": "protest|protest|vote",
     "norm": 62.8
   },
-  "nda-ruled-andhra-pradesh-refuses-to-defend-changes-to-trans-": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "khan|war",
-    "norm": 55.7
+  "election-panel-backs-form-6-for-sir-says-sc-upheld-its-use": {
+    "firstSeen": "2026-09-26T21:03:33.741Z",
+    "signature": "election|election",
+    "norm": 57.1
   },
-  "air-india-crash-probe-pilots-body-seeks-formal-consideration": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "crash|crash",
+  "pm-modi-gave-energy-access-to-more-than-anyone-in-history-au": {
+    "firstSeen": "2026-09-26T21:03:33.741Z",
+    "signature": "modi|modi",
     "norm": 55.4
   },
-  "asian-games-2026-highlights-india-s-kabaddi-teams-dominate-w": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "gold|surprise",
-    "norm": 54.2
+  "india-bangladesh-look-towards-rahman-visit-in-november": {
+    "firstSeen": "2026-09-26T21:03:33.741Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "sri-lankan-ruling-party-delegation-to-visit-india-meet-bjp-l": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "bjp|chief minister|jaishankar|minister|ruling",
-    "norm": 52.6
+  "-justice-must-find-its-way-to-the-citizen-cji-surya-kant": {
+    "firstSeen": "2026-09-26T21:03:33.741Z",
+    "signature": "cji",
+    "norm": 45.9
   },
-  "-old-file-wearing-a-new-mic-bjp-hits-out-at-congress-over-ex": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "aap|bjp|congress|rahul gandhi",
-    "norm": 52.1
-  },
-  "temple-priest-arrested-for-alleged-derogatory-remarks-agains": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "mp|video",
-    "norm": 52
-  },
-  "uttarakhand-bans-loud-sound-systems-near-badrinath-dham-temp": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "khan|mp",
-    "norm": 51.7
-  },
-  "man-punches-wife-pulls-her-hair-after-hearing-in-family-disp": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "mp|video",
-    "norm": 50.2
-  },
-  "he-attested-brother-s-sale-deed-hc-cites-oral-partition-fami": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "ruling",
-    "norm": 44
-  },
-  "ai-camera-mistakes-guitar-for-pillion-rider-in-bengaluru-iss": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "pune-s-ganpati-takes-grand-farewell-even-as-festival-noise-s": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
+  "80-aircraft-40-countries-iaf-s-tarang-shakti-air-exercise-ki": {
+    "firstSeen": "2026-09-26T21:03:33.741Z",
     "signature": "",
     "norm": 36
-  },
-  "telangana-plans-tourism-coupons-to-get-hyderabad-it-professi": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "",
-    "norm": 36
-  },
-  "workplace-equality-has-to-be-built-not-announced-charu-sinha": {
-    "firstSeen": "2026-09-26T17:06:16.950Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
