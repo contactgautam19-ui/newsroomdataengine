@@ -1,42 +1,32 @@
 {
-  "4-killed-5-injured-as-metal-container-carrying-gelatin-stick": {
-    "firstSeen": "2026-09-26T21:03:33.741Z",
-    "signature": "actor|blast|injured|killed|killed|maharashtra",
-    "norm": 81.8
+  "mns-and-shiv-sena-ubt-to-hold-join-protest-on-october-4-agai": {
+    "firstSeen": "2026-09-26T23:34:56.743Z",
+    "signature": "bjp|election|election|election commission|fraud|protest|protest",
+    "norm": 82
   },
-  "daunte-wright-s-1-04m-gofundme-led-to-lawsuit-over-son-s-sup": {
-    "firstSeen": "2026-09-26T21:03:33.741Z",
-    "signature": "fund|mp|shooting|tragic",
-    "norm": 74
+  "mehbooba-mufti-appeals-to-secular-minded-people-to-join-prot": {
+    "firstSeen": "2026-09-26T23:34:56.743Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "trade-unions-farm-outfits-join-chorus-to-remove-cec-gyanesh-": {
-    "firstSeen": "2026-09-26T21:03:33.741Z",
-    "signature": "protest|protest|vote",
-    "norm": 62.8
-  },
-  "election-panel-backs-form-6-for-sir-says-sc-upheld-its-use": {
-    "firstSeen": "2026-09-26T21:03:33.741Z",
-    "signature": "election|election",
-    "norm": 57.1
-  },
-  "pm-modi-gave-energy-access-to-more-than-anyone-in-history-au": {
-    "firstSeen": "2026-09-26T21:03:33.741Z",
-    "signature": "modi|modi",
-    "norm": 55.4
-  },
-  "india-bangladesh-look-towards-rahman-visit-in-november": {
-    "firstSeen": "2026-09-26T21:03:33.741Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "-justice-must-find-its-way-to-the-citizen-cji-surya-kant": {
-    "firstSeen": "2026-09-26T21:03:33.741Z",
-    "signature": "cji",
-    "norm": 45.9
-  },
-  "80-aircraft-40-countries-iaf-s-tarang-shakti-air-exercise-ki": {
-    "firstSeen": "2026-09-26T21:03:33.741Z",
+  "bangladesh-to-replace-planned-sculptures-at-historic-sites": {
+    "firstSeen": "2026-09-26T23:34:56.743Z",
     "signature": "",
     "norm": 36
+  },
+  "awami-members-celebrating-hasina-s-birthday-under-bangladesh": {
+    "firstSeen": "2026-09-26T23:34:56.743Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "23-ips-transferred-in-a-latest-rejig-in-west-bengal-police": {
+    "firstSeen": "2026-09-26T23:34:56.743Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-leo-leo-chants-echo-across-paris-as-800-000-attend-pope-leo": {
+    "firstSeen": "2026-09-26T23:34:56.743Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
