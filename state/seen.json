@@ -1,191 +1,116 @@
 {
-  "ec-holds-first-meeting-amid-sir-row-defends-unanimity-hearin": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "dead|dead|election|election|election commission|maharashtra|row",
-    "norm": 89.1
+  "election-commission-stops-physical-hearings-for-voters-to-st": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "dead|dead|election|election|election commission|maharashtra|star|vote",
+    "norm": 93.8
   },
-  "weather-updates-char-dham-yatra-suspended-red-alert-for-utta": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "alert|khan|red alert|war|weather",
-    "norm": 81
+  "old-form-6-forms-ecinet-review-election-commission-announces": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "dead|dead|election|election|election commission|maharashtra|row|vote",
+    "norm": 90.9
   },
-  "javon-walton-sends-bold-message-to-henry-cejudo-ahead-of-mis": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "clash|clash|match|mp|record",
-    "norm": 76.6
+  "gyanesh-kumar-under-fire-opposition-demands-cec-resignation-": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "congress|controversy|election|election|election commission|fire|fire|opposition",
+    "norm": 89
   },
-  "union-home-minister-amit-shah-faces-youth-congress-black-fla": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "amit shah|bjp|congress|minister|protest|protest|war",
-    "norm": 74.9
+  "weather-updates-six-dead-over-100-houses-damaged-as-heavy-ra": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "alert|dead|dead|heavy rain|red alert|storm|war|weather",
+    "norm": 83.5
   },
-  "ec-sir-row-brings-oppn-on-same-page-india-bloc-to-hold-meeti": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "congress|election|election|election commission|opposition|row",
-    "norm": 74.6
-  },
-  "sir-row-eci-eases-verification-process-relief-for-voters-wit": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "election|election|election commission|row|vote",
-    "norm": 73.6
-  },
-  "sir-row-eci-big-statement-on-voters-with-discrepancies-blos-": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "election|election|election commission|row|vote",
+  "-gyanu-must-go-says-dipke-after-kerala-bureaucrat-claims-gya": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "bjp|controversy|election|election|election commission",
     "norm": 72
   },
-  "election-commission-announces-a-slew-of-sir-decisions-object": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "election|election|election commission|maharashtra|vote",
-    "norm": 67
+  "iowa-firm-lost-800k-to-fake-invoices-feds-recover-375k-four-": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "fraud|fund|mp|scam",
+    "norm": 69
   },
-  "-ec-held-sir-to-help-bjp-capture-bengal-mamata-guns-for-cec-": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "bjp|mamata|protest|protest",
-    "norm": 65.3
+  "mamata-vows-opposition-unity-on-demands-for-removal-of-cec-g": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "congress|mamata|opposition|protest|protest|rahul gandhi",
+    "norm": 68.4
   },
-  "rigvedic-period-to-zero-fir-aspirants-flag-ambiguity-incorre": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "iran|slam|upsc",
-    "norm": 64.5
+  "tamil-nadu-youtuber-s-gold-cash-flaunting-on-social-media-ba": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "fire|fire|gold|video",
+    "norm": 66
   },
-  "ticket-no-tl-360615-wins-30-crore-first-prize-of-keralam-gov": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "crore|mp|price|record",
-    "norm": 63.2
+  "-attempts-to-undermine-global-confidence-bjp-hits-back-at-op": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "bjp|mp|opposition|poll|row",
+    "norm": 64.6
   },
-  "guwahati-student-found-dead-at-homestay-boyfriend-claims-sui": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "dead|dead|hospital",
-    "norm": 62.9
+  "press-club-condemns-detention-of-journalists-covering-protes": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "amit shah|protest|protest",
+    "norm": 62.8
   },
-  "sc-dismisses-bjp-mlas-plea-against-kj-george-in-karnataka-sm": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "bjp|crore|high court|mla|supreme court",
-    "norm": 62.5
+  "nda-ruled-andhra-pradesh-refuses-to-defend-changes-to-trans-": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "khan|war",
+    "norm": 55.7
   },
-  "-i-call-him-vanish-kumar-mamata-banerjee-targets-cec-over-be": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "bjp|mamata|row|ruling",
-    "norm": 61.8
-  },
-  "san-diego-clears-60-tons-of-wildfire-fuel-from-750-acres-at-": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "fire|fire|fuel",
-    "norm": 61.1
-  },
-  "-basic-procedures-not-followed-court-raps-gurugram-police-ov": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "shock|shock|shocking",
-    "norm": 59.6
-  },
-  "asian-games-tajinderpal-singh-misses-hat-trick-of-golds-wins": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "gold|iran|record",
-    "norm": 59.6
-  },
-  "belagavi-youth-drowns-during-ganesh-idol-immersion": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "drown|row",
-    "norm": 59.3
-  },
-  "parameshwara-urges-graduates-to-use-knowledge-and-innovation": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "mp|war",
-    "norm": 57.1
-  },
-  "union-i-b-clears-23-of-the-31-films-at-idsffk-which-were-ear": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "film|high court|mp",
-    "norm": 56.1
-  },
-  "ht-evening-brief-sept-26-poll-body-issues-clarification-on-s": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "gold|poll",
+  "air-india-crash-probe-pilots-body-seeks-formal-consideration": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "crash|crash",
     "norm": 55.4
   },
-  "manipur-naga-body-decides-to-lift-highway-blockades": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "border|war",
-    "norm": 55.4
-  },
-  "cmrl-exalogic-payoff-case-ed-affirms-offence-found-during-pr": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "mla|war",
-    "norm": 55.4
-  },
-  "eam-jaishankar-to-address-unga-today-what-time-is-his-speech": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "jaishankar|minister|watch",
-    "norm": 54.7
-  },
-  "police-gag-media-from-asking-questions-to-cm-satheesan-in-ko": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "chief minister|minister|video",
-    "norm": 54.7
-  },
-  "mehbooba-mufti-appeals-to-secular-minded-people-to-join-prot": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "protest|protest",
+  "asian-games-2026-highlights-india-s-kabaddi-teams-dominate-w": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "gold|surprise",
     "norm": 54.2
   },
-  "asian-games-2026-live-tajinderpal-toor-wins-silver-in-men-s-": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "gold|iran",
-    "norm": 53.9
+  "sri-lankan-ruling-party-delegation-to-visit-india-meet-bjp-l": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "bjp|chief minister|jaishankar|minister|ruling",
+    "norm": 52.6
   },
-  "muslim-personal-law-cannot-shield-sexual-offence-against-min": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "high court|mp",
-    "norm": 50.5
+  "-old-file-wearing-a-new-mic-bjp-hits-out-at-congress-over-ex": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "aap|bjp|congress|rahul gandhi",
+    "norm": 52.1
   },
-  "three-capitals-petitions-infructuous-now-that-amaravati-is-a": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "high court|supreme court",
-    "norm": 50.5
+  "temple-priest-arrested-for-alleged-derogatory-remarks-agains": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "mp|video",
+    "norm": 52
   },
-  "dmk-says-police-arrested-gem-granites-veermani-because-of-co": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "mp",
-    "norm": 45.9
+  "uttarakhand-bans-loud-sound-systems-near-badrinath-dham-temp": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "khan|mp",
+    "norm": 51.7
   },
-  "foundation-stone-laid-for-147-36-crore-gaddipadu-rob-in-gunt": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "crore",
-    "norm": 45.9
+  "man-punches-wife-pulls-her-hair-after-hearing-in-family-disp": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "mp|video",
+    "norm": 50.2
   },
-  "beauty-and-the-beast-china-brought-its-own-wheels-a-red-flag": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "china",
-    "norm": 45.9
+  "he-attested-brother-s-sale-deed-hc-cites-oral-partition-fami": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "ruling",
+    "norm": 44
   },
-  "-work-life-balance-important-3-day-bank-strike-from-monday-c": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
+  "ai-camera-mistakes-guitar-for-pillion-rider-in-bengaluru-iss": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
     "signature": "mp",
     "norm": 44
   },
-  "kolkata-college-students-allege-pressure-to-participate-in-n": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "new-leadership-for-keralam-s-cultural-institutions-after-fou": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "singer",
-    "norm": 42.4
-  },
-  "uttarakhand-woman-lover-held-for-mother-s-murder-over-proper": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
-    "signature": "khan",
-    "norm": 42.4
-  },
-  "remove-caste-names-from-roads-public-places-tamil-nadu-sc-st": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
+  "pune-s-ganpati-takes-grand-farewell-even-as-festival-noise-s": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
     "signature": "",
     "norm": 36
   },
-  "from-1-35m-in-84-to-28m-in-2025-gene-simmons-ex-beverly-hill": {
-    "firstSeen": "2026-09-26T13:00:39.015Z",
+  "telangana-plans-tourism-coupons-to-get-hyderabad-it-professi": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
+    "signature": "",
+    "norm": 36
+  },
+  "workplace-equality-has-to-be-built-not-announced-charu-sinha": {
+    "firstSeen": "2026-09-26T17:06:16.950Z",
     "signature": "",
     "norm": 33.9
   }
