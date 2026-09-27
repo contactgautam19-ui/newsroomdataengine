@@ -1,141 +1,41 @@
 {
-  "bjp-slams-rahul-over-sir-accuses-opposition-parties-of-malig": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "bjp|election|election|election commission|opposition|rahul gandhi|slam|slams",
-    "norm": 79.9
+  "-better-deal-what-s-behind-trump-s-rejection-of-iran-s-truce": {
+    "firstSeen": "2026-09-27T20:05:30.710Z",
+    "signature": "deal|iran|mp|trump|trump",
+    "norm": 74.6
   },
-  "56-dead-as-heavy-rains-lash-uttar-pradesh": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "dead|dead|flood|flood|heavy rain",
-    "norm": 72.5
+  "yemeni-government-forces-claim-four-iranian-experts-killed-i": {
+    "firstSeen": "2026-09-27T20:05:30.710Z",
+    "signature": "iran|killed|killed",
+    "norm": 69.6
   },
-  "-won-t-bow-our-head-iran-embassy-invokes-baahubali-to-echo-p": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "iran|mp|president|video",
-    "norm": 65.3
+  "pm-modi-pays-tribute-to-organisational-genius-ashok-singhal-": {
+    "firstSeen": "2026-09-27T20:05:30.710Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 61.8
   },
-  "us-rejects-iran-s-claim-of-capturing-underwater-drone-calls-": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "drone|iran|slam",
-    "norm": 64.9
-  },
-  "outsiders-buying-land-in-srinagar-nc-must-be-held-accountabl": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "minister|modi|modi|president|prime minister",
-    "norm": 64.6
-  },
-  "virat-kohli-breaks-sachin-tendulkar-s-record-for-most-odi-ce": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "cricket|kohli|record|tendulkar",
-    "norm": 63.2
-  },
-  "three-including-elderly-couple-killed-in-separate-accidents": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "accident|killed|killed",
-    "norm": 62.9
-  },
-  "called-us-cockroaches-anti-national-kolkata-s-srfti-students": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "clash|clash|mp",
-    "norm": 61.1
-  },
-  "why-mumbai-police-denied-permission-to-cjp-for-october-2-pro": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "protest|protest|war",
-    "norm": 59.6
-  },
-  "hospitality-sector-seeks-lands-for-budget-friendly-hotels-to": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "budget|hospital",
-    "norm": 57.1
-  },
-  "indigo-a321-enroute-blr-suffers-tail-strike-plane-lands-safe": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "mp|weather",
-    "norm": 57.1
-  },
-  "apcc-to-protest-today-in-vijayawada-over-irregularities-in-e": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "chief-minister-should-learn-to-speak-politely-says-nainar": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "ashok-challenges-congress-to-face-fresh-polls-in-states-rule": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "congress|poll",
-    "norm": 50.5
-  },
-  "prof-g-s-n-raju-receives-national-iete-lifetime-achievement-": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "following-court-order-jkca-holds-annual-general-meeting-disc": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "iran",
-    "norm": 48.2
-  },
-  "court-extends-ed-custody-of-ias-officer-gyanendra-kumar-gang": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "minister-unveils-godavari-declaration-to-promote-tourism-ahe": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "minister",
+  "kerala-high-court-directs-state-to-ensure-adequate-facilitie": {
+    "firstSeen": "2026-09-27T20:05:30.710Z",
+    "signature": "high court",
     "norm": 45.9
   },
-  "indigo-guwahati-bengaluru-flight-hits-tail-during-second-lan": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "mp",
-    "norm": 45.9
+  "actor-lakshmipriya-booked-for-allegedly-defaming-ansiba-hass": {
+    "firstSeen": "2026-09-27T20:05:30.710Z",
+    "signature": "actor",
+    "norm": 42.4
   },
-  "decision-on-ministerial-representation-for-women-to-be-discu": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "keralam-general-administration-department-website-hacked-sus": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "pakistan",
-    "norm": 44
-  },
-  "bengaluru-bound-indigo-flight-suffers-tail-strike-while-land": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "kerala-travel-mart-2026-concludes-in-kochi": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "record",
-    "norm": 40.7
-  },
-  "tpfs-vidya-bus-yatra-reaches-final-leg-at-gabbilalpet-govern": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
+  "today-s-nyt-strands-hints-answers-and-help-for-sept-28-939": {
+    "firstSeen": "2026-09-27T20:05:30.710Z",
     "signature": "",
     "norm": 36
   },
-  "hdk-to-tour-villages-along-nice-stretch-meet-affected-famili": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
+  "kappan-says-hc-has-no-jurisdiction-over-disqualification-ple": {
+    "firstSeen": "2026-09-27T20:05:30.710Z",
     "signature": "",
     "norm": 36
   },
-  "students-told-to-upskill-for-ai-era": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "karimnagar-marathon-spreads-message-of-health-drug-free-soci": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "40-year-old-demand-for-road-to-scheduled-caste-village-cause": {
-    "firstSeen": "2026-09-27T16:54:39.378Z",
+  "bank-unions-defer-three-day-nationwide-strike-after-understa": {
+    "firstSeen": "2026-09-27T20:05:30.710Z",
     "signature": "",
     "norm": 33.9
   }
