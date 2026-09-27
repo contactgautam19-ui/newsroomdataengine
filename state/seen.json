@@ -1,106 +1,141 @@
 {
-  "neet-paper-leak-impact-cisf-to-guard-nta-premises-stricter-m": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "exam|minister|mp|neet|protest|protest",
-    "norm": 80.1
+  "bjp-slams-rahul-over-sir-accuses-opposition-parties-of-malig": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "bjp|election|election|election commission|opposition|rahul gandhi|slam|slams",
+    "norm": 79.9
   },
-  "mamata-camp-s-tmc-mla-claims-car-attacked-twice-in-two-days": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "attack|attack|mamata|mla|mp",
-    "norm": 72
+  "56-dead-as-heavy-rains-lash-uttar-pradesh": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "dead|dead|flood|flood|heavy rain",
+    "norm": 72.5
   },
-  "56-dead-in-3-days-as-heavy-rain-batters-up-over-1-000-homes-": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "dead|dead|heavy rain|injured|killed|killed",
-    "norm": 71.8
+  "-won-t-bow-our-head-iran-embassy-invokes-baahubali-to-echo-p": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "iran|mp|president|video",
+    "norm": 65.3
   },
-  "former-u-p-minister-ram-govind-chaudhary-cremated-in-ballia-": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "died|minister|mla|opposition",
-    "norm": 63.5
+  "us-rejects-iran-s-claim-of-capturing-underwater-drone-calls-": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "drone|iran|slam",
+    "norm": 64.9
   },
-  "-we-trusted-ec-in-2017-akhilesh-alleges-poll-officials-delet": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "election|election|election commission|poll|vote",
+  "outsiders-buying-land-in-srinagar-nc-must-be-held-accountabl": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "minister|modi|modi|president|prime minister",
+    "norm": 64.6
+  },
+  "virat-kohli-breaks-sachin-tendulkar-s-record-for-most-odi-ce": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "cricket|kohli|record|tendulkar",
+    "norm": 63.2
+  },
+  "three-including-elderly-couple-killed-in-separate-accidents": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "accident|killed|killed",
     "norm": 62.9
   },
-  "raf-fairford-alert-several-arrested-homes-evacuated-near-us-": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "alert|army|evacuat",
-    "norm": 62.5
+  "called-us-cockroaches-anti-national-kolkata-s-srfti-students": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "clash|clash|mp",
+    "norm": 61.1
   },
-  "vijay-govt-s-u-turn-amid-row-over-rti-exemption-for-law-and-": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "alliance|congress|mp|row",
-    "norm": 61.8
+  "why-mumbai-police-denied-permission-to-cjp-for-october-2-pro": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "protest|protest|war",
+    "norm": 59.6
   },
-  "when-ai-agents-go-rogue-australia-breach-offers-warning-for-": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "war|warning",
-    "norm": 59.3
+  "hospitality-sector-seeks-lands-for-budget-friendly-hotels-to": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "budget|hospital",
+    "norm": 57.1
   },
-  "operation-toofan-to-enter-second-phase-on-september-28-focus": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "fan|war",
-    "norm": 53.9
+  "indigo-a321-enroute-blr-suffers-tail-strike-plane-lands-safe": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "mp|weather",
+    "norm": 57.1
   },
-  "-supported-when-they-were-weak-now-sonam-wangchuk-on-cjp-s-p": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
+  "apcc-to-protest-today-in-vijayawada-over-irregularities-in-e": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
     "signature": "protest|protest",
-    "norm": 52.4
+    "norm": 54.2
   },
-  "mobile-phone-retailers-to-protest-against-upi-mdr-charges-on": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "-may-allah-take-suvendu-humayun-kabir-wishes-death-for-benga": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "controversy|death",
-    "norm": 52.1
-  },
-  "delhi-minister-parvesh-verma-says-youth-he-slapped-was-aap-c": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "aap|minister",
+  "chief-minister-should-learn-to-speak-politely-says-nainar": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "chief minister|minister",
     "norm": 50.5
   },
-  "six-years-on-ringed-eurasian-whimbrel-resighted-on-keralam-c": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "mp|record",
-    "norm": 50.2
+  "ashok-challenges-congress-to-face-fresh-polls-in-states-rule": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "congress|poll",
+    "norm": 50.5
   },
-  "vijay-govt-withdraws-rti-exemption-for-public-law-and-order-": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "mp|opposition",
-    "norm": 48.7
-  },
-  "-recite-bhagavad-gita-fearlessly-suvendu-claims-winds-have-c": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "fear",
+  "prof-g-s-n-raju-receives-national-iete-lifetime-achievement-": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "indian-non-profits-lag-on-digital-maturity-ai-adoption-repor": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "row",
+  "following-court-order-jkca-holds-annual-general-meeting-disc": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "iran",
+    "norm": 48.2
+  },
+  "court-extends-ed-custody-of-ias-officer-gyanendra-kumar-gang": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "war",
     "norm": 46.3
   },
-  "new-mobile-recharge-rules-30-day-plans-call-only-options-and": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
-    "signature": "budget",
+  "minister-unveils-godavari-declaration-to-promote-tourism-ahe": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "indigo-guwahati-bengaluru-flight-hits-tail-during-second-lan": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "decision-on-ministerial-representation-for-women-to-be-discu": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "keralam-general-administration-department-website-hacked-sus": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "pakistan",
     "norm": 44
   },
-  "artists-saved-nina-simone-s-childhood-home-it-is-now-fully-r": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
+  "bengaluru-bound-indigo-flight-suffers-tail-strike-while-land": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "kerala-travel-mart-2026-concludes-in-kochi": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "record",
+    "norm": 40.7
+  },
+  "tpfs-vidya-bus-yatra-reaches-final-leg-at-gabbilalpet-govern": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "",
+    "norm": 36
+  },
+  "hdk-to-tour-villages-along-nice-stretch-meet-affected-famili": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
+    "signature": "",
+    "norm": 36
+  },
+  "students-told-to-upskill-for-ai-era": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
     "signature": "",
     "norm": 33.9
   },
-  "-no-paneer-tag-for-analogue-paneer-fssai-draft-seeks-clear-r": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
+  "karimnagar-marathon-spreads-message-of-health-drug-free-soci": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
     "signature": "",
     "norm": 33.9
   },
-  "keralam-researchers-discover-a-new-species-of-genus-begonia-": {
-    "firstSeen": "2026-09-27T11:56:22.922Z",
+  "40-year-old-demand-for-road-to-scheduled-caste-village-cause": {
+    "firstSeen": "2026-09-27T16:54:39.378Z",
     "signature": "",
     "norm": 33.9
   }
