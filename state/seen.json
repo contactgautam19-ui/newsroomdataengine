@@ -1,42 +1,107 @@
 {
-  "tamil-nadu-government-exempts-public-law-and-order-departmen": {
-    "firstSeen": "2026-09-27T05:11:29.547Z",
-    "signature": "clash|clash|death|mp",
-    "norm": 66.3
+  "neet-paper-leak-impact-cisf-to-guard-nta-premises-stricter-m": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "exam|minister|mp|neet|protest|protest",
+    "norm": 80.1
   },
-  "gyanesh-kumar-bjp-ticket-claim-ex-kerala-chief-secretary-s-a": {
-    "firstSeen": "2026-09-27T05:11:29.547Z",
-    "signature": "bjp|election|election|election commission|lok sabha",
-    "norm": 64.6
+  "mamata-camp-s-tmc-mla-claims-car-attacked-twice-in-two-days": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "attack|attack|mamata|mla|mp",
+    "norm": 72
   },
-  "-anti-social-elements-lpu-refutes-false-rumours-after-studen": {
-    "firstSeen": "2026-09-27T05:11:29.547Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
+  "56-dead-in-3-days-as-heavy-rain-batters-up-over-1-000-homes-": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "dead|dead|heavy rain|injured|killed|killed",
+    "norm": 71.8
   },
-  "punjab-university-students-protest-rape-by-worker-cops-call-": {
-    "firstSeen": "2026-09-27T05:11:29.547Z",
+  "former-u-p-minister-ram-govind-chaudhary-cremated-in-ballia-": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "died|minister|mla|opposition",
+    "norm": 63.5
+  },
+  "-we-trusted-ec-in-2017-akhilesh-alleges-poll-officials-delet": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "election|election|election commission|poll|vote",
+    "norm": 62.9
+  },
+  "raf-fairford-alert-several-arrested-homes-evacuated-near-us-": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "alert|army|evacuat",
+    "norm": 62.5
+  },
+  "vijay-govt-s-u-turn-amid-row-over-rti-exemption-for-law-and-": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "alliance|congress|mp|row",
+    "norm": 61.8
+  },
+  "when-ai-agents-go-rogue-australia-breach-offers-warning-for-": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "war|warning",
+    "norm": 59.3
+  },
+  "operation-toofan-to-enter-second-phase-on-september-28-focus": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "fan|war",
+    "norm": 53.9
+  },
+  "-supported-when-they-were-weak-now-sonam-wangchuk-on-cjp-s-p": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "-abused-me-poured-urine-outside-my-house-bengaluru-woman-all": {
-    "firstSeen": "2026-09-27T05:11:29.547Z",
-    "signature": "mp|video",
+  "mobile-phone-retailers-to-protest-against-upi-mdr-charges-on": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "-may-allah-take-suvendu-humayun-kabir-wishes-death-for-benga": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "controversy|death",
+    "norm": 52.1
+  },
+  "delhi-minister-parvesh-verma-says-youth-he-slapped-was-aap-c": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "aap|minister",
+    "norm": 50.5
+  },
+  "six-years-on-ringed-eurasian-whimbrel-resighted-on-keralam-c": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "mp|record",
     "norm": 50.2
   },
-  "news-in-frames-after-the-drought-a-refreshing-respite": {
-    "firstSeen": "2026-09-27T05:11:29.547Z",
-    "signature": "weather",
+  "vijay-govt-withdraws-rti-exemption-for-public-law-and-order-": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "mp|opposition",
+    "norm": 48.7
+  },
+  "-recite-bhagavad-gita-fearlessly-suvendu-claims-winds-have-c": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "fear",
+    "norm": 48.2
+  },
+  "indian-non-profits-lag-on-digital-maturity-ai-adoption-repor": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "openai-anthropic-ceos-summoned-by-australia-senate-over-ai-a": {
-    "firstSeen": "2026-09-27T05:11:29.547Z",
-    "signature": "mp",
-    "norm": 45.9
+  "new-mobile-recharge-rules-30-day-plans-call-only-options-and": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "budget",
+    "norm": 44
   },
-  "lpu-campus-tense-over-unverified-rape-claim-what-we-know-so-": {
-    "firstSeen": "2026-09-27T05:11:29.547Z",
-    "signature": "mp",
-    "norm": 45.9
+  "artists-saved-nina-simone-s-childhood-home-it-is-now-fully-r": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-no-paneer-tag-for-analogue-paneer-fssai-draft-seeks-clear-r": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "keralam-researchers-discover-a-new-species-of-genus-begonia-": {
+    "firstSeen": "2026-09-27T11:56:22.922Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
