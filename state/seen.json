@@ -1,32 +1,42 @@
 {
-  "mns-and-shiv-sena-ubt-to-hold-join-protest-on-october-4-agai": {
-    "firstSeen": "2026-09-26T23:34:56.743Z",
-    "signature": "bjp|election|election|election commission|fraud|protest|protest",
-    "norm": 82
+  "tamil-nadu-government-exempts-public-law-and-order-departmen": {
+    "firstSeen": "2026-09-27T05:11:29.547Z",
+    "signature": "clash|clash|death|mp",
+    "norm": 66.3
   },
-  "mehbooba-mufti-appeals-to-secular-minded-people-to-join-prot": {
-    "firstSeen": "2026-09-26T23:34:56.743Z",
+  "gyanesh-kumar-bjp-ticket-claim-ex-kerala-chief-secretary-s-a": {
+    "firstSeen": "2026-09-27T05:11:29.547Z",
+    "signature": "bjp|election|election|election commission|lok sabha",
+    "norm": 64.6
+  },
+  "-anti-social-elements-lpu-refutes-false-rumours-after-studen": {
+    "firstSeen": "2026-09-27T05:11:29.547Z",
+    "signature": "mp|protest|protest",
+    "norm": 62.8
+  },
+  "punjab-university-students-protest-rape-by-worker-cops-call-": {
+    "firstSeen": "2026-09-27T05:11:29.547Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "bangladesh-to-replace-planned-sculptures-at-historic-sites": {
-    "firstSeen": "2026-09-26T23:34:56.743Z",
-    "signature": "",
-    "norm": 36
+  "-abused-me-poured-urine-outside-my-house-bengaluru-woman-all": {
+    "firstSeen": "2026-09-27T05:11:29.547Z",
+    "signature": "mp|video",
+    "norm": 50.2
   },
-  "awami-members-celebrating-hasina-s-birthday-under-bangladesh": {
-    "firstSeen": "2026-09-26T23:34:56.743Z",
-    "signature": "",
-    "norm": 33.9
+  "news-in-frames-after-the-drought-a-refreshing-respite": {
+    "firstSeen": "2026-09-27T05:11:29.547Z",
+    "signature": "weather",
+    "norm": 46.3
   },
-  "23-ips-transferred-in-a-latest-rejig-in-west-bengal-police": {
-    "firstSeen": "2026-09-26T23:34:56.743Z",
-    "signature": "",
-    "norm": 33.9
+  "openai-anthropic-ceos-summoned-by-australia-senate-over-ai-a": {
+    "firstSeen": "2026-09-27T05:11:29.547Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "-leo-leo-chants-echo-across-paris-as-800-000-attend-pope-leo": {
-    "firstSeen": "2026-09-26T23:34:56.743Z",
-    "signature": "",
-    "norm": 33.9
+  "lpu-campus-tense-over-unverified-rape-claim-what-we-know-so-": {
+    "firstSeen": "2026-09-27T05:11:29.547Z",
+    "signature": "mp",
+    "norm": 45.9
   }
 }
