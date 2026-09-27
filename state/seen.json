@@ -1,42 +1,302 @@
 {
-  "-better-deal-what-s-behind-trump-s-rejection-of-iran-s-truce": {
-    "firstSeen": "2026-09-27T20:05:30.710Z",
-    "signature": "deal|iran|mp|trump|trump",
-    "norm": 74.6
+  "festive-shopping-to-pinch-as-iran-war-sets-ac-tv-prices-on-f": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "fire|fire|iran|price|prices|war",
+    "norm": 86.3
+  },
+  "2-children-killed-their-mothers-injured-after-water-tank-col": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "actor|collapse|collapse|collapse|injured|killed|killed|mp",
+    "norm": 81.7
+  },
+  "rahul-gandhi-vs-cec-gyanesh-kumar-match-fixing-claim-bjp-hit": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "bjp|controversy|election|election|election commission|fire|fire|match|rahul gandhi",
+    "norm": 80.7
+  },
+  "ambala-building-collapse-4-dead-up-to-20-feared-trapped-resc": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "building collapse|collapse|collapse|collapse|dead|dead|fear|rescue|rescue",
+    "norm": 76.2
+  },
+  "students-deny-rape-in-video-released-by-punjab-s-lovely-prof": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "controversy|died|fire|fire|mp|protest|protest|video",
+    "norm": 74
+  },
+  "-hooliganism-won-t-be-tolerated-what-is-his-crime-rahul-gand": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "aap|controversy|rahul gandhi|video|viral|viral|viral",
+    "norm": 70.6
+  },
+  "three-storey-building-under-construction-collapses-near-amba": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "collapse|collapse|collapse|dead|dead|hospital|injured",
+    "norm": 68.6
+  },
+  "sahil-wakode-s-death-can-t-be-seen-in-isolation-iit-bombay-a": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "bomb|death|exam|mp",
+    "norm": 67.2
+  },
+  "bjp-cms-counter-attack-demand-opposition-apology-for-its-fab": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "attack|attack|bjp|mp|opposition",
+    "norm": 66.8
+  },
+  "3-killed-4-injured-after-argument-leads-to-gunfire-at-us-str": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "fire|fire|injured|killed|killed|shooting",
+    "norm": 63.2
+  },
+  "odisha-cm-tours-flood-hit-districts-as-govt-moves-over-1-lak": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "flood|flood|lakh|mp",
+    "norm": 60.3
   },
   "yemeni-government-forces-claim-four-iranian-experts-killed-i": {
     "firstSeen": "2026-09-27T20:05:30.710Z",
     "signature": "iran|killed|killed",
-    "norm": 69.6
+    "norm": 58.9
+  },
+  "-they-overplayed-their-hand-trump-says-talks-with-iran-to-re": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "iran|minister|mp|trump|trump",
+    "norm": 57.8
+  },
+  "students-teachers-injured-in-clashes-at-kolkata-film-institu": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "clash|clash|film|injured",
+    "norm": 57.1
+  },
+  "2-killed-10-missing-after-avalanche-strikes-nepal-s-himlung-": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "killed|killed|mp",
+    "norm": 56.7
+  },
+  "-will-deter-enemy-from-war-israel-minister-calls-for-lebanon": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "israel|minister|war",
+    "norm": 56.7
+  },
+  "work-on-storm-water-drain-near-virugambakkam-canal-to-be-com": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "crore|mp|storm",
+    "norm": 54.5
+  },
+  "opposition-refuses-to-be-part-of-the-all-party-delegation-to": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "chief minister|minister|modi|modi|opposition|prime minister",
+    "norm": 54
+  },
+  "why-are-students-protesting-at-iit-bombay-explained": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "bomb|protest|protest",
+    "norm": 53.8
+  },
+  "up-rains-turn-deadly-amid-monsoon-withdrawal-56-dead-rainfal": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "dead|dead|record",
+    "norm": 53.8
+  },
+  "rampage-in-lpu-political-blame-game-erupts-as-phagwara-comes": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "mp|protest|protest|war",
+    "norm": 53.1
+  },
+  "lpu-protests-over-2-000-police-deployed-after-stone-pelting-": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "blaze|protest|protest",
+    "norm": 52.7
   },
   "pm-modi-pays-tribute-to-organisational-genius-ashok-singhal-": {
     "firstSeen": "2026-09-27T20:05:30.710Z",
     "signature": "minister|modi|modi|prime minister",
-    "norm": 61.8
+    "norm": 52.3
+  },
+  "amritpal-singh-s-waris-punjab-de-a-new-challenge-for-akali-d": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "mp|poll|president|war",
+    "norm": 52.3
+  },
+  "in-rajasthan-civic-polls-bjp-scoops-up-204-boards-congress-t": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "bjp|congress|poll|war",
+    "norm": 52.3
+  },
+  "sikkim-village-may-be-declared-uninhabitable-after-series-of": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "flood|flood|floods|landslide",
+    "norm": 51
+  },
+  "sir-tweaks-proof-of-disaster-says-congress": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "congress|disaster",
+    "norm": 49.6
+  },
+  "lufthansa-flight-to-lisbon-diverted-to-lyon-after-powerbank-": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "fire|fire|injured",
+    "norm": 48.1
+  },
+  "5-held-in-uk-for-suspected-plot-to-attack-air-base-used-by-u": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "attack|attack",
+    "norm": 47.7
+  },
+  "e-v-velu-others-booked-for-illegal-excavation-of-lake-bed-to": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "crore|result",
+    "norm": 45.4
+  },
+  "-mdr-to-boost-upi-use-in-cross-border-payments-jp-morgan-glo": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "border",
+    "norm": 44
+  },
+  "2-suffocate-to-death-after-inhaling-toxic-chemical-in-mumbai": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "death|ram mandir",
+    "norm": 43.5
+  },
+  "5-years-after-battle-of-baghpat-over-chaat-war-of-hapur-over": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "video|war",
+    "norm": 42.2
+  },
+  "apple-bets-on-heart-health-features-to-win-watch-buyers": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "watch",
+    "norm": 40.7
+  },
+  "-self-regulation-is-not-enough-bill-gates-joins-calls-for-ai": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "bill|mp",
+    "norm": 38
+  },
+  "t-n-government-steps-up-support-for-enterprises-headed-by-wo": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "crore|lakh",
+    "norm": 38
+  },
+  "fnaf-fortnite-latest-update-five-nights-at-freddy-s-finally-": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "pressure-mounts-on-chief-poll-officer-as-opposition-plans-co": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "alliance|congress|opposition|poll",
+    "norm": 37.3
+  },
+  "wpr-vs-knght-cricket-scorecard-pool-b-at-cape-town-september": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "cricket",
+    "norm": 35.5
+  },
+  "suvendu-adhikari-says-bengal-will-protect-cows-jail-people-w": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "fear",
+    "norm": 35.5
   },
   "kerala-high-court-directs-state-to-ensure-adequate-facilitie": {
     "firstSeen": "2026-09-27T20:05:30.710Z",
     "signature": "high court",
-    "norm": 45.9
+    "norm": 32.8
+  },
+  "form-26-and-the-statutory-mandate": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "certain-community-organisations-unable-to-accept-aspirations": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "minister",
+    "norm": 32.8
   },
   "actor-lakshmipriya-booked-for-allegedly-defaming-ansiba-hass": {
     "firstSeen": "2026-09-27T20:05:30.710Z",
     "signature": "actor",
-    "norm": 42.4
+    "norm": 31
+  },
+  "unfortunate-that-veerashaiava-lingayat-community-which-worke": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "khan",
+    "norm": 31
+  },
+  "bank-unions-call-off-3-day-strike-after-assurances-iba-to-st": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "boeing-flags-737-max-glitch-that-may-turn-off-auto-pilot": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "meta-launches-muse-a-consumer-focused-ai-agent-with-mixed-re": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
   },
   "today-s-nyt-strands-hints-answers-and-help-for-sept-28-939": {
     "firstSeen": "2026-09-27T20:05:30.710Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
   "kappan-says-hc-has-no-jurisdiction-over-disqualification-ple": {
     "firstSeen": "2026-09-27T20:05:30.710Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
   "bank-unions-defer-three-day-nationwide-strike-after-understa": {
     "firstSeen": "2026-09-27T20:05:30.710Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
+  },
+  "govt-to-build-karnataka-mantapa-modeled-after-bharat-mandapa": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "no-load-shedding-for-now-says-k-j-george": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "3-day-bank-strike-deferred-after-meeting-between-association": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "-illegal-detention-by-assam-police-finally-ended-cjp-s-ashut": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "up-makes-display-of-use-by-date-mandatory-for-all-sweets": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "over-45-000-participate-in-13th-edition-of-wipro-bengaluru-m": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "3-day-bank-strike-deferred-after-talks-between-bank-body-and": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "proposed-bank-strike-deferred-after-talks-between-bank-body-": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "a-silver-in-japan-sparks-wild-celebrations-in-keralam-s-natt": {
+    "firstSeen": "2026-09-27T23:46:09.737Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
