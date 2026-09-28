@@ -1,177 +1,42 @@
 {
-  "-khalistan-zindabad-god-bless-america-slogans-raised-during-": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "crowd|gold|mp|row",
-    "norm": 72.9
+  "14-dead-in-fire-at-russian-fireworks-factory-report": {
+    "firstSeen": "2026-09-28T20:31:09.437Z",
+    "signature": "actor|dead|dead|death|fire|fire|injured|toll",
+    "norm": 84.8
   },
-  "asian-games-yashvir-wins-silver-rohit-bronze-as-pathirage-ta": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "gold|mp|rohit|row",
-    "norm": 72.7
+  "14-killed-as-fire-tears-through-russian-fireworks-factory": {
+    "firstSeen": "2026-09-28T20:31:09.437Z",
+    "signature": "actor|fire|fire|killed|killed",
+    "norm": 76.5
   },
-  "tamil-nadu-cm-vijay-launches-thaimaaman-thanga-mothiram-thit": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "gold|hospital|poll|ruling",
-    "norm": 71.6
+  "rahul-gandhi-flags-727-voter-exclusions-in-delhi-what-poll-b": {
+    "firstSeen": "2026-09-28T20:31:09.437Z",
+    "signature": "election|election|election commission|poll|rahul gandhi|vote",
+    "norm": 65.1
   },
-  "lpu-university-descends-into-violence-what-can-justify-destr": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "clash|clash|mp|war",
-    "norm": 67.9
+  "trump-denies-offering-to-sell-arms-to-xi-jinping": {
+    "firstSeen": "2026-09-28T20:31:09.437Z",
+    "signature": "mp|president|trump|trump",
+    "norm": 61.8
   },
-  "-zyada-toh-nahi-lagi-shehzad-poonawalla-s-rise-fall-thrashin": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "attack|attack|bjp",
-    "norm": 66
+  "moderate-58-14-voter-turnout-in-byelections-in-ernakulam": {
+    "firstSeen": "2026-09-28T20:31:09.437Z",
+    "signature": "election|election|vote",
+    "norm": 59.7
   },
-  "insurer-told-to-pay-3-5-lakh-for-stolen-gold-50-000-as-compe": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "gold|lakh|mp",
-    "norm": 65.6
+  "adani-group-cleared-of-minimum-public-shareholding-violation": {
+    "firstSeen": "2026-09-28T20:31:09.437Z",
+    "signature": "adani",
+    "norm": 44.3
   },
-  "knives-sickles-rods-on-campus-lpu-violence-caught-on-camera-": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "caught on camera|mp|video|visuals|war",
-    "norm": 65.3
+  "punjab-campus-violence-triggers-political-slugfest-universit": {
+    "firstSeen": "2026-09-28T20:31:09.437Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "nhai-flags-improper-crash-barriers-tightens-highway-safety-s": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "crash|crash|mp",
-    "norm": 63.9
-  },
-  "ysrcp-leader-seeks-action-over-lathi-charge-on-protesting-em": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
-  },
-  "piyush-goyal-to-visit-us-for-g20-trade-meet-trade-deal-talks": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "deal|g20|minister",
-    "norm": 59.3
-  },
-  "-causing-rain-without-prior-info-up-man-s-bizarre-complaint-": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "mp|war",
-    "norm": 55.4
-  },
-  "-vote-theft-claims-of-congress-false-opposition-trying-to-cr": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "congress|minister|opposition|vote",
-    "norm": 53.9
-  },
-  "jammu-kashmir-assembly-passes-statehood-resolution-amid-bjp-": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "bjp|chief minister|minister",
-    "norm": 52.7
-  },
-  "up-rajya-sabha-polls-on-october-16-real-test-of-bjp-sp-poll-": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "bjp|poll|rajya sabha",
-    "norm": 52.7
-  },
-  "before-the-gold-a-vow-why-a-karnataka-shrine-is-waiting-for-": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "gold|iran",
-    "norm": 52.1
-  },
-  "kill-webs-drones-and-less-guesswork-how-india-s-armed-forces": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "drone|mp",
-    "norm": 52
-  },
-  "sakhi-centre-staff-unpaid-for-three-months-says-anbumani": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "mp|president",
-    "norm": 50.5
-  },
-  "premanand-maharaj-s-celebrity-followers-virat-anushka-to-the": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "celebrity|kohli|sharma|star",
-    "norm": 49.2
-  },
-  "six-member-chaddi-gang-breaks-into-manikonda-apartment-threa": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "threat",
-    "norm": 48.2
-  },
-  "karnataka-seeks-clearances-for-irrigation-projects-including": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "ipl",
-    "norm": 48.2
-  },
-  "cherian-kurian-wins-31st-berchmans-entrepreneur-award": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "tributes-paid-to-british-governors": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "governor",
-    "norm": 45.9
-  },
-  "delhi-announces-vehicle-curbs-work-from-home-construction-ba": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "poll",
-    "norm": 45.9
-  },
-  "supreme-court-takes-suo-motu-cognisance-of-recent-sexual-ass": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "supreme court",
-    "norm": 45.9
-  },
-  "spacex-s-biggest-most-powerful-rocket-reaches-earth-orbit-fo": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "rbi",
-    "norm": 45.9
-  },
-  "online-registration-opens-for-first-ever-dasara-kambala": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "first-ever",
-    "norm": 42.7
-  },
-  "tougher-h-1b-checks-for-us-firms-laying-off-americans-why-in": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
+  "shah-to-chair-meeting-to-resolve-mahanadi-water-sharing-disp": {
+    "firstSeen": "2026-09-28T20:31:09.437Z",
     "signature": "",
     "norm": 36
-  },
-  "karnataka-postal-circle-to-roll-out-more-philately-passports": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "",
-    "norm": 36
-  },
-  "akka-cafe-inaugurated-at-taluk-office-in-mysuru": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "",
-    "norm": 36
-  },
-  "spurious-drugs-racket-s-kingpin-arrested-in-bengaluru": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "",
-    "norm": 36
-  },
-  "students-told-to-upskill-for-ai-era": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "",
-    "norm": 36
-  },
-  "karnataka-urges-centre-to-consider-its-stand-before-finalisi": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "",
-    "norm": 36
-  },
-  "iuml-s-expatriate-body-seeks-alternative-forum-to-replace-lo": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "",
-    "norm": 36
-  },
-  "lingayat-society-can-develop-only-if-all-the-sub-sects-remai": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "",
-    "norm": 36
-  },
-  "tata-trusts-proposes-merger-of-electronics-subsidiaries-tess": {
-    "firstSeen": "2026-09-28T13:44:35.724Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
