@@ -1,32 +1,137 @@
 {
-  "supreme-court-asks-centre-to-consider-exempting-class-6-stud": {
-    "firstSeen": "2026-09-29T00:57:07.375Z",
-    "signature": "exam|mp|policy|supreme court",
-    "norm": 61.8
+  "asian-games-ankush-panghal-stuns-uzbek-world-champion-to-rea": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "gold|mp|row|star|stuns",
+    "norm": 77.9
   },
-  "modi-government-brought-back-288-fugitives-from-36-countries": {
-    "firstSeen": "2026-09-29T00:57:07.375Z",
-    "signature": "amit shah|modi|modi",
-    "norm": 59.7
+  "sc-quashes-detention-of-sambhal-violence-accused-under-nsa-s": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "clash|clash|killed|killed|lakh",
+    "norm": 77.8
   },
-  "p-t-apartment-residents-demand-unconditional-apology-from-ma": {
-    "firstSeen": "2026-09-29T00:57:07.375Z",
-    "signature": "mla|mp",
+  "v-d-satheesan-govt-faces-first-major-electoral-test-as-count": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "bjp|opposition|result|results|results|war",
+    "norm": 77.4
+  },
+  "-patriarchy-at-work-rahul-gandhi-slams-stay-at-home-diktat-f": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "mp|protest|protest|rahul gandhi|slam|slams|video",
+    "norm": 77
+  },
+  "cross-border-terror-concerns-if-not-fully-understood-impact-": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "border|jaishankar|minister|mp|terror|terror",
+    "norm": 74.6
+  },
+  "supreme-court-agrees-to-list-next-week-plea-to-suspend-cec-g": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "cji|election|election|election commission|supreme court",
+    "norm": 64.6
+  },
+  "lpu-violence-sit-formed-cctv-footage-under-scanner-punjab-po": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "cctv|footage|mp|war",
+    "norm": 63.9
+  },
+  "revanth-to-storm-ktr-s-stronghold-on-sept-30-launching-devel": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "crore|storm",
+    "norm": 57.1
+  },
+  "fda-officials-extorting-lakhs-from-eateries-quick-commerce-f": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "lakh|threat",
+    "norm": 55.4
+  },
+  "blue-drum-126-hearings-22-witnesses-1-000-page-chargesheet-s": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "row|verdict",
+    "norm": 55.4
+  },
+  "keralam-local-body-bypolls-udf-retains-ayyappankkavu-in-koch": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "poll|vote",
     "norm": 50.5
   },
-  "opposition-parties-trying-to-vitiate-country-s-atmosphere-bj": {
-    "firstSeen": "2026-09-29T00:57:07.375Z",
-    "signature": "bjp|opposition",
+  "states-stumped-as-demography-panel-seeks-religion-wise-data-": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "mp|vote",
+    "norm": 50.5
+  },
+  "-we-were-very-close-to-winning-what-happened-rahul-gandhi-as": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "congress|rahul gandhi",
     "norm": 48.7
   },
-  "supreme-court-will-fix-timeline-for-fssai-to-enforce-front-o": {
-    "firstSeen": "2026-09-29T00:57:07.375Z",
+  "rupee-falls-16-paise-to-96-13-against-u-s-dollar-in-early-tr": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "rupee|rupee falls",
+    "norm": 48.7
+  },
+  "-this-is-not-crimezapur-himanta-biswa-sarma-warns-criminal-n": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "rima-das-on-village-rockstars-2-and-the-state-of-independent": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "film|star",
+    "norm": 46.3
+  },
+  "supreme-court-to-hear-plea-raising-doubts-over-cec-gyanesh-k": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "-patently-diabolical-agenda-congress-on-demography-panel-see": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "congress",
+    "norm": 45.9
+  },
+  "supreme-court-cancels-sambhal-violence-accused-s-detention-u": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
     "signature": "supreme court",
     "norm": 44
   },
-  "coast-guard-saves-sinking-tanker-with-23-crew-off-odisha-coa": {
-    "firstSeen": "2026-09-29T00:57:07.375Z",
+  "delhi-s-minimum-temp-drops-to-21-c-as-rain-spell-ends-mercur": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "sc-scraps-nsa-order-against-sambhal-violence-accused-slaps-1": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "supreme court",
+    "norm": 44
+  },
+  "the-hindu-quiz-the-life-and-career-of-lata-mangeshkar-on-the": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "singer",
+    "norm": 42.4
+  },
+  "aikms-calls-for-united-movement-against-corporatisation-of-a": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
     "signature": "",
     "norm": 36
+  },
+  "khajaguda-junction-restrictions-may-push-traffic-onto-intern": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "",
+    "norm": 36
+  },
+  "family-found-gulmarg-hotel-missing-spent-night-in-car-at-4c-": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-strengthening-coordination-readiness-us-embassy-hails-f-35-": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "fresh-pocso-case-filed-against-granite-baron-r-veeramani-in-": {
+    "firstSeen": "2026-09-29T06:49:15.673Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
