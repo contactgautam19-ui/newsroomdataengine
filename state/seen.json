@@ -1,41 +1,31 @@
 {
-  "14-dead-in-fire-at-russian-fireworks-factory-report": {
-    "firstSeen": "2026-09-28T20:31:09.437Z",
-    "signature": "actor|dead|dead|death|fire|fire|injured|toll",
-    "norm": 84.8
-  },
-  "14-killed-as-fire-tears-through-russian-fireworks-factory": {
-    "firstSeen": "2026-09-28T20:31:09.437Z",
-    "signature": "actor|fire|fire|killed|killed",
-    "norm": 76.5
-  },
-  "rahul-gandhi-flags-727-voter-exclusions-in-delhi-what-poll-b": {
-    "firstSeen": "2026-09-28T20:31:09.437Z",
-    "signature": "election|election|election commission|poll|rahul gandhi|vote",
-    "norm": 65.1
-  },
-  "trump-denies-offering-to-sell-arms-to-xi-jinping": {
-    "firstSeen": "2026-09-28T20:31:09.437Z",
-    "signature": "mp|president|trump|trump",
+  "supreme-court-asks-centre-to-consider-exempting-class-6-stud": {
+    "firstSeen": "2026-09-29T00:57:07.375Z",
+    "signature": "exam|mp|policy|supreme court",
     "norm": 61.8
   },
-  "moderate-58-14-voter-turnout-in-byelections-in-ernakulam": {
-    "firstSeen": "2026-09-28T20:31:09.437Z",
-    "signature": "election|election|vote",
+  "modi-government-brought-back-288-fugitives-from-36-countries": {
+    "firstSeen": "2026-09-29T00:57:07.375Z",
+    "signature": "amit shah|modi|modi",
     "norm": 59.7
   },
-  "adani-group-cleared-of-minimum-public-shareholding-violation": {
-    "firstSeen": "2026-09-28T20:31:09.437Z",
-    "signature": "adani",
-    "norm": 44.3
+  "p-t-apartment-residents-demand-unconditional-apology-from-ma": {
+    "firstSeen": "2026-09-29T00:57:07.375Z",
+    "signature": "mla|mp",
+    "norm": 50.5
   },
-  "punjab-campus-violence-triggers-political-slugfest-universit": {
-    "firstSeen": "2026-09-28T20:31:09.437Z",
-    "signature": "mp",
+  "opposition-parties-trying-to-vitiate-country-s-atmosphere-bj": {
+    "firstSeen": "2026-09-29T00:57:07.375Z",
+    "signature": "bjp|opposition",
+    "norm": 48.7
+  },
+  "supreme-court-will-fix-timeline-for-fssai-to-enforce-front-o": {
+    "firstSeen": "2026-09-29T00:57:07.375Z",
+    "signature": "supreme court",
     "norm": 44
   },
-  "shah-to-chair-meeting-to-resolve-mahanadi-water-sharing-disp": {
-    "firstSeen": "2026-09-28T20:31:09.437Z",
+  "coast-guard-saves-sinking-tanker-with-23-crew-off-odisha-coa": {
+    "firstSeen": "2026-09-29T00:57:07.375Z",
     "signature": "",
     "norm": 36
   }
