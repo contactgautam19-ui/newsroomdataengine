@@ -1,42 +1,57 @@
 {
-  "amid-sir-row-india-bloc-puts-up-united-front-targets-pm-modi": {
-    "firstSeen": "2026-09-30T22:58:25.226Z",
-    "signature": "modi|modi|row",
-    "norm": 66
+  "-saved-hundreds-of-lives-india-is-proud-pm-modi-hails-flydub": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
+    "signature": "attack|attack|injured|modi|modi",
+    "norm": 82.2
   },
-  "india-embassy-in-saudi-says-injured-captain-smit-machchhar-i": {
-    "firstSeen": "2026-09-30T22:58:25.226Z",
-    "signature": "captain|injured",
-    "norm": 53.9
+  "oil-prices-stay-flat-as-markets-weigh-us-iran-talks-and-midd": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
+    "signature": "alert|investor|iran|price|prices|star",
+    "norm": 80
   },
-  "citing-sc-judge-son-curative-plea-against-verdict-on-cec-amp": {
-    "firstSeen": "2026-09-30T22:58:25.226Z",
-    "signature": "mp|verdict",
-    "norm": 48.7
+  "tv-show-on-aviation-disasters-helped-flydubai-passenger-stea": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
+    "signature": "disaster|minister|prime minister|video",
+    "norm": 65.3
   },
-  "panel-eyes-debundling-of-exam-responsibilities": {
-    "firstSeen": "2026-09-30T22:58:25.226Z",
-    "signature": "exam",
-    "norm": 46.3
+  "-india-is-proud-of-captain-machchhar-pm-modi-hails-pilot-who": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
+    "signature": "captain|modi|modi",
+    "norm": 64.2
   },
-  "tata-trusts-file-caveat-before-maharashtra-charity-commissio": {
-    "firstSeen": "2026-09-30T22:58:25.226Z",
-    "signature": "maharashtra",
-    "norm": 46.3
+  "punjab-congress-chief-warring-set-to-quit-vijay-inder-singla": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
+    "signature": "congress|war",
+    "norm": 55.4
   },
-  "-save-dynasty-march-taunts-bjp-says-india-bloc-crumbling": {
-    "firstSeen": "2026-09-30T22:58:25.226Z",
-    "signature": "bjp",
-    "norm": 45.9
+  "what-is-itms-how-centre-s-1-789-crore-project-could-ease-del": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
+    "signature": "crore|mp",
+    "norm": 55
   },
-  "opposition-may-seek-firs-against-those-without-immunity": {
-    "firstSeen": "2026-09-30T22:58:25.226Z",
-    "signature": "opposition",
-    "norm": 45.9
+  "protests-turn-violent-in-arunachal-pradesh-as-villagers-oppo": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "second-full-ec-meet-in-5-days-sir-extended-again-in-andhra-p": {
-    "firstSeen": "2026-09-30T22:58:25.226Z",
+  "turn-used-pooja-flowers-into-fragrant-dhoop-at-home": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "cockpit-stabbing-a-14-000-feet-drop-blood-everywhere-how-ind": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
+    "signature": "captain",
+    "norm": 42.4
+  },
+  "us-military-will-cut-20-of-its-generals-admirals-pete-hegset": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "delhi-breathes-easiest-in-5-years-average-september-aqi-fall": {
+    "firstSeen": "2026-10-01T02:03:19.064Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   }
 }
