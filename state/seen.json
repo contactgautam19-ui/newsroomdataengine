@@ -1,56 +1,161 @@
 {
-  "-saved-hundreds-of-lives-india-is-proud-pm-modi-hails-flydub": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
-    "signature": "attack|attack|injured|modi|modi",
-    "norm": 82.2
+  "axe-may-have-been-used-in-flydubai-attack-why-it-was-on-plan": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "attack|attack|crash|crash|israel|minister|prime minister",
+    "norm": 93.2
   },
-  "oil-prices-stay-flat-as-markets-weigh-us-iran-talks-and-midd": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
-    "signature": "alert|investor|iran|price|prices|star",
-    "norm": 80
+  "amid-political-tensions-keralam-minister-o-j-janeesh-s-vehic": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "attack|attack|minister|protest|protest",
+    "norm": 76.3
   },
-  "tv-show-on-aviation-disasters-helped-flydubai-passenger-stea": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
-    "signature": "disaster|minister|prime minister|video",
-    "norm": 65.3
+  "2008-ahmedabad-bomb-blasts-sc-stays-execution-of-death-penal": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "blast|bomb|death|high court|verdict",
+    "norm": 75
   },
-  "-india-is-proud-of-captain-machchhar-pm-modi-hails-pilot-who": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
-    "signature": "captain|modi|modi",
-    "norm": 64.2
+  "youth-congress-sfi-violence-keralam-cm-accuses-cpi-m-of-prov": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "bjp|clash|clash|congress|protest|protest",
+    "norm": 74.6
   },
-  "punjab-congress-chief-warring-set-to-quit-vijay-inder-singla": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
-    "signature": "congress|war",
-    "norm": 55.4
+  "gst-collections-cross-rs-2-lakh-crore-again-rise-14-7-in-sep": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "crore|gst|lakh|mp|row",
+    "norm": 70
   },
-  "what-is-itms-how-centre-s-1-789-crore-project-could-ease-del": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
-    "signature": "crore|mp",
-    "norm": 55
+  "when-is-the-india-vs-pakistan-asian-games-2026-cricket-gold-": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "cricket|gold|india vs|match|mp|pakistan",
+    "norm": 68.8
   },
-  "protests-turn-violent-in-arunachal-pradesh-as-villagers-oppo": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "pawan-kalyan-jagan-hail-indian-pilot-smit-machchhar-for-savi": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "captain|chief minister|injured|minister|president",
+    "norm": 68.7
   },
-  "turn-used-pooja-flowers-into-fragrant-dhoop-at-home": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
+  "-no-business-interfering-in-high-court-affairs-ex-rajasthan-": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "high court|sharma|slam|slams",
+    "norm": 67.7
+  },
+  "amid-flydubai-crash-scare-a-look-at-4-other-times-things-wen": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "anger|crash|crash",
+    "norm": 67.6
+  },
+  "calcutta-hc-extends-security-cover-to-tmc-mp-mahua-moitra-du": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "attack|attack|mp",
+    "norm": 66
+  },
+  "must-bring-youth-into-public-services-who-are-not-attracted-": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "modi|modi|mp|upsc",
+    "norm": 65
+  },
+  "sensex-crashes-1-000-points-rs-9-lakh-crore-wiped-out-as-for": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "crash|crash|crore|investor|lakh|sensex|stock market|stocks",
+    "norm": 63.8
+  },
+  "-stealing-of-candidates-by-clean-force-caused-byelection-in-": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "by-election|election|election|ruling|vote",
+    "norm": 62.9
+  },
+  "three-held-683-kg-of-banned-firecrackers-worth-35-lakh-seize": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "fire|fire|lakh",
+    "norm": 61.1
+  },
+  "sir-in-andhra-pradesh-extended-for-third-time-final-electora": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "crore|vote",
+    "norm": 53.2
+  },
+  "analysis-punjab-congress-faces-a-new-jat-sikh-hindu-dilemma": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "congress|vote",
+    "norm": 50.5
+  },
+  "delhi-s-draft-excise-policy-sent-to-centre-likely-to-be-impl": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "mp|policy",
+    "norm": 48.7
+  },
+  "was-iran-behind-the-flydubai-flight-incident-netanyahu-answe": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "iran",
+    "norm": 46.3
+  },
+  "prolonged-dry-spell-brown-disease-hit-cotton-yield-in-yadgir": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "block-license-renewal-blacklist-them-supreme-court-on-vehicl": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "ec-reverts-to-allowing-form-6-submission-without-attached-de": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "vote",
+    "norm": 44
+  },
+  "eci-meets-for-second-time-in-4-days-extends-sir-dates-for-an": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
     "signature": "mp",
     "norm": 44
   },
-  "cockpit-stabbing-a-14-000-feet-drop-blood-everywhere-how-ind": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
-    "signature": "captain",
+  "gen-2-joined-green-crackers-explained": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "supreme court",
+    "norm": 44
+  },
+  "inside-boeing-737-simulator-ndtv-retraces-flydubai-s-terrify": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "sudden",
+    "norm": 42.7
+  },
+  "adani-ports-colombo-west-international-terminal-doubles-capa": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "adani",
     "norm": 42.4
   },
-  "us-military-will-cut-20-of-its-generals-admirals-pete-hegset": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
-    "signature": "star",
-    "norm": 42.4
+  "external-evaluation-for-classes-6-and-9-in-telangana-on-pilo": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "",
+    "norm": 36
   },
-  "delhi-breathes-easiest-in-5-years-average-september-aqi-fall": {
-    "firstSeen": "2026-10-01T02:03:19.064Z",
+  "9-bangladeshi-nationals-arrested-in-assam-fake-indian-ids-re": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "",
+    "norm": 36
+  },
+  "woman-goes-to-kerala-lodge-with-friend-his-wife-sends-men-to": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "declaration-part-of-form-6-changed-since-sir-in-bihar": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "eci-extends-sir-in-andhra-pradesh-enumeration-till-july-24-f": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "asian-games-2026-india-s-medallists-full-list-of-winners": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "keralam-govt-to-enact-law-to-provide-legal-guarantee-to-seni": {
+    "firstSeen": "2026-10-01T08:49:45.068Z",
     "signature": "",
     "norm": 33.9
   }
