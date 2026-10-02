@@ -1,247 +1,192 @@
 {
-  "us-imposes-sanctions-on-iran-s-rail-auto-sectors-to-raise-ec": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "attack|attack|fund|iran|mp|sanction|slam|war",
-    "norm": 95.5
+  "indian-school-of-agriculture-should-help-farmers-become-ceos": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "alert|ambani|attack|attack|mla|mp|row",
+    "norm": 87.5
   },
-  "-recited-hanuman-chalisa-for-courage-flydubai-hero-pilot-tel": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "attack|attack|captain|fan|hospital|modi|modi",
-    "norm": 91.4
+  "700-detained-as-delhi-mumbai-see-big-protests-against-gyanes": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "crore|election|election|election commission|protest|protest|vote",
+    "norm": 84.8
   },
-  "in-phone-call-hero-pilot-tells-pm-modi-what-gave-him-courage": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "attack|attack|captain|modi|modi",
-    "norm": 82.3
+  "vijay-holds-roadshow-in-madurantakam-ahead-of-the-october-6-": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "chief minister|election|election|fan|gst|minister|president",
+    "norm": 79.1
   },
-  "smit-machchhar-gets-emotional-during-video-call-pm-modi-tell": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "captain|emotional|modi|modi|video",
-    "norm": 77.9
-  },
-  "-was-reciting-hanuman-chalisa-pilot-smit-machchhar-speaks-to": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "attack|attack|modi|modi",
+  "devendra-fadnavis-launches-dharavi-experience-centre-near-bk": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "deal|exam|minister|modi|modi|mp|prime minister",
     "norm": 75.9
   },
-  "-i-was-injured-but-couldn-t-let-passengers-die-captain-smit-": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "captain|injured|modi|modi",
-    "norm": 72.7
+  "thousands-turn-up-for-cjp-protest-in-mumbai-seeking-cec-s-re": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "chief minister|gst|minister|protest|protest",
+    "norm": 74.9
   },
-  "asian-games-hockey-official-sangha-leaves-japan-amid-sexual-": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "ipl|mp|war",
-    "norm": 67.6
+  "israeli-investigators-to-question-omani-co-pilot-in-uae-led-": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "attack|attack|israel|result",
+    "norm": 73
   },
-  "gold-gets-its-festive-shine-back-as-lower-prices-lure-asian-": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "gold|gold price|price|prices",
-    "norm": 66.6
+  "captain-smit-machchhar-stable-after-flydubai-cockpit-attack-": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "attack|attack|captain|injured",
+    "norm": 69.7
   },
-  "burnt-bike-location-details-andhra-bjp-leader-s-wife-plots-h": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "bjp|shock|shock|shocking",
+  "actor-dino-morea-questioned-for-6-hours-in-rs-65-crore-mumba": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "actor|crore|scam|war",
+    "norm": 67.7
+  },
+  "mumbai-cjp-s-dipke-warns-of-jantar-mantar-2-0-demands-gyanes": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "protest|protest|vote|war",
     "norm": 66.3
   },
-  "bombay-hc-asks-if-parth-pawar-benefited-from-mundhwa-land-de": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "bomb|deal|war",
+  "on-camera-doctor-slapped-inside-phc-other-healthcare-workers": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "attack|attack|cctv|video",
     "norm": 66
   },
-  "-i-was-very-devastated-smit-machchhar-s-wife-recalls-moment-": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "attack|attack|devastat",
-    "norm": 64.5
+  "flipkart-big-billion-days-sale-nothing-announces-offers-disc": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "bill|billion|row",
+    "norm": 63.9
   },
-  "pm-modi-speaks-to-flydubai-pilot-captain-smit-machchaar": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "captain|modi|modi",
-    "norm": 64.2
+  "jsp-mp-urges-andhra-pradesh-chief-minister-to-mark-modi-s-25": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "chief minister|minister|modi|modi|mp",
+    "norm": 62.9
   },
-  "-should-get-to-cross-examine-sc-judge-ex-acting-rajasthan-cj": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "cji|exam|sharma",
-    "norm": 64.2
+  "andhra-cm-chandrababu-naidu-calls-for-people-s-participation": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "chief minister|minister|war",
+    "norm": 61.4
   },
-  "thousands-stranded-in-uae-as-israeli-rescue-flights-cancelle": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "israel|rescue|rescue",
-    "norm": 63.2
+  "-they-shot-down-their-own-satellite-ex-official-recalls-us-s": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "mp|shock|shock",
+    "norm": 61.1
   },
-  "-don-t-play-with-tamil-nadu-s-two-language-policy-stalin-war": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "policy|row|war",
-    "norm": 60.8
+  "jammu-kashmir-burqa-row-medical-students-protest-over-labour": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "controversy|protest|protest|row",
+    "norm": 60.6
   },
-  "-nobody-can-remain-at-top-forever-punjab-ex-congress-chief-o": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "congress|rahul gandhi|war",
+  "organisational-matters-differences-of-opinion-between-leader": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "congress|controversy|ruling",
     "norm": 59.7
   },
-  "congress-names-five-candidates-for-bihar-mlc-polls-ally-rjd-": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "congress|cry|poll",
-    "norm": 59.7
-  },
-  "mithi-river-desilting-case-mumbai-police-question-bollywood-": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "actor|bollywood|bollywood",
-    "norm": 59.3
-  },
-  "antilia-bomb-scare-case-why-sachin-vaze-s-bail-lasted-a-day-": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "bomb|high court",
+  "asian-games-silver-medallist-sreeshankar-targets-gold-in-202": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "gold|mp",
     "norm": 57.1
   },
-  "backup-execution-plans-are-common-across-us-states-they-don-": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "death|minister",
+  "new-york-fisher-house-to-save-veteran-families-700-000-a-yea": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "ipl|mp",
     "norm": 57.1
   },
-  "pm-modi-speaks-in-gujarati-with-flydubai-pilot-smit-machchha": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "modi|modi",
+  "rare-1852-california-gold-rush-coin-sells-for-367-875": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "gold|mp",
     "norm": 57.1
   },
-  "iowa-carpenter-left-nearly-3m-33-students-he-funded-later-ga": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "death|fund",
-    "norm": 55.4
-  },
-  "indianapolis-man-built-13m-fortune-estate-gave-1-6m-to-class": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "death|mp",
-    "norm": 55.4
-  },
-  "andhra-pradesh-raises-da-to-41-86-how-much-will-employees-ge": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "lakh|mp",
-    "norm": 55
-  },
-  "watch-cm-vijay-plays-bus-conductor-hands-out-tickets-after-e": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "chief minister|minister|watch",
-    "norm": 54.7
-  },
-  "cockroach-janata-party-protests-in-chennai-demanding-resigna": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "jantar-mantar-protest-live-500-detained-internet-suspended-t": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "hundreds-detained-by-delhi-police-from-jantar-mantar-during-": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "cjp-alleges-volunteers-detained-across-haryana-ahead-of-cm-s": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "aatmanirbhar-bharat-at-sea-indian-navy-lines-up-1st-mpv-sama": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "defence|mp|navy",
-    "norm": 52.7
-  },
-  "bjp-tells-karnataka-chief-minister-prove-form-7-allegations-": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "bjp|chief minister|minister|president",
+  "-heritage-once-lost-cannot-be-recreated-hc-flags-threat-to-j": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "threat|war",
     "norm": 52.1
   },
-  "kerala-hc-directs-tdb-to-ensure-basic-facilities-for-sabarim": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "mp|vote",
+  "woman-stripped-and-beaten-inside-guwahati-nightclub-police-r": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "khan|video",
+    "norm": 50.5
+  },
+  "harish-urges-rahul-gandhi-to-stop-congress-govt-from-privati": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "congress|rahul gandhi",
+    "norm": 50.5
+  },
+  "cpi-m-leaders-meet-home-minister-demand-action-against-polic": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "bjp|minister",
+    "norm": 50.5
+  },
+  "bjp-functionaries-submitted-pre-filled-form-7-applications-t": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "bjp|vote",
     "norm": 48.7
   },
-  "g-p-talwar-at-100-scientist-institution-builder-lifelong-res": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "war",
-    "norm": 46.3
+  "connor-bedard-secured-75-million-at-just-21-how-the-blackhaw": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "captain|star|superstar",
+    "norm": 48.3
   },
-  "what-is-the-vettri-payanam-thittam-launched-by-tamil-nadu-cm": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "mp",
-    "norm": 44
+  "bjp-mlc-somu-veerraju-urges-adopting-handloom-products-to-su": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "bjp",
+    "norm": 45.9
   },
-  "telangana-sir-8-38-lakh-claims-objections-received-by-eci-so": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
+  "spiritual-guru-kalki-bhagavan-laid-to-rest-in-andhra-pradesh": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "inquiry-by-coop-dept-officer-finds-shivamogga-brahmin-mahasa": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "fund",
+    "norm": 45.9
+  },
+  "let-rayalaseema-be-known-for-development-not-drought-says-pa": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
     "signature": "lakh",
+    "norm": 45.9
+  },
+  "appcb-to-divert-vizag-port-steel-plant-heavy-vehicles-to-cur": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "poll",
+    "norm": 45.9
+  },
+  "the-rashtriya-rifles-the-temporary-force-that-stayed-36-year": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-52-000-crore-worth-of-development-works-underway-in-hyderab": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
+    "signature": "crore",
     "norm": 44
   },
-  "-don-t-cut-salaries-govt-s-clear-directive-to-companies-as-e": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
+  "muslim-man-taken-into-police-custody-after-hindu-groups-clai": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
     "signature": "mp",
     "norm": 44
   },
-  "iuml-rejects-adoor-prakash-s-accusation-that-keralam-govt-ke": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "alliance",
-    "norm": 44
-  },
-  "flydubai-hero-indian-pilot-suffered-wounds-to-limbs-chest-ab": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "captain",
-    "norm": 42.4
-  },
-  "urvashi-and-jagadish-reunite-after-three-decades-for-room-no": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "film",
-    "norm": 42.4
-  },
-  "after-teen-s-gangrape-audit-finds-only-16-of-736-dda-parks-h": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "cctv",
-    "norm": 40.7
-  },
-  "-don-t-want-him-to-get-flashbacks-smit-machchhar-s-wife-says": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
+  "traffic-diversions-announced-as-l-tape-mysuru-event-set-to-d": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
     "signature": "",
     "norm": 36
   },
-  "-whole-nation-is-praying-smit-machchhar-s-wife-thanks-indian": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
+  "semicon-design-firm-spintronics-ceeri-ink-pact-for-gan-tech": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
     "signature": "",
     "norm": 36
   },
-  "hdfc-kotak-get-their-anups-same-roots-but-very-different-cha": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
+  "nebraska-farmer-found-father-s-1946-john-deere-decades-later": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
     "signature": "",
     "norm": 36
   },
-  "gandhi-jayanti-2026-are-banks-open-or-closed-today-check-oct": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
+  "where-pens-are-passion-craft-and-collector-s-pride": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
     "signature": "",
     "norm": 36
   },
-  "what-would-mahatma-gandhi-do-if-he-were-alive-today-we-ask-g": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
+  "a-trip-down-memory-lane-for-australian-grandson-of-pudukotta": {
+    "firstSeen": "2026-10-02T15:43:57.836Z",
     "signature": "",
     "norm": 36
-  },
-  "puja-deepavali-season-ksrtc-to-operate-special-inter-state-s": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "eci-to-conduct-special-drive-to-enrol-left-out-first-time-el": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "asian-games-2026-india-s-medallists-full-list-of-winners": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "dharma-and-rashtra-inseparable-india-s-knowledge-tradition-c": {
-    "firstSeen": "2026-10-02T08:24:36.642Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
