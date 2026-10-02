@@ -1,192 +1,62 @@
 {
-  "indian-school-of-agriculture-should-help-farmers-become-ceos": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "alert|ambani|attack|attack|mla|mp|row",
-    "norm": 87.5
+  "deleted-and-left-in-limbo": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
+    "signature": "election|election|lakh|vote",
+    "norm": 68
   },
-  "700-detained-as-delhi-mumbai-see-big-protests-against-gyanes": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "crore|election|election|election commission|protest|protest|vote",
-    "norm": 84.8
+  "up-congress-gets-new-chief-aradhana-mishra-takes-charge-imra": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
+    "signature": "congress|election|election|mla|mp|president",
+    "norm": 63.4
   },
-  "vijay-holds-roadshow-in-madurantakam-ahead-of-the-october-6-": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "chief minister|election|election|fan|gst|minister|president",
-    "norm": 79.1
+  "under-fire-ec-orders-special-drive-to-add-genuine-electors-l": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
+    "signature": "fire|fire|vote",
+    "norm": 62.8
   },
-  "devendra-fadnavis-launches-dharavi-experience-centre-near-bk": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "deal|exam|minister|modi|modi|mp|prime minister",
-    "norm": 75.9
-  },
-  "thousands-turn-up-for-cjp-protest-in-mumbai-seeking-cec-s-re": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "chief minister|gst|minister|protest|protest",
-    "norm": 74.9
-  },
-  "israeli-investigators-to-question-omani-co-pilot-in-uae-led-": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "attack|attack|israel|result",
-    "norm": 73
-  },
-  "captain-smit-machchhar-stable-after-flydubai-cockpit-attack-": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "attack|attack|captain|injured",
-    "norm": 69.7
-  },
-  "actor-dino-morea-questioned-for-6-hours-in-rs-65-crore-mumba": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "actor|crore|scam|war",
-    "norm": 67.7
-  },
-  "mumbai-cjp-s-dipke-warns-of-jantar-mantar-2-0-demands-gyanes": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "protest|protest|vote|war",
-    "norm": 66.3
-  },
-  "on-camera-doctor-slapped-inside-phc-other-healthcare-workers": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "attack|attack|cctv|video",
-    "norm": 66
-  },
-  "flipkart-big-billion-days-sale-nothing-announces-offers-disc": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "bill|billion|row",
-    "norm": 63.9
-  },
-  "jsp-mp-urges-andhra-pradesh-chief-minister-to-mark-modi-s-25": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "chief minister|minister|modi|modi|mp",
-    "norm": 62.9
-  },
-  "andhra-cm-chandrababu-naidu-calls-for-people-s-participation": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "chief minister|minister|war",
-    "norm": 61.4
-  },
-  "-they-shot-down-their-own-satellite-ex-official-recalls-us-s": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "mp|shock|shock",
-    "norm": 61.1
-  },
-  "jammu-kashmir-burqa-row-medical-students-protest-over-labour": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "controversy|protest|protest|row",
+  "cjp-s-abhijeet-dipke-threatens-jantar-mantar-2-0-on-oct-10-i": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
+    "signature": "protest|protest|threat|war",
     "norm": 60.6
   },
-  "organisational-matters-differences-of-opinion-between-leader": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "congress|controversy|ruling",
-    "norm": 59.7
+  "nc-legislator-alleges-bodyguard-attacked-him-police-accuse-h": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
+    "signature": "attack|attack",
+    "norm": 59.3
   },
-  "asian-games-silver-medallist-sreeshankar-targets-gold-in-202": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "gold|mp",
-    "norm": 57.1
+  "three-minors-rescued-from-brick-kilns-in-konaseema": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
+    "signature": "rescue|rescue",
+    "norm": 52.4
   },
-  "new-york-fisher-house-to-save-veteran-families-700-000-a-yea": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "ipl|mp",
-    "norm": 57.1
+  "mississippi-couple-wins-41-920-after-loggers-cut-1-299-trees": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
+    "signature": "mp|record",
+    "norm": 52
   },
-  "rare-1852-california-gold-rush-coin-sells-for-367-875": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "gold|mp",
-    "norm": 57.1
+  "foreign-buyers-impressed-by-experiential-tourism-avenues-in-": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "-heritage-once-lost-cannot-be-recreated-hc-flags-threat-to-j": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "threat|war",
-    "norm": 52.1
-  },
-  "woman-stripped-and-beaten-inside-guwahati-nightclub-police-r": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "khan|video",
-    "norm": 50.5
-  },
-  "harish-urges-rahul-gandhi-to-stop-congress-govt-from-privati": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "congress|rahul gandhi",
-    "norm": 50.5
-  },
-  "cpi-m-leaders-meet-home-minister-demand-action-against-polic": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "bjp|minister",
-    "norm": 50.5
-  },
-  "bjp-functionaries-submitted-pre-filled-form-7-applications-t": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "bjp|vote",
-    "norm": 48.7
-  },
-  "connor-bedard-secured-75-million-at-just-21-how-the-blackhaw": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "captain|star|superstar",
-    "norm": 48.3
-  },
-  "bjp-mlc-somu-veerraju-urges-adopting-handloom-products-to-su": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
+  "swadeshi-products-can-strengthen-self-reliance-says-bjp": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
     "signature": "bjp",
-    "norm": 45.9
+    "norm": 44
   },
-  "spiritual-guru-kalki-bhagavan-laid-to-rest-in-andhra-pradesh": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
+  "a-p-government-to-note-media-commission-proposal-minister-ko": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
     "signature": "minister",
-    "norm": 45.9
-  },
-  "inquiry-by-coop-dept-officer-finds-shivamogga-brahmin-mahasa": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "fund",
-    "norm": 45.9
-  },
-  "let-rayalaseema-be-known-for-development-not-drought-says-pa": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "lakh",
-    "norm": 45.9
-  },
-  "appcb-to-divert-vizag-port-steel-plant-heavy-vehicles-to-cur": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "poll",
-    "norm": 45.9
-  },
-  "the-rashtriya-rifles-the-temporary-force-that-stayed-36-year": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "-52-000-crore-worth-of-development-works-underway-in-hyderab": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "crore",
     "norm": 44
   },
-  "muslim-man-taken-into-police-custody-after-hindu-groups-clai": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "mp",
+  "nellimarla-former-mla-likely-to-take-announce-his-future-pol": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
+    "signature": "mla",
     "norm": 44
   },
-  "traffic-diversions-announced-as-l-tape-mysuru-event-set-to-d": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
+  "cpi-m-urges-tamil-nadu-government-to-boycott-high-level-comm": {
+    "firstSeen": "2026-10-02T20:39:41.515Z",
     "signature": "",
-    "norm": 36
-  },
-  "semicon-design-firm-spintronics-ceeri-ink-pact-for-gan-tech": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "",
-    "norm": 36
-  },
-  "nebraska-farmer-found-father-s-1946-john-deere-decades-later": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "",
-    "norm": 36
-  },
-  "where-pens-are-passion-craft-and-collector-s-pride": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "",
-    "norm": 36
-  },
-  "a-trip-down-memory-lane-for-australian-grandson-of-pudukotta": {
-    "firstSeen": "2026-10-02T15:43:57.836Z",
-    "signature": "",
-    "norm": 36
+    "norm": 33.9
   }
 }
