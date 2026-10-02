@@ -1,27 +1,302 @@
 {
-  "saudi-coalition-says-intercepted-houthi-missiles-drones": {
-    "firstSeen": "2026-10-01T21:46:41.607Z",
-    "signature": "coalition|defence|drone|result",
-    "norm": 66.9
+  "trump-threatens-iran-with-very-hard-strike-if-tehran-linked-": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "attack|attack|iran|mp|threat|trump|trump",
+    "norm": 91.5
   },
-  "stephen-king-foundation-gave-120-000-to-help-heat-maine-home": {
-    "firstSeen": "2026-10-01T21:46:41.607Z",
-    "signature": "fund|threat",
+  "cjp-to-protest-against-cec-gyanesh-kumar-in-mumbai-on-octobe": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "election|election|modi|modi|protest|protest",
+    "norm": 81.6
+  },
+  "pm-modi-says-smit-machchhar-averted-9-11-style-tragedy-lauds": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "disaster|hospital|modi|modi|tragedy",
+    "norm": 80.7
+  },
+  "trump-appears-at-texas-rally-with-former-nba-star-dennis-rod": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "mp|rally|rally|star|trump|trump",
+    "norm": 75.5
+  },
+  "congress-shrinking-targeting-pm-modi-and-constitutional-bodi": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "bjp|congress|modi|modi|mp|row",
+    "norm": 73
+  },
+  "bjp-accuses-congress-rahul-gandhi-of-double-standards-over-a": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "bjp|congress|exam|mp|rahul gandhi|recruitment",
+    "norm": 69.6
+  },
+  "guwahati-girl-dies-in-noida-road-accident-family-seeks-priva": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "accident|injured|result",
+    "norm": 64.5
+  },
+  "-feels-incredible-when-national-anthem-plays-relay-gold-meda": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "gold|iran|mp",
+    "norm": 63.6
+  },
+  "sc-declines-one-nation-one-election-panel-s-proposal-to-inte": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "cji|election|election|mp",
+    "norm": 63.5
+  },
+  "at-t-t-mobile-verizon-form-jv-to-expand-satellite-coverage-a": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "dead|dead",
+    "norm": 62.1
+  },
+  "maharashtra-signs-67-mous-worth-rs-8-57-lakh-crore-potential": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "crore|jobs|lakh|maharashtra",
+    "norm": 61.8
+  },
+  "late-gola-crowned-favourite-fat-dog-of-delhi-defeats-competi": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "mp|row|vote",
+    "norm": 61.4
+  },
+  "nmmss-scholarship-2026-application-deadline-extended-till-oc": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "dead|dead",
+    "norm": 60.4
+  },
+  "un-chief-condemns-attack-on-flydubai-flight": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "attack|attack",
+    "norm": 59.3
+  },
+  "inseego-completes-acquisition-of-nokia-fixed-wireless-access": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "acquisition|mp",
+    "norm": 57.9
+  },
+  "dgca-should-be-turned-independent-with-own-money-and-hiring-": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "fund|recruitment",
     "norm": 57.1
   },
-  "tax-raid-finds-rs-4-34-lakh-forex-man-wins-itat-case-with-si": {
-    "firstSeen": "2026-10-01T21:46:41.607Z",
-    "signature": "crore|lakh|tax",
-    "norm": 52.7
+  "us-india-trade-deal-not-imminent-us-trade-representative-aft": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "deal|g20",
+    "norm": 55
   },
-  "-right-to-access-to-justice-equal-for-all-sc-frowns-at-out-o": {
-    "firstSeen": "2026-10-01T21:46:41.607Z",
+  "us-stock-market-prediction-for-friday-how-will-s-p-500-dow-j": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "actor|stock market",
+    "norm": 54.7
+  },
+  "setting-fire-to-the-cracker-ban": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "fire|fire",
+    "norm": 54.2
+  },
+  "mammootty-s-panampilly-nagar-house-is-now-a-stay": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "fan|mp",
+    "norm": 53.5
+  },
+  "zscaler-promotes-sanjay-yadave-to-lead-apj-growth-as-enterpr": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
     "signature": "row",
+    "norm": 51.2
+  },
+  "-patient-centric-innovation-must-be-central-mission-of-life-": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "war",
+    "norm": 49.4
+  },
+  "-not-getting-gold-is-disappointing-sarvesh-kushare-after-asi": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "gold",
+    "norm": 49.4
+  },
+  "uncertainty-over-rml-hospital-expansion-as-hc-puts-l-order-i": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "hospital",
+    "norm": 49.4
+  },
+  "student-death-iit-delhi-probe-panel-gets-second-extension": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "death",
+    "norm": 49.4
+  },
+  "-baththa-box-office-collection-day-1-vijay-sethupathi-film-e": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "box office|film",
+    "norm": 49.4
+  },
+  "temperament-childhood-adversity-may-offer-clues-to-psychiatr": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "mp",
+    "norm": 49
+  },
+  "china-national-day-tibetan-parliament-cta-call-for-recogniti": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "china|parliament",
+    "norm": 48.7
+  },
+  "from-scam-1992-the-harshad-mehta-story-to-rocket-boys-5-grip": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "scam",
     "norm": 48.2
   },
-  "ram-temple-staff-to-undergo-100-police-verification-characte": {
-    "firstSeen": "2026-10-01T21:46:41.607Z",
+  "filing-process-to-be-made-simpler-faster-and-hassle-free-say": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 47.1
+  },
+  "png-drive-3-0-targets-50-lakh-new-connections-shifts-focus-t": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "lakh",
+    "norm": 45.9
+  },
+  "finding-the-mahatma-in-a-divided-pakistan": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "pakistan",
+    "norm": 45.9
+  },
+  "india-us-trade-deal-in-short-stroke-greer": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "deal",
+    "norm": 45.9
+  },
+  "g20-agrees-to-condemn-weaponisation-of-food-greer": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "g20",
+    "norm": 45.9
+  },
+  "us-man-charged-in-300-million-china-tech-case": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "china",
+    "norm": 45.9
+  },
+  "bt-launches-ai-from-bt-to-help-united-kingdom-businesses-ado": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "excerpt-from-ramachandra-guha-arguments-with-gandhi": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "parks-associates-highlights-rise-of-managed-connectivity-in-": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "gomspace-launches-gomx-5-to-demo-next-gen-satellite-communic": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "iceye-nokia-partner-on-sovereign-satellite-communications-fo": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "infosys-columbia-university-launch-enterprise-ai-collaborati": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "karnataka-drive-to-green-data-centres": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "optimum-appoints-adriana-rios-welton-as-general-counsel": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "infineon-expands-global-manufacturing-footprint-with-new-sca": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "angola-cables-expands-monet-and-sacs-capacity-with-ciena-tec": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "old-farmer-almanac-october-2026-forecast-what-the-month-majo": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "what-human-brain-tissue-transplanted-into-mice-showed-us": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "telesur-upgrades-to-cerillion-26-1-with-advanced-promotions-": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "sunrise-becomes-first-swiss-telecom-operator-to-offer-meta-a": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "haryana-cm-visits-agriculture-exhibition-in-hisar-felicitate": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "taking-stock-of-irdai-distribution-reset-the-hindubusinessli": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "back-and-shoulder-surgery-is-often-worse-than-useless": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "aksharaa-haasan-says-she-a-high-school-dropout-parents-kamal": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 36
+  },
+  "gandhi-the-man-and-the-idea-lives-on-in-hindustani": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 36
+  },
+  "lindsay-clancy-update-what-next-after-judge-rejects-not-guil": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 36
+  },
+  "gandhiji-was-a-man-of-god-hence-mahatma": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 36
+  },
+  "us-announces-new-immigration-fees-from-october-16-what-appli": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 36
+  },
+  "flydubai-incident-live-updates-hero-pilot-recovering-well-sa": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 36
+  },
+  "happy-gandhi-jayanti-2026-top-80-wishes-messages-quotes-imag": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "51-year-old-us-energy-dept-official-arrested-for-allegedly-a": {
+    "firstSeen": "2026-10-02T01:37:33.371Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
