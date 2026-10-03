@@ -1,161 +1,51 @@
 {
-  "india-summons-pakistani-diplomat-over-cross-border-infiltrat": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "border|fire|fire|ipl|mp|pakistan|war|warning",
-    "norm": 92.6
-  },
-  "as-protests-against-cec-continue-rahul-launches-satyagraha-d": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "chief minister|lok sabha|minister|modi|modi|mp|opposition|protest|protest",
-    "norm": 80.4
-  },
-  "five-workers-dead-over-10-injured-in-a-boiler-explosion-at-a": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "dead|dead|explosion|explosion|injured|lakh",
-    "norm": 78.7
-  },
-  "helicopters-influencers-and-nail-art-the-money-trail-of-2026": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "bjp|congress|election|election|fund|mp|star",
-    "norm": 77.6
-  },
-  "bjp-slams-actor-prakash-raj-for-insulting-cec": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "actor|bjp|slam|slams",
+  "netanyahu-invites-pm-modi-flydubai-captain-smit-machchhar-to": {
+    "firstSeen": "2026-10-03T21:09:05.689Z",
+    "signature": "captain|israel|modi|modi",
     "norm": 69.3
   },
-  "india-steps-into-russia-ukraine-peace-push-kyiv-praises-modi": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "ipl|minister|modi|modi|mp",
-    "norm": 68.6
+  "watch-netanyahu-invites-pm-modi-pilot-machchhar-to-israel-i-": {
+    "firstSeen": "2026-10-03T21:09:05.689Z",
+    "signature": "israel|modi|modi|watch",
+    "norm": 67.9
   },
-  "four-helene-damaged-nc-homes-repaired-after-storm-will-now-b": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "flood|flood|storm|threat",
-    "norm": 68.4
+  "-blows-kept-coming-hero-pilot-describes-what-happened-inside": {
+    "firstSeen": "2026-10-03T21:09:05.689Z",
+    "signature": "injured|war",
+    "norm": 57.6
   },
-  "kolkata-aiff-pull-out-all-stops-for-india-vs-brazil-but-crow": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "crowd|india vs|row",
-    "norm": 63.2
-  },
-  "akhilesh-asks-sp-leaders-to-keep-seat-sharing-concerns-with-": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "congress|election|election|mp|president",
-    "norm": 62.9
-  },
-  "tvk-formally-joins-india-bloc-set-to-join-demonstrations-aga": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "bjp|protest|protest",
-    "norm": 62.8
-  },
-  "palaniswami-slams-tvk-regime-for-claiming-to-be-corruption-f": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "mp|slam|slams",
-    "norm": 60.8
-  },
-  "remuneration-dispute-about-100-maharani-cluster-university-g": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "protest|protest|war",
-    "norm": 59.6
-  },
-  "couple-two-minor-children-injured-in-cylinder-explosion": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "explosion|explosion|injured",
-    "norm": 57.9
-  },
-  "mumbai-airport-airlines-clash-over-navi-mumbai-shift": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "clash|clash",
-    "norm": 54.2
-  },
-  "quantum-computing-will-start-in-amaravati-on-february-3-2027": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "mp|star",
-    "norm": 51.7
-  },
-  "mrfa-deal-likely-by-end-of-fy27-says-iaf-chief-annual-requir": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "acquisition|deal|price",
-    "norm": 50.9
-  },
-  "a-corporate-mafia-government-has-been-ruling-the-state-alleg": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "alliance|bjp|ruling",
-    "norm": 50.9
-  },
-  "maitc-writes-to-rajya-sabha-chairman-over-exclusion-from-par": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "parliament|rajya sabha",
-    "norm": 50.5
-  },
-  "keralam-rebrands-it-department-to-reflect-ai-deep-tech-push": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "governor|policy",
-    "norm": 50.5
-  },
-  "how-landlord-won-tax-relief-on-rs-14-96-lakh-demonetisation-": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "lakh|tax",
-    "norm": 48.7
-  },
-  "-we-possess-necessary-capabilities-iaf-chief-on-pakistan-chi": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "china|pakistan",
-    "norm": 48.7
-  },
-  "odisha-a-safe-haven-for-poachers-says-environmental-group": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "war",
+  "british-indian-pair-fight-extradition-to-us-over-alleged-can": {
+    "firstSeen": "2026-10-03T21:09:05.689Z",
+    "signature": "fraud",
     "norm": 46.3
   },
-  "india-summons-pak-envoy-over-cross-border-infiltration-rejec": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "border",
+  "centre-considering-new-hydropower-projects-including-in-j-k-": {
+    "firstSeen": "2026-10-03T21:09:05.689Z",
+    "signature": "pakistan",
     "norm": 45.9
   },
-  "queensland-farmer-opened-4-campsites-after-drought-they-brou": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
+  "drug-addicts-turn-to-painkillers-amid-nasha-mukt-crackdown-i": {
+    "firstSeen": "2026-10-03T21:09:05.689Z",
     "signature": "mp",
     "norm": 44
   },
-  "commander-of-u-s-pacific-command-to-visit-india-from-october": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "",
-    "norm": 36
-  },
-  "dharapuram-farmers-unhappy-over-t-n-government-s-approach-on": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "",
-    "norm": 36
-  },
-  "6-cong-workers-get-bail-in-case-of-defacing-cec-gyanesh-kuma": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "",
-    "norm": 36
-  },
-  "ganesh-visarjan-over-gyanesh-kumar-visarjan-remains-prakash-": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
-    "signature": "",
-    "norm": 36
-  },
-  "centre-announces-centres-of-excellence-for-5-classical-langu": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
+  "tennessee-prisons-official-resigns-after-christa-pike-s-fail": {
+    "firstSeen": "2026-10-03T21:09:05.689Z",
     "signature": "",
     "norm": 33.9
   },
-  "ksrtc-to-install-100-adas-systems-in-buses-across-karnataka": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
+  "kashmir-professor-removed-for-harassing-students": {
+    "firstSeen": "2026-10-03T21:09:05.689Z",
     "signature": "",
     "norm": 33.9
   },
-  "telangana-to-set-up-welfare-board-for-auto-drivers-bhatti": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
+  "garth-stein-s-restored-seattle-forever-house-lists-for-2-45-": {
+    "firstSeen": "2026-10-03T21:09:05.689Z",
     "signature": "",
     "norm": 33.9
   },
-  "mapping-of-two-western-ghats-districts-shows-much-of-propose": {
-    "firstSeen": "2026-10-03T17:12:37.065Z",
+  "pok-woman-crosses-loc-in-rajouri-detained": {
+    "firstSeen": "2026-10-03T21:09:05.689Z",
     "signature": "",
     "norm": 33.9
   }
