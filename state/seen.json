@@ -1,136 +1,191 @@
 {
-  "5-killed-10-injured-in-boiler-explosion-at-pharma-firm-in-an": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "explosion|explosion|injured|killed|killed|panic|rescue|rescue",
-    "norm": 79.5
+  "fly-dubai-co-pilot-identified-as-radicalized-omani-national-": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "attack|attack|captain|mp|terror|terror",
+    "norm": 82.3
   },
-  "camp-david-huddle-trump-team-discusses-iran-war-possible-yem": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "iran|mp|trump|trump|war",
-    "norm": 76.5
+  "pakistan-summons-indian-envoy-to-lodge-strong-protest-over-a": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "border|killed|killed|mp|pakistan|protest|protest",
+    "norm": 82
   },
-  "impostor-posing-as-minister-threatened-judges-inside-distric": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "cabinet|ipo|minister|mp|threat",
-    "norm": 70
+  "-faked-injury-humiliated-nandigram-suvendu-adhikari-orders-p": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "chief minister|controversy|election|election|mamata|minister|mp|record",
+    "norm": 78.7
   },
-  "who-is-pargat-singh-the-former-olympic-hockey-captain-who-ju": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "captain|congress|mp|president|war",
-    "norm": 68.7
+  "captain-smit-machchhar-s-heroic-fight-how-passengers-helped-": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "attack|attack|captain",
+    "norm": 66.3
   },
-  "4-5-magnitude-earthquake-jolts-maharashtra-s-hingoli": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "earthquake|earthquake|maharashtra",
-    "norm": 63.2
+  "-stop-charade-congress-leader-attacks-cjp-over-thekedars-of-": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "attack|attack|congress",
+    "norm": 66
   },
-  "maharashtra-s-hingoli-sees-two-mild-tremors-within-hours-no-": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "maharashtra|mp|record",
+  "kiren-rijiju-on-modi-s-leadership-governance-welfare-nationa": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 63.5
+  },
+  "protest-against-cec-gyanesh-kumar-live-aisa-president-neha-b": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "president|protest|protest",
     "norm": 62.8
   },
-  "ind-vs-pak-asian-games-final-live-score-toss-winner-winning-": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "live score|mp|result",
-    "norm": 60.8
+  "ohio-girl-raised-768-at-lemonade-stand-8-years-later-nonprof": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "hospital|mp|star",
+    "norm": 62.5
   },
-  "mumbai-police-question-iit-bombay-professor-doolla-for-10-ho": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "bomb|death",
-    "norm": 59.3
+  "panchayat-polls-in-rajasthan-from-october-23": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "election|election|poll",
+    "norm": 61.4
   },
-  "us-woman-kills-4-yr-old-then-shoots-self-dead-after-losing-c": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "dead|dead",
-    "norm": 59.3
+  "delhi-ncr-housing-prices-rise-12-in-q3-highest-among-top-sev": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "price|prices|row",
+    "norm": 61.4
   },
-  "weather-bee-el-nino-s-impact-on-global-rainfall-in-four-maps": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "mp|weather",
+  "tamil-nadu-police-do-not-have-crystal-ball-or-magic-wand-to-": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "cry|high court",
     "norm": 57.1
   },
-  "delhi-police-register-3-cases-over-jantar-mantar-protest-aga": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "what-is-the-gem-granites-veeramani-pocso-act-case-all-about-": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "ipl|mp",
+    "norm": 57.1
   },
-  "protest-against-cec-gyanesh-kumar-live-demonstration-to-resu": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "red-tape-leaves-ugc-s-social-inclusion-scheme-in-limbo-leads": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "gst|slam",
+    "norm": 57.1
   },
-  "al-qaeda-figures-and-more-two-posts-surfaced-on-omani-co-pil": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "footage|slam",
-    "norm": 52.4
+  "veeramani-pocso-act-case-let-sit-work-in-peace-says-madras-h": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "chief minister|high court|minister|mp",
+    "norm": 53.9
   },
-  "hardened-narco-trafficking-kingpin-navpreet-singh-deported-f": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "amit shah|mp",
+  "trinamool-congress-loses-chairpersonship-of-two-key-parliame": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "bjp|congress|parliament",
+    "norm": 52.7
+  },
+  "veeramani-pocso-case-dmk-moves-madras-high-court-to-ask-sit-": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "high court|minister",
     "norm": 50.5
   },
-  "can-congress-s-pargat-singh-bridge-punjab-unit-s-factional-d": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "congress|mp",
-    "norm": 48.7
+  "veeramani-case-tamil-nadu-ministers-aadhav-arjuna-nirmal-kum": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "high court|minister",
+    "norm": 50.5
   },
-  "-i-am-hanuman-to-rahul-gandhi-ajay-rai-after-being-replaced-": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "congress|rahul gandhi",
-    "norm": 48.7
+  "extremist-groups-are-linked-to-manipur-conflict-says-14-grou": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "coalition|minister",
+    "norm": 50.5
   },
-  "rapunzel-syndrome-1-kg-hair-mass-removed-from-girl-s-stomach": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "hospital",
+  "cauvery-bridge-on-tiruchi-chennai-bypass-to-be-reopened-for-": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "iran",
+    "norm": 48.2
+  },
+  "india-explode-in-2nd-half-crush-malaysia-5-1-to-retain-asian": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "gold",
     "norm": 46.3
   },
-  "-almost-akin-to-civil-death-delhi-hc-rebukes-ssc-over-3-year": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "death",
+  "drishyam-3-box-office-collection-day-1-updates-ajay-devgn-fi": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "box office|film",
     "norm": 46.3
   },
-  "uproar-over-dalit-woman-s-roadside-delivery-amid-untouchabil": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "hospital",
-    "norm": 46.3
+  "my-suspension-from-ysrcp-is-unfair-says-former-nellimarla-ml": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "mla",
+    "norm": 45.9
   },
-  "family-s-1938-texas-ranch-anchors-6-600-acre-conservation-wi": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "ipl",
-    "norm": 46.3
+  "-gem-granites-veeramani-pocso-case-in-tamil-nadu-a-compilati": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "barapullah-ph-iii-ripple-effect-siddharth-extension-resident": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "war",
-    "norm": 46.3
+  "-gem-granites-veeramani-booked-in-second-pocso-act-case": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "police-file-suo-motu-case-over-assault-of-woman-at-guwahati-": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
+  "-gem-granites-veeramani-case-police-officer-in-sit-requests-": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "-gem-granites-veeramani-his-two-accomplices-in-pocso-act-cas": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "where-did-the-stars-go-how-india-s-cities-are-dimming-the-tw": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
     "signature": "star",
     "norm": 44.3
   },
-  "can-a-brahmin-muslim-equation-give-congress-a-foothold-in-up": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "congress",
+  "-i-m-depressed-28-year-old-man-s-last-words-before-jumping-f": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "mp",
     "norm": 44
   },
-  "watch-india-s-tejas-french-rafale-us-f-35-and-russian-made-s": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "watch",
+  "india-unlikely-to-face-food-fertiliser-crisis-despite-global": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "fssai-bans-sale-of-nestle-s-dairy-whitener-at-top-delhi-hote": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "swr-records-highest-ever-september-freight-loading-at-4-41-m": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "record",
     "norm": 42.7
   },
-  "inside-bandhavgarh-s-forests-the-evolving-nature-of-tiger-to": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
+  "uae-deputy-pm-sheikh-hamdan-meets-indian-pilot-captain-smit-": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "captain",
+    "norm": 42.4
+  },
+  "villagers-boycott-gram-sabha-meeting-demanding-relocation-of": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "",
+    "norm": 36
+  },
+  "13-year-old-girl-went-to-meet-friend-gang-raped-inside-aband": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-gem-granites-veeramani-pocso-case-sit-to-file-charge-sheet": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-gem-granites-veeramani-booked-for-abetting-suicide-of-minor": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-dragged-to-basement-assaulted-7-held-after-woman-partially-": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
     "signature": "",
     "norm": 33.9
   },
-  "daily-quiz-on-mahatma-gandhi": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "turn-your-delivery-boxes-and-paper-bags-into-cash": {
-    "firstSeen": "2026-10-03T06:24:24.847Z",
+  "jennifer-doudna-s-team-finds-ancient-crispr-ancestor-that-ma": {
+    "firstSeen": "2026-10-03T12:29:16.526Z",
     "signature": "",
     "norm": 33.9
   }
