@@ -1,302 +1,137 @@
 {
-  "israeli-diplomat-discusses-ongoing-investigation-into-terror": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "attack|attack|exam|ipl|israel|terror|terror|war",
-    "norm": 75.5
+  "5-killed-10-injured-in-boiler-explosion-at-pharma-firm-in-an": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "explosion|explosion|injured|killed|killed|panic|rescue|rescue",
+    "norm": 79.5
   },
-  "700-detained-as-delhi-mumbai-see-big-protests-against-gyanes": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "crore|election|election|election commission|protest|protest|vote",
-    "norm": 72.9
+  "camp-david-huddle-trump-team-discusses-iran-war-possible-yem": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "iran|mp|trump|trump|war",
+    "norm": 76.5
   },
-  "congress-targets-pm-modi-over-insensitivity-with-regard-risi": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "budget|congress|inflation|modi|modi|price|prices",
-    "norm": 68.2
+  "impostor-posing-as-minister-threatened-judges-inside-distric": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "cabinet|ipo|minister|mp|threat",
+    "norm": 70
   },
-  "fly-dubai-attack-co-pilot-s-alleged-radicalization-sparks-in": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "attack|attack|captain|shock|shock|shocking",
-    "norm": 65.1
+  "who-is-pargat-singh-the-former-olympic-hockey-captain-who-ju": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "captain|congress|mp|president|war",
+    "norm": 68.7
   },
-  "-will-strengthen-alliance-with-samajwadi-party-new-up-congre": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "alliance|congress|election|election|mp|war",
-    "norm": 64.1
+  "4-5-magnitude-earthquake-jolts-maharashtra-s-hingoli": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "earthquake|earthquake|maharashtra",
+    "norm": 63.2
   },
-  "-minority-tvk-government-has-forced-byelection-for-cm-s-self": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "actor|chief minister|election|election|minister|mp|president",
-    "norm": 61.2
+  "maharashtra-s-hingoli-sees-two-mild-tremors-within-hours-no-": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "maharashtra|mp|record",
+    "norm": 62.8
   },
-  "punjab-border-infiltration-foiled-two-pakistani-intruders-ki": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "border|killed|killed|mp|pakistan",
+  "ind-vs-pak-asian-games-final-live-score-toss-winner-winning-": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "live score|mp|result",
+    "norm": 60.8
+  },
+  "mumbai-police-question-iit-bombay-professor-doolla-for-10-ho": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "bomb|death",
     "norm": 59.3
   },
-  "deleted-and-left-in-limbo": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "election|election|lakh|vote",
-    "norm": 58.9
+  "us-woman-kills-4-yr-old-then-shoots-self-dead-after-losing-c": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "dead|dead",
+    "norm": 59.3
   },
-  "up-congress-gets-new-chief-aradhana-mishra-takes-charge-imra": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "congress|election|election|mla|mp|president",
-    "norm": 54
+  "weather-bee-el-nino-s-impact-on-global-rainfall-in-four-maps": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "mp|weather",
+    "norm": 57.1
   },
-  "two-suspected-pakistani-intruders-shot-dead-in-tarn-taran": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "dead|dead|pakistan",
-    "norm": 52.7
+  "delhi-police-register-3-cases-over-jantar-mantar-protest-aga": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "5-indian-nationals-rescued-after-kuwait-tanker-hit-in-strait": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "rescue|rescue",
+  "protest-against-cec-gyanesh-kumar-live-demonstration-to-resu": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "al-qaeda-figures-and-more-two-posts-surfaced-on-omani-co-pil": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "footage|slam",
     "norm": 52.4
   },
-  "under-fire-ec-orders-special-drive-to-add-genuine-electors-l": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "fire|fire|vote",
-    "norm": 51.5
+  "hardened-narco-trafficking-kingpin-navpreet-singh-deported-f": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "amit shah|mp",
+    "norm": 50.5
   },
-  "cjp-s-abhijeet-dipke-threatens-jantar-mantar-2-0-on-oct-10-i": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "protest|protest|threat|war",
-    "norm": 51
+  "can-congress-s-pargat-singh-bridge-punjab-unit-s-factional-d": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "congress|mp",
+    "norm": 48.7
   },
-  "2-arrested-for-fake-social-media-posts-triggering-punjab-uni": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "exam|protest|protest",
-    "norm": 49.7
+  "-i-am-hanuman-to-rahul-gandhi-ajay-rai-after-being-replaced-": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "congress|rahul gandhi",
+    "norm": 48.7
   },
-  "g7-nations-to-release-100-million-barrels-of-oil-amid-fuel-p": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "diesel|fuel|price|prices|threat",
-    "norm": 49.4
+  "rapunzel-syndrome-1-kg-hair-mass-removed-from-girl-s-stomach": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "hospital",
+    "norm": 46.3
   },
-  "hockey-legend-pargat-singh-named-punjab-congress-chief-after": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "chief minister|congress|minister|mp|war",
-    "norm": 49.4
+  "-almost-akin-to-civil-death-delhi-hc-rebukes-ssc-over-3-year": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "death",
+    "norm": 46.3
   },
-  "a-new-captain-for-punjab-congress-under-pilot-project-pargat": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "captain|congress|war",
-    "norm": 49
+  "uproar-over-dalit-woman-s-roadside-delivery-amid-untouchabil": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "hospital",
+    "norm": 46.3
   },
-  "congress-abruptly-replaces-ajay-rai-as-state-chief-in-poll-b": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "congress|poll|president",
-    "norm": 48.2
+  "family-s-1938-texas-ranch-anchors-6-600-acre-conservation-wi": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "ipl",
+    "norm": 46.3
   },
-  "cjp-announces-jantar-mantar-protest-on-october-10-if-cec-gya": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "brutal|protest|protest",
-    "norm": 48.1
+  "barapullah-ph-iii-ripple-effect-siddharth-extension-resident": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "nc-legislator-alleges-bodyguard-attacked-him-police-accuse-h": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "attack|attack",
-    "norm": 47.7
+  "police-file-suo-motu-case-over-assault-of-woman-at-guwahati-": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "star",
+    "norm": 44.3
   },
-  "thousands-turn-up-for-cjp-protest-in-mumbai-seeking-cec-s-re": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "gst|protest|protest",
-    "norm": 47.4
-  },
-  "pm-modi-attends-prayer-meet-on-gandhi-jayanti-interacts-with": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "modi|modi|president",
-    "norm": 45.9
-  },
-  "two-definitions-of-poverty-in-jammu-and-kashmir-fuel-a-row-o": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "fuel|row",
-    "norm": 45.4
-  },
-  "-new-hero-israeli-envoy-puts-up-billboard-in-mumbai-praising": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "bill|israel",
-    "norm": 45.4
-  },
-  "-in-times-of-division-and-conflict-gandhi-s-lessons-speak-wi": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "mp",
+  "can-a-brahmin-muslim-equation-give-congress-a-foothold-in-up": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "congress",
     "norm": 44
   },
-  "wyoming-ranch-sat-unsold-14-months-buyer-appeared-before-no-": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "mp|price",
-    "norm": 43
+  "watch-india-s-tejas-french-rafale-us-f-35-and-russian-made-s": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
+    "signature": "watch",
+    "norm": 42.7
   },
-  "to-counter-china-india-formally-puts-gogra-hot-spring-amp-ot": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "china|mp",
-    "norm": 42.5
-  },
-  "aradhana-misra-mona-appointed-as-new-chief-of-uttar-pradesh-": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "coalition|congress|mp|poll|president",
-    "norm": 42.4
-  },
-  "three-minors-rescued-from-brick-kilns-in-konaseema": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "rescue|rescue",
-    "norm": 42.2
-  },
-  "with-president-s-nod-gujarat-becomes-second-state-after-utta": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "khan|president",
-    "norm": 41.4
-  },
-  "a-fierce-battle-on-in-dharapuram-among-three-leading-contend": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "chief minister|minister|vote",
-    "norm": 40.6
-  },
-  "piyush-goyal-uses-nike-s-own-tagline-to-pitch-india-investme": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "g20|minister|mp",
-    "norm": 40.6
-  },
-  "mississippi-couple-wins-41-920-after-loggers-cut-1-299-trees": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "mp|record",
-    "norm": 39.7
-  },
-  "lawyers-group-announces-independent-panel-of-ex-judges-to-en": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "mp|vote",
-    "norm": 38
-  },
-  "shabana-azmi-naseeruddin-shah-and-vishal-dadlani-join-protes": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "protest|protest",
-    "norm": 37.7
-  },
-  "over-10-000-turn-up-for-cjp-s-anti-cec-protest-at-mumbai-s-s": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "protest|protest",
-    "norm": 37.7
-  },
-  "no-entry-in-round-2-protesters-stopped-short-of-jantar-manta": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "protest|protest",
-    "norm": 37.7
-  },
-  "aradhana-mishra-appointed-new-up-congress-chief-imran-masood": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "congress|poll|president",
-    "norm": 36
-  },
-  "top-court-appoints-single-judge-panel-to-verify-genuine-noid": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "exam",
-    "norm": 35.5
-  },
-  "video-vande-bharat-crosses-chenab-bridge-at-100-kmph": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "mp|video",
-    "norm": 35.1
-  },
-  "london-rail-soil-helped-rebuild-essex-wetlands-reserve-later": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "record",
-    "norm": 34.1
-  },
-  "months-ahead-of-state-polls-congress-names-new-chiefs-for-pu": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "congress|poll",
-    "norm": 33.4
-  },
-  "foreign-buyers-impressed-by-experiential-tourism-avenues-in-": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "swadeshi-products-can-strengthen-self-reliance-says-bjp": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "bjp",
-    "norm": 32.8
-  },
-  "a-p-government-to-note-media-commission-proposal-minister-ko": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "minister",
-    "norm": 32.8
-  },
-  "nellimarla-former-mla-likely-to-take-announce-his-future-pol": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
-    "signature": "mla",
-    "norm": 32.8
-  },
-  "neurable-debuts-499-brain-tracking-headphones-built-entirely": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "russia-s-new-weapon-against-ukraine-ai-generated-songs": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "war",
-    "norm": 30.7
-  },
-  "hindi-on-tamil-nadu-highway-sign-board-stirs-row-2-engineers": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "row",
-    "norm": 30.7
-  },
-  "india-standardises-names-of-28-places-in-ladakh": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
+  "inside-bandhavgarh-s-forests-the-evolving-nature-of-tiger-to": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 33.9
   },
-  "delhi-bihar-bus-service-likely-to-start-before-chhath-18-rou": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "star",
-    "norm": 25.9
-  },
-  "how-freddie-freeman-s-family-shaped-the-dodgers-star-s-mlb-j": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "star",
-    "norm": 25.9
-  },
-  "rules-framed-to-standardise-appointment-of-heads-members-of-": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
+  "daily-quiz-on-mahatma-gandhi": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "cpi-m-urges-tamil-nadu-government-to-boycott-high-level-comm": {
-    "firstSeen": "2026-10-02T20:39:41.515Z",
+  "turn-your-delivery-boxes-and-paper-bags-into-cash": {
+    "firstSeen": "2026-10-03T06:24:24.847Z",
     "signature": "",
-    "norm": 21.2
-  },
-  "senior-iaf-officer-reviews-fifth-gen-fighter-programme-in-be": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "surgeon-rear-admiral-jandhyala-sridhar-assumes-charge-as-com": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "the-hindu-releases-documentary-gandhi-for-genz": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "journalists-union-demands-special-law-on-safety-restoration-": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "how-christa-pike-s-failed-execution-in-us-played-out-minute-": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "from-shiv-on-to-off-musk-s-half-indian-partner-goes-into-ex-": {
-    "firstSeen": "2026-10-03T00:24:58.734Z",
-    "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   }
 }
