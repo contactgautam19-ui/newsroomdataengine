@@ -1,102 +1,302 @@
 {
+  "us-withdraws-all-bombers-from-uk-s-fairford-base-after-suspe": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "attack|attack|bomb|iran|terror|terror",
+    "norm": 80.2
+  },
+  "1-dead-as-russian-drones-hit-desi-pharma-plant-in-ukraine": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "attack|attack|dead|dead|drone|mp",
+    "norm": 78.8
+  },
+  "us-wants-new-round-of-talks-with-russia-ukraine-this-month-z": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "aerial|attack|attack|iran|mp|war",
+    "norm": 77.4
+  },
+  "israel-orders-security-review-of-international-flights-after": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "attack|attack|israel|minister|prime minister",
+    "norm": 71.2
+  },
   "-absolutely-shocking-kejriwal-hits-out-at-delhi-police-for-d": {
     "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "aap|kejriwal|protest|protest|shock|shock|shocking",
-    "norm": 79.6
+    "norm": 69.4
+  },
+  "faster-registration-easier-refunds-reform-rollout-with-gst-2": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "fund|gst|mp|row|tax",
+    "norm": 67.6
+  },
+  "-lora-a-new-security-challenge-in-kashmir-terrorists-using-a": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "dead|dead|pakistan|terror|terror",
+    "norm": 67.2
+  },
+  "iran-s-oil-minister-mohsen-paknejad-steps-down-report": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "economy|iran|minister|war",
+    "norm": 65.2
   },
   "india-in-talks-with-both-russia-and-ukraine-to-end-war-s-jai": {
     "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "jaishankar|minister|modi|modi|president|prime minister|war",
-    "norm": 73.5
+    "norm": 64.7
   },
-  "mad-sandhu-killing-attackers-chased-him-before-shooting-poli": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
-    "signature": "attack|attack|dead|dead|shooting",
-    "norm": 72.1
+  "koder-house-fire-may-have-originated-in-adjacent-building-sa": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "blaze|cctv|exam|fire|fire|footage|video",
+    "norm": 63
   },
   "delhi-protest-against-cec-gyanesh-kumar-turns-tense-110-deta": {
     "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "aap|injured|protest|protest",
-    "norm": 71.4
+    "norm": 62.4
+  },
+  "mad-sandhu-killing-attackers-chased-him-before-shooting-poli": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "attack|attack|dead|dead|shooting",
+    "norm": 61.5
+  },
+  "-vertical-roller-coaster-expert-explains-flydubai-flight-s-s": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "attack|attack|captain|sudden",
+    "norm": 61
+  },
+  "prime-minister-narendra-modi-to-virtually-inaugurate-restore": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "crore|minister|modi|modi|prime minister",
+    "norm": 61
+  },
+  "eam-jaishankar-says-us-has-chosen-to-become-lonelier-power-": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "china|diplomacy|ipl|jaishankar|mp",
+    "norm": 60.4
+  },
+  "nearly-500-schools-in-france-to-be-closed-monday-over-studen": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "minister|protest|protest|star",
+    "norm": 58.9
   },
   "analysis-drugs-to-corruption-to-education-aap-in-punjab-face": {
     "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "aap|ipl|khan|mla",
-    "norm": 66.7
+    "norm": 57.4
   },
   "500-detained-in-delhi-on-day-3-of-protests-seeking-cec-s-exi": {
     "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "bjp|protest|protest|war",
-    "norm": 66.3
+    "norm": 57.1
   },
-  "ruling-tvk-is-obsessed-with-purchasing-mlas-m-k-stalin-tells": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
-    "signature": "election|election|mla|mp|president|ruling|vote",
-    "norm": 63.7
+  "fadnavis-fires-ghajini-barb-at-thackeray-cousins-over-protes": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "fire|fire|protest|protest",
+    "norm": 56.7
   },
-  "mismatch-in-data-on-rabies-deaths-poses-major-challenge": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
-    "signature": "death|match|record",
-    "norm": 63.2
+  "sir-strikes-at-heart-of-constitution-supreme-court-judge-jus": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "ipl|mp|supreme court|vote",
+    "norm": 56.3
+  },
+  "25p-kg-wheat-msp-hike-an-insult-samyukta-kisan-morcha": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "mp|price|prices",
+    "norm": 55
+  },
+  "human-rights-body-action-over-minors-participation-at-mumbai": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "maharashtra|protest|protest",
+    "norm": 53.8
+  },
+  "campaigning-for-byelection-ends-in-madurantakam-and-dharapur": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "alliance|election|election|mp|poll",
+    "norm": 53.4
+  },
+  "six-year-old-girl-relative-killed-in-road-accident-at-tank-b": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "accident|killed|killed",
+    "norm": 53.4
   },
   "us-china-and-russia-race-to-build-nuclear-reactors-on-the-mo": {
     "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "actor|china|war",
-    "norm": 62.5
+    "norm": 53
   },
-  "keralam-government-gets-legal-opinion-to-proceed-against-chi": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
-    "signature": "election|election|election commission",
-    "norm": 61.4
+  "muziris-to-be-made-international-heritage-tourism-destinatio": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "chief minister|minister|tax",
+    "norm": 51.8
   },
-  "-thanks-for-the-gift-pant-s-29th-birthday-made-special-as-ro": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
-    "signature": "iran|match|mp",
-    "norm": 60.8
+  "what-are-the-five-questions-being-asked-regarding-the-flydub": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "attack|attack",
+    "norm": 51.8
   },
-  "fire-breaks-out-at-metal-scrap-godown": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
-    "signature": "accident|fire|fire",
-    "norm": 59.6
+  "tiruvottiyur-residents-seek-flood-free-pollution-free-neighb": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "flood|flood|poll",
+    "norm": 51.5
+  },
+  "financial-aid-to-flood-hit-people-delayed-as-i-won-t-let-akh": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "flood|flood|president",
+    "norm": 51.5
+  },
+  "asian-games-2026-karnataka-athletes-return-with-a-haul-of-fo": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "china|gold|mp",
+    "norm": 50
   },
   "11-year-old-boy-among-3-killed-as-boat-capsizes-in-assam": {
     "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "killed|killed",
-    "norm": 59.3
+    "norm": 47.7
   },
-  "india-is-discussing-agreements-on-grains-and-maritime-safety": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
-    "signature": "china|coalition|defence|jaishankar|minister",
-    "norm": 52.6
+  "-look-out-circular-against-parents-of-man-who-secretly-took-": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "mp|supreme court",
+    "norm": 45.9
+  },
+  "doctor-assault-case-shiv-sena-corporator-ramesh-mhatre-surre": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "supreme court|war",
+    "norm": 45.4
+  },
+  "uk-farmers-habitat-work-lifts-corn-buntings-346-and-butterfl": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "meet-bailey-quinn-frank-eighth-grader-who-built-low-cost-bac": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "fan|mp",
+    "norm": 43.8
+  },
+  "bihar-gandak-recedes-7-engineers-suspended-over-flood-respon": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "flood|flood",
+    "norm": 42.2
   },
   "after-us-claims-of-iran-diplomats-kicked-out-tehran-s-oozes-": {
     "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "ipl|iran",
-    "norm": 52.1
+    "norm": 41.8
   },
-  "former-security-camp-in-bastar-now-serves-as-hostel-for-trib": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
-    "signature": "mp|star",
-    "norm": 51.7
+  "adani-group-kachchh-university-launch-green-energy-centre-of": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "adani|governor",
+    "norm": 41.4
+  },
+  "yemeni-government-launches-offensive-to-seize-all-areas-from": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "iran",
+    "norm": 40.1
+  },
+  "dengue-testing-stepped-up-in-chennai-over-4-500-cases-record": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "mp|record",
+    "norm": 39.7
+  },
+  "-every-mother-and-sister-is-brand-ambassador-mann-govt-distr": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "crore|lakh",
+    "norm": 38
+  },
+  "kerala-high-court-orders-cbi-probe-into-soldier-s-disappeara": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "high court",
+    "norm": 37.5
+  },
+  "ccb-books-19-persons-for-riding-wheelie-triple-riding-and-dr": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "ipl",
+    "norm": 35.5
+  },
+  "spurious-drugs-case-kingpin-s-travel-to-turkiye-throws-light": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "row",
+    "norm": 35.5
   },
   "-more-involved-eam-confirms-india-has-gone-beyond-advocacy-t": {
     "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "war",
-    "norm": 46.3
+    "norm": 35.5
   },
-  "free-ayurvedic-camp-held-at-andhra-university": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
+  "cm-likely-to-attend-gst-meeting": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "gst",
+    "norm": 32.8
+  },
+  "as-peace-prevails-security-camp-in-abujhmad-turns-into-triba": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 32.8
   },
-  "voters-will-teach-tvk-candidates-a-befitting-lesson-eps": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
-    "signature": "vote",
-    "norm": 45.9
+  "single-use-plastic-bottles-banned-at-delhi-s-sports-complexe": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "mp",
+    "norm": 32.8
   },
-  "zelenskyy-claims-putin-shared-jet-drone-technology-with-nort": {
-    "firstSeen": "2026-10-04T18:06:25.314Z",
-    "signature": "drone",
-    "norm": 40.7
+  "fisherfolk-oppose-plan-to-build-secretariat-at-foreshore-est": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "opposition",
+    "norm": 32.8
+  },
+  "cross-border-arms-network-busted-in-punjab-ak-47-grenades-se": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "border",
+    "norm": 32.8
+  },
+  "khatron-ke-khiladi-15-winner-avinash-mishra-lifts-the-trophy": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "lakh",
+    "norm": 32.8
+  },
+  "-it-was-a-scripted-conversation-sanjay-dutt-clarifies-remark": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "dalit-villagers-served-separate-food-at-karnataka-temple-on-": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "ukraine-ready-for-us-backed-talks-with-russia-zelenskyy": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "today-s-nyt-strands-hints-answers-and-help-for-oct-5-946": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "mad-sandhu-killing-vanishing-social-media-posts-and-punjab-s": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "central-teams-continue-visits-to-drought-hit-areas": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "in-assam-s-dhemaji-grazing-land-being-developed-as-village-f": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "youth-held-for-allegedly-raping-transwoman-in-kochi": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "cec-gyanesh-kumar-faces-fresh-kerala-vigilance-probe-in-2006": {
+    "firstSeen": "2026-10-04T22:18:23.364Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
