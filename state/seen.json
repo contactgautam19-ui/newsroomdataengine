@@ -1,147 +1,102 @@
 {
-  "bjp-questions-rahul-gandhi-s-silence-on-flydubai-incident-ca": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "bjp|captain|lok sabha|mp|opposition|rahul gandhi|rajya sabha|terror|terror",
-    "norm": 81.7
+  "-absolutely-shocking-kejriwal-hits-out-at-delhi-police-for-d": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "aap|kejriwal|protest|protest|shock|shock|shocking",
+    "norm": 79.6
   },
-  "-sir-protest-part-of-conspiracy-by-anti-india-elements-kiren": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "cabinet|modi|modi|opposition|protest|protest|vote",
-    "norm": 79.7
+  "india-in-talks-with-both-russia-and-ukraine-to-end-war-s-jai": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "jaishankar|minister|modi|modi|president|prime minister|war",
+    "norm": 73.5
   },
-  "vijay-rides-bullock-kart-in-dharapuram-interacts-with-voters": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "attack|attack|mp|poll|video|vote",
-    "norm": 78.8
+  "mad-sandhu-killing-attackers-chased-him-before-shooting-poli": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "attack|attack|dead|dead|shooting",
+    "norm": 72.1
   },
-  "political-showdown-vijay-slams-stalin-over-derogatory-remark": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "attack|attack|poll|president|slam|slams",
-    "norm": 77.4
+  "delhi-protest-against-cec-gyanesh-kumar-turns-tense-110-deta": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "aap|injured|protest|protest",
+    "norm": 71.4
   },
-  "-can-t-pretend-things-are-normal-with-oil-prices-hitting-100": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "jaishankar|price|prices|shock|shock",
-    "norm": 74.9
-  },
-  "supreme-court-judge-justice-ujjal-bhuyan-slams-sir": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "parliament|slam|slams|supreme court|vote",
-    "norm": 68.6
-  },
-  "deputy-ecs-to-visit-5-states-as-poll-body-steps-up-preparedn": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "election|election|khan|poll",
+  "analysis-drugs-to-corruption-to-education-aap-in-punjab-face": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "aap|ipl|khan|mla",
     "norm": 66.7
   },
-  "protest-against-cec-gyanesh-kumar-delhi-police-detains-aisa-": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "president|protest|protest",
-    "norm": 62.8
+  "500-detained-in-delhi-on-day-3-of-protests-seeking-cec-s-exi": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "bjp|protest|protest|war",
+    "norm": 66.3
   },
-  "trump-announces-super-intelligence-force-to-keep-us-ahead-in": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "mp|trump|trump",
+  "ruling-tvk-is-obsessed-with-purchasing-mlas-m-k-stalin-tells": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "election|election|mla|mp|president|ruling|vote",
+    "norm": 63.7
+  },
+  "mismatch-in-data-on-rabies-deaths-poses-major-challenge": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "death|match|record",
+    "norm": 63.2
+  },
+  "us-china-and-russia-race-to-build-nuclear-reactors-on-the-mo": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "actor|china|war",
+    "norm": 62.5
+  },
+  "keralam-government-gets-legal-opinion-to-proceed-against-chi": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "election|election|election commission",
     "norm": 61.4
   },
-  "-russia-stood-with-india-when-it-mattered-eam-s-jaishankar-r": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "jaishankar|minister|threat",
-    "norm": 61.4
+  "-thanks-for-the-gift-pant-s-29th-birthday-made-special-as-ro": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "iran|match|mp",
+    "norm": 60.8
   },
-  "three-including-10-year-old-boy-killed-as-boat-capsizes-in-a": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
+  "fire-breaks-out-at-metal-scrap-godown": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "accident|fire|fire",
+    "norm": 59.6
+  },
+  "11-year-old-boy-among-3-killed-as-boat-capsizes-in-assam": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "killed|killed",
     "norm": 59.3
   },
-  "asiad-26-leaner-indian-contingent-produces-fewer-golds-but-b": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "gold|mp",
-    "norm": 55.4
+  "india-is-discussing-agreements-on-grains-and-maritime-safety": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "china|coalition|defence|jaishankar|minister",
+    "norm": 52.6
   },
-  "aap-s-own-mla-exposing-so-called-education-revolution-in-pun": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "aap|bjp|mla|mp",
+  "after-us-claims-of-iran-diplomats-kicked-out-tehran-s-oozes-": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "ipl|iran",
     "norm": 52.1
   },
-  "ec-explains-new-eronet-options-for-sir-notice-disposal-to-er": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "mp|video",
-    "norm": 52
+  "former-security-camp-in-bastar-now-serves-as-hostel-for-trib": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "mp|star",
+    "norm": 51.7
   },
-  "telangana-s-actual-revenue-receipts-well-behind-the-budget-e": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "budget|crore|lakh",
-    "norm": 50.9
-  },
-  "atchannaidu-challenges-jagan-to-a-debate-on-agriculture-raya": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "minister|mp",
-    "norm": 50.5
-  },
-  "beerihundi-basavanna-takes-charge-as-mysuru-rural-congress-p": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "congress|president",
-    "norm": 50.5
-  },
-  "mysuru-district-administration-invites-abhinava-gavisiddeshw": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
+  "-more-involved-eam-confirms-india-has-gone-beyond-advocacy-t": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "war",
-    "norm": 48.2
+    "norm": 46.3
   },
-  "aisa-president-neha-taken-away-in-a-car-with-only-male-polic": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "president",
-    "norm": 45.9
-  },
-  "from-pochampally-ikat-sarees-to-rural-food-products-saras-me": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
+  "free-ayurvedic-camp-held-at-andhra-university": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "rayalaseema-ryots-who-battle-the-odds-deserve-every-support-": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "minister",
+  "voters-will-teach-tvk-candidates-a-befitting-lesson-eps": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "vote",
     "norm": 45.9
   },
-  "vizag-data-centres-lack-transparency-on-water-power-and-jobs": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "jobs",
-    "norm": 44
-  },
-  "lionel-messi-s-foundation-helped-fund-37m-childhood-cancer-c": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "fund",
-    "norm": 44
-  },
-  "foreign-nationals-details-must-be-reported-within-24-hours-o": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "",
-    "norm": 36
-  },
-  "central-team-inspects-drought-hit-villages-in-yadgir-and-rai": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "",
-    "norm": 36
-  },
-  "mangaluru-under-swr-integration-aimed-at-overall-development": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "",
-    "norm": 36
-  },
-  "pairing-ceremony-held-for-dasara-wrestling-tournament": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "",
-    "norm": 36
-  },
-  "who-is-sharmila-mona-sinha-the-3rd-daughter-who-became-a-us-": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "fssai-recalls-everest-cumin-power-over-unsafe-pesticide-leve": {
-    "firstSeen": "2026-10-04T13:09:13.146Z",
-    "signature": "",
-    "norm": 33.9
+  "zelenskyy-claims-putin-shared-jet-drone-technology-with-nort": {
+    "firstSeen": "2026-10-04T18:06:25.314Z",
+    "signature": "drone",
+    "norm": 40.7
   }
 }
