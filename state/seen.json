@@ -1,151 +1,146 @@
 {
-  "punjabi-influencer-makeup-artist-shot-dead-in-amritsar": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "dead|dead|fire|fire|rbi",
-    "norm": 76.3
+  "bjp-questions-rahul-gandhi-s-silence-on-flydubai-incident-ca": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "bjp|captain|lok sabha|mp|opposition|rahul gandhi|rajya sabha|terror|terror",
+    "norm": 81.7
   },
-  "-entire-country-is-proud-of-captain-smit-bjp-slams-congress-": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "bjp|captain|congress|slam|slams",
-    "norm": 73.3
+  "-sir-protest-part-of-conspiracy-by-anti-india-elements-kiren": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "cabinet|modi|modi|opposition|protest|protest|vote",
+    "norm": 79.7
   },
-  "-pakistan-don-t-offer-much-competition-bcci-takes-swipe-afte": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "cricket|gold|mp|pakistan|sharma",
-    "norm": 71.7
+  "vijay-rides-bullock-kart-in-dharapuram-interacts-with-voters": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "attack|attack|mp|poll|video|vote",
+    "norm": 78.8
   },
-  "only-governor-not-government-can-grant-sanction-to-conduct-i": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "crore|fraud|governor|high court|sanction",
-    "norm": 70
+  "political-showdown-vijay-slams-stalin-over-derogatory-remark": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "attack|attack|poll|president|slam|slams",
+    "norm": 77.4
   },
-  "man-killed-in-suspected-leopard-attack-near-hasanur": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "attack|attack|killed|killed",
-    "norm": 69.6
+  "-can-t-pretend-things-are-normal-with-oil-prices-hitting-100": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "jaishankar|price|prices|shock|shock",
+    "norm": 74.9
   },
-  "reliance-data-centre-at-bhogapuram-will-create-jobs-says-col": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "jobs|protest|protest",
+  "supreme-court-judge-justice-ujjal-bhuyan-slams-sir": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "parliament|slam|slams|supreme court|vote",
+    "norm": 68.6
+  },
+  "deputy-ecs-to-visit-5-states-as-poll-body-steps-up-preparedn": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "election|election|khan|poll",
+    "norm": 66.7
+  },
+  "protest-against-cec-gyanesh-kumar-delhi-police-detains-aisa-": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "president|protest|protest",
     "norm": 62.8
   },
-  "keralam-govt-orders-preliminary-anti-corruption-enquiry-agai": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "election|election|election commission",
+  "trump-announces-super-intelligence-force-to-keep-us-ahead-in": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "mp|trump|trump",
     "norm": 61.4
   },
-  "rs-2-47-cr-cash-deposit-gets-tax-notice-why-itat-delhi-ruled": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "mp|record|tax",
-    "norm": 60.7
+  "-russia-stood-with-india-when-it-mattered-eam-s-jaishankar-r": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "jaishankar|minister|threat",
+    "norm": 61.4
   },
-  "rajasthan-government-should-prepare-contingency-plan-to-deal": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "chief minister|deal|minister|mp",
-    "norm": 59.7
-  },
-  "meet-wileidy-feliciano-rivera-seventh-grader-whose-plantain-": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "result|row",
+  "three-including-10-year-old-boy-killed-as-boat-capsizes-in-a": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "killed|killed",
     "norm": 59.3
   },
-  "condolences-pour-in-for-filmmaker-singeetham-srinivasa-rao": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "chief minister|film|minister",
-    "norm": 57.9
+  "asiad-26-leaner-indian-contingent-produces-fewer-golds-but-b": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "gold|mp",
+    "norm": 55.4
   },
-  "bengaluru-mangaluru-karwar-day-train-cancellation-during-pea": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "upset|war",
-    "norm": 52.4
+  "aap-s-own-mla-exposing-so-called-education-revolution-in-pun": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "aap|bjp|mla|mp",
+    "norm": 52.1
   },
-  "congress-falls-back-on-a-fullback-where-pargat-singh-fits-in": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "congress|poll",
+  "ec-explains-new-eronet-options-for-sir-notice-disposal-to-er": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "mp|video",
+    "norm": 52
+  },
+  "telangana-s-actual-revenue-receipts-well-behind-the-budget-e": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "budget|crore|lakh",
+    "norm": 50.9
+  },
+  "atchannaidu-challenges-jagan-to-a-debate-on-agriculture-raya": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "minister|mp",
     "norm": 50.5
   },
-  "kannada-cinema-has-a-new-headache-paid-reviews": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "film|instagram|star",
-    "norm": 50.1
+  "beerihundi-basavanna-takes-charge-as-mysuru-rural-congress-p": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "congress|president",
+    "norm": 50.5
   },
-  "indian-and-pakistani-diplomats-summoned-over-bsf-killing-two": {
-    "firstSeen": "2026-10-04T00:32:05.947Z",
-    "signature": "ipl|pakistan",
-    "norm": 49.3
+  "mysuru-district-administration-invites-abhinava-gavisiddeshw": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "war",
+    "norm": 48.2
   },
-  "-india-s-got-latent-gambit-behind-vantika-s-double-bronze-at": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "china|mp",
-    "norm": 48.7
+  "aisa-president-neha-taken-away-in-a-car-with-only-male-polic": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "president",
+    "norm": 45.9
   },
-  "message-to-congress-akhilesh-yadav-s-victory-not-seats-pitch": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "congress|poll",
-    "norm": 48.7
-  },
-  "where-are-kannada-cinema-s-next-stars-": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "star",
-    "norm": 44.3
-  },
-  "child-rights-commission-seeks-report-on-alleged-abuse-of-hos": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
+  "from-pochampally-ikat-sarees-to-rural-food-products-saras-me": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "rayalaseema-ryots-who-battle-the-odds-deserve-every-support-": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "vizag-data-centres-lack-transparency-on-water-power-and-jobs": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "jobs",
     "norm": 44
   },
-  "mandatory-attachment-confiscation-essential-to-combat-vice-o": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "high court",
+  "lionel-messi-s-foundation-helped-fund-37m-childhood-cancer-c": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "fund",
     "norm": 44
   },
-  "top-court-to-hear-relocation-of-135-year-old-government-libr": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "lakh",
-    "norm": 44
-  },
-  "yemen-s-army-says-targets-houthis-in-hundreds-of-strikes-kil": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "army",
-    "norm": 44
-  },
-  "us-biologists-find-6-new-mojave-poppy-bee-groups-easing-exti": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "surprising",
-    "norm": 42.7
-  },
-  "aged-71-a-chennai-resident-travels-to-top-tier-international": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "star",
-    "norm": 42.4
-  },
-  "3-women-journalists-accuse-delhi-cops-of-sexual-harassment-a": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
+  "foreign-nationals-details-must-be-reported-within-24-hours-o": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
     "signature": "",
     "norm": 36
   },
-  "founded-by-french-nuns-in-1852-visakhapatnam-s-fort-catholic": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
+  "central-team-inspects-drought-hit-villages-in-yadgir-and-rai": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
     "signature": "",
     "norm": 36
   },
-  "remembering-singeetham-srinivasa-rao": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
+  "mangaluru-under-swr-integration-aimed-at-overall-development": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
     "signature": "",
     "norm": 36
   },
-  "i-had-that-one-last-fight-left-in-me-braveheart-pilot": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
+  "pairing-ceremony-held-for-dasara-wrestling-tournament": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
+    "signature": "",
+    "norm": 36
+  },
+  "who-is-sharmila-mona-sinha-the-3rd-daughter-who-became-a-us-": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
     "signature": "",
     "norm": 33.9
   },
-  "amid-drought-like-conditions-latur-cracks-down-on-illegal-mo": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "desert-villagers-in-rajasthan-turn-to-traditional-ingenuity-": {
-    "firstSeen": "2026-10-04T06:47:15.350Z",
+  "fssai-recalls-everest-cumin-power-over-unsafe-pesticide-leve": {
+    "firstSeen": "2026-10-04T13:09:13.146Z",
     "signature": "",
     "norm": 33.9
   }
