@@ -1,137 +1,302 @@
 {
-  "trump-says-ukraine-strikes-on-russia-refinery-not-iran-war-d": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "iran|mp|price|prices|trump|trump|war",
-    "norm": 86.3
+  "-attacked-thrice-after-talks-iran-president-says-us-dialogue": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "attack|attack|iran|israel|president|star|surprise|war",
+    "norm": 88.3
   },
-  "bombay-high-court-declines-to-stay-deletion-of-names-from-vo": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "bomb|high court|maharashtra|vote",
-    "norm": 70
+  "us-approves-1-billion-weapons-sale-to-uae-as-gulf-faces-iran": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "bill|billion|drone|iran|mp|shooting|threat",
+    "norm": 84
   },
-  "madurantakam-dharapuram-go-to-polls-for-second-time-in-six-m": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "election|election|lakh|poll|vote",
-    "norm": 70
+  "nepal-ends-flood-search-with-over-5-000-still-missing-includ": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "death|flood|flood|floods|result",
+    "norm": 75.9
   },
-  "congress-campaign-against-vote-chori-to-help-re-enroll-voter": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "aap|congress|mp|rally|rally|star|vote",
-    "norm": 67.1
+  "-looking-at-it-very-strongly-trump-offers-us-help-as-russia-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "accident|died|mp|trump|trump",
+    "norm": 74.8
   },
-  "telangana-tea-seller-sets-himself-ablaze-outside-police-stat": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "blaze|match|petrol|petrol",
-    "norm": 66.3
+  "germany-at-risk-of-violent-conflict-with-russia-claims-spy-c": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "attack|attack|drone|mp|war",
+    "norm": 73.9
   },
-  "after-sc-notice-bjp-accuses-rahul-gandhi-of-spreading-lies-a": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "bjp|election|election|election commission|rahul gandhi|supreme court",
-    "norm": 65.1
+  "supreme-court-quashes-bombay-hc-order-directing-maharashtra-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "bomb|lakh|maharashtra|mp|supreme court",
+    "norm": 72.8
   },
-  "india-switzerland-sign-5-pacts-as-pm-modi-president-guy-parm": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "defence|modi|modi|president",
-    "norm": 61.8
+  "sc-quashes-hc-s-rs-5-lakh-compensation-order-against-maharas": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "bomb|high court|lakh|maharashtra|mp|ruling|supreme court",
+    "norm": 72.2
   },
-  "kozhikode-corporation-revises-annual-plan-escalator-to-come-": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "crore|lakh|sanction",
-    "norm": 59.3
+  "trump-says-us-moved-all-b-1-bombers-from-uk-airbase-after-so": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "bomb|mp|threat|trump|trump",
+    "norm": 71.2
   },
-  "apcpdcl-plans-awareness-camps-on-solar-power-systems-from-oc": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "mp|war",
-    "norm": 57.1
+  "pakistan-saudi-turkiye-activate-mecca-defence-pact-as-yemen-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "alliance|attack|attack|defence|pakistan|threat|war",
+    "norm": 70.7
   },
-  "inadequate-hostel-facilities-continue-to-haunt-medical-colle": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "mp|row",
-    "norm": 57.1
+  "fire-breaks-out-on-reality-show-set-at-goregaon-film-city-no": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "blaze|film|fire|fire|war",
+    "norm": 70.3
   },
-  "rajaka-community-stages-protest-in-visakhapatnam-seeking-sc-": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "sir-row-will-annul-ec-orders-not-in-keeping-with-law-says-su": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "election|election|election commission|mp|record|row|supreme court|vote",
+    "norm": 70.1
   },
-  "scribes-covering-protests-should-carry-id-maintain-distance-": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "trump-offers-help-to-russia-after-suspected-plague-death-qua": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "death|died|mp|trump|trump",
+    "norm": 66.2
   },
-  "-they-think-they-can-beat-us-into-submission-neha-bora-says-": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "film|vote",
-    "norm": 53.5
+  "voting-in-high-stakes-bypolls-in-three-states-one-u-t-today-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "bjp|congress|election|election|lok sabha|poll|ruling",
+    "norm": 65.3
   },
-  "-females-treated-with-dignity-delhi-police-reject-assault-cl": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "gyanesh-kumar-changed-form-6-illegally-during-sir-says-rahul": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "amit shah|betray|minister|modi|modi|opposition|prime minister|rahul gandhi",
+    "norm": 64.9
   },
-  "crawling-pace-in-west-bengal-appellate-tribunals-keep-voters": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "poll|vote",
-    "norm": 48.7
+  "teenager-loses-hand-in-blast-amid-french-school-protest-clas": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "blast|clash|clash|protest|protest|row",
+    "norm": 64.7
+  },
+  "rawat-defies-warning-by-congress-brass-carries-on-uttarakhan": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "congress|khan|war|warning",
+    "norm": 63.8
+  },
+  "for-first-time-pakistan-to-deploy-troops-to-aide-saudi-backe": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "alliance|attack|attack|defence|pakistan",
+    "norm": 63.1
+  },
+  "pakistan-saudi-arabia-turkiye-activate-mecca-defence-pact-am": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "attack|attack|defence|mp|pakistan",
+    "norm": 63.1
+  },
+  "iran-backed-houthis-say-they-attacked-riyadh-airport-aramco-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "attack|attack|iran",
+    "norm": 62.7
+  },
+  "jk-rowling-donated-10m-for-ms-clinic-in-her-mother-s-name-it": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "died|fund|ipl|row",
+    "norm": 62
+  },
+  "jeffrey-archer-uk-author-and-former-conservative-politician-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "died|mp|sudden|suddenly",
+    "norm": 61.4
+  },
+  "trump-says-he-is-concerned-about-russian-plague-lab-death": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "death|mp|trump|trump",
+    "norm": 61
+  },
+  "supreme-court-agreed-to-meet-then-changed-mind-onoe-panel-ch": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "election|election|mp|opposition|parliament|supreme court",
+    "norm": 60.9
+  },
+  "delhi-police-acp-s-additional-dcp-charge-withheld-amid-haras": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "shinde-meets-pm-modi-over-maharashtra-drought-says-centre-as": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "maharashtra|modi|modi",
+    "norm": 55.2
+  },
+  "kheri-case-up-changes-pp-sc-asks-allahabad-hc-cj-to-decide-o": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "lakh|mp|supreme court",
+    "norm": 55
+  },
+  "rajya-sabha-polls-8-fresh-bjp-faces-for-up-hardeep-puri-amon": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "bjp|minister|modi|modi|poll|rajya sabha",
+    "norm": 54
+  },
+  "19-000-west-bengal-voters-to-miss-bypolls-as-appeals-remain-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "election|election|election commission|poll|vote",
+    "norm": 53.4
+  },
+  "supreme-court-refuses-to-stay-proceedings-against-nicobar-pr": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "high court|mp|supreme court|threat",
+    "norm": 52.3
+  },
+  "woman-declares-rs-67-4l-ancestral-jewellery-in-itr-gets-noti": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "exam|lakh|tax",
+    "norm": 50
+  },
+  "bengaluru-gym-trainer-killed-after-argument-inside-client-s-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "killed|killed",
+    "norm": 47.7
+  },
+  "-age-of-flux-jaishankar-warns-of-turbulent-times-says-india-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "jaishankar|war",
+    "norm": 45.4
+  },
+  "in-a-record-over-10-000-women-clear-jee-advanced": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "record|record high",
+    "norm": 44.1
+  },
+  "two-captive-bred-great-indian-bustards-released-into-wild-in": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "anger|star",
+    "norm": 43.8
+  },
+  "mission-shakti-how-india-s-2019-anti-sat-missile-test-in-spa": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "mp|surprise|unexpected",
+    "norm": 43
+  },
+  "set-to-leave-party-nc-mp-ruhullah-meets-students-at-kashmir-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "mp|star",
+    "norm": 41.4
+  },
+  "india-us-trade-talks-have-reached-plateau-finance-minister-n": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "minister",
+    "norm": 41
+  },
+  "-draft-reservation-list-for-polls-to-rural-local-bodies-read": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "poll",
+    "norm": 41
+  },
+  "-girls-don-t-marry-village-boys-farmer-s-brides-request-to-d": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "chief minister|minister",
+    "norm": 38
+  },
+  "woman-26-jumps-into-well-with-4-year-old-son-in-up-both-die-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "mayawati-reappoints-akash-anand-as-national-convener-in-bsp": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "ex-prince-andrew-seeks-to-quash-search-warrants-in-epstein-c": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "war",
+    "norm": 35.5
   },
   "wayanad-township-second-phase-house-construction-to-be-compl": {
     "firstSeen": "2026-10-05T18:20:46.950Z",
     "signature": "minister|mp",
-    "norm": 48.7
+    "norm": 33.8
   },
-  "ed-searches-16-places-linked-to-smuggling-of-foreign-origin-": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "border|mp",
-    "norm": 48.7
-  },
-  "pakistan-plot-to-bug-bharat-exposed-the-black-sims-honey-tra": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "army|pakistan",
-    "norm": 48.7
-  },
-  "arrested-navy-sailor-remanded-to-judicial-custody": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "navy",
-    "norm": 45.9
-  },
-  "admiral-paparo-meets-top-indian-military-leadership-at-u-s-e": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "defence",
-    "norm": 45.9
-  },
-  "-save-guruganga-campaign-reaches-bidar": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
+  "california-family-s-6-625-acre-cattle-ranch-protected-after-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 32.8
   },
-  "national-conference-raises-concern-over-skewed-reservation-p": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "policy",
-    "norm": 45.9
+  "cec-gyanesh-kumar-has-lost-public-trust-and-must-be-removed-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "mp",
+    "norm": 32.8
   },
-  "pro-left-syndicate-members-to-boycott-honourary-doctorate-pr": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
-    "signature": "film",
-    "norm": 44.3
+  "chief-secy-should-ask-district-collectors-to-instruct-offici": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "mp",
+    "norm": 32.8
   },
-  "andhra-pradesh-special-tet-for-in-service-teachers-from-octo": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
+  "t-n-allocated-812-crore-for-annan-seer-scheme": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "crore",
+    "norm": 32.8
+  },
+  "west-bengal-blos-write-to-ceo-seek-security-ahead-of-drive-t": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "vote",
+    "norm": 32.8
+  },
+  "bengaluru-jail-official-arrested-for-allegedly-soliciting-se": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "supreme court",
+    "norm": 32.8
+  },
+  "today-s-nyt-strands-hints-answers-and-help-for-oct-6-947": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
     "signature": "",
-    "norm": 36
+    "norm": 30.7
   },
-  "sebi-to-partly-reverse-derivative-settlement-rules-after-pus": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
+  "only-15-going-to-work-use-public-transport-nso": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 26.7
   },
-  "man-dies-days-after-alleged-police-assault-in-chirayinkeezhu": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
+  "yemen-government-forces-report-recapture-of-mocha-from-houth": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 26.7
   },
-  "assam-dibrugarh-s-river-trade-returns-after-70-years-first-c": {
-    "firstSeen": "2026-10-05T18:20:46.950Z",
+  "first-international-cargo-vessel-leaves-eastern-assam-since-": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 26.7
+  },
+  "india-switzerland-eye-deeper-ties-in-trade-investment-tech": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "construction-of-vaduthala-railway-overbridge-perandoor-vadut": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "delhi-cop-vivek-bhagat-s-promotion-withheld-amid-sexual-hara": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "encroachment-of-land-in-mumbai": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "-rohan-carved-on-minor-s-chest-indian-man-behind-global-paed": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "top-court-tells-delhi-police-to-make-women-safe-even-at-11-p": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "mayawati-takes-nephew-akash-back-in-bsp-re-appoints-him-nati": {
+    "firstSeen": "2026-10-06T00:45:32.534Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
