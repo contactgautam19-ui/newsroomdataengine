@@ -1,27 +1,197 @@
 {
-  "rahul-calls-sir-treason-as-india-unites-against-eci-mps-deta": {
-    "firstSeen": "2026-10-07T00:37:35.111Z",
-    "signature": "hijack|modi|modi|mp|opposition|protest|protest|vote",
-    "norm": 89
+  "tear-gas-fired-as-over-260-000-rally-seeking-education-fundi": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "fire|fire|fund|minister|protest|protest|rally|rally|riot",
+    "norm": 92.6
   },
-  "rahul-s-protest-a-political-drama-claims-made-by-congress-ar": {
-    "firstSeen": "2026-10-07T00:37:35.111Z",
-    "signature": "bjp|congress|poll|protest|protest",
-    "norm": 69
+  "israel-on-high-alert-for-memorial-events-on-3-years-of-hamas": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "alert|attack|attack|defence|israel|minister|mp",
+    "norm": 86.3
   },
-  "meet-monarchs-endangered-traveller-butterflies-that-survive-": {
-    "firstSeen": "2026-10-07T00:37:35.111Z",
-    "signature": "anger|mp|threat",
-    "norm": 60.8
+  "cec-row-live-cjp-s-saurav-das-to-submit-intimation-letter-to": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "election|election|election commission|mp|protest|protest|row",
+    "norm": 83.5
   },
-  "most-gst-refunds-may-be-processed-within-17-days": {
-    "firstSeen": "2026-10-07T00:37:35.111Z",
-    "signature": "fund|gst|ipl",
-    "norm": 59.7
+  "key-developments-in-the-eci-row-a-timeline": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "election|election|election commission|mp|protest|protest|row|supreme court",
+    "norm": 82.9
   },
-  "india-ghana-discuss-multilateral-cooperation-during-eam-jais": {
-    "firstSeen": "2026-10-07T00:37:35.111Z",
-    "signature": "jaishankar",
+  "-we-gave-befitting-reply-on-terrorism-pm-modi-completes-25-y": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "modi|modi|mp|terror|terror",
+    "norm": 79.8
+  },
+  "delhi-police-books-rahul-priyanka-gandhi-for-entering-akashv": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "election|election|election commission|protest|protest|rahul gandhi",
+    "norm": 78.8
+  },
+  "pm-modi-s-public-life-dedicated-to-nation-amit-shah-at-gurug": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "amit shah|bjp|modi|modi|war",
+    "norm": 73.6
+  },
+  "rahul-gandhi-priyanka-booked-fir-after-i-n-d-i-a-bloc-protes": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "congress|mp|opposition|protest|protest|rahul gandhi|war",
+    "norm": 73.3
+  },
+  "-our-economy-was-a-gone-case-pm-modi-recalls-india-s-challen": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "economy|minister|modi|modi|prime minister",
+    "norm": 71.6
+  },
+  "meet-nick-grewal-entrepreneur-of-the-year-who-built-two-glob": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "acquisition|mp|summit|war",
+    "norm": 68
+  },
+  "cbi-files-closure-report-in-pocso-court-over-death-of-17-yr-": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "death|exam|iran|neet",
+    "norm": 65.5
+  },
+  "mercedes-parking-lot-delhi-5-star-nagaland-woman-recounts-ho": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "horror|mp|star",
+    "norm": 64.2
+  },
+  "vettri-payanam-what-is-the-economic-mileage-of-a-free-ride-": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "chief minister|crore|lakh|minister|mp",
+    "norm": 63.9
+  },
+  "supreme-court-to-examine-plea-to-recall-split-verdict-on-law": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "exam|supreme court|verdict",
+    "norm": 61.4
+  },
+  "tamil-nadu-cm-vijay-claimed-ownership-over-50-cents-of-porom": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "election|election|high court",
+    "norm": 61.4
+  },
+  "-we-will-do-it-pm-modi-s-new-slogan-to-make-india-developed-": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "modi|modi|vote",
+    "norm": 61.4
+  },
+  "rahul-fighting-sir-diabolical-duo-busy-filing-fir-congress": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "congress|crore|vote",
+    "norm": 59.3
+  },
+  "ge-aerospace-delivers-4-more-engines-for-lca-mk-1a": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "dead|dead",
+    "norm": 57.6
+  },
+  "stop-energy-strikes-keep-black-sea-trade-moving-india-s-3-pa": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "modi|modi",
+    "norm": 57.1
+  },
+  "how-an-angry-facebook-post-led-to-saudi-death-penalty-for-sr": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "deal|death",
+    "norm": 55.4
+  },
+  "-rattled-by-love-support-i-m-receiving-punjab-cm-bhagwant-ma": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "bjp|chief minister|minister|mp",
+    "norm": 53.9
+  },
+  "world-bank-funded-road-project-repeated-delays-what-spurred-": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "bill|fund",
+    "norm": 53.2
+  },
+  "agrigold-victims-asked-to-produce-original-bonds-for-verific": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "exam|gold",
+    "norm": 52.1
+  },
+  "sc-to-hear-centre-s-contempt-plea-against-appointment-of-jha": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "khan|mp",
+    "norm": 51.7
+  },
+  "american-man-says-simple-indian-food-cured-his-asthma-and-al": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "mp|video",
+    "norm": 50.2
+  },
+  "10-water-cut-in-mumbai-yet-civic-body-wants-to-spend-over-rs": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "crore|deal",
+    "norm": 48.7
+  },
+  "two-arrested-13-navy-personnel-among-18-under-scanner-for-al": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "navy|pakistan",
+    "norm": 48.7
+  },
+  "how-did-a-pakistan-linked-spy-network-target-navy-s-eastern-": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "navy|pakistan",
+    "norm": 48.7
+  },
+  "manipur-cm-warring-deputies-to-meet-in-person-for-1st-time-i": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "the-relentless-45-minute-fight-by-dentist-to-save-flydubai-s": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "anger",
+    "norm": 46.3
+  },
+  "9-coastal-panchayats-in-keralam-equipped-for-unseco-assessme": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "tsunami",
+    "norm": 46.3
+  },
+  "honeytrap-navy-secrets-money-pak-linked-espionage-probe-in-a": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "navy",
     "norm": 45.9
+  },
+  "decoding-akhilesh-yadav-s-decision-to-skip-3rd-rajya-sabha-c": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "rajya sabha",
+    "norm": 44
+  },
+  "hyderabad-kbr-project-elevated-corridor-work-divided-to-fit-": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "",
+    "norm": 36
+  },
+  "ed-conducts-searches-at-3-cooperative-societies-in-keralam": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "",
+    "norm": 36
+  },
+  "chemical-leak-at-dyeing-unit-leaves-50-people-with-breathing": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "two-more-taken-into-custody-in-kochi-gang-rape-case": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "cm-satheesan-ntpc-cmd-meeting-key-decisions-taken-to-address": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "telangana-rtc-slashes-pushpak-airport-bus-fares-effective-fr": {
+    "firstSeen": "2026-10-07T07:10:20.554Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
