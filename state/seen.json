@@ -1,226 +1,171 @@
 {
-  "man-thrashed-for-raising-pro-modi-slogan-at-opposition-prote": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "crowd|modi|modi|opposition|protest|protest|row|video",
-    "norm": 85.3
+  "delhi-police-ramp-up-perception-campaign-identifies-500-peop": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "clash|clash|exam|injured|mp|protest|protest|video|war",
+    "norm": 93.1
   },
-  "cec-row-live-dipke-dhruv-rathee-join-bengaluru-s-people-s-tr": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "election|election|election commission|protest|protest|rahul gandhi|row",
-    "norm": 83.5
+  "psl-to-clash-with-ipl-pcb-locks-dates-bcci-also-eyes-early-m": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "clash|clash|cricket|ipl|mp|pakistan|star",
+    "norm": 87.8
   },
-  "kpsc-recruitment-scam-ed-arrests-suspended-chairperson-membe": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "election|election|lakh|recruitment|scam",
-    "norm": 80.3
+  "mamata-banerjee-may-join-cjp-protest-against-cec-gyanesh-kum": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "election|election|election commission|mamata|protest|protest",
+    "norm": 77.2
   },
-  "-kicked-assaulted-police-officials-allege-physical-attack-by": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "attack|attack|congress|mp|protest|protest",
-    "norm": 80.1
+  "nana-patekar-s-mortal-remains-brought-to-pune-maha-cm-fadnav": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "actor|died|maharashtra|minister",
+    "norm": 74.2
   },
-  "delhi-cops-deploy-teams-at-connaught-place-as-india-bloc-pla": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "election|election|election commission|protest|protest|war",
-    "norm": 80.1
+  "-very-positive-impact-pm-modi-hails-greater-decriminalisatio": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "crore|gst|modi|modi|mp",
+    "norm": 73.6
   },
-  "seemapuri-collapse-3-year-old-survives-with-minor-injuries-m": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "collapse|collapse|collapse|cry|dead|dead",
-    "norm": 78.5
-  },
-  "congress-s-solo-act-sp-s-lunch-snub-rahul-gandhi-hogs-protes": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "alliance|bill|congress|mp|opposition|protest|protest|rahul gandhi|row",
-    "norm": 74.1
-  },
-  "after-6-25b-gift-to-trump-accounts-michael-dell-s-wife-makes": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "fund|mp|tax|trump|trump",
+  "cec-row-live-opposition-leaders-visit-rajghat-say-will-conti": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "opposition|protest|protest|row|vote",
     "norm": 72
   },
-  "political-storm-over-congress-party-faces-growing-accountabi": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "congress|row|storm",
+  "kpsc-recruitment-scam-20-40-lakh-bribes-for-leaked-answer-ke": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "lakh|recruitment|scam",
     "norm": 67.6
   },
-  "india-bloc-protest-live-cjp-dhruv-rathee-to-attend-people-s-": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "mp|protest|protest|rahul gandhi",
-    "norm": 66.9
+  "-shinzo-abe-had-many-plans-for-world-wife-breaks-down-at-ndt": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "dead|dead|summit",
+    "norm": 66
   },
-  "stock-market-live-updates-sensex-today-investors-lose-rs-8-l": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "crash|crash|crore|investor|lakh|price|prices|sensex|stock market",
-    "norm": 65.5
+  "10-of-20-rebel-tmc-mps-skip-kolkata-meeting-to-discuss-disqu": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "dead|dead|mp",
+    "norm": 66
   },
-  "at-94-indian-air-force-is-looking-beyond-fighter-jets-what-c": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "air force|mp|row|war",
-    "norm": 65
-  },
-  "jon-stewart-and-wife-turned-45-acre-new-jersey-farm-into-ani": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "rescue|rescue|war",
-    "norm": 64.9
-  },
-  "crpf-jawan-killed-five-injured-as-sand-laden-lorry-hits-two-": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "injured|killed|killed",
+  "two-killed-in-separate-road-accidents-in-balanagar-miyapur": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "accident|killed|killed",
     "norm": 64.5
   },
-  "who-is-acp-vivek-bhagat-delhi-cop-accused-of-sexual-harassme": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
+  "four-crpf-personnel-injured-in-accidental-blast-while-dispos": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "accident|blast|injured|mp",
+    "norm": 63.4
   },
-  "bihar-cm-sparks-controversy-again-over-remark-on-molestation": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "controversy|opposition|video",
-    "norm": 62.8
+  "starlink-spent-5-years-complying-with-all-laws-in-india-why-": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "mp|slam|star",
+    "norm": 62.5
   },
-  "delhi-hc-agrees-to-hear-iyc-plea-seeking-permission-to-prote": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "protest|protest|sharma",
+  "copper-prices-seen-staying-above-14-000-hindustan-copper-ban": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "ipl|price|prices",
     "norm": 61.4
   },
-  "india-vs-west-indies-in-ranchi-brings-back-an-ajit-agarkar-m": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "india vs|match|mp",
-    "norm": 60.8
+  "outspoken-indian-actor-nana-patekar-dies-suddenly-at-75": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "actor|mp|sudden|suddenly",
+    "norm": 60.4
   },
-  "andhra-s-naidu-pawan-kalyan-lokesh-and-jagan-mourn-actor-nan": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "actor|army|chief minister|minister",
-    "norm": 60
-  },
-  "plea-in-sc-challenges-appointment-of-cec-gyanesh-kumar-two-e": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "election|election|election commission",
-    "norm": 59.7
-  },
-  "liquor-bottles-thrown-at-senior-left-leader-s-house-in-kolka": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "bjp|mp|row",
-    "norm": 59.7
-  },
-  "-kadhi-yeshil-the-pune-invite-nana-patekar-left-smriti-irani": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "iran|maharashtra|video",
-    "norm": 59.6
-  },
-  "nana-patekar-passes-away-leaders-film-fraternity-mourn-actor": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "actor|death|film",
+  "andhra-pradesh-to-adopt-technology-to-promote-tourist-destin": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "investor|minister|mp",
     "norm": 59.3
   },
-  "naidu-meets-shah-jal-shakti-minister-c-r-patil-in-delhi-seek": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "chief minister|fund|minister",
-    "norm": 57.6
+  "supreme-court-expands-scrutiny-of-dgp-appointment-laws-natio": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "khan|supreme court|verdict",
+    "norm": 57.9
   },
-  "-unacceptable-india-condemns-houthis-attack-on-riyadh-airpor": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "attack|attack",
-    "norm": 57.6
-  },
-  "sri-lanka-s-former-first-lady-arrested-over-alleged-misuse-o": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "fund|hospital",
+  "-is-ambani-the-real-boss-of-india-asks-elon-musk-as-centre-r": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "ambani|rahul gandhi|star",
     "norm": 57.1
   },
-  "bankra-mosque-row-aai-tells-calcutta-high-court-mosque-not-e": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "high court|row",
-    "norm": 55.4
+  "tcs-q2-results-live-tcs-q2-con-pat-up-15-y-o-y-gm-breweries-": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "result|results|results",
+    "norm": 56.6
   },
-  "high-court-seeks-reply-from-delhi-police-parvesh-verma-in-sl": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "high court|row",
-    "norm": 55.4
+  "case-filed-against-thiruvananthapuram-mayor-v-v-rajesh-over-": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "crore|mp",
+    "norm": 55
   },
-  "stock-market-live-sensex-tanks-1-000-points-nifty-below-22-2": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "nifty|sensex|stock market",
-    "norm": 52.7
+  "driver-s-suspension-sparks-heated-exchange-in-kochi-corporat": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "mp|record",
+    "norm": 52
   },
-  "after-recent-delhi-ncr-rape-cases-sc-orders-more-patrolling-": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "cctv|war",
-    "norm": 52.4
-  },
-  "the-fuel-behind-india-s-nuclear-push-ucil-to-double-uranium-": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "actor|fuel",
-    "norm": 51.7
-  },
-  "rising-onion-edible-oil-lpg-prices-push-up-cost-of-home-thal": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "price|prices",
-    "norm": 50.5
-  },
-  "17-500-feet-and-counting-how-army-is-betting-on-fpv-drones-i": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "army|drone",
-    "norm": 50.2
-  },
-  "ekadasi-udayasthamana-pooja-supreme-court-directs-guruvayoor": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "mp|supreme court",
-    "norm": 48.7
-  },
-  "-attire-is-a-citizen-s-choice-kerala-hc-backs-school-headmis": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "row",
+  "capf-act-that-governs-officer-posts-deputation-comes-into-fo": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "recruitment",
     "norm": 46.3
   },
-  "3-hours-before-death-nana-patekar-texted-friend-he-wasn-t-fe": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "death",
-    "norm": 46.3
-  },
-  "gadkari-satheesan-meeting-decides-to-expedite-nh-other-road-": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "cabinet",
-    "norm": 45.9
-  },
-  "cumbria-road-reused-500-000-plastic-bottles-trial-later-deem": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
+  "nana-patekar-cinema-s-fierce-maverick": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "nana-patekar-s-forgotten-tamil-outing-the-story-of-bharathir": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "-if-a-sibling-uses-skin-lightening-product-you-may-be-more-l": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "fuel",
-    "norm": 44
-  },
-  "car-falls-into-sinkhole-as-road-caves-in-near-chennai-s-tide": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
-    "signature": "tax",
-    "norm": 44
-  },
-  "special-drive-launched-to-enrol-eligible-voters-left-out-dur": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
+  "statewide-special-enrolment-drive-for-electoral-roll-revisio": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
     "signature": "vote",
-    "norm": 44
+    "norm": 45.9
   },
-  "malaysia-bets-on-ai-boom-with-2-300-acre-silicon-island": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
+  "sir-telangana-may-witness-net-deletion-of-close-to-70-lakh-n": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "lakh",
+    "norm": 45.9
+  },
+  "dot-refutes-bias-in-starlink-authorisation-says-all-licensee": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "star",
+    "norm": 44.3
+  },
+  "all-india-girls-football-tournament-begins-in-belagavi": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "-hinduism-inclusive-abrahamic-religions-exclusive-madras-hc-": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
+  "two-kochi-riyadh-flights-cancelled-over-security-concerns": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "govt-may-delay-rollout-of-mdr-on-upi-transactions-above-rs-2": {
-    "firstSeen": "2026-10-08T08:51:30.599Z",
+  "karingachira-thiruvankulam-nh-85-stretch-to-be-widened-to-14": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "",
+    "norm": 36
+  },
+  "gm-university-researcher-named-among-world-s-top-2-of-scient": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "",
+    "norm": 36
+  },
+  "spmvv-opens-space-observatory-to-boost-student-interest-in-a": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "",
+    "norm": 36
+  },
+  "1-950-kg-adulterated-pheni-seized-in-hyderabad-ahead-of-dasa": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "",
+    "norm": 36
+  },
+  "capf-act-notified-two-days-before-sc-special-bench-hearing-p": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "",
+    "norm": 36
+  },
+  "beyond-the-textbook-why-an-exhibition-on-constitution-in-ker": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
+    "signature": "",
+    "norm": 36
+  },
+  "steven-van-zandt-s-6m-new-york-church-penthouse-now-asks-18-": {
+    "firstSeen": "2026-10-08T16:24:35.217Z",
     "signature": "",
     "norm": 33.9
   }
