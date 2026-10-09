@@ -1,27 +1,77 @@
 {
-  "cancer-drug-prices-may-fall-as-government-plans-30-trade-mar": {
-    "firstSeen": "2026-10-08T22:01:09.674Z",
-    "signature": "crore|price|prices|result",
-    "norm": 61.8
+  "dharapuram-election-results-2026-live-sathyabama-vs-suganya-": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "election|election|poll|record|result|results|results|vote",
+    "norm": 77.6
   },
-  "four-cockroach-janta-party-volunteers-from-telangana-detaine": {
-    "firstSeen": "2026-10-08T22:01:09.674Z",
-    "signature": "protest|protest",
-    "norm": 52.4
+  "bypoll-results-live-vote-counting-to-start-soon-for-five-ass": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "bjp|lok sabha|poll|result|results|results|star|vote",
+    "norm": 77.1
   },
-  "defence-secy-talks-to-german-envoy-amp-greece-dy-min-to-wide": {
-    "firstSeen": "2026-10-08T22:01:09.674Z",
-    "signature": "defence|mp",
-    "norm": 48.7
+  "-govt-of-for-and-by-the-people-ex-bjp-president-murli-manoha": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "bjp|ipl|president|protest|protest",
+    "norm": 76.8
   },
-  "iaf-celebrates-its-94-year-old-glorious-journey": {
-    "firstSeen": "2026-10-08T22:01:09.674Z",
-    "signature": "air force|mp",
-    "norm": 48.7
+  "nagaon-bypoll-result-2026-live-congress-bjp-aiudf-in-tight-3": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "bjp|congress|lakh|poll|record|result|vote",
+    "norm": 76.3
   },
-  "zach-bryan-bought-18m-tennessee-estate-on-146-acres-with-rec": {
-    "firstSeen": "2026-10-08T22:01:09.674Z",
-    "signature": "record",
-    "norm": 40.7
+  "rejinagar-bypoll-results-2026-live-updates-humayun-kabir-s-s": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "bjp|by-election|election|election|poll|result|results|results|vote",
+    "norm": 73.9
+  },
+  "nandigram-election-results-2026-live-votes-to-be-counted-tod": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "bjp|congress|election|election|poll|result|results|results|vote",
+    "norm": 73.9
+  },
+  "bypoll-results-live-big-test-for-bjp-in-bengal-vijay-s-tvk-i": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "bjp|election|election|election commission|lok sabha|poll|result|results|results|vote",
+    "norm": 72.5
+  },
+  "madurantakam-election-results-2026-live-counting-begins-at-8": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "election|election|poll|result|results|results|vote",
+    "norm": 72.4
+  },
+  "vaibhav-sooryavanshi-s-explosive-net-session-raises-big-ques": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "attack|attack|sooryavanshi|war",
+    "norm": 69.7
+  },
+  "from-nandigram-to-nagaon-key-results-of-bypoll-battle-across": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "lok sabha|poll|result|results|results",
+    "norm": 67.5
+  },
+  "42-former-judges-defend-eci-slam-calculated-campaign-driven-": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "mp|record|slam",
+    "norm": 61.1
+  },
+  "-ready-to-do-everything-in-our-power-putin-offers-to-help-en": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "iran|war",
+    "norm": 59.3
+  },
+  "crawl-stop-repeat-the-rough-road-to-school-in-bengaluru": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "exam",
+    "norm": 46.3
+  },
+  "infosys-to-tata-which-indian-tech-firms-are-among-8-hit-by-u": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "ipl",
+    "norm": 46.3
+  },
+  "journalist-alleging-harassment-by-delhi-police-acp-had-to-en": {
+    "firstSeen": "2026-10-09T02:04:40.737Z",
+    "signature": "mp",
+    "norm": 44
   }
 }
