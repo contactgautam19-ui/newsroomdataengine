@@ -1,187 +1,27 @@
 {
-  "congress-attacks-modi-government-over-promoting-monopolies-s": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "attack|attack|bill|billion|congress|modi|modi|rahul gandhi",
-    "norm": 91.4
-  },
-  "-this-govt-will-fall-rahul-s-guarantee-to-allies-amid-protes": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "election|election|election commission|mp|protest|protest",
-    "norm": 77.2
-  },
-  "no-surprises-in-byelection-results-in-tamil-nadu-and-puduche": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "congress|election|election|result|results|results|ruling|surprise|vote",
-    "norm": 77
-  },
-  "kerala-high-court-directs-cbi-to-conduct-further-probe-into-": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "accident|death|high court|slam|slams",
-    "norm": 75.1
-  },
-  "bypoll-results-live-bjp-nda-s-victory-in-bypolls-shows-peopl": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "alliance|bjp|modi|modi|poll|result|results|results",
-    "norm": 71.8
-  },
-  "india-smash-highest-t20i-total-vs-wi-as-samson-iyer-and-tila": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "crowd|match|row|unprecedented",
-    "norm": 70.3
-  },
-  "delhi-police-compile-database-of-potential-protesters-make-c": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "instagram|mp|protest|protest",
+  "houthi-attack-on-riyadh-airport-killed-three-saudi-nationals": {
+    "firstSeen": "2026-10-09T21:37:20.749Z",
+    "signature": "attack|attack|killed|killed",
     "norm": 69.6
   },
-  "delhi-police-issues-traffic-advisory-ahead-of-cjp-protest-to": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "mp|protest|protest|row",
-    "norm": 67.9
+  "two-firs-lodged-against-cpi-m-leader-day-after-his-house-cam": {
+    "firstSeen": "2026-10-09T21:37:20.749Z",
+    "signature": "attack|attack|war",
+    "norm": 62.9
   },
-  "-nothing-can-stop-youth-chirag-paswan-on-train-metro-curbs-a": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "bjp|protest|protest|row",
-    "norm": 67.9
+  "neet-cancellation-exposed-nta-gaps-parliamentary-panel": {
+    "firstSeen": "2026-10-09T21:37:20.749Z",
+    "signature": "neet|parliament",
+    "norm": 57.1
   },
-  "-i-guarantee-this-govt-will-fall-rahul-gandhi-tells-india-bl": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "mp|protest|protest|rahul gandhi",
-    "norm": 65.3
+  "new-scientific-studies-should-be-guided-by-previous-research": {
+    "firstSeen": "2026-10-09T21:37:20.749Z",
+    "signature": "result|results|results",
+    "norm": 56.6
   },
-  "tdp-will-earmark-34-seats-to-bcs-in-local-body-elections-say": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "chief minister|election|election|minister|mp",
-    "norm": 64.6
-  },
-  "cec-row-live-updates-india-bloc-mps-delegation-meets-preside": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "mp|president|row",
-    "norm": 61.4
-  },
-  "keralam-govt-to-present-resolution-in-assembly-seeking-retur": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "bill|deal|president",
-    "norm": 59.3
-  },
-  "california-cyclist-73-rides-3-200-miles-and-raises-740-000-t": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "mp|war",
-    "norm": 55.4
-  },
-  "lpg-tanker-struck-in-hormuz-iran-guards-say-was-taking-illeg": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "iran|mp",
-    "norm": 55.4
-  },
-  "-rogue-us-sanctions-world-court-hours-after-ex-judge-wins-pe": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "sanction|war",
-    "norm": 55.4
-  },
-  "rahul-gandhi-led-india-bloc-mps-meet-president-murmu-present": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "congress|lok sabha|mamata|mp|president|rahul gandhi",
-    "norm": 52.9
-  },
-  "congress-led-all-party-meeting-demands-cec-gyanesh-kumar-s-r": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "bjp|congress|mp",
-    "norm": 52.7
-  },
-  "opposition-leaders-meet-president-to-press-for-gyanesh-kumar": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "mp|opposition|parliament|president",
-    "norm": 52.1
-  },
-  "hmda-mortgages-10-land-parcels-to-raise-10-000-crore-for-inf": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "crore|fund",
-    "norm": 50.5
-  },
-  "maragatham-kumaravel-romps-home-in-madurantakam-this-time-on": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "mp|vote",
-    "norm": 50.5
-  },
-  "furniture-maker-mulls-1-5-lakh-sf-ft-plant-with-50-crore-inv": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "crore|lakh",
-    "norm": 48.7
-  },
-  "karnataka-hc-quashes-orders-bringing-hanuman-birthplace-temp": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "high court|mp",
-    "norm": 48.7
-  },
-  "karnataka-wins-award-for-highest-under-construction-wind-pow": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "mha-orders-states-to-prevent-cjp-supporters-from-mobilising-": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "2026-nobel-peace-prize-awarded-to-navi-pillay": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "40-designated-parking-slots-in-vijayawada-for-dasara-devotee": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "vote",
+  "bjp-musk-must-remember-india-s-not-a-banana-republic": {
+    "firstSeen": "2026-10-09T21:37:20.749Z",
+    "signature": "bjp",
     "norm": 45.9
-  },
-  "iimb-ranks-11th-globally-as-ft-assesses-impact-of-b-school-t": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "espionage-case-police-probe-how-accused-captured-photos-vide": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "photos|video",
-    "norm": 45.9
-  },
-  "live-streamed-proceedings-not-meant-for-commercial-gain-reit": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "supreme court",
-    "norm": 45.9
-  },
-  "karnataka-seizes-565-tonnes-of-subsidised-rice-meant-for-pub": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "crore",
-    "norm": 44
-  },
-  "ksrtc-to-operate-over-3-000-special-buses-for-dasara": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "",
-    "norm": 36
-  },
-  "jalahalli-cross-underpass-project-gets-fresh-push-with-gba-c": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "",
-    "norm": 36
-  },
-  "jagtial-family-seeks-govt-help-to-bring-mortal-remains-of-th": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "",
-    "norm": 36
-  },
-  "kstdc-rolls-out-ambari-double-decker-bus-rides-and-special-t": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "",
-    "norm": 36
-  },
-  "jason-weaver-turned-down-2m-lion-king-offer-32-years-later-r": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "quebec-family-transformed-pesticide-treated-yard-into-habita": {
-    "firstSeen": "2026-10-09T16:07:37.827Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
