@@ -1,162 +1,42 @@
 {
-  "two-people-drown-two-go-missing-at-pakala-beach-in-andhra-pr": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "drown|hospital|rescue|rescue|row",
-    "norm": 72.5
+  "-unwarranted-interference-india-slams-un-s-remarks-on-delhi-": {
+    "firstSeen": "2026-10-10T20:01:20.180Z",
+    "signature": "protest|protest|slam|slams|vote|war",
+    "norm": 70.1
   },
-  "massive-crackdown-on-cjp-protest-4-ex-chief-ministers-among-": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "chief minister|minister|protest|protest|war",
-    "norm": 70.4
+  "utah-couple-cycles-3-634-miles-across-america-raises-23-000-": {
+    "firstSeen": "2026-10-10T20:01:20.180Z",
+    "signature": "fund|war|wedding",
+    "norm": 62.5
   },
-  "anti-cec-protest-live-updates-supreme-court-to-hold-sunday-s": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "mp|protest|protest|supreme court",
-    "norm": 66.9
+  "all-3-000-detainees-released-except-abhijeet-dipke-dhruv-rat": {
+    "firstSeen": "2026-10-10T20:01:20.180Z",
+    "signature": "protest|protest|war",
+    "norm": 57.9
   },
-  "counter-congress-campaign-against-sir-telangana-bjp-chief-te": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "bjp|chief minister|congress|fear|minister|mp|rahul gandhi",
-    "norm": 65.3
+  "discord-between-ministers-and-mlas-in-districts-adds-to-cong": {
+    "firstSeen": "2026-10-10T20:01:20.180Z",
+    "signature": "chief minister|congress|minister|mla|president",
+    "norm": 54.4
   },
-  "anti-cec-protests-in-chennai-aisf-aiyf-cadres-arrested-on-an": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "hospital|protest|protest",
-    "norm": 64.9
-  },
-  "riyadh-airport-attacked-again-evacuated-air-traffic-stopped-": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "attack|attack|evacuat",
-    "norm": 62.9
-  },
-  "delhi-protests-sc-to-hear-plea-seeking-contempt-action-again": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
-  },
-  "dasara-2026-cooking-without-fire-competition-on-october-13": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "fire|fire|mp",
-    "norm": 62.8
-  },
-  "new-rulebook-for-rogue-pilots-flydubai-attack-puts-9-11-era-": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "attack|attack",
-    "norm": 57.6
-  },
-  "sir-protest-apcc-chief-sharmila-placed-under-house-arrest": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "india-bloc-to-protest-against-sir-in-kalaburagi-on-october-1": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "-to-be-finalised-in-line-with-changed-circumstances-piyush-g": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "deal|minister",
-    "norm": 53.2
-  },
-  "panama-rattled-by-fresh-5-5-magnitude-earthquake": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "earthquake|earthquake",
-    "norm": 52.4
-  },
-  "delhi-protests-un-concerned-over-mass-detentions-seeks-immed": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "cji-releases-e-compendium-of-landmark-verdicts-of-sc-hcs-rel": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "cji|mp|verdict",
-    "norm": 50.9
-  },
-  "supreme-court-sets-sunday-hearing-of-contempt-plea-against-o": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "mp|supreme court",
-    "norm": 50.5
-  },
-  "former-cms-pinarayi-and-mamata-detained-amid-crackdown-in-de": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "mamata|mp",
-    "norm": 50.5
-  },
-  "-another-jantar-mantar-aap-workers-gherao-police-station-aft": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "aap|kejriwal",
-    "norm": 50.5
-  },
-  "tuda-accelerating-development-to-meet-future-needs-says-chai": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "kanaka-durga-temple-in-vijayawada-gears-up-for-dasara-festiv": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "two-arrested-with-mdma-worth-2-lakh-in-shabad-police-uncover": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "lakh",
-    "norm": 45.9
-  },
-  "iaf-chief-says-us-has-made-no-official-offer-for-f-35-your-p": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "air force",
-    "norm": 45.9
-  },
-  "kidwai-s-home-based-palliative-care-reaches-over-3-000-patie": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "deal",
-    "norm": 45.9
-  },
-  "ed-moves-telangana-high-court-seeking-speedy-trial-in-money-": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "high court",
-    "norm": 45.9
-  },
-  "bihar-cm-transfers-1-237-crore-to-over-1-8-crore-beneficiari": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "crore",
-    "norm": 44
-  },
-  "supreme-court-to-hear-on-sunday-plea-against-violation-of-or": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
+  "cjp-member-moves-supreme-court-on-whereabouts-of-dipke-das-r": {
+    "firstSeen": "2026-10-10T20:01:20.180Z",
     "signature": "supreme court",
+    "norm": 45.9
+  },
+  "lake-tahoe-ranch-once-listed-for-188m-now-prepares-separate-": {
+    "firstSeen": "2026-10-10T20:01:20.180Z",
+    "signature": "price",
     "norm": 44
   },
-  "include-rugby-in-state-school-sports-meet-panel": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "",
-    "norm": 36
+  "rahul-gandhi-visits-chennai-for-voice-of-students-event-meet": {
+    "firstSeen": "2026-10-10T20:01:20.180Z",
+    "signature": "rahul gandhi",
+    "norm": 44
   },
-  "ktr-demands-probe-into-radial-roads-tenders": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "",
-    "norm": 36
-  },
-  "vmc-sets-up-special-drainage-system-for-saras-aajeevika-mela": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "",
-    "norm": 36
-  },
-  "bda-chairman-n-a-haris-visits-khaja-bandanawaz-dargah": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "",
-    "norm": 36
-  },
-  "ktr-flays-gajwel-mro-for-insulting-farmers": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "",
-    "norm": 36
-  },
-  "wisconsin-protects-over-1-700-lake-superior-acres-restores-w": {
-    "firstSeen": "2026-10-10T15:17:05.347Z",
-    "signature": "",
-    "norm": 33.9
+  "-amitabh-bachchan-is-hero-for-us-but-he-s-allowed-to-be-huma": {
+    "firstSeen": "2026-10-10T20:01:20.180Z",
+    "signature": "star",
+    "norm": 42.4
   }
 }
