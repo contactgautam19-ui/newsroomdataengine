@@ -1,46 +1,121 @@
 {
-  "trump-says-russia-to-supply-diesel-to-us-zelensky-calls-deal": {
-    "firstSeen": "2026-10-10T01:42:51.256Z",
-    "signature": "deal|diesel|mp|trump|trump|war",
-    "norm": 81.7
+  "bjp-govt-will-deal-with-anarchists-sternly-nitin-nabin-warns": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "bjp|deal|kejriwal|minister|modi|modi|prime minister|rahul gandhi|war",
+    "norm": 81.4
   },
-  "dmk-retains-much-of-its-vote-bank-reinforces-position-as-the": {
-    "firstSeen": "2026-10-10T01:42:51.256Z",
-    "signature": "defection|election|election|match|ruling|vote",
-    "norm": 68
+  "indiana-boy-8-spots-smoking-camper-and-helps-prevent-larger-": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "alert|bill|fire|fire|mp|smoke|trailer",
+    "norm": 79.5
   },
-  "delhi-protest-live-updates-cjp-s-call-for-jantar-mantar-2-0-": {
-    "firstSeen": "2026-10-10T01:42:51.256Z",
+  "arvind-kejriwal-calls-detention-of-protesters-worse-than-eme": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "aap|kejriwal|modi|modi|protest|protest",
+    "norm": 78.8
+  },
+  "-hung-upside-down-beaten-up-bjp-mla-accused-of-holding-3-men": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "bjp|gold|mla|war",
+    "norm": 70
+  },
+  "delhi-protest-supreme-court-bar-association-expresses-concer": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "cji|protest|protest|supreme court",
+    "norm": 66.9
+  },
+  "delhi-protest-police-security-forces-throw-wide-net-across-n": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "protest|protest|row|star",
+    "norm": 66.6
+  },
+  "anti-cec-protest-police-pelted-with-stones-near-akashwani-bh": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "injured|protest|protest",
+    "norm": 64.9
+  },
+  "anti-cec-protest-over-100-aisf-aiyf-cadres-arrested-during-p": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "hospital|protest|protest",
+    "norm": 63.2
+  },
+  "-gyanesh-kumar-will-go-this-government-will-go-rahul-gandhi": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "modi|modi|mp|opposition|rahul gandhi",
+    "norm": 62.9
+  },
+  "who-will-lead-cjp-protest-abhijeet-dipke-names-ajinkya-shind": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "protest|protest|record|video",
+    "norm": 62.8
+  },
+  "delhi-protest-daily-wage-workers-prevented-from-reaching-wor": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "mp|protest|protest",
+    "norm": 61.1
+  },
+  "supreme-court-asks-authorities-to-release-lawyers-detained-o": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "protest|protest|supreme court",
+    "norm": 61.1
+  },
+  "anti-cec-delhi-protest-live-updates-cjp-s-ajinkya-shinde-to-": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "kerala-hc-order-against-former-cm-pinarayi-vijayan-and-other": {
-    "firstSeen": "2026-10-10T01:42:51.256Z",
-    "signature": "high court|mp|supreme court",
-    "norm": 52.7
+  "delhi-protest-left-leaders-including-pinarayi-vijayan-brinda": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "ruling-parties-sweep-all-6-bypoll-seats-bjp-wins-bengal-assa": {
-    "firstSeen": "2026-10-10T01:42:51.256Z",
-    "signature": "bjp|poll|ruling",
-    "norm": 50.9
+  "delhi-protest-cjp-s-abhijeet-dipke-saurav-das-ashutosh-ranka": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "karnataka-govt-writes-to-slbc-instructing-against-adjusting-": {
-    "firstSeen": "2026-10-10T01:42:51.256Z",
+  "mahatma-gandhi-s-great-grandson-tushar-gandhi-detained-ahead": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "cji-surya-kant-forms-panel-to-address-mental-physical-well-b": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "cji|supreme court",
+    "norm": 48.7
+  },
+  "massachusetts-farmer-put-solar-on-11-acres-lease-pays-1-000-": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
     "signature": "war",
     "norm": 46.3
   },
-  "jaishankar-highlights-shared-aspirations-self-reliance-in-in": {
-    "firstSeen": "2026-10-10T01:42:51.256Z",
-    "signature": "jaishankar",
-    "norm": 45.9
-  },
-  "india-condemns-jd-vance-s-indentured-servants-remark-amid-gr": {
-    "firstSeen": "2026-10-10T01:42:51.256Z",
-    "signature": "mp",
+  "100-senior-police-officers-transferred-in-j-k": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "governor",
     "norm": 44
   },
-  "-gambhir-is-chopping-and-changing-ex-australia-player-calls-": {
-    "firstSeen": "2026-10-10T01:42:51.256Z",
+  "india-s-first-cyber-trojan-horse-garners-eyeballs-at-securit": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "",
+    "norm": 36
+  },
+  "gtech-to-seek-centre-s-intervention-as-u-s-green-card-curbs-": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-operation-thelima-makes-headway-in-kozhikode-district": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "karnataka-postal-circle-to-sell-8-000-philately-passports-on": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "florida-rebuilt-oyster-reef-density-rose-from-near-zero-to-2": {
+    "firstSeen": "2026-10-10T08:25:08.170Z",
     "signature": "",
     "norm": 33.9
   }
