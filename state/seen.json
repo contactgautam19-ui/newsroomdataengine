@@ -1,42 +1,302 @@
 {
+  "protesters-take-shelter-at-delhi-gurdwara-then-a-viral-cop-v": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "opposition|protest|protest|row|video|viral|viral|viral|war",
+    "norm": 75.2
+  },
+  "-hero-to-all-of-humanity-israel-president-writes-to-smit-mac": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "captain|hospital|israel|president|war",
+    "norm": 73.9
+  },
+  "-any-terrorist-attack-will-get-fitting-response-india-shreds": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "attack|attack|defence|pakistan|terror|terror",
+    "norm": 71.2
+  },
+  "saudi-arabia-says-attack-on-riyadh-airport-killed-12-and-wou": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "attack|attack|killed|killed",
+    "norm": 69.6
+  },
+  "pm-modi-to-visit-chennai-today-launch-projects-worth-over-rs": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "crore|modi|modi|mp|war",
+    "norm": 69.2
+  },
   "-unwarranted-interference-india-slams-un-s-remarks-on-delhi-": {
     "firstSeen": "2026-10-10T20:01:20.180Z",
     "signature": "protest|protest|slam|slams|vote|war",
-    "norm": 70.1
+    "norm": 67.7
   },
-  "utah-couple-cycles-3-634-miles-across-america-raises-23-000-": {
-    "firstSeen": "2026-10-10T20:01:20.180Z",
-    "signature": "fund|war|wedding",
-    "norm": 62.5
+  "boyfriend-falls-from-balcony-influencer-sends-him-to-hospita": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "died|hospital|sharma|threat|video",
+    "norm": 66.2
+  },
+  "nepal-cuts-12-year-wait-to-declare-those-missing-in-flood-de": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "dead|dead|flood|flood",
+    "norm": 65.9
+  },
+  "jackie-chan-and-fans-raised-over-192-000-to-help-build-schoo": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "china|fan|match|result",
+    "norm": 65.2
+  },
+  "anti-cec-protest-live-updates-cjp-calls-for-another-protest-": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "mp|protest|protest|supreme court",
+    "norm": 64.9
+  },
+  "bjp-slams-rahul-gandhi-for-claiming-murmu-accepted-vote-chor": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "bjp|rahul gandhi|slam|slams|vote",
+    "norm": 64.5
+  },
+  "new-york-fire-fundraiser-topped-100-000-state-ag-seeks-71-53": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "fire|fire|fund|tragedy",
+    "norm": 62.4
+  },
+  "multiple-jantar-mantars-spring-up-as-delhi-shuts": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "ipl|mp|protest|protest",
+    "norm": 62.4
+  },
+  "-think-it-s-time-for-ukraine-to-get-new-president-trump-rips": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "deal|mp|president|trump|trump",
+    "norm": 61
+  },
+  "saudi-arabia-12-killed-hundreds-injured-in-riyadh-strike": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "injured|killed|killed",
+    "norm": 60.4
+  },
+  "man-enters-us-home-kills-8-barricades-himself-before-dying-b": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "dead|dead|fire|fire",
+    "norm": 59.2
+  },
+  "harmanpreet-kaur-the-game-changer": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "anger|captain|cricket|cricketer",
+    "norm": 58.9
+  },
+  "anti-cec-protest-right-wing-group-members-assault-protesters": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "aap|congress|protest|protest|video",
+    "norm": 58.9
+  },
+  "cjp-protest-how-government-pre-empted-plot-to-incite-violenc": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "mp|protest|protest",
+    "norm": 58.6
+  },
+  "-no-backing-down-india-bloc-to-hold-mega-protest-against-gya": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "congress|protest|protest|row",
+    "norm": 57.1
+  },
+  "2-killed-8-lakh-left-without-power-in-3-us-states-as-hurrica": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "killed|killed|lakh",
+    "norm": 56.7
+  },
+  "wwe-money-in-the-bank-2026-live-results-updates-grades-analy": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "result|results|results",
+    "norm": 56.6
+  },
+  "ladakh-activist-sonam-wangchuk-warns-of-fresh-protest-if-det": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "protest|protest|video|war",
+    "norm": 55.2
+  },
+  "us-death-row-inmate-christa-pike-returns-to-prison-from-hosp": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "death|hospital|row",
+    "norm": 53.4
+  },
+  "mass-detention-of-delhi-protesters-draws-scrutiny-from-legal": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "top-court-to-hold-special-hearing-on-metro-closure-protest-d": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "mp|protest|protest",
+    "norm": 51.5
+  },
+  "parliament-not-streets-will-govern-country-bjp-govt-is-rattl": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "bjp|parliament",
+    "norm": 50.5
+  },
+  "-tata-bye-bye-2-term-bjp-mp-quits-party-over-rajya-sabha-tic": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "bjp|mp|rajya sabha",
+    "norm": 48.2
   },
   "all-3-000-detainees-released-except-abhijeet-dipke-dhruv-rat": {
     "firstSeen": "2026-10-10T20:01:20.180Z",
     "signature": "protest|protest|war",
-    "norm": 57.9
+    "norm": 48.1
+  },
+  "-unwarranted-interference-india-hits-back-at-un-rights-body-": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "protest|protest|war",
+    "norm": 48.1
+  },
+  "rbi-steps-in-to-support-rupee-as-forex-reserves-dip-52bn-in-": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "rbi|rupee",
+    "norm": 45.9
+  },
+  "pm-modi-to-launch-chennai-metro-rail-phase-2-to-share-ride-w": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "modi|modi",
+    "norm": 45.4
+  },
+  "bjp-accuses-india-bloc-cjp-of-trying-to-destabilise-nation-a": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "bjp|mp|president",
+    "norm": 44.9
+  },
+  "-cjp-their-b-team-rekha-gupta-s-dig-at-rahul-gandhi-arvind-k": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "aap|chief minister|congress|kejriwal|minister|rahul gandhi",
+    "norm": 42.7
   },
   "discord-between-ministers-and-mlas-in-districts-adds-to-cong": {
     "firstSeen": "2026-10-10T20:01:20.180Z",
     "signature": "chief minister|congress|minister|mla|president",
-    "norm": 54.4
+    "norm": 42.4
+  },
+  "protest-against-cec-gyanesh-kumar-over-alleged-irregularitie": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "delhi-cjp-protest-news-highlights-delhi-metro-gates-reopened": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "not-just-jantar-mantar-internet-suspended-at-8-other-locatio": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "leaders-in-custody-cjp-announces-another-jantar-mantar-prote": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "un-human-rights-body-expresses-concern-over-delhi-detentions": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "india-hits-back-at-un-rights-office-over-remarks-on-delhi-pr": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "moving-car-catches-fire-on-cunningham-road": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "fire|fire",
+    "norm": 42.2
+  },
+  "sir-stir-kashmir-model-in-delhi-situation-akin-to-emergency-": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "opposition",
+    "norm": 41
+  },
+  "manipur-mp-calls-his-dismissal-as-jnu-prof-witch-hunt-": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "mp",
+    "norm": 41
+  },
+  "-my-message-to-students-you-have-nothing-to-fear-we-are-stan": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "fear",
+    "norm": 35.5
+  },
+  "allahabad-hc-warns-against-misuse-of-criminal-law-in-short-l": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "war",
+    "norm": 35.5
   },
   "cjp-member-moves-supreme-court-on-whereabouts-of-dipke-das-r": {
     "firstSeen": "2026-10-10T20:01:20.180Z",
     "signature": "supreme court",
-    "norm": 45.9
-  },
-  "lake-tahoe-ranch-once-listed-for-188m-now-prepares-separate-": {
-    "firstSeen": "2026-10-10T20:01:20.180Z",
-    "signature": "price",
-    "norm": 44
+    "norm": 32.8
   },
   "rahul-gandhi-visits-chennai-for-voice-of-students-event-meet": {
     "firstSeen": "2026-10-10T20:01:20.180Z",
     "signature": "rahul gandhi",
-    "norm": 44
+    "norm": 32.8
   },
-  "-amitabh-bachchan-is-hero-for-us-but-he-s-allowed-to-be-huma": {
-    "firstSeen": "2026-10-10T20:01:20.180Z",
-    "signature": "star",
-    "norm": 42.4
+  "christa-pike-who-survived-lethal-injections-returns-to-us-pr": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "rbi",
+    "norm": 32.8
+  },
+  "anxiety-treatable-but-83-of-affected-did-not-get-help": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "taylor-swift-s-4m-nashville-education-centre-now-showcases-l": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "former-mayor-alleges-bid-to-move-thiruvananthapuram-zoo-anim": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "steve-mcqueen-s-former-malibu-home-bought-for-8-35m-now-list": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "today-s-nyt-strands-hints-spangram-and-answers-for-sunday-oc": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "tiger-kills-man-who-entered-its-enclosure-at-uk-zoo": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "noted-mridangam-artiste-guruvayur-dorai-passes-away": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "residents-of-western-suburbs-call-for-regulation-of-spaces-b": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "doctors-body-seeks-release-of-pending-salaries-for-govt-medi": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "igp-reviews-passenger-security-at-vijayawada-railway-station": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "-you-people-don-t-let-us-near-the-aircraft-iaf-chief-says-no": {
+    "firstSeen": "2026-10-10T23:29:50.146Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
