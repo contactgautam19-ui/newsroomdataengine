@@ -1,27 +1,47 @@
 {
-  "houthi-attack-on-riyadh-airport-killed-three-saudi-nationals": {
-    "firstSeen": "2026-10-09T21:37:20.749Z",
-    "signature": "attack|attack|killed|killed",
-    "norm": 69.6
+  "trump-says-russia-to-supply-diesel-to-us-zelensky-calls-deal": {
+    "firstSeen": "2026-10-10T01:42:51.256Z",
+    "signature": "deal|diesel|mp|trump|trump|war",
+    "norm": 81.7
   },
-  "two-firs-lodged-against-cpi-m-leader-day-after-his-house-cam": {
-    "firstSeen": "2026-10-09T21:37:20.749Z",
-    "signature": "attack|attack|war",
-    "norm": 62.9
+  "dmk-retains-much-of-its-vote-bank-reinforces-position-as-the": {
+    "firstSeen": "2026-10-10T01:42:51.256Z",
+    "signature": "defection|election|election|match|ruling|vote",
+    "norm": 68
   },
-  "neet-cancellation-exposed-nta-gaps-parliamentary-panel": {
-    "firstSeen": "2026-10-09T21:37:20.749Z",
-    "signature": "neet|parliament",
-    "norm": 57.1
+  "delhi-protest-live-updates-cjp-s-call-for-jantar-mantar-2-0-": {
+    "firstSeen": "2026-10-10T01:42:51.256Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "new-scientific-studies-should-be-guided-by-previous-research": {
-    "firstSeen": "2026-10-09T21:37:20.749Z",
-    "signature": "result|results|results",
-    "norm": 56.6
+  "kerala-hc-order-against-former-cm-pinarayi-vijayan-and-other": {
+    "firstSeen": "2026-10-10T01:42:51.256Z",
+    "signature": "high court|mp|supreme court",
+    "norm": 52.7
   },
-  "bjp-musk-must-remember-india-s-not-a-banana-republic": {
-    "firstSeen": "2026-10-09T21:37:20.749Z",
-    "signature": "bjp",
+  "ruling-parties-sweep-all-6-bypoll-seats-bjp-wins-bengal-assa": {
+    "firstSeen": "2026-10-10T01:42:51.256Z",
+    "signature": "bjp|poll|ruling",
+    "norm": 50.9
+  },
+  "karnataka-govt-writes-to-slbc-instructing-against-adjusting-": {
+    "firstSeen": "2026-10-10T01:42:51.256Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "jaishankar-highlights-shared-aspirations-self-reliance-in-in": {
+    "firstSeen": "2026-10-10T01:42:51.256Z",
+    "signature": "jaishankar",
     "norm": 45.9
+  },
+  "india-condemns-jd-vance-s-indentured-servants-remark-amid-gr": {
+    "firstSeen": "2026-10-10T01:42:51.256Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "-gambhir-is-chopping-and-changing-ex-australia-player-calls-": {
+    "firstSeen": "2026-10-10T01:42:51.256Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
