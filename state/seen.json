@@ -1,136 +1,161 @@
 {
-  "anti-cec-protest-in-delhi-top-developments-detentions-curbs-": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "election|election|election commission|mp|protest|protest",
-    "norm": 77.2
+  "iiit-ranchi-student-found-dead-in-hostel-protest-erupts-on-c": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "dead|dead|mp|protest|protest",
+    "norm": 76.3
   },
-  "-competition-of-anarchy-bjp-hits-out-at-rahul-kejriwal-amid-": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "bjp|congress|kejriwal|mp|protest|protest|rahul gandhi|row|vote|war",
-    "norm": 76.5
+  "-hung-upside-down-given-electric-shock-three-men-allege-tort": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "bjp|mla|mp|shock|shock|war",
+    "norm": 73.9
   },
-  "pm-modi-in-chennai-live-prime-minister-inaugurates-metro-rai": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "chief minister|crore|minister|modi|modi|prime minister",
-    "norm": 72.6
+  "toll-in-manipur-ethnic-clashes-rises-to-nine": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "border|clash|clash|toll",
+    "norm": 71.4
   },
-  "keralam-rajya-sabha-mp-john-brittas-allegedly-assaulted-by-c": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "attack|attack|mp|rajya sabha",
+  "mamata-aitc-mla-attacked-abhishek-banerjee-served-police-not": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "attack|attack|mamata|mla",
     "norm": 70
   },
-  "pm-modi-and-tamil-nadu-cm-vijay-flag-off-chennai-metro-rail-": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "modi|modi|star",
+  "indian-man-killed-in-missile-strike-on-saudi-airport-2-sons-": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "death|hospital|killed|killed",
+    "norm": 69.6
+  },
+  "cji-kant-declines-to-meet-rahul-gandhi-ahead-of-india-bloc-s": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "cji|protest|protest|rahul gandhi|supreme court",
+    "norm": 69
+  },
+  "indian-died-day-after-being-injured-in-riyadh-airport-attack": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "attack|attack|died|injured",
+    "norm": 68
+  },
+  "anti-cec-protests-continue-journalists-detained-despite-sc-o": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "congress|protest|protest|rahul gandhi|supreme court",
+    "norm": 67.3
+  },
+  "singing-acting-and-beyond-mano-s-four-decade-film-sojourn-in": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "film|mp|singer|war",
+    "norm": 66
+  },
+  "two-loco-pilots-injured-in-separate-stone-pelting-attacks-ne": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "attack|attack|injured",
+    "norm": 64.5
+  },
+  "anti-cec-protest-live-cji-surya-kant-declines-to-meet-india-": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "cji|protest|protest",
+    "norm": 62.8
+  },
+  "protest-at-a-designated-protest-spot-is-not-disturbing-the-p": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "protest|protest|rbi",
+    "norm": 62.8
+  },
+  "cultural-performances-traditional-dances-mark-start-of-vijay": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "hospital|mp|star",
     "norm": 62.5
   },
-  "power-bank-fire-on-indigo-delhi-chennai-flight-what-rules-sa": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "fire|fire|policy",
-    "norm": 61.1
-  },
-  "dmk-aiadmk-stake-claim-to-chennai-metro-stretch-after-pm-mod": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "modi|modi|opposition",
-    "norm": 59.7
-  },
-  "delhi-cops-release-clip-of-dipke-denying-offer-to-return-hom": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "death|ipl",
-    "norm": 59.3
-  },
-  "djb-to-replace-733km-of-old-pipelines-under-6-044-crore-sout": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "crore|lakh|mp",
-    "norm": 59.3
-  },
-  "-i-am-sorry-cjp-s-abhijeet-dipke-shares-post-for-late-grandm": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "died|protest|protest",
+  "-where-is-neha-bora-today-aisa-chief-a-running-motif-as-delh": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "fraud|protest|protest",
     "norm": 57.9
   },
-  "chennai-bound-indigo-flight-diverted-to-hyderabad-after-elec": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "fire|fire|smoke",
+  "-father-will-take-care-of-it-kerala-teen-after-killing-3-wit": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "accident|ipl",
+    "norm": 57.6
+  },
+  "victoria-sold-heritage-hospital-land-to-channel-nine-for-a-1": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "hospital|mp",
     "norm": 57.1
   },
-  "anti-cec-protest-live-sc-stops-illegal-detention-orders-rest": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
+  "tanker-carrying-11-indians-hit-by-drone-off-oman-coast-2-cre": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "drone|rescue|rescue",
+    "norm": 57.1
+  },
+  "anantha-nageswaran-releases-white-paper-on-ai-automation-and": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "mp|war",
+    "norm": 55.4
+  },
+  "sporadic-protests-break-uneasy-calm-in-delhi": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "bleeding-protesters-detained-journalists-new-delhi-sees-fres": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
+  "on-camera-man-enters-tiger-enclosure-in-uk-zoo-it-mauls-him-": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "anger|death",
+    "norm": 53.9
+  },
+  "bloodied-passengers-panic-and-screams-survivors-recall-riyad": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "died|panic",
+    "norm": 53.9
+  },
+  "cji-surya-kant-declines-opposition-leaders-request-for-meet-": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "cji|mp|opposition",
+    "norm": 52.7
+  },
+  "cji-surya-kant-declines-to-meet-india-bloc-leaders-on-octobe": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "cji|congress|rahul gandhi",
+    "norm": 52.7
+  },
+  "many-detained-near-shivaji-park-as-mumbai-police-prevent-pro": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "scuffle-breaks-out-at-up-congress-office-ahead-of-aradhana-m": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "congress|president",
-    "norm": 50.5
-  },
-  "delhi-chennai-indigo-flight-diverted-to-hyderabad-after-smok": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "mp|smoke",
-    "norm": 50.2
-  },
-  "-youth-run-punjab-2026-thousands-join-amritsar-marathon-unde": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "aap|mp",
+  "day-before-india-bloc-march-chief-justice-surya-kant-says-no": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "cji|verdict",
     "norm": 48.7
   },
-  "maharashtra-man-pushes-girlfriend-into-gorge-after-she-revea": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "maharashtra",
-    "norm": 46.3
+  "cji-surya-kant-rejects-india-bloc-leaders-request-for-meetin": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "cji|vote",
+    "norm": 48.7
   },
-  "ai-nuclear-war-bioweapons-may-trigger-end-of-humanity-by-210": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "-no-place-to-breathe-aisa-s-neha-bora-detained-again-alleges": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "brutal",
-    "norm": 46.3
-  },
-  "manipur-groups-call-shutdown-against-state-s-1949-merger-wit": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "mp",
+  "vettri-payanam-thittam-what-is-the-economic-mileage-of-a-no-": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "crore",
     "norm": 45.9
   },
-  "on-family-farmland-brothers-nurture-rural-youths-dreams-of-g": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "mla",
+  "upskilling-necessary-for-career-prospects-says-vit-vice-pres": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "president",
     "norm": 45.9
   },
-  "privacy-of-citizens-being-compromised-says-kerala-hc-directs": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "chennai-bound-indigo-flight-from-delhi-diverted-to-hyderabad": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "smoke",
-    "norm": 42.7
-  },
-  "delhi-chennai-flight-diverted-to-hyderabad-after-smoke-detec": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
-    "signature": "smoke",
-    "norm": 40.7
-  },
-  "four-bengal-workers-detained-on-bangladeshi-suspicion-releas": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
+  "eagle-police-conduct-searches-under-operation-trishul-": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
     "signature": "",
     "norm": 36
   },
-  "sc-mandates-free-movement-no-illegal-detentions-subject-to-p": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
+  "tributes-to-jayaprakash-narayan-mark-his-124th-birth-anniver": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
+    "signature": "",
+    "norm": 36
+  },
+  "delhi-to-launch-1-300-pink-electric-autos-with-women-transge": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
     "signature": "",
     "norm": 33.9
   },
-  "history-sheeter-detained-under-goondas-act-in-cuddalore": {
-    "firstSeen": "2026-10-11T12:40:36.875Z",
+  "karnataka-s-coffee-cultivation-area-remains-stagnant-kpa-cha": {
+    "firstSeen": "2026-10-11T18:00:48.831Z",
     "signature": "",
     "norm": 33.9
   }
