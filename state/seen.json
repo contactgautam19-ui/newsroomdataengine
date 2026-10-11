@@ -1,151 +1,136 @@
 {
-  "situation-remains-tense-in-violence-hit-manipur-as-toll-rise": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "chief minister|clash|clash|killed|killed|minister|toll",
-    "norm": 86.3
+  "anti-cec-protest-in-delhi-top-developments-detentions-curbs-": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "election|election|election commission|mp|protest|protest",
+    "norm": 77.2
   },
-  "delhi-protest-youtuber-dhruv-rathee-released-from-detention": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "ipl|mp|protest|protest|unprecedented",
-    "norm": 78.1
+  "-competition-of-anarchy-bjp-hits-out-at-rahul-kejriwal-amid-": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "bjp|congress|kejriwal|mp|protest|protest|rahul gandhi|row|vote|war",
+    "norm": 76.5
   },
-  "not-just-jantar-mantar-mobile-internet-blocked-at-eight-stad": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "ipl|mp|protest|protest",
-    "norm": 72.9
+  "pm-modi-in-chennai-live-prime-minister-inaugurates-metro-rai": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "chief minister|crore|minister|modi|modi|prime minister",
+    "norm": 72.6
   },
-  "world-condemns-deadly-houthi-attack-on-saudi-arabia-s-riyadh": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "attack|attack|dead|dead",
-    "norm": 69.6
+  "keralam-rajya-sabha-mp-john-brittas-allegedly-assaulted-by-c": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "attack|attack|mp|rajya sabha",
+    "norm": 70
   },
-  "haryana-cabinet-gives-nod-to-amendments-to-agniveer-policy-f": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "cabinet|exam|mp|policy|recruitment",
-    "norm": 67
+  "pm-modi-and-tamil-nadu-cm-vijay-flag-off-chennai-metro-rail-": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "modi|modi|star",
+    "norm": 62.5
   },
-  "india-bloc-to-hold-protest-march-in-delhi-on-october-12-subm": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "cji|congress|protest|protest",
-    "norm": 66.9
+  "power-bank-fire-on-indigo-delhi-chennai-flight-what-rules-sa": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "fire|fire|policy",
+    "norm": 61.1
   },
-  "let-us-fight-from-ayodhya-says-yogi-as-he-accepts-akhilesh-s": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "ayodhya|ipl|opposition|yogi",
-    "norm": 65
-  },
-  "pm-modi-in-chennai-live-inauguration-of-chennai-metro-phase-": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "minister|modi|modi|prime minister",
-    "norm": 63.5
-  },
-  "pm-modi-extends-greetings-on-first-day-of-navratri": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "minister|modi|modi|prime minister",
-    "norm": 63.5
-  },
-  "anti-cec-protest-live-updates-exceptional-and-urgent-justice": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "protest|protest|supreme court",
-    "norm": 62.8
-  },
-  "cjp-protest-live-updates-supreme-court-holds-special-hearing": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "protest|protest|supreme court",
-    "norm": 62.8
-  },
-  "-don-t-breach-peace-for-1-year-cjp-s-abhijeet-dipke-2-others": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "protest|protest|vote",
-    "norm": 62.8
-  },
-  "delhi-markets-to-reopen-on-sunday-amid-protests-traders-urge": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "fear|protest|protest|row",
-    "norm": 60.6
-  },
-  "sensitive-polling-booth-data-being-collected-to-ensure-free-": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "election|election|poll",
+  "dmk-aiadmk-stake-claim-to-chennai-metro-stretch-after-pm-mod": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "modi|modi|opposition",
     "norm": 59.7
   },
-  "assault-rifles-pistols-11-grenades-ieds-recovered-in-kashmir": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "bomb|exam",
+  "delhi-cops-release-clip-of-dipke-denying-offer-to-return-hom": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "death|ipl",
     "norm": 59.3
   },
-  "-shami-bhi-aa-rahe-hai-piche-piche-raina-drops-big-hint-on-i": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "ipl|war",
+  "djb-to-replace-733km-of-old-pipelines-under-6-044-crore-sout": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "crore|lakh|mp",
     "norm": 59.3
   },
-  "pm-modi-greets-people-on-navratri": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "modi|modi",
-    "norm": 55.4
+  "-i-am-sorry-cjp-s-abhijeet-dipke-shares-post-for-late-grandm": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "died|protest|protest",
+    "norm": 57.9
   },
-  "microsoft-ceo-satya-nadella-says-don-t-blindly-trust-ai-trea": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "ipl|mp",
-    "norm": 55.4
+  "chennai-bound-indigo-flight-diverted-to-hyderabad-after-elec": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "fire|fire|smoke",
+    "norm": 57.1
   },
-  "youtuber-dhruv-rathee-detained-from-gurugram-home-amid-cjp-p": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
+  "anti-cec-protest-live-sc-stops-illegal-detention-orders-rest": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "stringent-traffic-curbs-in-delhi-as-anti-cec-protest-enters-": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "stubble-burning-on-the-rise-again-can-tech-prevent-another-s": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "fire|fire",
-    "norm": 52.4
-  },
-  "jantar-mantar-stays-barricaded-30-traffic-choke-points-flagg": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
+  "bleeding-protesters-detained-journalists-new-delhi-sees-fres": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "cjp-b-team-of-aap-congress-delhi-cm-rekha-gupta": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "aap|congress",
+  "scuffle-breaks-out-at-up-congress-office-ahead-of-aradhana-m": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "congress|president",
     "norm": 50.5
   },
-  "in-bihar-government-school-headmaster-suspended-for-selling-": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "ipl",
+  "delhi-chennai-indigo-flight-diverted-to-hyderabad-after-smok": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "mp|smoke",
+    "norm": 50.2
+  },
+  "-youth-run-punjab-2026-thousands-join-amritsar-marathon-unde": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "aap|mp",
+    "norm": 48.7
+  },
+  "maharashtra-man-pushes-girlfriend-into-gorge-after-she-revea": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "maharashtra",
     "norm": 46.3
   },
-  "former-japanese-pm-s-wife-akie-abe-meets-rss-general-secreta": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
+  "ai-nuclear-war-bioweapons-may-trigger-end-of-humanity-by-210": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "-no-place-to-breathe-aisa-s-neha-bora-detained-again-alleges": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "brutal",
+    "norm": 46.3
+  },
+  "manipur-groups-call-shutdown-against-state-s-1949-merger-wit": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "on-family-farmland-brothers-nurture-rural-youths-dreams-of-g": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "mla",
+    "norm": 45.9
+  },
+  "privacy-of-citizens-being-compromised-says-kerala-hc-directs": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
     "signature": "mp",
     "norm": 44
   },
-  "ahead-of-local-polls-police-intensify-caso-in-kadapa": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "poll",
-    "norm": 44
+  "chennai-bound-indigo-flight-from-delhi-diverted-to-hyderabad": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "smoke",
+    "norm": 42.7
   },
-  "-interference-in-internal-affairs-india-rebukes-un-body-over": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
+  "delhi-chennai-flight-diverted-to-hyderabad-after-smoke-detec": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
+    "signature": "smoke",
+    "norm": 40.7
+  },
+  "four-bengal-workers-detained-on-bangladeshi-suspicion-releas": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
     "signature": "",
     "norm": 36
   },
-  "cjp-leaders-abhijeet-dipke-saurav-das-ashutosh-ranka-release": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
+  "sc-mandates-free-movement-no-illegal-detentions-subject-to-p": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
     "signature": "",
     "norm": 33.9
   },
-  "the-people-this-year-s-nobel-prizes-left-out": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "india-targets-604-million-tons-of-steel-capacity-by-2047-eye": {
-    "firstSeen": "2026-10-11T05:38:02.227Z",
+  "history-sheeter-detained-under-goondas-act-in-cuddalore": {
+    "firstSeen": "2026-10-11T12:40:36.875Z",
     "signature": "",
     "norm": 33.9
   }
