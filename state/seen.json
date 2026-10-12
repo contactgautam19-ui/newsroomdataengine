@@ -1,27 +1,142 @@
 {
-  "us-judge-blocks-trump-s-20-million-taxpayer-funded-ad-campai": {
-    "firstSeen": "2026-10-12T01:14:54.267Z",
-    "signature": "fund|mp|tax|trump|trump",
-    "norm": 73.6
+  "anti-cec-row-live-delhi-police-denotify-jantar-mantar-as-pro": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "cji|protest|protest|rahul gandhi|row",
+    "norm": 72
   },
-  "tukaram-mundhe-appointed-secretary-of-panel-to-overhaul-mpsc": {
-    "firstSeen": "2026-10-12T01:14:54.267Z",
-    "signature": "iran|maharashtra|mp|war",
-    "norm": 72.6
+  "jantar-mantar-no-longer-a-designated-protest-venue-delhi-pol": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "modi|modi|protest|protest",
+    "norm": 71.4
   },
-  "telangana-to-seek-special-financial-package-from-centre-to-t": {
-    "firstSeen": "2026-10-12T01:14:54.267Z",
-    "signature": "minister|modi|modi|mp",
-    "norm": 61.8
+  "bill-gates-backed-malaria-nets-helped-fight-disease-but-are-": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "bill|row|threat",
+    "norm": 62.5
   },
-  "cji-surya-kant-declines-to-meet-india-bloc-leaders-on-octobe": {
-    "firstSeen": "2026-10-12T01:14:54.267Z",
-    "signature": "cji|congress|rahul gandhi",
+  "-crores-of-voters-omitted-kerala-assembly-passes-resolution-": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "chief minister|crore|minister|vote",
+    "norm": 61.4
+  },
+  "rajya-sabha-mp-moves-sc-alleging-illegal-detention-secret-tr": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "brutal|mp|rajya sabha",
+    "norm": 61.4
+  },
+  "ins-mangrol-anti-submarine-warfare-shallow-water-craft-induc": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "navy|row|war",
+    "norm": 60.8
+  },
+  "neither-approved-nor-disapproved-supreme-court-clarifies-sta": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "modi|modi|supreme court",
+    "norm": 59.7
+  },
+  "supreme-court-says-it-neither-approved-nor-disapproved-revis": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "exam|supreme court|vote",
+    "norm": 59.7
+  },
+  "michael-dell-s-florida-resort-sells-40-of-luxury-condos-star": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "ipl|result|star",
+    "norm": 59.4
+  },
+  "delhi-gets-3-new-protest-venues-to-minimize-disruption-janta": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "protest|protest|row",
+    "norm": 57.9
+  },
+  "indian-army-upgrades-troop-rations-with-bharat-rice-mou-with": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "army|war",
+    "norm": 57.1
+  },
+  "he-quit-banking-to-grow-microgreens-in-80-sq-ft-how-this-koc": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "lakh|row",
+    "norm": 55.4
+  },
+  "jantar-mantar-out-where-can-you-protest-in-delhi-now-3-venue": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "-won-t-stay-fir-no-coercive-steps-sc-refuses-to-stay-cbi-pro": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "chief minister|minister|supreme court",
     "norm": 52.7
   },
-  "kathi-kebab-roll-vs-frankie-vs-wrap-what-is-the-difference-": {
-    "firstSeen": "2026-10-12T01:14:54.267Z",
-    "signature": "mp",
+  "march-to-supreme-court-who-is-attending-why-the-cji-declined": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "cji|congress|opposition|supreme court|vote",
+    "norm": 52.6
+  },
+  "-poora-desh-jantar-mantar-banega-abhijeet-dipke-as-site-lose": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "jantar-mantar-no-longer-legal-protest-site-three-alternative": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "delhi-revokes-jantar-mantar-as-protest-venue-3-new-sites-des": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "jantar-mantar-no-longer-a-protest-site-three-new-venues-desi": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "protest|protest",
+    "norm": 52.4
+  },
+  "-was-shiva-s-tandav-planned-rahul-gandhi-on-impromptu-akashv": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "mp|rahul gandhi",
+    "norm": 50.5
+  },
+  "australia-removed-rabbits-petrel-colony-grew-to-over-800-bre": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "threat",
+    "norm": 46.3
+  },
+  "keralam-assembly-passes-resolution-seeking-removal-of-cec-gy": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "vote",
+    "norm": 45.9
+  },
+  "one-fourth-of-forms-seeking-karnataka-voter-deletions-not-av": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "vote",
     "norm": 44
+  },
+  "bronze-age-child-burials-reveal-gender-linked-funeral-custom": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "rbi",
+    "norm": 44
+  },
+  "-cannot-be-at-the-cost-of-public-trust-prominent-citizens-se": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "governor",
+    "norm": 44
+  },
+  "-height-of-oppression-shivraj-singh-chouhan-puts-own-govt-in": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "",
+    "norm": 36
+  },
+  "hyderabad-press-club-plans-action-plan-to-put-pressure-on-th": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "nh-65-expansion-work-in-telangana-to-begin-by-january-2027-n": {
+    "firstSeen": "2026-10-12T09:05:14.067Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
