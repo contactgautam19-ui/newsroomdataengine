@@ -1,247 +1,152 @@
 {
-  "stock-market-live-updates-sensex-today-sensex-jumps-700-poin": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "attack|attack|mp|nifty|rally|rally|sensex|stock market|stocks",
-    "norm": 90.8
+  "india-asks-its-nationals-in-saudi-arabia-to-remain-calm-and-": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "attack|attack|dead|dead|drone|iran",
+    "norm": 84.4
   },
-  "coach-axed-after-selection-row-india-name-166-athletes-for-a": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "election|election|mp|protest|protest|row|shooting",
-    "norm": 89.4
+  "former-supreme-court-judge-calls-for-constitutional-safeguar": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "high court|ipl|protest|protest|supreme court|vote",
+    "norm": 78.8
   },
-  "india-grows-with-the-world-not-at-anyone-s-cost-cites-strong": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "bill|billion|fund|minister|modi|modi|prime minister|row|tax",
-    "norm": 87.8
+  "fareed-zakaria-on-trump-s-influence-and-america-s-deepening-": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "election|election|mp|president|trump|trump|war",
+    "norm": 77.9
   },
-  "congress-stages-protest-in-hubballi-seeking-resignation-of-c": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "congress|election|election|election commission|mp|protest|protest|rally|rally",
-    "norm": 82.7
+  "at-least-10-dead-after-boat-capsizes-in-bihar-s-vaishali": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "dead|dead|grief|rescue|rescue|tragic",
+    "norm": 77.3
   },
-  "104-year-old-man-receives-brother-s-wwii-dog-tag-83-years-af": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "crash|crash|death|died|record|war",
-    "norm": 78.7
+  "fir-against-cjp-leaders-after-jantar-mantar-entry-breach-of-": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "election|election|election commission|protest|protest",
+    "norm": 75.3
   },
-  "south-korea-supermarket-stabbing-leaves-8-injured-suspect-ar": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "attack|attack|injured|shock|shock|shocking",
-    "norm": 75.8
+  "political-resistance-against-vote-chori-will-continue-not-as": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "opposition|protest|protest|rahul gandhi|vote",
+    "norm": 69
   },
-  "gold-prices-surge-54-jewellers-use-9k-14k-18k-gold-for-diamo": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "gold|gold price|price|prices|row",
-    "norm": 75
+  "anti-cec-protests-highlights-cjp-leaders-das-ranka-booked-fo": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "opposition|protest|protest|rahul gandhi|supreme court",
+    "norm": 69
   },
-  "cjp-delhi-protest-live-sc-to-hear-delhi-protest-petitions-on": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "mp|opposition|protest|protest|rahul gandhi|supreme court|war",
-    "norm": 74.9
+  "alleged-mobile-snatcher-caught-by-passengers-dragged-alongsi": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "video|viral|viral|viral",
+    "norm": 67.6
   },
-  "sergey-brin-is-biggest-donor-against-california-wealth-tax-c": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "bill|billion|election|election|mp|tax",
-    "norm": 74
+  "opposition-announces-mission-to-restore-democracy-plans-indi": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "opposition|protest|protest|rahul gandhi",
+    "norm": 66.9
   },
-  "teen-had-drinks-at-many-bars-before-mini-cooper-crash-that-k": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "crash|crash|killed|killed",
-    "norm": 71
+  "police-action-against-protesting-students-in-mangaluru-conde": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "exam|protest|protest",
+    "norm": 63.2
   },
-  "over-20-students-of-kozhikode-college-suspended-after-group-": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "clash|clash|hospital|injured",
-    "norm": 70
+  "delhi-police-files-case-against-cjp-s-saurav-das-ashutosh-ra": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "election|election|election commission",
+    "norm": 59.7
   },
-  "supreme-court-stays-defamation-proceedings-against-rahul-gan": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "maharashtra|modi|modi|mp|rahul gandhi|supreme court",
-    "norm": 69.6
+  "children-among-8-killed-as-boat-carrying-around-20-people-ca": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "killed|killed",
+    "norm": 57.6
   },
-  "-witch-hunt-congress-mp-bimol-akoijam-slams-jnu-order-to-dis": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "congress|mp|parliament|slam|slams",
-    "norm": 68.6
+  "10-minors-dead-at-least-20-missing-after-boat-capsizes-in-bi": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "dead|dead",
+    "norm": 57.6
   },
-  "flydubai-incident-uae-detains-2-maldivian-co-pilots-who-were": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "attack|attack|captain",
-    "norm": 66.3
+  "breaking-yes-bank-manager-shot-in-amritsar-second-shooting-i": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "hospital|injured|shooting",
+    "norm": 56.6
   },
-  "-delhi-protest-will-go-on-even-without-jantar-mantar-kerala-": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "mp|protest|protest|rahul gandhi",
-    "norm": 65.3
+  "lord-malayappa-swamy-as-dwaraka-krishna-rides-chinna-sesha-h": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "vote|war",
+    "norm": 55.4
   },
-  "karnataka-to-explore-legal-options-to-challenge-high-court-v": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "bjp|congress|election|election|high court|verdict",
-    "norm": 65.1
-  },
-  "8-injured-in-south-korea-mall-stabbing-suspect-arrested": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "attack|attack|injured",
-    "norm": 64.5
-  },
-  "gandhinagar-civic-polls-bjp-wins-38-of-44-seats-congress-get": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "bjp|congress|election|election|poll|vote",
-    "norm": 63.4
-  },
-  "to-delhi-protest-query-uk-minister-s-big-praise-for-india-s-": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "minister|protest|protest",
-    "norm": 62.8
-  },
-  "jantar-mantar-no-longer-a-protest-site-all-about-ramlila-mai": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "opposition|protest|protest",
-    "norm": 62.8
-  },
-  "left-protestors-clash-with-police-in-patna-amid-protest-marc": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "clash|clash|protest|protest",
-    "norm": 62.5
-  },
-  "supreme-court-defers-hearing-pleas-related-to-october-10-pro": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "protest|protest|supreme court",
-    "norm": 61.1
-  },
-  "cjp-protests-sc-adjourns-pleas-against-detentions-restrictio": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "cji|protest|protest",
-    "norm": 61.1
-  },
-  "delhi-s-new-designated-protest-site-ramlila-maidan-not-free-": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "protest|protest|war",
-    "norm": 59.6
-  },
-  "bengaluru-bar-assault-ias-officer-3-others-booked-for-attack": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "attack|attack",
-    "norm": 59.3
-  },
-  "more-aiadmk-mlas-to-jump-ship-palaniswami-vs-sengottaiyan-tv": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "actor|minister|mla|mp",
-    "norm": 58.3
-  },
-  "after-fatal-nedumbassery-accident-keralam-govt-to-tighten-ac": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "accident|minister",
-    "norm": 57.1
-  },
-  "third-list-of-3-51-lakh-farmers-eligible-for-maharashtra-cro": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "lakh|maharashtra",
-    "norm": 57.1
-  },
-  "anti-cec-protests-live-cjp-alleges-detained-leaders-not-allo": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
+  "cjp-leaders-saurav-das-ashutosh-ranka-among-14-detained-book": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "pinarayi-vijayan-accuses-udf-govt-of-using-police-to-suppres": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "kkcci-invites-congress-president-mallikarjun-kharge-to-inaug": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "congress|president",
+    "norm": 48.7
   },
-  "madras-high-court-prevents-unauthorised-exhibition-of-rajini": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "high court|star",
-    "norm": 53.5
+  "india-bloc-s-march-for-democracy-sees-a-massive-mobilisation": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "congress|mp",
+    "norm": 48.7
   },
-  "rss-body-urges-blocking-starlink-cites-national-security-con": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "ruling|star",
-    "norm": 51.7
+  "-heights-of-irony-congress-hits-back-at-shah-over-2029-poll-": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "congress|poll",
+    "norm": 48.7
   },
-  "bangladesh-pm-assures-minorities-of-equal-rights-security": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "minister|prime minister",
-    "norm": 50.5
-  },
-  "madras-high-court-upholds-tamil-nadu-assembly-speaker-s-deci": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "high court|mla",
-    "norm": 50.5
-  },
-  "cec-gyanesh-kumar-has-no-option-but-to-resign-says-congress-": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "bjp|congress",
-    "norm": 50.5
-  },
-  "palaniswami-accuses-tvk-govt-of-orchestrating-power-procurem": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "scam",
+  "koodathil-case-crime-branch-uncovers-crucial-evidence-in-mys": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "death",
     "norm": 48.2
   },
-  "booking-a-train-ticket-7-things-to-know-before-choosing-betw": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
+  "kudumbashree-s-focus-on-nutrition-as-part-of-poshan-maah-obs": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "ronaldo-s-uae-golden-visa-how-he-keeps-residency-without-own": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "gold",
+    "norm": 46.3
+  },
+  "china-says-it-doesn-t-recognise-u-t-of-ladakh-spars-with-ind": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "china",
+    "norm": 45.9
+  },
+  "andhra-pradesh-researchers-feature-in-world-s-top-2-scientis": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
     "signature": "mp",
-    "norm": 45.9
-  },
-  "ytps-was-established-without-assured-coal-allotment-previous": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "response-to-allegations-of-illegal-detention-clampdown-ready": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "opinion-opinion-say-our-name-why-a-tiny-island-nation-wants-": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "president",
-    "norm": 45.9
-  },
-  "centre-approves-l-b-nagar-hayathnagar-double-decker-corridor": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "mdr-charges-on-upi-payments-will-be-implemented-post-diwali-": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "pakistan-angle-under-probe-delhi-police-files-4-firs-over-fa": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "pakistan",
     "norm": 44
   },
-  "transfer-of-30-63-lakh-farm-electricity-connections-to-rythu": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "lakh",
+  "mdr-on-upi-keralam-hotels-association-says-will-stop-accepti": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "mp",
     "norm": 44
   },
-  "delhi-hc-dismisses-spicejet-plea-for-extension-over-144-5-cr": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
-    "signature": "crore",
+  "awho-moves-hc-against-panel-directive-to-take-possession-of-": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
+    "signature": "army",
     "norm": 44
   },
-  "india-s-energy-future-a-balancing-act": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
+  "special-trains-from-keralam-for-festival-season-announced": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
     "signature": "",
     "norm": 36
   },
-  "durga-puja-2026-pandal-hopping-in-kolkata-these-apps-and-mus": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
+  "nhai-takes-up-tree-plantation-drive-along-ecr-between-mamall": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
     "signature": "",
     "norm": 36
   },
-  "sustainability-means-making-healthcare-accessible-and-afford": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
+  "national-child-rights-commission-directives-now-on-keralam-s": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "when-bertrand-russell-s-article-reminded-rabindranath-tagore": {
-    "firstSeen": "2026-10-13T09:19:32.615Z",
+  "45-acres-earmarked-for-incois-regional-centre-in-kakinada": {
+    "firstSeen": "2026-10-13T17:33:12.033Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   }
 }
