@@ -1,76 +1,36 @@
 {
-  "before-radar-britain-tried-to-hear-enemy-bombers-coming-usin": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "bomb|drone|war|warning",
-    "norm": 70
+  "-we-are-not-happy-trump-likely-to-fire-greece-ambassador-aft": {
+    "firstSeen": "2026-10-13T01:17:01.483Z",
+    "signature": "fire|fire|mp|trump|trump",
+    "norm": 75.3
   },
-  "14-defects-in-rahul-gandhi-s-sc-petition-against-ec-missing-": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "election|election|election commission|lok sabha|mp|opposition|rahul gandhi|supreme court",
-    "norm": 63.8
+  "police-crack-down-on-anti-sir-protesters-in-bengaluru-detain": {
+    "firstSeen": "2026-10-13T01:17:01.483Z",
+    "signature": "protest|protest|threat",
+    "norm": 59.6
+  },
+  "demolition-of-tribals-houses-in-m-p-draws-shivraj-s-anger-sa": {
+    "firstSeen": "2026-10-13T01:17:01.483Z",
+    "signature": "anger|vote",
+    "norm": 57.1
+  },
+  "delhi-police-accused-of-beating-assaulting-detainees-denying": {
+    "firstSeen": "2026-10-13T01:17:01.483Z",
+    "signature": "mp|row",
+    "norm": 57.1
   },
   "delhi-protests-against-cec-what-the-law-says-about-preventiv": {
     "firstSeen": "2026-10-12T18:59:43.230Z",
     "signature": "protest|protest|supreme court",
-    "norm": 61.1
+    "norm": 55.9
   },
-  "kerala-congress-sacks-worker-takes-down-chief-justice-post-a": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "bjp|congress|riot",
-    "norm": 59.7
-  },
-  "detained-in-assam-12-bangladeshis-claim-they-were-promised-w": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "border|slam",
-    "norm": 55.4
-  },
-  "sir-update-20-lakh-voter-discrepancies-resolved-ceo-assures-": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "lakh|vote",
-    "norm": 53.2
-  },
-  "-completely-incorrect-congress-disagrees-with-kerala-unit-s-": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "cji|congress|mp",
-    "norm": 50.9
-  },
-  "congress-seva-dal-seeks-case-against-bhaskar-rao-over-fake-n": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "congress|president",
-    "norm": 48.7
-  },
-  "washington-couple-says-utility-threatened-power-cut-unless-t": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "threat",
-    "norm": 46.3
-  },
-  "ysrcp-to-focus-on-digital-outreach-organisational-strength-f": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "poll",
-    "norm": 45.9
-  },
-  "three-day-brics-theatre-festival-begins-in-delhi-india-showc": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "brics",
-    "norm": 45.9
-  },
-  "andhra-pradesh-rti-commission-earns-national-recognition-for": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "low-pressure-over-bay-of-bengal-may-bring-rain-to-andhra-pra": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
+  "not-ruled-on-form-6-yet-neither-approved-nor-disapproved-it-": {
+    "firstSeen": "2026-10-13T01:17:01.483Z",
     "signature": "",
     "norm": 36
   },
-  "vijayawada-mayor-post-declared-unreserved-general-as-per-202": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "police-to-step-up-surveillance-on-airport-stretch": {
-    "firstSeen": "2026-10-12T18:59:43.230Z",
+  "today-s-nyt-strands-hints-spangram-and-answers-for-tuesday-o": {
+    "firstSeen": "2026-10-13T01:17:01.483Z",
     "signature": "",
     "norm": 33.9
   }
