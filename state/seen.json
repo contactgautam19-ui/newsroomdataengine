@@ -1,151 +1,66 @@
 {
-  "india-asks-its-nationals-in-saudi-arabia-to-remain-calm-and-": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "attack|attack|dead|dead|drone|iran",
-    "norm": 84.4
+  "anna-seve-app-to-be-available-across-karnataka-from-october-": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
+    "signature": "dead|dead|lakh|mp",
+    "norm": 75.5
   },
-  "former-supreme-court-judge-calls-for-constitutional-safeguar": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "high court|ipl|protest|protest|supreme court|vote",
-    "norm": 78.8
+  "cec-protests-bombay-high-court-says-won-t-allow-detentions-t": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
+    "signature": "bomb|high court|protest|protest",
+    "norm": 71.4
   },
-  "fareed-zakaria-on-trump-s-influence-and-america-s-deepening-": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "election|election|mp|president|trump|trump|war",
-    "norm": 77.9
+  "ensure-terror-does-not-find-haven-amit-shah-at-bimstec-meet": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
+    "signature": "amit shah|terror|terror",
+    "norm": 66
   },
-  "at-least-10-dead-after-boat-capsizes-in-bihar-s-vaishali": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "dead|dead|grief|rescue|rescue|tragic",
-    "norm": 77.3
+  "pm-modi-carney-reaffirm-push-to-seal-cepa-at-earliest-opport": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 63.5
   },
-  "fir-against-cjp-leaders-after-jantar-mantar-entry-breach-of-": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "election|election|election commission|protest|protest",
-    "norm": 75.3
-  },
-  "political-resistance-against-vote-chori-will-continue-not-as": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "opposition|protest|protest|rahul gandhi|vote",
-    "norm": 69
-  },
-  "anti-cec-protests-highlights-cjp-leaders-das-ranka-booked-fo": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "opposition|protest|protest|rahul gandhi|supreme court",
-    "norm": 69
-  },
-  "alleged-mobile-snatcher-caught-by-passengers-dragged-alongsi": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "video|viral|viral|viral",
-    "norm": 67.6
-  },
-  "opposition-announces-mission-to-restore-democracy-plans-indi": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "opposition|protest|protest|rahul gandhi",
-    "norm": 66.9
-  },
-  "police-action-against-protesting-students-in-mangaluru-conde": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "exam|protest|protest",
-    "norm": 63.2
-  },
-  "delhi-police-files-case-against-cjp-s-saurav-das-ashutosh-ra": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "election|election|election commission",
-    "norm": 59.7
-  },
-  "children-among-8-killed-as-boat-carrying-around-20-people-ca": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "killed|killed",
-    "norm": 57.6
-  },
-  "10-minors-dead-at-least-20-missing-after-boat-capsizes-in-bi": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "dead|dead",
-    "norm": 57.6
-  },
-  "breaking-yes-bank-manager-shot-in-amritsar-second-shooting-i": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "hospital|injured|shooting",
-    "norm": 56.6
-  },
-  "lord-malayappa-swamy-as-dwaraka-krishna-rides-chinna-sesha-h": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "vote|war",
+  "in-world-of-uncertainty-india-offers-reliability-stability-p": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
+    "signature": "modi|modi",
     "norm": 55.4
   },
-  "cjp-leaders-saurav-das-ashutosh-ranka-among-14-detained-book": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
+  "-whistle-blower-crpf-officer-seeks-probe-into-mistreatment-o": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "kkcci-invites-congress-president-mallikarjun-kharge-to-inaug": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "congress|president",
-    "norm": 48.7
+  "patna-high-court-acquits-13-accused-in-1996-jehanabad-quadru": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
+    "signature": "high court|mp|ruling",
+    "norm": 50.9
   },
-  "india-bloc-s-march-for-democracy-sees-a-massive-mobilisation": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "congress|mp",
-    "norm": 48.7
-  },
-  "-heights-of-irony-congress-hits-back-at-shah-over-2029-poll-": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "congress|poll",
-    "norm": 48.7
-  },
-  "koodathil-case-crime-branch-uncovers-crucial-evidence-in-mys": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "death",
-    "norm": 48.2
-  },
-  "kudumbashree-s-focus-on-nutrition-as-part-of-poshan-maah-obs": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "ronaldo-s-uae-golden-visa-how-he-keeps-residency-without-own": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "gold",
-    "norm": 46.3
-  },
-  "china-says-it-doesn-t-recognise-u-t-of-ladakh-spars-with-ind": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "china",
-    "norm": 45.9
-  },
-  "andhra-pradesh-researchers-feature-in-world-s-top-2-scientis": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "mp",
+  "bill-to-tweak-fcra-similar-to-upa-era-law-jpc-chief": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
+    "signature": "bill",
     "norm": 44
   },
-  "mdr-on-upi-keralam-hotels-association-says-will-stop-accepti": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "awho-moves-hc-against-panel-directive-to-take-possession-of-": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "army",
-    "norm": 44
-  },
-  "special-trains-from-keralam-for-festival-season-announced": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
+  "canada-pm-carney-to-be-republic-day-chief-guest-": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
     "signature": "",
     "norm": 36
   },
-  "nhai-takes-up-tree-plantation-drive-along-ecr-between-mamall": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
-    "signature": "",
-    "norm": 36
-  },
-  "national-child-rights-commission-directives-now-on-keralam-s": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
+  "-extra-love-for-cjp-dipke-says-leaders-still-detained-as-pol": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
     "signature": "",
     "norm": 33.9
   },
-  "45-acres-earmarked-for-incois-regional-centre-in-kakinada": {
-    "firstSeen": "2026-10-13T17:33:12.033Z",
+  "missing-head-of-khajuraho-idol-will-be-restored-soon-asi-chi": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "dgca-bans-a-particular-powerbank-on-all-flights": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "centre-orders-probe-into-student-suicide-at-iiit-ranchi": {
+    "firstSeen": "2026-10-13T22:38:29.520Z",
     "signature": "",
     "norm": 33.9
   }
