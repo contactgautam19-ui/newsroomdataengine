@@ -1,237 +1,212 @@
 {
-  "no-jobs-no-visas-wfi-prez-blasts-us-embassy-india-lost-out-o": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "blast|gold|jobs|mp|president",
+  "-unwarranted-and-unacceptable-india-slams-un-human-rights-of": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "election|election|election commission|protest|protest|slam|slams|war",
+    "norm": 85.1
+  },
+  "eci-extends-andhra-pradesh-sir-deadline-to-october-30-final-": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "dead|dead|election|election|election commission|vote",
+    "norm": 83.2
+  },
+  "anti-cec-protest-live-abhijeet-dipke-calls-for-lehra-do-tira": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "congress|iran|mp|opposition|protest|protest|rahul gandhi|supreme court",
+    "norm": 80.2
+  },
+  "white-house-controversy-katie-zakaria-s-brief-debut-raises-q": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "controversy|fuel|mp|trump|trump",
     "norm": 79.4
   },
-  "jantar-mantar-the-heartland-of-dissent-in-delhi-in-pictures": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "election|election|election commission|pictures|protest|protest",
-    "norm": 77.9
+  "pm-modi-to-inaugurate-ladakh-projects-worth-3-350-crore-tomo": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "crore|modi|modi|row",
+    "norm": 75.5
   },
-  "-abhijieet-dipke-cjp-funded-by-us-donors-singer-mary-millben": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "bjp|fund|minister|modi|modi|prime minister|singer",
-    "norm": 77.6
+  "punjab-drug-crisis-anti-drug-activist-jhota-shot-dead-on-fac": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "dead|dead|shock|shock|shocking",
+    "norm": 72.5
   },
-  "shiva-s-baraat-in-batman-s-mask-in-the-battle-of-cultural-na": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "bjp|congress|protest|protest|rahul gandhi|tax",
-    "norm": 75.3
+  "bjp-sc-morcha-alleges-neglect-of-sc-hostels-threatens-protes": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "bjp|protest|protest|threat",
+    "norm": 67.9
   },
-  "-putin-doesn-t-consider-trump-s-statements-strong-zelenskyy-": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "mp|slam|slams|trump|trump",
-    "norm": 75
-  },
-  "18-deaths-2-dozen-strikes-15-000-sqkm-lost-a-month-of-houthi": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "attack|attack|death|mp|war",
-    "norm": 73.5
-  },
-  "opposition-leaders-rally-against-legal-action-for-waving-nat": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "kejriwal|opposition|protest|protest|rally|rally",
-    "norm": 70
-  },
-  "cjp-acting-like-b-team-of-aap-why-no-protest-in-punjab-or-op": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "aap|opposition|protest|protest",
+  "congress-seeks-action-after-bjp-flag-allegedly-hoisted-at-pa": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "bjp|congress|protest|protest",
     "norm": 66.9
   },
-  "killing-of-parvinder-singh-jhota-punjab-s-drug-menace-and-th": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "dead|dead|hospital",
-    "norm": 64.5
+  "-protect-my-family-grieving-father-seeks-pm-modi-s-help-afte": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "modi|modi|shooting",
+    "norm": 66
   },
-  "-us-donors-funding-cjp-american-singer-mary-millben-asks-ind": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "fund|riot|singer",
-    "norm": 64.2
+  "karnataka-to-explore-legal-options-to-challenge-high-court-v": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "bjp|congress|election|election|high court|ruling|verdict",
+    "norm": 65.3
   },
-  "medical-store-owner-accused-of-killing-punjab-anti-drug-acti": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "injured|protest|protest",
+  "-no-trains-cancelled-during-protest-delhi-metro-to-supreme-c": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "mp|protest|protest|supreme court",
+    "norm": 65.3
+  },
+  "hot-air-balloon-operations-banned-at-a-tourism-centre-if-idu": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "accident|fire|fire|sudden",
+    "norm": 65.2
+  },
+  "tata-trusts-row-noel-son-neville-tata-move-bombay-hc-and-mum": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "bomb|record|row",
+    "norm": 64.9
+  },
+  "3-rebel-sp-mlas-join-bjp-ahead-of-2027-up-polls-abhay-singh-": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "bjp|election|election|mla|poll|rajya sabha",
+    "norm": 63.4
+  },
+  "-tiranga-is-my-pride-abhijeet-dipke-s-fresh-call-for-protest": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "iran|protest|protest",
     "norm": 63.2
   },
-  "annamalai-builds-gen-z-grassroots-network-ahead-of-tamil-nad": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "bjp|election|election|poll|vote",
-    "norm": 62.9
+  "cjp-s-dipke-announces-lehra-do-tiranga-protest-at-connaught-": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "iran|protest|protest",
+    "norm": 63.2
   },
-  "festive-break-not-retreat-india-bloc-to-hit-pause-on-anti-si": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "protest|protest|rahul gandhi",
+  "abvp-holds-protest-at-jnu-against-professor-accused-of-sexua": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "mp|protest|protest",
     "norm": 62.8
   },
-  "l-murugan-resigns-from-union-ministry-rajya-sabha-seat-setti": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "cabinet|minister|neet|rajya sabha",
-    "norm": 61.8
+  "breaking-death-penalty-for-muskan-rastogi-her-lover-sahil-in": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "death|navy|video",
+    "norm": 62.8
   },
-  "jantar-mantar-no-longer-a-protest-site-all-about-ramlila-mai": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "opposition|protest|protest",
+  "how-many-infiltrators-were-detected-deleted-and-deported-aft": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "amit shah|congress|crore|minister",
+    "norm": 61.4
+  },
+  "will-convicted-ex-mp-prajwal-revanna-be-shifted-to-hindalga-": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "mp|twist|war",
     "norm": 61.1
   },
-  "telangana-may-receive-rain-over-next-few-days-meteorologists": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "mp|record|record high",
-    "norm": 60.7
+  "blue-drum-case-from-brutal-murder-to-death-penalty-how-horri": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "brutal|death|record",
+    "norm": 57.9
   },
-  "india-s-trade-deficit-with-china-crosses-100-billion-in-2026": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "bill|billion|china|mp",
-    "norm": 59.7
+  "-flex-free-mumbai-drive-begins-officials-told-to-ensure-no-n": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "mp|war",
+    "norm": 55.4
   },
-  "-party-in-jail-a-call-in-up-man-s-death-linked-to-influencer": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "death|died|sharma",
-    "norm": 59.4
-  },
-  "palghar-case-arif-ayoub-shaikh-arrested-over-alleged-sexual-": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "maharashtra|record|video",
-    "norm": 58.3
-  },
-  "frankfurt-delhi-air-india-dreamliner-diverted-to-jaipur-afte": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "bomb|threat",
-    "norm": 57.6
-  },
-  "frankfurt-delhi-air-india-flight-diverted-to-jaipur-after-hi": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "alert|evacuat|hijack",
-    "norm": 56.6
-  },
-  "india-us-ironing-out-differences-on-trade-deal-nearing-landi": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "deal|jaishankar",
-    "norm": 55
-  },
-  "anti-cec-protest-live-aisa-condemns-arrests-of-cjp-s-saurav-": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
+  "mg-varsity-staff-stage-protest": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
     "signature": "protest|protest",
     "norm": 54.2
   },
-  "harvard-community-on-sir-protests-undermining-institutional-": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
+  "delhi-protests-pak-linked-handles-under-probe-for-fake-claim": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
     "signature": "protest|protest",
-    "norm": 54.2
+    "norm": 52.4
   },
-  "actor-selma-blair-bashed-her-head-during-violent-delta-incid": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "actor|hospital",
-    "norm": 53.9
+  "-what-is-your-fear-madras-hc-pulls-up-tamil-nadu-govt-over-d": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "fear|war",
+    "norm": 52.1
   },
-  "mark-zuckerberg-took-200-billion-ai-bet-before-knowing-it-wo": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "bill|billion",
-    "norm": 53.2
-  },
-  "new-governors-for-6-states-here-s-what-the-job-pays-and-powe": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "governor|lakh",
-    "norm": 53.2
-  },
-  "why-cji-surya-kant-said-no-to-rahul-gandhi-s-request-to-meet": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "cji|mp|rahul gandhi",
-    "norm": 52.7
-  },
-  "-not-middle-power-but-power-in-the-middle-eam-s-jaishankar-o": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "jaishankar|minister|sanction",
-    "norm": 50.9
-  },
-  "keralam-assembly-opposition-ldf-ruling-udf-trade-barbs-over-": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "opposition|ruling",
+  "prison-products-will-get-attractive-packaging-wider-market-h": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "minister|mp",
     "norm": 50.5
   },
-  "delhi-sir-case-supreme-court-assures-to-take-care-of-ec-move": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "supreme court|vote",
-    "norm": 48.7
+  "sc-st-voices-condemn-karnataka-hight-court-verdict-striking-": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "high court|verdict",
+    "norm": 50.5
   },
-  "scientific-landfill-at-ayyankuzhi-in-ernakulam-negotiated-pu": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "acquisition|crore",
-    "norm": 48.7
+  "brs-using-voice-tampering-and-ai-generated-images-to-malign-": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "congress|mp",
+    "norm": 50.5
   },
-  "telangana-sir-special-camps-on-october-15-16-to-help-enrol-o": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "mp|vote",
-    "norm": 48.7
-  },
-  "k-taka-drought-hit-taluks-rise-to-226-relief-memo-to-be-read": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "war",
+  "-punishing-guilty-also-dharma-meerut-court-judge-invokes-mah": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "death",
     "norm": 48.2
   },
-  "the-poet-and-his-patrons-tamil-nadu-s-ettayapuram-honours-su": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "tamil-nadu-family-related-to-nobel-peace-prize-winner-navi-p": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "neet",
+  "judge-cites-mahabharata-while-giving-death-penalty-in-blue-d": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "death",
     "norm": 46.3
   },
-  "after-rahul-gandhi-asaduddin-owaisi-moves-sc-against-sir-cou": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "rahul gandhi",
+  "-were-told-can-t-land-in-delhi-due-to-security-reasons-frank": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "hijack",
+    "norm": 46.3
+  },
+  "ttd-refutes-social-media-claims-of-agarbathi-shortage": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "lakh",
     "norm": 45.9
   },
-  "sc-to-hear-plea-on-october-28-against-ec-move-to-enrol-delet": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "vote",
+  "madras-hc-asks-tamil-nadu-police-why-rss-annual-route-march-": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "high court",
     "norm": 45.9
   },
-  "microplastics-worsen-fatty-liver-signs-especially-with-unhea": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
-    "signature": "mp",
+  "exclusive-need-to-strike-balance-canadian-foreign-minister-o": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
+    "signature": "minister",
     "norm": 44
   },
-  "-declare-emergency-officially-cjp-s-dipke-challenges-govt-af": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
+  "kps-schools-to-transform-education-in-karnataka-madhu-bangar": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
     "signature": "",
     "norm": 36
   },
-  "can-cjp-s-ashutosh-ranka-saurav-das-be-jailed-for-2-5-years-": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
+  "ttd-official-donates-five-indigenous-cows-to-gosamrakshanasa": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
     "signature": "",
     "norm": 36
   },
-  "repeated-legal-violations-social-media-incitement-delhi-poli": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
+  "private-bus-operators-to-begin-indefinite-hunger-strike-on-o": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
     "signature": "",
     "norm": 36
   },
-  "telangana-govt-illegally-acquiring-land-for-bullet-train-pro": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
+  "vettikavala-schools-teach-farming-through-harithasree-": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "iiit-ranchi-director-sent-on-leave-amid-stir-after-student-s": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
+  "13-senior-ttd-potu-workers-promoted-as-supervisors": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "india-urges-un-human-rights-mechanisms-to-avoid-politicisati": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
+  "here-are-the-big-stories-from-karnataka-today": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "hc-reserves-order-over-ias-amrapali-plea-for-allocation-to-t": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
+  "cheruvayal-raman-padma-shri-recipient-and-renowned-conservat": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "how-samacheer-kalvi-came-to-existence-in-tamil-nadu": {
-    "firstSeen": "2026-10-14T07:30:05.205Z",
+  "focus-on-reviving-karez-system-for-groundwater-recharge-in-b": {
+    "firstSeen": "2026-10-14T13:38:22.576Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
