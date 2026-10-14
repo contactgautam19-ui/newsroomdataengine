@@ -1,92 +1,302 @@
 {
-  "directorate-of-revenue-intelligence-seizes-30-crore-worth-of": {
-    "firstSeen": "2026-10-14T18:31:45.505Z",
-    "signature": "attack|attack|crore|mp|pakistan|policy|terror|terror",
-    "norm": 90.5
+  "not-seeking-to-attack-iran-again-before-israel-election-says": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "attack|attack|election|election|iran|israel|mp",
+    "norm": 81.9
+  },
+  "pakistani-pilots-banned-from-air-france-flights-to-israel-af": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "attack|attack|captain|israel|mp|pakistan",
+    "norm": 77.7
   },
   "us-needs-1-7m-skilled-workers-a-year-but-trump-s-visa-war-ri": {
     "firstSeen": "2026-10-14T18:31:45.505Z",
     "signature": "killed|killed|mp|trump|trump|war",
-    "norm": 84.5
+    "norm": 76.1
+  },
+  "jantar-mantar-row-acp-vivek-bhagat-alleges-casteist-slurs-by": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "election|election|election commission|mp|protest|protest|row",
+    "norm": 73.5
+  },
+  "267-indian-recruits-51-dead-77-untraced-sc-asks-mea-to-notif": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "dead|dead|fraud|mp|war",
+    "norm": 68.3
+  },
+  "israel-reinforces-troops-on-all-fronts-ahead-of-elections": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "army|election|election|israel|mp|surprise",
+    "norm": 67.1
+  },
+  "cjp-leaders-saurav-das-ashutosh-ranka-sent-to-five-day-judic": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "modi|modi|mp|protest|protest",
+    "norm": 66.5
+  },
+  "elon-musk-blames-trump-government-for-starshield-slowdown-in": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "mp|president|star|trump|trump",
+    "norm": 66.3
   },
   "breaking-india-alliance-ruined-psbs-sitharaman-slams-upa-ove": {
     "firstSeen": "2026-10-14T18:31:45.505Z",
     "signature": "alliance|deal|minister|slam|slams",
-    "norm": 74.6
+    "norm": 66.2
+  },
+  "sometimes-to-give-peace-to-the-living-the-dead-would-have-to": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "dead|dead|high court|mourning",
+    "norm": 62
+  },
+  "terrorist-operating-from-pak-declared-fugitive-in-kashmir-te": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "fund|slam|terror|terror",
+    "norm": 62
   },
   "-shocked-odisha-governor-s-will-work-for-bjp-remark-sparks-p": {
     "firstSeen": "2026-10-14T18:31:45.505Z",
     "signature": "bjp|governor|row|shock|shock",
-    "norm": 70.4
+    "norm": 61.3
   },
   "koder-house-fire-under-fresh-scrutiny-amid-probe-into-synago": {
     "firstSeen": "2026-10-14T18:31:45.505Z",
     "signature": "blaze|exam|fire|fire",
-    "norm": 66
+    "norm": 60.6
   },
-  "meerut-blue-drum-murder-case-court-sentences-victim-s-wife-h": {
-    "firstSeen": "2026-10-14T18:31:45.505Z",
+  "-massive-oil-gas-exploration-to-begin-in-our-beautiful-green": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "deal|mp|trump|trump",
+    "norm": 58.9
+  },
+  "kerala-synagogue-attack-police-target-us-based-handler-of-su": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "attack|attack|exam",
+    "norm": 58.9
+  },
+  "punjab-now-has-over-1-200-mohalla-clinics-bhagwant-mann-slam": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "chief minister|minister|opposition|slam|slams",
+    "norm": 57.8
+  },
+  "-blue-drum-murder-case-meerut-court-sentences-wife-partner-t": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
     "signature": "death|killed|killed",
-    "norm": 64.5
+    "norm": 57.4
+  },
+  "petitions-in-supreme-court-allege-police-excesses-during-del": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "cctv|footage|protest|protest|supreme court",
+    "norm": 56
+  },
+  "costlier-food-fuel-drive-september-wholesale-inflation-to-re": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "fuel|inflation|mp|price|record",
+    "norm": 56
+  },
+  "supreme-court-to-hear-rahul-gandhi-oppn-leaders-plea-against": {
+    "firstSeen": "2026-10-14T18:31:45.505Z",
+    "signature": "election|election|election commission|opposition|rahul gandhi|supreme court",
+    "norm": 54
   },
   "albania-anti-govt-protests-students-clash-with-cops-blaze-er": {
     "firstSeen": "2026-10-14T18:31:45.505Z",
     "signature": "blaze|clash|clash|protest|protest",
-    "norm": 62.2
+    "norm": 52.7
   },
-  "stock-market-today-dow-edges-lower-s-amp-p-500-and-nasdaq-sl": {
-    "firstSeen": "2026-10-14T18:31:45.505Z",
-    "signature": "mp|stock market|surprise",
-    "norm": 59
+  "-no-one-will-be-spared-bhagwant-mann-on-punjab-anti-drug-act": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "chief minister|minister|policy|war",
+    "norm": 52.3
   },
-  "sudden-showers-in-vellore-nearby-districts": {
-    "firstSeen": "2026-10-14T18:31:45.505Z",
-    "signature": "heavy rain|sudden",
-    "norm": 54.2
+  "atc-software-glitch-behind-air-india-false-hijack-scare-prob": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "hijack|war",
+    "norm": 51.8
   },
-  "delhi-bound-air-india-flight-issues-squawk-hijack-alert-dive": {
-    "firstSeen": "2026-10-14T18:31:45.505Z",
-    "signature": "alert|hijack",
-    "norm": 52.1
+  "jantar-mantar-blocked-new-sites-could-burn-a-hole-in-protest": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "lakh|protest|protest",
+    "norm": 51.5
   },
-  "supreme-court-to-hear-rahul-gandhi-oppn-leaders-plea-against": {
-    "firstSeen": "2026-10-14T18:31:45.505Z",
-    "signature": "rahul gandhi|supreme court",
-    "norm": 50.5
+  "houthis-building-missiles-with-chinese-parts-can-target-saud": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "defence|iran|israel",
+    "norm": 51.2
   },
-  "vit-to-install-65-led-streetlights-on-sathuvachari-vit-high-": {
-    "firstSeen": "2026-10-14T18:31:45.505Z",
-    "signature": "accident",
-    "norm": 48.2
+  "andhra-pradesh-local-body-elections-schedule-out-check-dates": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "election|election|election commission",
+    "norm": 50
+  },
+  "uk-woman-paid-5-for-ring-expert-later-valued-diamond-at-abou": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "exam|gold",
+    "norm": 49.4
+  },
+  "bengaluru-metro-facilitates-swift-transport-of-vital-organ-f": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "hospital|poll",
+    "norm": 45.4
+  },
+  "children-of-police-personnel-receive-58-30-lakh-in-incentive": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "lakh|war",
+    "norm": 45.4
+  },
+  "after-high-court-rap-central-agency-probes-alleged-illegal-m": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "exam|high court",
+    "norm": 45.4
+  },
+  "marco-rubio-to-skip-delhi-visit-mumbai-and-jamnagar-next-wee": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "mp|president|sanction",
+    "norm": 44.9
+  },
+  "rs-53k-crore-idbi-stake-sale-with-lic-takes-government-past-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "us-lawmaker-ilhan-omar-s-phone-seized-relatives-summoned-in-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "exam",
+    "norm": 43.5
+  },
+  "cross-border-racket-busted-woman-among-2-arrested-with-8-kg-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "border|crore",
+    "norm": 43
+  },
+  "tnpdcl-will-incur-additional-cost-of-5-crore-to-7-crore-per-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "crore|minister",
+    "norm": 43
+  },
+  "india-s-skyroot-bags-major-private-us-contract-after-vikram-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "mp|rbi",
+    "norm": 43
+  },
+  "capf-act-doesn-t-override-supreme-court-s-2025-verdict-ips-d": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "supreme court|verdict",
+    "norm": 38
+  },
+  "from-rbi-action-to-strategic-restructuring-timeline-of-idbi-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "crore|rbi",
+    "norm": 38
+  },
+  "today-s-nyt-strands-hints-spangram-and-answers-for-thursday-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "cardiology-dept-in-kozhikode-mch-in-need-of-critical-care": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "sanction",
+    "norm": 37.5
+  },
+  "short-term-warehousing-solution-introduced-at-blr-logistics-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "war",
+    "norm": 35.5
+  },
+  "saudi-arabia-overturns-death-sentence-for-sri-lankan-man": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "death",
+    "norm": 35.5
   },
   "cm-warns-energy-department-officials-of-action-including-sus": {
     "firstSeen": "2026-10-14T18:31:45.505Z",
     "signature": "war",
-    "norm": 46.3
+    "norm": 35.5
   },
-  "delhi-hc-seeks-fssai-s-stand-in-pil-case-against-non-dairy-a": {
-    "firstSeen": "2026-10-14T18:31:45.505Z",
-    "signature": "maharashtra",
-    "norm": 46.3
+  "prashanth-to-carry-golden-howdah-in-this-year-s-jamboo-savar": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "gold",
+    "norm": 35.5
   },
-  "yards-to-be-set-up-for-seized-vehicles-in-every-taluk-minist": {
-    "firstSeen": "2026-10-14T18:31:45.505Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "sic-to-seek-explanation-from-kochi-corporation-over-move-to-": {
-    "firstSeen": "2026-10-14T18:31:45.505Z",
+  "sc-order-to-clear-form-6-anomaly-will-come-october-28": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
     "signature": "",
     "norm": 33.9
+  },
+  "jake-johnson-lists-pasadena-home-with-pool-and-sauna-for-3-2": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "complaint-over-suspected-smuggling-of-fake-cigarettes-at-kem": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "agriculture-department-seizes-pesticides-worth-3-12-lakh-in-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "lakh",
+    "norm": 32.8
+  },
+  "northeast-monsoon-to-set-in-over-tamil-nadu-on-october-15-br": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "rs-130-crore-assets-attached-in-tirupati-laddoo-ghee-adulter": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "crore",
+    "norm": 32.8
+  },
+  "exclusive-new-zealand-s-commodore-dowling-stresses-need-for-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "defence",
+    "norm": 32.8
+  },
+  "after-musk-s-ambani-meltdown-rubio-to-visit-reliance-refiner": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "ambani",
+    "norm": 31
+  },
+  "couple-turned-scottish-church-into-home-and-bistro-now-asks-": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "engineering-management-courses-offer-diverse-career-opportun": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "man-kills-lover-burns-body-with-room-heater-over-marriage-de": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "cmfri-s-sti-hub-helps-set-up-84-micro-enterprises-in-eight-d": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "dgca-bans-specific-power-bank-on-flights": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "surat-medical-shop-owner-sold-animal-product-as-tonic-for-ch": {
+    "firstSeen": "2026-10-14T22:15:06.726Z",
+    "signature": "",
+    "norm": 21.2
   },
   "hope-s-ton-paul-s-five-for-sink-india-west-indies-level-seri": {
     "firstSeen": "2026-10-14T18:31:45.505Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   },
   "punjab-bandh-on-october-15-what-will-remain-open-and-closed-": {
     "firstSeen": "2026-10-14T18:31:45.505Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   }
 }
