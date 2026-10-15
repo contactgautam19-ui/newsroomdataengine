@@ -1,197 +1,72 @@
 {
-  "yemen-claims-over-700-houthis-killed-after-1-250-strikes-rai": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "attack|attack|killed|killed|president|result|war",
-    "norm": 89.2
+  "-satyagraha-website-launched-by-rahul-gandhi-what-is-it-": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
+    "signature": "election|election|election commission|protest|protest|rahul gandhi",
+    "norm": 77.2
   },
-  "-collapse-could-be-precipitous-super-el-ni-o-could-push-cora": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "anger|collapse|collapse|collapse|mp|record|war",
-    "norm": 85.3
+  "chaos-at-sp-s-gorakhpur-press-meet-as-leaders-clash-over-sea": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
+    "signature": "clash|clash|election|election",
+    "norm": 71.4
   },
-  "-they-will-meet-with-justice-smriti-irani-s-strong-message-a": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "bjp|congress|controversy|iran|minister|protest|protest|rahul gandhi|row",
-    "norm": 85.3
+  "rs-polls-bjp-fields-dinesh-arya-from-uttarakhand": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
+    "signature": "bjp|election|election|khan|poll|rajya sabha",
+    "norm": 69.7
   },
-  "delhi-ncr-weather-light-rain-thunderstorms-likely-on-october": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "heavy rain|storm|war|warning|weather",
-    "norm": 75.4
-  },
-  "smriti-irani-dares-rahul-gandhi-fight-uttar-pradesh-alone-bj": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "alliance|bjp|congress|election|election|iran|minister|rahul gandhi",
-    "norm": 70.4
-  },
-  "-15-cut-billions-in-contracts-opposition-alleges-corruption-": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "bill|billion|controversy|mp|opposition",
-    "norm": 70
-  },
-  "bjp-slams-rahul-gandhi-s-remarks-on-political-resistance-": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "bjp|congress|rahul gandhi|slam|slams",
-    "norm": 68.6
-  },
-  "from-ambani-to-zelenskyy-musk-mixes-business-with-politics": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "ambani|mp|president|row",
-    "norm": 68.3
-  },
-  "india-s-current-account-deficit-narrows-to-5-2-billion-in-au": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "bill|billion|rbi|row",
-    "norm": 68
-  },
-  "california-winery-faces-buyer-deadline-after-12-7m-judgment-": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "dead|dead|mp",
+  "search-operations-launched-after-suspected-terrorist-movemen": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
+    "signature": "mp|terror|terror",
     "norm": 66
   },
-  "local-body-polls-andhra-pradesh-sec-appoints-28-ias-officers": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "election|election|mp|poll|vote",
-    "norm": 64.6
+  "experts-poll-rbi-may-hike-rates-by-0-25-in-october-policy-am": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
+    "signature": "inflation|policy|poll|rbi|repo rate",
+    "norm": 63.9
   },
-  "sir-exercise-nine-lakh-names-dropped-from-uttarakhand-s-poll": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "khan|lakh|poll|vote",
-    "norm": 64.6
+  "bjp-rejects-allegations-of-voter-deletions-during-sir-defend": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
+    "signature": "bjp|congress|election|election|election commission|president|vote",
+    "norm": 63.7
   },
-  "congress-names-candidates-for-3-maharashtra-mlc-seats": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "congress|maharashtra",
-    "norm": 57.1
+  "organ-transplant-institute-in-kozhikode-to-be-completed-in-3": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
+    "signature": "chief minister|crore|minister|mp",
+    "norm": 59.7
   },
-  "apsrtc-employees-jac-seeks-cancellation-of-tenders-to-operat": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "mp|war",
-    "norm": 55.4
+  "bjp-using-sir-as-a-tool-of-electoral-genocide-says-prakash-r": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
+    "signature": "bjp|crore|vote",
+    "norm": 57.6
   },
-  "loop-road-fishermen-to-hold-black-flag-protest-on-sunday": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "-why-claim-more-after-recovering-rs-14-131-crore-karnataka-h": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "crore|high court",
-    "norm": 53.2
-  },
-  "apartment-residents-stage-protest-alleging-denial-of-ameniti": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
+  "pattinapakkam-new-secretariat-project-sparks-protest-from-ei": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "aiims-for-keralam-kozhikode-under-active-consideration-says-": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "chief minister|minister|mla|mp",
-    "norm": 52.1
-  },
-  "90-000-devotees-throng-vijayawada-kanaka-durga-temple-on-fif": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "mp|vote",
-    "norm": 50.5
-  },
-  "chief-minister-directs-officials-to-make-mysuru-flex-free-du": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "shiv-sena-dedicates-dussehra-rally-to-drought-hit-farmers-ek": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "rally|rally",
-    "norm": 50.2
-  },
-  "goldsmith-ends-life-outside-women-s-police-station": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "gold",
+  "no-reservation-for-obc-dalits-who-convert-sc": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
+    "signature": "war",
     "norm": 48.2
   },
-  "experts-discuss-roadmap-for-quantum-resistant-digital-infras": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "cry",
-    "norm": 48.2
+  "special-summary-revision-of-poll-roll-in-17-states": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
+    "signature": "poll",
+    "norm": 45.9
   },
-  "india-vs-west-indies-third-odi-hope-leads-from-the-front-as-": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "india vs",
-    "norm": 48.2
-  },
-  "kharge-and-rahul-hold-meet-to-spur-congress-youth-spearhead": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "congress",
-    "norm": 44
-  },
-  "tension-in-assam-s-jorhat-over-blinkit-employees-pro-cjp-slo": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
+  "elvis-presley-bought-beverly-hills-home-for-400-000-it-later": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
     "signature": "mp",
     "norm": 44
   },
-  "-ai-s-success-is-based-on-effective-bundling-of-technology-w": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
+  "panel-seeks-citizens-inputs-on-unnatural-demographic-shifts": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
     "signature": "",
     "norm": 36
   },
-  "stakeholders-sensitised-to-food-safety-norms-licensing": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
+  "after-jio-s-listing-ril-could-topple-tata-as-india-s-most-va": {
+    "firstSeen": "2026-10-15T22:11:05.103Z",
     "signature": "",
     "norm": 36
-  },
-  "remove-encroachment-to-ensure-right-of-way-for-students-kera": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 36
-  },
-  "government-to-set-up-centres-of-excellence-in-five-classical": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 36
-  },
-  "3-832-children-diagnosed-with-leprosy-as-india-targets-inter": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "no-rush-for-subsidised-onions-at-vijayawada-rythu-bazaars": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "cody-rhodes-wwe-comeback-how-did-his-aew-success-rebuild-his": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "egyptian-farmer-uncovers-28-foot-statue-believed-to-depict-b": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "150-million-year-old-bird-fossil-had-tiny-wings-and-dinosaur": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "saudi-executes-2-bangladeshis-over-immoral-act-inside-mecca-": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-false-accusations-maduro-wife-rejects-fresh-torture-allegat": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "delhi-customs-officials-seize-148-kg-of-suspected-cannabis-h": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "toddler-beside-her-uae-royal-passes-out-on-london-street-aft": {
-    "firstSeen": "2026-10-15T18:13:27.222Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
