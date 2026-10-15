@@ -1,71 +1,221 @@
 {
-  "cjp-congress-push-to-restore-protests-at-jantar-mantar-amid-": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "clash|clash|congress|opposition|protest|protest",
-    "norm": 73
+  "28-children-teacher-killed-as-school-roof-collapses-in-pakis": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "collapse|collapse|collapse|killed|killed|pakistan|war",
+    "norm": 86
   },
-  "uttarakhand-murder-victim-s-parents-briefly-detained-during-": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "congress|khan|protest|protest",
-    "norm": 69.6
+  "multiple-schools-in-delhi-receive-bomb-threats-security-pers": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "alert|bomb|ipl|mp|threat",
+    "norm": 80.7
   },
-  "ankita-bhandari-s-parents-released-after-detention-during-ov": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "bjp|governor|protest|protest",
-    "norm": 66.9
+  "devotee-from-srikakulam-gifts-75-lakh-gold-crown-to-kanaka-d": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "gold|lakh|mp|row|vote",
+    "norm": 79.4
   },
-  "inside-india-newsletter-billionaire-ambani-s-mega-ipo-faces-": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "ambani|bill|billion|ipo",
-    "norm": 64.6
+  "fbi-updates-on-openai-spy-device-case-saudi-national-arreste": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "fire|fire|photos|record|shock|shock|shocking",
+    "norm": 78.8
   },
-  "-india-have-totally-spoiled-sooryavanshi-s-confidence-ex-cri": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "captain|cricket|cricketer|sooryavanshi",
+  "heavy-rain-lashes-delhi-ncr-imd-issues-orange-alert": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "alert|heavy rain|ipl|mp|record|storm",
+    "norm": 78.7
+  },
+  "-rahul-gandhi-s-ideology-bjp-slams-congress-for-backing-neha": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "bjp|congress|protest|protest|rahul gandhi|slam|slams",
+    "norm": 76.4
+  },
+  "anti-cec-protest-live-supreme-court-likely-to-hear-rahul-gan": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "iran|protest|protest|rahul gandhi|supreme court",
+    "norm": 75.3
+  },
+  "mumbai-police-ask-actor-imran-khan-to-leave-india-by-october": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "actor|bjp|khan|mp|protest|protest",
+    "norm": 75.3
+  },
+  "swift-action-cbi-probe-life-imprisonment-uttarakhand-govt-de": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "governor|khan|mp|protest|protest",
+    "norm": 73.6
+  },
+  "aap-delhi-chief-files-complaint-over-life-threatening-assaul": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "aap|anger|mp|protest|protest|threat",
+    "norm": 72.8
+  },
+  "why-imran-khan-was-asked-to-leave-india-after-joining-mumbai": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "actor|bjp|khan|protest|protest",
+    "norm": 71.4
+  },
+  "rbi-s-rupee-rescue-isn-t-over-yet-here-s-what-may-come-next": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "rbi|record|rescue|rescue|rupee",
+    "norm": 70.7
+  },
+  "congress-files-complaint-against-bjp-councillor-r-sreelekha-": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "bjp|congress|mp|protest|protest|rahul gandhi",
+    "norm": 68.4
+  },
+  "person-converting-from-hinduism-to-islam-cannot-claim-backwa": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "high court|ruling|slam|supreme court|war",
+    "norm": 67
+  },
+  "bjp-says-objective-is-regime-change-after-neha-bora-s-remark": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "bjp|row|video",
+    "norm": 62.8
+  },
+  "sugarcane-farmers-welcome-central-committee-but-will-not-end": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "minister|protest|protest",
     "norm": 61.1
   },
-  "5-wickets-in-an-over-sa-bowler-makes-history-with-rare-feat-": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "cricket|record|watch",
-    "norm": 58.3
+  "hindu-converts-to-islam-can-t-claim-muslim-backward-quota-ru": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "slam|supreme court|war",
+    "norm": 60.8
   },
-  "code-7500-mystery-hijack-alert-forces-air-india-flight-diver": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "alert|hijack|mystery",
-    "norm": 57.9
+  "anti-drug-activist-s-murder-markets-private-schools-shut-at-": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "bjp|congress|war",
+    "norm": 59.7
   },
-  "weeks-after-judicial-panel-held-him-responsible-for-indore-w": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "slam|tragedy|war",
-    "norm": 56.6
+  "neha-bora-at-the-big-table-congress-s-left-turn-is-fuelling-": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "congress|fuel|rbi",
+    "norm": 57.6
   },
-  "-one-protest-says-rahul-after-arrest-of-cjp-members-oppn-vow": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
+  "idbi-bank-s-5-6-billion-sale-gives-centre-breathing-room-on-": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "bill|billion|deal",
+    "norm": 57.6
+  },
+  "fairfax-s-6-billion-idbi-bank-deal-signals-zest-for-india-s-": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "bill|billion|deal",
+    "norm": 57.6
+  },
+  "team-india-firms-up-plan-for-bumrah-one-india-a-match-before": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "bumrah|match",
+    "norm": 55.7
+  },
+  "a-tough-time-for-the-government-to-hold-sirimanotsavam-mayor": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "election|election",
+    "norm": 55.4
+  },
+  "delhi-builds-2-water-treatment-plants-for-850-crore-but-has-": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "crore|war",
+    "norm": 55.4
+  },
+  "-they-are-going-to-shut-down-connaught-place-delhi-hc-agrees": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
     "signature": "protest|protest",
-    "norm": 54.2
+    "norm": 52.4
   },
-  "mary-millben-abhijeet-dipke-exchange-barbs-over-cjp-funding": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "fund|singer",
-    "norm": 51.7
+  "keralam-assembly-opposition-walks-out-over-removal-of-fences": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "minister|opposition",
+    "norm": 50.5
   },
-  "loans-for-sir-hearing-lost-wages-but-no-clarity-on-voter-sta": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "vote",
+  "ensure-mahua-moitra-can-visit-constituency-without-hurdles-s": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "mp|supreme court",
+    "norm": 50.5
+  },
+  "defence-firm-smpp-may-face-suspension-over-corruption-charge": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "defence|mp",
+    "norm": 48.7
+  },
+  "death-sentence-first-night-in-jail-what-did-muskaan-sahil-we": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "death",
+    "norm": 48.2
+  },
+  "from-alia-bhatt-to-katrina-kaif-actors-associated-with-india": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "actor|khan",
+    "norm": 46.3
+  },
+  "10-month-old-daughter-s-future-uncertain-after-muskan-rastog": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "death",
+    "norm": 46.3
+  },
+  "bjp-targets-rahul-over-neha-bora-s-bangladesh-showed-us-the-": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "imf-backs-india-s-updated-gdp-methodology-calls-revision-wel": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "gdp",
+    "norm": 45.9
+  },
+  "october-10-detainees-provided-hot-fresh-good-meals-only-cell": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "mp",
     "norm": 44
   },
-  "no-cancellation-of-services-cut-in-metro-train-trips-on-octo": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
+  "rajendra-vishwanath-arlekar-takes-charge-as-full-time-govern": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "governor",
+    "norm": 44
+  },
+  "us-biotech-firm-completes-95-of-dodo-genome-targets-bird-s-p": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "thousands-of-us-based-techies-return-in-9-months-steep-salar": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "record",
+    "norm": 42.7
+  },
+  "what-is-an-oci-card-rules-explained-as-imran-khan-is-asked-t": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "khan",
+    "norm": 42.4
+  },
+  "vande-mataram-ramayana-and-more-bengaluru-man-s-golu-dolls-a": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "",
+    "norm": 36
+  },
+  "visakhapatnam-port-handles-50-million-tonnes-of-cargo-in-196": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "",
+    "norm": 36
+  },
+  "acp-vivek-bhagat-case-hc-refuses-urgent-hearing-on-journalis": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "",
+    "norm": 36
+  },
+  "no-bypass-no-blind-spots-india-tightens-security-rules-for-s": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
+    "signature": "",
+    "norm": 36
+  },
+  "jnu-students-enter-day-12-of-indefinite-hunger-strike-over-r": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
     "signature": "",
     "norm": 33.9
   },
-  "sc-cops-can-t-seek-digital-footprints-for-roving-probe": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "delhi-police-detains-ankita-bhandari-s-parents-oppn-leaders-": {
-    "firstSeen": "2026-10-15T01:24:55.538Z",
+  "florida-turns-hurricane-ian-pier-wreckage-into-300-ton-under": {
+    "firstSeen": "2026-10-15T07:20:41.280Z",
     "signature": "",
     "norm": 33.9
   }
