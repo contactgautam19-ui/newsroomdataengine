@@ -1,222 +1,177 @@
 {
-  "28-children-teacher-killed-as-school-roof-collapses-in-pakis": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "collapse|collapse|collapse|killed|killed|pakistan|war",
-    "norm": 86
+  "imran-khan-told-to-leave-india-the-immigration-law-and-the-r": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "election|election|election commission|khan|protest|protest",
+    "norm": 81.7
   },
-  "multiple-schools-in-delhi-receive-bomb-threats-security-pers": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "alert|bomb|ipl|mp|threat",
-    "norm": 80.7
+  "-liable-for-prosecution-what-the-leave-india-notice-to-bolly": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "actor|bollywood|bollywood|khan|war|warning",
+    "norm": 81
   },
-  "devotee-from-srikakulam-gifts-75-lakh-gold-crown-to-kanaka-d": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "gold|lakh|mp|row|vote",
-    "norm": 79.4
+  "anti-cec-protest-live-we-must-rise-above-political-ideologie": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "high court|iran|protest|protest|record",
+    "norm": 78.1
   },
-  "fbi-updates-on-openai-spy-device-case-saudi-national-arreste": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "fire|fire|photos|record|shock|shock|shocking",
-    "norm": 78.8
+  "anti-cec-protest-live-delhi-high-court-refuses-to-stop-cjp-s": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "high court|iran|protest|protest",
+    "norm": 72.9
   },
-  "heavy-rain-lashes-delhi-ncr-imd-issues-orange-alert": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "alert|heavy rain|ipl|mp|record|storm",
-    "norm": 78.7
+  "pm-modi-meets-asian-games-medal-winners-lauds-strong-perform": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "cricket|modi|modi|mp|pictures",
+    "norm": 72
   },
-  "-rahul-gandhi-s-ideology-bjp-slams-congress-for-backing-neha": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "bjp|congress|protest|protest|rahul gandhi|slam|slams",
-    "norm": 76.4
+  "-enlighten-us-on-the-prohibitory-orders-preserve-all-cctv-fo": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "cctv|footage|opposition|protest|protest|supreme court",
+    "norm": 71
   },
-  "anti-cec-protest-live-supreme-court-likely-to-hear-rahul-gan": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "iran|protest|protest|rahul gandhi|supreme court",
-    "norm": 75.3
+  "families-of-3-keralites-killed-in-germany-fire-seek-return-o": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "fire|fire|killed|killed",
+    "norm": 70
   },
-  "mumbai-police-ask-actor-imran-khan-to-leave-india-by-october": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "actor|bjp|khan|mp|protest|protest",
-    "norm": 75.3
+  "-women-can-be-charged-with-gang-rape-even-if-they-don-t-phys": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "high court|horrific|ipl|ruling",
+    "norm": 70
   },
-  "swift-action-cbi-probe-life-imprisonment-uttarakhand-govt-de": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "governor|khan|mp|protest|protest",
-    "norm": 73.6
+  "karnataka-police-seized-drugs-worth-850-crore-arrested-32-00": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "crore|rally|rally|war",
+    "norm": 69.4
   },
-  "aap-delhi-chief-files-complaint-over-life-threatening-assaul": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "aap|anger|mp|protest|protest|threat",
-    "norm": 72.8
+  "-i-m-a-team-player-will-work-as-full-back-new-punjab-congres": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "captain|congress|president|war",
+    "norm": 68.3
   },
-  "why-imran-khan-was-asked-to-leave-india-after-joining-mumbai": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "actor|bjp|khan|protest|protest",
-    "norm": 71.4
+  "farmers-stage-protest-opposing-land-acquisition-for-reliance": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "acquisition|protest|protest|war",
+    "norm": 67.9
   },
-  "rbi-s-rupee-rescue-isn-t-over-yet-here-s-what-may-come-next": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "rbi|record|rescue|rescue|rupee",
-    "norm": 70.7
+  "atiq-ahmed-s-former-stronghold-renamed-shrikrishnapuri-1-200": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "war|warning|yogi",
+    "norm": 67.6
   },
-  "congress-files-complaint-against-bjp-councillor-r-sreelekha-": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "bjp|congress|mp|protest|protest|rahul gandhi",
-    "norm": 68.4
+  "congress-govt-shirking-responsibility-towards-sugarcane-farm": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "bjp|congress|president|war",
+    "norm": 63.5
   },
-  "person-converting-from-hinduism-to-islam-cannot-claim-backwa": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "high court|ruling|slam|supreme court|war",
-    "norm": 67
+  "death-registration-in-india-documents-required-process-and-d": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "dead|dead|death",
+    "norm": 62.9
   },
-  "bjp-says-objective-is-regime-change-after-neha-bora-s-remark": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "bjp|row|video",
+  "amid-ongoing-protest-bmc-approves-180-days-of-paid-maternity": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "mp|protest|protest",
     "norm": 62.8
   },
-  "sugarcane-farmers-welcome-central-committee-but-will-not-end": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "minister|protest|protest",
-    "norm": 61.1
-  },
-  "hindu-converts-to-islam-can-t-claim-muslim-backward-quota-ru": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "slam|supreme court|war",
-    "norm": 60.8
-  },
-  "anti-drug-activist-s-murder-markets-private-schools-shut-at-": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "bjp|congress|war",
+  "ht-evening-brief-oct-15-abhijeet-dipke-gets-go-ahead-for-cp-": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "khan|protest|protest",
     "norm": 59.7
   },
-  "neha-bora-at-the-big-table-congress-s-left-turn-is-fuelling-": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "congress|fuel|rbi",
+  "cjp-protest-in-connaught-place-tomorrow-after-delhi-hc-gives": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "protest|protest|row",
+    "norm": 59.6
+  },
+  "man-who-tore-kodiyeri-flex-board-in-sfi-rally-expresses-regr": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "congress|rally|rally|video",
+    "norm": 59.3
+  },
+  "-anything-possible-in-politics-pilot-on-rumours-over-amarind": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "bjp|captain|congress|mp",
+    "norm": 58.3
+  },
+  "india-bloc-leaders-in-tamil-nadu-stage-protest-against-sir-s": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "protest|protest|threat",
+    "norm": 57.9
+  },
+  "two-migrant-workers-killed-as-borewell-rig-overturns-onto-ho": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "killed|killed",
     "norm": 57.6
   },
-  "idbi-bank-s-5-6-billion-sale-gives-centre-breathing-room-on-": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "bill|billion|deal",
-    "norm": 57.6
+  "northeast-monsoon-sets-in-over-keralam-yellow-alert-for-stat": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "alert|mp",
+    "norm": 57.1
   },
-  "fairfax-s-6-billion-idbi-bank-deal-signals-zest-for-india-s-": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "bill|billion|deal",
-    "norm": 57.6
+  "-your-success-not-just-yours-pm-modi-hails-athletes-after-85": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "modi|modi",
+    "norm": 57.1
   },
-  "team-india-firms-up-plan-for-bumrah-one-india-a-match-before": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "bumrah|match",
-    "norm": 55.7
-  },
-  "a-tough-time-for-the-government-to-hold-sirimanotsavam-mayor": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "election|election",
+  "55-year-old-spo-goes-missing-in-jammu-and-kashmir-s-kishtwar": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "mp|war",
     "norm": 55.4
   },
-  "delhi-builds-2-water-treatment-plants-for-850-crore-but-has-": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "crore|war",
-    "norm": 55.4
+  "aiadmk-submits-representation-to-governor-seeking-action-aga": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "governor|minister|mla",
+    "norm": 52.7
   },
-  "-they-are-going-to-shut-down-connaught-place-delhi-hc-agrees": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
+  "-we-all-want-regime-change-prashant-bhushan-on-agenda-behind": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "keralam-assembly-opposition-walks-out-over-removal-of-fences": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "minister|opposition",
+  "akhilesh-s-anti-bjp-formula-for-up-pda-muslim-yadav-votes-an": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "bjp|vote",
     "norm": 50.5
   },
-  "ensure-mahua-moitra-can-visit-constituency-without-hurdles-s": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "mp|supreme court",
-    "norm": 50.5
-  },
-  "defence-firm-smpp-may-face-suspension-over-corruption-charge": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "defence|mp",
+  "bjp-congress-workers-spar-over-who-got-bengaluru-ernakulam-t": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "bjp|congress",
     "norm": 48.7
   },
-  "death-sentence-first-night-in-jail-what-did-muskaan-sahil-we": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "death",
+  "-only-the-process-ganesh-mani-ratnam-on-his-asian-games-gold": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "gold",
     "norm": 48.2
   },
-  "from-alia-bhatt-to-katrina-kaif-actors-associated-with-india": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "actor|khan",
-    "norm": 46.3
-  },
-  "10-month-old-daughter-s-future-uncertain-after-muskan-rastog": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "death",
-    "norm": 46.3
-  },
-  "bjp-targets-rahul-over-neha-bora-s-bangladesh-showed-us-the-": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "bjp",
+  "what-is-ankita-bhandari-murder-case-timeline-of-events-and-v": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
+    "signature": "governor",
     "norm": 45.9
-  },
-  "imf-backs-india-s-updated-gdp-methodology-calls-revision-wel": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "gdp",
-    "norm": 45.9
-  },
-  "october-10-detainees-provided-hot-fresh-good-meals-only-cell": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "mp",
-    "norm": 44
   },
   "rajendra-vishwanath-arlekar-takes-charge-as-full-time-govern": {
     "firstSeen": "2026-10-15T07:20:41.280Z",
     "signature": "governor",
-    "norm": 44
+    "norm": 40.8
   },
-  "us-biotech-firm-completes-95-of-dodo-genome-targets-bird-s-p": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "thousands-of-us-based-techies-return-in-9-months-steep-salar": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "record",
-    "norm": 42.7
-  },
-  "what-is-an-oci-card-rules-explained-as-imran-khan-is-asked-t": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "khan",
-    "norm": 42.4
-  },
-  "vande-mataram-ramayana-and-more-bengaluru-man-s-golu-dolls-a": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
+  "3d-concrete-printing-houses-breaking-ground-in-andhra-prades": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
     "signature": "",
     "norm": 36
   },
-  "visakhapatnam-port-handles-50-million-tonnes-of-cargo-in-196": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
+  "domestic-help-tied-to-chair-beaten-over-suspicion-of-theft-b": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
     "signature": "",
     "norm": 36
   },
-  "acp-vivek-bhagat-case-hc-refuses-urgent-hearing-on-journalis": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
+  "cmrl-payoff-case-setback-for-pinarayi-vijayan-kin-as-kerala-": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
     "signature": "",
     "norm": 36
   },
-  "no-bypass-no-blind-spots-india-tightens-security-rules-for-s": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
+  "-govt-hell-bent-on-crushing-democracy-prashant-bhushan-calls": {
+    "firstSeen": "2026-10-15T13:21:02.756Z",
     "signature": "",
     "norm": 36
-  },
-  "jnu-students-enter-day-12-of-indefinite-hunger-strike-over-r": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "florida-turns-hurricane-ian-pier-wreckage-into-300-ton-under": {
-    "firstSeen": "2026-10-15T07:20:41.280Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
