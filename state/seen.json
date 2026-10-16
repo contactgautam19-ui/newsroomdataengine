@@ -1,136 +1,111 @@
 {
-  "undeniable-destabilisation-plot-toppling-modi-government-is-": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "bjp|fire|fire|modi|modi|mp|opposition|protest|protest",
-    "norm": 91.4
+  "unable-to-distinguish-between-victim-and-perpetrator-india-s": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "brutal|ipl|lok sabha|mp|pakistan|slam|slams",
+    "norm": 79.3
   },
-  "mod-signs-661-5-crore-contract-with-brahmos-aerospace-for-na": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "crore|fire|fire|navy|war",
-    "norm": 80.7
+  "modi-gave-people-confidence-in-a-crisis-says-satya-kumar-yad": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "exam|gst|ipl|minister|modi|modi|mp|prime minister",
+    "norm": 78.4
   },
-  "cjp-tiranga-protest-live-detention-locations-of-dipke-and-ne": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "iran|kejriwal|mamata|protest|protest",
-    "norm": 76.8
+  "why-the-election-commission-refused-rahul-gandhi-s-request-t": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "election|election|election commission|opposition|protest|protest|rahul gandhi",
+    "norm": 78.2
   },
-  "delhi-tiranga-protest-fir-to-be-filed-against-neha-bora-abhi": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "iran|president|protest|protest",
-    "norm": 72.9
+  "cjp-tiranga-protest-live-neha-bora-meets-lawyers-after-deten": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "iran|kejriwal|mamata|opposition|protest|protest",
+    "norm": 77.2
   },
-  "delhi-tiranga-protest-150-detained-as-dipke-neha-bora-taken-": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "iran|president|protest|protest",
-    "norm": 72.9
+  "yemen-s-government-controlled-city-of-aden-attacked-in-houth": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "attack|attack|iran|mp",
+    "norm": 75.9
   },
-  "qr-code-fraud-police-register-case-against-six-toll-plaza-em": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "fraud|mp|toll",
-    "norm": 66
+  "naidu-to-meet-modi-in-delhi-seek-approval-for-visakhapatnam-": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "chief minister|minister|modi|modi",
+    "norm": 61.8
   },
-  "officials-told-to-gear-up-for-urban-local-body-polls-in-a-p-": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "election|election|election commission|poll",
-    "norm": 63.5
+  "bombay-hc-questions-eci-over-deletion-of-voter-names-during-": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "bomb|vote",
+    "norm": 55.4
   },
-  "-waving-tiranga-is-no-crime-opposition-rallies-behind-neha-b": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "bjp|iran|kejriwal|opposition|pakistan",
-    "norm": 62.9
+  "telangana-people-s-front-seeks-three-urgent-interventions-to": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "budget|mp",
+    "norm": 55
   },
-  "-bhaag-neha-bhaag-jantar-mantar-chalo-delhi-protests-inspire": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "crowd|protest|protest|row|video",
-    "norm": 62.2
+  "indianapolis-removes-127-year-old-dam-to-restore-white-river": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "fund|mp",
+    "norm": 53.2
   },
-  "israeli-settlers-in-west-bank-burn-trees-throw-rocks-during-": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "israel|row",
-    "norm": 57.6
-  },
-  "eci-orders-special-summary-revision-of-electoral-rolls-in-ma": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "election|election",
-    "norm": 57.1
-  },
-  "bjp-to-hold-seva-jyothi-yatra-across-andhra-pradesh-on-octob": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "bjp|sharma|star",
-    "norm": 57.1
-  },
-  "supreme-court-grants-bail-to-former-rajasthan-minister-in-ja": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "high court|minister|supreme court",
-    "norm": 52.7
-  },
-  "anti-cec-protest-farmers-to-march-to-delhi-on-october-23": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "protest|protest",
+  "sexual-abuse-of-boys-62-pocso-cases-recorded-in-telangana-in": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "fear|record",
     "norm": 52.4
   },
-  "ny-firm-elevenlabs-partners-with-karnataka-govt-to-boost-voi": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "mp",
-    "norm": 45.9
+  "delhi-high-court-judge-strength-rises-to-50-with-new-appoint": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "high court|sanction",
+    "norm": 48.7
   },
-  "hyderabad-court-sentences-two-men-to-four-days-imprisonment-": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "mp",
-    "norm": 45.9
+  "pre-filled-form-7-muslim-voter-deletions-linked-to-bjp-alleg": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "bjp|vote",
+    "norm": 48.7
   },
-  "56-ayushman-arogya-mandirs-launched-in-kurnool-and-anantapur": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "minister",
-    "norm": 45.9
+  "telangana-sir-blos-being-forced-to-accept-form-7s-without-si": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "minister-p-k-kunhalikutty-visits-sandbox-mini-tech-park-at-g": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "minister",
-    "norm": 44
+  "nscn-leaders-retract-rss-related-statement-on-former-nagalan": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "4-400-village-health-clinics-will-get-new-buildings-by-march": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "minister",
-    "norm": 44
+  "cyber-fraud-victims-face-delays-and-little-accountability-fr": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "fraud",
+    "norm": 46.3
   },
-  "court-sentences-man-to-47-years-ri-for-sexually-assaulting-m": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
+  "nantucket-mansion-bought-for-13-95m-now-asks-45m-could-set-s": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "record",
+    "norm": 40.7
+  },
+  "sylvester-stallone-gave-200-000-after-daughter-s-heart-surge": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
     "signature": "",
     "norm": 36
   },
-  "a-p-government-gives-nod-for-new-rajamahendravaram-police-co": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "",
-    "norm": 36
-  },
-  "fssai-licences-of-nine-restaurants-in-telangana-s-medak-kama": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "",
-    "norm": 36
-  },
-  "deputy-cm-asks-officials-to-resolve-pending-problems-of-sing": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "",
-    "norm": 36
-  },
-  "official-apathy-and-civic-indifference-blamed-for-garbage-fi": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "",
-    "norm": 36
-  },
-  "assessment-of-infrastructure-requirements-in-villupuram-to-b": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
-    "signature": "",
-    "norm": 36
-  },
-  "teacher-arrested-under-pocso-act-for-sexually-harassing-a-13": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
+  "demolition-of-artificial-waterfalls-in-private-resorts-bunga": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
     "signature": "",
     "norm": 33.9
   },
-  "jordan-spieth-s-foundation-donates-10m-how-has-it-helped-137": {
-    "firstSeen": "2026-10-16T17:21:17.780Z",
+  "women-are-twice-as-likely-to-use-public-transport-for-work-c": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "indian-jailed-for-life-for-murder-of-woman-he-met-at-a-broth": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "daily-quiz-on-asian-games-2026": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "government-order-dropping-six-water-metro-terminals-in-keral": {
+    "firstSeen": "2026-10-16T20:59:29.322Z",
     "signature": "",
     "norm": 33.9
   }
