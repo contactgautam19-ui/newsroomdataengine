@@ -1,111 +1,41 @@
 {
-  "unable-to-distinguish-between-victim-and-perpetrator-india-s": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "brutal|ipl|lok sabha|mp|pakistan|slam|slams",
-    "norm": 79.3
+  "iran-denies-saudi-accusation-of-involvement-in-houthi-attack": {
+    "firstSeen": "2026-10-16T23:30:48.129Z",
+    "signature": "attack|attack|iran|israel",
+    "norm": 73
   },
-  "modi-gave-people-confidence-in-a-crisis-says-satya-kumar-yad": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "exam|gst|ipl|minister|modi|modi|mp|prime minister",
-    "norm": 78.4
+  "ministers-pitch-andhra-pradesh-as-global-manufacturing-hub-a": {
+    "firstSeen": "2026-10-16T23:30:48.129Z",
+    "signature": "crore|lakh|minister|row|summit",
+    "norm": 72
   },
-  "why-the-election-commission-refused-rahul-gandhi-s-request-t": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "election|election|election commission|opposition|protest|protest|rahul gandhi",
-    "norm": 78.2
+  "mea-calls-on-u-s-to-ensure-safety-security-of-indians-after-": {
+    "firstSeen": "2026-10-16T23:30:48.129Z",
+    "signature": "attack|attack|mp|shooting",
+    "norm": 71
   },
-  "cjp-tiranga-protest-live-neha-bora-meets-lawyers-after-deten": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "iran|kejriwal|mamata|opposition|protest|protest",
-    "norm": 77.2
+  "pm-modi-trump-to-meet-in-manila-next-month-": {
+    "firstSeen": "2026-10-16T23:30:48.129Z",
+    "signature": "modi|modi|mp|trump|trump",
+    "norm": 68.6
   },
-  "yemen-s-government-controlled-city-of-aden-attacked-in-houth": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "attack|attack|iran|mp",
-    "norm": 75.9
-  },
-  "naidu-to-meet-modi-in-delhi-seek-approval-for-visakhapatnam-": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "chief minister|minister|modi|modi",
-    "norm": 61.8
-  },
-  "bombay-hc-questions-eci-over-deletion-of-voter-names-during-": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "bomb|vote",
-    "norm": 55.4
-  },
-  "telangana-people-s-front-seeks-three-urgent-interventions-to": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "budget|mp",
-    "norm": 55
-  },
-  "indianapolis-removes-127-year-old-dam-to-restore-white-river": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "fund|mp",
-    "norm": 53.2
-  },
-  "sexual-abuse-of-boys-62-pocso-cases-recorded-in-telangana-in": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "fear|record",
+  "putin-agrees-to-cooperate-with-pope-leo-s-plea-for-aid-for-u": {
+    "firstSeen": "2026-10-16T23:30:48.129Z",
+    "signature": "fire|fire",
     "norm": 52.4
   },
-  "delhi-high-court-judge-strength-rises-to-50-with-new-appoint": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "high court|sanction",
-    "norm": 48.7
+  "race-for-gvmc-polls-intensifies-in-visakhapatnam-administrat": {
+    "firstSeen": "2026-10-16T23:30:48.129Z",
+    "signature": "poll",
+    "norm": 44
   },
-  "pre-filled-form-7-muslim-voter-deletions-linked-to-bjp-alleg": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "bjp|vote",
-    "norm": 48.7
-  },
-  "telangana-sir-blos-being-forced-to-accept-form-7s-without-si": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "nscn-leaders-retract-rss-related-statement-on-former-nagalan": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "cyber-fraud-victims-face-delays-and-little-accountability-fr": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "fraud",
-    "norm": 46.3
-  },
-  "nantucket-mansion-bought-for-13-95m-now-asks-45m-could-set-s": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "record",
-    "norm": 40.7
-  },
-  "sylvester-stallone-gave-200-000-after-daughter-s-heart-surge": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
+  "zam-2-0-north-korea-tests-high-speed-ai-guided-torpedo-what-": {
+    "firstSeen": "2026-10-16T23:30:48.129Z",
     "signature": "",
     "norm": 36
   },
-  "demolition-of-artificial-waterfalls-in-private-resorts-bunga": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "women-are-twice-as-likely-to-use-public-transport-for-work-c": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "indian-jailed-for-life-for-murder-of-woman-he-met-at-a-broth": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "daily-quiz-on-asian-games-2026": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "government-order-dropping-six-water-metro-terminals-in-keral": {
-    "firstSeen": "2026-10-16T20:59:29.322Z",
+  "north-korea-tests-new-ai-equipped-torpedo-report": {
+    "firstSeen": "2026-10-16T23:30:48.129Z",
     "signature": "",
     "norm": 33.9
   }
