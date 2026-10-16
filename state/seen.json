@@ -1,231 +1,161 @@
 {
-  "delhi-on-high-alert-ahead-of-cjp-s-tiranga-rally-6-000-secur": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "alert|iran|protest|protest|rally|rally",
-    "norm": 83.5
+  "cjp-tiranga-protest-live-dipke-neha-detained-by-delhi-police": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "iran|protest|protest|star|war",
+    "norm": 76.5
+  },
+  "bengaluru-police-allow-cjp-s-tiranga-yatra-from-town-hall-to": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "iran|protest|protest",
+    "norm": 64.9
+  },
+  "don-t-try-to-bulldoze-bill-again-call-all-party-meet-to-disc": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "bill|minister|modi|modi|opposition|prime minister|rajya sabha",
+    "norm": 63.7
+  },
+  "opposition-is-to-oppose-expose-depose-congress-pranab-remind": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "congress|defence|minister|opposition|president|war",
+    "norm": 63.4
+  },
+  "abhijeet-dipke-detained-by-delhi-police-ahead-of-lehra-do-ti": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "iran|protest|protest",
+    "norm": 63.2
   },
   "cjp-tiranga-protest-live-massive-security-for-cjp-s-tiranga-": {
     "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "iran|mp|protest|protest|supreme court",
-    "norm": 76.8
-  },
-  "another-anti-drug-activist-killed-in-punjab-bikram-jeet-sing": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "attack|attack|killed|killed|watch",
-    "norm": 74.9
-  },
-  "supreme-court-on-delhi-protest-row-cjp-rally-connaught-place": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "protest|protest|rally|rally|row|supreme court",
-    "norm": 74.6
-  },
-  "kiren-rijiju-slams-prashant-bhushan-over-regime-change-remar": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "congress|controversy|minister|protest|protest|slam|slams",
-    "norm": 74.1
-  },
-  "will-award-compensation-if-delhi-protests-impact-traders-dai": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "mp|protest|protest|supreme court|war",
-    "norm": 70.4
-  },
-  "export-levy-on-petrol-hiked-diesel-lowered": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "diesel|fuel|mp|petrol|petrol",
-    "norm": 70
-  },
-  "mha-to-seek-responses-from-punjab-govt-on-recent-narcotics-r": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "amit shah|death|row|threat",
-    "norm": 65.1
-  },
-  "pci-issues-safety-guidelines-for-journalists-covering-protes": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "injured|protest|protest",
-    "norm": 64.9
-  },
-  "delhi-riots-2020-supreme-court-adjourns-hearing-on-athar-kha": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "khan|riot|supreme court",
-    "norm": 64.2
-  },
-  "actor-imran-khan-to-move-hc-against-notice-asking-him-to-lea": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "actor|khan|protest|protest",
+    "signature": "iran|protest|protest",
     "norm": 63.2
   },
-  "malegaon-court-awards-death-sentence-to-man-convicted-of-rap": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "death|exam|war",
-    "norm": 62.9
-  },
-  "a-mothership-for-drones-a-testbed-for-weapons-what-ins-samar": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "drone|navy|war",
-    "norm": 62.8
-  },
-  "fubu-founder-daymond-john-turned-40-fabric-budget-into-brand": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "budget|ipl|star",
+  "albert-theatre-the-fading-of-rajini-s-fortress-in-madras": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "death|film|mp",
     "norm": 62.5
   },
-  "-hope-better-sense-prevails-sc-on-cjp-s-tiranga-march-after-": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "iran|mp|supreme court",
+  "bjp-bjd-spar-over-student-union-elections-in-odisha": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "bjp|election|election",
     "norm": 61.4
   },
-  "sudha-yadav-sworn-in-as-karnataka-governor-second-woman-to-h": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "governor|mp|war",
-    "norm": 61.4
+  "delhi-police-issues-detailed-traffic-advisory-after-dipke-s-": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "iran|war",
+    "norm": 57.6
   },
-  "pinarai-vijayan-challenges-fir-in-supreme-court-amid-politic": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "congress|high court|mp|supreme court|watch",
-    "norm": 59.7
-  },
-  "punjab-s-drug-crisis-escalates-ahead-of-elections-law-and-or": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "election|election|mp",
-    "norm": 59.7
-  },
-  "india-and-russia-begin-naval-wargame-indra-in-russian-waters": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "navy|war",
-    "norm": 57.1
-  },
-  "escalation-in-hostilities-in-west-asia-deeply-worrying-india": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "diplomacy|ipl",
-    "norm": 57.1
-  },
-  "mumbai-tops-india-s-pollution-list-beats-delhi-what-the-late": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "poll|weather",
-    "norm": 57.1
-  },
-  "india-defends-electoral-process-after-us-congresswoman-s-cri": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "congress|row",
+  "-i-am-alone-dipke-argues-with-cops-as-they-take-him-in-custo": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "protest|protest|watch",
     "norm": 55.4
   },
-  "wild-elephant-tramples-80-year-old-woman-to-death-in-keralam": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "death|mp",
+  "delhi-hc-allows-activist-natasha-narwal-to-travel-to-uk-for-": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "high court|riot",
     "norm": 55.4
   },
-  "pm-modi-to-visit-to-canada-on-december-11-and-12": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "modi|modi",
-    "norm": 55.4
+  "bengaluru-police-order-2021-unconstitutional-must-be-revoked": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "protest|protest",
+    "norm": 54.2
   },
-  "ranabaali-movie-release-and-review-live-vijay-rashmika-s-fil": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "film|movie|mp",
-    "norm": 55.4
+  "kochi-synagogue-fire-who-is-the-accused-probe-into-extremist": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "fire|fire",
+    "norm": 54.2
   },
-  "britain-sized-doomsday-glacier-is-melting-faster-than-feared": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "fear|war",
+  "bengaluru-namma-metro-to-extend-services-for-t20-cricket-mat": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "cricket|match",
     "norm": 53.9
   },
-  "delhi-riots-2020-sc-adjourns-hearing-on-athar-khan-s-bail-pl": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "khan|riot",
+  "supreme-court-issues-notices-to-mp-sanjay-raut-journalist-ni": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "cji|mp|president|supreme court",
     "norm": 53.9
   },
-  "id-cards-first-aid-kits-escape-routes-press-council-s-guidel": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
+  "-against-ec-and-govt-vck-chief-says-tvk-to-soon-join-india-b": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
     "signature": "protest|protest",
     "norm": 52.4
   },
-  "joni-mitchell-becomes-us-citizen-at-82-six-decades-after-mov": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "mp|singer",
-    "norm": 51.7
-  },
-  "exhibitors-in-keralam-jubilant-as-rajinikanth-s-jailer-2-ear": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "film|record",
-    "norm": 50.5
-  },
-  "watch-china-north-korea-bridge-opens-after-12-years-delay": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "china|watch",
-    "norm": 50.2
-  },
-  "-you-might-want-to-explain-unless-you-want-me-to-rahul-s-cry": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "cry",
+  "sslc-exam-1-kseab-opens-online-registration": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "exam",
     "norm": 48.2
   },
-  "jack-dorsey-spent-31-9m-buying-two-neighbouring-san-francisc": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "upsc",
+  "finance-dept-decision-against-guarantees-for-kiifb-borrowing": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "j-k-govt-orders-probe-into-ias-officer-s-alleged-misconduct-": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "war",
     "norm": 46.3
   },
-  "congress-allies-seeking-bangladesh-like-regime-change-rajnat": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "congress",
+  "cjp-founder-abhijeet-dipke-detained-by-delhi-police-while-he": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "iran",
+    "norm": 46.3
+  },
+  "mea-responds-to-rahul-gandhi-s-summons-jibe-says-hosting-for": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "rahul gandhi",
     "norm": 45.9
   },
-  "ladakh-gets-sankoo-as-its-eighth-district": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "governor",
-    "norm": 45.9
-  },
-  "accused-in-2025-visakhapatnam-naval-dockyard-spy-case-held-a": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "stern-action-against-those-spreading-misinformation-on-socia": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "poll",
-    "norm": 45.9
-  },
-  "ten-including-wife-and-in-laws-get-life-for-telangana-man-s-": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "cctv|footage",
-    "norm": 44
-  },
-  "nellore-sp-to-deploy-1-500-police-personnel-for-local-body-p": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
+  "what-changes-under-india-s-proposed-bs-vii-vehicle-emission-": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
     "signature": "poll",
     "norm": 44
   },
-  "air-india-cancels-all-flights-to-and-from-three-saudi-cities": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "fund",
+  "pakistan-to-chair-imf-world-bank-boards-in-2027-first-time-i": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "pakistan",
     "norm": 44
   },
-  "nyt-strands-hints-answers-for-october-15-2026": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
+  "uk-shopper-paid-1-for-first-edition-james-bond-book-it-later": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
     "signature": "mp",
     "norm": 44
-  },
-  "pinarayi-vijayan-moves-sc-against-hc-order-to-lodge-fir-in-c": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
-    "signature": "",
-    "norm": 36
   },
   "durga-puja-2026-all-set-for-the-beat-of-the-dhak": {
     "firstSeen": "2026-10-16T07:04:10.507Z",
     "signature": "",
     "norm": 36
   },
-  "food-cooked-days-ago-frozen-to-be-served-again-inside-visakh": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
+  "mite-infestation-and-sheath-rot-spread-in-kuttanad-s-second-": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
     "signature": "",
     "norm": 36
   },
-  "periyar-arivulagam-is-dravidian-model-government-s-brainchil": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
+  "telangana-s-groundwater-levels-4-41-m-bgl-in-sept-2025-7-52-": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
     "signature": "",
     "norm": 36
   },
-  "1980-murder-case-allahabad-hc-finds-two-convicts-were-minors": {
-    "firstSeen": "2026-10-16T07:04:10.507Z",
+  "ngt-takes-suo-motu-cognisance-of-gaps-in-govt-action-over-ch": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "",
+    "norm": 36
+  },
+  "court-grants-two-day-police-custody-of-gem-granites-veeraman": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "sixth-pocso-act-case-against-gem-granites-veeramani": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "ccmb-scientists-develop-genetic-toolkit-to-shine-light-on-tb": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "rahul-questions-govt-over-rubio-s-proposed-meeting-with-indi": {
+    "firstSeen": "2026-10-16T12:22:03.888Z",
     "signature": "",
     "norm": 33.9
   }
