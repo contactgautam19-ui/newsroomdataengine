@@ -1,167 +1,167 @@
 {
-  "video-protesters-burn-building-break-into-town-hall-as-unres": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "clash|clash|election|election|fire|fire|president|price|prices|protest|protest|smoke|video",
-    "norm": 100
+  "kolkata-durga-puja-stampede-updates-pm-announces-rs-2-lakh-c": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "chief minister|dead|dead|hospital|lakh|minister|mp|stampede",
+    "norm": 88.3
   },
-  "many-feared-dead-after-stampede-at-kolkata-pandal-cm-suvendu": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "chief minister|dead|dead|fear|hospital|injured|minister|mp|stampede",
-    "norm": 85.2
+  "kolkata-stampede-horror-17-dead-at-chorbagan-puja-pandal-as-": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "dead|dead|horror|injured|mp|panic|stampede|tragic",
+    "norm": 81.9
   },
-  "several-feared-dead-35-injured-in-stampede-like-situation-at": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "dead|dead|fear|hospital|injured|mp|stampede",
-    "norm": 81.1
+  "kolkata-pandal-tragedy-deadly-stampede-rocks-kolkata-chorbag": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "dead|dead|injured|mp|panic|stampede|tragedy|tragic",
+    "norm": 81.9
+  },
+  "-mother-died-right-before-my-eyes-witnesses-recount-kolkata-": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "died|injured|mp|row|stampede",
+    "norm": 77.5
   },
   "several-feared-dead-in-stampede-like-situation-at-north-kolk": {
     "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "dead|dead|fear|hospital|injured|mp|stampede",
-    "norm": 81.1
+    "signature": "dead|dead|fear|mp|stampede",
+    "norm": 75.9
   },
-  "anger-mounts-in-punjab-after-anti-drug-crusader-killed-in-br": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "aap|anger|killed|killed|protest|protest",
-    "norm": 80.2
+  "4-killed-after-part-of-chimney-collapses-at-power-plant-in-b": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "collapse|collapse|collapse|killed|killed",
+    "norm": 75.2
   },
-  "kolkata-durga-puja-stampede-what-triggered-the-chaos-at-chor": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "crowd|heavy rain|injured|mp|row|stampede",
-    "norm": 80.2
+  "the-next-war-could-begin-in-space-within-5-years-experts-war": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "attack|attack|war|weather",
+    "norm": 74.6
   },
-  "bimstec-adopts-delhi-declaration-to-counter-terrorism": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "minister|recruitment|terror|terror",
-    "norm": 77.5
+  "sometimes-to-give-peace-to-the-living-the-dead-would-have-to": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "dead|dead|high court|mourning",
+    "norm": 72.6
   },
-  "kolkata-chorbagan-pandal-scare-25-injured-durga-puja-safety-": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "alert|injured|mp|panic|stampede",
-    "norm": 75.1
+  "darkness-rush-and-an-announcement-what-we-know-about-kolkata": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "dead|dead|mp|stampede",
+    "norm": 72.6
   },
-  "richa-parashar-files-criminal-complaint-against-rahul-gandhi": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "controversy|mp|opposition|protest|protest|rahul gandhi",
-    "norm": 72.3
+  "man-killed-as-lorry-rams-two-wheeler-in-tiruvannamalai": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "killed|killed",
+    "norm": 59.3
   },
-  "kolkata-durga-puja-stampede-several-deaths-feared-as-rain-sp": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "death|fear|mp|stampede",
-    "norm": 71
+  "-do-something-you-can-t-die-like-this-capt-smit-machchar-rec": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "attack|attack",
+    "norm": 57.6
   },
-  "dipke-gets-bail-amid-peace-bond-row-congress-plans-ramlila-m": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "congress|controversy|protest|protest|row",
-    "norm": 70.5
-  },
-  "anti-drug-crusader-killed-in-broad-daylight-in-punjab-s-mans": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "killed|killed|outrage|record",
-    "norm": 70
-  },
-  "kolkata-durga-puja-stampede-updates-at-least-35-injured-chie": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "chief minister|hospital|injured|minister|mp|stampede",
-    "norm": 69.5
-  },
-  "journalist-s-complaint-against-rahul-gandhi-opposition-s-reg": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "mp|opposition|protest|protest|rahul gandhi",
-    "norm": 69
-  },
-  "-taking-away-right-to-vote-protest-uddhav-backs-opposition-s": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "opposition|protest|protest|vote",
-    "norm": 65.3
-  },
-  "goa-police-defend-detention-of-seven-cjp-members-before-high": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "high court|protest|protest",
-    "norm": 62.8
-  },
-  "woman-circle-officer-slaps-advocate-amid-row-over-parking-ap": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "protest|protest|row",
-    "norm": 59.6
-  },
-  "kauvery-hospital-launches-comprehensive-suite-of-advanced-ec": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "hospital|mp",
+  "children-of-police-personnel-receive-58-30-lakh-in-incentive": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "lakh|war",
     "norm": 57.1
   },
-  "blind-uk-man-rejected-from-1-000-jobs-builds-business-wins-k": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "jobs|war",
-    "norm": 57.1
+  "team-bharat-counters-cjp-sfi-stir-tricolour-waved-outside-in": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "riot|vote",
+    "norm": 55.4
   },
-  "mp-distributes-cmrf-cheques-worth-15-80-lakh-to-27-beneficia": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "lakh|mp",
+  "tnpdcl-will-incur-additional-cost-of-5-crore-to-7-crore-per-": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "crore|minister",
     "norm": 55
   },
-  "bjp-demands-resignation-of-chief-minister-leader-of-oppositi": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "bjp|chief minister|minister|mla|opposition",
-    "norm": 54.4
-  },
-  "50-aisa-members-activists-detained-during-protest-against-si": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "boy-dies-of-burns-in-tirupattur": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "fire|fire",
-    "norm": 54.2
-  },
-  "cars-torched-shops-looted-violence-protests-erupt-across-fra": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "karnataka-mlc-ravi-kumar-accuses-rahul-gandhi-of-insulting-k": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "chief minister|minister|rahul gandhi",
+  "j-k-high-court-seeks-policy-on-retention-of-government-accom": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "bjp|high court|policy",
     "norm": 52.7
   },
-  "kwa-administrative-fee-on-water-tankers-hits-civic-body-s-wa": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
+  "bob-dylan-bought-scottish-estate-for-2-2m-17-years-later-it-": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "mp|pictures",
+    "norm": 50.2
+  },
+  "short-term-warehousing-solution-introduced-at-blr-logistics-": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "cm-warns-energy-department-officials-of-action-including-sus": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "prashanth-to-carry-golden-howdah-in-this-year-s-jamboo-savar": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "gold",
+    "norm": 48.2
+  },
+  "hyderabad-s-uppal-stadium-turns-sea-of-blue-as-city-hosts-in": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "cricket",
+    "norm": 48.2
+  },
+  "vit-to-install-65-led-streetlights-on-sathuvachari-vit-high-": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "accident",
+    "norm": 48.2
+  },
+  "-not-an-ordinary-foreigner-imran-khan-in-challenge-to-leave-": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "actor|khan",
+    "norm": 46.3
+  },
+  "cardiology-dept-in-kozhikode-mch-in-need-of-critical-care": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "sanction",
+    "norm": 45.9
+  },
+  "complaint-over-suspected-smuggling-of-fake-cigarettes-at-kem": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "wrd-begins-removal-of-invasive-plants-from-irrigation-tanks-": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
+  "agriculture-department-seizes-pesticides-worth-3-12-lakh-in-": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "lakh",
+    "norm": 45.9
+  },
+  "delhi-journalist-who-accused-acp-of-sexual-harassment-slappe": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "yards-to-be-set-up-for-seized-vehicles-in-every-taluk-minist": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "amend-constitution-to-ensure-quota-for-religious-converts-an": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
     "signature": "",
     "norm": 36
   },
-  "bank-staffer-among-three-persons-held-for-circulating-counte": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
+  "engineering-management-courses-offer-diverse-career-opportun": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
     "signature": "",
     "norm": 36
   },
-  "foreign-students-urged-to-help-foster-trade-ties-with-india": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
+  "cmfri-s-sti-hub-helps-set-up-84-micro-enterprises-in-eight-d": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
     "signature": "",
     "norm": 36
   },
-  "5k-run-held-in-mysuru-to-sensitise-youth-on-hiv": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
+  "two-held-for-cheating-in-vellore": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
     "signature": "",
     "norm": 36
   },
-  "andhra-university-invites-applications-for-self-support-law-": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
+  "srmist-volvo-group-set-up-vehicle-tech-centre": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
     "signature": "",
     "norm": 36
   },
-  "gopala-raju-takes-charge-as-nuzvid-iiit-in-charge-director": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
+  "apple-bets-on-the-same-siri-ai-technology-with-new-homeview-": {
+    "firstSeen": "2026-10-17T19:20:48.148Z",
     "signature": "",
-    "norm": 36
-  },
-  "five-held-over-suspected-murder-in-palakkad": {
-    "firstSeen": "2026-10-17T17:04:12.015Z",
-    "signature": "",
-    "norm": 36
+    "norm": 33.9
   }
 }
