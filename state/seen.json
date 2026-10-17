@@ -1,41 +1,166 @@
 {
-  "iran-denies-saudi-accusation-of-involvement-in-houthi-attack": {
-    "firstSeen": "2026-10-16T23:30:48.129Z",
-    "signature": "attack|attack|iran|israel",
-    "norm": 73
+  "trump-waives-russia-sanctions-that-threatened-100-tariffs-on": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "iran|mp|sanction|threat|trump|trump",
+    "norm": 76.9
   },
-  "ministers-pitch-andhra-pradesh-as-global-manufacturing-hub-a": {
-    "firstSeen": "2026-10-16T23:30:48.129Z",
-    "signature": "crore|lakh|minister|row|summit",
-    "norm": 72
+  "anti-cec-protest-live-abhijeet-dipke-to-be-produced-before-s": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "kejriwal|mamata|president|protest|protest",
+    "norm": 69
   },
-  "mea-calls-on-u-s-to-ensure-safety-security-of-indians-after-": {
-    "firstSeen": "2026-10-16T23:30:48.129Z",
-    "signature": "attack|attack|mp|shooting",
-    "norm": 71
+  "-we-will-sit-on-dharna-supreme-court-warns-centre-over-lack-": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "fund|high court|supreme court|war",
+    "norm": 68
   },
-  "pm-modi-trump-to-meet-in-manila-next-month-": {
-    "firstSeen": "2026-10-16T23:30:48.129Z",
-    "signature": "modi|modi|mp|trump|trump",
-    "norm": 68.6
+  "holiday-alert-up-staff-offices-shut-oct-18-20-who-gave-you-m": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "alert|death|yogi",
+    "norm": 66
   },
-  "putin-agrees-to-cooperate-with-pope-leo-s-plea-for-aid-for-u": {
-    "firstSeen": "2026-10-16T23:30:48.129Z",
-    "signature": "fire|fire",
-    "norm": 52.4
+  "eight-killed-over-six-injured-as-bus-overturns-on-delhi-mumb": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "injured|killed|killed",
+    "norm": 64.5
   },
-  "race-for-gvmc-polls-intensifies-in-visakhapatnam-administrat": {
-    "firstSeen": "2026-10-16T23:30:48.129Z",
-    "signature": "poll",
-    "norm": 44
+  "us-lawmakers-urge-rubio-to-prioritize-rights-amp-freedoms-wh": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "mp|protest|protest",
+    "norm": 62.8
   },
-  "zam-2-0-north-korea-tests-high-speed-ai-guided-torpedo-what-": {
-    "firstSeen": "2026-10-16T23:30:48.129Z",
+  "cjp-s-abhijeet-dipke-under-preventive-arrest-aisa-chief-neha": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "mp|protest|protest",
+    "norm": 61.1
+  },
+  "iran-broke-25bn-oil-loss-350m-crypto-frozen-as-militias-send": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "cry|iran",
+    "norm": 57.6
+  },
+  "bjp-will-expose-bhu-bharati-land-irregularities-soon-maheshw": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "bjp|war",
+    "norm": 57.1
+  },
+  "navy-to-commission-anti-submarine-warfare-craft-mangrol-on-o": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "navy|war",
+    "norm": 57.1
+  },
+  "kerala-lottery-result-today-live-karunya-kr-772-winning-numb": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "crore|result",
+    "norm": 57.1
+  },
+  "shillong-teer-result-today-october-17-2026-check-winning-num": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "khan|result",
+    "norm": 55.7
+  },
+  "pm-modi-s-canada-visit-set-for-december-11-12-says-carney": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "uttarakhand-minister-rekha-arya-s-husband-denies-murder-plan": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "khan|minister",
+    "norm": 51.7
+  },
+  "a-p-special-cabinet-meet-on-oct-10-to-discuss-bc-quota-setba": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "cabinet|supreme court",
+    "norm": 50.5
+  },
+  "case-against-dyfi-leader-tv-journalist-for-defaming-keralam-": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "accident",
+    "norm": 48.2
+  },
+  "mahisha-dasara-city-police-imposes-ban-orders-around-mahisha": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "karnataka-information-commission-imposes-50-000-penalty-on-f": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "collectors-told-to-prioritise-drinking-water-supply-amid-el-": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "new-rules-to-regulate-volatile-airfares-to-be-published-in-t": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "rbi",
+    "norm": 45.9
+  },
+  "brs-silent-on-sir-due-to-tacit-understanding-with-bjp-allege": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "sharadambal-temple-to-celebrate-sharan-navratri": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "198-caught-for-harassing-women-in-malkajgiri-in-september-21": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "congress-government-is-releasing-water-to-telangana-for-poli": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "congress",
+    "norm": 45.9
+  },
+  "houthis-close-in-on-key-yemen-city-of-taiz-why-a-global-trad": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "coalition",
+    "norm": 45.9
+  },
+  "parking-fees-in-jayanagar-applicable-only-to-major-commercia": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
     "signature": "",
     "norm": 36
   },
-  "north-korea-tests-new-ai-equipped-torpedo-report": {
-    "firstSeen": "2026-10-16T23:30:48.129Z",
+  "a-p-bar-council-gets-new-office-bearers": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "",
+    "norm": 36
+  },
+  "andhra-s-chittoor-district-is-bird-flu-free-says-official-fa": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "",
+    "norm": 36
+  },
+  "ktr-harish-demand-cec-s-resignation": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "",
+    "norm": 36
+  },
+  "karimnagar-becomes-first-circle-of-npdcl-to-achieve-100-rtfm": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "",
+    "norm": 36
+  },
+  "dasara-creative-workshop-for-children-in-mysuru": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "",
+    "norm": 36
+  },
+  "belagavi-artist-honours-nana-patekar-with-rangoli": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-oppn-s-duty-is-to-oppose-expose-depose-cong-defends-regime-": {
+    "firstSeen": "2026-10-17T04:15:33.648Z",
     "signature": "",
     "norm": 33.9
   }
