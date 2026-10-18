@@ -1,121 +1,166 @@
 {
-  "tdp-ysrcp-activists-clash-in-punganur-on-first-day-of-nomina": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "attack|attack|clash|clash|injured|mp",
-    "norm": 81
+  "-pandal-will-collapse-please-leave-warning-over-mic-set-off-": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "collapse|collapse|collapse|dead|dead|mp|stampede|war|warning",
+    "norm": 89.5
   },
-  "security-forces-police-launch-multiple-search-operations-in-": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "border|ipl|terror|terror",
-    "norm": 77.5
+  "kolkata-durga-puja-stampede-amit-shah-visits-injured-at-hosp": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "amit shah|crowd|hospital|injured|killed|killed|mp|row|stampede",
+    "norm": 88.3
   },
-  "export-levy-on-petrol-hiked-diesel-lowered": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "diesel|fuel|mp|petrol|petrol",
-    "norm": 70
+  "home-minister-amit-shah-visits-hospital-probe-underway-kolka": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "amit shah|dead|dead|hospital|injured|minister|mp|stampede|tragic",
+    "norm": 86.7
   },
-  "at-least-10-killed-after-speeding-truck-runs-over-devotees-n": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "killed|killed|mp|vote",
-    "norm": 70
+  "fire-at-athani-supermarket-results-in-property-damage-no-cas": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "accident|fire|fire|result|results|results|star",
+    "norm": 83.6
   },
-  "-drishyam-3-the-conclusion-box-office-collection-day-16-film": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "box office|crore|film|movie|mp",
-    "norm": 65.6
+  "14-injured-in-kolkata-stampede-undergoing-treatment-3-to-rem": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "death|died|hospital|injured|mp|stampede",
+    "norm": 79.9
   },
-  "-jailer-2-bo-day-3-rajinikanth-mohanlal-shiva-rajkumar-film-": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "box office|crore|film|mp|star",
-    "norm": 65.6
+  "gwalior-accident-kills-14-devotees-pm-modi-announces-rs-2-la": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "accident|lakh|modi|modi|vote",
+    "norm": 77.9
   },
-  "nation-parliament-must-debate-political-appeals-to-children-": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "election|election|high court|parliament|vote",
-    "norm": 64.6
+  "hyderabad-engineering-student-killed-14-others-injured-after": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "collapse|collapse|collapse|injured|killed|killed",
+    "norm": 77.6
   },
-  "chris-woakes-autobiography-former-england-seamer-slams-rob-k": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "match|slam|slams",
+  "cjp-led-tiranga-protest-abhijeet-dipke-detained-central-park": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "bjp|congress|iran|opposition|protest|protest",
+    "norm": 77.2
+  },
+  "anti-cec-protest-live-delhi-police-allows-congress-to-hold-r": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "congress|protest|protest|rally|rally|war",
+    "norm": 73
+  },
+  "kolkata-pandal-stampede-live-amit-shah-visits-injured-in-hos": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "amit shah|hospital|injured|minister|mp|stampede",
+    "norm": 71.1
+  },
+  "15-houses-burnt-in-manipur-s-kamjong-three-injured-in-gun-at": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "attack|attack|border|injured",
+    "norm": 71
+  },
+  "man-found-dead-with-gunshot-wound-licensed-firearm-recovered": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "dead|dead|fire|fire",
+    "norm": 68.4
+  },
+  "kolkata-pandal-stampede-live-prohibitory-orders-imposed-arou": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "amit shah|injured|mp|stampede",
+    "norm": 65
+  },
+  "delhi-srinagar-bus-attacked-with-stones-in-haryana-elderly-k": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "attack|attack|injured",
     "norm": 64.5
   },
-  "aspirants-question-15-year-delay-in-job-notification-for-wom": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "iran|recruitment|sanction",
-    "norm": 60.8
+  "protesters-seek-cec-s-resignation-at-lehra-do-tiranga-in-mum": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "iran|protest|protest",
+    "norm": 63.2
   },
-  "tamil-nadu-wants-namma-shale-app-that-flagged-infrastructure": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "collapse|collapse|collapse",
-    "norm": 58.3
+  "deaths-and-injuries-at-canada-military-base-after-incident-c": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "death|fire|fire",
+    "norm": 63.2
   },
-  "from-idle-plots-to-tapping-trails-rubber-boom-lifts-hopes-fo": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "price|prices|record|record high",
+  "12-year-old-grabbed-wheel-at-60-mph-to-save-mum-wins-bravery": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "mp|war",
+    "norm": 57.1
+  },
+  "a-list-of-major-stampedes-in-india": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "mp|stampede",
+    "norm": 57.1
+  },
+  "kharge-urges-pm-to-consult-all-parties-before-fresh-delimita": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "bill|congress|parliament|unprecedented",
     "norm": 56.9
   },
-  "sudha-yadav-sworn-in-as-the-new-karnataka-governor": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "governor",
-    "norm": 44
+  "seven-including-chorbagan-durga-puja-organisers-arrested-for": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "mp|stampede",
+    "norm": 55.4
   },
-  "accused-in-2025-visakhapatnam-naval-dockyard-spy-case-held-a": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
+  "delhi-court-convicts-man-for-shooting-at-wife-outside-hospit": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "hospital|shooting",
+    "norm": 53.9
+  },
+  "heavy-rainfall-to-continue-across-t-n-till-october-23": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "alert|heavy rain",
+    "norm": 52.1
+  },
+  "rule-of-law-established-in-uttar-pradesh-by-eliminating-rule": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "actor|yogi",
+    "norm": 51.7
+  },
+  "new-melsanthis-selected-for-sabarimala-malikappuram-temples": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "stern-action-against-those-spreading-misinformation-on-socia": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "poll",
-    "norm": 44
-  },
-  "nellore-sp-to-deploy-1-500-police-personnel-for-local-body-p": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "poll",
-    "norm": 44
-  },
-  "anthrax-infection-kills-female-elephant-in-coimbatore-forest": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
+  "dasara-festival-special-trains-between-arsikere-and-mysuru": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "residents-in-visakhapatnam-s-madhurawada-flag-poor-roads-dra": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "poll",
+    "norm": 45.9
+  },
+  "madras-high-court-directs-erode-court-to-consider-bail-pleas": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "high court",
     "norm": 44
   },
-  "lycee-kicks-off-bicentenary-celebrations-in-puducherry": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
+  "tomato-ketchup-made-from-potato-paste-ahmedabad-factory-seal": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
+    "signature": "actor",
+    "norm": 42.4
+  },
+  "krishniah-chetty-jewellery-exhibition-in-hubballi-till-octob": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
     "signature": "",
     "norm": 36
   },
-  "home-ministry-moves-out-3-of-5-officers-from-division-hit-by": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
+  "man-travels-300-km-to-donate-blood-to-child-with-rare-blood-": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
     "signature": "",
     "norm": 36
   },
-  "1980-murder-case-allahabad-hc-finds-two-convicts-were-minors": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
+  "mom-turns-500-and-4-yard-games-into-9k-side-hustle": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
     "signature": "",
     "norm": 36
   },
-  "food-cooked-days-ago-frozen-to-be-served-again-inside-visakh": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
+  "six-car-pile-up-leads-to-traffic-jam-on-hyderabad-s-pvnr-exp": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "periyar-arivulagam-is-dravidian-model-government-s-brainchil": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "tgsrtc-runs-over-2-400-special-buses-to-clear-festive-rush-s": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "kuwait-airways-flight-grounded-in-thiruvananthapuram-airport": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "the-unseen-hands-behind-mysuru-dasara-s-dazzling-lights": {
-    "firstSeen": "2026-10-18T00:55:51.872Z",
+  "police-trace-mule-accounts-linked-to-54-cyber-crime-cases": {
+    "firstSeen": "2026-10-18T05:47:45.536Z",
     "signature": "",
     "norm": 33.9
   }
