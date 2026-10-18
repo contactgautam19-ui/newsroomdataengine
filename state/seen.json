@@ -1,191 +1,171 @@
 {
-  "jagan-alleges-large-scale-irregularities-in-local-body-poll-": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "attack|attack|election|election|mp|poll|president|threat",
-    "norm": 88.7
+  "five-killed-as-car-crashes-into-state-transport-bus-in-mahar": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "cctv|crash|crash|footage|killed|killed|maharashtra|mp",
+    "norm": 95.4
   },
-  "kolkata-durga-puja-stampede-19-dead-over-30-injured-police-o": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "crowd|dead|dead|injured|mp|row|stampede|tragic",
-    "norm": 87.2
+  "death-toll-rises-to-19-in-kolkata-durga-puja-stampede-cm-iss": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "collapse|collapse|collapse|crowd|death|mp|row|stampede|toll",
+    "norm": 90.7
   },
-  "kolkata-durga-puja-stampede-bjp-mla-says-mistakes-happen-war": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "bjp|killed|killed|mla|mp|stampede|war",
-    "norm": 83.2
+  "tiger-shroff-firing-eknath-shinde-speaks-with-actor-warns-ga": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "actor|chief minister|maharashtra|minister|shooting|war",
+    "norm": 86
   },
-  "chief-minister-suvindu-adhikari-to-oversee-durga-puja-safety": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "chief minister|crowd|minister|mp|row|stampede",
-    "norm": 78.8
+  "tiger-shroff-attacked-2-years-after-baba-siddique-murder-bot": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "attack|attack|fire|fire|khan|rohit|sharma",
+    "norm": 81.3
   },
-  "-check-cctv-wanted-model-breaks-silence-claims-bizman-died-b": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "cctv|death|died|mp|row|sharma",
-    "norm": 75.4
+  "17-dead-after-stampede-breaks-out-at-kolkata-durga-puja-pand": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "chief minister|dead|dead|minister|mp|stampede",
+    "norm": 76.9
   },
-  "japan-warned-microsoft-of-a-message-scam-in-2025-china-link-": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "bill|billion|china|scam|war",
-    "norm": 73
+  "ysrcp-s-rajampet-mp-midhun-reddy-booked-for-punganur-violenc": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "clash|clash|election|election|mp",
+    "norm": 75.3
   },
-  "-people-will-reclaim-the-republic-rahul-gandhi-targets-pm-mo": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "bjp|modi|modi|rahul gandhi|rally|rally",
+  "kumaraswamy-unable-to-digest-shivakumar-as-chief-minister-sa": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "chief minister|fund|minister|protest|protest",
+    "norm": 73.3
+  },
+  "actor-safe-multiple-probe-teams-formed-forensic-team-on-grou": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "actor|fire|fire|ipl",
+    "norm": 70
+  },
+  "kolkata-stampede-accused-sent-to-10-day-custody-officials-su": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "high court|mp|stampede|tragedy",
+    "norm": 70
+  },
+  "tiger-shroff-targeted-in-mumbai-shooting-investigation-under": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "actor|bollywood|bollywood|shooting",
+    "norm": 69.6
+  },
+  "tiger-shroff-case-police-question-several-individuals-probe-": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "bollywood|bollywood|shooting|star",
+    "norm": 69.6
+  },
+  "tiger-shroff-firing-first-visuals-of-attackers-emerge-gunsho": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "attack|attack|shooting|visuals",
     "norm": 68.4
   },
-  "-don-t-join-ias-fda-chief-tukaram-mundhe-s-career-advice-to-": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "maharashtra|viral|viral|viral",
-    "norm": 68.4
+  "-shouldn-t-have-taken-place-omar-abdullah-on-attack-on-srina": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "attack|attack|star",
+    "norm": 64.6
   },
-  "delhi-srinagar-bus-attacked-in-karnal-police-say-parking-dis": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "attack|attack|terror|terror",
-    "norm": 68
-  },
-  "kssp-to-take-up-campaigns-on-public-health-in-keralam": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "mp|rbi|row",
-    "norm": 65.6
-  },
-  "traffic-gridlock-on-sabarimala-route-sparks-protest-as-pilgr": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
-  },
-  "8-road-workers-run-over-by-car-in-punjab-s-sangrur-witnesses": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "death|died|mp",
-    "norm": 62.5
-  },
-  "3-men-open-fire-at-actor-tiger-shroff-in-mumbai-s-juhu": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "actor|fire|fire",
-    "norm": 61.4
-  },
-  "dhinakaran-criticises-tvk-led-government-over-monsoon-prepar": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "heavy rain|weather",
-    "norm": 59.3
-  },
-  "speeding-car-kills-8-mgnrega-labourers-injures-12-others-in-": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "accident|died",
-    "norm": 59.3
-  },
-  "anti-cec-protest-live-cjp-legal-head-alleges-deliberate-dela": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
+  "anti-cec-protest-highlights-cjp-legal-head-alleges-deliberat": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
     "signature": "protest|protest|war",
     "norm": 57.9
   },
-  "rss-leader-indresh-kumar-warns-against-protests-raises-forei": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "protest|protest|war",
-    "norm": 57.9
-  },
-  "speeding-car-hits-mgnrega-workers-in-punjab-s-sangrur-8-kill": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "killed|killed",
-    "norm": 57.6
-  },
-  "how-a-secret-british-elite-forces-op-in-syria-became-a-murde": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "dead|dead",
-    "norm": 57.6
-  },
-  "kolkata-pandal-stampede-live-seven-accused-sent-to-10-day-po": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "mp|stampede",
-    "norm": 57.1
-  },
-  "karnataka-makes-app-based-night-time-attendance-mandatory-fo": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "hospital|mp",
-    "norm": 57.1
-  },
-  "from-death-row-to-award-winning-author-c-selvam-expresses-re": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "death|row|war",
-    "norm": 56.6
-  },
-  "fires-erupt-at-st-petersburg-oil-sites-as-ukraine-unleashes-": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "drone|fire|fire",
+  "did-shooter-s-jammed-gun-save-tiger-shroff-s-life-new-videos": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "fire|fire|video",
     "norm": 55.4
   },
-  "russia-hijacks-ukrainian-drones-sends-them-to-baltic-states-": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "drone|hijack",
-    "norm": 54.2
+  "upset-with-non-inclusion-of-woman-in-karnataka-cabinet-sowmy": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "cabinet|congress|upset",
+    "norm": 54.7
   },
-  "seva-is-sadhana-gautam-adani-visits-shrimad-rajchandra-ashra": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "adani|ipl",
-    "norm": 53.9
+  "ten-youths-from-punjab-with-unlicensed-weapons-arrested-in-r": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "clash|clash",
+    "norm": 52.4
   },
-  "news-about-sting-operations-is-diversionary-tactics-says-pra": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "congress|minister",
-    "norm": 50.5
+  "-thought-they-were-diwali-crackers-eyewitness-recounts-tiger": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "fire|fire",
+    "norm": 52.4
   },
-  "udf-government-advancing-rss-agenda-says-pinarayi-vijayan": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "bjp|opposition",
-    "norm": 50.5
+  "keralam-cm-offers-prayers-at-sabarimala-reviews-pilgrimage-p": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "chief minister|minister|mp",
+    "norm": 50.9
   },
-  "isolated-heavy-rain-likely-in-andhra-pradesh-till-october-21": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
+  "canada-keen-to-deepen-partnerships-with-karnataka-quantum-co": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "defence|minister|mp",
+    "norm": 50.9
+  },
+  "two-arrested-after-pelting-of-stones-on-kashmir-bound-bus-in": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
+  },
+  "video-captures-tiger-shroff-escaping-in-car-after-assassinat": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "film|video",
+    "norm": 48.7
+  },
+  "heavy-rain-lash-annamayya-and-chittoor-districts-in-andhra-p": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
     "signature": "heavy rain",
-    "norm": 48.2
+    "norm": 46.3
   },
-  "-time-to-go-kapil-sibal-jabs-rajnath-on-regime-change-charge": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "congress",
-    "norm": 45.9
+  "mba-student-smuggled-mdma-on-train-to-vijayawada-or-50-000-c": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "lakh",
+    "norm": 44
   },
-  "ed-trying-to-malign-pinarayi-through-publicity-stunts-allege": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "supreme court",
-    "norm": 45.9
+  "aap-s-saurabh-bharadwaj-claims-delhi-police-harassing-bengal": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "aap",
+    "norm": 44
   },
-  "durga-puja-reflects-tradition-of-revering-women-s-strength-p": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "president",
-    "norm": 45.9
-  },
-  "nominations-end-across-3-a-p-districts-with-no-fresh-violenc": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
+  "fssai-asks-food-operators-to-maintain-cold-chain-for-perisha": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "vadaanya-talent-test-2026-to-be-held-in-anantapur-sri-sathya": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "",
-    "norm": 36
+  "banana-idli-eating-competitions-as-part-of-shivamogga-dasara": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "karnataka-revises-penalties-for-officials-false-grievances-u": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "",
-    "norm": 36
+  "ballari-records-49-rainfall-deficit-crop-damage-across-71-75": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "agristack-initiative-keralam-government-constitutes-agristac": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "",
-    "norm": 36
+  "gba-enables-online-subdivision-service-of-jointly-owned-a-ek": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "substantiate-allegations-with-evidence-priyank-kharge-challe": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
-    "signature": "",
-    "norm": 36
-  },
-  "fisheries-expert-b-madhusoodana-kurup-passes-away": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
+  "key-conduit-in-gem-granites-veeramani-case-arrested": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
     "signature": "",
     "norm": 33.9
   },
-  "after-cjp-new-group-formed-in-delhi-names-itself-lal-hit-jan": {
-    "firstSeen": "2026-10-18T14:31:08.959Z",
+  "5-years-on-indira-gandhi-centre-for-arts-still-awaits-perman": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "tdp-hopeful-of-a-cakewalk-in-kamalapuram-municipality-as-ysr": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "punjab-s-chitte-chhole-rajmah-go-global-as-bhagwant-mann-lau": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "despite-drought-and-diseases-farmers-around-bengaluru-achiev": {
+    "firstSeen": "2026-10-18T18:02:20.195Z",
     "signature": "",
     "norm": 33.9
   }
