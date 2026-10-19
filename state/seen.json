@@ -1,32 +1,117 @@
 {
-  "-like-a-war-movie-4-killed-19-critical-after-fire-at-canada-": {
-    "firstSeen": "2026-10-18T23:03:10.334Z",
-    "signature": "fire|fire|killed|killed|movie|war",
-    "norm": 79.8
+  "14-dead-over-40-injured-as-truck-rams-into-devotees-outside-": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "dead|dead|injured|mp|tragedy|vote",
+    "norm": 81.3
   },
-  "war-of-words-in-haryana-cm-saini-pitches-prosperity-congress": {
-    "firstSeen": "2026-10-18T23:03:10.334Z",
-    "signature": "chief minister|congress|fear|minister|war",
-    "norm": 67
+  "foreign-forces-backing-vote-theft-campaign-alleges-telangana": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "bjp|election|election|mp|row|vote",
+    "norm": 74.6
   },
-  "-those-who-destroyed-must-pay-macron-s-warning-to-france-rio": {
-    "firstSeen": "2026-10-18T23:03:10.334Z",
-    "signature": "riot|war|warning",
-    "norm": 62.9
+  "h-d-kumaraswamy-says-his-party-stands-with-sugarcane-growers": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "chief minister|minister|protest|protest|row",
+    "norm": 72
   },
-  "tel-aviv-vienna-flight-makes-emergency-landing-after-bomb-th": {
-    "firstSeen": "2026-10-18T23:03:10.334Z",
-    "signature": "bomb|threat",
-    "norm": 59.3
+  "cbi-nabs-kozhikode-native-involved-in-cyber-fraud": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "crore|fraud|mp|record",
+    "norm": 71
   },
-  "north-carolina-school-becomes-53-senior-apartments-former-st": {
-    "firstSeen": "2026-10-18T23:03:10.334Z",
+  "tiger-shroff-covers-face-reaches-home-under-police-protectio": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "attack|attack|fire|fire|injured",
+    "norm": 70.9
+  },
+  "serving-tribal-population-five-government-hospitals-in-telan": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "hospital|lakh|war",
+    "norm": 67.6
+  },
+  "three-kin-arrested-after-five-family-members-found-dead-in-g": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "dead|dead|death",
+    "norm": 64.5
+  },
+  "milan-on-edge-protesters-clash-with-cops-smash-windows-video": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "clash|clash|protest|protest|video",
+    "norm": 62.2
+  },
+  "arunachaleswarar-temple-elephant-in-tiruvannamalai-named-nam": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "minister|mp|war",
+    "norm": 61.4
+  },
+  "nothing-can-save-cec-sir-must-be-suspended-forthwith-congres": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "congress|election|election",
+    "norm": 61.4
+  },
+  "j-k-police-book-army-officer-s-wife-for-sharing-sensitive-in": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "army|exam",
+    "norm": 57.1
+  },
+  "excise-department-order-allowing-bakery-to-stock-sell-hortiw": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "controversy|minister",
+    "norm": 57.1
+  },
+  "babar-azam-achieves-historic-milestone-joins-inzamam-and-mia": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "cricket|match",
+    "norm": 52.1
+  },
+  "tiger-shroff-shoot-out-we-will-respond-to-them-in-their-own-": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "ktr-extends-medical-support-to-13-year-old-boy-with-brain-ca": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "hospital",
+    "norm": 48.2
+  },
+  "custodial-torture-is-a-calculated-assault-on-human-dignity-s": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "high court",
+    "norm": 45.9
+  },
+  "using-mobile-phones-in-speaker-mode-in-trains-and-railway-pr": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 45.9
   },
-  "john-legend-s-500-000-gift-helped-restore-680-seat-theatre-i": {
-    "firstSeen": "2026-10-18T23:03:10.334Z",
+  "wayanad-township-149-houses-in-second-phase-nearing-completi": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "heavy-rain-lashes-salem-krishnagiri-and-dharmapuri-districts": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
+  },
+  "police-trace-school-teacher-who-went-missing-from-kozhikode": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "",
+    "norm": 36
+  },
+  "jsp-s-vangaveeti-radhakrishna-ysrcp-s-rayana-bhagya-lakshmi-": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "",
+    "norm": 36
+  },
+  "harish-rao-flays-govt-for-collecting-double-fare-in-rtc-buse": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "",
+    "norm": 36
+  },
+  "no-valid-documents-bangladeshi-national-held-in-kozhikode": {
+    "firstSeen": "2026-10-19T01:10:16.501Z",
+    "signature": "",
+    "norm": 36
   }
 }
