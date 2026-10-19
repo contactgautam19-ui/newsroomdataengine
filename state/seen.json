@@ -1,221 +1,86 @@
 {
-  "attack-online-claim-warning-gangster-lawrence-bishnoi-s-play": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "actor|attack|attack|gst|iran|khan|war|warning",
-    "norm": 94.5
+  "-maa-maa-kalyan-banerjee-breaks-down-during-durga-puja-video": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "mp|video|viral|viral|viral",
+    "norm": 75.5
   },
-  "us-iran-war-live-updates-oil-tumbles-as-trump-s-russia-sanct": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "fuel|iran|mp|sanction|trump|trump|war",
-    "norm": 86
+  "three-killed-in-manipur-attack-bodies-left-outside-cm-s-bung": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "attack|attack|blast|bomb|died|injured|killed|killed",
+    "norm": 74.8
   },
-  "one-dead-several-injured-in-clashes-in-manipur-s-thoubal-dis": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "clash|clash|dead|dead|injured|mp",
-    "norm": 82.5
+  "-an-examiner-can-t-be-appointed-by-student-jagan-reddy-regre": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "cabinet|congress|election|election|election commission|exam|minister|mp|prime minister",
+    "norm": 68.9
   },
-  "tiger-shroff-firing-7-bullets-fired-at-car-3-accused-arreste": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "actor|fire|fire|shock|shock|shocking",
-    "norm": 81.6
+  "india-probes-pernod-ricard-diageo-over-scotch-whisky-imports": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "exam|mp|tax",
+    "norm": 63.9
   },
-  "delhi-sir-public-audit-in-two-booths-finds-over-100-voters-w": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "anger|dead|dead|ipl|vote",
-    "norm": 80.7
+  "indian-embassy-in-italy-issues-advisory-urges-citizens-to-av": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "crowd|protest|protest|row",
+    "norm": 60.8
   },
-  "back-to-the-1990s-why-bollywood-s-underworld-nightmare-is-re": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "attack|attack|bollywood|bollywood|film",
-    "norm": 77.9
+  "political-mercury-rises-in-punjab-ahead-of-amit-shah-s-visit": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "aap|amit shah",
+    "norm": 50.5
   },
-  "indian-origin-couple-s-100-000-dream-cafe-damaged-in-austral": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "attack|attack|rohit|sharma|tragic",
-    "norm": 74.6
-  },
-  "-he-d-like-the-war-to-end-rubio-reiterates-trump-s-push-amid": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "mp|summit|trump|trump|war",
-    "norm": 73.6
-  },
-  "bjp-veteran-lk-advani-discharged-from-delhi-hospital-after-h": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "bjp|hospital|minister|mp|poll|prime minister|war",
-    "norm": 73.5
-  },
-  "tiger-shroff-firing-case-a-minor-bike-taxi-driver-what-we-kn": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "actor|fire|fire|shooting|tax",
-    "norm": 73
-  },
-  "-no-prior-threat-not-in-touch-with-salman-khan-what-tiger-sh": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "attack|attack|khan|threat",
-    "norm": 69.7
-  },
-  "west-bengal-terror-probe-man-detained-in-karnataka-over-susp": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 66
-  },
-  "tiger-shroff-firing-case-assailants-had-been-in-mumbai-for-o": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "actor|attack|attack",
-    "norm": 64.6
-  },
-  "four-friends-clicking-selfies-on-overbridge-killed-after-tru": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "injured|killed|killed",
-    "norm": 64.5
-  },
-  "bjp-veteran-leader-l-k-advani-discharged-from-delhi-hospital": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "bjp|hospital|mp|poll",
-    "norm": 63.5
-  },
-  "-lal-hit-janta-party-new-outfit-emerges-as-satirical-counter": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "opposition|protest|protest",
-    "norm": 62.8
-  },
-  "mamata-s-party-asks-if-bjp-government-put-spectacle-over-saf": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "bjp|congress|mamata|war",
-    "norm": 61.8
-  },
-  "kuki-group-announces-shutdown-of-key-manipur-highway-after-a": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "attack|attack",
-    "norm": 59.3
-  },
-  "how-keralam-can-overcome-its-legacy-infrastructure-deficit": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "budget|minister|mp",
-    "norm": 57.6
-  },
-  "kodak-ran-uranium-based-research-device-for-31-years-beneath": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "exam|mp",
-    "norm": 57.1
-  },
-  "maharashtra-woman-who-earned-rs-200-in-fields-now-manages-12": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "maharashtra|mp",
-    "norm": 55.4
-  },
-  "anbumani-ramadoss-undergoes-elective-knee-procedure": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "hospital|poll",
-    "norm": 55.4
-  },
-  "at-17-1-degree-celsius-delhi-records-this-month-s-coldest-ni": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "mp|record",
-    "norm": 52
-  },
-  "dhal-singh-bisen-sworn-in-as-uttarakhand-governor": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "governor|khan",
-    "norm": 51.7
-  },
-  "meet-with-chaos-collaborators-or-holiday-bjp-takes-swipe-at-": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "bjp|congress|rahul gandhi",
-    "norm": 50.9
-  },
-  "g-o-a-t-an-se-young-ends-susi-susanti-s-29-year-reign-with-r": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
+  "delhi-records-coldest-october-morning-so-far-air-quality-may": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
     "signature": "mp|record",
     "norm": 50.2
   },
-  "uddhav-raj-thackeray-to-share-the-stage-at-sena-ubt-s-dusseh": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "rally|rally",
-    "norm": 50.2
-  },
-  "san-francisco-techie-shuts-down-video-game-that-had-players-": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "fund|video",
-    "norm": 50.2
-  },
-  "rbi-repo-rate-hike-should-you-pay-more-emi-or-extend-home-lo": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "rbi|repo rate",
+  "bihar-council-polls-3-firs-against-jd-u-mla-anant-singh-jan-": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "mla|poll",
     "norm": 48.7
   },
-  "hyderabad-airport-regains-x-account-access-after-cryptocurre": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "cry",
-    "norm": 48.2
-  },
-  "tiger-shroff-firing-incident-police-have-identified-suspects": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "maharashtra",
-    "norm": 48.2
-  },
-  "-can-plumber-land-aircraft-flydubai-indian-pilot-on-role-of-": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "israel",
-    "norm": 48.2
-  },
-  "drug-peddlers-held-in-gadag": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "maharashtra",
-    "norm": 46.3
-  },
-  "five-davangere-university-professors-among-world-s-top-2-sci": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "anger",
-    "norm": 46.3
-  },
-  "dalit-man-assaulted-for-staying-worshipping-at-ballia-temple": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "jnu-hunger-strike-cpi-m-lawmaker-john-brittas-writes-to-pres": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "president",
+  "tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-w": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "tax",
     "norm": 44
   },
-  "ai-insiders-far-more-bullish-than-public-on-nobel-level-disc": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "tiger-shroff-firing-case-all-3-accused-arrested-at-kota-stat": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "cctv",
+  "watch-us-soldier-dies-after-falling-170-feet-during-fast-rop": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "watch",
     "norm": 40.7
   },
-  "-my-hands-won-t-tremble-while-executing-muskan-rastogi-ravit": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
+  "on-camera-tiger-shroff-firing-suspects-seen-rushing-to-catch": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
     "signature": "",
     "norm": 36
   },
-  "tiger-shroff-firing-fir-lodged-against-three-unidentified-pe": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
+  "news18-network-tata-motors-commercial-vehicles-to-celebrate-": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "",
+    "norm": 36
+  },
+  "breaking-judicial-custody-of-cjp-s-saurav-das-ashutosh-ranka": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
+    "signature": "",
+    "norm": 36
+  },
+  "india-s-agrivoltaic-capacity-is-expected-to-be-more-than-5-g": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
     "signature": "",
     "norm": 33.9
   },
-  "bathukamma-dasara-celebrations-held-in-vienna-austria": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
+  "-smiles-on-faces-dipke-share-photo-of-das-ranka-after-judici": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
     "signature": "",
     "norm": 33.9
   },
-  "farmer-hid-ganja-plants-in-middle-of-red-gram-crop": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
+  "left-parties-brs-to-stage-a-dharna-in-khammam-over-alleged-p": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
     "signature": "",
     "norm": 33.9
   },
-  "tiger-shroff-assassination-bid-all-3-shooters-caught-from-ra": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "foreign-object-on-runway-forces-flight-to-abort-landing-at-b": {
-    "firstSeen": "2026-10-19T07:40:45.051Z",
+  "shivraj-singh-chouhan-launches-upgraded-agri-welfare-portal": {
+    "firstSeen": "2026-10-19T15:31:46.995Z",
     "signature": "",
     "norm": 33.9
   }
