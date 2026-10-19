@@ -1,86 +1,31 @@
 {
-  "-maa-maa-kalyan-banerjee-breaks-down-during-durga-puja-video": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "mp|video|viral|viral|viral",
-    "norm": 75.5
+  "-state-sponsored-terrorism-mamata-demands-release-of-cjp-s-d": {
+    "firstSeen": "2026-10-19T21:00:19.689Z",
+    "signature": "mamata|terror|terror",
+    "norm": 66
   },
-  "three-killed-in-manipur-attack-bodies-left-outside-cm-s-bung": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "attack|attack|blast|bomb|died|injured|killed|killed",
-    "norm": 74.8
+  "trump-says-he-is-ready-to-meet-putin-xi-in-china-next-month": {
+    "firstSeen": "2026-10-19T21:00:19.689Z",
+    "signature": "china|mp|president|summit|trump|trump",
+    "norm": 63.4
   },
-  "-an-examiner-can-t-be-appointed-by-student-jagan-reddy-regre": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "cabinet|congress|election|election|election commission|exam|minister|mp|prime minister",
-    "norm": 68.9
+  "us-court-orders-fired-saudi-engineer-to-remain-in-custody-in": {
+    "firstSeen": "2026-10-19T21:00:19.689Z",
+    "signature": "fire|fire|mp",
+    "norm": 62.8
   },
-  "india-probes-pernod-ricard-diageo-over-scotch-whisky-imports": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "exam|mp|tax",
-    "norm": 63.9
+  "bigg-boss-20-rohit-shetty-to-host-weekend-ka-vaar-in-salman-": {
+    "firstSeen": "2026-10-19T21:00:19.689Z",
+    "signature": "fan|khan|rohit",
+    "norm": 48.3
   },
-  "indian-embassy-in-italy-issues-advisory-urges-citizens-to-av": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "crowd|protest|protest|row",
-    "norm": 60.8
-  },
-  "political-mercury-rises-in-punjab-ahead-of-amit-shah-s-visit": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "aap|amit shah",
-    "norm": 50.5
-  },
-  "delhi-records-coldest-october-morning-so-far-air-quality-may": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "mp|record",
-    "norm": 50.2
-  },
-  "bihar-council-polls-3-firs-against-jd-u-mla-anant-singh-jan-": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "mla|poll",
-    "norm": 48.7
-  },
-  "tiger-shroff-shooter-works-with-rapido-taxi-app-shares-his-w": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "tax",
+  "japan-launches-world-first-mission-to-moon-of-mars": {
+    "firstSeen": "2026-10-19T21:00:19.689Z",
+    "signature": "mp",
     "norm": 44
   },
-  "watch-us-soldier-dies-after-falling-170-feet-during-fast-rop": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "watch",
-    "norm": 40.7
-  },
-  "on-camera-tiger-shroff-firing-suspects-seen-rushing-to-catch": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "",
-    "norm": 36
-  },
-  "news18-network-tata-motors-commercial-vehicles-to-celebrate-": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "",
-    "norm": 36
-  },
-  "breaking-judicial-custody-of-cjp-s-saurav-das-ashutosh-ranka": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "",
-    "norm": 36
-  },
-  "india-s-agrivoltaic-capacity-is-expected-to-be-more-than-5-g": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-smiles-on-faces-dipke-share-photo-of-das-ranka-after-judici": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "left-parties-brs-to-stage-a-dharna-in-khammam-over-alleged-p": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "shivraj-singh-chouhan-launches-upgraded-agri-welfare-portal": {
-    "firstSeen": "2026-10-19T15:31:46.995Z",
+  "25-florida-students-turn-9-year-old-girl-s-wheelchair-into-h": {
+    "firstSeen": "2026-10-19T21:00:19.689Z",
     "signature": "",
     "norm": 33.9
   }
