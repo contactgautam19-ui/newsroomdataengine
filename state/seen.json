@@ -1,27 +1,302 @@
 {
-  "no-patriot-missiles-for-ukraine-trump-holds-up-transfer-as-t": {
-    "firstSeen": "2026-10-20T00:16:17.490Z",
-    "signature": "mp|riot|trump|trump",
-    "norm": 71.6
+  "-this-is-hindu-nature-at-dussehra-rally-mohan-bhagwat-hails-": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "captain|exam|mp|rally|rally|threat",
+    "norm": 83.2
   },
-  "pete-hegseth-makes-surprise-visit-to-israel-meets-netanyahu-": {
-    "firstSeen": "2026-10-20T00:16:17.490Z",
-    "signature": "israel|minister|prime minister|surprise",
-    "norm": 65.3
+  "-paris-is-going-to-be-a-muslim-city-trump-attacks-macron-ove": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "attack|attack|mp|trump|trump",
+    "norm": 82.3
   },
-  "opinion-saving-innocent-israelis-not-appreciated": {
-    "firstSeen": "2026-10-20T00:16:17.490Z",
-    "signature": "captain|israel|slam",
-    "norm": 64.6
+  "punjab-police-employee-shoots-dead-son-injures-wife-second-s": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "dead|dead|mp",
+    "norm": 68.7
   },
-  "will-alberta-break-away-from-canada-oil-rich-province-votes-": {
-    "firstSeen": "2026-10-20T00:16:17.490Z",
+  "rss-bengal-finance-minister-condemn-vandalism-at-left-book-s": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "attack|attack|minister",
+    "norm": 67.6
+  },
+  "india-seeks-global-vigilance-regarding-transfer-of-sensitive": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "actor|terror|terror",
+    "norm": 67.3
+  },
+  "-determination-to-restore-order-is-absolute-france-imposes-c": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "mp|protest|protest",
+    "norm": 63.9
+  },
+  "several-shops-gutted-in-devastating-fire-in-kolkata-no-casua": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "devastat|fire|fire",
+    "norm": 63.2
+  },
+  "korea-plans-new-samsung-sk-hynix-chip-hub-in-gwangju-risking": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "mp|trump|trump",
+    "norm": 62.5
+  },
+  "-i-may-be-killed-but-i-will-return-sheikh-hasina": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "killed|killed",
+    "norm": 60.4
+  },
+  "mohan-bhagwat-warns-against-demonic-regime-change-lobby-a-st": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "storm|war",
+    "norm": 59.3
+  },
+  "gold-and-silver-price-today-october-20-check-rates-of-24k-22": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "gold|price",
+    "norm": 58.3
+  },
+  "rss-chief-mohan-bhagwat-blames-human-error-in-kolkata-stampe": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "mp|stampede",
+    "norm": 58.3
+  },
+  "pm-modi-extends-greetings-on-vijayadashami-wishes-for": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "modi|modi",
+    "norm": 58.3
+  },
+  "kissht-online-lender-kissht-gets-in-principle-bse-nse-approv": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "crore|ipl",
+    "norm": 58.3
+  },
+  "mutual-fund-it-exposure-falls-top-10-funds-compared-from-dec": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "fund|mp",
+    "norm": 56.1
+  },
+  "400-indian-origin-students-researchers-condemn-anti-cec-prot": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "protest|protest",
+    "norm": 55.4
+  },
+  "two-tribal-rights-activists-held-for-involvement-in-clash-in": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "clash|clash",
+    "norm": 55.4
+  },
+  "us-govt-bans-american-tech-firm-from-green-card-programme-fo": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "mp|recruitment",
+    "norm": 55.4
+  },
+  "-may-every-life-be-enriched-with-happiness-prosperity-and-su": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "jio-platform-rs-8-110-crore-anchor-book-attracts-over-rs-2-5": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "crore|investor|lakh",
+    "norm": 53.9
+  },
+  "fleetwood-mac-star-s-20-acre-kent-estate-lists-for-3m-after-": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "mp|star",
+    "norm": 53.5
+  },
+  "celebrate-your-birthday-by-the-yamuna-delhi-minister-parvesh": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "minister|twist",
+    "norm": 53.2
+  },
+  "marco-rubio-india-visit-live-updates-marco-rubio-to-hold-hig": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "jaishankar|minister",
+    "norm": 50.5
+  },
+  "were-worshippers-the-target-shooting-near-ohio-mosque-kills-": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "shooting",
+    "norm": 49.4
+  },
+  "nagpur-college-students-allege-professor-sent-them-lewd-text": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "slam",
+    "norm": 48.2
+  },
+  "-need-to-regulate-ott-content-mohan-bhagwat-says-youth-absor": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "rbi",
+    "norm": 47.1
+  },
+  "bittu-tabahi-finds-national-flag-while-cleaning-ajna-river-u": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "monash-joins-global-alliance-to-advance-sovereign-and-trustw": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "alliance",
+    "norm": 47.1
+  },
+  "mg-hector-tomahawk-ev-vs-mahindra-xev-9s-real-world-range-co": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "from-theatre-to-the-president-table-sunil-mattoo-culinary-jo": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "president",
+    "norm": 47.1
+  },
+  "cm-revanth-reddy-reviews-invest-telangana-global-summit-prep": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "summit",
+    "norm": 47.1
+  },
+  "china-technological-advances-open-new-opportunities-for-coop": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "china",
+    "norm": 47.1
+  },
+  "historic-milestone-for-administration-of-justice-in-union-te": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "cji",
+    "norm": 47.1
+  },
+  "-massive-achievement-retired-chief-justice-raftan-on-j-k-hig": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "high court",
+    "norm": 47.1
+  },
+  "-ladakh-inseparable-from-india-former-lahdc-cec-condemns-chi": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "china",
+    "norm": 47.1
+  },
+  "govt-working-on-central-scheme-on-agrivoltaics": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "mla",
+    "norm": 45.9
+  },
+  "duplicate-voter-ids-can-get-generated-says-up-ceo-orders-off": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
     "signature": "vote",
+    "norm": 45.9
+  },
+  "more-bad-news-for-starlink-after-india-ukraine-controversies": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "star",
+    "norm": 45.5
+  },
+  "veteran-assamese-singer-binapani-gogoi-borgohain-dies": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "singer",
+    "norm": 45.5
+  },
+  "rajinikanth-jailer-2-becomes-first-south-indian-film-to-get-": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "film",
+    "norm": 45.5
+  },
+  "three-regions-three-strategies-how-pakistan-is-changing-its-": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "pakistan",
     "norm": 44
   },
-  "-no-respect-for-law-court-says-cjp-s-saurav-das-ashutosh-ran": {
-    "firstSeen": "2026-10-20T00:16:17.490Z",
+  "us-orders-removal-of-china-deepseek-products-from-federal-ci": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "china",
+    "norm": 44
+  },
+  "madhuri-dixit-reveals-she-wore-her-grandmother-traditional-n": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "wedding",
+    "norm": 42.4
+  },
+  "-how-to-make-sense-of-this-situation-30-year-old-phd-holder-": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "karnataka-woman-plots-husband-murder-with-painter-turned-lov": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "6-of-india-smallest-mammals-no-one-told-you-about": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "-america-of-today-is-more-polarised-than-ever-before-raja-kr": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "-their-conduct-shows-no-respect-for-law-court-on-cjp-leader-": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "new-zealand-to-deepen-trade-ties-with-brazil-canada-as-india": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "dussehra-2026-today-date-vijay-muhurta-ravana-dahan-timings-": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "mohan-bhagwat-observes-rs-101st-foundation-day": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "justice-for-three-surfers-as-mexico-court-sends-3-killers-to": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "punjab-police-official-shoots-wife-2-sons-over-domestic-disp": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
     "signature": "",
     "norm": 36
+  },
+  "ladakh-l-g-notifies-hill-council-amendment-opens-way-for-cou": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 36
+  },
+  "chennithala-seeks-stringent-ndps-act-centre-state-initiative": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "apple-to-unveil-new-macbook-pro-models-on-october-28-gsmaren": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "asian-para-games-manish-narwal-wins-silver-in-10m-air-pistol": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "kumar-sanu-daughter-shannon-k-wishes-father-on-69th-birthday": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "asian-para-games-baby-sahana-ravi-clinches-historic-bronze-i": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "tn-heavy-security-in-place-for-kulasekaranpattinam-dussehra-": {
+    "firstSeen": "2026-10-20T05:56:51.237Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
