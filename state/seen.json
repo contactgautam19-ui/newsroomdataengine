@@ -1,32 +1,27 @@
 {
-  "-state-sponsored-terrorism-mamata-demands-release-of-cjp-s-d": {
-    "firstSeen": "2026-10-19T21:00:19.689Z",
-    "signature": "mamata|terror|terror",
-    "norm": 66
+  "no-patriot-missiles-for-ukraine-trump-holds-up-transfer-as-t": {
+    "firstSeen": "2026-10-20T00:16:17.490Z",
+    "signature": "mp|riot|trump|trump",
+    "norm": 71.6
   },
-  "trump-says-he-is-ready-to-meet-putin-xi-in-china-next-month": {
-    "firstSeen": "2026-10-19T21:00:19.689Z",
-    "signature": "china|mp|president|summit|trump|trump",
-    "norm": 63.4
+  "pete-hegseth-makes-surprise-visit-to-israel-meets-netanyahu-": {
+    "firstSeen": "2026-10-20T00:16:17.490Z",
+    "signature": "israel|minister|prime minister|surprise",
+    "norm": 65.3
   },
-  "us-court-orders-fired-saudi-engineer-to-remain-in-custody-in": {
-    "firstSeen": "2026-10-19T21:00:19.689Z",
-    "signature": "fire|fire|mp",
-    "norm": 62.8
+  "opinion-saving-innocent-israelis-not-appreciated": {
+    "firstSeen": "2026-10-20T00:16:17.490Z",
+    "signature": "captain|israel|slam",
+    "norm": 64.6
   },
-  "bigg-boss-20-rohit-shetty-to-host-weekend-ka-vaar-in-salman-": {
-    "firstSeen": "2026-10-19T21:00:19.689Z",
-    "signature": "fan|khan|rohit",
-    "norm": 48.3
-  },
-  "japan-launches-world-first-mission-to-moon-of-mars": {
-    "firstSeen": "2026-10-19T21:00:19.689Z",
-    "signature": "mp",
+  "will-alberta-break-away-from-canada-oil-rich-province-votes-": {
+    "firstSeen": "2026-10-20T00:16:17.490Z",
+    "signature": "vote",
     "norm": 44
   },
-  "25-florida-students-turn-9-year-old-girl-s-wheelchair-into-h": {
-    "firstSeen": "2026-10-19T21:00:19.689Z",
+  "-no-respect-for-law-court-says-cjp-s-saurav-das-ashutosh-ran": {
+    "firstSeen": "2026-10-20T00:16:17.490Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   }
 }
