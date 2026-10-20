@@ -1,197 +1,302 @@
 {
-  "neha-bora-the-permanence-of-agitation": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "election|election|election commission|mp|protest|protest",
-    "norm": 77.2
+  "sanjay-raut-s-albania-model-remark-triggers-political-storm-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "bjp|controversy|mp|protest|protest|storm",
+    "norm": 80.1
   },
-  "breaking-russia-ukraine-war-beyond-borders-rubio-flags-risk-": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "border|row|war|warning",
-    "norm": 72.6
+  "1998-coimbatore-blasts-convicts-get-parole-bjp-jabs-with-bet": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "betray|bjp|blast|chief minister|khan|minister",
+    "norm": 80
   },
-  "asian-para-games-1-2-for-india-pranav-ram-ratan-clinch-discu": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "gold|mp|record|row",
-    "norm": 71.4
+  "trump-8-billion-agricultural-aid-from-8-billion-in-farm-aid-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "bill|billion|election|election|mp|trump|trump",
+    "norm": 78.5
   },
-  "protests-barred-at-3-bhopal-sites-for-2-months-no-alternativ": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "fire|fire|protest|protest",
-    "norm": 67.6
+  "on-ecinet-platform-access-for-states-can-be-switched-off-and": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "election|election|election commission|rally|rally",
+    "norm": 69
   },
-  "it-is-state-sponsored-terrorism-mamata-banerjee-over-extensi": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "mamata|terror|terror",
-    "norm": 67.6
+  "amit-shah-sets-december-31-2029-as-deadline-to-make-punjab-n": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "amit shah|dead|dead",
+    "norm": 68.7
   },
-  "hotel-cook-faces-rs-4-cr-tax-demand-but-he-alleges-pan-misus": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "crore|deal|mp|star|tax",
+  "will-trump-visit-india-soon-marco-rubio-signals-possible-qua": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "ipl|mp|summit|trump|trump",
+    "norm": 67
+  },
+  "-we-must-stand-together-for-national-interest-pm-modi-invoke": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "deal|modi|modi",
     "norm": 66.7
   },
-  "firing-at-tiger-shroff-spotlights-multifaceted-bollywood-und": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "bollywood|bollywood|film|gst",
-    "norm": 66
+  "-have-to-balance-our-interest-marco-rubio-on-us-buying-russi": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "diesel|mp|war",
+    "norm": 65.6
   },
-  "rubio-lands-in-mumbai-set-to-meet-jaishankar-today": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "chief minister|jaishankar|maharashtra|minister",
-    "norm": 61.8
+  "paris-returns-to-calm-after-violent-protests-as-france-impos": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "mp|protest|protest",
+    "norm": 63.9
   },
-  "model-shraddha-dubey-sister-and-driver-arrested-in-lucknow-c": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "death|died|sharma",
-    "norm": 61.1
+  "pm-modi-flags-three-enemies-of-india-calls-for-unity-in-nati": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 63.5
   },
-  "air-chief-marshal-ap-singh-takes-final-sortie-in-kiran-aircr": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "iran|mp|watch",
-    "norm": 61.1
-  },
-  "iran-guards-say-2-violating-oil-tankers-set-ablaze-in-strait": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "blaze|iran|mp",
-    "norm": 61.1
-  },
-  "marco-rubio-holds-talks-with-eam-jaishankar-india-us-trade-d": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "deal|jaishankar|video",
-    "norm": 60.7
-  },
-  "calcutta-hc-says-inquiry-commission-headed-by-retired-judge-": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "mp|stampede|supreme court",
-    "norm": 59.7
-  },
-  "-india-is-an-important-ally-us-secretary-of-state-marco-rubi": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "mp|trump|trump",
-    "norm": 59.7
-  },
-  "jaishankar-voices-concern-over-gulf-situation-during-talks-w": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "diplomacy|ipl|jaishankar",
-    "norm": 59.7
-  },
-  "shiv-sena-s-dussehra-rally-bal-thackeray-s-60-year-old-legac": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "mp|rally|rally",
-    "norm": 54.7
-  },
-  "marco-rubio-in-mumbai-for-3-day-india-visit-trade-deal-talks": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "deal|mp",
-    "norm": 53.2
-  },
-  "india-uk-trade-deal-indian-exports-rise-8-imports-fall-17-in": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "deal|mp",
-    "norm": 53.2
-  },
-  "gujarat-govt-gifts-part-of-disputed-vadodara-plot-to-yusuf-p": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "bjp|lok sabha|mamata|mp",
-    "norm": 52.1
-  },
-  "bjp-s-delimitation-gambit-how-it-can-isolate-congress-punctu": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "bjp|congress|opposition",
-    "norm": 50.9
-  },
-  "amit-shah-meets-slain-anti-drug-activist-parvinder-singh-jho": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "amit shah|chief minister|minister",
-    "norm": 50.9
-  },
-  "haryana-s-bps-government-medical-college-becomes-first-india": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "effigies-of-blue-drum-murder-convicts-hung-alongside-demons-": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "gold",
-    "norm": 48.2
-  },
-  "-will-happen-shortly-rubio-on-us-trade-deal-calls-india-refi": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "deal",
-    "norm": 44
-  },
-  "ex-gunman-of-veena-george-will-face-action-for-false-stateme": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "minister",
-    "norm": 44
-  },
-  "hc-upholds-life-term-of-assailant-in-gulshan-kumar-murder-ca": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "film",
-    "norm": 42.4
-  },
-  "actor-tiger-shroff-escapes-unhurt-in-juhu-firing-incident-su": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "actor",
-    "norm": 42.4
-  },
-  "-felt-very-happy-annamalai-welcomes-bhagwat-s-remarks-on-mus": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-deeply-regrettable-sanjay-raut-s-albania-arson-post-draws-f": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "kovalam-spa-sexual-abuse-probe-widens-as-health-inspector-ar": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "encroachment-on-638-hectares-of-land-cleared-in-eviction-dri": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "who-is-ravleen-varghese-kerala-model-makes-history-at-victor": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "vijayan-demands-action-over-sma-clinical-trial-drugs-given-t": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "-they-chose-canada-alberta-rejects-separation-bid-in-win-for": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "over-hundred-people-gather-in-front-of-assam-secretariat-to-": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 33.9
+  "kanthapuram-sunni-faction-calls-off-protests-against-waqf-bo": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "minister|protest|protest",
+    "norm": 62.8
   },
   "gujarat-to-gift-part-of-disputed-vadodara-plot-to-yusuf-path": {
     "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 33.9
+    "signature": "congress|cricket|cricketer",
+    "norm": 62.5
   },
-  "hygiene-lapses-found-at-delhi-sweet-manufacturing-units-ahea": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 33.9
+  "with-debt-burdened-economy-pakistan-eyes-moon-landing-by-203": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "china|economy|pakistan",
+    "norm": 60.4
   },
-  "tiger-shroff-firing-incident-mumbai-police-take-custody-of-t": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
-    "signature": "",
-    "norm": 33.9
+  "west-bengal-cm-meets-families-of-deceased-in-kolkata-puja-pa": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "mp|stampede",
+    "norm": 60
   },
-  "oregon-backyard-hobby-grew-into-world-s-longest-miniature-ra": {
-    "firstSeen": "2026-10-20T11:26:14.441Z",
+  "mp-board-exam-pattern-2026-27-new-rules-for-classes-9-to-12-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "exam|mp",
+    "norm": 60
+  },
+  "pm-modi-burns-ravana-effigy-at-dussehra-celebrations-in-delh": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "modi|modi",
+    "norm": 58.3
+  },
+  "indian-equities-vs-gold-vs-us-stocks-which-asset-class-deliv": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "gold|stocks",
+    "norm": 58.3
+  },
+  "-purpose-of-power-is-to-serve-pm-modi-invokes-ram-rajya-as-g": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "modi|modi",
+    "norm": 58.3
+  },
+  "pinarayi-vijayan-questions-sma-drug-distribution-sat-hospita": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "hospital|minister",
+    "norm": 57.1
+  },
+  "the-algorithm-driving-french-student-protests": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "protest|protest",
+    "norm": 57.1
+  },
+  "police-actions-on-protesters-violate-india-s-core-internatio": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "-is-it-wrong-to-remove-bogus-voter-entries-from-electoral-ro": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "bjp|opposition|vote",
+    "norm": 53.9
+  },
+  "trade-talk-to-bond-with-jaishankar-marco-rubio-highlighted-1": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "deal|jaishankar",
+    "norm": 53.2
+  },
+  "sbi-data-leak-claim-hacker-allegedly-leaks-3-75-lakh-records": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "lakh|record",
+    "norm": 53.2
+  },
+  "rubio-urges-india-to-boost-us-energy-defence-purchases-in-ta": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "defence|jaishankar|mp",
+    "norm": 52.7
+  },
+  "air-chief-marshal-a-p-singh-completes-final-iaf-sortie-in-hy": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "first-ever|mp",
+    "norm": 52
+  },
+  "emergency-fund-earn-1-lakh-a-month-here-how-much-you-should-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "fund|lakh",
+    "norm": 51.7
+  },
+  "-movie-release-kab-ho-rahi-hai-salman-khan-unveils-new-song-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "fan|khan|movie",
+    "norm": 51.3
+  },
+  "iran-guards-say-their-mines-halted-two-tankers-crossing-stra": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "iran",
+    "norm": 51.2
+  },
+  "amazon-targets-nvidia-software-edge-with-new-ai-tool": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "war",
+    "norm": 51.2
+  },
+  "up-horror-father-shoots-19-year-old-daughter-in-head-for-ref": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "horror",
+    "norm": 49.4
+  },
+  "rahul-gandhi-rss-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "rahul gandhi",
+    "norm": 49
+  },
+  "wife-unwillingness-to-live-with-husband-is-valid-ground-to-g": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "high court",
+    "norm": 47.1
+  },
+  "-religious-sentiments-hurt-aap-demands-fir-over-30ft-cockroa": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "aap",
+    "norm": 47.1
+  },
+  "west-bengal-cm-adhikari-distributes-compensation-cheques-to-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "mp",
+    "norm": 47.1
+  },
+  "indian-navy-issues-rfps-for-four-lhds-and-ngf-programme": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "navy",
+    "norm": 47.1
+  },
+  "telangana-cm-reviews-global-investment-summit-telugupeople-c": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "summit",
+    "norm": 47.1
+  },
+  "-every-individual-must-reflect-lord-ram-ideals-to-eradicate-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "deal",
+    "norm": 47.1
+  },
+  "reliance-is-a-very-important-company-with-extraordinary-capa": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-financial-heart-and-soul-of-india-marco-rubio-explains-why-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "reports-auburn-dismisses-star-lb-xavier-atkins": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "star",
+    "norm": 45.5
+  },
+  "future-travel-starts-now-2026-jetour-global-technology-exper": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "star",
+    "norm": 45.5
+  },
+  "j-k-government-announces-annual-shifting-of-capital-from-sri": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "star",
+    "norm": 44.3
+  },
+  "aap-claims-punjab-cm-bhagwant-mann-stopped-at-airport-for-3-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "aap",
+    "norm": 44
+  },
+  "-the-blind-adrenaline-junkie-a-breathtaking-reminder-of-huma": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 39.4
+  },
+  "jonathan-levy-countercurrents": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "kajol-punit-balana-sari-featured-a-scene-stealing-blouse-emb": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "mku-daily-wagers-appeal-to-cm-for-regularisation-after-decad": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "discarded-from-aquariums-exotic-south-american-fish-invades-": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "salem-man-arrested-with-75-kg-of-ganja-in-coimbatore": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "dr-chandra-muzaffar-the-public-intellectual-of-the-east": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 39.4
+  },
+  "france-italy-face-unrest-over-living-costs-public-services": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "-winning-medal-for-india-is-dream-come-true-prachi-pandey-af": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "drdo-rci-opens-r-59-weapon-development-and-production-tender": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "one-family-brand-two-heirs-how-can-you-avoid-trademark-dispu": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "asian-para-games-2026-india-bags-35-medals-on-day-2-stays-si": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "tpad-bathukamma-draws-15-000-in-texas-telugupeople-com-news": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "delhi-to-varanasi-mumbai-to-pune-these-7-new-bullet-train-ro": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "hiking-uphill-could-feel-easier-with-these-robotic-pants-kno": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "-enough-drama-in-the-world-prince-harry-says-he-wants-to-rec": {
+    "firstSeen": "2026-10-20T16:53:20.579Z",
+    "signature": "",
+    "norm": 37.4
   }
 }
