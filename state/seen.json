@@ -1,302 +1,32 @@
 {
-  "israel-is-funding-arming-militias-to-terrorise-people-in-gaz": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "flood|flood|fund|israel|mp|terror|terror",
-    "norm": 85
-  },
-  "-russia-is-a-big-machine-trump-says-ukraine-has-to-want-to-s": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "mp|president|trump|trump|war",
-    "norm": 72
-  },
-  "by-2024-buscemi-backed-charity-provided-4-200-counselling-se": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "emotional|fire|fire|toll",
+  "left-parties-should-sell-books-from-party-offices-not-at-dur": {
+    "firstSeen": "2026-10-20T23:48:34.420Z",
+    "signature": "attack|attack|chief minister|minister",
     "norm": 70
   },
-  "-there-are-stupid-dumb-hateful-people-marco-rubio-on-disturb": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "attack|attack|mp|rbi",
-    "norm": 68.8
+  "billionaire-mukesh-ambani-launches-india-s-biggest-ever-ipo": {
+    "firstSeen": "2026-10-20T23:48:34.420Z",
+    "signature": "ambani|bill|billion|ipo|vote",
+    "norm": 68.7
   },
-  "trump-says-ukraine-has-to-want-to-settle-war": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "mp|trump|trump|war",
-    "norm": 67.6
-  },
-  "at-dussehra-rally-uddhav-bats-for-regime-change-promises-acc": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "bjp|protest|protest|rally|rally|vote",
-    "norm": 67.6
-  },
-  "-we-re-about-as-close-as-you-can-be-marco-rubio-on-india-us-": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "deal|ipl|jaishankar|minister",
-    "norm": 65.6
-  },
-  "-ten-mouthed-ravana-eknath-shinde-takes-aim-at-india-bloc-at": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "election|election|opposition|rally|rally",
-    "norm": 64.9
-  },
-  "man-shot-dead-in-manipur-days-after-killing-of-3-firewood-co": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "dead|dead|fire|fire|war",
-    "norm": 64.5
-  },
-  "one-dead-few-injured-in-firing-inside-sgnp": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "alert|dead|dead|injured",
-    "norm": 63
-  },
-  "30-foot-high-cockroach-effigy-triggers-aap-bjp-war-of-words": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "aap|bjp|gst|war",
-    "norm": 62.7
-  },
-  "u-s-india-perfectly-aligned-on-core-issues-marco-rubio": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "jaishankar|terror|terror|war",
-    "norm": 62
-  },
-  "punjab-activist-jhota-s-kin-refuse-to-cremate-him-amit-shah-": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "amit shah|dead|dead",
-    "norm": 60.6
-  },
-  "-pakistan-is-a-country-that-marco-rubio-says-us-against-anyb": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 60.6
-  },
-  "on-paddy-field-conservation-in-keralam": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "flood|flood|floods",
-    "norm": 55.3
-  },
-  "newsprint-makers-seek-pm-modi-s-intervention-over-coal-short": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "fuel|modi|modi",
-    "norm": 54.5
-  },
-  "bhagwant-mann-stopped-at-delhi-airport-fined-rs-50-000-aap-r": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "aap|chief minister|minister|video",
-    "norm": 54.2
-  },
-  "-spend-time-with-your-families-remember-ashu-saurav-abhijeet": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "emotional|protest|protest",
-    "norm": 52.2
-  },
-  "uddhav-thackeray-questions-tiger-shroff-attack-response-chal": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "attack|attack",
-    "norm": 51.8
-  },
-  "guest-lecturers-yet-to-get-hike-in-honorarium-announced-in-t": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "budget|minister",
-    "norm": 50.5
-  },
-  "us-india-trade-ties-can-india-s-refining-power-give-it-lever": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "diplomacy|ipl",
-    "norm": 49.6
-  },
-  "tiger-shroff-firing-case-delhi-police-arrests-4-accused-incl": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "actor|shooting",
-    "norm": 48
-  },
-  "ex-aap-sarpanch-arrested-in-punjab-over-links-to-cop-caught-": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "aap|drone",
-    "norm": 47.4
-  },
-  "trade-talk-to-bond-with-jaishankar-marco-rubio-s-message-on-": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "deal|jaishankar",
-    "norm": 47.3
-  },
-  "students-gather-at-delhi-s-model-town-park-to-burn-20-feet-t": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "protest|protest",
-    "norm": 46.5
-  },
-  "3-arrested-in-after-fresh-manipur-violence-12-firearms-explo": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "fire|fire",
-    "norm": 46.5
-  },
-  "health-department-issues-circular-on-maintaining-medicine-st": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "hospital|stocks",
-    "norm": 45.4
-  },
-  "before-tiger-shroff-firing-shooters-recce-d-salman-khan-s-ho": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "khan",
-    "norm": 44.3
-  },
-  "video-zohran-mamdani-performs-garba-with-indian-community-in": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "mp|video",
-    "norm": 44.1
+  "musk-says-spacex-tesla-merger-a-good-idea-special-committees": {
+    "firstSeen": "2026-10-20T23:48:34.420Z",
+    "signature": "deal|row",
+    "norm": 57.1
   },
   "4-more-people-including-2-women-arrested-in-tiger-shroff-sho": {
     "firstSeen": "2026-10-20T20:30:39.460Z",
     "signature": "shooting",
-    "norm": 43.5
+    "norm": 46.3
   },
-  "when-south-africa-stumbled-bavuma-stood-tall": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "row",
-    "norm": 43.5
+  "-not-even-a-tiny-bit-iran-rejects-moving-enriched-uranium-ou": {
+    "firstSeen": "2026-10-20T23:48:34.420Z",
+    "signature": "iran",
+    "norm": 46.3
   },
-  "lucknow-murder-shiva-sharma-s-mother-welcomes-shraddha-dubey": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "sharma|video",
-    "norm": 42.5
-  },
-  "haryana-power-staff-call-3-day-strike-against-giving-licence": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "minister",
-    "norm": 41
-  },
-  "california-swimmer-completes-900-mile-coastal-swim-in-stages": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
+  "dasara-gift-for-singareni-officers-dy-cm-fulfils-long-pendin": {
+    "firstSeen": "2026-10-20T23:48:34.420Z",
     "signature": "mp",
-    "norm": 41
-  },
-  "kashmir-clerics-including-mirwaiz-say-eviction-of-delhi-s-hi": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "rbi",
-    "norm": 41
-  },
-  "-thank-you-for-free-publicity-abhijeet-dipke-on-cockroach-ef": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "mp",
-    "norm": 41
-  },
-  "exit-only-after-10-years-3-months-notice-what-pak-saudi-turk": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "alliance",
-    "norm": 41
-  },
-  "tiger-shroff-shooting-case-four-more-arrested-for-supplying-": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "shooting",
-    "norm": 40.1
-  },
-  "at-dussehra-rally-uddhav-thackeray-says-we-have-to-unfurl-sa": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "rally|rally",
-    "norm": 39.7
-  },
-  "finance-influencer-with-1-3-million-followers-dies-by-suicid": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "instagram",
-    "norm": 39.4
-  },
-  "keralam-seeks-fssai-clarity-on-high-fat-sugar-salt-food": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "minister|mp",
-    "norm": 38
-  },
-  "t-n-government-should-construct-new-secretariat-complex-outs": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "-you-cannot-divide-us-cjp-s-dipke-hits-back-at-trolls-says-d": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "aap-claims-punjab-cm-mann-detained-for-three-hours-at-delhi-": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "aap",
-    "norm": 37.5
-  },
-  "reliance-is-a-very-important-company-with-extraordinary-capa": {
-    "firstSeen": "2026-10-20T16:53:20.579Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "india-will-fight-for-its-own-interests-but-friends-bridge-di": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "deal",
-    "norm": 37.5
-  },
-  "bhagwant-mann-stopped-at-delhi-airport-for-3-hours-after-par": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "aap",
-    "norm": 37.5
-  },
-  "-not-months-us-india-trade-deal-expected-in-weeks-marco-rubi": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "deal",
-    "norm": 37.5
-  },
-  "shinde-calls-india-bloc-ten-headed-ravana-accuses-uddhav-of-": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "vote",
-    "norm": 37.5
-  },
-  "minecraft-26-4-snapshot-5-ice-bricks-new-advancement-and-mor": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "mla",
-    "norm": 37.5
-  },
-  "harmanpreet-kaur-s-91-powers-india-to-3-0-t20i-series-sweep-": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "cricket",
-    "norm": 35.5
-  },
-  "in-delhi-only-0-27-of-4-5-lakh-form-6s-disposed-of-so-far": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "lakh",
-    "norm": 32.8
-  },
-  "cjp-s-abhijeet-dipke-thanks-delhi-ramlila-organisers-for-fre": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "dussehra-celebrated-in-belagavi": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "aap",
-    "norm": 32.8
-  },
-  "delhi-police-transfers-cjp-leaders-case-to-crime-branch-ahea": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "",
-    "norm": 30.7
-  },
-  "the-eci-s-unfinished-lessons": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "",
-    "norm": 30.7
-  },
-  "tiger-shroff-firing-four-more-people-including-two-women-arr": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "",
-    "norm": 26.7
-  },
-  "in-a-first-iit-madras-to-maps-100-human-brains-from-foetus-t": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "delhi-air-quality-set-to-deteriorate-to-poor-category-from-w": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "california-s-750-acre-irvine-lake-to-be-drained-for-five-yea": {
-    "firstSeen": "2026-10-20T20:30:39.460Z",
-    "signature": "",
-    "norm": 21.2
+    "norm": 44
   }
 }
