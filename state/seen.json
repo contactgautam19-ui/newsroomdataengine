@@ -1,92 +1,302 @@
 {
+  "at-jamnagar-refinery-rubio-and-ambanis-discuss-energy-digita": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "ambani|bill|billion|jobs|mp|president|trump|trump",
+    "norm": 76.4
+  },
+  "why-are-uninsured-vehicles-not-part-of-crash-relief-scheme-s": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "crash|crash|mp|supreme court|war",
+    "norm": 75.5
+  },
+  "delhi-creator-calls-tripura-youth-chinese-mocks-his-looks-in": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "record|video|viral|viral|viral|viral video",
+    "norm": 75.5
+  },
+  "2-killed-indian-injured-by-houthi-drone-debris-at-saudi-oil-": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "drone|injured|killed|killed|pakistan",
+    "norm": 73.9
+  },
+  "ukraine-s-drones-drop-like-flies-from-sky-after-starshield-d": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "drone|fund|star|sudden|suddenly|video|war",
+    "norm": 69.9
+  },
+  "delhi-content-creator-racially-abuses-tripura-youth-minister": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "minister|video|viral|viral|viral",
+    "norm": 68.8
+  },
+  "drug-menace-next-target-says-union-home-minister-amit-shah-e": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "amit shah|dead|dead|minister",
+    "norm": 64.7
+  },
+  "bjd-slams-bjp-for-personal-attack-on-naveen-over-his-demand-": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "attack|attack|bjp|slam|slams",
+    "norm": 64.7
+  },
+  "india-deal-pretty-close-will-be-different-trump-pact-to-excl": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "deal|mp|trump|trump",
+    "norm": 62.7
+  },
   "student-killed-after-being-hit-by-train-in-kozhikode": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "killed|killed|mp|war",
-    "norm": 72.6
+    "norm": 62
   },
-  "drone-linked-narco-terror-module-busted-in-jammu-804-gm-hero": {
-    "firstSeen": "2026-10-21T20:04:54.437Z",
-    "signature": "border|drone|terror|terror",
-    "norm": 71.4
+  "meta-ordered-to-pay-25-billion-over-data-leak-with-a-trump-l": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "bill|billion|mp|trump|trump",
+    "norm": 61
   },
-  "who-are-the-terrorists-j-amp-k-and-ladakh-high-court-questio": {
-    "firstSeen": "2026-10-21T20:04:54.437Z",
-    "signature": "high court|mp|terror|terror",
-    "norm": 70
+  "drug-menace-next-target-says-amit-shah-eyes-2029-deadline": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "amit shah|dead|dead",
+    "norm": 60.6
+  },
+  "tiger-shooters-got-weapons-via-dead-drop-couriers-delivered-": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "dead|dead|gst",
+    "norm": 60.6
+  },
+  "pm-modi-has-failed-abysmally-on-manipur-says-congress-chief-": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "amit shah|congress|minister|modi|modi|president|prime minister|supreme court",
+    "norm": 58.3
+  },
+  "-does-bjp-want-opposition-votes-to-split-annamalai-backs-cjp": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "bjp|opposition|protest|protest|vote",
+    "norm": 58.2
+  },
+  "west-bengal-government-sets-up-sit-headed-by-retired-justice": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "chief minister|high court|minister|mp|stampede",
+    "norm": 57.4
+  },
+  "will-not-rest-until-j-k-is-freed-from-separatist-terrorist-e": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "governor|terror|terror",
+    "norm": 56.7
+  },
+  "democrats-sue-trump-over-voter-roll-purge-ahead-of-midterms": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "mp|trump|trump|vote",
+    "norm": 56.3
+  },
+  "subway-co-founder-s-relative-bought-6-75m-warehouse-plans-1-": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "mp|war",
+    "norm": 55.4
+  },
+  "kochi-pharma-firm-loses-99-lakh-in-alleged-impersonation-fra": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "fraud|lakh|mp",
+    "norm": 54.5
+  },
+  "nestle-zydus-wellness-get-notices-over-claims-about-infant-n": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "fan|mp|row",
+    "norm": 53
+  },
+  "cars-to-brake-on-their-own-centre-plans-aebs-mandate-from-oc": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "tax|war",
+    "norm": 52.7
+  },
+  "andhra-poll-panel-halts-election-process-across-100-urban-lo": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "election|election|poll|supreme court",
+    "norm": 52.3
+  },
+  "surrendered-maoist-found-dead-in-rehabilitation-facility-pol": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "dead|dead",
+    "norm": 51.8
   },
   "kuki-zo-groups-demand-reimposition-of-president-s-rule-in-ma": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "died|mp|president",
-    "norm": 61.4
+    "norm": 50
   },
-  "trade-defence-and-the-russia-ukraine-conflict-to-dominate-mo": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "defence|modi|modi",
-    "norm": 59.7
+  "rosatom-completes-esfas-equipment-supply-for-kudankulam-n-pl": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "actor|mp",
+    "norm": 49
   },
   "j-k-hc-summons-srinagar-deputy-commissioner-over-detention-o": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "exam|war",
-    "norm": 59.3
+    "norm": 47.7
   },
   "t-n-government-fixes-car-purchase-ceiling-at-26-lakh-for-min": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "lakh|minister|mla",
-    "norm": 57.6
+    "norm": 47.7
+  },
+  "delhi-protests-india-s-internal-matter-won-t-comment-marco-r": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "protest|protest",
+    "norm": 46.5
+  },
+  "haryana-congress-flays-bjp-government-over-its-failure-to-ke": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "bjp|congress|mp|poll",
+    "norm": 46.1
+  },
+  "parvinder-singh-jhota-murder-case-cbi-takes-over-probe-oppos": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "exam|opposition",
+    "norm": 45.4
+  },
+  "trade-defence-and-the-russia-ukraine-conflict-to-dominate-mo": {
+    "firstSeen": "2026-10-21T15:11:02.286Z",
+    "signature": "defence|modi|modi",
+    "norm": 44.5
+  },
+  "texas-family-sells-650-acre-lakeside-ranch-for-over-10m-for-": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "poll",
+    "norm": 44
+  },
+  "poll-body-disposes-of-1-lakh-out-of-4-5-lakh-form-6-applicat": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "lakh|poll",
+    "norm": 43
+  },
+  "sc-stays-probe-against-vijayan-amp-kin-for-a-week-to-enable-": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "high court|mp",
+    "norm": 42.5
+  },
+  "u-p-cm-yogi-issues-directions-for-strict-legal-action-in-cas": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "mp|yogi",
+    "norm": 42.5
+  },
+  "protests-banned-in-parts-of-paris-today-police": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "-no-more-jantar-mantar-protest-calls-vow-by-cjp-s-saurav-das": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "will-get-support-of-275-mlas-in-294-member-assembly-says-wes": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "bjp|chief minister|minister|mla",
+    "norm": 41.8
+  },
+  "putin-ready-to-resume-three-way-ukraine-peace-talks": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "mp",
+    "norm": 41
   },
   "aap-alleges-corruption-in-djb-on-spraying-of-anti-frothing-a": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "aap|mp|president",
-    "norm": 50.9
+    "norm": 40.6
   },
-  "connecticut-tenant-wins-1-6m-after-losing-toe-lawyer-says-he": {
-    "firstSeen": "2026-10-21T20:04:54.437Z",
-    "signature": "war",
-    "norm": 46.3
+  "air-quality-commission-meets-delhi-government-agencies-over-": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "mp|poll",
+    "norm": 38
+  },
+  "confidence-in-poll-key-for-democracy-halt-candidates-list-sc": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "poll",
+    "norm": 37.5
   },
   "ukraine-s-zelensky-hopes-for-new-talks-with-russia-us-by-ear": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "president",
-    "norm": 45.9
+    "norm": 32.8
   },
   "man-booked-for-allegedly-defaming-aluva-mla-on-social-media": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "mla",
-    "norm": 45.9
-  },
-  "manhattan-townhouse-with-41-foot-indoor-pool-lists-for-10-45": {
-    "firstSeen": "2026-10-21T20:04:54.437Z",
-    "signature": "price",
-    "norm": 44
+    "norm": 32.8
   },
   "jd-vance-disgusted-by-republicans-over-vivek-ramaswamy-s-con": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "president",
-    "norm": 44
+    "norm": 32.8
+  },
+  "who-is-dr-shivkumar-kalyanaraman-anusandhan-national-researc": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "summit",
+    "norm": 32.8
+  },
+  "no-money-no-problem-robbers-make-man-take-loan-to-loot-him-i": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "sanction",
+    "norm": 32.8
+  },
+  "new-norms-for-driving-licence-tutorial-pass-mark-may-rise-to": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "jeff-gordon-backed-rwanda-cancer-centre-saw-over-18-000-pati": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "",
+    "norm": 26.7
   },
   "tiger-shroff-firing-case-shooters-also-conducted-recce-of-ra": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
   "ladakh-administration-dissolves-kargil-hill-council-amid-reo": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "",
-    "norm": 36
-  },
-  "rss-affiliated-labour-organisation-opens-first-kashmir-offic": {
-    "firstSeen": "2026-10-21T20:04:54.437Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   },
   "23rd-kaladarshini-cultural-festival-from-october-26-in-vijay": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   },
   "vijay-congratulates-kasthuri-rajamani-for-clinching-silver-m": {
     "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
+  },
+  "iit-madras-to-train-bio-tech-graduates-in-practical-skills": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "openai-says-2-of-its-ai-agents-disabled-their-own-safety-mon": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "tribal-held-for-possession-of-country-made-gun-explosives-in": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "putin-tells-us-envoy-russia-is-willing-to-resume-ukraine-pea": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "child-assault-convict-nepali-citizen-escape-from-chennai-s-c": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "81-tamil-nadu-prison-inmates-publish-85-books-of-poems-short": {
+    "firstSeen": "2026-10-21T23:16:00.644Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
