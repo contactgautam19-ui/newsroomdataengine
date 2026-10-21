@@ -1,171 +1,91 @@
 {
-  "california-ant-war-killed-15-million-workers-in-6-months-res": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "dead|dead|killed|killed|result|surprising|war",
-    "norm": 86.7
+  "student-killed-after-being-hit-by-train-in-kozhikode": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "killed|killed|mp|war",
+    "norm": 72.6
   },
-  "ysrcp-crying-foul-after-vitiating-the-process-of-local-body-": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "alliance|chief minister|cry|election|election|minister|mla|mp|opposition|president|supreme court|verdict",
-    "norm": 75.5
+  "drone-linked-narco-terror-module-busted-in-jammu-804-gm-hero": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "border|drone|terror|terror",
+    "norm": 71.4
   },
-  "naam-tamilar-katchi-s-dharapuram-bypoll-candidate-karthika-a": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "mp|poll|protest|protest|slam|slams",
-    "norm": 74.4
+  "who-are-the-terrorists-j-amp-k-and-ladakh-high-court-questio": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "high court|mp|terror|terror",
+    "norm": 70
   },
-  "bengal-government-forms-sit-headed-by-ex-judge-to-probe-chor": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "killed|killed|mp|stampede",
-    "norm": 71
-  },
-  "sacramento-jury-awards-33-3m-to-jogger-struck-by-dead-tree-l": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "dead|dead|war",
-    "norm": 64.5
-  },
-  "-suddenly-we-hear-about-regime-change-delhi-hc-during-cjp-le": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "row|sudden|suddenly|supreme court",
-    "norm": 63.9
-  },
-  "mallikarjun-kharge-says-pm-modi-insults-opposition-by-gettin": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "congress|modi|modi|opposition|president",
-    "norm": 62.9
+  "kuki-zo-groups-demand-reimposition-of-president-s-rule-in-ma": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "died|mp|president",
+    "norm": 61.4
   },
   "trade-defence-and-the-russia-ukraine-conflict-to-dominate-mo": {
     "firstSeen": "2026-10-21T15:11:02.286Z",
     "signature": "defence|modi|modi",
-    "norm": 61.4
+    "norm": 59.7
   },
-  "dasara-liquor-rush-pushes-telangana-sales-past-2-000-crore-i": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "crore|mp|record",
-    "norm": 60.7
-  },
-  "centre-tells-tv-channels-to-pick-panellists-carefully-mute-o": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "terror|terror",
+  "j-k-hc-summons-srinagar-deputy-commissioner-over-detention-o": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "exam|war",
     "norm": 59.3
   },
-  "forest-dept-all-set-to-build-elephant-crossings-on-gap-road-": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "crore|mp|sanction",
-    "norm": 59.3
-  },
-  "-bishnoi-gang-s-anil-pandit-behind-attack-on-tiger-shroff-mu": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "attack|attack",
+  "t-n-government-fixes-car-purchase-ceiling-at-26-lakh-for-min": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "lakh|minister|mla",
     "norm": 57.6
   },
-  "prashanth-emerges-as-new-king-of-dasara-jumbos-carries-golde": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "gold|mp",
-    "norm": 57.1
-  },
-  "supreme-court-judgment-opens-up-the-religion-neutrality-of-o": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "supreme court|war",
-    "norm": 57.1
-  },
-  "student-run-over-by-train-in-kozhikode": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "mp|war",
-    "norm": 57.1
-  },
-  "eight-web-security-keys-of-emudhra-firm-used-by-govt-and-psu": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "mp|tax",
-    "norm": 55
-  },
-  "no-jantar-mantar-protest-call-until-it-remains-de-notified-c": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "cjp-s-saurav-das-ashutosh-ranka-released-after-7-day-judicia": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "national-saras-mela-in-vijayawada-records-5-crore-sale-in-ei": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "crore|record",
-    "norm": 52
-  },
-  "-seek-police-permission-priyank-kharge-s-message-to-rss-over": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "bjp|congress|minister",
+  "aap-alleges-corruption-in-djb-on-spraying-of-anti-frothing-a": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "aap|mp|president",
     "norm": 50.9
   },
-  "keralam-telangana-chief-ministers-attend-jamboo-savari-in-my": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
+  "connecticut-tenant-wins-1-6m-after-losing-toe-lawyer-says-he": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "abhimanyu-receives-emotional-farewell-in-final-dasara-appear": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "emotional",
-    "norm": 48.2
+  "ukraine-s-zelensky-hopes-for-new-talks-with-russia-us-by-ear": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "president",
+    "norm": 45.9
   },
-  "man-booked-for-alleged-defamatory-remarks-against-aluva-mla": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
+  "man-booked-for-allegedly-defaming-aluva-mla-on-social-media": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "mla",
     "norm": 45.9
   },
-  "hookah-services-offered-in-some-pubs-and-cafes-in-chennai-al": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "high court",
-    "norm": 45.9
+  "manhattan-townhouse-with-41-foot-indoor-pool-lists-for-10-45": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "price",
+    "norm": 44
   },
-  "wadiyar-traditions-come-alive-as-royal-navaratri-ends": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
+  "jd-vance-disgusted-by-republicans-over-vivek-ramaswamy-s-con": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
+    "signature": "president",
+    "norm": 44
+  },
+  "tiger-shroff-firing-case-shooters-also-conducted-recce-of-ra": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "",
     "norm": 36
   },
-  "tributes-paid-to-police-martyrs-in-nandyal-kurnool-and-anant": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
+  "ladakh-administration-dissolves-kargil-hill-council-amid-reo": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "",
     "norm": 36
   },
-  "tdp-mayor-candidate-pledges-pothole-free-garbage-free-guntur": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
+  "rss-affiliated-labour-organisation-opens-first-kashmir-offic": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "choutuppal-to-new-zealand-telangana-s-first-consignment-flag": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
+  "23rd-kaladarshini-cultural-festival-from-october-26-in-vijay": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "karnataka-police-to-get-new-whistle-guards-matte-finish-butt": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "",
-    "norm": 36
-  },
-  "kirsten-dunst-bought-la-home-for-2-6m-sold-it-for-4-55m-in-2": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "",
-    "norm": 36
-  },
-  "louisiana-s-historic-lincoln-theater-set-to-reopen-oct-29-af": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "",
-    "norm": 36
-  },
-  "officials-honour-police-martyrs-pledge-support-for-families": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "",
-    "norm": 36
-  },
-  "jalaj-saxena-equals-bishan-bedi-as-kerala-notch-up-innings-w": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
-    "signature": "",
-    "norm": 36
-  },
-  "microsoft-is-removing-8-copilot-shortcuts-from-file-explorer": {
-    "firstSeen": "2026-10-21T15:11:02.286Z",
+  "vijay-congratulates-kasthuri-rajamani-for-clinching-silver-m": {
+    "firstSeen": "2026-10-21T20:04:54.437Z",
     "signature": "",
     "norm": 33.9
   }
