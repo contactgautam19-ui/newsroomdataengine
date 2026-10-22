@@ -1,176 +1,76 @@
 {
-  "indian-diaspora-could-pay-price-for-west-s-immigration-backl": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "backlash|border|fire|fire|mp|price|trump|trump|war",
-    "norm": 98.3
+  "21-years-on-double-life-term-for-jammu-terror-attack-that-ki": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "attack|attack|defence|killed|killed|mp|terror|terror",
+    "norm": 84.5
   },
-  "pm-modi-polish-pm-donald-tusk-agree-to-deepen-cooperation-in": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "bill|billion|defence|modi|modi",
-    "norm": 71.6
+  "trump-asks-elon-musk-to-lift-ukraine-starlink-restrictions-r": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "mp|president|star|trump|trump",
+    "norm": 68.7
   },
-  "-want-good-relationship-with-pak-but-won-t-overlook-terroris": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "jaishankar|minister|terror|terror",
-    "norm": 70
+  "should-children-be-involved-in-political-campaigning-": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "election|election|high court|mp|parliament",
+    "norm": 62.9
   },
-  "administrative-chaos-grips-rajampet-lok-sabha-constituency-a": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "fire|fire|lok sabha|mp|parliament",
-    "norm": 69
+  "fda-suspends-eight-mumbai-eateries-seizes-38-tonnes-of-food-": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "maharashtra|mp|record",
+    "norm": 61.1
   },
-  "s-jaishankar-s-indira-reminder-after-rahul-gandhi-s-marco-ru": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "exam|ipl|jaishankar|minister|mp|rahul gandhi",
-    "norm": 68
+  "vanessa-hudgens-bought-gary-oldman-s-la-home-for-nearly-5m-s": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "mp|row",
+    "norm": 55.4
   },
-  "four-year-old-girl-drowns-in-temple-tank-at-yadagirigutta": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "drown|mp|row",
-    "norm": 67.6
+  "21-year-old-arrested-for-murdering-wife-dumping-body-in-stor": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "mp|storm",
+    "norm": 55.4
   },
-  "golden-chariot-revamped-fully-booked-for-the-first-time": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "gold|mp|riot",
-    "norm": 67.6
-  },
-  "-answer-is-obvious-s-jaishankar-on-un-double-standards-on-pr": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "jaishankar|minister|mp|protest|protest",
-    "norm": 67.3
-  },
-  "any-impeachment-motion-to-remove-cec-gyanesh-kumar-will-foll": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "mp|opposition|president|protest|protest",
-    "norm": 67.3
-  },
-  "telangana-allows-in-principle-sanctions-for-urban-projects-u": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "fund|ipl|sanction",
-    "norm": 65.6
-  },
-  "14-in-the-fray-in-karnataka-west-graduates-constituency-97-3": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "election|election|poll|vote",
-    "norm": 63.5
-  },
-  "ndtv-world-summit-2026-live-uae-minister-abdulla-bin-touq-al": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "minister|modi|modi|summit",
-    "norm": 63.5
-  },
-  "15-students-booked-for-stamping-on-pm-s-photo-": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "election|election|mp",
-    "norm": 61.4
-  },
-  "yemen-s-houthis-say-they-are-rescuing-14-indians-from-boat-a": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "attack|attack",
-    "norm": 57.6
-  },
-  "social-media-influencer-jason-samuel-arrested-in-connection-": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "death|mp",
-    "norm": 57.1
-  },
-  "kashi-tamil-sangamam-s-fifth-edition-will-be-a-tribute-to-th": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "ayodhya|minister",
-    "norm": 57.1
-  },
-  "russia-ukraine-war-5-tonnes-of-poha-and-a-beer-business-indi": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "deal|war",
-    "norm": 57.1
-  },
-  "telangana-council-of-higher-education-releases-final-phase-t": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "result|results|results",
-    "norm": 56.6
-  },
-  "earthquake-of-magnitude-7-0-hits-tibet": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "earthquake|earthquake",
-    "norm": 54.2
-  },
-  "brics-parliamentary-forum-to-meet-in-delhi-on-october-26-27": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "brics|lok sabha|parliament",
-    "norm": 52.7
-  },
-  "comprehensive-integrated-township-policy-to-continue-for-fiv": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "mp|policy",
-    "norm": 50.5
-  },
-  "-we-are-indians-tripura-teen-to-ndtv-on-delhi-influencer-s-r": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "film|video",
+  "-60-crore-annual-fund-to-keep-t-n-police-stations-clean": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "crore|fund",
     "norm": 48.7
   },
-  "pregnant-gujarat-woman-murdered-by-husband-in-laws-google-se": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "died",
+  "phoenix-office-tower-sold-for-10-3m-set-to-become-100-room-m": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "riot",
     "norm": 46.3
   },
-  "delay-drama-over-opening-of-3-key-bridges-in-mumbai": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "congress",
-    "norm": 45.9
+  "mnm-asks-cadres-to-step-up-groundwork-ahead-of-local-body-po": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "poll",
+    "norm": 44
   },
-  "video-of-activities-near-sholayar-reservoir-in-keralam-trigg": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "video",
-    "norm": 42.7
+  "high-court-relief-for-police-sub-inspector": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "high court",
+    "norm": 44
   },
-  "ec-stays-disqualification-of-palakkad-municipal-councillor-p": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "",
-    "norm": 36
+  "tenders-floated-for-elevated-corridor-from-lighthouse-to-thi": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "police-reunite-mother-with-missing-children-in-kadapa-distri": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "",
-    "norm": 36
+  "rape-of-elderly-woman-in-thrissur-kerala-high-court-upholds-": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "high court",
+    "norm": 44
   },
-  "animals-steal-the-show-at-mysuru-dasara-2026": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "",
-    "norm": 36
-  },
-  "praveen-kumar-faults-closing-of-medigadda-barrage-piers-sink": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "",
-    "norm": 36
-  },
-  "girls-participation-in-ncc-will-motivate-others-says-colonel": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "",
-    "norm": 36
-  },
-  "pre-bid-meet-held-on-procurement-of-7-800-mw-of-renewable-en": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "",
-    "norm": 36
-  },
-  "crackdown-on-ganja-cultivation-continues-40-plants-seized-in": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "",
-    "norm": 36
-  },
-  "stolen-jewellery-recovered-two-held-in-cuddalore": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
-    "signature": "",
-    "norm": 36
-  },
-  "brookline-mansion-asks-34m-could-beat-tom-brady-s-32-5m-home": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
+  "collective-urges-recognised-political-parties-to-boycott-ceo": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
     "signature": "",
     "norm": 33.9
   },
-  "texas-woman-can-challenge-20-000-home-auction-over-an-unrela": {
-    "firstSeen": "2026-10-22T15:13:30.026Z",
+  "iit-madras-announces-research-projects-on-ai-seeks-to-study-": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "two-men-returning-from-mysuru-dasara-die-as-bike-hits-electr": {
+    "firstSeen": "2026-10-22T20:00:25.756Z",
     "signature": "",
     "norm": 33.9
   }
