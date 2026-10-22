@@ -1,77 +1,27 @@
 {
-  "21-years-on-double-life-term-for-jammu-terror-attack-that-ki": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "attack|attack|defence|killed|killed|mp|terror|terror",
-    "norm": 84.5
+  "bjp-president-nitin-nabin-on-a-three-day-visit-to-jharkhand-": {
+    "firstSeen": "2026-10-22T23:16:41.650Z",
+    "signature": "bjp|khan|president",
+    "norm": 56.1
   },
-  "trump-asks-elon-musk-to-lift-ukraine-starlink-restrictions-r": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "mp|president|star|trump|trump",
-    "norm": 68.7
+  "-nothing-wrong-in-seeking-regime-change-neha-bora-in-delhi-h": {
+    "firstSeen": "2026-10-22T23:16:41.650Z",
+    "signature": "rupee|verdict",
+    "norm": 53.2
   },
-  "should-children-be-involved-in-political-campaigning-": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "election|election|high court|mp|parliament",
-    "norm": 62.9
-  },
-  "fda-suspends-eight-mumbai-eateries-seizes-38-tonnes-of-food-": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "maharashtra|mp|record",
-    "norm": 61.1
-  },
-  "vanessa-hudgens-bought-gary-oldman-s-la-home-for-nearly-5m-s": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "mp|row",
-    "norm": 55.4
-  },
-  "21-year-old-arrested-for-murdering-wife-dumping-body-in-stor": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "mp|storm",
-    "norm": 55.4
-  },
-  "-60-crore-annual-fund-to-keep-t-n-police-stations-clean": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "crore|fund",
-    "norm": 48.7
-  },
-  "phoenix-office-tower-sold-for-10-3m-set-to-become-100-room-m": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "riot",
+  "php-security-flaws-trigger-global-scramble-cert-in-flags-vul": {
+    "firstSeen": "2026-10-22T23:16:41.650Z",
+    "signature": "ipl",
     "norm": 46.3
   },
-  "mnm-asks-cadres-to-step-up-groundwork-ahead-of-local-body-po": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "poll",
-    "norm": 44
-  },
-  "high-court-relief-for-police-sub-inspector": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "high court",
-    "norm": 44
-  },
-  "tenders-floated-for-elevated-corridor-from-lighthouse-to-thi": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
+  "south-carolina-home-with-3-kitchens-and-indoor-pool-lists-fo": {
+    "firstSeen": "2026-10-22T23:16:41.650Z",
     "signature": "mp",
     "norm": 44
   },
-  "rape-of-elderly-woman-in-thrissur-kerala-high-court-upholds-": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "high court",
+  "necklace-almost-priced-at-15-for-car-boot-sale-later-sold-fo": {
+    "firstSeen": "2026-10-22T23:16:41.650Z",
+    "signature": "price",
     "norm": 44
-  },
-  "collective-urges-recognised-political-parties-to-boycott-ceo": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "iit-madras-announces-research-projects-on-ai-seeks-to-study-": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "two-men-returning-from-mysuru-dasara-die-as-bike-hits-electr": {
-    "firstSeen": "2026-10-22T20:00:25.756Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
