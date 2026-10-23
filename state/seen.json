@@ -1,47 +1,37 @@
 {
-  "punjab-house-passes-resolution-against-electoral-irregularit": {
-    "firstSeen": "2026-10-23T19:07:01.932Z",
-    "signature": "anger|bjp|chief minister|minister|vote",
-    "norm": 62.9
+  "cuba-next-trump-hints-at-little-stopover-after-us-warships-r": {
+    "firstSeen": "2026-10-23T23:04:35.233Z",
+    "signature": "iran|mp|threat|trump|trump|war",
+    "norm": 79.8
   },
-  "keralam-government-prioritising-infrastructure-development-i": {
-    "firstSeen": "2026-10-23T19:07:01.932Z",
-    "signature": "minister|mp",
-    "norm": 48.7
+  "students-protest-against-sir-at-mumbai-university-demand-arr": {
+    "firstSeen": "2026-10-23T23:04:35.233Z",
+    "signature": "election|election|election commission|protest|protest",
+    "norm": 76.8
   },
-  "shankarpally-police-deny-forcing-minor-girl-to-undergo-medic": {
-    "firstSeen": "2026-10-23T19:07:01.932Z",
-    "signature": "exam",
-    "norm": 48.2
+  "-a-racist-terror-attack-emmanuel-macron-condemns-deadly-shoo": {
+    "firstSeen": "2026-10-23T23:04:35.233Z",
+    "signature": "attack|attack|dead|dead|shooting|terror|terror",
+    "norm": 75.8
   },
-  "kerala-artist-tom-vattakuzhy-s-shows-in-london-and-paris-ref": {
-    "firstSeen": "2026-10-23T19:07:01.932Z",
-    "signature": "controversy",
+  "trump-eases-tariffs-on-canadian-imports-weeks-before-us-midt": {
+    "firstSeen": "2026-10-23T23:04:35.233Z",
+    "signature": "mp|trump|trump",
+    "norm": 61.4
+  },
+  "cbi-arrests-two-ed-officials-in-rs-5-lakh-bribery-case": {
+    "firstSeen": "2026-10-23T23:04:35.233Z",
+    "signature": "lakh|mp",
+    "norm": 53.2
+  },
+  "la-couple-bought-925-000-farm-made-barn-a-home-started-cider": {
+    "firstSeen": "2026-10-23T23:04:35.233Z",
+    "signature": "mp|star",
+    "norm": 51.7
+  },
+  "chlo-grace-moretz-bought-la-home-at-19-for-3-4m-sold-it-for-": {
+    "firstSeen": "2026-10-23T23:04:35.233Z",
+    "signature": "ipl",
     "norm": 46.3
-  },
-  "bharat-biotech-slashes-malaria-vaccine-price-on-gavi-backed-": {
-    "firstSeen": "2026-10-23T19:07:01.932Z",
-    "signature": "price",
-    "norm": 44
-  },
-  "jason-momoa-s-water-firm-says-6m-bottles-removed-hotel-refil": {
-    "firstSeen": "2026-10-23T19:07:01.932Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "-gem-granites-veeramani-s-daughter-detained-from-aircraft-by": {
-    "firstSeen": "2026-10-23T19:07:01.932Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "proposed-driving-licence-rules-raise-the-bar-for-learner-s-t": {
-    "firstSeen": "2026-10-23T19:07:01.932Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "coe-on-green-skills-applied-ai-opened": {
-    "firstSeen": "2026-10-23T19:07:01.932Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
