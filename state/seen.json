@@ -1,186 +1,46 @@
 {
-  "4-dead-more-casualties-feared-after-blast-at-firecracker-fac": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "actor|blast|dead|dead|fear|fire|fire",
-    "norm": 82.1
+  "punjab-house-passes-resolution-against-electoral-irregularit": {
+    "firstSeen": "2026-10-23T19:07:01.932Z",
+    "signature": "anger|bjp|chief minister|minister|vote",
+    "norm": 62.9
   },
-  "piyush-goyal-calls-out-europe-over-carbon-emissions-who-s-re": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "border|minister|mp|tax|war|warning",
-    "norm": 81.3
+  "keralam-government-prioritising-infrastructure-development-i": {
+    "firstSeen": "2026-10-23T19:07:01.932Z",
+    "signature": "minister|mp",
+    "norm": 48.7
   },
-  "explosion-at-firecracker-factory-in-bihar-s-siwan-rescue-ops": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "actor|blast|explosion|explosion|fire|fire|mp|rescue|rescue",
-    "norm": 80.5
-  },
-  "at-least-four-dead-in-blast-in-bihar-s-siwan-district": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "blast|dead|dead|fire|fire|rescue|rescue",
-    "norm": 76.3
-  },
-  "france-to-deploy-70-000-cops-nationwide-ahead-of-weekend-pro": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "minister|protest|protest|war|warning",
-    "norm": 76.3
-  },
-  "after-historic-best-ever-haul-where-will-india-finish-in-asi": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "gold|mp|record|row",
-    "norm": 72.9
-  },
-  "punjab-cm-alleges-he-was-made-to-sit-at-delhi-airport-offici": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "chief minister|election|election|election commission|minister|rbi",
-    "norm": 72.6
-  },
-  "four-year-old-girl-drowns-in-temple-tank-at-yadagirigutta": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "drown|mp|row",
-    "norm": 67.6
-  },
-  "ulb-polls-no-relief-despite-supreme-court-orders-allege-ysrc": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "election|election|election commission|mp|poll|supreme court",
-    "norm": 65.1
-  },
-  "-high-inflation-is-like-tax-on-everyone-rbi-governor-at-ndtv": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "governor|inflation|rbi|summit|tax",
-    "norm": 63.9
-  },
-  "russia-ukraine-war-melania-s-intervention-secures-one-city-c": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "fire|fire|war",
-    "norm": 63.2
-  },
-  "three-arrested-for-burglary-valuables-worth-5-50-lakh-seized": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "gold|lakh",
-    "norm": 57.1
-  },
-  "entries-invited-for-college-magazine-competition": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "mp|war",
-    "norm": 57.1
-  },
-  "cm-asks-officials-to-be-prepared-to-convince-maharashtra-for": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "maharashtra|mp",
-    "norm": 57.1
-  },
-  "ndtv-world-summit-2026-live-indian-women-athletes-on-rewriti": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "row|summit",
-    "norm": 57.1
-  },
-  "in-setback-for-neha-bora-court-rejects-her-challenge-to-peac": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "france-mounts-major-security-operation-for-fresh-wave-of-pro": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "agriculture-pumpset-power-load-increases-by-25-50-other-cate": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "mp|record",
-    "norm": 52
-  },
-  "parents-were-counselled-about-generic-drug-says-doctor-in-ch": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "hospital",
+  "shankarpally-police-deny-forcing-minor-girl-to-undergo-medic": {
+    "firstSeen": "2026-10-23T19:07:01.932Z",
+    "signature": "exam",
     "norm": 48.2
   },
-  "tukaram-mundhe-s-double-standards-why-maharashtra-pharmacist": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "maharashtra",
-    "norm": 48.2
+  "kerala-artist-tom-vattakuzhy-s-shows-in-london-and-paris-ref": {
+    "firstSeen": "2026-10-23T19:07:01.932Z",
+    "signature": "controversy",
+    "norm": 46.3
   },
-  "asaduddin-owaisi-seeks-special-parliament-session-on-chinese": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "parliament",
-    "norm": 45.9
+  "bharat-biotech-slashes-malaria-vaccine-price-on-gavi-backed-": {
+    "firstSeen": "2026-10-23T19:07:01.932Z",
+    "signature": "price",
+    "norm": 44
   },
-  "neha-bora-faces-setback-delhi-high-court-rejects-plea-direct": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "high court",
-    "norm": 45.9
-  },
-  "air-chief-marshal-ap-singh-takes-ncc-cadet-on-flying-sortie-": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "air force",
-    "norm": 45.9
-  },
-  "maine-landlord-agrees-3-6m-settlement-to-repay-over-1-000-re": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "man-tries-to-escape-raid-after-ramming-cops-held-with-suspec": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "from-ba-graduate-to-inventor-uttarakhand-man-builds-electric": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "khan",
-    "norm": 44.3
-  },
-  "haryana-power-employees-call-off-strike-after-talks-with-cm-": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
+  "jason-momoa-s-water-firm-says-6m-bottles-removed-hotel-refil": {
+    "firstSeen": "2026-10-23T19:07:01.932Z",
     "signature": "mp",
     "norm": 44
   },
-  "yathindra-visits-lalithadripura-to-inspect-waste-clearance": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
+  "-gem-granites-veeramani-s-daughter-detained-from-aircraft-by": {
+    "firstSeen": "2026-10-23T19:07:01.932Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "itfok-2027-invites-applications-deepan-sivaraman-named-festi": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
+  "proposed-driving-licence-rules-raise-the-bar-for-learner-s-t": {
+    "firstSeen": "2026-10-23T19:07:01.932Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "crackdown-on-ganja-cultivation-continues-40-plants-seized-in": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "",
-    "norm": 36
-  },
-  "16th-edition-of-naredco-telangana-property-show-to-begin-at-": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "",
-    "norm": 36
-  },
-  "fifth-edition-of-mcaddi-2026-to-be-held-at-university-of-hyd": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "",
-    "norm": 36
-  },
-  "sssihms-usi-launch-national-urology-surgery-workshop": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "",
-    "norm": 36
-  },
-  "19-year-old-raped-by-acquaintance-in-medchal": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "",
-    "norm": 36
-  },
-  "sri-satya-sai-district-sp-assures-protection-to-contesting-c": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "",
-    "norm": 36
-  },
-  "lauren-conrad-s-8-000-sq-ft-laguna-beach-family-mansion-list": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
-    "signature": "",
-    "norm": 36
-  },
-  "ai-green-skills-centre-launched-in-hyderabad-100-job-offers-": {
-    "firstSeen": "2026-10-23T14:58:12.101Z",
+  "coe-on-green-skills-applied-ai-opened": {
+    "firstSeen": "2026-10-23T19:07:01.932Z",
     "signature": "",
     "norm": 33.9
   }
