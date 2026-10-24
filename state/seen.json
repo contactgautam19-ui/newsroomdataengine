@@ -1,47 +1,132 @@
 {
-  "us-could-absolutely-strike-iran-this-weekend-says-envoy": {
-    "firstSeen": "2026-10-24T01:33:29.769Z",
-    "signature": "dead|dead|diplomacy|ipl|iran|mp|trump|trump",
-    "norm": 90.1
+  "cti-urges-rahul-gandhi-to-defer-nov-1-india-bloc-rally-warns": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "crore|rahul gandhi|rally|rally|war",
+    "norm": 73.3
   },
-  "-situation-dire-melania-trump-secures-ceasefire-in-ukrainian": {
-    "firstSeen": "2026-10-24T01:33:29.769Z",
-    "signature": "fire|fire|mp|trump|trump",
-    "norm": 76.8
+  "commerce-ministry-identifying-ai-proof-professions-sectors-w": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "killed|killed|minister|mp",
+    "norm": 71.6
   },
-  "arab-voters-hold-key-to-israel-election-outcome": {
-    "firstSeen": "2026-10-24T01:33:29.769Z",
-    "signature": "election|election|israel|vote",
-    "norm": 67.7
+  "polling-begins-for-panch-sarpanch-elections-in-3-314-gram-pa": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "election|election|poll|result|results|results|vote",
+    "norm": 70.8
   },
-  "fake-vijay-videos-welfare-scam-madras-high-court-grants-bail": {
-    "firstSeen": "2026-10-24T01:33:29.769Z",
-    "signature": "high court|scam|video",
+  "-838-number-plate-pool-of-blood-screams-chilling-video-captu": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "shock|shock|shocking|video",
+    "norm": 65.2
+  },
+  "delhi-high-court-dismisses-neha-bora-s-petition-against-poli": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "high court|protest|protest",
     "norm": 62.8
   },
-  "delhi-plans-rs-99-crore-wall-along-yamuna-to-prevent-floodin": {
-    "firstSeen": "2026-10-24T01:33:29.769Z",
-    "signature": "crore|flood|flood",
-    "norm": 61.1
+  "-we-will-not-sign-peace-bond-neha-bora-to-challenge-sem-noti": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "high court|protest|protest",
+    "norm": 62.8
   },
-  "ind-vs-nz-2nd-t20i-will-ishan-kishan-s-injury-be-vaibhav-soo": {
-    "firstSeen": "2026-10-24T01:33:29.769Z",
-    "signature": "match|sooryavanshi",
-    "norm": 53.9
+  "new-york-court-revives-privacy-claim-over-cameras-filming-fa": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "film|mp|result",
+    "norm": 62.5
   },
-  "himanshu-bhau-india-s-most-wanted-gangster-from-haryana-arre": {
-    "firstSeen": "2026-10-24T01:33:29.769Z",
-    "signature": "gst",
+  "accused-suspected-of-using-signal-zangi-to-plot-attack-on-ti": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "attack|attack",
+    "norm": 59.3
+  },
+  "from-fuel-price-hikes-to-cost-of-living-concerns-us-consumer": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "fuel|price|prices|record",
+    "norm": 58.6
+  },
+  "tiger-shroff-shooting-mumbai-cops-recover-two-firearms-from-": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "fire|fire|shooting",
+    "norm": 57.9
+  },
+  "nebraska-sinks-150-trees-at-16-lake-sites-to-create-shelter-": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "mp|row",
+    "norm": 55.4
+  },
+  "contract-renewals-of-teachers-linked-to-mdma-case-vigilance-": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "congress|mp|record",
+    "norm": 54.7
+  },
+  "cylinder-explosion-in-rr-nagar-injures-three-including-nine-": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "explosion|explosion",
+    "norm": 54.2
+  },
+  "india-script-history-with-best-ever-finish-and-record-114-me": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "gold|record",
+    "norm": 52.4
+  },
+  "low-pressure-over-bay-of-bengal-likely-to-turn-into-cyclonic": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "disaster|storm",
+    "norm": 52.1
+  },
+  "north-korea-s-kim-jong-un-makes-surprise-visit-to-china-via-": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "china|surprise",
+    "norm": 52
+  },
+  "3-accused-in-tiger-shroff-shooting-case-sent-to-police-custo": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "shooting",
+    "norm": 46.3
+  },
+  "-tech-must-serve-public-welfare-justice-yogi-adityanath-high": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "yogi",
     "norm": 45.9
   },
-  "4-76-million-names-dropped-from-delhi-voter-rolls-but-just-2": {
-    "firstSeen": "2026-10-24T01:33:29.769Z",
-    "signature": "vote",
-    "norm": 45.9
+  "parishad-nominations-filed-peacefully-in-nellore-prakasam-ma": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "indigo-extends-cancellation-of-saudi-flights-as-regional-ten": {
-    "firstSeen": "2026-10-24T01:33:29.769Z",
+  "george-michael-s-last-christmas-royalties-helped-fund-over-2": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "fund",
+    "norm": 44
+  },
+  "centre-directs-states-uts-to-enforce-ban-on-reuse-of-single-": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "-people-like-him-will-come-and-piyush-goyal-s-dig-at-abhijee": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
+  },
+  "-repair-maadi-workshops-on-at-indian-institute-of-world-cult": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "webinar-on-modern-day-tips-for-posture-to-be-held-on-october": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "ahead-of-deepavali-fssai-licences-of-three-hyderabad-sweet-s": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "online-petition-urges-telangana-government-to-unchoke-hydera": {
+    "firstSeen": "2026-10-24T07:13:11.885Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
