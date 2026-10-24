@@ -1,151 +1,76 @@
 {
-  "chorbagan-durga-idol-immersed-without-customary-rituals-debi": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "killed|killed|mp|stampede|watch",
-    "norm": 76.3
+  "uae-s-ras-al-khaimah-shuts-all-beaches-after-oil-spill-in-ne": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "attack|attack|iran|israel|star|war",
+    "norm": 84.2
   },
-  "delhi-court-orders-trial-of-yasin-malik-engineer-rashid-5-ot": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "fund|mla|terror|terror",
+  "imd-warns-of-heavy-rainfall-over-several-t-n-districts-red-a": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "alert|heavy rain|injured|killed|killed|red alert|war",
     "norm": 74
   },
-  "schools-to-be-closed-response-team-on-alert-as-odisha-steps-": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "alert|cyclone|storm|weather",
-    "norm": 67.1
-  },
-  "venugopal-writes-to-shah-adhikari-over-alleged-attack-on-chr": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "attack|attack|rbi",
-    "norm": 66
-  },
-  "r-ashok-seeks-probe-into-alleged-irregularities-in-waste-man": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "crore|mp|war",
-    "norm": 65.6
-  },
-  "bfi-power-struggle-deepens-ahead-of-october-28-meeting-boxin": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "khan|president|row",
-    "norm": 62.5
-  },
-  "amit-shah-visits-delhi-police-headquarters-to-take-stock-of-": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "amit shah|protest|protest",
-    "norm": 61.1
-  },
-  "-opposes-bjp-by-lineage-bjp-mla-s-swipe-at-naseeruddin-shah-": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "bjp|mla|row",
+  "west-graduates-constituency-counting-staff-told-to-ensure-tr": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "election|election|vote",
     "norm": 59.7
   },
-  "bjp-discusses-preparations-for-mlc-ghmc-elections": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "bjp|election|election",
-    "norm": 59.7
+  "heavy-rain-to-hit-chennai-northern-delta-and-western-distric": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "alert|heavy rain|red alert",
+    "norm": 56.6
   },
-  "low-pressure-over-bay-of-bengal-likely-to-turn-into-cyclonic": {
-    "firstSeen": "2026-10-24T07:13:11.885Z",
-    "signature": "injured|killed|killed|storm",
-    "norm": 58.3
-  },
-  "man-murdered-in-ludhiana-shopkeeper-gets-a-severed-hand-with": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "attack|attack",
-    "norm": 57.6
-  },
-  "vijayawada-custodial-death-cbi-takes-over-probe-begins-quest": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "death|exam",
-    "norm": 57.6
-  },
-  "diwali-meets-chuseok-as-india-south-korea-celebrate-cultural": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "bollywood|bollywood",
-    "norm": 53.9
-  },
-  "-if-you-are-alive-you-must-show-it-hyderabad-s-anti-sir-prot": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "protest|protest",
-    "norm": 52.4
-  },
-  "imd-issues-red-alert-for-three-districts-in-keralam-on-octob": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "alert|red alert",
-    "norm": 52.1
-  },
-  "india-bloc-to-hold-public-impeachment-proceeding-of-cec-gyan": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "mp|vote",
+  "brs-hits-back-at-govt-terms-as-lies-claims-on-energy-water-f": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "congress|minister",
     "norm": 50.5
   },
-  "jd-u-expels-strongman-mla-anant-singh-from-the-party-for-six": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "mla|ruling",
+  "tiruvannamalai-corporation-sets-up-10-temporary-shelters-for": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "mp|sudden",
+    "norm": 50.2
+  },
+  "sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore-to-": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "crore|fund",
     "norm": 48.7
   },
-  "-act-of-treason-bjp-guns-for-farooq-abdullah-over-pak-protec": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "bjp|pakistan",
-    "norm": 48.7
-  },
-  "commuters-wait-through-multiple-signal-cycles-at-junctions-a": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "ipl",
-    "norm": 48.2
-  },
-  "chief-secretary-asks-districts-to-enrol-hospitals-under-pm-r": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "naidu-meets-amit-shah-ashwini-vaishnaw-in-new-delhi": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "amit shah",
+  "residents-flag-safety-risk-as-silt-removed-from-canals-piles": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "parvatipuram-witnessing-rapid-progress-says-tdp-mla": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "mla",
-    "norm": 45.9
+  "fans-hail-telugu-brothers-tilak-varma-nitish-kumar-reddy-aft": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "fan",
+    "norm": 44.3
   },
-  "guntur-doctor-presents-research-at-neurosurgeons-meet-in-lon": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
+  "eight-kle-tech-varsity-researchers-feature-in-global-top-2-l": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "mp",
     "norm": 44
   },
-  "parishad-nominations-filed-peacefully-in-nellore-prakasam-ma": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
+  "anthropic-pb-admits-to-having-an-indian-subsidiary-contradic": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "mp",
     "norm": 44
   },
-  "kerala-university-vc-says-no-move-to-ban-student-politics-st": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
+  "students-mark-90th-anniversary-of-temple-entry-proclamation": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "mp",
     "norm": 44
   },
-  "prakasam-collector-calls-for-utmost-vigilance-in-handling-po": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "poll",
+  "new-mexico-boy-9-recreates-logos-from-memory-and-writes-in-1": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "mp",
     "norm": 44
   },
-  "road-ministry-seeks-forensic-audit-of-its-portals-after-vehi": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "policy",
-    "norm": 44
-  },
-  "anti-pollution-curbs-return-to-delhi-why-reactive-bans-can-t": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
-    "signature": "poll",
-    "norm": 44
-  },
-  "man-brandishes-revolver-at-bouncers-customers-after-argument": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
+  "missing-kridl-engineer-traced-to-mumbai-after-40-days": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "nine-arrested-after-land-dispute-turns-violent-in-shabad": {
-    "firstSeen": "2026-10-24T16:32:27.639Z",
+  "law-and-order-situation-in-t-n-is-in-an-extremely-dire-state": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "",
     "norm": 33.9
   }
