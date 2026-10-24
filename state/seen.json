@@ -1,37 +1,47 @@
 {
-  "cuba-next-trump-hints-at-little-stopover-after-us-warships-r": {
-    "firstSeen": "2026-10-23T23:04:35.233Z",
-    "signature": "iran|mp|threat|trump|trump|war",
-    "norm": 79.8
+  "us-could-absolutely-strike-iran-this-weekend-says-envoy": {
+    "firstSeen": "2026-10-24T01:33:29.769Z",
+    "signature": "dead|dead|diplomacy|ipl|iran|mp|trump|trump",
+    "norm": 90.1
   },
-  "students-protest-against-sir-at-mumbai-university-demand-arr": {
-    "firstSeen": "2026-10-23T23:04:35.233Z",
-    "signature": "election|election|election commission|protest|protest",
+  "-situation-dire-melania-trump-secures-ceasefire-in-ukrainian": {
+    "firstSeen": "2026-10-24T01:33:29.769Z",
+    "signature": "fire|fire|mp|trump|trump",
     "norm": 76.8
   },
-  "-a-racist-terror-attack-emmanuel-macron-condemns-deadly-shoo": {
-    "firstSeen": "2026-10-23T23:04:35.233Z",
-    "signature": "attack|attack|dead|dead|shooting|terror|terror",
-    "norm": 75.8
+  "arab-voters-hold-key-to-israel-election-outcome": {
+    "firstSeen": "2026-10-24T01:33:29.769Z",
+    "signature": "election|election|israel|vote",
+    "norm": 67.7
   },
-  "trump-eases-tariffs-on-canadian-imports-weeks-before-us-midt": {
-    "firstSeen": "2026-10-23T23:04:35.233Z",
-    "signature": "mp|trump|trump",
-    "norm": 61.4
+  "fake-vijay-videos-welfare-scam-madras-high-court-grants-bail": {
+    "firstSeen": "2026-10-24T01:33:29.769Z",
+    "signature": "high court|scam|video",
+    "norm": 62.8
   },
-  "cbi-arrests-two-ed-officials-in-rs-5-lakh-bribery-case": {
-    "firstSeen": "2026-10-23T23:04:35.233Z",
-    "signature": "lakh|mp",
-    "norm": 53.2
+  "delhi-plans-rs-99-crore-wall-along-yamuna-to-prevent-floodin": {
+    "firstSeen": "2026-10-24T01:33:29.769Z",
+    "signature": "crore|flood|flood",
+    "norm": 61.1
   },
-  "la-couple-bought-925-000-farm-made-barn-a-home-started-cider": {
-    "firstSeen": "2026-10-23T23:04:35.233Z",
-    "signature": "mp|star",
-    "norm": 51.7
+  "ind-vs-nz-2nd-t20i-will-ishan-kishan-s-injury-be-vaibhav-soo": {
+    "firstSeen": "2026-10-24T01:33:29.769Z",
+    "signature": "match|sooryavanshi",
+    "norm": 53.9
   },
-  "chlo-grace-moretz-bought-la-home-at-19-for-3-4m-sold-it-for-": {
-    "firstSeen": "2026-10-23T23:04:35.233Z",
-    "signature": "ipl",
-    "norm": 46.3
+  "himanshu-bhau-india-s-most-wanted-gangster-from-haryana-arre": {
+    "firstSeen": "2026-10-24T01:33:29.769Z",
+    "signature": "gst",
+    "norm": 45.9
+  },
+  "4-76-million-names-dropped-from-delhi-voter-rolls-but-just-2": {
+    "firstSeen": "2026-10-24T01:33:29.769Z",
+    "signature": "vote",
+    "norm": 45.9
+  },
+  "indigo-extends-cancellation-of-saudi-flights-as-regional-ten": {
+    "firstSeen": "2026-10-24T01:33:29.769Z",
+    "signature": "",
+    "norm": 36
   }
 }
