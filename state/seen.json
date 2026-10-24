@@ -2,76 +2,301 @@
   "uae-s-ras-al-khaimah-shuts-all-beaches-after-oil-spill-in-ne": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "attack|attack|iran|israel|star|war",
-    "norm": 84.2
+    "norm": 75.8
+  },
+  "kerala-police-book-social-media-influencer-darren-for-commun": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "bjp|fund|instagram|slam|video|watch",
+    "norm": 73.5
+  },
+  "rs-10-lakh-cover-for-45-paise-counter-rail-ticket-buyers-get": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "hospital|lakh|mp|war",
+    "norm": 71.6
   },
   "imd-warns-of-heavy-rainfall-over-several-t-n-districts-red-a": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "alert|heavy rain|injured|killed|killed|red alert|war",
-    "norm": 74
+    "norm": 70
+  },
+  "andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfal": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "alert|mp|red alert|storm|weather",
+    "norm": 68.3
+  },
+  "week-after-kolkata-stampede-horror-a-quiet-immersion-for-cho": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "crowd|horror|mp|row|stampede",
+    "norm": 67.5
+  },
+  "defer-nov-1-rally-will-hit-festive-business-traders-urge-rah": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "bjp|congress|crore|rally|rally|record",
+    "norm": 65.4
+  },
+  "amid-outcry-poll-body-orders-re-poll-at-three-polling-statio": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "cry|election|election|poll",
+    "norm": 64.7
+  },
+  "death-count-in-jordan-church-firing-rises-to-9": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "death|fire|fire|mp",
+    "norm": 62.4
+  },
+  "scientists-correct-155-year-old-solar-storm-mix-up-train-del": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "mp|record|storm",
+    "norm": 61.1
+  },
+  "another-alleged-hooch-tragedy-claims-over-10-in-madhya-prade": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "congress|death|tragedy|war",
+    "norm": 60.9
+  },
+  "mumbai-air-very-poor-at-322-as-delhi-records-best-october-24": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "fire|fire|poll|record|smoke",
+    "norm": 60.3
+  },
+  "baltimore-house-sold-for-310-000-later-listed-for-35-000-aft": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "investor|price|prices|result",
+    "norm": 59.3
+  },
+  "no-ec-nod-needed-for-voter-to-sue-candidate-over-false-infor": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "election|election|election commission|mp|supreme court|vote",
+    "norm": 57.9
+  },
+  "delhi-girl-wanted-school-shut-for-the-day-she-sent-a-bomb-th": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "bomb|mp|threat",
+    "norm": 56.7
+  },
+  "interview-aap-had-4-5-years-to-end-drug-menace-gangsterism-i": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "aap|bjp|gst|ipo",
+    "norm": 56.3
+  },
+  "saudi-says-shrapnel-fell-in-mecca-medina-after-houthi-attack": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "anger|attack|attack|war",
+    "norm": 56.2
+  },
+  "six-election-officials-removed-in-u-p-after-sp-flags-voter-l": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "election|election|vote",
+    "norm": 54.1
+  },
+  "cbi-files-fir-against-il-amp-fs-energy-top-execs-in-rs-212cr": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "fraud|mp",
+    "norm": 52.7
+  },
+  "social-security-welfare-fund-board-pensions-in-keralam-to-be": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "crore|fund|sanction",
+    "norm": 51.8
+  },
+  "suspect-detained-after-fire-in-adolf-hitler-s-mountain-retre": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "fire|fire|summit",
+    "norm": 51.5
+  },
+  "thousands-protest-against-netanyahu-in-tel-aviv-ahead-of-vot": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "protest|protest|vote",
+    "norm": 51.5
+  },
+  "mona-lisa-off-limits-as-louvre-other-museums-across-paris-sh": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "clash|clash|protest|protest",
+    "norm": 51.2
+  },
+  "suspicious-pigeon-with-coded-ring-pak-currency-causes-a-flut": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "border|mp",
+    "norm": 50.5
   },
   "west-graduates-constituency-counting-staff-told-to-ensure-tr": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "election|election|vote",
-    "norm": 59.7
+    "norm": 50
+  },
+  "ukraine-says-starshield-back-to-normal-musk-says-kyiv-violat": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "mp|star",
+    "norm": 49
+  },
+  "iran-vows-apocalyptic-war-if-u-s-strikes-again": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "iran|war",
+    "norm": 47.7
+  },
+  "princess-s-gambit-at-11-bodhana-sivanandan-is-an-internation": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "record|row",
+    "norm": 46.5
+  },
+  "congress-never-followed-constitution-trying-to-create-anarch": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "bjp|congress|khan",
+    "norm": 46.2
+  },
+  "dallas-insurer-paid-4-261-for-floor-damage-court-rejects-58-": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "mp|policy",
+    "norm": 45.9
+  },
+  "life-convicts-can-avail-40-days-of-annual-leave-in-two-insta": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "high court|mp",
+    "norm": 45.9
+  },
+  "probe-agency-ed-moves-top-court-against-quashing-of-newsclic": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "exam|high court",
+    "norm": 45.4
+  },
+  "repolling-at-3-booths-in-agra-tomorrow-for-legislative-counc": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "poll|row",
+    "norm": 45.4
   },
   "heavy-rain-to-hit-chennai-northern-delta-and-western-distric": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "alert|heavy rain|red alert",
-    "norm": 56.6
+    "norm": 44.8
   },
-  "brs-hits-back-at-govt-terms-as-lies-claims-on-energy-water-f": {
-    "firstSeen": "2026-10-24T19:26:39.795Z",
-    "signature": "congress|minister",
-    "norm": 50.5
+  "palace-siblings-and-a-kansa-mama-jibe-jagan-reddy-sister-row": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "row|wedding",
+    "norm": 43.8
+  },
+  "ed-moves-supreme-court-against-hc-order-to-quash-case-agains": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "supreme court|verdict",
+    "norm": 42.5
+  },
+  "-welcome-move-for-aviation-sector-vijay-gets-rare-praise-fro": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "fuel|rbi|tax",
+    "norm": 40.6
   },
   "tiruvannamalai-corporation-sets-up-10-temporary-shelters-for": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "mp|sudden",
-    "norm": 50.2
+    "norm": 39.7
+  },
+  "brs-hits-back-at-govt-terms-as-lies-claims-on-energy-water-f": {
+    "firstSeen": "2026-10-24T19:26:39.795Z",
+    "signature": "congress|minister",
+    "norm": 38
+  },
+  "same-name-appears-10-times-on-voter-roll-5-up-poll-officials": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "poll|vote",
+    "norm": 38
+  },
+  "defence-secretary-rajesh-kumar-singh-gets-one-year-extension": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "cabinet|defence",
+    "norm": 38
   },
   "sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore-to-": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "crore|fund",
-    "norm": 48.7
+    "norm": 38
+  },
+  "today-s-nyt-strands-hints-spangram-and-answers-for-sunday-oc": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "riyadh-dammam-jeddah-flights-hit-air-india-indigo-extend-sus": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "row",
+    "norm": 35.5
   },
   "residents-flag-safety-risk-as-silt-removed-from-canals-piles": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 32.8
   },
-  "fans-hail-telugu-brothers-tilak-varma-nitish-kumar-reddy-aft": {
-    "firstSeen": "2026-10-24T19:26:39.795Z",
-    "signature": "fan",
-    "norm": 44.3
+  "farooq-abdullah-s-comments-on-pakistan-and-kashmir-draw-flak": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "pakistan",
+    "norm": 32.8
+  },
+  "daughter-s-inheritance-rights-can-t-be-defeated-by-limitatio": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "mp",
+    "norm": 32.8
   },
   "eight-kle-tech-varsity-researchers-feature-in-global-top-2-l": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 32.8
   },
   "anthropic-pb-admits-to-having-an-indian-subsidiary-contradic": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 32.8
   },
   "students-mark-90th-anniversary-of-temple-entry-proclamation": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 32.8
   },
-  "new-mexico-boy-9-recreates-logos-from-memory-and-writes-in-1": {
+  "newsclick-case-returns-to-spotlight-ed-challenges-delhi-hc-q": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "high court",
+    "norm": 32.8
+  },
+  "delhi-man-arrested-for-uploading-siddaramaiah-targeting-vide": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "footage|video",
+    "norm": 32.8
+  },
+  "fans-hail-telugu-brothers-tilak-varma-nitish-kumar-reddy-aft": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
-    "signature": "mp",
-    "norm": 44
+    "signature": "fan",
+    "norm": 31
+  },
+  "govt-to-explore-ways-to-draw-desi-researchers-back-to-india-": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "delhi-man-arrested-over-sting-op-video-targeting-siddaramaia": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "video",
+    "norm": 29.2
+  },
+  "healthcare-challenges-require-collaborative-technology-ledso": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "",
+    "norm": 26.7
   },
   "missing-kridl-engineer-traced-to-mumbai-after-40-days": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
+  },
+  "india-issues-fresh-advisory-for-umrah-pilgrims-in-saudi-arab": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "painting-flooring-roof-repairs-civic-body-lists-works-that-n": {
+    "firstSeen": "2026-10-24T22:25:27.637Z",
+    "signature": "",
+    "norm": 21.2
   },
   "law-and-order-situation-in-t-n-is-in-an-extremely-dire-state": {
     "firstSeen": "2026-10-24T19:26:39.795Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   }
 }
