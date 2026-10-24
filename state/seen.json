@@ -1,101 +1,151 @@
 {
-  "chorbagan-stampede-cops-seek-voice-samples-of-two-held-to-id": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "collapse|collapse|collapse|mp|panic|stampede",
-    "norm": 82.9
+  "chorbagan-durga-idol-immersed-without-customary-rituals-debi": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "killed|killed|mp|stampede|watch",
+    "norm": 76.3
   },
-  "trump-invokes-operation-sindoor-at-us-midterm-poll-rallies-c": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "mp|pakistan|poll|threat|trump|trump|war",
-    "norm": 79.4
+  "delhi-court-orders-trial-of-yasin-malik-engineer-rashid-5-ot": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "fund|mla|terror|terror",
+    "norm": 74
   },
-  "pm-modi-to-visit-varanasi-and-bhubaneswar-on-october-25-inau": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "aerial|air force|modi|modi|war",
-    "norm": 76.8
+  "schools-to-be-closed-response-team-on-alert-as-odisha-steps-": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "alert|cyclone|storm|weather",
+    "norm": 67.1
   },
-  "india-unequivocally-condemns-attack-on-church-in-jordan-s-ha": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "attack|attack|fire|fire|killed|killed",
-    "norm": 75.8
-  },
-  "-our-neighbour-protecting-us-farooq-makes-shocking-remark-on": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "bjp|mp|shock|shock|shocking",
-    "norm": 70.4
-  },
-  "india-bloc-to-hold-rally-in-tripura-on-oct-30-seeks-cec-s-re": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "amit shah|bjp|minister|modi|modi|prime minister|rally|rally",
-    "norm": 69.1
-  },
-  "man-shot-dead-by-friends-after-argument-over-parking-in-amri": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "dead|dead|fire|fire",
-    "norm": 68.4
-  },
-  "kolkata-stampede-police-seek-voice-samples-of-2-accused-over": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "mp|panic|stampede",
+  "venugopal-writes-to-shah-adhikari-over-alleged-attack-on-chr": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "attack|attack|rbi",
     "norm": 66
+  },
+  "r-ashok-seeks-probe-into-alleged-irregularities-in-waste-man": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "crore|mp|war",
+    "norm": 65.6
+  },
+  "bfi-power-struggle-deepens-ahead-of-october-28-meeting-boxin": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "khan|president|row",
+    "norm": 62.5
+  },
+  "amit-shah-visits-delhi-police-headquarters-to-take-stock-of-": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "amit shah|protest|protest",
+    "norm": 61.1
+  },
+  "-opposes-bjp-by-lineage-bjp-mla-s-swipe-at-naseeruddin-shah-": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "bjp|mla|row",
+    "norm": 59.7
+  },
+  "bjp-discusses-preparations-for-mlc-ghmc-elections": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "bjp|election|election",
+    "norm": 59.7
   },
   "low-pressure-over-bay-of-bengal-likely-to-turn-into-cyclonic": {
     "firstSeen": "2026-10-24T07:13:11.885Z",
     "signature": "injured|killed|killed|storm",
-    "norm": 65.5
+    "norm": 58.3
   },
-  "amit-shah-reaches-delhi-police-headquarters-to-take-stock-of": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "amit shah|protest|protest",
-    "norm": 62.8
+  "man-murdered-in-ludhiana-shopkeeper-gets-a-severed-hand-with": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "attack|attack",
+    "norm": 57.6
   },
-  "karnataka-cm-clears-prosecution-of-ias-officer-over-alleged-": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "exam|lakh|recruitment",
-    "norm": 62.5
+  "vijayawada-custodial-death-cbi-takes-over-probe-begins-quest": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "death|exam",
+    "norm": 57.6
   },
-  "india-uzbekistan-discuss-bilateral-ties-during-jaishankar-s-": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "ipl|jaishankar",
-    "norm": 57.1
+  "diwali-meets-chuseok-as-india-south-korea-celebrate-cultural": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "bollywood|bollywood",
+    "norm": 53.9
   },
-  "go-to-the-root-of-audio-clip-case-spare-no-one-jarange-to-cm": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "crore|mp",
-    "norm": 53.2
+  "-if-you-are-alive-you-must-show-it-hyderabad-s-anti-sir-prot": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "ukraine-says-starlink-back-to-normal-after-week-of-throttlin": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "mp|star",
-    "norm": 51.7
+  "imd-issues-red-alert-for-three-districts-in-keralam-on-octob": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "alert|red alert",
+    "norm": 52.1
   },
-  "sonia-gandhi-joins-x-shares-memories-of-meeting-rajiv-in-cam": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "congress|mp|parliament",
-    "norm": 50.9
+  "india-bloc-to-hold-public-impeachment-proceeding-of-cec-gyan": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "mp|vote",
+    "norm": 50.5
   },
-  "district-level-competitions-for-college-students-in-kalabura": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
+  "jd-u-expels-strongman-mla-anant-singh-from-the-party-for-six": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "mla|ruling",
+    "norm": 48.7
+  },
+  "-act-of-treason-bjp-guns-for-farooq-abdullah-over-pak-protec": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "bjp|pakistan",
+    "norm": 48.7
+  },
+  "commuters-wait-through-multiple-signal-cycles-at-junctions-a": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "ipl",
+    "norm": 48.2
+  },
+  "chief-secretary-asks-districts-to-enrol-hospitals-under-pm-r": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "hospital",
+    "norm": 46.3
+  },
+  "naidu-meets-amit-shah-ashwini-vaishnaw-in-new-delhi": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "amit shah",
+    "norm": 45.9
+  },
+  "parvatipuram-witnessing-rapid-progress-says-tdp-mla": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "mla",
+    "norm": 45.9
+  },
+  "guntur-doctor-presents-research-at-neurosurgeons-meet-in-lon": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "tamil-nadu-rain-forest-dept-restricts-timings-for-devotees-c": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "vote",
-    "norm": 45.9
+  "parishad-nominations-filed-peacefully-in-nellore-prakasam-ma": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "mp",
+    "norm": 44
   },
-  "-he-was-very-good-looking-sonia-gandhi-opens-up-about-rajiv-": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
+  "kerala-university-vc-says-no-move-to-ban-student-politics-st": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "prakasam-collector-calls-for-utmost-vigilance-in-handling-po": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "poll",
+    "norm": 44
+  },
+  "road-ministry-seeks-forensic-audit-of-its-portals-after-vehi": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "policy",
+    "norm": 44
+  },
+  "anti-pollution-curbs-return-to-delhi-why-reactive-bans-can-t": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
+    "signature": "poll",
+    "norm": 44
+  },
+  "man-brandishes-revolver-at-bouncers-customers-after-argument": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "uae-s-ras-al-khaimah-shuts-all-beaches-oil-spill-triggers-cl": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
-    "signature": "",
-    "norm": 36
-  },
-  "neha-bora-refuses-to-sign-peace-bond-questions-curbs-on-diss": {
-    "firstSeen": "2026-10-24T12:37:32.123Z",
+  "nine-arrested-after-land-dispute-turns-violent-in-shabad": {
+    "firstSeen": "2026-10-24T16:32:27.639Z",
     "signature": "",
     "norm": 33.9
   }
