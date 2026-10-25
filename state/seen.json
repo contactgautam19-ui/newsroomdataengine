@@ -1,92 +1,37 @@
 {
-  "19-candidates-in-fray-for-vmc-mayor-s-post": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "election|election|war",
-    "norm": 66
+  "ec-refuses-to-give-details-of-sir-software-cites-trade-secre": {
+    "firstSeen": "2026-10-25T21:41:33.663Z",
+    "signature": "election|election|election commission|war",
+    "norm": 71.6
   },
-  "texas-student-starts-landscaping-firm-to-pay-tuition-wins-to": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "mp|star|war",
-    "norm": 62.5
+  "trump-calls-el-sayed-jihadist-ahead-of-michigan-rally-allege": {
+    "firstSeen": "2026-10-25T21:41:33.663Z",
+    "signature": "mp|rally|rally|trump|trump",
+    "norm": 69
   },
-  "kashmiri-pandits-flag-graveyard-en-route-to-shankaracharya-h": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "lakh|mp|sudden|suddenly",
-    "norm": 61.8
+  "epfo-considers-rs-25-000cr-war-chest-to-stabilise-interest-p": {
+    "firstSeen": "2026-10-25T21:41:33.663Z",
+    "signature": "crore|fund|mp|war",
+    "norm": 68
   },
-  "jamia-students-climb-gates-join-protest-amid-heavy-police-de": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "mp|protest|protest",
-    "norm": 61.1
+  "former-cji-d-y-chandrachud-was-more-deferential-to-govt-than": {
+    "firstSeen": "2026-10-25T21:41:33.663Z",
+    "signature": "cji|deal",
+    "norm": 53.2
   },
-  "like-kerala-t-n-government-should-pass-resolution-in-state-a": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "bjp|crore|vote",
-    "norm": 57.6
-  },
-  "uttar-pradesh-ceo-orders-reverification-of-all-forms-submitt": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "controversy|mp",
-    "norm": 57.1
-  },
-  "afghanistan-hit-by-5-5-magnitude-earthquake": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "earthquake|earthquake",
-    "norm": 52.4
-  },
-  "17-men-claiming-to-be-kuki-cadres-arrested-arms-seized-in-ma": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "fire|fire",
-    "norm": 52.4
-  },
-  "officials-urged-to-remain-alert-as-severe-cyclone-approaches": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "alert|cyclone",
-    "norm": 52.1
-  },
-  "bhavani-devotees-throng-kanaka-durga-temple-atop-indrakeelad": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "mp|vote",
+  "banks-pass-on-rate-hikes-but-go-slow-when-rates-fall-rbi-stu": {
+    "firstSeen": "2026-10-25T21:41:33.663Z",
+    "signature": "rbi|repo rate",
     "norm": 48.7
   },
-  "three-north-andhra-districts-step-up-cyclone-preparedness": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "cyclone",
-    "norm": 46.3
+  "kristen-stewart-bought-malibu-home-with-mother-for-4-8m-sold": {
+    "firstSeen": "2026-10-25T21:41:33.663Z",
+    "signature": "war",
+    "norm": 48.2
   },
-  "congress-leader-kripa-alva-questioned-in-sting-operation-cas": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "congress",
-    "norm": 45.9
-  },
-  "collegium-decisions-unanimous-says-ex-cji-chandrachud": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "cji",
-    "norm": 45.9
-  },
-  "universities-urged-to-embrace-continuous-learning-and-innova": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
+  "florida-approves-12-9m-easement-to-protect-5-610-acres-of-fa": {
+    "firstSeen": "2026-10-25T21:41:33.663Z",
     "signature": "",
     "norm": 36
-  },
-  "apple-to-unveil-touch-macbook-pro-after-two-decades-of-resis": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "",
-    "norm": 36
-  },
-  "iskcon-unveils-800-kg-robotic-elephant-in-visakhapatnam": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "nobel-peace-prize-winner-machado-announces-return-to-venezue": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "apsche-to-hold-state-level-aishe-workshop-for-university-nod": {
-    "firstSeen": "2026-10-25T19:00:12.995Z",
-    "signature": "",
-    "norm": 33.9
   }
 }
