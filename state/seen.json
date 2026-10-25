@@ -1,161 +1,91 @@
 {
-  "-mafia-bjp-attacks-congress-after-kharge-s-baap-remark-targe": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "aap|amit shah|attack|attack|bjp|congress|minister|modi|modi",
-    "norm": 83.3
+  "19-candidates-in-fray-for-vmc-mayor-s-post": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "election|election|war",
+    "norm": 66
   },
-  "bjp-slams-kharge-over-indecent-remarks-on-pm-modi": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "bjp|congress|modi|modi|parliament|slam|slams",
-    "norm": 79.4
-  },
-  "mumbai-indians-reset-two-ex-india-cricketers-in-race-for-ass": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "cricket|cricketer|election|election|poll",
-    "norm": 71.7
-  },
-  "-vc-manhandled-property-vandalised-srfti-defends-disciplinar": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "film|ipl|protest|protest",
-    "norm": 70
-  },
-  "jamia-protest-delhi-police-file-fir-against-three-mps-over-t": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
-  },
-  "centre-dispatches-250-raf-personnel-to-arunachal-pradesh-as-": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "mp|protest|protest",
-    "norm": 62.8
-  },
-  "monsoon-tracker-live-depression-over-bay-of-bengal-to-intens": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "heavy rain|mp|storm",
+  "texas-student-starts-landscaping-firm-to-pay-tuition-wins-to": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "mp|star|war",
     "norm": 62.5
   },
-  "corwa-summit-to-discuss-nh-66-bypass-woes-delay-in-kochi-met": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "fear|mp|summit",
-    "norm": 59.7
+  "kashmiri-pandits-flag-graveyard-en-route-to-shankaracharya-h": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "lakh|mp|sudden|suddenly",
+    "norm": 61.8
   },
-  "ghulam-nabi-azad-altaf-thakur-flay-farooq-abdullah-s-remarks": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "bjp|pakistan|war",
-    "norm": 59.7
+  "jamia-students-climb-gates-join-protest-amid-heavy-police-de": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "mp|protest|protest",
+    "norm": 61.1
   },
-  "patrick-mahomes-alpine-f1-investment-surges-as-team-value-hi": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "bill|billion|investor",
+  "like-kerala-t-n-government-should-pass-resolution-in-state-a": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "bjp|crore|vote",
     "norm": 57.6
   },
-  "former-keralam-governor-arlekar-recommends-president-to-remo": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "chief minister|governor|minister|opposition|president",
-    "norm": 54.4
+  "uttar-pradesh-ceo-orders-reverification-of-all-forms-submitt": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "controversy|mp",
+    "norm": 57.1
   },
-  "pulikeshi-nagar-blast-personal-grudge-youtube-videos-whatsap": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "blast|video",
-    "norm": 54.2
+  "afghanistan-hit-by-5-5-magnitude-earthquake": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "earthquake|earthquake",
+    "norm": 52.4
   },
-  "arctic-ice-cap-s-2-000-year-expansion-halted-by-warming-stud": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "row|war",
-    "norm": 53.9
+  "17-men-claiming-to-be-kuki-cadres-arrested-arms-seized-in-ma": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "fire|fire",
+    "norm": 52.4
   },
-  "president-droupadi-murmu-gives-assent-to-frontier-nagaland-t": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "bill|chief minister|minister|president",
+  "officials-urged-to-remain-alert-as-severe-cyclone-approaches": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "alert|cyclone",
     "norm": 52.1
   },
-  "haryana-guest-teachers-demand-regularisation-of-services-mar": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "trained-108-ambulance-emts-to-provide-first-aid-for-eye-trau": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "trauma",
-    "norm": 48.2
-  },
-  "tgsrtc-woman-conductor-pushed-off-a-moving-bus-by-passenger-": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "injured",
-    "norm": 48.2
+  "bhavani-devotees-throng-kanaka-durga-temple-atop-indrakeelad": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "mp|vote",
+    "norm": 48.7
   },
   "three-north-andhra-districts-step-up-cyclone-preparedness": {
     "firstSeen": "2026-10-25T16:04:39.765Z",
     "signature": "cyclone",
-    "norm": 48.2
-  },
-  "string-theory-pioneer-ashoke-sen-wins-oskar-klein-medal": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "hyderabad-s-osmania-general-hospital-strengthens-gender-affi": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "hospital",
     "norm": 46.3
   },
-  "kakinada-east-godavari-districts-step-up-cyclone-preparednes": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "cyclone",
-    "norm": 46.3
-  },
-  "up-man-holds-goat-funeral-uses-ai-generated-image-to-fake-de": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "death",
-    "norm": 46.3
-  },
-  "yamunotri-kedarnath-receive-season-s-first-snowfall": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "vote",
+  "congress-leader-kripa-alva-questioned-in-sting-operation-cas": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "congress",
     "norm": 45.9
   },
-  "india-has-written-new-chapter-in-global-economic-rise-says-y": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "yogi",
+  "collegium-decisions-unanimous-says-ex-cji-chandrachud": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "cji",
     "norm": 45.9
   },
-  "farmers-should-explore-crops-that-need-less-water-spdcl-cmd": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "surprise",
-    "norm": 40.7
-  },
-  "nda-secures-six-of-nine-urban-local-bodies-in-kadapa-distric": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
+  "universities-urged-to-embrace-continuous-learning-and-innova": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
     "signature": "",
     "norm": 36
   },
-  "owner-mahout-booked-for-neglected-elephant-in-kozhikode": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
+  "apple-to-unveil-touch-macbook-pro-after-two-decades-of-resis": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
     "signature": "",
     "norm": 36
   },
-  "kalaburagi-s-gi-tagged-tur-dal-wins-pm-s-praise-after-export": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "",
-    "norm": 36
-  },
-  "pramoda-devi-expresses-deep-disappointment-over-conduct-of-d": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "",
-    "norm": 36
-  },
-  "ohio-s-former-seaworld-site-to-reopen-as-park-today-first-9-": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
-    "signature": "",
-    "norm": 36
-  },
-  "keralam-police-inspector-suspended-over-woman-s-allegation-o": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
+  "iskcon-unveils-800-kg-robotic-elephant-in-visakhapatnam": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
     "signature": "",
     "norm": 33.9
   },
-  "-manipur-cannot-achieve-lasting-peace-as-long-as-a-gun-cultu": {
-    "firstSeen": "2026-10-25T16:04:39.765Z",
+  "nobel-peace-prize-winner-machado-announces-return-to-venezue": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "apsche-to-hold-state-level-aishe-workshop-for-university-nod": {
+    "firstSeen": "2026-10-25T19:00:12.995Z",
     "signature": "",
     "norm": 33.9
   }
