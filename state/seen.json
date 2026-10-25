@@ -1,116 +1,121 @@
 {
-  "-thanks-bjp-for-promoting-rahul-takes-swipe-at-govt-over-nov": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "bjp|mp|rahul gandhi|rally|rally|riot|vote",
-    "norm": 68.9
+  "-nuclear-threat-will-overshadow-all-netanyahu-s-iran-warning": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "iran|israel|minister|mp|poll|prime minister|star|threat|war|warning",
+    "norm": 99.1
   },
-  "12-including-6-children-injured-in-shooting-near-florida-uni": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "crowd|injured|row|shooting",
+  "-political-interests-cannot-excuse-terrorism-jaishankar-s-wa": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "jaishankar|terror|terror|war|warning",
+    "norm": 75.9
+  },
+  "eci-hiding-information-on-ecinet-software-as-it-will-reveal-": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "congress|election|election|election commission|opposition|war",
+    "norm": 73
+  },
+  "17-year-old-driving-mercedes-kills-scooter-rider-in-kochi-po": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "crash|crash|killed|killed",
+    "norm": 72.6
+  },
+  "delhi-schoolgirl-s-death-police-question-teachers-examine-cc": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "cctv|death|exam|footage|ipl",
+    "norm": 72.6
+  },
+  "-trade-secrets-election-commission-says-sir-software-details": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "election|election|election commission|mp|war",
+    "norm": 72
+  },
+  "man-killed-another-injured-as-speeding-truck-hits-e-scooter-": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "dead|dead|injured|killed|killed",
+    "norm": 70.5
+  },
+  "cyclone-over-bay-of-bengal-to-bring-heavy-rain-across-south-": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "alert|cyclone|heavy rain|ipl|red alert",
     "norm": 68.4
   },
-  "us-to-strike-iran-today-trump-keeps-world-on-edge-with-maybe": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "iran|mp|trump|trump",
-    "norm": 65
+  "-looted-wealth-in-lord-ram-s-name-kharge-targets-bjp-over-ay": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "ayodhya|bjp|fund|mp",
+    "norm": 68
   },
-  "pm-modi-calls-mann-ki-baat-a-pilgrimage-says-programme-celeb": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "khan|modi|modi",
-    "norm": 64.2
+  "karnataka-bjp-alleges-bogus-voting-by-congress-in-haveri-mlc": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "bjp|congress|election|election|vote",
+    "norm": 62.9
   },
-  "amit-shah-hails-lethal-blow-to-international-narco-cartel-fo": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "amit shah|crore|ipl",
-    "norm": 63.9
-  },
-  "as-naseeruddin-shah-backs-kolkata-film-institute-s-protestin": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "actor|film|protest|protest",
-    "norm": 63.2
-  },
-  "at-5-avyukt-singh-names-46-dinosaurs-in-a-minute-for-guinnes": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "died|mp|record",
-    "norm": 61.1
-  },
-  "6-children-among-12-injured-in-shooting-near-florida-univers": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "injured|mp|shooting",
-    "norm": 60.8
-  },
-  "the-great-regional-retreat-is-meghalaya-s-politics-being-rec": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "collapse|collapse|collapse",
-    "norm": 60
-  },
-  "when-safety-slips-through-a-gaping-hole": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "accident|row",
+  "dk-shivakumar-s-big-warning-to-b-luru-it-firms-over-sidelini": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "war|warning",
     "norm": 57.6
   },
-  "advocate-arrested-at-mumbai-airport-in-rs-28-000-crore-pan-i": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "crore|fraud",
+  "electricity-employees-federation-of-india-cry-foul-over-dela": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "cry|mp",
     "norm": 55.4
   },
-  "-buy-me-thar-woman-slapped-kicked-dragged-by-hair-by-husband": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "cctv|footage|rbi",
+  "eaaa-india-alternatives-ipo-gmp-today-with-listing-gain-expe": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "ipo|mp",
     "norm": 55
   },
-  "andhra-braces-for-very-severe-cyclonic-storm-odisha-activate": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "disaster|heavy rain|storm",
-    "norm": 54.9
+  "eminent-painter-jogen-chowdhury-dies-at-87-suvendu-mamata-pa": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "mamata|mp",
+    "norm": 50.5
   },
-  "-we-don-t-have-5-years-celebrated-american-general-sounds-al": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "drone|war",
-    "norm": 52.4
-  },
-  "toxic-foam-returns-to-yamuna-as-delhi-ncr-air-quality-slips-": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "mp|poll",
+  "bjp-leader-hartal-halappa-urges-karnataka-govt-to-ensure-at-": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "bjp|mp",
     "norm": 48.7
   },
-  "indo-pacific-developments-call-for-vigilance-india-ready-to-": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "china",
+  "india-issues-travel-advisory-after-saudi-arabia-intercepts-1": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "drone|film",
+    "norm": 48.7
+  },
+  "heavy-rain-lashes-puducherry": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "heavy rain",
+    "norm": 48.2
+  },
+  "mcc-renews-push-for-flex-free-city-beyond-dasara": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "india-advises-its-nationals-in-saudi-arabia-against-filming-": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "film",
+    "norm": 44.3
+  },
+  "manipur-cannot-achieve-lasting-peace-as-long-as-gun-culture-": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "mp",
     "norm": 44
   },
-  "unable-to-pay-rent-man-prints-fake-rs-500-notes-worth-rs-37-": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "lakh",
-    "norm": 44
+  "kadapa-police-to-seek-cancellation-of-tdp-spokesperson-s-gun": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
+    "signature": "record",
+    "norm": 42.7
   },
-  "back-pain-lancet-review-calls-for-clinical-assessment-over-r": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
+  "india-wants-to-become-a-global-talent-hub-what-needs-to-chan": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
     "signature": "",
     "norm": 36
   },
-  "isro-to-have-four-launch-pads-by-2029-says-narayanan": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
+  "ias-reshuffle-in-tamil-nadu-laxmi-priya-to-hold-additional-c": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
     "signature": "",
     "norm": 36
   },
-  "kochi-metro-to-operate-more-services-on-october-25": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "",
-    "norm": 36
-  },
-  "5-000-pound-block-holds-75-million-year-old-dinosaur-possibl": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "theaterisation-must-reflect-india-s-security-needs-air-chief": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "operation-trident-18-arrested-1-424-bank-accounts-frozen-in-": {
-    "firstSeen": "2026-10-25T06:02:06.350Z",
+  "telangana-s-h1-revenue-below-expectations-as-expenditure-rem": {
+    "firstSeen": "2026-10-25T11:17:10.764Z",
     "signature": "",
     "norm": 33.9
   }
