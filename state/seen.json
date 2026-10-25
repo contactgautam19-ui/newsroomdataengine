@@ -1,32 +1,117 @@
 {
-  "drawn-in-same-group-ind-pak-set-to-clash-on-nov-22-in-rising": {
-    "firstSeen": "2026-10-25T01:03:06.264Z",
-    "signature": "clash|clash|match|mp|pakistan",
-    "norm": 75.3
+  "-thanks-bjp-for-promoting-rahul-takes-swipe-at-govt-over-nov": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "bjp|mp|rahul gandhi|rally|rally|riot|vote",
+    "norm": 68.9
   },
-  "imd-warns-of-heavy-rainfall-over-several-t-n-districts-red-a": {
-    "firstSeen": "2026-10-24T19:26:39.795Z",
-    "signature": "alert|heavy rain|injured|killed|killed|red alert|war",
-    "norm": 74
+  "12-including-6-children-injured-in-shooting-near-florida-uni": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "crowd|injured|row|shooting",
+    "norm": 68.4
   },
-  "-saddam-hussein-opened-a-cheesecake-factory-obama-s-jibe-at-": {
-    "firstSeen": "2026-10-25T01:03:06.264Z",
-    "signature": "actor|mp|trump|trump",
-    "norm": 68.3
+  "us-to-strike-iran-today-trump-keeps-world-on-edge-with-maybe": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "iran|mp|trump|trump",
+    "norm": 65
   },
-  "meerut-blue-drum-murder-muskan-rastogi-sahil-shukla-challeng": {
-    "firstSeen": "2026-10-25T01:03:06.264Z",
-    "signature": "death|mp",
-    "norm": 57.1
+  "pm-modi-calls-mann-ki-baat-a-pilgrimage-says-programme-celeb": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "khan|modi|modi",
+    "norm": 64.2
   },
-  "how-is-kerala-planning-to-prevent-child-deaths-linked-to-mal": {
-    "firstSeen": "2026-10-25T01:03:06.264Z",
-    "signature": "death",
-    "norm": 48.2
+  "amit-shah-hails-lethal-blow-to-international-narco-cartel-fo": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "amit shah|crore|ipl",
+    "norm": 63.9
   },
-  "minnesota-man-who-d-never-driven-a-bus-stops-rolling-school-": {
-    "firstSeen": "2026-10-25T01:03:06.264Z",
+  "as-naseeruddin-shah-backs-kolkata-film-institute-s-protestin": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "actor|film|protest|protest",
+    "norm": 63.2
+  },
+  "at-5-avyukt-singh-names-46-dinosaurs-in-a-minute-for-guinnes": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "died|mp|record",
+    "norm": 61.1
+  },
+  "6-children-among-12-injured-in-shooting-near-florida-univers": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "injured|mp|shooting",
+    "norm": 60.8
+  },
+  "the-great-regional-retreat-is-meghalaya-s-politics-being-rec": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "collapse|collapse|collapse",
+    "norm": 60
+  },
+  "when-safety-slips-through-a-gaping-hole": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "accident|row",
+    "norm": 57.6
+  },
+  "advocate-arrested-at-mumbai-airport-in-rs-28-000-crore-pan-i": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "crore|fraud",
+    "norm": 55.4
+  },
+  "-buy-me-thar-woman-slapped-kicked-dragged-by-hair-by-husband": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "cctv|footage|rbi",
+    "norm": 55
+  },
+  "andhra-braces-for-very-severe-cyclonic-storm-odisha-activate": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "disaster|heavy rain|storm",
+    "norm": 54.9
+  },
+  "-we-don-t-have-5-years-celebrated-american-general-sounds-al": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "drone|war",
+    "norm": 52.4
+  },
+  "toxic-foam-returns-to-yamuna-as-delhi-ncr-air-quality-slips-": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "mp|poll",
+    "norm": 48.7
+  },
+  "indo-pacific-developments-call-for-vigilance-india-ready-to-": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "china",
+    "norm": 44
+  },
+  "unable-to-pay-rent-man-prints-fake-rs-500-notes-worth-rs-37-": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "lakh",
+    "norm": 44
+  },
+  "back-pain-lancet-review-calls-for-clinical-assessment-over-r": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
     "signature": "",
     "norm": 36
+  },
+  "isro-to-have-four-launch-pads-by-2029-says-narayanan": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "",
+    "norm": 36
+  },
+  "kochi-metro-to-operate-more-services-on-october-25": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "",
+    "norm": 36
+  },
+  "5-000-pound-block-holds-75-million-year-old-dinosaur-possibl": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "theaterisation-must-reflect-india-s-security-needs-air-chief": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "operation-trident-18-arrested-1-424-bank-accounts-frozen-in-": {
+    "firstSeen": "2026-10-25T06:02:06.350Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
