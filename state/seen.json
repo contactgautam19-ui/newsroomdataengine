@@ -1,66 +1,31 @@
 {
-  "breaking-tragic-shooting-incident-claims-six-lives-suspect-g": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
-    "signature": "injured|killed|killed|shooting|tragic|watch",
-    "norm": 77.3
-  },
-  "guwahati-hotel-shootout-death-toll-rises-to-6-accused-arrest": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
-    "signature": "death|injured|killed|killed|shooting|toll",
-    "norm": 73.4
-  },
-  "property-dispute-behind-guwahati-hotel-shooting-says-police-": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
-    "signature": "killed|killed|shooting",
-    "norm": 64.5
-  },
-  "guwahati-shooting-four-of-same-family-killed-in-hotel-bilas-": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
-    "signature": "killed|killed|shooting",
-    "norm": 62.9
-  },
-  "sagar-defence-s-rise-from-150-sq-ft-workspace-to-navy-s-swar": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
-    "signature": "defence|navy|war",
-    "norm": 61.4
+  "trump-critic-and-former-fbi-chief-comey-faces-third-federal-": {
+    "firstSeen": "2026-10-26T23:47:54.033Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
   },
   "a-p-odisha-on-alert-as-cyclone-arnab-nears-land-live": {
     "firstSeen": "2026-10-26T19:12:21.157Z",
     "signature": "alert|cyclone|red alert",
     "norm": 54.9
   },
-  "minister-vanni-arasu-inspects-rain-affected-areas-in-kallaku": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
-    "signature": "minister",
-    "norm": 45.9
+  "ruling-nc-to-reshuffle-expand-j-k-cabinet-on-october-27-ally": {
+    "firstSeen": "2026-10-26T23:47:54.033Z",
+    "signature": "cabinet|congress|governor|minister|ruling",
+    "norm": 52.6
   },
-  "tiger-shroff-firing-case-custody-of-four-accused-extended-ti": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
-    "signature": "defence",
-    "norm": 44
-  },
-  "wanted-in-nearly-20-cases-punjab-gangster-amritpal-bath-held": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
-    "signature": "gst",
-    "norm": 44
-  },
-  "kuttiadi-eyes-river-circuit-to-tap-tourism-potential": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
-    "signature": "watch",
-    "norm": 40.7
-  },
-  "state-government-relaxes-norms-for-height-restriction-on-non": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
+  "june-2025-decision-to-hold-sir-taken-unanimously-ec-tells-sc": {
+    "firstSeen": "2026-10-26T23:47:54.033Z",
     "signature": "",
     "norm": 36
   },
-  "apple-responds-to-user-reports-of-broken-iphone-duo-screens-": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
+  "on-accession-day-mehbooba-reminds-centre-of-promises-says-tr": {
+    "firstSeen": "2026-10-26T23:47:54.033Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "one-held-for-rape-and-murder-of-six-year-old-girl": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
+  "sc-to-up-police-educate-officers-on-investigation": {
+    "firstSeen": "2026-10-26T23:47:54.033Z",
     "signature": "",
     "norm": 33.9
   }
