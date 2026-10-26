@@ -1,156 +1,66 @@
 {
-  "cyclone-arnab-threatens-andhra-s-municipal-polls-sec-hopes-t": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "cyclone|election|election|election commission|poll|storm|threat",
-    "norm": 86.3
+  "breaking-tragic-shooting-incident-claims-six-lives-suspect-g": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "injured|killed|killed|shooting|tragic|watch",
+    "norm": 77.3
   },
-  "bengal-worker-jailed-in-saudi-arabia-over-viral-mecca-video-": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "mp|video|viral|viral|viral",
-    "norm": 75.5
+  "guwahati-hotel-shootout-death-toll-rises-to-6-accused-arrest": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "death|injured|killed|killed|shooting|toll",
+    "norm": 73.4
   },
-  "new-jersey-teen-helps-rescue-two-wins-state-s-first-jrotc-go": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "gold|rescue|rescue|war",
-    "norm": 73.3
-  },
-  "former-dmk-minister-anbil-mahesh-poyyamozhi-arrested-in-100-": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "crore|fraud|minister|scam",
-    "norm": 70.6
-  },
-  "supreme-court-notice-to-ed-on-realty-company-promoter-s-bail": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "fraud|fund|mp|supreme court",
-    "norm": 69.6
-  },
-  "maharashtra-girl-brother-donate-3-575-to-help-farmers-cm-fad": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "chief minister|fund|maharashtra|minister",
-    "norm": 69.6
-  },
-  "newlywed-couple-killed-as-car-hits-motorcycle-near-chintaman": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "killed|killed|mp",
-    "norm": 67.6
-  },
-  "cyclone-arnab-over-4-800-fishing-vessels-return-safely-to-ka": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "cyclone|war|warning",
+  "property-dispute-behind-guwahati-hotel-shooting-says-police-": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "killed|killed|shooting",
     "norm": 64.5
   },
-  "deep-depression-intensifies-into-cyclonic-storm-arnab": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "cyclone|storm|war",
-    "norm": 64.5
+  "guwahati-shooting-four-of-same-family-killed-in-hotel-bilas-": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "killed|killed|shooting",
+    "norm": 62.9
   },
-  "campaign-targeting-sp-congress-alliance-to-consolidate-pda-a": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "alliance|congress|controversy|mp",
-    "norm": 63.5
-  },
-  "-thank-god-ram-did-not-hit-a-minority-up-chief-electoral-off": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "aap|mp|row|vote",
-    "norm": 61.8
-  },
-  "cyclonic-storm-arnab-to-cross-andhra-pradesh-yanam-coast-as-": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "chief minister|minister|storm",
+  "sagar-defence-s-rise-from-150-sq-ft-workspace-to-navy-s-swar": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "defence|navy|war",
     "norm": 61.4
   },
-  "gujarat-govt-declares-devbhoomi-dwarka-kutch-jamnagar-and-po": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "chief minister|minister|war",
-    "norm": 61.4
+  "a-p-odisha-on-alert-as-cyclone-arnab-nears-land-live": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "alert|cyclone|red alert",
+    "norm": 54.9
   },
-  "supreme-court-assures-no-deleted-voters-will-be-prosecuted-f": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "maharashtra|supreme court|vote",
-    "norm": 59.7
-  },
-  "supreme-court-asks-states-uts-to-allocate-funds-to-build-bar": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "fund|mp|supreme court",
-    "norm": 59.3
-  },
-  "kerala-hit-and-run-case-judge-s-son-kills-55-year-old-man-wi": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "killed|killed",
-    "norm": 59.3
-  },
-  "former-tamil-nadu-education-minister-anbil-mahesh-arrested-i": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "crore|high court|minister",
-    "norm": 57.6
-  },
-  "maharashtra-cm-responds-positively-to-telangana-s-request-fo": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "maharashtra|mp",
-    "norm": 57.1
-  },
-  "india-s-e85-fuel-rollout-what-it-means-for-motorists": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "fuel|mp",
-    "norm": 55
-  },
-  "bjp-accuses-telangana-cm-revanth-reddy-of-ignoring-drought-c": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "bjp|rally|rally",
-    "norm": 54.7
-  },
-  "award-winning-director-cinematographer-chezhiyan-no-more": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "film|war",
-    "norm": 53.9
-  },
-  "one-nation-one-papad-the-pursuit-of-food-uniformity-threaten": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "backlash|threat",
-    "norm": 52.1
-  },
-  "-misleading-narrative-indian-army-debunks-claims-of-chinese-": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "army|footage",
-    "norm": 50.2
-  },
-  "meet-siddharth-vikram-brother-s-accident-inspired-25-000-win": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "accident",
-    "norm": 48.2
-  },
-  "cyclone-arnab-apepdcl-opens-41-control-rooms-keeps-4-056-wor": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "cyclone",
-    "norm": 46.3
-  },
-  "government-amends-motor-vehicle-rules-to-permit-pure-ethanol": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "fuel",
+  "minister-vanni-arasu-inspects-rain-affected-areas-in-kallaku": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "nhpc-wants-drilling-agencies-for-hydropower-pumped-storage-p": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "copious-rain-triggers-seven-new-landslips-in-nilgiris": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "sit-formed-to-probe-rs-500-crore-transaction-allegations-by-": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
-    "signature": "crore",
+  "tiger-shroff-firing-case-custody-of-four-accused-extended-ti": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "defence",
     "norm": 44
   },
-  "teenage-girl-raped-murdered-in-bengal-s-gaighata-one-arreste": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
+  "wanted-in-nearly-20-cases-punjab-gangster-amritpal-bath-held": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "gst",
+    "norm": 44
+  },
+  "kuttiadi-eyes-river-circuit-to-tap-tourism-potential": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "watch",
+    "norm": 40.7
+  },
+  "state-government-relaxes-norms-for-height-restriction-on-non": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
     "signature": "",
     "norm": 36
   },
-  "239-vulnerable-areas-identified-in-cuddalore-district": {
-    "firstSeen": "2026-10-26T12:51:24.241Z",
+  "apple-responds-to-user-reports-of-broken-iphone-duo-screens-": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
+    "signature": "",
+    "norm": 36
+  },
+  "one-held-for-rape-and-murder-of-six-year-old-girl": {
+    "firstSeen": "2026-10-26T19:12:21.157Z",
     "signature": "",
     "norm": 33.9
   }
