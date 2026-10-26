@@ -1,37 +1,302 @@
 {
+  "bjp-to-launch-nationwide-protests-against-mallikarjun-kharge": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "attack|attack|bjp|congress|minister|modi|modi|president|prime minister|protest|protest",
+    "norm": 81.4
+  },
+  "bjp-calls-for-nationwide-protest-over-kharge-s-baap-remark": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "aap|amit shah|bjp|congress|minister|modi|modi|outrage|president|prime minister|protest|protest",
+    "norm": 75.4
+  },
+  "bjp-slams-kharge-over-indecent-remarks-on-pm-modi": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "bjp|modi|modi|protest|protest|slam|slams",
+    "norm": 74
+  },
+  "serbia-s-vucic-concedes-defeat-as-student-led-movement-wins-": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "election|election|parliament|rbi",
+    "norm": 68
+  },
+  "jamia-protest-standoff-student-agitations-campus-rules-and-t": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "election|election|mp|protest|protest|slam",
+    "norm": 67.9
+  },
+  "half-a-sentence-then-m-kharge-s-baap-line-how-pm-insulted-ro": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "aap|congress|modi|modi|president|row|star",
+    "norm": 67.3
+  },
+  "at-least-2-feared-trapped-as-under-construction-building-col": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "building collapse|collapse|collapse|collapse|fear",
+    "norm": 64.8
+  },
   "ec-refuses-to-give-details-of-sir-software-cites-trade-secre": {
     "firstSeen": "2026-10-25T21:41:33.663Z",
     "signature": "election|election|election commission|war",
-    "norm": 71.6
+    "norm": 64.7
   },
-  "trump-calls-el-sayed-jihadist-ahead-of-michigan-rally-allege": {
-    "firstSeen": "2026-10-25T21:41:33.663Z",
+  "-extortion-bid-death-threat-actress-urmila-sanawar-arrested-": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "actress|bjp|death|mla|mp|threat|war",
+    "norm": 63.7
+  },
+  "trump-calls-el-sayed-jihadist-alleges-mother-s-al-qaeda-link": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
     "signature": "mp|rally|rally|trump|trump",
-    "norm": 69
+    "norm": 62
   },
-  "epfo-considers-rs-25-000cr-war-chest-to-stabilise-interest-p": {
-    "firstSeen": "2026-10-25T21:41:33.663Z",
-    "signature": "crore|fund|mp|war",
-    "norm": 68
+  "bjp-leader-files-police-complaint-against-kharge-over-baap-r": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "aap|bjp|exam|modi|modi|mp|video",
+    "norm": 60.7
+  },
+  "netanyahu-shares-ai-image-of-nuclear-blast-in-tel-aviv-2-day": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "blast|explosion|explosion|poll",
+    "norm": 57.1
+  },
+  "15-shops-a-hotel-destroyed-in-jammu-market-fire-losses-estim": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "blaze|crore|fire|fire",
+    "norm": 54.5
+  },
+  "19-candidates-in-fray-for-vmc-mayor-s-post": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "election|election|war",
+    "norm": 52.7
+  },
+  "kashmiri-pandits-flag-graveyard-en-route-to-shankaracharya-h": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "lakh|mp|sudden|suddenly",
+    "norm": 52.3
+  },
+  "fir-filed-against-2-congress-mps-for-trespass-as-jamia-unive": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "congress|mp|protest|protest",
+    "norm": 52
+  },
+  "jamia-student-protest-intensifies-amid-restrictions-heavy-po": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "mp|protest|protest",
+    "norm": 51.5
+  },
+  "monsoon-tracker-live-depression-over-bay-of-bengal-set-to-be": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "cyclone|mp|storm",
+    "norm": 51.2
+  },
+  "philadelphia-orchestra-receives-10-5m-pledge-for-global-tour": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "fund|mp",
+    "norm": 50.5
+  },
+  "massive-fire-engulfs-shiv-market-near-jammu-railway-station-": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "fire|fire",
+    "norm": 49.7
+  },
+  "man-killed-in-keralam-s-kochi-as-luxury-car-allegedly-driven": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "accident|killed|killed",
+    "norm": 49.4
+  },
+  "ex-congress-mla-raminder-awla-joins-akali-dal-revives-fresh-": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "congress|mla|president|row",
+    "norm": 48.2
+  },
+  "kerala-judge-s-minor-son-rams-mercedes-benz-into-scooter-rid": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "accident|exam",
+    "norm": 47.7
+  },
+  "ayodhya-ram-mandir-darshan-timings-to-change-from-november-1": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "ayodhya|mp|ram mandir",
+    "norm": 47
+  },
+  "odisha-cyclone-live-updates-state-steps-up-cyclone-preparedn": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "cyclone|rescue|rescue",
+    "norm": 46.3
+  },
+  "ineligibility-thresholds-coalitions-inside-israel-s-electora": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "coalition|israel",
+    "norm": 45.4
+  },
+  "pulakeshinagar-ied-blast-case-cracked-personal-rivalry-behin": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "blast|mp",
+    "norm": 45.4
+  },
+  "uttar-pradesh-ceo-orders-reverification-of-all-forms-submitt": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "controversy|mp",
+    "norm": 45.4
+  },
+  "west-asia-crisis-government-ready-with-energy-fertiliser-sto": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "stocks",
+    "norm": 44
+  },
+  "like-kerala-t-n-government-should-pass-resolution-in-state-a": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "bjp|crore|vote",
+    "norm": 43.5
+  },
+  "iran-says-us-talks-meaningless-until-7-conditions-met-as-qat": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "iran|war",
+    "norm": 43.5
+  },
+  "shadab-rauf-pull-off-miracle-with-record-89-run-stand-for-la": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "khan|pakistan|record",
+    "norm": 43.5
   },
   "former-cji-d-y-chandrachud-was-more-deferential-to-govt-than": {
     "firstSeen": "2026-10-25T21:41:33.663Z",
     "signature": "cji|deal",
-    "norm": 53.2
+    "norm": 43
   },
-  "banks-pass-on-rate-hikes-but-go-slow-when-rates-fall-rbi-stu": {
-    "firstSeen": "2026-10-25T21:41:33.663Z",
-    "signature": "rbi|repo rate",
-    "norm": 48.7
+  "assam-cm-himanta-biswa-sarma-cabinet-ministers-dance-to-gang": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "cabinet|minister|mp|video",
+    "norm": 42.7
+  },
+  "with-an-ai-generated-funeral-of-himself-man-tries-to-escape-": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "death|photos",
+    "norm": 42.2
+  },
+  "17-men-claiming-to-be-kuki-cadres-arrested-arms-seized-in-ma": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "fire|fire",
+    "norm": 42.2
+  },
+  "officials-urged-to-remain-alert-as-severe-cyclone-approaches": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "alert|cyclone",
+    "norm": 41.8
+  },
+  "jharkhand-bjp-unanimously-passes-political-resolution-at-sta": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "bjp|khan",
+    "norm": 41.4
+  },
+  "raids-on-ne-drug-cartels-reveal-illicit-deals-worth-rs-270cr": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "deal",
+    "norm": 41
+  },
+  "john-stamos-former-california-estate-cuts-asking-price-from-": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "price",
+    "norm": 41
+  },
+  "6-arrested-over-1-400-bank-accounts-frozen-in-manipur-mizora": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "border|scam",
+    "norm": 41
   },
   "kristen-stewart-bought-malibu-home-with-mother-for-4-8m-sold": {
     "firstSeen": "2026-10-25T21:41:33.663Z",
     "signature": "war",
-    "norm": 48.2
+    "norm": 40.1
   },
-  "florida-approves-12-9m-easement-to-protect-5-610-acres-of-fa": {
-    "firstSeen": "2026-10-25T21:41:33.663Z",
-    "signature": "",
+  "-i-am-here-with-you-nobel-laureate-venezuela-opposition-lead": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "mp|opposition",
+    "norm": 38
+  },
+  "bhavani-devotees-throng-kanaka-durga-temple-atop-indrakeelad": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "mp|vote",
+    "norm": 38
+  },
+  "alabama-lawyer-quit-practice-to-care-for-parents-court-voids": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "mp|ruling|supreme court",
     "norm": 36
+  },
+  "nobel-laureate-venezuela-opposition-leader-machado-returns-a": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "opposition",
+    "norm": 32.8
+  },
+  "congress-leader-kripa-alva-questioned-in-sting-operation-cas": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "congress",
+    "norm": 32.8
+  },
+  "collegium-decisions-unanimous-says-ex-cji-chandrachud": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "cji",
+    "norm": 32.8
+  },
+  "eam-to-un-lead-during-global-crises-don-t-just-be-a-spectato": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "three-north-andhra-districts-step-up-cyclone-preparedness": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "cyclone",
+    "norm": 30.7
+  },
+  "mumbai-police-detains-25-including-comedian-masoom-rajwani-o": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "bomb",
+    "norm": 30.7
+  },
+  "industrialist-r-veeramani-booked-in-eighth-pocso-case-police": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "mp",
+    "norm": 27.8
+  },
+  "nilgiris-district-hit-by-62-minor-landslips-in-a-day-till-oc": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "record",
+    "norm": 23.9
+  },
+  "as-2000-attend-kashmir-marathon-cm-omar-says-strengthens-j-k": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "a-korean-cultural-evening-in-hyderabad-with-a-distinctly-tel": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "early-iphone-duo-buyers-report-inner-display-damage-caused-b": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "universities-urged-to-embrace-continuous-learning-and-innova": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "iskcon-unveils-800-kg-robotic-elephant-in-visakhapatnam": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "nobel-peace-prize-winner-machado-announces-return-to-venezue": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "apsche-to-hold-state-level-aishe-workshop-for-university-nod": {
+    "firstSeen": "2026-10-26T00:12:36.797Z",
+    "signature": "",
+    "norm": 15.1
   }
 }
