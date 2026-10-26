@@ -1,206 +1,156 @@
 {
-  "contractor-his-father-dead-in-under-construction-building-co": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "actor|building collapse|collapse|collapse|collapse|dead|dead|hospital",
-    "norm": 83.6
+  "cyclone-arnab-threatens-andhra-s-municipal-polls-sec-hopes-t": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "cyclone|election|election|election commission|poll|storm|threat",
+    "norm": 86.3
   },
-  "father-son-killed-after-building-collapsed-in-delhi-s-harsh-": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "building collapse|collapse|collapse|collapse|disaster|fire|fire|killed|killed|rescue|rescue",
-    "norm": 82
+  "bengal-worker-jailed-in-saudi-arabia-over-viral-mecca-video-": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "mp|video|viral|viral|viral",
+    "norm": 75.5
   },
-  "trump-calls-michigan-senate-candidate-jihadist-questions-loy": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "mp|terror|terror|trump|trump",
-    "norm": 79.8
+  "new-jersey-teen-helps-rescue-two-wins-state-s-first-jrotc-go": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "gold|rescue|rescue|war",
+    "norm": 73.3
   },
-  "bjp-to-hold-nationwide-protest-on-october-26-against-kharge-": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "bjp|minister|modi|modi|prime minister|protest|protest",
-    "norm": 79.7
+  "former-dmk-minister-anbil-mahesh-poyyamozhi-arrested-in-100-": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "crore|fraud|minister|scam",
+    "norm": 70.6
   },
-  "pm-modi-congratulates-dear-friend-lula-da-silva-for-brazil-e": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "election|election|modi|modi|war",
-    "norm": 76.5
+  "supreme-court-notice-to-ed-on-realty-company-promoter-s-bail": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "fraud|fund|mp|supreme court",
+    "norm": 69.6
   },
-  "keralam-plans-bill-to-regulate-high-treatment-costs-in-priva": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "bill|hospital|ipl|minister|mp",
-    "norm": 73.6
+  "maharashtra-girl-brother-donate-3-575-to-help-farmers-cm-fad": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "chief minister|fund|maharashtra|minister",
+    "norm": 69.6
   },
-  "-vote-for-bibi-we-have-to-finish-job-trump-ahead-of-israel-e": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "election|election|iran|israel|mp|trump|trump|vote",
-    "norm": 71.8
+  "newlywed-couple-killed-as-car-hits-motorcycle-near-chintaman": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "killed|killed|mp",
+    "norm": 67.6
   },
-  "juvenile-justice-board-grants-bail-to-teen-driver-in-fatal-c": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "crash|crash|protest|protest",
-    "norm": 71.4
+  "cyclone-arnab-over-4-800-fishing-vessels-return-safely-to-ka": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "cyclone|war|warning",
+    "norm": 64.5
   },
-  "up-police-probe-black-magic-video-involving-pm-modi-s-photo-": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "cctv|exam|footage|modi|modi|video",
-    "norm": 70.4
+  "deep-depression-intensifies-into-cyclonic-storm-arnab": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "cyclone|storm|war",
+    "norm": 64.5
   },
-  "reels-wiped-3-fled-victim-s-family-alleges-cover-up-in-keral": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "accident|crash|crash|video|watch",
-    "norm": 69
-  },
-  "pm-modi-congratulates-dear-friend-lula-on-re-election-vows-t": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "election|election|modi|modi|president",
-    "norm": 68.6
-  },
-  "pm-modi-congratulates-lula-on-re-election-in-brazil": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "election|election|modi|modi|vote",
-    "norm": 68.6
-  },
-  "rahul-gandhi-s-convoy-involved-in-accident-on-purvanchal-exp": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "accident|congress|injured|rahul gandhi",
-    "norm": 66.6
-  },
-  "prabhas-fauzi-faces-criticism-over-fictional-netaji-hitler-m": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "controversy|film|record|teaser",
-    "norm": 64.9
-  },
-  "cyclone-arnab-alert-these-odisha-andhra-pradesh-districts-ar": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "alert|cyclone|flood|flood|landslide|watch",
-    "norm": 64.7
-  },
-  "rahul-gandhi-s-convoy-involved-in-collision-on-purvanchal-ex": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "congress|injured|lok sabha|opposition|rahul gandhi",
-    "norm": 64.6
-  },
-  "-i-m-here-with-you-venezuela-opposition-leader-machado-retur": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "mp|opposition|president|trump|trump",
-    "norm": 64.6
-  },
-  "rahul-gandhi-s-convoy-collides-near-sultanpur-en-route-to-co": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "accident|amit shah|congress|minister|rahul gandhi",
-    "norm": 64.6
-  },
-  "massive-fire-near-jammu-railway-station-guts-around-40-shops": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "blaze|deal|fire|fire",
-    "norm": 63.9
-  },
-  "congress-president-mallikarrjun-kharge-s-remark-on-pm-modi-s": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "bjp|congress|minister|modi|modi|president|prime minister|ruling",
-    "norm": 63.8
-  },
-  "5-cars-in-rahul-gandhi-s-convoy-collide-with-ambulance-on-up": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "accident|congress|mp|rahul gandhi",
+  "campaign-targeting-sp-congress-alliance-to-consolidate-pda-a": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "alliance|congress|controversy|mp",
     "norm": 63.5
   },
-  "-dk-shivakumar-behind-rs-600-crore-plot-to-finish-us-hd-kuma": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "crore|deal|minister|prime minister",
+  "-thank-god-ram-did-not-hit-a-minority-up-chief-electoral-off": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "aap|mp|row|vote",
     "norm": 61.8
   },
-  "fauzi-controversy-critics-question-netaji-subhas-chandra-bos": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "controversy|film|teaser",
+  "cyclonic-storm-arnab-to-cross-andhra-pradesh-yanam-coast-as-": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "chief minister|minister|storm",
+    "norm": 61.4
+  },
+  "gujarat-govt-declares-devbhoomi-dwarka-kutch-jamnagar-and-po": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "chief minister|minister|war",
+    "norm": 61.4
+  },
+  "supreme-court-assures-no-deleted-voters-will-be-prosecuted-f": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "maharashtra|supreme court|vote",
+    "norm": 59.7
+  },
+  "supreme-court-asks-states-uts-to-allocate-funds-to-build-bar": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "fund|mp|supreme court",
+    "norm": 59.3
+  },
+  "kerala-hit-and-run-case-judge-s-son-kills-55-year-old-man-wi": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "killed|killed",
+    "norm": 59.3
+  },
+  "former-tamil-nadu-education-minister-anbil-mahesh-arrested-i": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "crore|high court|minister",
     "norm": 57.6
   },
-  "naseeruddin-shah-wants-to-weaken-democracy-in-country-bjp": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "actor|bjp|film",
+  "maharashtra-cm-responds-positively-to-telangana-s-request-fo": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "maharashtra|mp",
     "norm": 57.1
   },
-  "rahul-gandhi-s-convoy-involved-in-minor-accident-on-purvanch": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "accident|rahul gandhi",
-    "norm": 57.1
+  "india-s-e85-fuel-rollout-what-it-means-for-motorists": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "fuel|mp",
+    "norm": 55
   },
-  "retired-army-captain-arrested-in-honey-trap-case-over-defenc": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "army|captain|defence",
-    "norm": 56.1
+  "bjp-accuses-telangana-cm-revanth-reddy-of-ignoring-drought-c": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "bjp|rally|rally",
+    "norm": 54.7
   },
-  "many-injured-after-cars-in-rahul-gandhi-s-convoy-collide-wit": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "injured|rahul gandhi",
-    "norm": 55.4
+  "award-winning-director-cinematographer-chezhiyan-no-more": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "film|war",
+    "norm": 53.9
   },
-  "mumbai-aqi-puzzle-why-iqair-says-unhealthy-but-cpcb-rates-ai": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "actor|poll",
-    "norm": 53.5
-  },
-  "concerns-about-quality-of-health-care-unemployment-as-rmps-i": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "lakh|mp",
-    "norm": 53.2
-  },
-  "panel-formed-to-probe-spurious-liquor-death-claims-in-madhya": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "death|died",
+  "one-nation-one-papad-the-pursuit-of-food-uniformity-threaten": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "backlash|threat",
     "norm": 52.1
   },
-  "cyclone-arnab-intensifies-over-bay-of-bengal-andhra-pradesh-": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "alert|cyclone",
-    "norm": 52.1
+  "-misleading-narrative-indian-army-debunks-claims-of-chinese-": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "army|footage",
+    "norm": 50.2
   },
-  "rahul-gandhi-s-convoy-vehicles-collide-on-way-to-court-on-up": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "congress|mp|rahul gandhi",
-    "norm": 50.9
-  },
-  "giacometti-chandelier-bought-for-250-later-sold-for-2-922m-i": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "death",
+  "meet-siddharth-vikram-brother-s-accident-inspired-25-000-win": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "accident",
     "norm": 48.2
   },
-  "hyderabad-s-osmania-general-hospital-strengthens-gender-affi": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "hospital",
+  "cyclone-arnab-apepdcl-opens-41-control-rooms-keeps-4-056-wor": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "cyclone",
     "norm": 46.3
   },
-  "unnao-woman-found-murdered-in-lucknow-paper-in-bag-with-4-na": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "death",
-    "norm": 46.3
-  },
-  "jamia-university-orders-student-union-polls-within-15-days-o": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "poll",
+  "government-amends-motor-vehicle-rules-to-permit-pure-ethanol": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "fuel",
     "norm": 45.9
   },
-  "minnesota-court-reverses-reopening-of-300-acre-farm-estate-o": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "ruling",
+  "nhpc-wants-drilling-agencies-for-hydropower-pumped-storage-p": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "have-a-valid-visa-delhi-high-court-upholds-immigration-s-pow": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "high court",
+  "copious-rain-triggers-seven-new-landslips-in-nilgiris": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "how-far-can-a-sitting-judge-speak-outside-the-courtroom-": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
+  "sit-formed-to-probe-rs-500-crore-transaction-allegations-by-": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "teenage-girl-raped-murdered-in-bengal-s-gaighata-one-arreste": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
     "signature": "",
     "norm": 36
   },
-  "beyonc-s-childhood-houston-home-sold-in-may-2026-after-1-275": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
-    "signature": "",
-    "norm": 36
-  },
-  "strands-hint-today-answers-for-oct-2-6-no-967": {
-    "firstSeen": "2026-10-26T06:03:11.125Z",
+  "239-vulnerable-areas-identified-in-cuddalore-district": {
+    "firstSeen": "2026-10-26T12:51:24.241Z",
     "signature": "",
     "norm": 33.9
   }
