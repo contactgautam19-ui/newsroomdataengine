@@ -1,31 +1,166 @@
 {
-  "trump-critic-and-former-fbi-chief-comey-faces-third-federal-": {
-    "firstSeen": "2026-10-26T23:47:54.033Z",
-    "signature": "mp|trump|trump",
+  "tiger-shroff-attack-extortion-plot-unveiled-as-gang-aims-to-": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "actor|attack|attack|bollywood|bollywood|fear|fire|fire",
+    "norm": 93.5
+  },
+  "saudi-arabia-offered-houthis-1-billion-through-iran-to-stop-": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "attack|attack|bill|billion|iran",
+    "norm": 83.5
+  },
+  "-epstein-organized-many-parties-with-don-ex-miss-swiss-accus": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "brutal|mp|result|trump|trump|war",
+    "norm": 81.3
+  },
+  "kea-conducts-direct-recruitment-exam-for-land-surveyors-vaos": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "exam|mp|recruitment|war",
+    "norm": 72.6
+  },
+  "cyclone-arnab-live-updates-arnab-hurtling-towards-andhra-kak": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "cyclone|fear|star|war",
+    "norm": 71.3
+  },
+  "sugarcane-price-deadlock-nears-resolution-after-10-hour-disc": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "dead|dead|price",
+    "norm": 67.6
+  },
+  "-breaking-17-remand-prisoners-escape-from-tamil-nadu-jail-ta": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "attack|attack|mp",
+    "norm": 67.6
+  },
+  "17-inmates-escape-tamil-nadu-jail-in-violent-attack-on-polic": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "attack|attack|mp",
+    "norm": 66
+  },
+  "west-bengal-encounter-prahlad-das-killed-during-gaighata-rap": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "died|killed|killed",
+    "norm": 64.5
+  },
+  "ex-dmk-minister-anbil-remanded-to-judicial-custody-till-nov-": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "crore|minister|scam",
+    "norm": 63.9
+  },
+  "cec-can-be-removed-only-like-a-supreme-court-judge-eci-tells": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "election|election|election commission|mp|supreme court",
+    "norm": 62.9
+  },
+  "-what-have-you-achieved-karnataka-officials-in-dock-for-spen": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "minister|mp|war",
     "norm": 59.7
   },
-  "a-p-odisha-on-alert-as-cyclone-arnab-nears-land-live": {
-    "firstSeen": "2026-10-26T19:12:21.157Z",
-    "signature": "alert|cyclone|red alert",
-    "norm": 54.9
+  "rape-and-murder-accused-killed-in-encounter-in-west-bengal-s": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "killed|killed",
+    "norm": 59.3
   },
-  "ruling-nc-to-reshuffle-expand-j-k-cabinet-on-october-27-ally": {
-    "firstSeen": "2026-10-26T23:47:54.033Z",
-    "signature": "cabinet|congress|governor|minister|ruling",
-    "norm": 52.6
+  "2-indian-origin-men-get-28-years-in-jail-after-deadly-car-ra": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "dead|dead",
+    "norm": 57.6
   },
-  "june-2025-decision-to-hold-sir-taken-unanimously-ec-tells-sc": {
-    "firstSeen": "2026-10-26T23:47:54.033Z",
+  "arnab-becomes-very-severe-cyclonic-storm-light-showers-begin": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "storm|war",
+    "norm": 57.6
+  },
+  "sabarimala-gold-theft-case-kerala-hc-directs-sit-to-expedite": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "gold|sanction",
+    "norm": 57.1
+  },
+  "punjab-congress-leaders-pack-into-suv-for-unity-bjp-and-aap-": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "aap|bjp|congress|video",
+    "norm": 56.9
+  },
+  "how-a-refund-request-for-leaking-curd-packet-cost-bengaluru-": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "fund|mp",
+    "norm": 55
+  },
+  "cyclone-arnab-tracker-live-updates-trains-cancelled-schools-": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "cyclone|heavy rain",
+    "norm": 53.9
+  },
+  "very-severe-cyclonic-storm-arnab-to-trigger-extremely-heavy-": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "heavy rain|storm",
+    "norm": 53.9
+  },
+  "instagram-tests-90-minute-horizontal-videos-for-long-form-co": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "instagram|video",
+    "norm": 48.7
+  },
+  "india-s-market-leaders-to-decode-the-new-samvat-at-ndtv-prof": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "fund|investor",
+    "norm": 48.7
+  },
+  "how-community-based-weather-data-is-bolstering-this-wayanad-": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "weather",
+    "norm": 46.3
+  },
+  "rss-to-change-its-annual-meeting-calendar-highest-decision-m": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "supreme-court-collegium-proposes-four-judges-for-hc-chief-ju": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "media-association-challenges-privacy-law-in-supreme-court": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "supreme court",
+    "norm": 44
+  },
+  "three-day-state-level-convention-of-farmers-in-kalaburagi": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "17-prisoners-escape-from-tamil-nadu-jail-police-launch-manhu": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "india-calls-for-equal-veto-rights-in-un-security-council-ref": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "china",
+    "norm": 44
+  },
+  "tiger-shroff-firing-was-to-extort-money-assert-lawrence-bish": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
     "signature": "",
     "norm": 36
   },
-  "on-accession-day-mehbooba-reminds-centre-of-promises-says-tr": {
-    "firstSeen": "2026-10-26T23:47:54.033Z",
+  "iits-have-far-fewer-mental-health-counsellors-than-recommend": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
     "signature": "",
     "norm": 33.9
   },
-  "sc-to-up-police-educate-officers-on-investigation": {
-    "firstSeen": "2026-10-26T23:47:54.033Z",
+  "member-of-prashant-kishor-s-jan-suraaj-party-s-communication": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "cancer-360-overview-of-detection-treatment-palliation": {
+    "firstSeen": "2026-10-27T04:54:13.072Z",
     "signature": "",
     "norm": 33.9
   }
