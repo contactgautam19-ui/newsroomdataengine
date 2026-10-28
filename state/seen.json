@@ -1,57 +1,302 @@
 {
+  "bioweapons-blackmail-risks-to-humanity-in-anthropic-s-pre-ip": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "ipo|mp|opposition|row|war|warning",
+    "norm": 74.2
+  },
+  "netanyahu-lacks-majority-israel-opposition-has-edge-shows-1s": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "election|election|fear|iran|israel|minister|opposition|poll|prime minister|vote",
+    "norm": 72.5
+  },
+  "former-bjp-mp-dharmendra-kashyap-joins-samajwadi-party": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "bjp|collapse|collapse|collapse|mp|war",
+    "norm": 71.9
+  },
+  "us-says-it-will-issue-visas-to-brazil-s-flavio-bolsonaro-aft": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "election|election|mp|president|tax|trump|trump",
+    "norm": 70.8
+  },
+  "cyclone-arnab-starts-landfall-process-along-andhra-pradesh-c": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "alert|cyclone|heavy rain|mp|rescue|rescue|star|storm",
+    "norm": 68.6
+  },
+  "pete-hegseth-to-face-questions-on-us-role-in-indo-pacific-at": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "china|iran|summit|war",
+    "norm": 67.6
+  },
+  "india-would-have-grown-8-but-for-external-shocks-rbi": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "rbi|row|shock|shock",
+    "norm": 66.3
+  },
+  "-india-under-no-pressure-to-stop-buying-russian-oil-petroleu": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "fuel|minister|petrol|petrol|price|prices|sanction",
+    "norm": 64.6
+  },
+  "trump-says-he-will-respect-midterm-election-results-if-polls": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "congress|election|election|mp|poll|president|result|results|results|trump|trump",
+    "norm": 64.3
+  },
+  "cyclone-arnab-flights-suspended-at-3-andhra-airports-airline": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "cyclone|fund|mp|weather",
+    "norm": 61.4
+  },
+  "cpi-forms-human-chain-in-delhi-demanding-cec-s-resignation-a": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "election|election|election commission|threat",
+    "norm": 61
+  },
+  "over-100-killed-113-injured-in-drone-strike-on-sudan-market": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "drone|injured|killed|killed",
+    "norm": 59.2
+  },
   "bihar-mlc-results-bjp-win-one-seat-counting-underway-on-rema": {
     "firstSeen": "2026-10-27T21:15:09.623Z",
     "signature": "bjp|mla|result|results|results",
-    "norm": 67.5
+    "norm": 58.3
   },
-  "congress-slams-ec-affidavit-terms-it-deceptive-deceitful-amp": {
-    "firstSeen": "2026-10-27T21:15:09.623Z",
-    "signature": "congress|mp|slam|slams",
-    "norm": 65
+  "un-nuclear-watchdog-chief-urges-iran-to-grant-access": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "iran|mp|watch",
+    "norm": 55.5
   },
-  "israel-election-exit-polls-show-no-clear-winner-as-netanyahu": {
-    "firstSeen": "2026-10-27T21:15:09.623Z",
-    "signature": "election|election|israel|poll",
-    "norm": 65
+  "prashant-kishor-s-jan-suraaj-wins-first-seat-in-bihar-upper-": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "election|election|poll|ruling",
+    "norm": 52.3
+  },
+  "andhra-pradesh-on-high-alert-as-cyclone-arnab-set-for-early-": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "alert|anger|cyclone",
+    "norm": 51.6
   },
   "cyclone-arnab-flights-trains-cancelled-as-heavy-showers-batt": {
     "firstSeen": "2026-10-27T21:15:09.623Z",
     "signature": "cyclone|evacuat|mp",
-    "norm": 60.8
+    "norm": 51.2
   },
-  "election-commision-keeps-rti-applicant-waiting-for-reply": {
-    "firstSeen": "2026-10-27T21:15:09.623Z",
-    "signature": "election|election",
-    "norm": 57.1
+  "gadi-eisenkot-the-man-who-could-bring-benjamin-netanyahu-s-l": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "israel|minister|prime minister",
+    "norm": 50
   },
-  "cyclone-arnab-makes-landfall-odisha-andhra-pradesh-see-heavy": {
-    "firstSeen": "2026-10-27T21:15:09.623Z",
-    "signature": "cyclone|heavy rain|storm",
-    "norm": 56.6
+  "brics-parliamentary-forum-expresses-deep-concern-about-west-": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "brics|israel|parliament",
+    "norm": 50
+  },
+  "nepal-halts-himalayan-trekking-permits-amid-avalanche-risks": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "cyclone|heavy rain|weather",
+    "norm": 49.4
+  },
+  "cyclone-arnab-s-landfall-process-continues-along-andhra-coas": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "cyclone",
+    "norm": 48.2
+  },
+  "india-to-host-sco-s-1st-civilisational-dialogue-forum-pakist": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "china|iran|minister|pakistan",
+    "norm": 48.2
+  },
+  "-direct-hit-houthis-claim-targeted-saudi-ministry-with-balli": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "attack|attack",
+    "norm": 47.7
   },
   "cyclone-arnab-live-updates-cyclone-arnab-makes-landfall-east": {
     "firstSeen": "2026-10-27T21:15:09.623Z",
     "signature": "cyclone|heavy rain|storm",
-    "norm": 56.6
+    "norm": 47.1
   },
-  "order-preservation-of-sir-files-amp-notings-petitioners-urge": {
-    "firstSeen": "2026-10-27T21:15:09.623Z",
-    "signature": "mp",
-    "norm": 44
+  "x-post-row-kerala-pradesh-congress-committee-tenders-uncondi": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "cji|congress|row",
+    "norm": 45.9
   },
-  "meet-kayley-xu-san-diego-student-wins-25-000-for-wearable-st": {
-    "firstSeen": "2026-10-27T21:15:09.623Z",
-    "signature": "mp",
-    "norm": 44
+  "massive-arab-israeli-poll-turnout-netanyahu-s-end-to-jewish-": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "israel|poll|vote",
+    "norm": 45.9
   },
-  "wall-street-ends-higher-on-revived-ai-momentum": {
-    "firstSeen": "2026-10-27T21:15:09.623Z",
-    "signature": "mp",
-    "norm": 44
+  "cabinet-secretary-lists-12-types-of-secretaries-file-thrower": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "cabinet|row",
+    "norm": 45.4
   },
-  "jake-gyllenhaal-bought-nyc-condo-for-8-63m-sold-for-14m-amid": {
-    "firstSeen": "2026-10-27T21:15:09.623Z",
+  "israel-exit-polls-show-no-clear-winner-as-netanyahu-and-riva": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "israel|poll",
+    "norm": 45.4
+  },
+  "flavio-bolsonaro-flees-brazil-hours-after-losing-presidentia": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "poll|president|record",
+    "norm": 44.6
+  },
+  "general-medicine-tops-neet-pg-choices-among-first-100": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "neet",
+    "norm": 43.5
+  },
+  "two-killed-in-separate-road-incidents": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "killed|killed",
+    "norm": 43.5
+  },
+  "indian-firm-l-t-wins-major-dhaka-metro-contract": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "crore|mp|trillion",
+    "norm": 43.5
+  },
+  "kochi-hit-and-run-case-police-raid-judge-s-residence-as-prob": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "crash|crash",
+    "norm": 43.5
+  },
+  "bihar-cm-orders-probe-into-legal-notice-served-to-rjd-mp-sud": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "crore|mp",
+    "norm": 43
+  },
+  "acb-arrests-mirchowk-inspector-home-guard-in-3-lakh-bribe-ca": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "lakh|mp",
+    "norm": 43
+  },
+  "government-working-on-bill-to-curb-child-amp-revenge-porn-so": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "bill|mp",
+    "norm": 42.5
+  },
+  "women-protests-force-ladakh-administration-to-discuss-declar": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "protest|protest",
+    "norm": 42.2
+  },
+  "need-to-balance-right-to-free-speech-privacy-supreme-court": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "supreme court",
+    "norm": 41
+  },
+  "days-after-claims-of-irregularities-in-garbage-contracts-chi": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "chief minister|minister",
+    "norm": 38
+  },
+  "brics-forum-concerned-over-west-asia-tensions-calls-for-max-": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "brics",
+    "norm": 37.5
+  },
+  "baloch-prince-son-of-khan-of-kalat-kidnapped-with-his-3-gunm": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "khan|pakistan",
+    "norm": 36.9
+  },
+  "very-severe-cyclonic-storm-arnab-begins-landfall-near-narsap": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "storm",
+    "norm": 35.5
+  },
+  "cyclone-arnab-begins-landfall-along-andhra-coast-process-to-": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "cyclone",
+    "norm": 35.5
+  },
+  "two-years-on-karnataka-beekeepers-continue-to-face-threat-fr": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "threat",
+    "norm": 35.5
+  },
+  "are-coronary-stents-necessary-": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "row",
+    "norm": 35.5
+  },
+  "michael-j-fox-s-parkinson-s-study-data-downloaded-over-50-mi": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
     "signature": "",
     "norm": 33.9
+  },
+  "government-identifies-120-items-for-local-production-push": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "t-n-govt-revises-housing-loan-limits-for-urban-cooperative-b": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "crore|lakh",
+    "norm": 33.4
+  },
+  "fouled-waters-on-rajasthan-s-river-pollution": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "poll",
+    "norm": 32.8
+  },
+  "indians-travelling-to-uae-advised-to-take-adequate-medical-i": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "flavio-bolsonaro-flees-brazil-after-lula-defeat-us-offers-vi": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "man-held-for-stealing-cars-near-katpadi-railway-station": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "cctv|footage",
+    "norm": 27.8
+  },
+  "delhi-government-may-hike-agricultural-land-circle-rates-aft": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "crore",
+    "norm": 27.8
+  },
+  "bound-to-be-tamasha-over-my-book-sonia-gandhi": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "city-faces-extreme-groundwater-depletion-with-abysmal-levels": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "record",
+    "norm": 23.9
+  },
+  "apple-bets-macbook-pro-buyers-will-pay-more-for-touch-screen": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "today-s-nyt-strands-hints-spangram-and-answers-for-wednesday": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "noted-dancer-sreedevi-rajan-passes-away-at-84": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "singareni-seeks-angul-collector-s-support-for-road-laying-to": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "delhi-assembly-met-for-just-17-days-in-2025-speaker-backs-30": {
+    "firstSeen": "2026-10-28T01:14:08.394Z",
+    "signature": "",
+    "norm": 15.1
   }
 }
