@@ -1,146 +1,106 @@
 {
-  "news-this-week-oct-26-30-hung-verdict-in-israel-cyclone-arna": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "crash|crash|cyclone|dead|dead|devastat|israel|verdict",
-    "norm": 94.9
+  "supreme-court-seeks-report-from-eci-on-form-7-misuse-allegat": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "congress|election|election|election commission|fraud|mp|poll|supreme court",
+    "norm": 75.3
   },
-  "-helicopter-crashed-within-66-minutes-uttarakhand-s-badrinat": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "anger|crash|crash|khan|weather",
-    "norm": 83.8
+  "pci-shocked-at-inclusion-of-senior-journalist-in-search-warr": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "mp|protest|protest|shock|shock|war",
+    "norm": 74.1
   },
-  "uttarakhand-chopper-crash-all-six-on-board-killed-says-chamo": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "crash|crash|khan|killed|killed",
-    "norm": 77.5
+  "orders-issued-on-vigilance-probe-into-kiifb-financed-land-ac": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "acquisition|cabinet|crore|mp",
+    "norm": 61.8
   },
-  "3-persons-die-in-landslide-as-flood-situation-remains-grim-i": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "dead|dead|flood|flood|landslide",
-    "norm": 72.5
+  "tasmac-revises-liquor-prices-from-november-1-links-refund-to": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "fund|mp|price|prices",
+    "norm": 59.7
   },
-  "chief-minister-ministers-to-skip-sir-protest-in-delhi-on-nov": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "chief minister|minister|protest|protest",
-    "norm": 66.9
+  "bis-organises-msme-conclave-in-ranipet": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "mp|war",
+    "norm": 55.4
   },
-  "nedumbassery-luxury-car-crash-first-and-third-accused-seek-b": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "crash|crash|high court",
-    "norm": 65.6
-  },
-  "keralam-approves-1-000-crore-housing-scheme-for-sc-st-famili": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "crore|lakh|minister",
-    "norm": 59.3
-  },
-  "students-can-play-a-key-role-in-curbing-corruption-bpcl-offi": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "mp|rbi",
-    "norm": 55
-  },
-  "aimim-intensifies-campaign-for-ap-local-body-polls-urges-vot": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "alliance|bjp|mp|poll|vote",
-    "norm": 54.4
-  },
-  "-see-you-there-after-cjp-aisa-s-neha-bora-extends-support-to": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
+  "villagers-protest-against-unregulated-silt-extraction-from-i": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
     "signature": "protest|protest",
-    "norm": 54.2
+    "norm": 52.4
   },
-  "eight-year-old-girl-s-dance-to-mark-rajyotsava-in-hubballi-t": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "row",
+  "amit-shah-s-special-offer-to-india-bloc-before-gyanesh-kumar": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "amit shah|mp",
+    "norm": 48.7
+  },
+  "crime-branch-nabs-psc-additional-secretary-r-hari-in-examina": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "exam",
     "norm": 48.2
   },
-  "tamil-nadu-raises-upper-age-limit-for-direct-recruitment-int": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "recruitment",
-    "norm": 48.2
-  },
-  "telangana-deputy-cm-urges-real-estate-sector-to-partner-in-s": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "row",
-    "norm": 48.2
-  },
-  "jains-urge-state-govt-to-consider-demands-immediately-expres": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "film|khan",
-    "norm": 48.2
-  },
-  "bihar-cm-samrat-choudhary-calls-for-adequate-ganga-water-sha": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "row",
-    "norm": 48.2
-  },
-  "us-tells-european-countries-to-not-poke-russia-as-putin-says": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "physical-intimacy-can-t-be-branded-as-rape-if-consensual-rel": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "supreme court",
+  "vis-under-15-football-tournament-s-grand-finale-on-october-3": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "lakh",
     "norm": 45.9
   },
-  "d-b-pampa-college-sribs-sign-mou-for-academic-collaboration": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
+  "hc-seeks-status-report-on-reuniting-deported-pak-born-teen-w": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "amit-shah-must-apologise-to-telangana-people-before-hyderaba": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "amit shah",
+  "seven-packaged-drinking-water-units-closed-for-violations-in": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "meet-sophia-parekh-12-who-has-given-away-over-8-000-books-in": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "star",
-    "norm": 42.4
+  "nvs-03-launched-successfully-satellite-placed-in-intended-or": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "rbi",
+    "norm": 44
   },
-  "telangana-worker-stranded-in-dubai-returns-home-with-cm-praj": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
+  "isro-successfully-launches-nvs-03-satellite-to-strengthen-in": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "isro-s-nvs-03-launch-successful-navigation-satellite-placed-": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "rbi",
+    "norm": 44
+  },
+  "kate-winslet-reads-room-on-the-broom-for-storyline-online-li": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "mids-professor-kalaiyarasan-s-colleagues-condemn-police-hara": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
     "signature": "",
     "norm": 36
   },
-  "religious-minority-leaders-urge-karnataka-government-to-repe": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
+  "two-friends-same-police-batch-karnataka-loses-second-officer": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
     "signature": "",
     "norm": 36
   },
-  "isro-set-to-launch-gslv-f18-carrying-navigation-satellite-nv": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
+  "leased-forest-land-at-athirappilly-in-keralam-to-be-surveyed": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
     "signature": "",
     "norm": 36
   },
-  "keralam-s-70th-anniversary-marks-beginning-of-dream-journey-": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "",
-    "norm": 36
-  },
-  "krishi-thotagarike-mela-focuses-on-drought-management": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "",
-    "norm": 36
-  },
-  "cubbon-walks-in-kannada-on-rajyotsava-day": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-keep-it-short-nia-patel-recalls-being-silenced-at-grandmoth": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
-    "signature": "",
-    "norm": 36
-  },
-  "railway-staff-retirees-other-pass-holders-eligible-for-class": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
+  "108-students-found-consuming-liquor-at-chevella-farmhouse-fo": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
     "signature": "",
     "norm": 33.9
   },
-  "air-marshal-inderpal-singh-walia-appointed-iaf-vice-chief": {
-    "firstSeen": "2026-10-30T14:02:52.993Z",
+  "man-held-for-possession-of-22-country-made-explosives-in-ran": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "isro-s-navigation-satellite-nvs-03-lifts-off-from-andhra-pra": {
+    "firstSeen": "2026-10-30T19:17:40.756Z",
     "signature": "",
     "norm": 33.9
   }
