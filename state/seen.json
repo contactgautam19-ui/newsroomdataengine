@@ -1,36 +1,151 @@
 {
-  "-an-obstructive-side-stalling-development-pm-modi-slams-oppo": {
-    "firstSeen": "2026-11-01T01:01:38.386Z",
-    "signature": "modi|modi|opposition|slam|slams",
-    "norm": 75
+  "-india-not-a-banana-republic-bjp-attacks-rahul-gandhi-ahead-": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "attack|attack|bjp|congress|economy|minister|mp|opposition|rahul gandhi|rally|rally",
+    "norm": 88
   },
-  "california-real-estate-ceo-sentenced-to-18-months-over-2-2m-": {
-    "firstSeen": "2026-11-01T01:01:38.386Z",
-    "signature": "investor|mp|ruling",
+  "telangana-woman-2-lovers-kill-husband-throw-body-into-lake-t": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "crash|crash|exam|record|row",
+    "norm": 82.5
+  },
+  "andhra-civic-polls-tdp-ysrcp-workers-clash-in-pulivendula-22": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "clash|clash|fire|fire|poll",
+    "norm": 75.5
+  },
+  "op-sindoor-drew-non-negotiable-red-line-on-terrorism-rajnath": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "army|border|mp|terror|terror",
+    "norm": 73.6
+  },
+  "anantapur-chainsaw-attack-a-p-minister-nara-lokesh-says-clas": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "attack|attack|hospital|minister",
+    "norm": 72.6
+  },
+  "uttarakhand-chopper-crash-mortal-remains-of-all-six-victims-": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "crash|crash|khan|mp",
+    "norm": 72.3
+  },
+  "india-bloc-begins-delhi-rally-bjp-calls-it-foolish-orchestra": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "bjp|opposition|protest|protest|rally|rally",
+    "norm": 70
+  },
+  "honey-singh-s-nephew-among-2-killed-as-car-rams-into-tractor": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "accident|actor|killed|killed",
+    "norm": 69.7
+  },
+  "-unavailable-in-india-why-are-social-media-posts-being-block": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "dead|dead|protest|protest",
+    "norm": 68.4
+  },
+  "vaibhav-sooryavanshi-on-the-bench-again-shreyas-iyer-makes-t": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "injured|match|sooryavanshi",
+    "norm": 66.3
+  },
+  "maharashtra-earmarks-5-of-district-planning-funds-to-tackle-": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "fund|maharashtra|war",
+    "norm": 66
+  },
+  "karnataka-milk-curd-price-hike-nandini-increases-rates-ahead": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "congress|minister|price|rupee",
+    "norm": 63.5
+  },
+  "tilak-varma-likely-to-play-third-india-a-match-jasprit-bumra": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "bumrah|match|mp",
+    "norm": 62.5
+  },
+  "how-infant-deaths-in-keralam-s-attappady-expose-a-deep-roote": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "death|died|fan|row",
+    "norm": 62
+  },
+  "-chalo-delhi-posters-dominate-as-india-bloc-prepares-for-meg": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "mp|rally|rally|vote",
+    "norm": 58.6
+  },
+  "stalking-rejected-proposal-behind-andhra-school-chainsaw-att": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "attack|attack",
     "norm": 57.6
   },
-  "days-after-arnab-andhra-pradesh-braces-for-another-cyclone": {
-    "firstSeen": "2026-11-01T01:01:38.386Z",
-    "signature": "cyclone",
+  "pm-modi-greets-people-of-six-states-on-foundation-day": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "seafarers-security-grain-exports-jaishankar-reveals-india-s-": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "jaishankar|war",
+    "norm": 55.4
+  },
+  "bsf-deployed-at-delhi-gurugram-border-as-security-tightened-": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "border|rally|rally",
+    "norm": 54.7
+  },
+  "four-workers-die-after-inhaling-toxic-gas-in-ujjain-hotel-wa": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "rescue|rescue",
+    "norm": 52.4
+  },
+  "on-cctv-mba-student-steals-thar-tyres-in-hyderabad-took-tool": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "cctv|row",
+    "norm": 52.4
+  },
+  "two-newly-elected-bihar-independent-mlcs-now-support-bjp": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "alliance|bjp|ruling",
+    "norm": 50.9
+  },
+  "-security-environment-remains-demanding-new-iaf-chief-lists-": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "air force|drone",
+    "norm": 50.2
+  },
+  "depression-intensifies-into-deep-depression-over-bay-of-beng": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "storm",
     "norm": 46.3
   },
-  "-politicisation-of-energy-flows-harmful-eam-calls-for-divers": {
-    "firstSeen": "2026-11-01T01:01:38.386Z",
-    "signature": "g20",
+  "manipur-security-forces-recover-bodies-of-two-abducted-kuki-": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "mp",
     "norm": 44
   },
-  "kannada-rajyotsava-2026-wishes-images-messages-and-greetings": {
-    "firstSeen": "2026-11-01T01:01:38.386Z",
+  "nvidia-ceo-jensen-huang-backs-lawful-immigration-says-us-nee": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "economy",
+    "norm": 44
+  },
+  "watch-nasa-s-pencil-thin-x-59-supersonic-jet-spotted-flying-": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
+    "signature": "watch",
+    "norm": 40.7
+  },
+  "how-were-the-states-formed-and-how-has-the-indian-map-change": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
     "signature": "",
     "norm": 36
   },
-  "nepal-pm-balendra-shah-likely-to-visit-india-in-late-novembe": {
-    "firstSeen": "2026-11-01T01:01:38.386Z",
+  "tamil-nadu-to-set-up-26-pocso-act-courts-and-four-ndps-court": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
     "signature": "",
     "norm": 36
   },
-  "given-5-chance-of-walking-again-irish-man-takes-on-3-000-mil": {
-    "firstSeen": "2026-11-01T01:01:38.386Z",
+  "lca-mk-1a-stealth-fighter-is-highest-priority-says-new-iaf-c": {
+    "firstSeen": "2026-11-01T07:27:30.101Z",
     "signature": "",
     "norm": 33.9
   }
