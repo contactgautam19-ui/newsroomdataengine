@@ -1,32 +1,37 @@
 {
-  "opposition-into-politics-of-obstruction-must-see-anti-india-": {
-    "firstSeen": "2026-10-31T21:26:40.694Z",
-    "signature": "modi|modi|opposition",
-    "norm": 59.7
+  "-an-obstructive-side-stalling-development-pm-modi-slams-oppo": {
+    "firstSeen": "2026-11-01T01:01:38.386Z",
+    "signature": "modi|modi|opposition|slam|slams",
+    "norm": 75
   },
-  "madras-high-court-advocates-association-challenges-1965-unio": {
-    "firstSeen": "2026-10-31T21:26:40.694Z",
-    "signature": "cabinet|high court|supreme court",
-    "norm": 52.7
+  "california-real-estate-ceo-sentenced-to-18-months-over-2-2m-": {
+    "firstSeen": "2026-11-01T01:01:38.386Z",
+    "signature": "investor|mp|ruling",
+    "norm": 57.6
   },
-  "akhilesh-pitches-gorakhpur-vs-kashi-narrative-eyes-inroads-a": {
-    "firstSeen": "2026-10-31T21:26:40.694Z",
-    "signature": "chief minister|minister|mp",
-    "norm": 50.9
+  "days-after-arnab-andhra-pradesh-braces-for-another-cyclone": {
+    "firstSeen": "2026-11-01T01:01:38.386Z",
+    "signature": "cyclone",
+    "norm": 46.3
   },
-  "in-his-first-visit-bjp-s-bihar-in-charge-harish-dwivedi-stre": {
-    "firstSeen": "2026-10-31T21:26:40.694Z",
-    "signature": "bjp|mp",
-    "norm": 50.5
-  },
-  "from-mallikarjun-kharge-s-lawn-250-opposition-mps-impeach-ce": {
-    "firstSeen": "2026-10-31T21:26:40.694Z",
-    "signature": "mp|opposition",
-    "norm": 48.7
-  },
-  "anonymous-donor-pledges-225m-to-us-college-amid-450m-funding": {
-    "firstSeen": "2026-10-31T21:26:40.694Z",
-    "signature": "fund",
+  "-politicisation-of-energy-flows-harmful-eam-calls-for-divers": {
+    "firstSeen": "2026-11-01T01:01:38.386Z",
+    "signature": "g20",
     "norm": 44
+  },
+  "kannada-rajyotsava-2026-wishes-images-messages-and-greetings": {
+    "firstSeen": "2026-11-01T01:01:38.386Z",
+    "signature": "",
+    "norm": 36
+  },
+  "nepal-pm-balendra-shah-likely-to-visit-india-in-late-novembe": {
+    "firstSeen": "2026-11-01T01:01:38.386Z",
+    "signature": "",
+    "norm": 36
+  },
+  "given-5-chance-of-walking-again-irish-man-takes-on-3-000-mil": {
+    "firstSeen": "2026-11-01T01:01:38.386Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
