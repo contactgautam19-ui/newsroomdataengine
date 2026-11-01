@@ -1,102 +1,302 @@
 {
+  "-be-quiet-or-i-give-an-hour-long-speech-m-kharge-s-warning-a": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "congress|mp|president|rally|rally|threat|war|warning",
+    "norm": 71
+  },
+  "opposition-and-bjp-clash-over-november-1-india-bloc-rally-an": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "bjp|clash|clash|congress|election|election|election commission|opposition|rahul gandhi|rally|rally|vote",
+    "norm": 69.6
+  },
+  "9-dead-as-florida-jet-crashes-near-busy-roadway": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "crash|crash|dead|dead",
+    "norm": 68.6
+  },
+  "accused-injured-in-police-shooting-during-scene-reconstructi": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "attack|attack|fire|fire|injured|mp|shooting",
+    "norm": 67.7
+  },
+  "5-killed-in-manipur-protests-in-kangpokpi-as-2-bodies-found-": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "killed|killed|mp|protest|protest",
+    "norm": 67.5
+  },
+  "boy-5-killed-after-bullet-hits-him-during-celebratory-firing": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "fire|fire|killed|killed|wedding",
+    "norm": 66.2
+  },
+  "char-dham-helicopter-operators-threaten-to-halt-services-ove": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "crash|crash|drone|threat",
+    "norm": 62.4
+  },
+  "omar-abdullah-under-pressure-25-nc-mlas-threaten-to-topple-j": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "dead|dead|mla|threat|war",
+    "norm": 60.9
+  },
+  "election-commission-writes-to-up-ceo-orders-suspension-of-tw": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "election|election|election commission|poll|row|vote",
+    "norm": 60.4
+  },
   "bjp-alleges-rift-between-rahul-priyanka-accuses-lop-of-sidel": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "bjp|congress|parliament|protest|protest|rahul gandhi",
-    "norm": 68.4
+    "norm": 59.2
+  },
+  "char-dham-helicopter-services-may-halt-from-november-2-as-op": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "crash|crash|killed|killed",
+    "norm": 58.2
   },
   "even-as-unemployment-falls-lack-of-decent-work-in-india": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "mp|row|shock|shock",
-    "norm": 66.3
+    "norm": 57.1
   },
-  "litigants-will-not-be-entitled-to-refund-of-court-fees-if-di": {
-    "firstSeen": "2026-11-01T19:34:22.500Z",
-    "signature": "fund|high court|supreme court|verdict",
-    "norm": 59.7
-  },
-  "gst-mop-up-rises-record-23-in-octoer-hits-rs-2-3-lakh-crore": {
-    "firstSeen": "2026-11-01T19:34:22.500Z",
-    "signature": "crore|gst|lakh|record",
-    "norm": 58.6
+  "man-argues-with-wife-family-interferes-he-kills-daughter-and": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "attack|attack|mp",
+    "norm": 56.7
   },
   "cyclone-murasu-live-update-orange-alert-in-six-telangana-dis": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "alert|cyclone|storm",
     "norm": 56.6
   },
+  "russia-arrests-minor-after-us-warns-of-planned-attack-on-mos": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "attack|attack|threat|war",
+    "norm": 56.2
+  },
+  "12th-century-nepal-statue-sells-for-rs-166-crore-sets-himala": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "crore|record|war",
+    "norm": 55.5
+  },
+  "andhra-chainsaw-attacker-shot-at-cops-say-tried-to-escape-ca": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "attack|attack|fire|fire",
+    "norm": 55.3
+  },
+  "andhra-school-chainsaw-attack-accused-hemanth-shot-in-police": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "attack|attack|injured",
+    "norm": 53.4
+  },
+  "-punjab-betrayed-aap-mlas-explain-resignation-point-fingers-": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "aap|betray|kejriwal|mla",
+    "norm": 52.3
+  },
+  "gyanesh-has-to-go-pm-amp-shah-next-says-rahul-gandhi-at-anti": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "mp|rahul gandhi|rally|rally",
+    "norm": 51.1
+  },
+  "litigants-will-not-be-entitled-to-refund-of-court-fees-if-di": {
+    "firstSeen": "2026-11-01T19:34:22.500Z",
+    "signature": "fund|high court|supreme court|verdict",
+    "norm": 50
+  },
+  "bhutan-consecrates-108-stupas-in-gelephu-dedicates-one-to-pm": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "minister|modi|modi",
+    "norm": 50
+  },
+  "poverty-removal-not-just-slogan-pm-modi-on-world-bank-data": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "modi|modi",
+    "norm": 49.6
+  },
+  "-she-is-upstairs-panchkula-school-boy-who-attacked-6-year-ol": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "attack|attack|died",
+    "norm": 49.4
+  },
+  "two-dead-in-gokarna-beach-one-goes-missing": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "dead|dead",
+    "norm": 47.7
+  },
+  "up-priest-jailed-for-luring-girls-inside-temple-selling-thei": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "mp|record|video",
+    "norm": 46.2
+  },
   "ntk-cadre-want-seeman-to-seek-aiadmk-dmk-support-for-ambasam": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "election|election",
-    "norm": 55.4
+    "norm": 45.4
+  },
+  "state-flag-mandatory-tamil-vijay-s-minister-sparks-controver": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "controversy|minister",
+    "norm": 45.4
+  },
+  "1984-survivors-sikh-groups-question-timing-of-india-bloc-ral": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "rally|rally",
+    "norm": 44.1
+  },
+  "-gyanesh-kumar-will-go-to-jail-rahul-gandhi-calls-2024-polls": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "poll|rahul gandhi|rally|rally|vote",
+    "norm": 43.9
+  },
+  "could-einstein-s-equations-explain-cosmic-expansion-without-": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "exam",
+    "norm": 43.5
   },
   "epfo-pumps-17-000-crore-into-equities-in-q1-exposure-at-11-2": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "crore|mp",
-    "norm": 55
+    "norm": 43
   },
-  "festive-tailwinds-drive-car-sales-to-record-highs-in-october": {
-    "firstSeen": "2026-11-01T19:34:22.500Z",
-    "signature": "record|record high",
-    "norm": 50.2
+  "introspect-on-need-to-improve-judiciary-responsiveness-cji-s": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "cji|mp",
+    "norm": 42.5
   },
   "bengaluru-mumbai-vande-bharat-sleeper-express-flagged-off-by": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "minister|mp",
-    "norm": 48.7
+    "norm": 38
+  },
+  "voters-prioritise-candidates-over-development-in-local-polls": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "poll|vote",
+    "norm": 38
+  },
+  "priti-adani-jeffrey-sachs-to-address-aristotle-confucius-sym": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "adani|mp",
+    "norm": 36.9
+  },
+  "golden-triangle-s-north-east-drug-trade-thrives-on-barter": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "gold",
+    "norm": 35.5
   },
   "avarekai-cultivation-in-kolar-district-drops-by-70-amid-rain": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "weather",
-    "norm": 46.3
+    "norm": 35.5
   },
   "-cyclone-murasu-palnadu-district-collector-declares-november": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "cyclone",
-    "norm": 46.3
+    "norm": 35.5
   },
-  "manufacturing-divide-10-factories-account-for-72-output": {
-    "firstSeen": "2026-11-01T19:34:22.500Z",
-    "signature": "actor",
-    "norm": 44.3
+  "five-bengaluru-city-corporations-launch-one-ward-initiative-": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "war",
+    "norm": 35.5
+  },
+  "a-p-seeks-assistance-from-tamil-nadu-karnataka-for-cyclone-p": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "cyclone",
+    "norm": 35.5
+  },
+  "fake-claims-evasion-of-rs-5-3-crore-land-techie-couple-in-i-": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "crore",
+    "norm": 32.8
   },
   "rebel-leaders-of-aiadmk-do-not-take-part-in-district-secreta": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "poll",
-    "norm": 44
+    "norm": 32.8
   },
   "tumakuru-police-arrest-madhya-pradesh-based-dhar-gang-member": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "lakh",
-    "norm": 44
+    "norm": 32.8
+  },
+  "analysis-rural-punjab-s-shifting-mood-is-redrawing-electoral": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "aap",
+    "norm": 32.8
+  },
+  "280-kmph-8-coaches-557-passengers-what-will-india-s-1st-bull": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "woman-s-decomposed-body-found-inside-locked-apartment-in-sou": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "-king-first-song-out-shah-rukh-khan-deepika-padukone-s-chemi": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "khan",
+    "norm": 31
   },
   "new-hmt-watches-celebrate-kannada-identity-with-regional-des": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "watch",
-    "norm": 40.7
+    "norm": 29.2
+  },
+  "over-22-000-litres-of-adulterated-expired-ghee-worth-1-6-cro": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "crore",
+    "norm": 27.8
+  },
+  "3-cops-arrested-after-woman-raped-inside-jharkhand-police-st": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "khan",
+    "norm": 25.9
   },
   "slow-recovery-on-the-isro-s-gslv-f18-mission": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
   "dwindling-support-on-the-u-s-and-the-cuban-embargo": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "",
-    "norm": 36
+    "norm": 21.2
   },
   "karnataka-turns-to-u-k-roadshows-to-revive-declining-nri-tou": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "",
-    "norm": 33.9
-  },
-  "apple-missed-a-chance-to-be-revolutionary-with-touch-screen-": {
-    "firstSeen": "2026-11-01T19:34:22.500Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 21.2
   },
   "skydeck-project-gathers-pace-as-bda-begins-preparatory-works": {
     "firstSeen": "2026-11-01T19:34:22.500Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 21.2
+  },
+  "barren-land-to-saffron-field-in-30-days-ladakh-s-farming-exp": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "apple-s-next-generation-touchscreen-macbook-pros-with-m7-pro": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "mahadev-app-promoter-saurabh-chandrakar-arrested-by-the-cbi-": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "",
+    "norm": 15.1
+  },
+  "gautam-buddha-relics-displayed-in-arunachal-for-first-time-i": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "",
+    "norm": 15.1
+  },
+  "750-families-removed-mosques-demolished-in-assam-eviction-dr": {
+    "firstSeen": "2026-11-01T23:30:58.968Z",
+    "signature": "",
+    "norm": 15.1
   }
 }
