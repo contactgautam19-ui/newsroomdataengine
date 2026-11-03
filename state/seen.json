@@ -1,212 +1,87 @@
 {
-  "bombay-hc-rebukes-bmc-for-politicizing-pollution-awareness-v": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "actor|bomb|controversy|high court|poll|video|war",
-    "norm": 87.8
+  "kochi-corporation-council-passes-sir-resolution-amid-protest": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "bjp|crore|election|election|election commission|parliament|protest|protest|vote",
+    "norm": 86.2
   },
-  "-hit-their-anti-aircraft-facility-nicely-trump-confirms-us-s": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "attack|attack|iran|mp|trump|trump",
-    "norm": 86
+  "u-s-midterm-elections-2026-live-trump-says-midterm-results-w": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "election|election|mp|result|results|results|trump|trump",
+    "norm": 73
   },
-  "footballer-s-death-what-next-for-goalie-sanctions-possible-c": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "accident|death|devastat|died|match|sanction|tragic",
-    "norm": 84.3
+  "sit-report-says-charges-against-ksu-activists-in-veena-georg": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "minister|protest|protest|riot",
+    "norm": 67.9
   },
-  "-we-will-kill-trump-us-president-behind-bars-in-massive-new-": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "bill|died|iran|israel|minister|mp|president|prime minister|trump|trump",
-    "norm": 82.5
+  "us-midterm-elections-2026-some-voters-disrupted-by-weather-m": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "election|election|president|vote|weather",
+    "norm": 67
   },
-  "indian-sailor-killed-in-drone-attack-off-coast-of-oman-13-re": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "attack|attack|drone|killed|killed|rescue|rescue",
-    "norm": 78.3
-  },
-  "punjabi-singer-turns-family-farm-s-saag-into-rs-6-000-daily-": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "modi|modi|row|singer|star",
-    "norm": 75.9
-  },
-  "suci-c-protests-milk-curd-price-hike-opposes-bus-fare-revisi": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "mp|price|prices|protest|protest",
-    "norm": 74.9
-  },
-  "karnataka-it-jobs-row-kannadigas-vs-outsiders-krv-s-campaign": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "jobs|mp|recruitment|row",
-    "norm": 74
-  },
-  "2013-goa-rape-case-supreme-court-defers-tarun-tejpal-s-bail-": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "bomb|high court|supreme court|war",
-    "norm": 71.6
-  },
-  "chennai-man-killed-in-chopper-crash-was-based-in-canada-had-": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "crash|crash|killed|killed",
-    "norm": 71
-  },
-  "advocates-boycott-court-proceedings-in-yadgir-district": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "attack|attack|protest|protest",
-    "norm": 70
-  },
-  "tamil-nadu-s-gst-growth-stalls-political-fallout-and-economi": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "gst|opposition|record|row",
-    "norm": 69.4
-  },
-  "u-s-midterms-showdown-battle-for-congress-could-reshape-trum": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "congress|election|election|mp|trump|trump",
-    "norm": 68
-  },
-  "cyclone-murasu-leaves-trail-of-destruction-in-prakasam-distr": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "cyclone|dead|dead|heavy rain",
-    "norm": 67.1
-  },
-  "quincy-jones-tops-2026-highest-paid-dead-celebrities-list-wi": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "dead|dead|deal",
-    "norm": 66
-  },
-  "let-leadership-shake-up-raises-fresh-questions-over-pakistan": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 66
-  },
-  "ap-municipal-election-results-live-jagan-criticises-chandrab": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "election|election|result|results|results",
-    "norm": 64.7
-  },
-  "-2-planes-6-plots-probe-agency-s-rs-510-crore-action-on-anil": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "ambani|crore|maharashtra",
-    "norm": 64.2
-  },
-  "the-texas-test-latino-voters-could-make-or-break-trump-s-mid": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "mp|trump|trump|vote",
-    "norm": 63.5
-  },
-  "election-commission-clarifies-form-6-use-for-existing-voters": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "election|election|election commission|vote",
-    "norm": 63.5
-  },
-  "russian-strikes-rain-down-on-ukraine-school-reduced-to-rubbl": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "killed|killed|war",
-    "norm": 62.9
-  },
-  "how-will-trump-s-power-change-if-midterms-go-against-him-not": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "congress|mp|policy|trump|trump",
-    "norm": 62.9
-  },
-  "vijay-launches-1-110-crore-bank-credit-linkages-for-9-000-sh": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "chief minister|crore|minister|sanction",
+  "iranian-woman-moves-madras-high-court-wanting-to-know-proced": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "high court|iran|mp",
     "norm": 61.4
   },
-  "mysuru-pu-student-killed-in-road-mishap": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "killed|killed",
-    "norm": 59.3
+  "midterms-may-bring-in-wave-of-historic-firsts-for-some-state": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "election|election|vote",
+    "norm": 59.7
   },
-  "as-investors-worry-about-us-midterm-impact-on-markets-a-look": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "investor|mp|poll",
-    "norm": 57.6
-  },
-  "no-action-against-voters-seeking-re-enrolment-through-form-6": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "vote|war",
-    "norm": 57.1
-  },
-  "issf-world-c-ships-india-s-men-win-pistol-team-gold-women-s-": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "gold|mp",
-    "norm": 57.1
-  },
-  "five-fishermen-rescued-near-krishnapatnam-port-after-boat-ca": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "rescue|rescue",
+  "right-to-protest-can-t-justify-endless-occupation-of-a-site-": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "protest|protest",
     "norm": 54.2
   },
-  "thunivu-movie-release-19-year-old-fan-of-actor-ajith-dances-": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "actor|fan|film|movie",
-    "norm": 51.1
+  "bjp-leaders-criticise-mamata-congress-bonhomie": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "bjp|chief minister|congress|mamata|minister",
+    "norm": 52.6
   },
-  "auto-driver-arrested-for-robbing-woman-of-gold-bangle-at-kni": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "gold",
-    "norm": 48.2
+  "arkansas-woman-wins-183-000-business-share-after-four-divorc": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "tax",
+    "norm": 44
   },
-  "houston-s-132-year-old-kirby-mansion-demolished-may-become-g": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "cry",
-    "norm": 46.3
+  "ladakh-administration-halts-sonam-wangchuk-gitanjali-angmo-s": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "verdict",
+    "norm": 44
   },
-  "cancer-registry-in-telangana-has-logged-35-000-cases-governm": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "delhi-sir-aadhaar-alone-not-enough-blos-asked-to-seek-citize": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "vote",
-    "norm": 45.9
-  },
-  "opposition-creating-anarchy-to-come-to-power-karandlaje": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "opposition",
-    "norm": 45.9
-  },
-  "government-revises-sanction-for-maintenance-of-streetlights": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "sanction",
-    "norm": 45.9
-  },
-  "lok-sabha-speaker-om-birla-calls-for-use-of-technology-in-au": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "lok sabha",
-    "norm": 45.9
-  },
-  "bjp-leaders-daydreaming-of-coming-to-power-in-telangana-pong": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "schools-told-to-update-attendance-records-on-isms-portal": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
-    "signature": "record",
-    "norm": 42.7
-  },
-  "differences-among-factions-lead-to-delay-in-sugarcane-farmer": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
+  "ladakh-administration-asks-activist-sonam-wangchuk-s-wife-to": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
     "signature": "",
     "norm": 36
   },
-  "sweeping-victory-for-jana-sena-tdp-in-godavari-districts": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
+  "vigilance-wing-pulls-up-kochi-metro-rail-limited-over-lapses": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
     "signature": "",
     "norm": 36
   },
-  "shivamogga-sp-appeals-to-students-to-use-social-media-ai-too": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
+  "mobile-phone-power-banks-seized-from-kannur-central-jail": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "divorce-granted-by-foreign-court-on-ground-of-irretrievable-": {
-    "firstSeen": "2026-11-03T15:00:44.840Z",
+  "kerala-sasthra-sahithya-parishad-seeks-reconstitution-of-gov": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
+  },
+  "a-song-or-two-for-the-reconstruction-of-tagore-centenary-hal": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "deleted-from-sir-draft-rolls-ec-says-can-use-form-6-for-re-i": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "ramalinga-reddy-flags-substandard-civic-works-in-hsr-layout-": {
+    "firstSeen": "2026-11-03T20:56:18.985Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
