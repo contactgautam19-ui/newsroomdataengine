@@ -1,57 +1,172 @@
 {
-  "class-12-student-starts-women-only-running-club-raises-rs-8l": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
-    "signature": "fund|mp|star|vote|war",
-    "norm": 74.6
+  "police-detain-rail-roko-protesters-demanding-cec-gyanesh-kum": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "crore|minister|modi|modi|prime minister|protest|protest|vote",
+    "norm": 85.7
   },
-  "us-midterms-2026-live-updates-polls-close-in-key-states-as-a": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
-    "signature": "election|election|mp|poll|trump|trump|vote",
-    "norm": 70.1
+  "second-indian-national-injured-in-oct-10-riyadh-airport-atta": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "attack|attack|death|injured|toll",
+    "norm": 70.5
   },
-  "india-reiterates-dialogue-to-halt-hostilities-in-west-asia": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
-    "signature": "fuel|iran|israel|star",
-    "norm": 67.7
+  "the-row-over-suspension-of-16-sfi-activists-at-sree-sankarac": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "exam|protest|protest|row",
+    "norm": 70
   },
-  "days-after-transfer-as-sagar-sp-ips-officer-anurag-sujania-r": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
-    "signature": "killed|killed|row|tragedy",
-    "norm": 65.5
+  "pm-modi-calls-sharad-pawar-advises-complete-rest": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "modi|modi|mp|war",
+    "norm": 70
   },
-  "trump-says-us-has-no-immediate-plan-to-strike-iran": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
-    "signature": "iran|mp|trump|trump",
-    "norm": 65
+  "congress-says-us-midterm-results-enforce-accountability-clai": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "congress|election|election|result|results|results",
+    "norm": 68.8
   },
-  "-i-ll-be-the-fielding-coach-ex-cricketer-mocks-india-as-bcci": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
-    "signature": "cricket|cricketer|match|world cup",
-    "norm": 63.7
+  "pramila-jayapal-to-ro-khanna-how-indian-origin-faces-perform": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "election|election|governor|khan",
+    "norm": 68.3
   },
-  "there-may-be-crime-in-bihar-but-no-apraadh-chief-minister-sa": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
-    "signature": "chief minister|minister",
+  "midterm-results-americans-get-tired-of-president-vote-out-re": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "president|result|results|results|vote",
+    "norm": 67.5
+  },
+  "60-day-prohibitive-orders-passed-ex-parte-to-prevent-unrest-": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "mp|protest|protest|supreme court",
+    "norm": 66.9
+  },
+  "sc-seeks-centre-ec-response-on-law-giving-blanket-lifelong-i": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "election|election|election commission|mp|supreme court",
+    "norm": 62.9
+  },
+  "delhi-court-orders-tihar-jail-to-ensure-aftab-poonawala-s-sa": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "death|mp|threat",
+    "norm": 62.5
+  },
+  "telangana-bus-conductor-pravalika-who-was-pushed-off-moving-": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "death|outrage|protest|protest",
+    "norm": 62.3
+  },
+  "vijayawada-civic-poll-result-jana-sena-s-vangaveeti-radhakri": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "poll|result|vote",
+    "norm": 61.4
+  },
+  "iran-allows-india-china-others-through-hormuz-what-it-means-": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "china|iran|mp",
+    "norm": 61.4
+  },
+  "-trump-hasn-t-done-anything-to-help-republicans-blame-maga-c": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
+  },
+  "-can-t-see-the-ball-kohli-gill-angry-as-play-continues-in-ra": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "kohli|match",
+    "norm": 55.7
+  },
+  "cyclone-murasu-all-70-gates-of-prakasam-barrage-opened-71-00": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "cyclone|heavy rain",
+    "norm": 53.9
+  },
+  "cyclone-murasu-ramanaidu-puts-irrigation-officials-on-high-a": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "alert|cyclone",
+    "norm": 53.9
+  },
+  "virat-kohli-scripts-history-in-auckland-becomes-first-batter": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "kohli|match",
+    "norm": 53.9
+  },
+  "after-tusshar-kapoor-ayushmann-khurrana-gets-extortion-call-": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "actor|threat",
+    "norm": 53.9
+  },
+  "wisconsin-man-turns-scrap-wood-into-all-32-nfl-team-logos-af": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "mp|star",
+    "norm": 53.5
+  },
+  "supreme-court-questions-2-child-poll-norm-as-fertility-rate-": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "mp|poll|supreme court",
+    "norm": 50.9
+  },
+  "us-gets-1st-muslim-senator-as-abdul-el-sayed-wins-michigan-s": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "congress|mp",
     "norm": 50.5
   },
-  "madhya-pradesh-cop-hit-and-run-case-both-accused-injured-in-": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
-    "signature": "injured",
+  "luxury-watches-other-evidence-linked-to-124-cases-missing-fr": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "mp|watch",
+    "norm": 50.2
+  },
+  "student-barred-from-semester-exams-at-bengaluru-institute-fo": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "exam",
     "norm": 48.2
   },
-  "after-curbs-on-sugarcane-government-restricts-use-of-rice-fo": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
-    "signature": "",
-    "norm": 33.9
+  "naidu-writes-to-piyush-goyal-on-150-chilli-containers-held-a": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "cyclone",
+    "norm": 46.3
   },
-  "judge-facing-rape-charge-presides-over-pocso-court": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
-    "signature": "",
-    "norm": 33.9
+  "railway-passengers-alert-18-trains-lose-superfast-status-fro": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "alert",
+    "norm": 46.3
   },
-  "driver-who-ran-over-m-p-police-officer-arrested": {
-    "firstSeen": "2026-11-04T01:16:03.233Z",
+  "centre-seeks-removal-of-delhi-s-qadeemi-mosque-for-central-v": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "indonesia-detains-3-police-generals-suspected-of-wiretapping": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "president",
+    "norm": 45.9
+  },
+  "two-centenaries-in-mylapore-santhome": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "sc-directs-centre-to-constitute-special-cell-for-implementat": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "cds-to-announce-2-year-service-extension-for-agniveer-posts": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "why-an-anthropic-employee-quit-after-just-eight-months": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "suriya-s-scene-what-s-the-hype-surrounding-this-tamil-deepav": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
+  },
+  "psychology-says-preschoolers-who-blink-more-may-switch-menta": {
+    "firstSeen": "2026-11-04T09:01:30.666Z",
+    "signature": "",
+    "norm": 36
   }
 }
