@@ -1,81 +1,166 @@
 {
-  "wall-street-bloodbath-2-5-trillion-wiped-out-as-nasdaq-suffe": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "crash|crash|election|election|investor|result|results|results|row|stocks|trillion",
-    "norm": 97.8
+  "congress-says-people-must-express-outrage-over-inflation-by-": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "bjp|congress|inflation|modi|modi|outrage|poll",
+    "norm": 82.2
   },
-  "more-checks-added-on-ec-staff-in-eye-of-storm-amid-row-over-": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "election|election|khan|rohit|row|sharma|storm",
-    "norm": 86.9
+  "2026-set-to-be-second-hottest-year-ever-recorded-el-nino-yet": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "mp|record|war|weather",
+    "norm": 72.9
   },
-  "-you-ll-know-soon-enough-trump-s-warning-on-destroying-rest-": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "iran|mp|trump|trump|war|warning",
-    "norm": 86
-  },
-  "j-k-s-health-sector-receives-a-shot-in-arm-as-union-minister": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "dead|dead|minister|mp",
-    "norm": 70
-  },
-  "-i-faced-lot-of-hate-rcb-star-reveals-how-he-was-trolled-whe": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "backlash|fan|ipl|star",
+  "-sir-is-backdoor-nrc-congress-slams-bjp-after-minister-lalan": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "bjp|congress|minister|slam|slams|vote",
     "norm": 69.6
   },
-  "-nobody-can-touch-it-trump-order-bars-future-prezs-from-chan": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "mp|trump|trump",
-    "norm": 61.4
+  "punjab-train-fire-four-coaches-of-train-12508-caught-fire-ne": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "fire|fire|panic|smoke",
+    "norm": 67.6
   },
-  "seven-including-three-children-killed-after-run-over-by-truc": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "killed|killed",
-    "norm": 59.3
+  "fire-breaks-out-on-bengal-bound-karmabhoomi-express-in-punja": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "fire|fire|panic|video",
+    "norm": 66
   },
-  "30-aircraft-8-countries-how-bomb-threats-disrupted-flights-a": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "bomb|threat",
-    "norm": 59.3
+  "what-sam-altman-told-openai-employees-about-data-centres-aft": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "mp|result|results|results",
+    "norm": 65.1
   },
-  "violence-mars-third-phase-of-rajasthan-panchayat-elections": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "election|election",
+  "we-lost-the-elections-to-the-supreme-court-not-to-the-bjp-ma": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "bjp|election|election|mamata|supreme court",
+    "norm": 64.6
+  },
+  "not-just-vote-theft-it-s-rights-theft-rahul-gandhi-on-centre": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "minister|modi|modi|rahul gandhi|vote",
+    "norm": 64.6
+  },
+  "a-thar-for-the-winning-horse-anant-singh-s-daughter-s-big-fa": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "mla|star|wedding",
+    "norm": 57.1
+  },
+  "nc-s-internal-rumblings-put-farooq-abdullah-back-in-the-sadd": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "cabinet|ipl",
+    "norm": 57.1
+  },
+  "tourist-arrivals-in-keralam-post-modest-growth-foreign-footf": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "mp|row",
     "norm": 55.4
   },
-  "massive-fire-breaks-out-at-shop-in-delhi-s-karol-bagh-22-fir": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
+  "sivakasi-s-fireworks-industry-sparkling-opportunities-up-ahe": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
     "signature": "fire|fire",
-    "norm": 52.4
+    "norm": 54.2
   },
-  "congress-wants-to-spread-anarchy-in-the-name-of-democracy-bh": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "congress|opposition",
+  "over-4-200-firecracker-shops-permitted-for-diwali-in-andhra-": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "fire|fire",
+    "norm": 54.2
+  },
+  "-shankarabharanna-interview-shine-shetty-sumanth-bhat-and-ta": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "horror|war",
+    "norm": 53.9
+  },
+  "polavaram-project-displaced-families-boycott-polling-demand-": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "mp|poll|vote",
+    "norm": 52.7
+  },
+  "reservation-category-indian-faculty-match-general-category-p": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "exam|match",
+    "norm": 52.1
+  },
+  "supreme-court-seeks-response-from-newsclick-purkayastha-on-e": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "high court|supreme court",
     "norm": 50.5
   },
-  "will-do-something-for-singur-west-bengal-cm-signals-fresh-in": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "chief minister|minister",
-    "norm": 48.7
-  },
-  "bank-accounts-to-be-opened-for-children-studying-in-governme": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
+  "-i-jumped-out-of-my-chair-democrat-saba-haider-s-mother-in-g": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "bengaluru-woman-clears-rs-43-lakh-loan-teaches-son-money-les": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
-    "signature": "lakh",
+  "hydrogen-peroxide-used-to-adulterate-milk-seized-in-ibrahimp": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "supreme-court-refuses-to-suspend-tarun-tejpal-s-10-year-sent": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "supreme court",
+    "norm": 45.9
+  },
+  "iaf-hands-over-39-5-acre-sports-complex-land-to-centre": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "former-tamil-nadu-assembly-speaker-p-h-pandian-s-son-joins-b": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "-this-organisation-is-united-farooq-abdullah-dismisses-repor": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "mla",
     "norm": 44
   },
-  "delhi-air-quality-stays-very-poor-for-4th-day-inches-closer-": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
+  "-public-opinion-cannot-decide-bail-kerala-hc-grants-relief-t": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "high court",
+    "norm": 44
+  },
+  "groundwater-levels-in-and-around-hyderabad-plummet-by-one-me": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "record",
+    "norm": 42.7
+  },
+  "isro-chairman-narayanan-meets-tamil-nadu-cm-vijay": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
     "signature": "",
     "norm": 36
   },
-  "it-s-all-about-the-raman-effect-from-transparent-chennai-to-": {
-    "firstSeen": "2026-11-06T02:18:26.191Z",
+  "from-sea-to-market-how-mussels-sustain-livelihoods-along-thi": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "",
+    "norm": 36
+  },
+  "nithya-raman-and-her-journey-from-keralam-to-los-angeles": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "",
+    "norm": 36
+  },
+  "nora-fatehi-appears-in-delhi-court-in-extortion-case-involvi": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "",
+    "norm": 36
+  },
+  "noted-kannada-linguist-critic-k-v-narayana-passes-away-in-be": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "",
+    "norm": 36
+  },
+  "sehwag-s-fifty-ishan-s-three-for-power-india-to-10-wicket-wi": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "indian-american-doj-civil-rights-chief-dhillon-resigns-after": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "sc-ends-decades-old-power-tussle-himachal-to-get-11-973-mu-f": {
+    "firstSeen": "2026-11-06T10:43:47.913Z",
     "signature": "",
     "norm": 33.9
   }
