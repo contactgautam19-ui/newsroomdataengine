@@ -1,36 +1,81 @@
 {
-  "-i-guess-i-m-dead-tech-entrepreneur-s-post-resurfaces-after-": {
-    "firstSeen": "2026-11-05T21:56:17.103Z",
-    "signature": "crash|crash|dead|dead|heartbreak|tragedy",
-    "norm": 79.9
+  "wall-street-bloodbath-2-5-trillion-wiped-out-as-nasdaq-suffe": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "crash|crash|election|election|investor|result|results|results|row|stocks|trillion",
+    "norm": 97.8
   },
-  "washington-couple-divorce-remarry-and-split-again-court-upho": {
-    "firstSeen": "2026-11-05T21:56:17.103Z",
-    "signature": "deal|fund|rbi|ruling|war",
+  "more-checks-added-on-ec-staff-in-eye-of-storm-amid-row-over-": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "election|election|khan|rohit|row|sharma|storm",
+    "norm": 86.9
+  },
+  "-you-ll-know-soon-enough-trump-s-warning-on-destroying-rest-": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "iran|mp|trump|trump|war|warning",
+    "norm": 86
+  },
+  "j-k-s-health-sector-receives-a-shot-in-arm-as-union-minister": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "dead|dead|minister|mp",
     "norm": 70
   },
-  "anthropic-rapidly-accelerating-ai-development-amid-slowdown-": {
-    "firstSeen": "2026-11-05T21:56:17.103Z",
-    "signature": "match",
-    "norm": 46.3
+  "-i-faced-lot-of-hate-rcb-star-reveals-how-he-was-trolled-whe": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "backlash|fan|ipl|star",
+    "norm": 69.6
   },
-  "sc-cracks-down-on-delayed-arrests-says-24-hour-clock-starts-": {
-    "firstSeen": "2026-11-05T21:56:17.103Z",
-    "signature": "star",
-    "norm": 44.3
+  "-nobody-can-touch-it-trump-order-bars-future-prezs-from-chan": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "mp|trump|trump",
+    "norm": 61.4
   },
-  "texas-farmers-help-turn-640-acre-school-land-gift-into-3m-in": {
-    "firstSeen": "2026-11-05T21:56:17.103Z",
-    "signature": "fund",
+  "seven-including-three-children-killed-after-run-over-by-truc": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "killed|killed",
+    "norm": 59.3
+  },
+  "30-aircraft-8-countries-how-bomb-threats-disrupted-flights-a": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "bomb|threat",
+    "norm": 59.3
+  },
+  "violence-mars-third-phase-of-rajasthan-panchayat-elections": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "election|election",
+    "norm": 55.4
+  },
+  "massive-fire-breaks-out-at-shop-in-delhi-s-karol-bagh-22-fir": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "fire|fire",
+    "norm": 52.4
+  },
+  "congress-wants-to-spread-anarchy-in-the-name-of-democracy-bh": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "congress|opposition",
+    "norm": 50.5
+  },
+  "will-do-something-for-singur-west-bengal-cm-signals-fresh-in": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
+  },
+  "bank-accounts-to-be-opened-for-children-studying-in-governme": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "bengaluru-woman-clears-rs-43-lakh-loan-teaches-son-money-les": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
+    "signature": "lakh",
     "norm": 44
   },
-  "former-maoist-controlled-forest-area-turns-into-cockfight-ga": {
-    "firstSeen": "2026-11-05T21:56:17.103Z",
+  "delhi-air-quality-stays-very-poor-for-4th-day-inches-closer-": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "sc-constitution-has-primacy-over-special-laws": {
-    "firstSeen": "2026-11-05T21:56:17.103Z",
+  "it-s-all-about-the-raman-effect-from-transparent-chennai-to-": {
+    "firstSeen": "2026-11-06T02:18:26.191Z",
     "signature": "",
     "norm": 33.9
   }
