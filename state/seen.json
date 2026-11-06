@@ -1,166 +1,156 @@
 {
-  "congress-says-people-must-express-outrage-over-inflation-by-": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "bjp|congress|inflation|modi|modi|outrage|poll",
-    "norm": 82.2
+  "condemn-hindu-nationalism-support-students-protests-u-s-repr": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "attack|attack|khan|protest|protest|shooting|slam|slams|war",
+    "norm": 85.4
   },
-  "2026-set-to-be-second-hottest-year-ever-recorded-el-nino-yet": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "mp|record|war|weather",
-    "norm": 72.9
+  "sailor-killed-after-missile-attack-on-oil-tanker-in-persian-": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "attack|attack|killed|killed|mp",
+    "norm": 75.9
   },
-  "-sir-is-backdoor-nrc-congress-slams-bjp-after-minister-lalan": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "bjp|congress|minister|slam|slams|vote",
-    "norm": 69.6
+  "e20-petrol-row-bpcl-rejects-claims-of-excess-ethanol-in-karn": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "mp|petrol|petrol|row",
+    "norm": 74
   },
-  "punjab-train-fire-four-coaches-of-train-12508-caught-fire-ne": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "fire|fire|panic|smoke",
-    "norm": 67.6
+  "one-killed-and-six-injured-in-fire-at-an-oil-facility-in-ass": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "fire|fire|injured|killed|killed",
+    "norm": 72.5
   },
-  "fire-breaks-out-on-bengal-bound-karmabhoomi-express-in-punja": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "fire|fire|panic|video",
-    "norm": 66
+  "punjab-s-stubble-burning-crisis-minister-demands-accountabil": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "bjp|fire|fire|minister|poll",
+    "norm": 69
   },
-  "what-sam-altman-told-openai-employees-about-data-centres-aft": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "mp|result|results|results",
-    "norm": 65.1
+  "cyclones-caused-over-500-crore-loss-to-a-p-energy-department": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "crore|cyclone|minister",
+    "norm": 65.6
   },
-  "we-lost-the-elections-to-the-supreme-court-not-to-the-bjp-ma": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "bjp|election|election|mamata|supreme court",
-    "norm": 64.6
+  "mbappe-s-mao-remarks-real-madrid-laliga-face-growing-pressur": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "china|controversy|mp|row",
+    "norm": 65
   },
-  "not-just-vote-theft-it-s-rights-theft-rahul-gandhi-on-centre": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "minister|modi|modi|rahul gandhi|vote",
-    "norm": 64.6
+  "agnipath-scheme-threatened-national-security-was-introduced-": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "congress|rohit|threat",
+    "norm": 62.5
   },
-  "a-thar-for-the-winning-horse-anant-singh-s-daughter-s-big-fa": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "mla|star|wedding",
+  "jason-reding-quinones-prosecutor-in-trump-probes-resigns-thi": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "congress|mp|trump|trump",
+    "norm": 61.8
+  },
+  "delhi-s-mustafabad-election-official-lodges-police-complaint": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "election|election|mp",
+    "norm": 61.4
+  },
+  "fake-gofundme-raises-5-000-after-teen-dies-in-florida-crash": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "crash|crash|fund",
+    "norm": 61.4
+  },
+  "fire-breaks-out-at-high-rise-building-in-mumbai-s-ghatkopar-": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "fire|fire|hospital",
+    "norm": 59.6
+  },
+  "for-tanvi-patri-s-father-youth-olympic-silver-is-just-the-be": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "cry|mp",
     "norm": 57.1
   },
-  "nc-s-internal-rumblings-put-farooq-abdullah-back-in-the-sadd": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "cabinet|ipl",
-    "norm": 57.1
-  },
-  "tourist-arrivals-in-keralam-post-modest-growth-foreign-footf": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "mp|row",
-    "norm": 55.4
-  },
-  "sivakasi-s-fireworks-industry-sparkling-opportunities-up-ahe": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
+  "acb-detects-90-suspicious-upi-transactions-at-lb-nagar-fire-": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
     "signature": "fire|fire",
     "norm": 54.2
   },
-  "over-4-200-firecracker-shops-permitted-for-diwali-in-andhra-": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "fire|fire",
+  "rajasthan-police-rescue-six-minors-forced-into-sex-work-five": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "rescue|rescue",
     "norm": 54.2
   },
-  "-shankarabharanna-interview-shine-shetty-sumanth-bhat-and-ta": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "horror|war",
-    "norm": 53.9
+  "kochi-doctor-booked-for-sexual-assault-a-day-after-actors-ar": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "actor|mp",
+    "norm": 53.5
   },
-  "polavaram-project-displaced-families-boycott-polling-demand-": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "mp|poll|vote",
-    "norm": 52.7
+  "frank-lloyd-wright-s-lakefront-home-relisted-for-2-495m-afte": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "mp|pictures",
+    "norm": 52
   },
-  "reservation-category-indian-faculty-match-general-category-p": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "exam|match",
-    "norm": 52.1
+  "anganwadi-children-hospitalised-after-suspected-food-poisoni": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "hospital",
+    "norm": 46.3
   },
-  "supreme-court-seeks-response-from-newsclick-purkayastha-on-e": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "high court|supreme court",
-    "norm": 50.5
+  "iisc-distinguished-alumnus-alumna-awards-for-2026-announced": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "war",
+    "norm": 46.3
   },
-  "-i-jumped-out-of-my-chair-democrat-saba-haider-s-mother-in-g": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "mp",
+  "woman-critically-ill-son-take-shelter-in-graveyard-near-vemu": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "hospital",
+    "norm": 46.3
+  },
+  "bike-taxi-driver-held-on-charge-of-sexually-assaulting-woman": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "tax",
     "norm": 45.9
   },
-  "hydrogen-peroxide-used-to-adulterate-milk-seized-in-ibrahimp": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "mp",
+  "demarcation-of-kaniyanapura-elephant-corridor-soon-minister": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "supreme-court-refuses-to-suspend-tarun-tejpal-s-10-year-sent": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "supreme court",
-    "norm": 45.9
-  },
-  "iaf-hands-over-39-5-acre-sports-complex-land-to-centre": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "former-tamil-nadu-assembly-speaker-p-h-pandian-s-son-joins-b": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "-this-organisation-is-united-farooq-abdullah-dismisses-repor": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "mla",
-    "norm": 44
-  },
-  "-public-opinion-cannot-decide-bail-kerala-hc-grants-relief-t": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "high court",
-    "norm": 44
-  },
-  "groundwater-levels-in-and-around-hyderabad-plummet-by-one-me": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
-    "signature": "record",
-    "norm": 42.7
-  },
-  "isro-chairman-narayanan-meets-tamil-nadu-cm-vijay": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
+  "-he-said-we-were-going-on-a-trip-11-year-old-survivor-recoun": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
     "signature": "",
     "norm": 36
   },
-  "from-sea-to-market-how-mussels-sustain-livelihoods-along-thi": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
+  "stakeholders-oppose-karnataka-govt-s-move-to-make-private-sc": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
     "signature": "",
     "norm": 36
   },
-  "nithya-raman-and-her-journey-from-keralam-to-los-angeles": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
+  "rural-women-narrate-stories-on-how-gruha-lakshmi-scheme-help": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
     "signature": "",
     "norm": 36
   },
-  "nora-fatehi-appears-in-delhi-court-in-extortion-case-involvi": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
+  "bengaluru-police-bda-ready-alternate-roads-to-ballari-road-a": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
     "signature": "",
     "norm": 36
   },
-  "noted-kannada-linguist-critic-k-v-narayana-passes-away-in-be": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
+  "abandoned-elephant-calf-maya-gets-a-second-chance-airlifted-": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
     "signature": "",
     "norm": 36
   },
-  "sehwag-s-fifty-ishan-s-three-for-power-india-to-10-wicket-wi": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
+  "cyberabad-police-explore-one-way-traffic-system-across-biodi": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "indian-american-doj-civil-rights-chief-dhillon-resigns-after": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
+  "greater-flamingos-sighted-for-the-first-time-at-kere-bhosga": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "sc-ends-decades-old-power-tussle-himachal-to-get-11-973-mu-f": {
-    "firstSeen": "2026-11-06T10:43:47.913Z",
+  "yadgir-bandh-evokes-good-response": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
+    "signature": "",
+    "norm": 36
+  },
+  "meghan-markle-s-father-arrested-for-possessing-child-sexual-": {
+    "firstSeen": "2026-11-06T17:54:18.135Z",
     "signature": "",
     "norm": 33.9
   }
