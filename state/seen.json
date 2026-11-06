@@ -1,156 +1,36 @@
 {
-  "condemn-hindu-nationalism-support-students-protests-u-s-repr": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "attack|attack|khan|protest|protest|shooting|slam|slams|war",
-    "norm": 85.4
+  "court-allows-more-evidence-in-sonia-gandhi-voter-list-case": {
+    "firstSeen": "2026-11-06T23:01:28.896Z",
+    "signature": "vote",
+    "norm": 44
   },
-  "sailor-killed-after-missile-attack-on-oil-tanker-in-persian-": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "attack|attack|killed|killed|mp",
-    "norm": 75.9
-  },
-  "e20-petrol-row-bpcl-rejects-claims-of-excess-ethanol-in-karn": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "mp|petrol|petrol|row",
-    "norm": 74
-  },
-  "one-killed-and-six-injured-in-fire-at-an-oil-facility-in-ass": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "fire|fire|injured|killed|killed",
-    "norm": 72.5
-  },
-  "punjab-s-stubble-burning-crisis-minister-demands-accountabil": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "bjp|fire|fire|minister|poll",
-    "norm": 69
-  },
-  "cyclones-caused-over-500-crore-loss-to-a-p-energy-department": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "crore|cyclone|minister",
-    "norm": 65.6
-  },
-  "mbappe-s-mao-remarks-real-madrid-laliga-face-growing-pressur": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "china|controversy|mp|row",
-    "norm": 65
-  },
-  "agnipath-scheme-threatened-national-security-was-introduced-": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "congress|rohit|threat",
-    "norm": 62.5
-  },
-  "jason-reding-quinones-prosecutor-in-trump-probes-resigns-thi": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "congress|mp|trump|trump",
-    "norm": 61.8
-  },
-  "delhi-s-mustafabad-election-official-lodges-police-complaint": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "election|election|mp",
-    "norm": 61.4
-  },
-  "fake-gofundme-raises-5-000-after-teen-dies-in-florida-crash": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "crash|crash|fund",
-    "norm": 61.4
-  },
-  "fire-breaks-out-at-high-rise-building-in-mumbai-s-ghatkopar-": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "fire|fire|hospital",
-    "norm": 59.6
-  },
-  "for-tanvi-patri-s-father-youth-olympic-silver-is-just-the-be": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "cry|mp",
-    "norm": 57.1
-  },
-  "acb-detects-90-suspicious-upi-transactions-at-lb-nagar-fire-": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "fire|fire",
-    "norm": 54.2
-  },
-  "rajasthan-police-rescue-six-minors-forced-into-sex-work-five": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "rescue|rescue",
-    "norm": 54.2
-  },
-  "kochi-doctor-booked-for-sexual-assault-a-day-after-actors-ar": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "actor|mp",
-    "norm": 53.5
-  },
-  "frank-lloyd-wright-s-lakefront-home-relisted-for-2-495m-afte": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "mp|pictures",
-    "norm": 52
-  },
-  "anganwadi-children-hospitalised-after-suspected-food-poisoni": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "iisc-distinguished-alumnus-alumna-awards-for-2026-announced": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "war",
-    "norm": 46.3
-  },
-  "woman-critically-ill-son-take-shelter-in-graveyard-near-vemu": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "bike-taxi-driver-held-on-charge-of-sexually-assaulting-woman": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "tax",
-    "norm": 45.9
-  },
-  "demarcation-of-kaniyanapura-elephant-corridor-soon-minister": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "minister",
-    "norm": 45.9
-  },
-  "-he-said-we-were-going-on-a-trip-11-year-old-survivor-recoun": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
+  "with-working-strength-of-just-2-sikkim-hc-unable-to-hear-int": {
+    "firstSeen": "2026-11-06T23:01:28.896Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "stakeholders-oppose-karnataka-govt-s-move-to-make-private-sc": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
+  "california-neighbours-fight-over-garage-space-292-544-legal-": {
+    "firstSeen": "2026-11-06T23:01:28.896Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "rural-women-narrate-stories-on-how-gruha-lakshmi-scheme-help": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
+  "idaho-family-s-125-year-old-ranch-protects-1-686-acres-for-m": {
+    "firstSeen": "2026-11-06T23:01:28.896Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "bengaluru-police-bda-ready-alternate-roads-to-ballari-road-a": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
+  "hc-judge-vacancies-at-decade-low-26-but-pendency-keeps-pilin": {
+    "firstSeen": "2026-11-06T23:01:28.896Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "abandoned-elephant-calf-maya-gets-a-second-chance-airlifted-": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
+  "nmc-adds-9-783-pg-medical-seats-takes-total-to-68-305": {
+    "firstSeen": "2026-11-06T23:01:28.896Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "cyberabad-police-explore-one-way-traffic-system-across-biodi": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "",
-    "norm": 36
-  },
-  "greater-flamingos-sighted-for-the-first-time-at-kere-bhosga": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "",
-    "norm": 36
-  },
-  "yadgir-bandh-evokes-good-response": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
-    "signature": "",
-    "norm": 36
-  },
-  "meghan-markle-s-father-arrested-for-possessing-child-sexual-": {
-    "firstSeen": "2026-11-06T17:54:18.135Z",
+  "disallowed-friday-prayers-under-house-detention-for-6th-day-": {
+    "firstSeen": "2026-11-06T23:01:28.896Z",
     "signature": "",
     "norm": 33.9
   }
