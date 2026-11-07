@@ -1,156 +1,46 @@
 {
-  "cjp-s-abhijeet-dipke-predicts-modi-govt-s-defeat-in-2029-at-": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "modi|modi|mp|rally|rally|war",
-    "norm": 78.8
+  "pakistani-security-forces-launch-crackdown-against-demonstra": {
+    "firstSeen": "2026-11-07T20:49:58.274Z",
+    "signature": "death|fund|jobs|pakistan",
+    "norm": 69.6
   },
-  "ex-british-soldier-71-stocks-600-food-cans-to-survive-100-da": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "army|mp|outbreak|stocks|war",
-    "norm": 77.9
+  "israel-president-taps-opposition-leader-eisenkot-to-form-gov": {
+    "firstSeen": "2026-11-07T20:49:58.274Z",
+    "signature": "israel|opposition|president",
+    "norm": 59.7
   },
-  "2-killed-10-injured-in-shooting-near-main-market-square-in-p": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "injured|killed|killed|minister|prime minister|shooting",
-    "norm": 77.4
-  },
-  "health-minister-u-t-khader-sets-up-fresh-panel-to-review-tre": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "exam|fan|hospital|minister",
-    "norm": 72.7
-  },
-  "nda-wins-large-number-of-mptc-seats-in-godavari-region": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "mla|mp|protest|protest|vote",
-    "norm": 69
-  },
-  "allahabad-high-court-slams-u-p-police-over-routine-violation": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "fund|high court|slam|slams",
-    "norm": 69
-  },
-  "aidso-protests-against-congress-government-s-move-to-allow-a": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "congress|mp|protest|protest",
-    "norm": 66.9
-  },
-  "andhra-pradesh-mptc-zptc-election-results-live-tdp-leads-in-": {
-    "firstSeen": "2026-11-07T09:56:56.837Z",
-    "signature": "election|election|election commission|ipl|mp|result|results|results",
-    "norm": 64.9
-  },
-  "mutton-feast-rolls-of-tape-how-cab-driver-killed-wife-relati": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "killed|killed|upset",
-    "norm": 63.2
-  },
-  "accused-of-leaks-blamed-for-defeat-how-susie-wiles-fell-from": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "mp|president|trump|trump",
-    "norm": 61.8
-  },
-  "lucknow-bound-indigo-flight-returns-to-bengaluru-after-hijac": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "hijack|threat",
-    "norm": 59.3
-  },
-  "vijay-urges-pm-modi-to-deny-mekedatu-dam-approval-without-st": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "modi|modi",
+  "israel-s-president-picks-netanyahu-s-rival-gadi-eisenkot-to-": {
+    "firstSeen": "2026-11-07T20:49:58.274Z",
+    "signature": "israel|president",
     "norm": 55.4
   },
-  "europe-is-rehearsing-its-next-move-in-ukraine-and-putin-may-": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "war",
+  "nallur-toll-plaza-on-kolkata-national-highway-to-be-moved-to": {
+    "firstSeen": "2026-11-07T20:49:58.274Z",
+    "signature": "toll",
     "norm": 46.3
   },
-  "free-risdiplam-for-sma-patients-to-be-made-available-in-all-": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "ipl",
-    "norm": 46.3
-  },
-  "satheesan-pinarayi-trade-sharp-words-over-power-supply-deals": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "deal",
+  "virginia-restaurant-gets-51-594-water-bill-after-three-years": {
+    "firstSeen": "2026-11-07T20:49:58.274Z",
+    "signature": "bill",
     "norm": 45.9
   },
-  "indian-american-priya-sundareshan-elected-arizona-senate-pre": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "president",
-    "norm": 45.9
-  },
-  "hard-work-key-to-success-says-arvind-bellad": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "mla",
-    "norm": 45.9
-  },
-  "alleged-habitual-offender-sent-to-jail-under-kaapa": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "aap",
-    "norm": 45.9
-  },
-  "rampur-s-lavi-fair-storytelling-through-300-years-of-himalay": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "nda-wins-eight-zptc-seats-in-palnadu-district": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "vote",
-    "norm": 45.9
-  },
-  "radial-road-from-shamshabad-to-kodangal-will-be-completed-by": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "authoritarian-leaders-facing-setbacks-says-m-k-muneer": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "ryan-reynolds-wrexham-gets-approval-for-70m-stand-with-7-750": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "rajajinagar-murders-police-retrieve-two-more-bodies-from-tam": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
+  "meet-rodion-zaichikov-15-who-built-3-000-c-wind-tunnel-and-w": {
+    "firstSeen": "2026-11-07T20:49:58.274Z",
     "signature": "",
     "norm": 36
   },
-  "ysrcp-wins-key-zptc-seats-in-saluru": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
+  "scientists-find-sensory-hair-cells-all-over-squid-bodies-not": {
+    "firstSeen": "2026-11-07T20:49:58.274Z",
     "signature": "",
     "norm": 36
   },
-  "-misleading-post-mea-fact-checks-report-on-india-s-us-lobbyi": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "",
-    "norm": 36
-  },
-  "from-strategic-eastern-airbase-rajnath-calls-for-highest-mil": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "",
-    "norm": 36
-  },
-  "botcha-satyanarayana-s-daughter-loses-bondapalli-zptc-seat": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
+  "arkansas-couple-pays-for-111-acres-with-truck-and-cows-court": {
+    "firstSeen": "2026-11-07T20:49:58.274Z",
     "signature": "",
     "norm": 33.9
   },
-  "music-and-yoga-strike-a-healing-chord-behind-prison-walls-in": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "jsp-stronger-after-100-strike-rate-in-ulbs-party-leader-dane": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "georgia-o-keeffe-painting-hidden-in-closet-for-40-years-coul": {
-    "firstSeen": "2026-11-07T16:21:00.309Z",
+  "ten-of-11-stations-on-kochi-metro-s-pink-line-to-have-entry-": {
+    "firstSeen": "2026-11-07T20:49:58.274Z",
     "signature": "",
     "norm": 33.9
   }
