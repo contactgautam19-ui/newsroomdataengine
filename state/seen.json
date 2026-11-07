@@ -1,36 +1,76 @@
 {
-  "court-allows-more-evidence-in-sonia-gandhi-voter-list-case": {
-    "firstSeen": "2026-11-06T23:01:28.896Z",
-    "signature": "vote",
+  "-it-was-all-of-us-khawaja-drops-bombshell-on-australia-s-bal": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "bomb|cricket|cricketer|mp",
+    "norm": 72.7
+  },
+  "ap-mptc-zptc-election-results-2026-live-updates-vote-countin": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "election|election|mp|result|results|results|vote",
+    "norm": 72.4
+  },
+  "maharashtra-plans-cochlear-implant-facility-for-patients-wit": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "hospital|maharashtra|mp",
+    "norm": 66
+  },
+  "karnataka-woman-s-seed-saving-spans-30-villages-wins-rs-10-l": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "lakh|mp|war",
+    "norm": 63.9
+  },
+  "us-offers-20-million-reward-for-information-on-iran-s-nuclea": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "ipl|iran|war",
+    "norm": 62.9
+  },
+  "sc-rejects-bail-plea-of-doctor-accused-of-prescribing-cough-": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "death|supreme court|war",
+    "norm": 60.8
+  },
+  "us-china-trade-talks-to-continue-as-washington-presses-beiji": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "china|deal|mp",
+    "norm": 57.6
+  },
+  "india-eu-conclude-multi-billion-euro-global-innovation-progr": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "bill|billion|mp",
+    "norm": 57.6
+  },
+  "bjp-plans-special-event-on-advani-s-99th-birthday": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "bjp|war",
+    "norm": 55.4
+  },
+  "-elections-matter-houston-mayor-moves-to-limit-ice-cooperati": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "election|election",
+    "norm": 55.4
+  },
+  "ex-cji-gavai-to-head-panel-vetting-forest-rights-claims-in-t": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "cji|supreme court",
+    "norm": 48.7
+  },
+  "our-fight-is-to-restore-democracy-not-just-form-govt-says-kc": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "congress",
     "norm": 44
   },
-  "with-working-strength-of-just-2-sikkim-hc-unable-to-hear-int": {
-    "firstSeen": "2026-11-06T23:01:28.896Z",
+  "a-missing-persons-complaint-that-unravelled-bengaluru-s-seve": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "india-eu-conclude-negotiations-over-key-scientific-cooperati": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
     "signature": "",
     "norm": 33.9
   },
-  "california-neighbours-fight-over-garage-space-292-544-legal-": {
-    "firstSeen": "2026-11-06T23:01:28.896Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "idaho-family-s-125-year-old-ranch-protects-1-686-acres-for-m": {
-    "firstSeen": "2026-11-06T23:01:28.896Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "hc-judge-vacancies-at-decade-low-26-but-pendency-keeps-pilin": {
-    "firstSeen": "2026-11-06T23:01:28.896Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "nmc-adds-9-783-pg-medical-seats-takes-total-to-68-305": {
-    "firstSeen": "2026-11-06T23:01:28.896Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "disallowed-friday-prayers-under-house-detention-for-6th-day-": {
-    "firstSeen": "2026-11-06T23:01:28.896Z",
+  "happy-choti-diwali-2026-wishes-images-and-greetings-to-share": {
+    "firstSeen": "2026-11-07T02:44:06.807Z",
     "signature": "",
     "norm": 33.9
   }
