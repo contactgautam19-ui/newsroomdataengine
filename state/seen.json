@@ -1,47 +1,37 @@
 {
-  "pakistani-security-forces-launch-crackdown-against-demonstra": {
-    "firstSeen": "2026-11-07T20:49:58.274Z",
-    "signature": "death|fund|jobs|pakistan",
-    "norm": 69.6
+  "injured-at-18-man-later-deadlifts-285kg-to-become-world-reco": {
+    "firstSeen": "2026-11-08T00:28:29.499Z",
+    "signature": "dead|dead|injured|record",
+    "norm": 68.4
   },
-  "israel-president-taps-opposition-leader-eisenkot-to-form-gov": {
-    "firstSeen": "2026-11-07T20:49:58.274Z",
-    "signature": "israel|opposition|president",
+  "-800-jump-in-pm2-5-pollution-heavy-metal-aerosols-in-air-her": {
+    "firstSeen": "2026-11-08T00:28:29.499Z",
+    "signature": "fire|fire|mp|poll",
+    "norm": 66.9
+  },
+  "-they-should-go-to-jail-trump-demands-action-against-democra": {
+    "firstSeen": "2026-11-08T00:28:29.499Z",
+    "signature": "mp|trump|trump",
     "norm": 59.7
   },
-  "israel-s-president-picks-netanyahu-s-rival-gadi-eisenkot-to-": {
-    "firstSeen": "2026-11-07T20:49:58.274Z",
-    "signature": "israel|president",
-    "norm": 55.4
+  "magnitude-5-7-earthquake-hits-central-japan-dozens-injured": {
+    "firstSeen": "2026-11-08T00:28:29.499Z",
+    "signature": "earthquake|earthquake|injured",
+    "norm": 57.9
   },
-  "nallur-toll-plaza-on-kolkata-national-highway-to-be-moved-to": {
-    "firstSeen": "2026-11-07T20:49:58.274Z",
-    "signature": "toll",
-    "norm": 46.3
+  "iran-s-irgc-claims-self-imposed-ballistic-missile-range-limi": {
+    "firstSeen": "2026-11-08T00:28:29.499Z",
+    "signature": "iran|mp",
+    "norm": 57.1
   },
-  "virginia-restaurant-gets-51-594-water-bill-after-three-years": {
-    "firstSeen": "2026-11-07T20:49:58.274Z",
-    "signature": "bill",
-    "norm": 45.9
+  "sewage-discharge-into-sarabi-river-raises-concern-in-bhatkal": {
+    "firstSeen": "2026-11-08T00:28:29.499Z",
+    "signature": "war",
+    "norm": 51.2
   },
-  "meet-rodion-zaichikov-15-who-built-3-000-c-wind-tunnel-and-w": {
-    "firstSeen": "2026-11-07T20:49:58.274Z",
+  "gunman-kills-six-people-in-krakow-polish-police-say": {
+    "firstSeen": "2026-11-08T00:28:29.499Z",
     "signature": "",
-    "norm": 36
-  },
-  "scientists-find-sensory-hair-cells-all-over-squid-bodies-not": {
-    "firstSeen": "2026-11-07T20:49:58.274Z",
-    "signature": "",
-    "norm": 36
-  },
-  "arkansas-couple-pays-for-111-acres-with-truck-and-cows-court": {
-    "firstSeen": "2026-11-07T20:49:58.274Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "ten-of-11-stations-on-kochi-metro-s-pink-line-to-have-entry-": {
-    "firstSeen": "2026-11-07T20:49:58.274Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 39.4
   }
 }
