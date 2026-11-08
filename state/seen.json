@@ -1,72 +1,52 @@
 {
-  "sensex-nifty-start-samvat-2083-in-red-what-s-the-outlook-til": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "nifty|rally|rally|record|sensex|star",
-    "norm": 75.3
+  "-they-re-a-failing-nation-trump-says-fresh-iran-strikes-high": {
+    "firstSeen": "2026-11-08T19:37:44.514Z",
+    "signature": "iran|mp|trump|trump",
+    "norm": 66.6
   },
-  "portion-of-false-ceiling-collapses-outside-mumbai-airport-te": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "collapse|collapse|collapse|injured|minister",
-    "norm": 73.3
+  "7-killed-over-100-injured-after-2-trains-collide-in-egypt-s-": {
+    "firstSeen": "2026-11-08T19:37:44.514Z",
+    "signature": "derail|injured|killed|killed",
+    "norm": 65.5
   },
-  "trump-says-midterm-election-results-were-giant-step-back-in-": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "election|election|mp|result|results|results|trump|trump|upsc",
-    "norm": 71.7
+  "air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-p": {
+    "firstSeen": "2026-11-08T19:37:44.514Z",
+    "signature": "fire|fire|poll",
+    "norm": 62.8
   },
-  "ssb-jawan-found-dead-while-on-duty-at-india-nepal-border-out": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "border|dead|dead|death",
-    "norm": 71
+  "19-indian-seafarers-stranded-in-yemen-evacuated-embassy-says": {
+    "firstSeen": "2026-11-08T19:37:44.514Z",
+    "signature": "evacuat",
+    "norm": 48.2
   },
-  "west-bengal-to-institute-seema-mitra-award-for-bsf-ssb-polic": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "border|election|election|war",
-    "norm": 70
-  },
-  "pakistan-s-khyber-pakhtunkhwa-plans-faceless-anti-terror-cou": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 67.6
-  },
-  "pm-modi-visits-lk-advani-on-his-birthday-as-veteran-bjp-lead": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "bjp|modi|modi",
-    "norm": 61.4
-  },
-  "minister-agnimitra-paul-says-rose-water-to-be-used-for-mist-": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "minister|slam|slams",
-    "norm": 60.8
-  },
-  "egypt-train-collision-120-injured-as-train-derails-after-hit": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "derail|injured",
-    "norm": 52.1
-  },
-  "woman-spends-110-000-on-home-with-partner-court-rejects-clai": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "ruling|supreme court",
-    "norm": 48.7
-  },
-  "aditya-birla-new-age-hospitality-launches-nami-its-new-vinyl": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "hospital",
-    "norm": 46.3
-  },
-  "jean-dr-ze-urges-t-n-govt-to-take-strict-action-amid-report-": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
+  "ashoka-seeks-attempt-to-murder-case-over-weapons-sent-to-cha": {
+    "firstSeen": "2026-11-08T19:37:44.514Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 47.1
   },
-  "india-gets-its-100th-grandmaster-anuj-shrivatri-becomes-firs": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "mp",
-    "norm": 44
+  "bengal-forest-dept-starts-shift-to-green-maroon-colour-code": {
+    "firstSeen": "2026-11-08T19:37:44.514Z",
+    "signature": "star",
+    "norm": 45.5
   },
-  "delhi-breathes-toxic-air-on-diwali-aqi-nears-400-12-stations": {
-    "firstSeen": "2026-11-08T15:03:26.094Z",
-    "signature": "record",
-    "norm": 40.7
+  "delhi-ncr-chokes-on-diwali-night-as-smoke-engulfs-city-aqi-n": {
+    "firstSeen": "2026-11-08T19:37:44.514Z",
+    "signature": "smoke",
+    "norm": 42.7
+  },
+  "kufos-to-collaborate-with-us-university-in-academics-and-res": {
+    "firstSeen": "2026-11-08T19:37:44.514Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "woman-arrested-for-joining-juveniles-to-assault-minor-in-eda": {
+    "firstSeen": "2026-11-08T19:37:44.514Z",
+    "signature": "",
+    "norm": 37.4
+  },
+  "omaha-apartment-owner-loses-appeal-against-city-over-2018-bu": {
+    "firstSeen": "2026-11-08T19:37:44.514Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
