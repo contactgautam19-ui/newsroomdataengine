@@ -1,37 +1,122 @@
 {
-  "injured-at-18-man-later-deadlifts-285kg-to-become-world-reco": {
-    "firstSeen": "2026-11-08T00:28:29.499Z",
-    "signature": "dead|dead|injured|record",
+  "news-in-frames-many-twists-in-the-monsoon-s-tale": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "cyclone|dead|dead|twist",
     "norm": 68.4
   },
-  "-800-jump-in-pm2-5-pollution-heavy-metal-aerosols-in-air-her": {
-    "firstSeen": "2026-11-08T00:28:29.499Z",
-    "signature": "fire|fire|mp|poll",
-    "norm": 66.9
+  "gold-silver-price-outlook-us-iran-tensions-inflation-data-to": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "gold|inflation|investor|iran|price|prices",
+    "norm": 68
   },
-  "-they-should-go-to-jail-trump-demands-action-against-democra": {
-    "firstSeen": "2026-11-08T00:28:29.499Z",
-    "signature": "mp|trump|trump",
+  "-first-diwali-when-india-is-free-from-naxalism-pm-modi-marks": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "modi|modi|star",
+    "norm": 64.2
+  },
+  "-first-since-end-of-naxalism-pm-modi-celebrates-diwali-with-": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "modi|modi|star",
+    "norm": 64.2
+  },
+  "when-jeff-bezos-revealed-why-people-don-t-copy-warren-buffet": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "investor|mp|war",
+    "norm": 63.9
+  },
+  "lk-advani-enters-100th-year-pm-modi-nitin-nabin-and-bjp-lead": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "bjp|minister|modi|modi|mp|prime minister",
+    "norm": 63.4
+  },
+  "deportation-of-wanted-punjab-gangster-afridi-secured-after-1": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "gst|lakh|war",
+    "norm": 61.4
+  },
+  "bombay-high-court-quashes-cbi-case-against-4-former-jet-airw": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "bomb|high court|mp",
     "norm": 59.7
   },
-  "magnitude-5-7-earthquake-hits-central-japan-dozens-injured": {
-    "firstSeen": "2026-11-08T00:28:29.499Z",
-    "signature": "earthquake|earthquake|injured",
-    "norm": 57.9
+  "kanpur-man-killed-as-thar-rams-his-scooter-and-drags-him-alo": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "killed|killed",
+    "norm": 59.3
   },
-  "iran-s-irgc-claims-self-imposed-ballistic-missile-range-limi": {
-    "firstSeen": "2026-11-08T00:28:29.499Z",
-    "signature": "iran|mp",
-    "norm": 57.1
+  "rajat-patidar-withdraws-from-india-a-squad-bcci-names-replac": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "captain|mp|star",
+    "norm": 55.4
   },
-  "sewage-discharge-into-sarabi-river-raises-concern-in-bhatkal": {
-    "firstSeen": "2026-11-08T00:28:29.499Z",
-    "signature": "war",
-    "norm": 51.2
+  "-have-not-visited-ram-temple-nor-will-i-ever-go-tmc-s-kirti-": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "bjp|mp",
+    "norm": 48.7
   },
-  "gunman-kills-six-people-in-krakow-polish-police-say": {
-    "firstSeen": "2026-11-08T00:28:29.499Z",
+  "man-arrested-for-firing-14-rounds-at-neighbour-over-parking-": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "shooting",
+    "norm": 46.3
+  },
+  "-engines-failing-dks-accuses-centre-of-cover-up-amid-ethanol": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "rajnath-singh-pays-tributes-to-brave-soldiers-at-sherethang-": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "army",
+    "norm": 45.9
+  },
+  "bjp-celebrates-advani-s-birthday-with-puja-havan-leaders-lau": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "allahabad-hc-calls-civil-liberties-situation-in-up-shameful-": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "cctv|footage",
+    "norm": 45.9
+  },
+  "himachal-pradesh-to-set-up-first-fish-parlour-in-bilaspur-of": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "delhi-pollution-worsens-on-diwali-air-quality-severe-in-many": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "poll",
+    "norm": 44
+  },
+  "nba-star-myles-turner-pledges-250-pet-meals-per-point-1-000-": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "book-box-diwali-and-the-books-we-give-each-other": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
     "signature": "",
-    "norm": 39.4
+    "norm": 36
+  },
+  "happy-diwali-2026-wishes-images-messages-and-greetings-to-sh": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "",
+    "norm": 36
+  },
+  "muhurat-trading-live-updates-winning-streak-likely-to-contin": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "",
+    "norm": 36
+  },
+  "uk-dad-wins-4m-mansion-and-250-000-cash-from-30-omaze-entry": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "two-carpenters-save-elderly-man-with-dress-and-tape-after-ar": {
+    "firstSeen": "2026-11-08T07:13:54.545Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
