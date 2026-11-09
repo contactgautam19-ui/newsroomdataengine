@@ -1,131 +1,146 @@
 {
-  "6-of-family-killed-after-fire-at-goldsmith-s-house-in-madhya": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "fire|fire|gold|killed|killed",
-    "norm": 78.2
+  "bengaluru-firecracker-injuries-threaten-vision-two-infants-a": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "fan|fire|fire|hospital|threat",
+    "norm": 75
   },
-  "how-a-heated-argument-turned-fatal-for-kolkata-techie-partne": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "attack|attack|death|result|war",
-    "norm": 77
+  "pm-modi-speaks-with-zelenskyy-reaffirms-india-s-support-for-": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "diplomacy|ipl|modi|modi|war",
+    "norm": 75
   },
-  "-highly-unlikely-trump-on-possibility-of-resumption-of-iran-": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "iran|mp|trump|trump|vote|war",
-    "norm": 76.9
+  "white-house-on-temporary-lockdown-after-car-crashes-into-sig": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "crash|crash|mp|smoke|video",
+    "norm": 72
   },
-  "fire-at-building-in-madhya-pradesh-s-katni-on-deepavali-nigh": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "fire|fire|killed|killed|war",
-    "norm": 74.9
-  },
-  "cait-calls-meeting-on-nov-13-says-will-discuss-demand-to-shi": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "bjp|khan|mp|protest|protest",
-    "norm": 73.6
-  },
-  "rubio-warned-trump-admin-about-nvidia-ceo-s-alleged-ties-to-": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "mp|trump|trump|war",
-    "norm": 71.6
-  },
-  "delhi-air-pollution-aap-slams-delhi-govt-for-alleged-air-qua": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "aap|bjp|poll|slam|slams|threat",
-    "norm": 71.1
-  },
-  "car-catches-fire-after-hitting-electric-pole-in-u-p-s-muzaff": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "dead|dead|fire|fire",
+  "akhilesh-s-proposed-ayodhya-visit-to-broaden-his-pda-outreac": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "ayodhya|bjp|mp|row",
     "norm": 70
   },
-  "thane-fire-safety-crackdown-rockets-and-aerial-firecrackers-": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "aerial|blaze|fire|fire|mp",
-    "norm": 65.3
+  "pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-mosc": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "ipl|jaishankar|minister|modi|modi|president",
+    "norm": 69.6
   },
-  "analysis-politics-of-drugs-bjp-looks-to-turn-punjab-aap-s-bi": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "aap|bjp|election|election|mp",
+  "karnataka-govt-stands-by-report-of-over-20-ethanol-in-petrol": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "minister|mp|petrol|petrol",
+    "norm": 68
+  },
+  "six-including-sarpanch-injured-in-stray-dog-attack-in-rekond": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "attack|attack|injured",
     "norm": 62.9
   },
-  "maharashtra-relaxes-borewell-restrictions-till-december-15-t": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "chief minister|maharashtra|minister",
-    "norm": 61.4
+  "legal-awareness-rally-held-to-mark-national-legal-services-d": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "rally|rally|war",
+    "norm": 62.8
   },
-  "air-pollution-over-66-times-who-limit-in-parts-of-delhi-as-p": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "fire|fire|poll",
-    "norm": 61.1
+  "13-years-on-delhi-police-serve-notice-on-mamata-banerjee-in-": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "mamata|protest|protest",
+    "norm": 62.8
   },
-  "why-mcdonald-s-kfc-and-nestle-are-avoiding-price-hikes-despi": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "inflation|mp|price",
-    "norm": 57.6
+  "karnataka-high-court-issues-guidelines-to-bmrcl-for-ensuring": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "high court|lakh|mp|policy",
+    "norm": 59.7
   },
-  "phage-therapy-shows-77-success-against-superbugs-global-guid": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "anger|mp",
+  "keralam-excise-dept-bans-issuance-of-new-liquor-licences-unt": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "policy|row",
+    "norm": 57.1
+  },
+  "post-diwali-air-pollution-adds-to-respiratory-distress-noida": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "hospital|poll",
     "norm": 55.4
   },
-  "ohio-man-keeps-premarital-home-after-divorce-wife-ordered-to": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "ruling|war",
-    "norm": 55.4
+  "bihar-govt-bans-firecrackers-private-boat-operations-near-gh": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "fire|fire",
+    "norm": 52.4
   },
-  "bank-holiday-on-diwali-where-banks-are-closed-on-november-9-": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
+  "punjab-haryana-report-4-500-farm-fires-nasa-scientist-gives-": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "fire|fire",
+    "norm": 52.4
+  },
+  "n-ram-on-his-interview-with-sonia-gandhi": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "bjp|congress|mp|president",
+    "norm": 52.1
+  },
+  "telangana-high-court-sentences-ranga-reddy-collector-to-six-": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "high court|mp",
+    "norm": 48.7
+  },
+  "alabama-neighbourhood-opens-1m-grocery-store-after-nearly-70": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "row",
+    "norm": 46.3
+  },
+  "four-acres-of-encroached-land-reclaimed-in-ballari-task-forc": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "kozhikode-police-arrest-man-in-extortion-impersonation-cases": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
+  "at-peak-of-air-pollution-on-deepavali-night-data-goes-missin": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "poll",
+    "norm": 45.9
+  },
+  "bengaluru-to-host-first-meet-of-commonwealth-women-parliamen": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "parliament",
+    "norm": 45.9
+  },
+  "remain-accessible-to-people-visakhapatnam-mp-tells-corporato": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "srisailam-gears-up-for-karthika-masam-festivities-from-novem": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
     "signature": "mp",
     "norm": 44
   },
-  "why-delhi-s-major-air-quality-stations-stopped-showing-data-": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "sudden|surprising",
+  "man-kills-4-year-old-to-sell-his-organs-after-watching-video": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "video|watch",
     "norm": 44
   },
-  "aqi-slips-to-severe-in-delhi-mumbai-chennai-wake-up-to-smog-": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "poll",
-    "norm": 44
+  "a-p-cities-record-dip-in-aqi-after-deepavali-visakhapatnam-w": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "devotees-throng-tawang-monastery-to-pay-respects-to-sacred-r": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "vote",
-    "norm": 44
+  "sydney-beachfront-home-bought-for-a-29m-up-from-a-7-65m-in-2": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "dhaka-slums-passed-off-as-new-delhi-inside-the-chinese-lives": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "footage",
-    "norm": 42.7
-  },
-  "modernist-artist-arpita-singh-aged-89-passes-away": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
+  "police-mull-joint-interrogation-of-accused-in-abhiram-murder": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
     "signature": "",
     "norm": 36
   },
-  "society-expects-women-to-do-everything-but-fails-to-respect-": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
-    "signature": "",
-    "norm": 36
-  },
-  "katy-perry-s-former-6-5m-hollywood-estate-now-rents-for-275-": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
+  "karnataka-cm-to-hold-meeting-next-week-on-issues-faced-by-mi": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
     "signature": "",
     "norm": 33.9
   },
-  "delhi-aqi-above-1-000-and-below-500-at-same-time-conflicting": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
+  "chhattisgarh-man-kills-4-year-old-relative-removes-organs-to": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
     "signature": "",
     "norm": 33.9
   },
-  "motherhood-should-not-come-at-cost-of-women-s-careers-ncw-ch": {
-    "firstSeen": "2026-11-09T06:08:28.607Z",
+  "stalin-criticises-disbanding-of-union-state-relations-commit": {
+    "firstSeen": "2026-11-09T17:24:16.231Z",
     "signature": "",
     "norm": 33.9
   }
