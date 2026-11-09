@@ -1,302 +1,132 @@
 {
-  "-happy-diwali-to-you-know-who-bjp-shares-old-operation-sindo": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "attack|attack|bjp|pakistan|terror|terror|video",
-    "norm": 72.9
+  "6-of-family-killed-after-fire-at-goldsmith-s-house-in-madhya": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "fire|fire|gold|killed|killed",
+    "norm": 78.2
   },
-  "egypt-train-crash-how-a-collision-with-a-stationary-train-le": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "crash|crash|dead|dead|injured",
-    "norm": 68.3
+  "how-a-heated-argument-turned-fatal-for-kolkata-techie-partne": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "attack|attack|death|result|war",
+    "norm": 77
   },
-  "trump-says-us-took-giant-step-back-in-history-after-midterm-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "congress|deal|election|election|mp|trump|trump",
-    "norm": 63.5
+  "-highly-unlikely-trump-on-possibility-of-resumption-of-iran-": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "iran|mp|trump|trump|vote|war",
+    "norm": 76.9
   },
-  "baby-pufferfish-inherit-chemical-defence-from-mothers-to-det": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "defence|mp|threat",
+  "fire-at-building-in-madhya-pradesh-s-katni-on-deepavali-nigh": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "fire|fire|killed|killed|war",
+    "norm": 74.9
+  },
+  "cait-calls-meeting-on-nov-13-says-will-discuss-demand-to-shi": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "bjp|khan|mp|protest|protest",
+    "norm": 73.6
+  },
+  "rubio-warned-trump-admin-about-nvidia-ceo-s-alleged-ties-to-": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "mp|trump|trump|war",
+    "norm": 71.6
+  },
+  "delhi-air-pollution-aap-slams-delhi-govt-for-alleged-air-qua": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "aap|bjp|poll|slam|slams|threat",
+    "norm": 71.1
+  },
+  "car-catches-fire-after-hitting-electric-pole-in-u-p-s-muzaff": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "dead|dead|fire|fire",
+    "norm": 70
+  },
+  "thane-fire-safety-crackdown-rockets-and-aerial-firecrackers-": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "aerial|blaze|fire|fire|mp",
+    "norm": 65.3
+  },
+  "analysis-politics-of-drugs-bjp-looks-to-turn-punjab-aap-s-bi": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "aap|bjp|election|election|mp",
+    "norm": 62.9
+  },
+  "maharashtra-relaxes-borewell-restrictions-till-december-15-t": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "chief minister|maharashtra|minister",
     "norm": 61.4
   },
-  "train-crash-kills-seven-injures-dozens-near-egypt-s-cairo-ci": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "crash|crash|mp",
-    "norm": 61.4
-  },
-  "fire-engulfs-jammu-s-nehru-market-guts-around-12-shops": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "blaze|border|fire|fire",
-    "norm": 58.4
-  },
-  "ssb-jawan-found-dead-while-on-duty-at-india-nepal-border-out": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "border|dead|dead|death",
-    "norm": 58.2
-  },
-  "assam-oil-facility-fire-death-toll-rises-to-four-as-another-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "death|fire|fire|injured|toll",
-    "norm": 58.1
-  },
-  "7-killed-over-100-injured-after-2-trains-collide-in-egypt-s-": {
-    "firstSeen": "2026-11-08T19:37:44.514Z",
-    "signature": "derail|injured|killed|killed",
-    "norm": 56.2
-  },
-  "-dimagi-naxals-instigating-people-against-constitution-pm-mo": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "minister|modi|modi|prime minister|star",
-    "norm": 55.7
-  },
-  "-they-re-a-failing-nation-trump-says-fresh-iran-strikes-high": {
-    "firstSeen": "2026-11-08T19:37:44.514Z",
-    "signature": "iran|mp|trump|trump",
-    "norm": 55.6
-  },
-  "fire-breaks-out-in-building-opposite-thane-s-eternity-mall-d": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "fire|fire|ipl|video|visuals|watch",
-    "norm": 55
-  },
-  "from-naxal-influence-to-expanding-security-footprint-why-did": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "modi|modi|mp|star",
-    "norm": 53.5
-  },
-  "saudi-aramco-building-in-riyadh-damaged-in-attempted-attack": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "attack|attack|mp",
-    "norm": 52.7
-  },
-  "aramco-skyscraper-in-riyadh-damaged-in-attempted-attack-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "attack|attack|mp",
-    "norm": 52.7
-  },
-  "egypt-train-collision-7-dead-many-injured-as-train-derails-a": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "dead|dead|derail|injured",
-    "norm": 52.2
-  },
-  "air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-p": {
-    "firstSeen": "2026-11-08T19:37:44.514Z",
+  "air-pollution-over-66-times-who-limit-in-parts-of-delhi-as-p": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
     "signature": "fire|fire|poll",
-    "norm": 51.5
+    "norm": 61.1
   },
-  "p-t-usha-complains-to-ioa-electoral-officer-over-whatsapp-ca": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "election|election|mp|poll|president|vote",
-    "norm": 49.9
+  "why-mcdonald-s-kfc-and-nestle-are-avoiding-price-hikes-despi": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "inflation|mp|price",
+    "norm": 57.6
   },
-  "minister-agnimitra-paul-says-rose-water-to-be-used-for-mist-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "minister|slam|slams",
-    "norm": 47
+  "phage-therapy-shows-77-success-against-superbugs-global-guid": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "anger|mp",
+    "norm": 55.4
   },
-  "stanford-scientists-build-fingernail-sized-chip-to-separate-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
+  "ohio-man-keeps-premarital-home-after-divorce-wife-ordered-to": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "ruling|war",
+    "norm": 55.4
+  },
+  "bank-holiday-on-diwali-where-banks-are-closed-on-november-9-": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
     "signature": "mp",
     "norm": 45.9
   },
-  "revanth-celebrates-deepavali-with-indiramma-house-beneficiar": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "lakh|minister|mla|mp",
-    "norm": 45.9
-  },
-  "hd-kumaraswamy-claims-ias-officer-paid-bribe-to-stop-transfe": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "iran|minister|mp",
-    "norm": 45.9
-  },
-  "before-trump-s-dana-white-mix-up-there-was-a-2020-four-seaso": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "mp|trump|trump",
-    "norm": 45.9
-  },
-  "eisenkot-open-to-netanyahu-joining-israel-s-next-government": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "cji|israel",
-    "norm": 45.4
-  },
-  "thick-smog-blankets-delhi-on-deepavali-night-aqi-at-20-stati": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "war|warning",
-    "norm": 43.5
-  },
-  "infiltrators-lurking-across-the-border-will-send-them-back-f": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "border|chief minister|congress|minister",
-    "norm": 41.8
-  },
-  "-hegseth-has-got-to-go-democrats-ramp-up-impeachment-push-af": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
+  "kozhikode-police-arrest-man-in-extortion-impersonation-cases": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
     "signature": "mp",
-    "norm": 41
+    "norm": 44
   },
-  "democrats-turn-up-heat-on-hegseth-vow-impeachment-push-after": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "mp",
-    "norm": 41
+  "why-delhi-s-major-air-quality-stations-stopped-showing-data-": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "sudden|surprising",
+    "norm": 44
   },
-  "-jai-shree-ram-chants-diyas-light-up-srinagar-s-lal-chowk-on": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "crowd|photos|row",
-    "norm": 41
+  "aqi-slips-to-severe-in-delhi-mumbai-chennai-wake-up-to-smog-": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "poll",
+    "norm": 44
   },
-  "video-whale-washes-ashore-in-goa-s-mandrem-beach-released-in": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "rescue|rescue|video",
-    "norm": 41
+  "devotees-throng-tawang-monastery-to-pay-respects-to-sacred-r": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "vote",
+    "norm": 44
   },
-  "-red-line-march-brings-amsterdam-to-standstill-as-gaza-outra": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "outrage",
-    "norm": 40.1
+  "dhaka-slums-passed-off-as-new-delhi-inside-the-chinese-lives": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "footage",
+    "norm": 42.7
   },
-  "food-safety-body-seizes-banned-items-worth-rs-82-crore-in-na": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "crore|mp",
-    "norm": 38.6
-  },
-  "diwali-2026-indians-celebrate-festival-with-lights-and-firew": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "fire|fire",
-    "norm": 37.7
-  },
-  "nvidia-ceo-jensen-huang-admits-affair-with-singapore-based-c": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "meet-jacob-14-who-grew-tomato-cart-business-to-7-000-plants": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
+  "modernist-artist-arpita-singh-aged-89-passes-away": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
     "signature": "",
     "norm": 36
   },
-  "rajnath-singh-celebrates-diwali-with-army-at-indo-china-bord": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "army|border|china",
+  "society-expects-women-to-do-everything-but-fails-to-respect-": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
+    "signature": "",
     "norm": 36
   },
-  "19-indian-seafarers-stranded-in-yemen-evacuated-embassy-says": {
-    "firstSeen": "2026-11-08T19:37:44.514Z",
-    "signature": "evacuat",
-    "norm": 35.5
-  },
-  "-bangladeshis-lying-in-wait-suvendu-adhikari-to-security-for": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "border|watch",
-    "norm": 35.1
-  },
-  "woman-spends-110-000-on-home-with-partner-court-rejects-clai": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "ruling|supreme court",
-    "norm": 33.4
-  },
-  "-govt-should-take-concrete-steps-for-our-return-what-displac": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "mp|policy",
-    "norm": 33.4
-  },
-  "first-foreign-astronaut-on-china-s-tiangong-station-will-be-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "china",
-    "norm": 32.8
-  },
-  "from-890-monthly-rent-to-700m-property-empire-jeff-bezos-32-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "far-right-wingnuts-storm-diwali-fest-in-seattle-after-lights": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "storm",
-    "norm": 30.7
-  },
-  "ngt-issues-notice-to-tirunelveli-collector-over-threats-to-t": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "threat",
-    "norm": 30.7
-  },
-  "delhi-gasps-for-breath-after-diwali-aqi-nears-2-000-monday-l": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "record",
-    "norm": 29.2
-  },
-  "delhi-ncr-chokes-on-diwali-night-as-smoke-engulfs-city-aqi-n": {
-    "firstSeen": "2026-11-08T19:37:44.514Z",
-    "signature": "smoke",
-    "norm": 29.2
-  },
-  "uk-hindu-family-takes-legal-action-after-school-objects-to-b": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "high court",
-    "norm": 27.8
-  },
-  "jean-dr-ze-urges-t-n-govt-to-take-strict-action-amid-report-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "mp",
-    "norm": 27.8
-  },
-  "-this-is-not-a-political-book-sonia-gandhi-explains-why-she-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "mp",
-    "norm": 27.8
-  },
-  "nvidia-ceo-admits-affair-with-alice-huang-board-orders-secur": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
+  "katy-perry-s-former-6-5m-hollywood-estate-now-rents-for-275-": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 33.9
   },
-  "amitabh-bachchan-greets-fans-outside-jalsa-without-bulletpro": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "fan",
-    "norm": 25.9
-  },
-  "diwali-haze-pushes-delhi-aqi-to-371-19-monitoring-stations-r": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "record",
-    "norm": 23.9
-  },
-  "delhi-s-air-quality-very-poor-on-diwali-expected-to-worsen": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "record",
-    "norm": 23.9
-  },
-  "delhi-records-very-poor-air-quality-on-diwali-with-376-aqi": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "record",
-    "norm": 23.9
-  },
-  "the-iphone-duo-is-a-great-foldable-phone-the-problem-is-what": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
+  "delhi-aqi-above-1-000-and-below-500-at-same-time-conflicting": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
     "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   },
-  "quordle-hint-today-monday-november-9-clues-and-answers": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
+  "motherhood-should-not-come-at-cost-of-women-s-careers-ncw-ch": {
+    "firstSeen": "2026-11-09T06:08:28.607Z",
     "signature": "",
-    "norm": 21.2
-  },
-  "habitual-offender-arrested-for-murdering-65-year-old-woman-i": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "rajajinagar-murders-two-more-bodies-recovered-near-chamundi-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "delhi-air-quality-turns-very-poor-on-diwali-to-turn-severe-": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "",
-    "norm": 15.1
-  },
-  "probe-everyone-s-involvement-on-irregularities-in-milma-ghee": {
-    "firstSeen": "2026-11-08T23:39:32.845Z",
-    "signature": "",
-    "norm": 15.1
+    "norm": 33.9
   }
 }
