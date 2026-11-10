@@ -1,111 +1,41 @@
 {
-  "ladakh-announces-hill-council-elections-but-fails-to-assuage": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "election|election|poll|protest|protest",
-    "norm": 75.3
-  },
-  "trump-puts-his-chips-on-huang-as-china-spy-storm-gathers-for": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "china|mp|storm|trump|trump",
-    "norm": 72
-  },
-  "meghan-markle-skips-eu-parliament-speech-as-prince-harry-unv": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "deal|emotional|mp|parliament",
+  "us-charges-3-iranian-operatives-over-alleged-terrorist-plot-": {
+    "firstSeen": "2026-11-10T23:12:36.199Z",
+    "signature": "iran|terror|terror",
     "norm": 68
   },
-  "keralam-minister-calls-upon-students-to-join-fight-against-d": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "minister|row|threat|war",
-    "norm": 63.4
+  "-unable-to-manage-fridges-iran-mocks-france-over-supermarket": {
+    "firstSeen": "2026-11-10T23:12:36.199Z",
+    "signature": "attack|attack|iran",
+    "norm": 68
   },
-  "congress-questions-modi-over-delhi-air-pollution-demands-acc": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "congress|modi|modi|poll",
-    "norm": 61.8
-  },
-  "three-persons-convicted-in-26-58-lakh-commercial-tax-fraud-c": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "fraud|lakh|tax",
-    "norm": 59.7
-  },
-  "cyclone-hit-villages-in-prakasam-district-remain-without-ele": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "cyclone|fuel",
+  "iowa-woman-wins-foreclosure-appeal-after-lender-failed-to-no": {
+    "firstSeen": "2026-11-10T23:12:36.199Z",
+    "signature": "row|supreme court",
     "norm": 55.4
   },
-  "national-conference-plans-advisory-councils-of-mlas-to-addre": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "cabinet|minister|mla|policy",
-    "norm": 52.1
+  "bombay-high-court-declines-request-for-hearing-each-day-in-q": {
+    "firstSeen": "2026-11-10T23:12:36.199Z",
+    "signature": "bomb|high court",
+    "norm": 55.4
   },
-  "telangana-to-host-bharat-summit-on-november-13-and-14": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "congress|policy|summit",
-    "norm": 50.9
+  "producers-welcome-proposal-for-minimum-sustainable-price-for": {
+    "firstSeen": "2026-11-10T23:12:36.199Z",
+    "signature": "mp|price",
+    "norm": 53.2
   },
-  "india-us-discuss-customs-and-trade-facilitation-as-both-side": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "deal",
-    "norm": 45.9
+  "meghan-markle-s-father-jailed-again-after-cutting-off-ankle-": {
+    "firstSeen": "2026-11-10T23:12:36.199Z",
+    "signature": "bill|mp",
+    "norm": 48.7
   },
-  "cm-directs-officials-to-strengthen-arguments-in-supreme-cour": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "supreme court",
-    "norm": 44
-  },
-  "onus-on-uttar-pradesh-to-ensure-undertrials-allowed-bail-are": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "supreme court",
-    "norm": 44
-  },
-  "dipke-gets-exemption-from-in-person-appearance-before-magist": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "kerala-psc-chairperson-m-r-baiju-refuses-to-appear-before-cr": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "high court",
-    "norm": 44
-  },
-  "ar-rahman-s-gurugram-concert-postponed-over-unforeseen-circu": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "",
-    "norm": 36
-  },
-  "woman-says-ex-tracked-spending-and-alexa-court-upholds-5-yea": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "",
-    "norm": 36
-  },
-  "gurugram-traffic-policemen-homeguards-to-be-transferred-ever": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "",
-    "norm": 36
-  },
-  "cheating-case-accused-alleges-custodial-torture-ou-police-de": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "",
-    "norm": 36
-  },
-  "delhi-s-aqi-is-severe-but-why-does-the-aqi-number-stop-at-50": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "",
-    "norm": 36
-  },
-  "us-delivers-summonses-for-nsa-ajit-doval-ex-raw-chief-in-law": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
+  "renaissance-painting-unseen-for-70-years-identified-as-rare-": {
+    "firstSeen": "2026-11-10T23:12:36.199Z",
     "signature": "",
     "norm": 33.9
   },
-  "apsche-to-launch-digital-platform-to-offer-quality-online-ed": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "abhiram-murder-personal-enmity-behind-the-crime-says-prime-a": {
-    "firstSeen": "2026-11-10T17:42:37.872Z",
+  "hawaii-court-to-hear-whether-two-zoo-elephants-can-challenge": {
+    "firstSeen": "2026-11-10T23:12:36.199Z",
     "signature": "",
     "norm": 33.9
   }
