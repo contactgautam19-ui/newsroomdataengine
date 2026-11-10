@@ -1,146 +1,41 @@
 {
-  "bengaluru-firecracker-injuries-threaten-vision-two-infants-a": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "fan|fire|fire|hospital|threat",
-    "norm": 75
+  "12-killed-in-separate-overnight-madhya-pradesh-fires": {
+    "firstSeen": "2026-11-10T01:27:38.467Z",
+    "signature": "blaze|fire|fire|killed|killed|mp",
+    "norm": 78.8
   },
-  "pm-modi-speaks-with-zelenskyy-reaffirms-india-s-support-for-": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "diplomacy|ipl|modi|modi|war",
-    "norm": 75
+  "us-iran-war-live-trump-says-iran-war-effectively-over-after-": {
+    "firstSeen": "2026-11-10T01:27:38.467Z",
+    "signature": "iran|mp|trump|trump|war",
+    "norm": 76.5
   },
-  "white-house-on-temporary-lockdown-after-car-crashes-into-sig": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "crash|crash|mp|smoke|video",
-    "norm": 72
+  "-it-s-ridiculous-ex-india-coach-questions-yashasvi-jaiswal-s": {
+    "firstSeen": "2026-11-10T01:27:38.467Z",
+    "signature": "match|mp|record|star|world cup",
+    "norm": 74.6
   },
-  "akhilesh-s-proposed-ayodhya-visit-to-broaden-his-pda-outreac": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "ayodhya|bjp|mp|row",
-    "norm": 70
-  },
-  "pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-mosc": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "ipl|jaishankar|minister|modi|modi|president",
-    "norm": 69.6
-  },
-  "karnataka-govt-stands-by-report-of-over-20-ethanol-in-petrol": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "minister|mp|petrol|petrol",
-    "norm": 68
-  },
-  "six-including-sarpanch-injured-in-stray-dog-attack-in-rekond": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "attack|attack|injured",
-    "norm": 62.9
-  },
-  "legal-awareness-rally-held-to-mark-national-legal-services-d": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "rally|rally|war",
-    "norm": 62.8
-  },
-  "13-years-on-delhi-police-serve-notice-on-mamata-banerjee-in-": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "mamata|protest|protest",
-    "norm": 62.8
-  },
-  "karnataka-high-court-issues-guidelines-to-bmrcl-for-ensuring": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "high court|lakh|mp|policy",
-    "norm": 59.7
-  },
-  "keralam-excise-dept-bans-issuance-of-new-liquor-licences-unt": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "policy|row",
-    "norm": 57.1
-  },
-  "post-diwali-air-pollution-adds-to-respiratory-distress-noida": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "hospital|poll",
+  "little-real-contact-with-modi-but-there-is-some-common-groun": {
+    "firstSeen": "2026-11-10T01:27:38.467Z",
+    "signature": "modi|modi",
     "norm": 55.4
   },
-  "bihar-govt-bans-firecrackers-private-boat-operations-near-gh": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "fire|fire",
-    "norm": 52.4
+  "demand-grows-for-alternative-greenfield-road-corridors-to-in": {
+    "firstSeen": "2026-11-10T01:27:38.467Z",
+    "signature": "mp|row",
+    "norm": 55.4
   },
-  "punjab-haryana-report-4-500-farm-fires-nasa-scientist-gives-": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "fire|fire",
-    "norm": 52.4
-  },
-  "n-ram-on-his-interview-with-sonia-gandhi": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "bjp|congress|mp|president",
-    "norm": 52.1
-  },
-  "telangana-high-court-sentences-ranga-reddy-collector-to-six-": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "high court|mp",
-    "norm": 48.7
-  },
-  "alabama-neighbourhood-opens-1m-grocery-store-after-nearly-70": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "row",
-    "norm": 46.3
-  },
-  "four-acres-of-encroached-land-reclaimed-in-ballari-task-forc": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "at-peak-of-air-pollution-on-deepavali-night-data-goes-missin": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "poll",
-    "norm": 45.9
-  },
-  "bengaluru-to-host-first-meet-of-commonwealth-women-parliamen": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "parliament",
-    "norm": 45.9
-  },
-  "remain-accessible-to-people-visakhapatnam-mp-tells-corporato": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "srisailam-gears-up-for-karthika-masam-festivities-from-novem": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
+  "kochi-corporation-plans-water-security-assessment-to-strengt": {
+    "firstSeen": "2026-11-10T01:27:38.467Z",
     "signature": "mp",
     "norm": 44
   },
-  "man-kills-4-year-old-to-sell-his-organs-after-watching-video": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "video|watch",
-    "norm": 44
-  },
-  "a-p-cities-record-dip-in-aqi-after-deepavali-visakhapatnam-w": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "record",
-    "norm": 40.7
-  },
-  "sydney-beachfront-home-bought-for-a-29m-up-from-a-7-65m-in-2": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "record",
-    "norm": 40.7
-  },
-  "police-mull-joint-interrogation-of-accused-in-abhiram-murder": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "",
-    "norm": 36
-  },
-  "karnataka-cm-to-hold-meeting-next-week-on-issues-faced-by-mi": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
+  "gujarati-new-year-2026-bestu-varas-wishes-images-messages-an": {
+    "firstSeen": "2026-11-10T01:27:38.467Z",
     "signature": "",
     "norm": 33.9
   },
-  "chhattisgarh-man-kills-4-year-old-relative-removes-organs-to": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "stalin-criticises-disbanding-of-union-state-relations-commit": {
-    "firstSeen": "2026-11-09T17:24:16.231Z",
+  "robbie-williams-transforms-40m-florida-mansion-with-music-st": {
+    "firstSeen": "2026-11-10T01:27:38.467Z",
     "signature": "",
     "norm": 33.9
   }
