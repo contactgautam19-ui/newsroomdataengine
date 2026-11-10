@@ -1,41 +1,196 @@
 {
-  "12-killed-in-separate-overnight-madhya-pradesh-fires": {
-    "firstSeen": "2026-11-10T01:27:38.467Z",
-    "signature": "blaze|fire|fire|killed|killed|mp",
-    "norm": 78.8
+  "-fans-have-not-moved-on-clarke-joins-sandpapergate-storm-as-": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "cricket|fan|mp|storm|war",
+    "norm": 83.8
   },
-  "us-iran-war-live-trump-says-iran-war-effectively-over-after-": {
-    "firstSeen": "2026-11-10T01:27:38.467Z",
-    "signature": "iran|mp|trump|trump|war",
-    "norm": 76.5
+  "kargil-shuts-down-over-lahdc-poll-schedule-protesters-demand": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "election|election|poll|protest|protest",
+    "norm": 76.8
   },
-  "-it-s-ridiculous-ex-india-coach-questions-yashasvi-jaiswal-s": {
-    "firstSeen": "2026-11-10T01:27:38.467Z",
-    "signature": "match|mp|record|star|world cup",
-    "norm": 74.6
+  "-will-congress-ever-apologise-akali-dal-reacts-after-sonia-g": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "congress|controversy|minister|prime minister|riot|star",
+    "norm": 73.7
   },
-  "little-real-contact-with-modi-but-there-is-some-common-groun": {
-    "firstSeen": "2026-11-10T01:27:38.467Z",
-    "signature": "modi|modi",
+  "rahul-gandhi-challenges-pm-modi-to-open-debate-after-intelle": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "bjp|congress|minister|modi|modi|opposition|prime minister|rahul gandhi|star",
+    "norm": 72.1
+  },
+  "fresh-vande-mataram-row-in-keralam-as-health-minister-return": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "bjp|hijack|minister|row",
+    "norm": 71.6
+  },
+  "sonia-gandhi-s-memoir-belonging-sparks-bjp-row-reveals-why-s": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "bjp|row|storm",
+    "norm": 67.6
+  },
+  "police-sub-inspector-shoots-at-history-sheeter-for-attacking": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "attack|attack|hospital",
+    "norm": 62.9
+  },
+  "does-the-temple-wearable-reveal-useful-information-about-bra": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "bill|billion|mp",
+    "norm": 59.3
+  },
+  "andhra-government-expected-to-make-significant-allocations-f": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "budget|crore|sanction",
+    "norm": 59.3
+  },
+  "farmers-demand-uniform-4-200-sugarcane-rate-across-maharasht": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "lakh|maharashtra",
+    "norm": 57.1
+  },
+  "india-u-s-vow-to-jointly-act-against-emerging-drug-threats": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "policy|threat",
     "norm": 55.4
   },
-  "demand-grows-for-alternative-greenfield-road-corridors-to-in": {
-    "firstSeen": "2026-11-10T01:27:38.467Z",
-    "signature": "mp|row",
+  "cyclones-arnab-and-murasu-damaged-crops-on-4-61-lakh-hectare": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "cyclone|lakh",
     "norm": 55.4
   },
-  "kochi-corporation-plans-water-security-assessment-to-strengt": {
-    "firstSeen": "2026-11-10T01:27:38.467Z",
+  "oklahoma-family-s-10-000-acre-ranch-wins-landowner-of-the-ye": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "mp|war",
+    "norm": 55.4
+  },
+  "telangana-rtc-to-improve-passenger-information-services-secu": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "cctv|mp",
+    "norm": 52
+  },
+  "-namo-yamuna-river-safari-launched-in-delhi-in-bid-to-boost-": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "chief minister|minister|mp",
+    "norm": 50.9
+  },
+  "dmk-leader-stalin-criticises-disbanding-of-union-state-relat": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "chief minister|minister",
+    "norm": 50.5
+  },
+  "congress-to-host-second-bharat-summit-in-hyderabad-from-nov-": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "congress|summit",
+    "norm": 50.5
+  },
+  "andhra-teachers-associations-flag-anomalies-in-new-service-r": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "mp|president",
+    "norm": 48.7
+  },
+  "telangana-high-court-sentences-ranga-reddy-collector-to-six-": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "high court|mp",
+    "norm": 48.7
+  },
+  "new-cyclone-on-the-way-fresh-low-pressure-area-likely-over-b": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "cyclone",
+    "norm": 48.2
+  },
+  "sonia-gandhi-s-belonging-what-is-the-controversy-over-its-pu": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "controversy",
+    "norm": 48.2
+  },
+  "hyderabad-gears-up-for-chhath-puja-from-november-13-16-2026": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "disaster",
+    "norm": 48.2
+  },
+  "-merger-can-t-happen-without-us-cm-fadnavis-after-ncp-leader": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "beyond-lucknow-kanpur-are-smaller-up-towns-becoming-india-s-": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "poll",
+    "norm": 45.9
+  },
+  "delhi-cm-rekha-gupta-launches-namo-yamuna-river-safari-at-so": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
     "signature": "mp",
+    "norm": 45.9
+  },
+  "-i-d-always-disliked-politics-an-excerpt-from-sonia-gandhi-s": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "congress",
     "norm": 44
   },
-  "gujarati-new-year-2026-bestu-varas-wishes-images-messages-an": {
-    "firstSeen": "2026-11-10T01:27:38.467Z",
+  "-where-i-truly-belong-sonia-gandhi-on-her-memoir-belonging-a": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "congress",
+    "norm": 44
+  },
+  "china-weighs-export-restrictions-will-rooftop-solar-get-cost": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "china",
+    "norm": 44
+  },
+  "society-tag-can-t-shield-govt-controlled-bodies-from-constit": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "supreme court",
+    "norm": 44
+  },
+  "record-global-heat-rising-climate-risks-finance-tensions-dom": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "record",
+    "norm": 42.7
+  },
+  "pannun-s-civil-lawsuit-u-s-state-department-formally-serves-": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "",
+    "norm": 36
+  },
+  "retired-govt-officials-come-under-purview-of-model-code-rest": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "",
+    "norm": 36
+  },
+  "germany-and-ireland-emerge-as-preferred-destinations-for-hig": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "",
+    "norm": 36
+  },
+  "oxford-university-returns-remains-of-39-naga-people-after-mo": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
     "signature": "",
     "norm": 33.9
   },
-  "robbie-williams-transforms-40m-florida-mansion-with-music-st": {
-    "firstSeen": "2026-11-10T01:27:38.467Z",
+  "28-day-challenge-a-heart-scan-made-me-give-up-everything-i-l": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "u-s-healthcare-tech-firm-opens-ai-engineering-centre-in-hyde": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "census-2027-phase-ii-dates-in-telangana-announced-self-enume": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-is-it-a-crime-to-be-ambitious-pranab-mukherjee-s-daughter-h": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "nvidia-ceo-s-chinese-spy-scandal-raises-a-big-question-who-c": {
+    "firstSeen": "2026-11-10T09:39:56.736Z",
     "signature": "",
     "norm": 33.9
   }
