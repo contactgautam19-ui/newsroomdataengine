@@ -1,41 +1,146 @@
 {
-  "us-charges-3-iranian-operatives-over-alleged-terrorist-plot-": {
-    "firstSeen": "2026-11-10T23:12:36.199Z",
-    "signature": "iran|terror|terror",
-    "norm": 68
+  "-ramayana-movie-battle-sequence-triggers-viral-interest-in-k": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "movie|trending|viral|viral|viral|war",
+    "norm": 79.8
   },
-  "-unable-to-manage-fridges-iran-mocks-france-over-supermarket": {
-    "firstSeen": "2026-11-10T23:12:36.199Z",
-    "signature": "attack|attack|iran",
-    "norm": 68
+  "-kuchh-kaam-nahi-kar-raha-video-captures-horror-before-saira": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "derail|horror|injured|iran|video",
+    "norm": 79.7
   },
-  "iowa-woman-wins-foreclosure-appeal-after-lender-failed-to-no": {
-    "firstSeen": "2026-11-10T23:12:36.199Z",
-    "signature": "row|supreme court",
+  "why-ladakh-polls-announcement-fails-to-cut-ice-with-protesti": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "election|election|poll|protest|protest",
+    "norm": 76.8
+  },
+  "-preserve-amputated-leg-of-chainsaw-attack-accused-andhra-pr": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "attack|attack|high court|hospital|mp",
+    "norm": 75
+  },
+  "vijay-to-meet-tvk-mlas-today-as-government-completes-6-month": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "attack|attack|mla|mp|opposition",
+    "norm": 73.6
+  },
+  "keralam-minister-s-claim-on-muslim-youth-league-s-role-in-ne": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "israel|massacre|minister",
+    "norm": 67.6
+  },
+  "pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-wr": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "congress|president|shock|shock",
+    "norm": 65.3
+  },
+  "russian-paraglider-trapped-in-power-lines-rescued-in-himacha": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "bill|rescue|rescue",
+    "norm": 62.8
+  },
+  "-factually-flawed-sonia-gandhi-s-memoir-faces-flak-for-unfil": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "attack|attack",
+    "norm": 59.3
+  },
+  "several-coaches-of-sairang-kolkata-express-train-derail-at-d": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "derail|iran",
+    "norm": 59.3
+  },
+  "rss-activist-seeks-fir-against-karnataka-home-minister-priya": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "minister|mp|rbi",
+    "norm": 59.3
+  },
+  "assam-train-derailment-live-updates-six-coaches-of-sairang-k": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "derail|iran",
+    "norm": 59.3
+  },
+  "-if-akhilesh-comes-to-power-he-will-have-namaz-offered-in-ra": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "minister|ram mandir",
     "norm": 55.4
   },
-  "bombay-high-court-declines-request-for-hearing-each-day-in-q": {
-    "firstSeen": "2026-11-10T23:12:36.199Z",
-    "signature": "bomb|high court",
+  "watch-russian-paraglider-gets-stuck-in-high-tension-wires-15": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "rescue|rescue|watch",
     "norm": 55.4
   },
-  "producers-welcome-proposal-for-minimum-sustainable-price-for": {
-    "firstSeen": "2026-11-10T23:12:36.199Z",
-    "signature": "mp|price",
-    "norm": 53.2
+  "low-pressure-likely-over-andaman-sea-around-november-13": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "mp|weather",
+    "norm": 55.4
   },
-  "meghan-markle-s-father-jailed-again-after-cutting-off-ankle-": {
-    "firstSeen": "2026-11-10T23:12:36.199Z",
-    "signature": "bill|mp",
-    "norm": 48.7
+  "-7-from-my-family-were-burnt-alive-1984-survivor-says-sonia-": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "riot|war",
+    "norm": 53.9
   },
-  "renaissance-painting-unseen-for-70-years-identified-as-rare-": {
-    "firstSeen": "2026-11-10T23:12:36.199Z",
+  "mother-dairy-hikes-rate-by-rs-2-4-per-litre-from-thursday-ch": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "price|prices",
+    "norm": 50.5
+  },
+  "kangana-ranaut-targets-sonia-gandhi-revisits-maneka-s-bitter": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "death",
+    "norm": 48.2
+  },
+  "priyanka-gandhi-to-inaugurate-projects-review-development-wo": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "ipl-trades-so-far-from-pant-s-return-to-dc-to-hardik-arshdee": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "ipl",
+    "norm": 46.3
+  },
+  "madras-first-weaver-village": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "governor",
+    "norm": 45.9
+  },
+  "rupee-rises-7-paise-to-93-70-against-us-dollar-as-foreign-in": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "rupee",
+    "norm": 44
+  },
+  "delhi-air-quality-deteriorates-aqi-settles-at-303": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "poll",
+    "norm": 44
+  },
+  "mamata-banerjee-s-brother-showers-praise-on-west-bengal-cm-s": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "mamata",
+    "norm": 44
+  },
+  "ex-acting-us-attorney-to-probe-nvidia-ceo-s-affair-with-alle": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "governor",
+    "norm": 44
+  },
+  "17-year-old-accused-in-bengaluru-family-murders-may-face-adu": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "",
+    "norm": 36
+  },
+  "4-year-old-girl-raped-in-goa-bihar-native-arrested-2nd-such-": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-got-rid-of-her-like-garbage-nepali-american-man-convicted-o": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
     "signature": "",
     "norm": 33.9
   },
-  "hawaii-court-to-hear-whether-two-zoo-elephants-can-challenge": {
-    "firstSeen": "2026-11-10T23:12:36.199Z",
+  "indian-origin-man-who-confessed-to-dismembering-wife-in-us-f": {
+    "firstSeen": "2026-11-11T05:59:21.525Z",
     "signature": "",
     "norm": 33.9
   }
