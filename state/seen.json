@@ -1,146 +1,201 @@
 {
-  "-ramayana-movie-battle-sequence-triggers-viral-interest-in-k": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "movie|trending|viral|viral|viral|war",
-    "norm": 79.8
+  "india-pacer-arshdeep-samreen-get-engaged-in-new-zealand-pics": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "actor|instagram|ipl|pictures|viral|viral|viral",
+    "norm": 80.7
   },
-  "-kuchh-kaam-nahi-kar-raha-video-captures-horror-before-saira": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "derail|horror|injured|iran|video",
-    "norm": 79.7
+  "300-schools-in-italy-evacuated-after-bomb-threat-emails-from": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "alert|bomb|evacuat|threat|war",
+    "norm": 70.5
+  },
+  "amul-milk-prices-to-go-up-by-rs-2-4-per-litre-from-tomorrow": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "mp|price|prices|row",
+    "norm": 69.6
   },
   "why-ladakh-polls-announcement-fails-to-cut-ice-with-protesti": {
     "firstSeen": "2026-11-11T05:59:21.525Z",
     "signature": "election|election|poll|protest|protest",
-    "norm": 76.8
+    "norm": 68.3
   },
-  "-preserve-amputated-leg-of-chainsaw-attack-accused-andhra-pr": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "attack|attack|high court|hospital|mp",
-    "norm": 75
+  "-pollution-from-crackers-will-be-mitigated-yogi-adityanath-b": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "fire|fire|mp|poll|yogi",
+    "norm": 67.3
   },
-  "vijay-to-meet-tvk-mlas-today-as-government-completes-6-month": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "attack|attack|mla|mp|opposition",
-    "norm": 73.6
+  "4-coaches-of-chauri-chaura-express-derail-at-kanpur-central-": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "derail|injured|killed|killed",
+    "norm": 67.1
   },
-  "keralam-minister-s-claim-on-muslim-youth-league-s-role-in-ne": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "israel|massacre|minister",
-    "norm": 67.6
-  },
-  "pranab-mukherjee-hinted-at-desire-to-become-pm-shocked-me-wr": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "congress|president|shock|shock",
+  "bjp-mla-under-fire-for-remarks-on-tripura-s-indigenous-peopl": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "bjp|fire|fire|mla",
     "norm": 65.3
   },
-  "russian-paraglider-trapped-in-power-lines-rescued-in-himacha": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "bill|rescue|rescue",
-    "norm": 62.8
+  "kolkata-sairang-express-derails-a-day-after-northeast-fronti": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "alert|derail|iran",
+    "norm": 64.5
   },
-  "-factually-flawed-sonia-gandhi-s-memoir-faces-flak-for-unfil": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "attack|attack",
-    "norm": 59.3
+  "cpi-m-seeks-reimbursement-of-poll-expenses-staff-allowances": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "election|election|election commission|poll",
+    "norm": 63.5
   },
-  "several-coaches-of-sairang-kolkata-express-train-derail-at-d": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "derail|iran",
-    "norm": 59.3
+  "okram-ibobi-singh-gets-big-role-as-congress-gears-up-for-202": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "congress|election|election|poll",
+    "norm": 63.5
   },
-  "rss-activist-seeks-fir-against-karnataka-home-minister-priya": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "minister|mp|rbi",
-    "norm": 59.3
+  "demonetisation-cement-trader-deposited-rs-14-74-lakh-gets-no": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "lakh|mp|tax",
+    "norm": 57.6
   },
-  "assam-train-derailment-live-updates-six-coaches-of-sairang-k": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "derail|iran",
-    "norm": 59.3
+  "alice-huang-s-china-connections-a-financier-s-scandals-and-t": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "cctv|china|star",
+    "norm": 57.6
   },
-  "-if-akhilesh-comes-to-power-he-will-have-namaz-offered-in-ra": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "minister|ram mandir",
+  "san-jose-neighbour-sued-autistic-boy-11-over-noise-family-wi": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "mp|war",
     "norm": 55.4
   },
-  "watch-russian-paraglider-gets-stuck-in-high-tension-wires-15": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "rescue|rescue|watch",
-    "norm": 55.4
-  },
-  "low-pressure-likely-over-andaman-sea-around-november-13": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "mp|weather",
-    "norm": 55.4
-  },
-  "-7-from-my-family-were-burnt-alive-1984-survivor-says-sonia-": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "riot|war",
+  "uttam-slams-brs-for-using-drought-as-a-political-tool": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "slam|slams",
     "norm": 53.9
   },
-  "mother-dairy-hikes-rate-by-rs-2-4-per-litre-from-thursday-ch": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
+  "hasanamba-festival-concludes-more-than-30-lakh-visitors-in-1": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "crore|lakh",
+    "norm": 50.5
+  },
+  "amul-raises-milk-prices-by-2-4-per-litre-effective-from-nove": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
     "signature": "price|prices",
     "norm": 50.5
   },
-  "kangana-ranaut-targets-sonia-gandhi-revisits-maneka-s-bitter": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "death",
+  "amul-announces-milk-price-hike-by-rs-2-4-per-litre-check-rev": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "fuel|price",
+    "norm": 48.7
+  },
+  "jimmy-carter-s-georgia-family-farm-joins-nearly-2-500-acre-c": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "acquisition|fund",
+    "norm": 48.7
+  },
+  "51-year-old-woman-undergoes-mechanical-mitral-valve-replacem": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "hospital",
     "norm": 48.2
   },
-  "priyanka-gandhi-to-inaugurate-projects-review-development-wo": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "war",
+  "gang-rape-survivor-thrown-off-roof-in-bihar-s-begusarai": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "france-fears-german-long-range-missiles-could-trigger-nuclea": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "fear",
     "norm": 46.3
   },
-  "ipl-trades-so-far-from-pant-s-return-to-dc-to-hardik-arshdee": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "ipl",
-    "norm": 46.3
-  },
-  "madras-first-weaver-village": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "governor",
+  "noida-greater-noida-schools-turn-to-hybrid-mode-for-up-to-cl": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "poll",
     "norm": 45.9
   },
-  "rupee-rises-7-paise-to-93-70-against-us-dollar-as-foreign-in": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "rupee",
+  "keralam-government-rolls-out-drought-preparedness-measures-a": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "mla",
+    "norm": 45.9
+  },
+  "-kanheri-seer-should-tender-apology-over-his-remarks-on-cons": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "president",
+    "norm": 45.9
+  },
+  "yadgir-farmers-who-received-less-than-the-announced-compensa": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "six-arrested-for-murder-of-two-minor-boys-at-samayapuram-nea": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "andhra-pradesh-seeks-wider-partnership-with-singapore-beyond": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "minister",
+    "norm": 45.9
+  },
+  "multi-agency-coastal-defence-exercise-sea-vigil-26-begins": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "defence",
+    "norm": 45.9
+  },
+  "govt-intensifies-efforts-to-introduce-x-ii-education-system-": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "star",
+    "norm": 44.3
+  },
+  "sonia-gandhi-loves-gujarati-bengali-food-can-t-go-a-day-with": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "mp",
     "norm": 44
   },
-  "delhi-air-quality-deteriorates-aqi-settles-at-303": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "poll",
-    "norm": 44
-  },
-  "mamata-banerjee-s-brother-showers-praise-on-west-bengal-cm-s": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "mamata",
-    "norm": 44
-  },
-  "ex-acting-us-attorney-to-probe-nvidia-ceo-s-affair-with-alle": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
-    "signature": "governor",
-    "norm": 44
-  },
-  "17-year-old-accused-in-bengaluru-family-murders-may-face-adu": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
+  "state-to-pursue-official-recognition-for-kannada-flag-langua": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
     "signature": "",
     "norm": 36
   },
-  "4-year-old-girl-raped-in-goa-bihar-native-arrested-2nd-such-": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
+  "bengaluru-mangaluru-goa-vande-bharat-express-users-may-pay-n": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
     "signature": "",
     "norm": 36
   },
-  "-got-rid-of-her-like-garbage-nepali-american-man-convicted-o": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
+  "bengaluru-police-use-ai-to-assess-112-emergency-response": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "",
+    "norm": 36
+  },
+  "navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runner": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "",
+    "norm": 36
+  },
+  "science-fair-in-tikota-on-saturday": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "",
+    "norm": 36
+  },
+  "here-are-the-big-stories-from-karnataka-today": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "",
+    "norm": 36
+  },
+  "odisha-signs-friendship-agreement-with-japan-s-tottori-prefe": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "",
+    "norm": 36
+  },
+  "-chicken-tikka-dal-makhni-kashmiri-kofta-sonia-gandhi-loves-": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
+    "signature": "",
+    "norm": 36
+  },
+  "noida-metro-gets-major-expansion-plan-five-stations-to-link-": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
     "signature": "",
     "norm": 33.9
   },
-  "indian-origin-man-who-confessed-to-dismembering-wife-in-us-f": {
-    "firstSeen": "2026-11-11T05:59:21.525Z",
+  "ghaziabad-orders-hybrid-classes-for-students-up-to-class-5-a": {
+    "firstSeen": "2026-11-11T14:05:45.638Z",
     "signature": "",
     "norm": 33.9
   }
