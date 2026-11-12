@@ -1,302 +1,102 @@
 {
-  "-america-did-not-start-this-trump-defends-war-with-iran": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "iran|mp|star|trump|trump|war",
-    "norm": 79.1
+  "dehradun-elephant-attack-wild-elephant-charges-at-biker-near": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "attack|attack|caught on camera|shock|shock|shocking|video|watch",
+    "norm": 81.5
   },
-  "-america-did-not-start-iran-war-trump-says-wants-to-have-tot": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "iran|mp|star|trump|trump|war",
-    "norm": 79.1
+  "newer-stricter-puc-norms-likely-including-digitally-signed-r": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "result|results|results|war",
+    "norm": 65.5
   },
-  "punjab-cop-faces-probe-after-viral-video-shows-heroin-found-": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "mp|video|viral|viral|viral|viral video",
-    "norm": 71.9
+  "former-west-bengal-minister-ujjal-biswas-dies-at-72": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "cabinet|chief minister|death|mamata|minister",
+    "norm": 62.9
   },
-  "terrorists-opened-fire-in-kulgam-how-alert-crpf-jawan-averte": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "alert|attack|attack|fire|fire|injured|terror|terror|tragedy",
-    "norm": 71.4
+  "ladakh-activists-seek-to-postpone-december-4-council-polls-c": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "alliance|election|election|poll|vote",
+    "norm": 62.9
   },
-  "-is-sex-available-rapido-driver-asked-woman-company-responds": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "captain|mp|viral|viral|viral",
-    "norm": 69.2
-  },
-  "iran-attacks-shipping-navigation-systems-on-oman-s-didamar-i": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "attack|attack|iran|mp",
-    "norm": 67.2
-  },
-  "psychology-says-constant-scrolling-before-work-may-be-a-form": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "mp|rally|rally|war",
-    "norm": 62.8
-  },
-  "green-energy-push-helped-india-save-100bn-over-last-15-yrs-i": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "bill|billion|mp|row",
-    "norm": 62.7
-  },
-  "two-special-police-officers-go-missing-in-j-k-s-kishtwar-gun": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "army|terror|terror|war",
-    "norm": 62
-  },
-  "israel-s-eisenkot-urges-netanyahu-to-exercise-prudence-on-se": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "iran|israel|threat",
-    "norm": 57.4
-  },
-  "confident-of-trade-pact-ahead-of-pm-modi-s-trip-canada-envoy": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "minister|modi|modi|mp|prime minister",
-    "norm": 57.4
-  },
-  "karnataka-minister-eshwar-khandre-asks-officials-to-blacklis": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "khan|minister|war",
-    "norm": 57
-  },
-  "noida-man-falls-to-death-while-paragliding-in-himachal-s-bir": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "accident|bill|death",
-    "norm": 56.7
-  },
-  "amul-milk-prices-to-go-up-by-rs-2-4-per-litre-from-today": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "mp|price|prices",
-    "norm": 55
-  },
-  "myl-rally-in-keralam-s-kochi-contempt-of-court-plea-filed-be": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "high court|mp|rally|rally",
-    "norm": 54.2
-  },
-  "cong-mp-angomcha-bimol-akoijam-in-sex-abuse-row-on-manipur-p": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "mp|poll|row",
-    "norm": 54.1
-  },
-  "daughter-of-cheranalloor-accident-victim-files-review-petiti": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "accident|high court",
-    "norm": 52.7
-  },
-  "dalit-muslim-unity-pitch-in-up-owaisi-chandrashekhar-azad-li": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "alliance|election|election|poll",
-    "norm": 52.3
-  },
-  "delhi-boy-falls-into-sewer-dismembered-body-found-in-water-t": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "disaster|fire|fire",
-    "norm": 52.2
-  },
-  "earthquake-of-magnitude-3-9-strikes-shimla-no-damage-reporte": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "earthquake|earthquake|mla",
-    "norm": 51.5
-  },
-  "sc-indians-married-here-can-t-get-divorced-abroad": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "mp|ruling|supreme court",
-    "norm": 50.9
-  },
-  "no-rain-no-relief-weather-chief-dashes-pollution-hit-delhi-s": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "poll|weather",
-    "norm": 49.6
-  },
-  "swachh-survekshan-guntur-wins-super-swachh-league-award": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "lakh|war",
-    "norm": 49.6
-  },
-  "anti-sterlite-protests-cm-orders-5-25-cr-additional-relief-t": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "protest|protest",
-    "norm": 46.5
-  },
-  "low-pressure-area-likely-to-form-over-bay-of-bengal-ease-rai": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "watch|weather",
-    "norm": 46.5
-  },
-  "texas-estate-in-forged-deed-dispute-allowed-to-drop-claims-a": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "ruling",
-    "norm": 45.9
-  },
-  "keralam-government-centralising-power-in-chief-minister-s-of": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "chief minister|minister",
-    "norm": 45.9
-  },
-  "complete-data-could-ve-raised-average-diwali-pollution-level": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "mp|poll",
-    "norm": 45.9
-  },
-  "consultations-with-governor-ongoing-to-arrive-at-agreement-o": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "governor|minister",
-    "norm": 45.9
-  },
-  "cusat-syndicate-member-approaches-kerala-high-court-against-": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "high court|mp",
-    "norm": 45.9
-  },
-  "madras-high-court-reserves-orders-in-cases-challenging-ngt-s": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "high court|verdict",
-    "norm": 45.9
-  },
-  "russia-s-ambassador-to-us-alexander-darchiev-dies-suddenly-a": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "ipl|sudden|suddenly",
-    "norm": 45.4
-  },
-  "how-chinese-spies-used-sex-and-secret-affairs-to-target-us-t": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
+  "who-is-kimberly-powell-nvidia-executive-who-had-affair-with-": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
     "signature": "mp|war",
-    "norm": 45.4
+    "norm": 55.4
   },
-  "two-special-police-officers-go-missing-in-j-k-s-kishtwar-sea": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "army|war",
-    "norm": 45.4
+  "direct-tax-collections-rise-14-to-17-5l-cr": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "mp|tax",
+    "norm": 53.2
   },
-  "zelensky-sees-window-of-opportunity-for-war-talks-breakthrou": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "war",
-    "norm": 43.5
+  "nvidia-board-issues-another-statement-2-days-after-saying-no": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "mp|surprising",
+    "norm": 50.2
   },
-  "on-diwali-why-worry-about-bad-air-it-ll-improve-on-own-yogi-": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "mp|yogi",
-    "norm": 42.5
+  "-we-are-looking-at-hardik-pandya-as-a-long-term-investment-n": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "cricket",
+    "norm": 48.2
   },
-  "dalit-muslim-unity-pitch-in-up-as-asaduddin-owaisi-chandrash": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "bjp|mp|opposition|ruling",
-    "norm": 41.8
+  "gorakhpur-bound-train-derails-in-kanpur-no-casualties": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "derail",
+    "norm": 46.3
   },
-  "kerala-high-court-orders-government-to-ready-adequate-medici": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "high court",
-    "norm": 41
+  "keralam-police-arrest-road-accident-accused-after-16-years-o": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "accident",
+    "norm": 46.3
   },
-  "norwegian-journalist-helle-lyng-says-she-has-been-stopped-fr": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "summit",
-    "norm": 41
+  "iit-bhu-grad-s-project-helps-50-000-farmers-earn-from-solar-": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "saudi-arabia-intercepts-houthi-missiles-drones-group-denies-": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "drone",
+  "rs-80-lakh-cash-seized-from-car-in-indore-2-detained": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "lakh",
+    "norm": 44
+  },
+  "delhi-aqi-today-national-capital-remains-blanketed-by-smog-a": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
+    "signature": "record",
     "norm": 40.7
   },
-  "-chain-down-tyres-punctured-charanjit-channi-s-cycle-yatra-r": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "congress|president",
-    "norm": 38
-  },
-  "third-front-in-up-polls-owaisi-azad-likely-to-announce-allia": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "alliance|poll",
-    "norm": 38
-  },
-  "rbi-issues-domestic-transfer-norms-walk-in-customers-can-sen": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "fund|rbi",
-    "norm": 38
-  },
-  "mp-alleges-intelligence-failure-over-nanjangud-drug-racket": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "cm-naidu-urges-singapore-to-focus-on-integrated-model-townsh": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "hc-directs-malkajgiri-police-commissioner-to-ensure-presence": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "mp",
-    "norm": 37.5
-  },
-  "-no-media-fights-no-public-controversies-tamil-nadu-cm-vijay": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
+  "telangana-to-introduce-10-2-system-in-all-state-run-schools-": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
     "signature": "",
     "norm": 36
   },
-  "video-cop-dragged-200-metres-by-car-with-fake-number-plate-i": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "cctv|footage|video",
-    "norm": 34.6
-  },
-  "vijay-orders-rs-5-25-crore-additional-relief-for-sterlite-fi": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "crore",
-    "norm": 32.8
-  },
-  "great-trigonometrical-survey-stations-in-tamil-nadu-document": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
+  "national-tribal-literary-festival-begins-today-in-delhi": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 36
   },
-  "cochin-shipyard-sfo-technologies-jointly-develop-sophisticat": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
+  "delhi-govt-plans-ai-overhaul-of-e-district-system": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 33.9
   },
-  "ohio-co-owners-split-property-sale-171-635-to-23-161-court-r": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
+  "ntr-health-university-scrutinises-1-622-applications-for-ug-": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 33.9
   },
-  "keanu-reeves-seeks-restraining-order-after-man-allegedly-vis": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
+  "jensen-huang-had-another-affair-with-nvidia-vp-who-reported-": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
     "signature": "",
-    "norm": 30.7
+    "norm": 33.9
   },
-  "why-delhi-looked-less-hazy-this-diwali-despite-worse-air-qua": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "record",
-    "norm": 29.2
-  },
-  "crushing-begins-at-tiruttani-cooperative-sugarmills": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
+  "govt-prohibits-lithium-ion-battery-black-mass-exports": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
     "signature": "",
-    "norm": 26.7
+    "norm": 33.9
   },
-  "recent-repairs-on-omr-come-undone": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
+  "environmental-social-costs-of-vizhinjam-port-railway-tunnel-": {
+    "firstSeen": "2026-11-12T02:53:17.543Z",
     "signature": "",
-    "norm": 26.7
-  },
-  "christian-leaders-seek-action-in-meerpet-case": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "",
-    "norm": 26.7
-  },
-  "-neither-rahul-nor-i-received-a-penny-sonia-gandhi-on-nation": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "2-j-k-special-police-officers-on-patrolling-duty-go-missing-": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "india-changes-visa-rules-13-categories-cut-to-9-what-foreign": {
-    "firstSeen": "2026-11-11T21:52:06.320Z",
-    "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   }
 }
