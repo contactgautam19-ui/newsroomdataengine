@@ -1,196 +1,106 @@
 {
-  "-kashmir-was-is-and-will-remain-part-of-india-farooq-abdulla": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "attack|attack|fear|pakistan|president|terror|terror|threat",
-    "norm": 83.3
+  "indian-nationals-among-14-killed-in-deadly-multi-vehicle-cra": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "crash|crash|dead|dead|killed|killed",
+    "norm": 79.9
   },
-  "how-court-s-delimitation-stay-buys-suvendu-adhikari-time-ahe": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "controversy|election|election|election commission|high court|poll|war",
-    "norm": 77.9
+  "medical-examination-of-recaptured-prisoners-allegedly-thrash": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "exam|high court|injured|war",
+    "norm": 75.9
   },
-  "kejriwal-his-daughter-get-death-threat-from-bishnoi-gang-mem": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "aap|crore|death|kejriwal|mla|threat",
-    "norm": 76.5
+  "-constitution-in-their-pockets-pm-modi-hits-out-at-oppositio": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "modi|modi|opposition|row",
+    "norm": 70
   },
-  "sam-pitroda-says-he-respects-pm-modi-calls-him-warm-and-cari": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "bjp|congress|minister|modi|modi|prime minister|war",
-    "norm": 75.1
-  },
-  "-pay-rs-7-crore-arvind-kejriwal-his-daughter-get-death-threa": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "crore|death|kejriwal|mla|threat",
-    "norm": 74.6
-  },
-  "minor-fire-at-srikalahasti-temple-kitchen-contained-no-major": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "fire|fire|mp|panic",
-    "norm": 72.9
-  },
-  "amitabh-bachchan-s-bungalow-mumbai-airport-mayor-s-office-re": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "army|bomb|threat",
-    "norm": 67.6
-  },
-  "woman-loses-arm-after-being-pushed-off-mumbai-local-by-man-w": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "anger|mp|protest|protest",
-    "norm": 66.3
-  },
-  "govt-mulls-special-parliament-session-soon-to-push-delimitat": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "bill|minister|modi|modi|parliament|prime minister",
-    "norm": 63.4
-  },
-  "woman-shot-dead-man-injured-in-gunfight-between-suspected-mi": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "dead|dead|injured",
+  "cpi-seeks-probe-into-poll-discrepancies-": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "bjp|election|election|election commission|poll",
     "norm": 62.9
   },
-  "2018-thoothukudi-anti-sterlite-protests-tamil-nadu-cm-vijay-": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "crore|protest|protest",
-    "norm": 62.8
-  },
-  "chennai-draft-electoral-roll-records-29-14-lakh-voters": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "lakh|record|vote",
-    "norm": 60.7
-  },
-  "from-anti-terror-ops-to-law-order-duties-spos-take-home-palt": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "terror|terror",
+  "vizag-cii-summit-renew-to-invest-80-000-crore-in-green-data-": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "bill|crore|summit",
     "norm": 57.6
   },
-  "woman-loses-arm-after-being-pushed-off-platform-at-naigaon-r": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "cctv|exam|footage",
+  "nvidia-crisis-michael-owens-on-jensen-huang-s-nvidia-exit-wh": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "mp|war",
     "norm": 57.1
   },
-  "keralam-govt-intervenes-to-repatriate-seafarer-stranded-in-i": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "iran|pakistan",
-    "norm": 57.1
+  "drdl-director-highlights-importance-of-indigenous-research": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "mp|war",
+    "norm": 55.4
   },
-  "-gem-granites-veeramani-pocso-case-first-charge-sheet-filed-": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "high court|ipl",
-    "norm": 57.1
+  "khammam-mp-proposes-two-works-worth-50-lakh-under-mplads-to-": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "lakh|mp",
+    "norm": 55
   },
-  "t-n-bjp-chief-nainar-nagenthran-alleges-keralam-medical-wast": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "bjp|chief minister|minister|mp",
-    "norm": 53.9
+  "armed-with-smog-guns-gurugram-high-rise-housing-complexes-fi": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "crore|mp",
+    "norm": 53.2
   },
-  "will-be-too-late-by-the-time-guns-fall-silent-farooq-abdulla": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "chief minister|minister|pakistan",
-    "norm": 52.7
+  "assam-draft-electoral-roll-has-2-19-lakh-more-voters-than-fe": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "lakh|vote",
+    "norm": 53.2
   },
-  "low-pressure-area-likely-to-form-over-bay-of-bengal-ease-rai": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "watch|weather",
-    "norm": 52.4
+  "karnataka-targets-24-gw-power-capacity-in-five-years-plans-o": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "crore|investor|lakh",
+    "norm": 50.9
   },
-  "piyush-goyal-calls-india-safe-harbour-for-global-investors-o": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "deal|gdp|investor|trillion",
-    "norm": 52.1
+  "vijay-government-hits-six-month-mark-mla-says-ready-for-trus": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "mla|mp|vote",
+    "norm": 50.9
   },
-  "owaisi-names-chandrashekhar-azad-as-uttar-pradesh-cm-face-of": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "bjp|congress",
-    "norm": 48.7
-  },
-  "virginia-couple-s-500-000-highway-loss-claim-rejected-after-": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "mp|ruling",
-    "norm": 48.7
-  },
-  "state-to-file-fresh-affidavit-in-high-court-on-bar-licences-": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
+  "state-to-file-fresh-affidavit-in-kerala-high-court-on-bar-li": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
     "signature": "high court|minister",
-    "norm": 48.7
+    "norm": 50.5
+  },
+  "brazil-s-weg-chooses-dharmapuri-for-2-000-crore-global-manuf": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "crore|jobs",
+    "norm": 50.5
+  },
+  "central-team-to-visit-districts-affected-by-murasu-cyclone": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "cyclone",
+    "norm": 46.3
+  },
+  "karnataka-can-never-build-a-dam-at-mekedatu-says-minister": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
+    "signature": "minister",
+    "norm": 45.9
   },
   "major-gold-heist-at-tanishq-jewellery-showroom-in-madurai": {
     "firstSeen": "2026-11-12T10:55:52.334Z",
     "signature": "gold",
-    "norm": 48.2
+    "norm": 42.9
   },
-  "bomb-hoax-email-names-amitabh-bachchan-s-home-mumbai-mayor-s": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "bomb",
-    "norm": 48.2
-  },
-  "training-aircraft-stuck-on-runway-after-hard-landing-in-maha": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "maharashtra",
-    "norm": 46.3
-  },
-  "dmk-urges-tamil-nadu-dgp-to-act-against-tvk-mla-for-sending-": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "mla",
-    "norm": 45.9
-  },
-  "amid-reports-of-korean-firms-shifting-to-andhra-pradesh-hwas": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "crore",
-    "norm": 44
-  },
-  "library-inaugurated-at-bapatla-collectorate": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "trainer-aircraft-skids-off-runway-at-solapur-airport-during-": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "visuals",
-    "norm": 42.7
-  },
-  "at-iaf-commanders-meet-rajnath-calls-for-sharper-surveillanc": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "surprise",
-    "norm": 40.7
-  },
-  "keralam-braces-for-more-rains-as-low-pressure-area-likely-ov": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
+  "sit-probing-veeramani-case-arraigns-seven-police-officers-as": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
     "signature": "",
     "norm": 36
   },
-  "michael-carrick-sacked-as-manchester-united-head-coach-as-tu": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
+  "free-entry-for-children-at-vizag-zoo-on-november-14": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
     "signature": "",
     "norm": 36
   },
-  "iaf-helicopter-lands-in-haveri-village-turns-into-centre-of-": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
+  "palaniswami-rejects-speculation-of-dhinakaran-sasikala-being": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
     "signature": "",
     "norm": 36
   },
-  "demolition-of-illegal-mosque-in-u-p-s-sambhal-village-under-": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "",
-    "norm": 36
-  },
-  "delhi-s-north-and-south-block-to-house-world-s-largest-museu": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "community-raises-50-000-for-canadian-hockey-player-15-battli": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "trainee-aircraft-skids-off-runway-at-solapur-airport-during-": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "telangana-acb-searches-at-properties-linked-to-irrigation-de": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
+  "92nd-annual-meeting-of-indian-academy-of-sciences-to-begin-a": {
+    "firstSeen": "2026-11-12T18:50:58.432Z",
     "signature": "",
     "norm": 33.9
   }
