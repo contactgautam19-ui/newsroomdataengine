@@ -1,206 +1,171 @@
 {
-  "speeding-suv-on-fire-after-6-vehicle-chain-reaction-crash-in": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "accident|crash|crash|fire|fire|tragedy",
-    "norm": 78.7
+  "26-killed-several-injured-in-truck-bus-collision-in-assam-s-": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "accident|injured|iran|killed|killed",
+    "norm": 77
   },
-  "bengal-church-attacks-choosing-faith-over-fear": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "attack|attack|bjp|fear|sudden",
-    "norm": 77.8
+  "mossad-chief-holds-iran-war-talks-in-washington-as-trump-res": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "iran|mp|trump|trump|war",
+    "norm": 75
   },
-  "cyberattack-or-ai-gone-rogue-what-senior-microsoft-official-": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "attack|attack|ipl|mp",
-    "norm": 75.9
+  "keralam-electricity-minister-s-statements-on-gna-deal-dispro": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "controversy|deal|high court|minister|opposition",
+    "norm": 71.6
   },
-  "us-plans-to-turn-submarines-into-drone-motherships-how-india": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "attack|attack|drone|mp|navy",
-    "norm": 75.3
+  "7-injured-as-truck-rams-into-car-causes-18-vehicle-pile-up-o": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "accident|injured|maharashtra|minister",
+    "norm": 71
   },
-  "sanskrit-varsity-mock-funeral-row-pinarayi-vijayan-alleges-c": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "governor|mp|opposition|protest|protest|row",
-    "norm": 73.9
+  "kiifb-accounts-should-have-been-audited-by-cag-says-kerala-h": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "budget|high court|row|threat",
+    "norm": 70.6
   },
-  "prime-minister-narendra-modi-inaugurates-golden-jubilee-cele": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "gold|minister|modi|modi|mp|prime minister|video",
-    "norm": 73.3
+  "q2-results-live-eicher-motors-profit-rises-15-senco-gold-pro": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "gold|mp|result|results|results",
+    "norm": 64.7
   },
-  "2027-up-polls-can-owaisi-azad-s-anti-bjp-third-front-crack-s": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "bjp|election|election|poll|unexpected|vote",
-    "norm": 70
+  "cii-summit-in-vizag-world-class-roads-crucial-for-india-s-ec": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "cabinet|crore|minister|summit",
+    "norm": 61.4
   },
-  "bharat-summit-takes-off-in-hyderabad-today-rahul-gandhi-to-p": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "election|election|rahul gandhi|rbi|summit",
-    "norm": 70
+  "no-impact-on-india-alliance-prospects-in-view-of-aimim-asp-p": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "alliance|congress|mp|sudden",
+    "norm": 58.6
   },
-  "andhra-to-bring-in-investment-protection-act-to-ease-doing-b": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "chief minister|crore|lakh|minister|summit",
-    "norm": 65.6
+  "jharkhand-congress-mla-faces-allegations-of-raping-14-year-o": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "congress|khan|mla",
+    "norm": 57.9
   },
-  "dead-body-of-asi-accused-in-murder-case-found-in-bihar-s-mad": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "dead|dead|shooting",
-    "norm": 64.5
+  "un-agency-fears-iran-may-have-diverted-nuclear-material-away": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "fear|iran",
+    "norm": 57.6
   },
-  "amit-shah-s-up-outreach-hm-to-tour-all-6-regions-from-late-n": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "amit shah|bjp|election|election|minister|poll",
-    "norm": 63.4
+  "bangalore-university-announces-bed-4th-sem-results-within-si": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "result|results|results",
+    "norm": 56.6
   },
-  "gig-and-platform-workers-strike-call-in-hyderabad-on-novembe": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "lok sabha|opposition|rahul gandhi|rally|rally",
-    "norm": 59.7
+  "bharat-summit-2026-drone-flying-banned-in-madhapur-ahead-of-": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "drone|rahul gandhi|summit",
+    "norm": 56.4
   },
-  "pm-modi-and-railway-minister-to-flag-off-bengaluru-mangaluru": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "minister|modi|modi",
-    "norm": 59.7
+  "boat-seized-2-5-lakh-fine-imposed-for-catching-juvenile-fish": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "lakh|mp",
+    "norm": 55
   },
-  "modi-in-bengaluru-pm-flags-off-elevated-stretch-of-namma-met": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "modi|modi",
-    "norm": 57.1
+  "milma-s-thiruvananthapuram-regional-union-seeks-milk-price-h": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "mp|price",
+    "norm": 55
   },
-  "modi-in-bengaluru-pm-participates-in-prashanti-kutiram-celeb": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "modi|modi",
-    "norm": 57.1
+  "vijay-merchant-trophy-cricket-matches-to-be-held-in-shivamog": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "cricket|match",
+    "norm": 53.9
   },
-  "-not-guru-just-a-practitioner-pm-modi-hails-influence-of-yog": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "modi|modi",
-    "norm": 57.1
+  "tom-brady-s-former-tampa-mansion-sells-for-9-65-million-afte": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "mp|price",
+    "norm": 53.2
   },
-  "hampi-s-islamic-heritage-an-overlooked-chapter-in-vijayanaga": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "mp|slam",
-    "norm": 55.4
-  },
-  "nvidia-employees-urge-board-to-bring-back-jensen-huang": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "ipl|mp",
-    "norm": 55.4
-  },
-  "discontent-brews-among-congress-workers-over-delay-in-cabine": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "cabinet|congress|mla|parliament",
-    "norm": 52.1
-  },
-  "cm-satheesan-to-inaugurate-nss-s-mannam-jayanthi-celebration": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "chief minister|minister",
-    "norm": 48.7
-  },
-  "india-inflation-breaches-rbi-s-limit-what-happens-if-it-rema": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "inflation|rbi",
-    "norm": 48.7
-  },
-  "the-sir-exercise-is-also-a-technology-failure": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "farmers-demand-water-supply-for-crops-till-dec-30": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "war",
     "norm": 48.2
   },
-  "mha-declares-zakir-naik-s-islamic-research-foundation-unlawf": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "slam",
+  "bengaluru-real-estate-businessman-hacked-to-death-in-broad-d": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "death",
     "norm": 48.2
   },
-  "service-is-not-a-profession-but-a-responsibility-towards-soc": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "war",
-    "norm": 48.2
+  "a-sexpionage-playbook-russian-ex-spy-on-how-agents-get-close": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "exam",
+    "norm": 46.3
   },
-  "eagle-police-raid-shops-near-schools-in-vijayawada-vissannap": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "mp",
-    "norm": 44
+  "-was-going-through-trauma-susmita-mukherjee-opens-up-about-4": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "trauma",
+    "norm": 46.3
   },
-  "five-more-resorts-near-anaikatti-closed-over-lack-of-approva": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "high court",
-    "norm": 44
+  "kakinada-mayor-race-heats-up-all-eyes-on-jsp-s-candidate-cho": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "alliance",
+    "norm": 45.9
   },
-  "us-intel-uncertain-if-jensen-huang-s-lover-spied-on-nvidia-r": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "china",
-    "norm": 44
-  },
-  "delhi-overtakes-lahore-as-world-s-most-polluted-city-as-aqi-": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "poll",
-    "norm": 44
-  },
-  "-bharat-vann-project-launched-to-boost-mysuru-s-green-cover": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "minister",
-    "norm": 44
-  },
-  "india-to-build-its-largest-oil-reserve-at-rs-8-571-crore-ami": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "oil-india-on-track-for-4-mmt-crude-oil-production-this-fisca": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "crore",
-    "norm": 44
+    "norm": 45.9
   },
-  "breaking-news-winter-arrives-in-j-k-fresh-snowfall-transform": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "australian-chana-canadian-masoor-niti-aayog-flags-india-s-fo": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "officials-told-to-ensure-accurate-census-2027": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "",
     "norm": 36
   },
-  "central-railway-to-run-four-special-mumbai-nagpur-trains-bet": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "graduation-day-celebrated-at-st-joseph-s-college-of-educatio": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "",
     "norm": 36
   },
-  "20-year-old-undergraduate-student-dies-by-suicide-at-iit-roo": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "brs-opposes-plus-two-education-system-in-place-of-intermedia": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "",
     "norm": 36
   },
-  "3-indian-origin-ceos-in-race-to-replace-jensen-huang-as-nvid": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "telangana-women-s-commission-issues-notices-to-eight-art-cen": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "",
     "norm": 36
   },
-  "bengaluru-namma-metro-s-pink-line-opens-to-public-on-nov-14-": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "integrated-digital-platform-for-outdoor-advertisements-in-cu": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "",
     "norm": 36
   },
-  "microsoft-outage-live-microsoft-says-steps-to-fix-outlook-ou": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "tvk-karamadai-union-secretary-booked-on-sexual-harassment-ch": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "",
     "norm": 36
   },
-  "this-children-s-day-enter-a-fairy-tale-in-h-c-andersen-s-bir": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "police-crack-yellareddypet-atm-robbery-case-two-arrested-fro": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "",
     "norm": 36
   },
-  "tnpdcl-seeks-nod-to-procure-3-000-mw": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
-    "signature": "",
-    "norm": 36
-  },
-  "historicity-guru-padmasambhava-and-the-nyingma-tradition-in-": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "microsoft-outage-live-microsoft-begins-restoring-outlook-tea": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "",
     "norm": 33.9
   },
-  "microsoft-outage-hits-airline-ops-in-delhi-3-flights-cancell": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "ohio-residents-seek-3-3-million-over-250-trees-cut-from-prot": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "",
     "norm": 33.9
   },
-  "from-landscaped-gardens-to-promenades-hathi-ghat-near-delhi-": {
-    "firstSeen": "2026-11-13T07:50:48.378Z",
+  "bezos-family-announced-500-million-unicef-child-nutrition-ch": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "-recovery-underway-some-may-face-issues-microsoft-update-on-": {
+    "firstSeen": "2026-11-13T16:11:50.634Z",
     "signature": "",
     "norm": 33.9
   }
