@@ -1,106 +1,26 @@
 {
-  "indian-nationals-among-14-killed-in-deadly-multi-vehicle-cra": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "crash|crash|dead|dead|killed|killed",
-    "norm": 79.9
+  "trump-calls-nvidia-spy-scandal-horrible-thing-after-jensen-h": {
+    "firstSeen": "2026-11-13T00:12:33.357Z",
+    "signature": "controversy|mp|row|trump|trump",
+    "norm": 75
   },
-  "medical-examination-of-recaptured-prisoners-allegedly-thrash": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "exam|high court|injured|war",
-    "norm": 75.9
+  "sukhbir-badal-likely-to-meet-amit-shah-on-november-13-sad-bj": {
+    "firstSeen": "2026-11-13T00:12:33.357Z",
+    "signature": "alliance|amit shah|bjp|rally|rally",
+    "norm": 57.9
   },
-  "-constitution-in-their-pockets-pm-modi-hits-out-at-oppositio": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "modi|modi|opposition|row",
-    "norm": 70
-  },
-  "cpi-seeks-probe-into-poll-discrepancies-": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "bjp|election|election|election commission|poll",
-    "norm": 62.9
-  },
-  "vizag-cii-summit-renew-to-invest-80-000-crore-in-green-data-": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "bill|crore|summit",
-    "norm": 57.6
-  },
-  "nvidia-crisis-michael-owens-on-jensen-huang-s-nvidia-exit-wh": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "mp|war",
-    "norm": 57.1
-  },
-  "drdl-director-highlights-importance-of-indigenous-research": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "mp|war",
-    "norm": 55.4
-  },
-  "khammam-mp-proposes-two-works-worth-50-lakh-under-mplads-to-": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "lakh|mp",
-    "norm": 55
-  },
-  "armed-with-smog-guns-gurugram-high-rise-housing-complexes-fi": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "crore|mp",
+  "cummins-khawaja-s-allegations-complete-and-utter-nonsense-": {
+    "firstSeen": "2026-11-13T00:12:33.357Z",
+    "signature": "gst|mp",
     "norm": 53.2
   },
-  "assam-draft-electoral-roll-has-2-19-lakh-more-voters-than-fe": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "lakh|vote",
-    "norm": 53.2
-  },
-  "karnataka-targets-24-gw-power-capacity-in-five-years-plans-o": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "crore|investor|lakh",
-    "norm": 50.9
-  },
-  "vijay-government-hits-six-month-mark-mla-says-ready-for-trus": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "mla|mp|vote",
-    "norm": 50.9
-  },
-  "state-to-file-fresh-affidavit-in-kerala-high-court-on-bar-li": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "high court|minister",
-    "norm": 50.5
-  },
-  "brazil-s-weg-chooses-dharmapuri-for-2-000-crore-global-manuf": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "crore|jobs",
-    "norm": 50.5
-  },
-  "central-team-to-visit-districts-affected-by-murasu-cyclone": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "cyclone",
-    "norm": 46.3
-  },
-  "karnataka-can-never-build-a-dam-at-mekedatu-says-minister": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "minister",
+  "canada-trade-talks-include-movement-of-professionals": {
+    "firstSeen": "2026-11-13T00:12:33.357Z",
+    "signature": "deal",
     "norm": 45.9
   },
-  "major-gold-heist-at-tanishq-jewellery-showroom-in-madurai": {
-    "firstSeen": "2026-11-12T10:55:52.334Z",
-    "signature": "gold",
-    "norm": 42.9
-  },
-  "sit-probing-veeramani-case-arraigns-seven-police-officers-as": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "",
-    "norm": 36
-  },
-  "free-entry-for-children-at-vizag-zoo-on-november-14": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "",
-    "norm": 36
-  },
-  "palaniswami-rejects-speculation-of-dhinakaran-sasikala-being": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
-    "signature": "",
-    "norm": 36
-  },
-  "92nd-annual-meeting-of-indian-academy-of-sciences-to-begin-a": {
-    "firstSeen": "2026-11-12T18:50:58.432Z",
+  "jensen-huang-s-2nd-affair-fallout-shakes-up-us": {
+    "firstSeen": "2026-11-13T00:12:33.357Z",
     "signature": "",
     "norm": 33.9
   }
