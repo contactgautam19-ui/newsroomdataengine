@@ -1,91 +1,136 @@
 {
-  "us-flight-shutdown-live-updates-us-nationwide-flight-shutdow": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "attack|attack|threat",
-    "norm": 64.5
+  "three-phase-gram-panchayat-polls-in-bapatla-district-from-no": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "election|election|poll|vote|war",
+    "norm": 72
   },
-  "nvidia-probe-china-spy-claims-trump-unlikely-to-confront-xi-": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "china|mp|president|summit|trump|trump",
-    "norm": 63.4
+  "man-spends-10-years-of-savings-on-rs-2-25-crore-flat-wife-s-": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "crore|viral|viral|viral",
+    "norm": 71.4
   },
-  "trump-xi-putin-to-hold-historic-meeting-in-china-next-week": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "china|mp|summit|trump|trump",
-    "norm": 62.9
+  "us-flight-chaos-trump-official-seeks-50-billion-for-air-traf": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "bill|billion|mp|trump|trump",
+    "norm": 70
   },
-  "bengaluru-woman-turns-rs-5-000-cupcakes-into-rs-1-crore-bake": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "crore|star|war",
-    "norm": 62.5
+  "up-to-15-meteors-an-hour-leonid-shower-peaks-november-17-18": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "deal|mp|shooting|storm",
+    "norm": 69
   },
-  "-i-respect-pm-modi-sam-pitroda-says-differences-are-politica": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "minister|modi|modi|prime minister",
-    "norm": 61.8
+  "washington-wife-awarded-328-715-from-ex-husband-s-401-k-not-": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "fund|ruling|tax|war",
+    "norm": 68
   },
-  "trump-putin-and-xi-plan-historic-joint-meeting-in-china-next": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "china|mp|trump|trump",
-    "norm": 61.8
+  "karnataka-deputy-cm-parameshwara-writes-to-modi-shah-seeking": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "modi|modi|war",
+    "norm": 66
   },
-  "-may-lose-my-mind-thousands-stuck-at-us-airports-amid-flight": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "attack|attack",
+  "vijay-s-tvk-government-under-scrutiny-karnataka-doctor-treat": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "chief minister|minister|mp|row",
+    "norm": 63.5
+  },
+  "cyclone-may-bring-isolated-heavy-rain-to-andhra-pradesh-from": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "cyclone|heavy rain|mp",
+    "norm": 60.8
+  },
+  "-no-room-for-7-hour-sleep-cycle-jaishankar-shares-glimpse-in": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "ipl|jaishankar|mp",
+    "norm": 59.7
+  },
+  "-we-are-at-last-stretch-eam-jaishankar-says-india-us-trade-d": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "deal|jaishankar|mp",
     "norm": 59.3
   },
-  "drugs-worth-rs-1-crore-seized-from-chennai-plastic-products-": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "actor|crore",
-    "norm": 51.7
+  "iit-roorkee-student-death-70-exams-postponed-to-be-held-on-n": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "death|exam",
+    "norm": 57.6
   },
-  "delhi-s-toxic-air-and-polluted-yamuna-bjp-aap-trade-charges-": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "aap|bjp|poll",
-    "norm": 50.9
+  "massive-fire-breaks-out-at-cloth-godown-in-gujarat-s-surat-t": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "fire|fire|smoke",
+    "norm": 55.4
   },
-  "htls-2026-live-updates-s-jaishankar-noel-tata-antony-blinken": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "jaishankar|summit",
-    "norm": 50.5
+  "four-earthquakes-recorded-in-j-k-ladakh": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "earthquake|earthquake|record",
+    "norm": 55.4
   },
-  "sc-directs-tn-to-explain-delay-in-restoring-smuggled-idols-a": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "mp|supreme court",
-    "norm": 48.7
+  "ethanol-mix-omcs-triple-damaged-grain-allocation": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "ipl|stocks",
+    "norm": 55.4
   },
-  "bail-can-t-become-forum-to-secure-maintenance-from-husband-s": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "mp|supreme court",
-    "norm": 48.7
+  "hindus-should-learn-unity-from-islam-uttar-pradesh-mla-raja-": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "mla|slam",
+    "norm": 55.4
   },
-  "tanker-hits-new-orleans-riverboat-32-injured-as-faa-grounds-": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "injured",
-    "norm": 48.2
+  "uttarakhand-three-held-over-shopkeeper-s-murder-inside-rudra": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "hospital|khan",
+    "norm": 53.9
   },
-  "indian-student-jailed-for-30-years-in-uk-for-grooming-girls-": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "row",
-    "norm": 48.2
+  "india-news-live-updates-14-november-2026-j-amp-k-ladakh-reco": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "mp|record",
+    "norm": 52
   },
-  "us-flight-disruptions-nationwide-ground-stop-ordered-for-onl": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "",
-    "norm": 36
+  "women-must-get-adequate-representation-in-parliament-legisla": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "parliament",
+    "norm": 44
   },
-  "u-s-faa-ground-stop-live-updates-nationwide-halt-to-flight-t": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
-    "signature": "",
-    "norm": 36
+  "the-joy-of-just-because-why-indians-are-buying-gifts-beyond-": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "wedding",
+    "norm": 42.4
   },
-  "jensen-huang-misled-top-nvidia-officers-about-affair-with-ch": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
+  "six-month-traffic-disruption-ahead-as-ranigunj-railway-under": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
     "signature": "",
     "norm": 33.9
   },
-  "ed-arrests-saurabh-chandrakar-secures-his-7-day-custody": {
-    "firstSeen": "2026-11-14T03:05:54.839Z",
+  "sheikh-hasina-s-return-to-bangladesh-india-sets-2-conditions": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "understanding-the-political-influence-of-punjab-s-top-sikh-r": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "sit-searches-for-remains-of-minor-girl-allegedly-buried-at-g": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "can-india-refuse-to-serve-summons-in-the-pannun-case-": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "26-years-in-uk-then-letter-sending-nigerian-woman-to-india-h": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "delhi-meerut-namo-bharat-corridor-to-get-8-new-fast-trains-f": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "germany-tests-carbon-storing-waste-ash-for-roads-and-concret": {
+    "firstSeen": "2026-11-14T11:23:19.683Z",
     "signature": "",
     "norm": 33.9
   }
