@@ -1,26 +1,91 @@
 {
-  "nhrc-seeks-education-ministry-s-response-over-alleged-neglec": {
-    "firstSeen": "2026-11-13T22:32:12.427Z",
-    "signature": "mp|war",
-    "norm": 57.1
+  "us-flight-shutdown-live-updates-us-nationwide-flight-shutdow": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "attack|attack|threat",
+    "norm": 64.5
   },
-  "khambata-strategised-to-oust-srinivasan-say-tata-trusts-vcs": {
-    "firstSeen": "2026-11-13T22:32:12.427Z",
-    "signature": "mp",
-    "norm": 45.9
+  "nvidia-probe-china-spy-claims-trump-unlikely-to-confront-xi-": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "china|mp|president|summit|trump|trump",
+    "norm": 63.4
   },
-  "ex-cia-chief-john-brennan-s-son-charged-over-sexual-images-o": {
-    "firstSeen": "2026-11-13T22:32:12.427Z",
-    "signature": "mp",
-    "norm": 44
+  "trump-xi-putin-to-hold-historic-meeting-in-china-next-week": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "china|mp|summit|trump|trump",
+    "norm": 62.9
   },
-  "-i-was-told-i-can-t-defeat-a-white-american-male-lawmaker-sa": {
-    "firstSeen": "2026-11-13T22:32:12.427Z",
+  "bengaluru-woman-turns-rs-5-000-cupcakes-into-rs-1-crore-bake": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "crore|star|war",
+    "norm": 62.5
+  },
+  "-i-respect-pm-modi-sam-pitroda-says-differences-are-politica": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 61.8
+  },
+  "trump-putin-and-xi-plan-historic-joint-meeting-in-china-next": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "china|mp|trump|trump",
+    "norm": 61.8
+  },
+  "-may-lose-my-mind-thousands-stuck-at-us-airports-amid-flight": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "attack|attack",
+    "norm": 59.3
+  },
+  "drugs-worth-rs-1-crore-seized-from-chennai-plastic-products-": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "actor|crore",
+    "norm": 51.7
+  },
+  "delhi-s-toxic-air-and-polluted-yamuna-bjp-aap-trade-charges-": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "aap|bjp|poll",
+    "norm": 50.9
+  },
+  "htls-2026-live-updates-s-jaishankar-noel-tata-antony-blinken": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "jaishankar|summit",
+    "norm": 50.5
+  },
+  "sc-directs-tn-to-explain-delay-in-restoring-smuggled-idols-a": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "mp|supreme court",
+    "norm": 48.7
+  },
+  "bail-can-t-become-forum-to-secure-maintenance-from-husband-s": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "mp|supreme court",
+    "norm": 48.7
+  },
+  "tanker-hits-new-orleans-riverboat-32-injured-as-faa-grounds-": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "injured",
+    "norm": 48.2
+  },
+  "indian-student-jailed-for-30-years-in-uk-for-grooming-girls-": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "row",
+    "norm": 48.2
+  },
+  "us-flight-disruptions-nationwide-ground-stop-ordered-for-onl": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "",
+    "norm": 36
+  },
+  "u-s-faa-ground-stop-live-updates-nationwide-halt-to-flight-t": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
+    "signature": "",
+    "norm": 36
+  },
+  "jensen-huang-misled-top-nvidia-officers-about-affair-with-ch": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
     "signature": "",
     "norm": 33.9
   },
-  "-ms-364-outlook-teams-disrupted-for-nearly-a-day": {
-    "firstSeen": "2026-11-13T22:32:12.427Z",
+  "ed-arrests-saurabh-chandrakar-secures-his-7-day-custody": {
+    "firstSeen": "2026-11-14T03:05:54.839Z",
     "signature": "",
     "norm": 33.9
   }
