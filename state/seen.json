@@ -1,102 +1,147 @@
 {
-  "hamas-confirms-death-of-senior-commander-samir-abu-younis-in": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "dead|dead|death|injured|israel|khan|killed|killed",
-    "norm": 88.8
+  "pm-modi-credits-tribal-welfare-schemes-for-poverty-reduction": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "crore|maharashtra|minister|modi|modi|prime minister|video",
+    "norm": 80.1
   },
-  "1971-war-posters-flares-chaos-at-bangladesh-pak-saff-semi-fi": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "fan|fire|fire|mp|pakistan|war",
-    "norm": 83.2
+  "andhra-pradesh-local-body-polls-tdp-led-nda-wrests-12-of-13-": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "bjp|poll|result|results|results|war",
+    "norm": 77.4
   },
-  "congress-mla-vandalises-stage-at-uttarakhand-event-denied-ch": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "congress|khan|mla|opposition|protest|protest",
+  "assam-congress-writes-to-pm-seeks-enhanced-aid-for-victims-o": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "accident|congress|iran|rbi",
     "norm": 74
   },
-  "-bharat-badnaam-summit-bjp-attacks-rahul-gandhi-over-hyderab": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "attack|attack|bjp|congress|rahul gandhi|summit",
-    "norm": 73
+  "-this-is-islam-for-you-youtuber-ex-muslim-sahil-attacked-in-": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "attack|attack|slam|video",
+    "norm": 68.4
   },
-  "-tackling-inequality-is-key-for-india-in-age-of-change-econo": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "mp|policy|summit|war",
+  "ipl-founder-lalit-modi-acquires-british-citizenship-calls-it": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "ipl|modi|modi|mp",
+    "norm": 66.6
+  },
+  "mumbai-bomb-threat-to-csmt-turns-out-to-be-hoax-after-securi": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "alert|bomb|threat",
+    "norm": 64.5
+  },
+  "cape-verde-votes-in-election-that-could-deliver-first-woman-": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "election|election|president|vote",
     "norm": 63.5
   },
-  "u-s-must-respect-india-s-right-to-defend-itself-maintain-zer": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "terror|terror|war",
-    "norm": 62.9
+  "kolkata-man-kills-live-in-partner-s-two-dogs-after-she-moves": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "killed|killed|video",
+    "norm": 63.2
   },
-  "-completely-false-ncp-sp-rules-out-merger-after-supriya-sule": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "death|mp|war",
-    "norm": 62.5
+  "nda-candidates-will-win-panchayat-elections-also-r-b-ministe": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "alliance|election|election|minister",
+    "norm": 61.8
   },
-  "prince-william-princess-kate-to-visit-mumbai-from-nov-16-18": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "cricket|film|summit",
-    "norm": 62.5
+  "spacex-starship-makes-history-tower-arms-catch-rocket-in-stu": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "mp|rbi|star",
+    "norm": 60.4
   },
-  "delhi-s-air-quality-remains-very-poor-with-aqi-at-365-multip": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "ipl|poll|record",
-    "norm": 61.1
+  "dead-fish-dip-in-dirty-yamuna-and-a-political-face-off-why-c": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "dead|dead",
+    "norm": 57.6
   },
-  "swiss-men-take-to-streets-call-for-stronger-fight-against-vi": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "protest|protest",
-    "norm": 54.2
+  "delhi-moti-nagar-murder-man-suspected-of-murdering-18-year-o": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "dead|dead",
+    "norm": 57.6
   },
-  "progressive-ai-agenda-required-for-a-balance-between-winners": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "economy|summit",
-    "norm": 53.2
+  "cyclone-akvan-to-move-towards-andhra-coast-by-november-19-ra": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "cyclone|war",
+    "norm": 57.6
   },
-  "-alive-to-voters-need-to-find-their-names-on-the-electoral-r": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "poll|supreme court|vote",
+  "niti-aayog-to-hold-workshops-to-document-lessons-from-modi-s": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "modi|modi",
+    "norm": 55.4
+  },
+  "arshdeep-singh-amp-co-swing-it-india-s-way-to-secure-3-1-ser": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "match|mp",
+    "norm": 55.4
+  },
+  "yemeni-forces-withdraw-from-bab-el-mandeb-as-houthis-cement-": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "mp|war",
+    "norm": 55.4
+  },
+  "william-and-kate-visit-mumbai-for-earthshot-prize-ceremony": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "cricket|film",
+    "norm": 53.9
+  },
+  "-who-laughs-when-india-is-insulted-bjp-s-veiled-jibe-at-rahu": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "bjp|rahul gandhi|vote",
     "norm": 52.7
   },
-  "scene-box-office-collection-day-10": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "box office|mp",
-    "norm": 51.7
+  "a-week-after-diwali-my-n99-mask-and-i-are-still-inseparable-": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "poll|record",
+    "norm": 52
   },
-  "us-diesel-prices-retreat-fall-below-6-per-gallon-for-first-t": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "diesel|price|prices",
-    "norm": 50.9
+  "parliament-winter-session-likely-in-1st-week-of-dec-delimita": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "bill|parliament",
+    "norm": 50.5
   },
-  "prince-william-kate-to-arrive-in-india-in-first-joint-overse": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
+  "80-years-after-genocide-convention-myanmar-faces-historic-ic": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "ruling|verdict",
+    "norm": 48.7
+  },
+  "mizoram-village-revels-in-return-of-world-war-ii-hit-festiva": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
     "signature": "war",
     "norm": 46.3
   },
-  "kerala-high-court-calls-for-lowering-juvenile-age-from-18-to": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "high court",
+  "student-s-first-paycheck-confusion-sparks-initiative-reachin": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "mp",
     "norm": 45.9
   },
-  "how-a-glitch-on-ground-triggered-chaos-in-sky-inside-the-us-": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
+  "indigo-guwahati-bound-flight-returns-safely-to-pune-after-la": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "fuel",
+    "norm": 45.9
+  },
+  "six-arrested-as-delhi-police-busts-family-run-heroin-traffic": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "crore",
+    "norm": 44
+  },
+  "why-tv-screens-went-blank-during-india-new-zealand-odi": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
     "signature": "mp",
     "norm": 44
   },
-  "-ai-speeding-up-drug-design-next-step-is-faster-cheaper-medi": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "summit",
+  "how-bees-helped-engineers-fix-solar-panels-biggest-flaw-amp-": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "mp",
     "norm": 44
   },
-  "after-sitting-out-four-games-siraj-gets-his-chance-yash-thak": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
-    "signature": "captain",
-    "norm": 42.4
-  },
-  "us-flight-disruption-to-persist-well-into-sunday-as-official": {
-    "firstSeen": "2026-11-15T02:33:58.082Z",
+  "kodungaiyur-police-head-to-madurai-in-search-of-gang-which-a": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
+  },
+  "thrissur-pooram-disruption-probe-faces-fresh-hurdle-as-home-": {
+    "firstSeen": "2026-11-15T10:42:23.740Z",
+    "signature": "",
+    "norm": 36
   }
 }
