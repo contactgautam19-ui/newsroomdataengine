@@ -1,46 +1,101 @@
 {
-  "in-jharkhand-even-jails-are-not-safe-babulal-marandi": {
-    "firstSeen": "2026-11-14T22:16:19.308Z",
-    "signature": "attack|attack|collapse|collapse|collapse|khan",
-    "norm": 81.6
+  "hamas-confirms-death-of-senior-commander-samir-abu-younis-in": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "dead|dead|death|injured|israel|khan|killed|killed",
+    "norm": 88.8
   },
-  "4-5-magnitude-earthquake-tremors-felt-in-maharashtra-s-jalga": {
-    "firstSeen": "2026-11-14T22:16:19.308Z",
-    "signature": "earthquake|earthquake|maharashtra|panic",
-    "norm": 73.3
+  "1971-war-posters-flares-chaos-at-bangladesh-pak-saff-semi-fi": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "fan|fire|fire|mp|pakistan|war",
+    "norm": 83.2
   },
-  "strong-economy-drives-nh-toll-to-record-rs-6-640-crore-in-oc": {
-    "firstSeen": "2026-11-14T22:16:19.308Z",
-    "signature": "crore|economy|record|toll",
-    "norm": 65.3
+  "congress-mla-vandalises-stage-at-uttarakhand-event-denied-ch": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "congress|khan|mla|opposition|protest|protest",
+    "norm": 74
   },
-  "villagers-in-25-districts-cast-votes-for-panchayat-elections": {
-    "firstSeen": "2026-11-14T22:16:19.308Z",
-    "signature": "election|election|poll|vote",
+  "-bharat-badnaam-summit-bjp-attacks-rahul-gandhi-over-hyderab": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "attack|attack|bjp|congress|rahul gandhi|summit",
+    "norm": 73
+  },
+  "-tackling-inequality-is-key-for-india-in-age-of-change-econo": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "mp|policy|summit|war",
     "norm": 63.5
   },
-  "tiny-bushland-patches-offer-lifeline-to-endangered-australia": {
-    "firstSeen": "2026-11-14T22:16:19.308Z",
-    "signature": "anger|mp",
-    "norm": 55.4
+  "u-s-must-respect-india-s-right-to-defend-itself-maintain-zer": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "terror|terror|war",
+    "norm": 62.9
   },
-  "trade-deal-talks-with-us-near-finishing-line-eam-jaishankar": {
-    "firstSeen": "2026-11-14T22:16:19.308Z",
-    "signature": "deal|jaishankar",
-    "norm": 55
+  "-completely-false-ncp-sp-rules-out-merger-after-supriya-sule": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "death|mp|war",
+    "norm": 62.5
   },
-  "dna-test-helps-81-year-old-find-canadian-soldier-father-and-": {
-    "firstSeen": "2026-11-14T22:16:19.308Z",
-    "signature": "mystery|war",
-    "norm": 52.4
+  "prince-william-princess-kate-to-visit-mumbai-from-nov-16-18": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "cricket|film|summit",
+    "norm": 62.5
   },
-  "florida-woman-loses-control-of-mother-s-estate-and-3-trusts-": {
-    "firstSeen": "2026-11-14T22:16:19.308Z",
-    "signature": "mp|ruling",
-    "norm": 48.7
+  "delhi-s-air-quality-remains-very-poor-with-aqi-at-365-multip": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "ipl|poll|record",
+    "norm": 61.1
   },
-  "mumbai-police-announce-traffic-diversion-ahead-of-britain-s-": {
-    "firstSeen": "2026-11-14T22:16:19.308Z",
+  "swiss-men-take-to-streets-call-for-stronger-fight-against-vi": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "progressive-ai-agenda-required-for-a-balance-between-winners": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "economy|summit",
+    "norm": 53.2
+  },
+  "-alive-to-voters-need-to-find-their-names-on-the-electoral-r": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "poll|supreme court|vote",
+    "norm": 52.7
+  },
+  "scene-box-office-collection-day-10": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "box office|mp",
+    "norm": 51.7
+  },
+  "us-diesel-prices-retreat-fall-below-6-per-gallon-for-first-t": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "diesel|price|prices",
+    "norm": 50.9
+  },
+  "prince-william-kate-to-arrive-in-india-in-first-joint-overse": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "kerala-high-court-calls-for-lowering-juvenile-age-from-18-to": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "high court",
+    "norm": 45.9
+  },
+  "how-a-glitch-on-ground-triggered-chaos-in-sky-inside-the-us-": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "-ai-speeding-up-drug-design-next-step-is-faster-cheaper-medi": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "summit",
+    "norm": 44
+  },
+  "after-sitting-out-four-games-siraj-gets-his-chance-yash-thak": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
+    "signature": "captain",
+    "norm": 42.4
+  },
+  "us-flight-disruption-to-persist-well-into-sunday-as-official": {
+    "firstSeen": "2026-11-15T02:33:58.082Z",
     "signature": "",
     "norm": 33.9
   }
