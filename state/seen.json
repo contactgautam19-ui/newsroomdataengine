@@ -1,87 +1,207 @@
 {
-  "four-of-family-killed-as-truck-overturns-on-car-on-delhi-jai": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "cctv|crash|crash|footage|killed|killed",
-    "norm": 78.8
+  "elephant-attack-protesters-want-forest-minister-visit-belur-": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "attack|attack|death|minister|protest|protest",
+    "norm": 78.7
   },
-  "pm-modi-heads-to-philippines-for-asean-summit-quad-meet-chin": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "actor|china|disaster|modi|modi|summit",
-    "norm": 78.5
+  "indigo-employee-found-dead-in-maharashtra-forest-friend-unde": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "dead|dead|maharashtra|mp",
+    "norm": 75.9
   },
-  "crpf-chief-visits-j-k-reviews-security-after-attack-in-kulga": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "army|attack|attack|hospital|injured",
-    "norm": 75.1
+  "imd-warns-of-heavy-rain-in-four-south-bengal-districts-from-": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "heavy rain|storm|war|weather",
+    "norm": 73
   },
-  "deep-depression-live-updates-odisha-steps-up-preparedness-as": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "storm|war|weather",
-    "norm": 69.6
+  "stock-market-highlights-sensex-today-sensex-closes-500-point": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "attack|attack|nifty|sensex|stock market",
+    "norm": 72
   },
-  "oil-prices-fall-as-surplus-fears-return-after-nine-month-dry": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "fear|price|prices|war",
-    "norm": 66.6
+  "ajit-pawar-plane-crash-maha-cm-urges-shah-to-fast-track-prob": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "crash|crash|war",
+    "norm": 67.6
   },
-  "-perfectly-safe-but-not-maxed-out-trump-takes-qatar-jet-to-a": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "mp|president|trump|trump",
+  "cyclone-akvan-may-bring-rains-to-telangana-between-november-": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "alert|cyclone|heavy rain|mp",
+    "norm": 65.1
+  },
+  "telangana-bjp-chief-files-frro-complaint-against-italian-lea": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "bjp|controversy|mp|rahul gandhi|summit|vote",
+    "norm": 65.1
+  },
+  "cyclone-akvan-likely-to-cause-heavy-rain-in-kolkata-howrah-o": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "cyclone|heavy rain|mp|storm",
+    "norm": 63.4
+  },
+  "karra-s-hunting-claim-on-kishtwar-spo-killings-puts-congress": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "army|bjp|congress|war",
     "norm": 61.8
   },
-  "nvidia-ceo-hunt-trump-floats-tim-cook-as-bessent-called-for-": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "mp|trump|trump",
+  "-uddhav-thackeray-unreachable-ajit-pawar-worked-during-covid": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "amit shah|death|war",
+    "norm": 60.8
+  },
+  "congress-india-bloc-will-provide-strong-alternative-in-uttar": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "congress|election|election",
     "norm": 59.7
   },
-  "trade-indo-pacific-in-focus-as-pm-modi-heads-to-manila-for-a": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "modi|modi|summit",
+  "why-congress-and-sp-are-heading-for-a-tough-negotiation-the-": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "congress|election|election",
     "norm": 59.7
   },
-  "inside-india-s-forgotten-civic-heritage": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "collapse|collapse|collapse",
-    "norm": 58.3
+  "supreme-court-warns-contempt-if-authorities-fail-to-give-det": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "mp|supreme court|war",
+    "norm": 59.7
   },
-  "air-india-resumes-direct-new-york-flights-as-iraq-airspace-r": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "iran|war",
-    "norm": 57.6
-  },
-  "nia-probes-network-of-overground-workers-operating-in-jammu-": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "terror|terror",
-    "norm": 57.6
-  },
-  "buddha-relics-arrive-at-arunachal-s-golden-pagoda-for-final-": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "gold|vote",
+  "cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "cyclone|mp",
     "norm": 57.1
   },
-  "rajasthan-railway-blast-accused-have-isi-links-police": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "blast|mp",
+  "cyclone-akvan-to-hit-andhra-on-november-20-naidu-reviews-pre": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "cyclone|minister",
     "norm": 57.1
   },
-  "scott-bessent-signals-dramatic-shakeup-at-nvidia-after-lutni": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "china|mp",
+  "-this-100-is-for-you-litton-das-dedicates-century-to-daughte": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "match|star",
+    "norm": 55.7
+  },
+  "gregg-popovich-77-pays-strangers-grocery-bills-on-outing-wit": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "anger|bill",
+    "norm": 55.4
+  },
+  "cyclone-akvan-tracker-when-will-the-storm-reach-andhra-odish": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "cyclone|storm",
+    "norm": 52.1
+  },
+  "azad-owaisi-alliance-could-fragment-muslim-dalit-votes-poten": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "alliance|bjp|vote",
+    "norm": 50.9
+  },
+  "punjab-congress-forms-fail-safe-panel-to-induct-turncoats-ah": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "congress|poll",
     "norm": 50.5
   },
-  "10-000-flights-hit-by-disruption-as-us-air-traffic-system-re": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
-    "signature": "result",
+  "karthigai-deepam-lit-only-at-deepa-mandapam-for-over-150-yea": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "summit|supreme court",
+    "norm": 48.7
+  },
+  "bengaluru-mangaluru-madgaon-vande-bharat-route-timings-ticke": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "price|prices",
+    "norm": 48.7
+  },
+  "annamalai-condemns-use-of-arohara-chant-to-praise-tamil-nadu": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "chief minister|minister",
+    "norm": 48.7
+  },
+  "every-chhath-the-same-question-returns-why-is-the-yamuna-sti": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "poll|vote",
+    "norm": 48.7
+  },
+  "us-admiral-revisits-chilling-2027-china-taiwan-conflict-pred": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "china|navy",
+    "norm": 48.7
+  },
+  "madras-high-court-quashes-case-against-tamil-nadu-labour-min": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "high court|minister",
+    "norm": 48.7
+  },
+  "-gem-granites-veeramani-pocso-case-prakash-kanniah-moves-mad": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "high court|mp",
+    "norm": 48.7
+  },
+  "father-s-438-000-ira-missing-key-words-sparks-55-000-dispute": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "war",
     "norm": 46.3
   },
-  "indian-enrolment-for-us-higher-education-fell-6-5-in-2025-26": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
+  "buy-a-plot-or-flat-what-homebuyers-in-tier-2-cities-should-c": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "india-aims-to-be-the-world-s-top-nation-says-vp-radhakrishna": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "tamil-nadu-cm-vijay-inaugurates-301-71-crore-periyar-arivula": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "crore",
+    "norm": 45.9
+  },
+  "bilkis-bano-case-supreme-court-suspends-sentence-grants-bail": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "supreme court",
+    "norm": 44
+  },
+  "energy-drink-or-sugar-fssai-sends-notice-to-red-bull-over-co": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "-embrace-separate-paths-tvk-minister-aadhav-arjuna-wife-dais": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "minister",
+    "norm": 44
+  },
+  "man-robbed-at-knifepoint-in-hassan": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "journalists-pension-scheme-to-be-placed-before-cabinet-aruna": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "cabinet",
+    "norm": 44
+  },
+  "-who-ordered-sir-cong-seeks-sc-nod-to-pose-48-questions-to-e": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "vote",
+    "norm": 44
+  },
+  "how-kashmir-s-orchard-owner-led-cops-to-lashkar-commander-la": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
     "signature": "",
     "norm": 36
   },
-  "indigo-flight-returns-to-pune-after-landing-gear-malfunction": {
-    "firstSeen": "2026-11-16T02:41:10.078Z",
+  "-show-some-respect-sc-stops-centre-from-moving-books-from-13": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
     "signature": "",
     "norm": 36
+  },
+  "painting-celebrations-for-special-children": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "",
+    "norm": 36
+  },
+  "sit-calls-off-search-for-victim-s-body-at-gem-granites-veera": {
+    "firstSeen": "2026-11-16T11:00:24.533Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
