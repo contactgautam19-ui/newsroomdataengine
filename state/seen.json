@@ -1,32 +1,87 @@
 {
-  "lalit-modi-gets-british-citizenship-extradition-prospects-ta": {
-    "firstSeen": "2026-11-15T22:44:21.984Z",
-    "signature": "acquisition|modi|modi|threat",
-    "norm": 75.5
+  "four-of-family-killed-as-truck-overturns-on-car-on-delhi-jai": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "cctv|crash|crash|footage|killed|killed",
+    "norm": 78.8
   },
-  "panchkula-school-attack-ringing-the-school-bell-raising-a-sa": {
-    "firstSeen": "2026-11-15T22:44:21.984Z",
-    "signature": "attack|attack|cctv|footage|video",
-    "norm": 67.3
+  "pm-modi-heads-to-philippines-for-asean-summit-quad-meet-chin": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "actor|china|disaster|modi|modi|summit",
+    "norm": 78.5
   },
-  "court-reverses-loss-of-alabama-mother-s-parental-rights-for-": {
-    "firstSeen": "2026-11-15T22:44:21.984Z",
-    "signature": "ruling",
-    "norm": 45.9
+  "crpf-chief-visits-j-k-reviews-security-after-attack-in-kulga": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "army|attack|attack|hospital|injured",
+    "norm": 75.1
   },
-  "sf-couple-s-1-85m-victorian-renovation-now-listed-for-5-595m": {
-    "firstSeen": "2026-11-15T22:44:21.984Z",
-    "signature": "price",
-    "norm": 45.9
+  "deep-depression-live-updates-odisha-steps-up-preparedness-as": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "storm|war|weather",
+    "norm": 69.6
   },
-  "empty-vande-bharat-allowed-to-run-463km-despite-poor-power-b": {
-    "firstSeen": "2026-11-15T22:44:21.984Z",
-    "signature": "mp",
-    "norm": 44
+  "oil-prices-fall-as-surplus-fears-return-after-nine-month-dry": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "fear|price|prices|war",
+    "norm": 66.6
   },
-  "in-a-first-crpf-battalion-in-anti-naxal-ops-diverted-to-mani": {
-    "firstSeen": "2026-11-15T22:44:21.984Z",
+  "-perfectly-safe-but-not-maxed-out-trump-takes-qatar-jet-to-a": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "mp|president|trump|trump",
+    "norm": 61.8
+  },
+  "nvidia-ceo-hunt-trump-floats-tim-cook-as-bessent-called-for-": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
+  },
+  "trade-indo-pacific-in-focus-as-pm-modi-heads-to-manila-for-a": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "modi|modi|summit",
+    "norm": 59.7
+  },
+  "inside-india-s-forgotten-civic-heritage": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "collapse|collapse|collapse",
+    "norm": 58.3
+  },
+  "air-india-resumes-direct-new-york-flights-as-iraq-airspace-r": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "iran|war",
+    "norm": 57.6
+  },
+  "nia-probes-network-of-overground-workers-operating-in-jammu-": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "terror|terror",
+    "norm": 57.6
+  },
+  "buddha-relics-arrive-at-arunachal-s-golden-pagoda-for-final-": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "gold|vote",
+    "norm": 57.1
+  },
+  "rajasthan-railway-blast-accused-have-isi-links-police": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "blast|mp",
+    "norm": 57.1
+  },
+  "scott-bessent-signals-dramatic-shakeup-at-nvidia-after-lutni": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "china|mp",
+    "norm": 50.5
+  },
+  "10-000-flights-hit-by-disruption-as-us-air-traffic-system-re": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "result",
+    "norm": 46.3
+  },
+  "indian-enrolment-for-us-higher-education-fell-6-5-in-2025-26": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
+  },
+  "indigo-flight-returns-to-pune-after-landing-gear-malfunction": {
+    "firstSeen": "2026-11-16T02:41:10.078Z",
+    "signature": "",
+    "norm": 36
   }
 }
