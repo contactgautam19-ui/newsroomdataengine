@@ -1,26 +1,106 @@
 {
-  "70-turnout-in-most-districts-as-four-phase-panchayat-polls-e": {
-    "firstSeen": "2026-11-16T20:57:04.953Z",
-    "signature": "election|election|poll|result|results|results",
-    "norm": 68.8
+  "6-killed-20-injured-after-bus-falls-into-ravine-in-uttarakha": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "disaster|injured|khan|killed|killed|rescue|rescue",
+    "norm": 78.6
   },
-  "illinois-couple-s-7-5m-award-over-baby-s-death-in-childbirth": {
-    "firstSeen": "2026-11-16T20:57:04.953Z",
-    "signature": "death|ruling|verdict|war",
-    "norm": 65
+  "head-constable-shot-dead-in-punjab-s-gurdaspur-sixth-police-": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "attack|attack|dead|dead|killed|killed",
+    "norm": 73
   },
-  "cyclone-akvan-to-bring-light-rainfall-to-parts-of-coastal-t-": {
-    "firstSeen": "2026-11-16T20:57:04.953Z",
-    "signature": "cyclone|weather",
-    "norm": 57.6
+  "6-killed-after-vehicle-falls-into-deep-gorge-on-banswada-moh": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "accident|khan|killed|killed",
+    "norm": 71.3
   },
-  "kerala-high-court-refers-petition-challenging-clean-chit-to-": {
-    "firstSeen": "2026-11-16T20:57:04.953Z",
-    "signature": "chief minister|high court|minister|mla|mp",
-    "norm": 52.6
+  "6-killed-nearly-20-injured-as-bus-plunges-into-ravine-in-utt": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "injured|khan|killed|killed",
+    "norm": 69.7
   },
-  "site-inspection-held-for-key-goshree-mamangalam-traffic-corr": {
-    "firstSeen": "2026-11-16T20:57:04.953Z",
+  "live-cyclone-akvan-likely-to-turn-severe-today-odisha-deploy": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "alert|cyclone|mp|rescue|rescue",
+    "norm": 68.9
+  },
+  "jeff-bezos-may-be-buyer-of-69-5-million-florida-mansion-loca": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "gold|price|war",
+    "norm": 67.6
+  },
+  "cyclone-akvan-odisha-govt-steps-up-precautionary-measures-in": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "cyclone|flood|flood|mp",
+    "norm": 66.3
+  },
+  "michigan-science-museum-reopens-after-3-year-overhaul-in-53-": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "flood|flood|mp",
+    "norm": 62.8
+  },
+  "major-gas-leak-at-ongc-well-in-andhra-s-konaseema-residents-": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "evacuat|gas leak|mp",
+    "norm": 62.5
+  },
+  "quad-s-china-message-leaders-set-for-key-manila-meeting-ahea": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "china|mp|trump|trump",
+    "norm": 61.8
+  },
+  "ramayana-part-1-box-office-collection-day-12-live-updates-ra": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "box office|crore|star",
+    "norm": 57.1
+  },
+  "india-ready-to-order-1-000-more-planes-to-meet-civilian-airc": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "mp|row",
+    "norm": 55.4
+  },
+  "japan-lodges-very-stern-protest-after-russian-aircraft-enter": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "cyclone-akvan-live-cyclonic-storm-stationary-now-likely-to-m": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "cyclone|storm",
+    "norm": 53.9
+  },
+  "kts-4-0-outlay-exceeded-govt-s-annual-tamil-language-budget-": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "budget|crore",
+    "norm": 48.7
+  },
+  "india-nepal-rail-link-ayodhya-janakpur-train-likely-to-be-la": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "ayodhya",
+    "norm": 48.2
+  },
+  "india-faces-acute-aircraft-shortage-needs-more-than-1-000-pl": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "florida-protects-22-461-acres-of-forests-wetlands-in-apalach": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-my-dad-was-like-my-first-child-sidharth-on-caring-for-fathe": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-iskcon-tantric-gorak-nath-287-other-religions-briefly-liste": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "jp-morgan-resolves-technical-issue-that-delayed-customers-tr": {
+    "firstSeen": "2026-11-17T03:43:52.694Z",
     "signature": "",
     "norm": 33.9
   }
