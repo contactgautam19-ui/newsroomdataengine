@@ -1,106 +1,186 @@
 {
-  "6-killed-20-injured-after-bus-falls-into-ravine-in-uttarakha": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "disaster|injured|khan|killed|killed|rescue|rescue",
-    "norm": 78.6
+  "a-constructive-trusted-partnership-pm-modi-at-quad-summit-in": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "disaster|minister|modi|modi|mp|prime minister|summit|trump|trump",
+    "norm": 80.1
   },
-  "head-constable-shot-dead-in-punjab-s-gurdaspur-sixth-police-": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "attack|attack|dead|dead|killed|killed",
-    "norm": 73
+  "prakasam-tobacco-farmers-fear-cyclone-akvan-after-suffering-": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "cyclone|fear|lakh|mp|rupee",
+    "norm": 79.4
   },
-  "6-killed-after-vehicle-falls-into-deep-gorge-on-banswada-moh": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "accident|khan|killed|killed",
-    "norm": 71.3
+  "dhoni-ends-ipl-playing-career-as-csk-appoints-him-team-mento": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "dead|dead|dhoni|ipl",
+    "norm": 76.2
   },
-  "6-killed-nearly-20-injured-as-bus-plunges-into-ravine-in-utt": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "injured|khan|killed|killed",
-    "norm": 69.7
+  "pm-modi-calls-for-initiative-on-seafarers-safety-at-east-asi": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "brics|modi|modi|summit|threat",
+    "norm": 72
   },
-  "live-cyclone-akvan-likely-to-turn-severe-today-odisha-deploy": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "alert|cyclone|mp|rescue|rescue",
-    "norm": 68.9
+  "cyclone-akvan-andhra-home-minister-anitha-puts-coastal-distr": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "alert|cyclone|minister|war",
+    "norm": 71
   },
-  "jeff-bezos-may-be-buyer-of-69-5-million-florida-mansion-loca": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "gold|price|war",
-    "norm": 67.6
+  "quad-leaders-summit-live-updates-quad-trusted-partnership-fo": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "minister|modi|modi|mp|president|prime minister|summit|trump|trump",
+    "norm": 70.5
   },
-  "cyclone-akvan-odisha-govt-steps-up-precautionary-measures-in": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "cyclone|flood|flood|mp",
-    "norm": 66.3
+  "asean-summit-live-updates-quad-is-a-trusted-partnership-deli": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "modi|modi|mp|president|summit|trump|trump",
+    "norm": 70.1
   },
-  "michigan-science-museum-reopens-after-3-year-overhaul-in-53-": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "flood|flood|mp",
-    "norm": 62.8
+  "rahul-gandhi-congress-respond-to-backlash-over-mumma-in-papa": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "anger|backlash|bjp|congress|fear|rahul gandhi",
+    "norm": 69.5
   },
-  "major-gas-leak-at-ongc-well-in-andhra-s-konaseema-residents-": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "evacuat|gas leak|mp",
-    "norm": 62.5
+  "pm-modi-by-his-side-trump-repeats-tough-guy-praise-at-quad-s": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "modi|modi|mp|summit|trump|trump",
+    "norm": 68
   },
-  "quad-s-china-message-leaders-set-for-key-manila-meeting-ahea": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "china|mp|trump|trump",
-    "norm": 61.8
+  "asean-summit-live-updates-u-s-president-trump-holds-discussi": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "mp|president|summit|trump|trump",
+    "norm": 64.6
   },
-  "ramayana-part-1-box-office-collection-day-12-live-updates-ra": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "box office|crore|star",
+  "rinehart-s-group-to-sell-623-000ha-cattle-station-with-15-00": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "bill|billion|war",
+    "norm": 63.9
+  },
+  "cyclone-akvan-to-make-landfall-between-nellore-and-tuni-in-a": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "cyclone|mp|storm",
+    "norm": 60.8
+  },
+  "dmk-slams-cm-vijay-over-mekedatu-stand-says-solo-performance": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "congress|slam|slams",
+    "norm": 60.8
+  },
+  "nvidia-forms-security-panel-amid-spy-scandal-trump-calls-it-": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
+  },
+  "development-will-ensure-nda-sweep-in-rajam-says-tdp-mla": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "crore|fund|mla",
+    "norm": 59.3
+  },
+  "andhra-pradesh-ranks-fourth-in-installation-of-rooftop-solar": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "lakh|maharashtra",
     "norm": 57.1
   },
-  "india-ready-to-order-1-000-more-planes-to-meet-civilian-airc": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "mp|row",
-    "norm": 55.4
-  },
-  "japan-lodges-very-stern-protest-after-russian-aircraft-enter": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "protest|protest",
+  "-pain-shock-disbelief-bilkis-bano-vows-to-challenge-sc-order": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "shock|shock",
     "norm": 54.2
   },
-  "cyclone-akvan-live-cyclonic-storm-stationary-now-likely-to-m": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
+  "delhi-s-construction-boom-workers-growing-risks-safety-takes": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "row|tragedy",
+    "norm": 53.9
+  },
+  "cyclone-akvan-live-updates-akvan-likely-to-become-a-severe-c": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
     "signature": "cyclone|storm",
     "norm": 53.9
   },
-  "kts-4-0-outlay-exceeded-govt-s-annual-tamil-language-budget-": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "budget|crore",
+  "ukrainian-scamster-being-extradited-from-romania-in-major-br": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "fraud|scam",
+    "norm": 52.1
+  },
+  "-simplicity-gaikwad-reveals-the-biggest-lesson-ms-dhoni-taug": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "dhoni|mp",
+    "norm": 51.7
+  },
+  "indiana-mother-denied-custody-change-father-s-health-records": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "record|ruling",
+    "norm": 50.2
+  },
+  "three-space-companies-selected-to-develop-high-resolution-3d": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "mla|mp",
     "norm": 48.7
   },
-  "india-nepal-rail-link-ayodhya-janakpur-train-likely-to-be-la": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "ayodhya",
-    "norm": 48.2
+  "grap-3-revoked-across-delhi-ncr-as-aqi-falls-to-204-stage-1-": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "mp|poll",
+    "norm": 48.7
   },
-  "india-faces-acute-aircraft-shortage-needs-more-than-1-000-pl": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
-    "signature": "mp",
+  "director-rajkumar-periasamy-on-helming-dhanush-mammootty-s-o": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "film|star",
+    "norm": 46.3
+  },
+  "cyclonic-storm-akvan-forms-over-the-bay-cm-tells-officials-t": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "storm",
+    "norm": 46.3
+  },
+  "t-n-govt-issues-guidelines-for-annan-seer-marriage-assistanc": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "gold",
+    "norm": 46.3
+  },
+  "t-n-ministers-meet-union-ministers-seek-centre-s-support-for": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "florida-protects-22-461-acres-of-forests-wetlands-in-apalach": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
+  "charlotte-church-s-retreat-at-laura-ashley-s-old-home-shuts-": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "-my-dad-was-like-my-first-child-sidharth-on-caring-for-fathe": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
+  "grap-iii-curbs-revoked-in-delhi-ncr-as-air-quality-improves": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
     "signature": "mp",
-    "norm": 45.9
+    "norm": 44
   },
-  "-iskcon-tantric-gorak-nath-287-other-religions-briefly-liste": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
+  "ccmb-study-points-to-new-way-of-tackling-fungal-infections": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "jp-morgan-resolves-technical-issue-that-delayed-customers-tr": {
-    "firstSeen": "2026-11-17T03:43:52.694Z",
+  "hyderabad-police-arrest-four-for-using-aluminium-foil-disgui": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "",
+    "norm": 36
+  },
+  "calicut-varsity-in-keralam-to-tighten-its-grip-on-autonomous": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "",
+    "norm": 36
+  },
+  "telangana-s-debt-servicing-accounted-to-26-8-of-2024-25-tota": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "",
+    "norm": 36
+  },
+  "rajeev-taranath-memorial-event-in-mysuru-on-november-21": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "",
+    "norm": 36
+  },
+  "appeal-for-translation-of-sonia-gandhi-s-autobiography-into-": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
+    "signature": "",
+    "norm": 36
+  },
+  "opinion-robert-pattinson-will-the-maga-boys-and-cool-girls-b": {
+    "firstSeen": "2026-11-17T13:10:37.963Z",
     "signature": "",
     "norm": 33.9
   }
