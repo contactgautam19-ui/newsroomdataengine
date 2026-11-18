@@ -1,177 +1,42 @@
 {
-  "mp-cm-mohan-yadav-suspends-6-cops-after-viral-video-shows-th": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "cctv|chief minister|minister|mp|threat|video|viral|viral|viral|viral video",
-    "norm": 91.8
+  "us-reissues-security-warnings-to-citizens-in-bahrain-saudi": {
+    "firstSeen": "2026-11-18T21:51:14.430Z",
+    "signature": "attack|attack|iran|war|warning",
+    "norm": 77.9
   },
-  "kerala-congress-mp-s-aide-extorts-rs-10-lakh-from-doctor-exp": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "alert|congress|lakh|mp|threat",
-    "norm": 79.4
-  },
-  "karnataka-minister-writes-to-union-minister-seeks-fuel-trans": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "fuel|fund|minister|mp|petrol|petrol",
-    "norm": 75.5
-  },
-  "india-inks-nearly-rs-2-000-cr-pact-with-israel-to-upgrade-ba": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "crore|defence|israel|war",
-    "norm": 74
-  },
-  "nirani-disputes-minister-s-claims-on-ethanol-blending": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "fuel|iran|minister|mp",
+  "35-yrs-on-a-landmark-moment-forces-kill-kashmir-s-last-activ": {
+    "firstSeen": "2026-11-18T21:51:14.430Z",
+    "signature": "attack|attack|terror|terror",
     "norm": 69.6
   },
-  "brought-local-terrorist-recruitment-in-jammu-and-kashmir-to-": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "recruitment|terror|terror",
-    "norm": 69.6
+  "fired-over-marijuana-smell-near-car-connecticut-woman-s-62-5": {
+    "firstSeen": "2026-11-18T21:51:14.430Z",
+    "signature": "fire|fire|war",
+    "norm": 64.9
   },
-  "indian-navy-marks-50-years-of-long-range-maritime-reconnaiss": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "air force|gold|mp|navy",
-    "norm": 63.5
+  "panjab-university-improves-its-global-standing-in-interdisci": {
+    "firstSeen": "2026-11-18T21:51:14.430Z",
+    "signature": "ipl|mp",
+    "norm": 55.4
   },
-  "cyclone-akvan-live-updates-akvan-likely-to-cross-between-mac": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "cyclone|mp|storm",
-    "norm": 62.5
+  "exclusive-india-to-charge-bulk-scotch-imports-162-5-duty-and": {
+    "firstSeen": "2026-11-18T21:51:14.430Z",
+    "signature": "mp|tax",
+    "norm": 53.2
   },
-  "-over-a-tea-or-something-columbia-student-s-offer-to-rahul-g": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "exam|mp|poll|rahul gandhi",
-    "norm": 61.8
-  },
-  "vice-president-t-n-governor-cm-vijay-pay-tribute-to-freedom-": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "death|governor|president",
-    "norm": 61.4
-  },
-  "rajnath-singh-says-india-japan-maritime-ties-key-to-free-ope": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "defence|minister|war",
-    "norm": 59.7
-  },
-  "big-relief-for-int-l-students-us-court-halts-trump-restricti": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "mp|trump|trump",
-    "norm": 59.7
-  },
-  "kaziranga-21-elephants-died-in-22-months-rti-reveals": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "died|iran",
-    "norm": 59.3
-  },
-  "tvk-versus-dmk-social-media-war-should-remain-constructive-n": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "high court|war",
-    "norm": 57.1
-  },
-  "those-under-12-can-t-ride-lifts-escalators-alone-maharashtra": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "maharashtra|mp",
-    "norm": 57.1
-  },
-  "cm-vijay-virtually-inaugurates-hospital-buildings-higher-edu": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "hospital|minister",
-    "norm": 57.1
-  },
-  "cyclone-akvan-shifts-track-again-t-n-may-have-to-wait-till-n": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "cyclone|heavy rain|storm",
-    "norm": 56.6
-  },
-  "delhi-court-orders-framing-of-charges-against-14-accused-in-": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "neet|star",
-    "norm": 55.7
-  },
-  "kulgam-encounter-25-girls-2-teachers-rescued-before-final-as": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "rescue|rescue",
-    "norm": 54.2
-  },
-  "supreme-court-issues-notice-on-contempt-plea-against-lawyer-": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "cji|mp|supreme court",
-    "norm": 52.7
-  },
-  "samajwadi-party-leader-azam-khan-released-from-jail-set-to-l": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "khan|mp",
-    "norm": 51.7
-  },
-  "trusted-india-japan-partnership-vital-amid-global-uncertaint": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "jaishankar|minister",
-    "norm": 50.5
-  },
-  "madhya-pradesh-ends-two-child-norm-for-government-employees-": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "cabinet|mp",
+  "keralam-cm-satheesan-faces-questions-by-ministers-over-key-c": {
+    "firstSeen": "2026-11-18T21:51:14.430Z",
+    "signature": "cabinet|minister",
     "norm": 48.7
   },
-  "tamil-nadu-police-launch-e-csr-facility-to-enable-online-fil": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "mp",
-    "norm": 45.9
+  "uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-foc": {
+    "firstSeen": "2026-11-18T21:51:14.430Z",
+    "signature": "row",
+    "norm": 46.3
   },
-  "bharathi-pasarai-invites-applications-for-art-and-music-comp": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "discussion-on-border-issues-in-belagavi-on-saturday": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "border",
-    "norm": 45.9
-  },
-  "bjp-opposes-miyapur-land-auction-demands-parks-and-public-am": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "formal-invitation-did-not-arrive-stalin-on-his-absence-at-so": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "congress",
-    "norm": 44
-  },
-  "from-water-man-to-avoiding-ponds-how-anant-ambani-s-help-cha": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "ambani",
-    "norm": 42.4
-  },
-  "eesl-showcases-green-energy-solutions-at-trade-fair": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "",
-    "norm": 36
-  },
-  "here-are-the-big-stories-from-karnataka-today": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "",
-    "norm": 36
-  },
-  "laxman-kumar-calls-for-barrier-free-access-to-public-buildin": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "",
-    "norm": 36
-  },
-  "indigo-joins-air-india-akasa-in-suspending-saudi-flights-unt": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "",
-    "norm": 36
-  },
-  "gta-6-everything-you-need-to-know-about-the-highly-anticipat": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "jitu-munda-carried-sister-s-skeleton-to-bank-for-20-000-what": {
-    "firstSeen": "2026-11-18T13:51:12.891Z",
-    "signature": "",
-    "norm": 33.9
+  "france-jails-3-women-for-joining-isis-in-syria": {
+    "firstSeen": "2026-11-18T21:51:14.430Z",
+    "signature": "slam",
+    "norm": 46.3
   }
 }
