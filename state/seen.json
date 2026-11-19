@@ -1,42 +1,147 @@
 {
-  "us-reissues-security-warnings-to-citizens-in-bahrain-saudi": {
-    "firstSeen": "2026-11-18T21:51:14.430Z",
-    "signature": "attack|attack|iran|war|warning",
-    "norm": 77.9
+  "fiji-declares-state-of-disaster-amid-el-nino-driven-drought": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "disaster|flood|flood|mp|war|weather",
+    "norm": 85.7
   },
-  "35-yrs-on-a-landmark-moment-forces-kill-kashmir-s-last-activ": {
-    "firstSeen": "2026-11-18T21:51:14.430Z",
-    "signature": "attack|attack|terror|terror",
-    "norm": 69.6
+  "gujarat-man-killed-as-speeding-fortuner-loaded-with-liquor-c": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "crash|crash|crowd|killed|killed|row",
+    "norm": 81
   },
-  "fired-over-marijuana-smell-near-car-connecticut-woman-s-62-5": {
-    "firstSeen": "2026-11-18T21:51:14.430Z",
-    "signature": "fire|fire|war",
-    "norm": 64.9
+  "yalta-2-0-in-making-nuclear-arms-two-wars-on-the-table-as-tr": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "china|mp|president|trump|trump|war",
+    "norm": 73
   },
-  "panjab-university-improves-its-global-standing-in-interdisci": {
-    "firstSeen": "2026-11-18T21:51:14.430Z",
-    "signature": "ipl|mp",
-    "norm": 55.4
+  "drs-drama-shubman-gill-has-words-with-umpire-height-hai-bat-": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "attack|attack|bumrah|mp",
+    "norm": 72.7
   },
-  "exclusive-india-to-charge-bulk-scotch-imports-162-5-duty-and": {
-    "firstSeen": "2026-11-18T21:51:14.430Z",
-    "signature": "mp|tax",
-    "norm": 53.2
+  "crashed-florida-helicopter-that-killed-1-was-flying-extremel": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "crash|crash|killed|killed",
+    "norm": 71
   },
-  "keralam-cm-satheesan-faces-questions-by-ministers-over-key-c": {
-    "firstSeen": "2026-11-18T21:51:14.430Z",
-    "signature": "cabinet|minister",
-    "norm": 48.7
+  "anant-singh-s-daughter-s-wedding-horse-race-with-thar-suv-as": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "coalition|election|election|mp|ruling|wedding",
+    "norm": 69.7
   },
-  "uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-foc": {
-    "firstSeen": "2026-11-18T21:51:14.430Z",
-    "signature": "row",
+  "odisha-evacuates-46k-people-as-cyclone-akvan-approaches-red-": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "alert|chief minister|cyclone|evacuat|minister|red alert",
+    "norm": 68.8
+  },
+  "acquitted-in-2018-jailed-7-more-years-sc-awards-gond-rs-30-l": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "lakh|mp|supreme court|war",
+    "norm": 68
+  },
+  "pm-modi-pays-tribute-to-former-pm-indira-gandhi-on-her-birth": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "minister|modi|modi|prime minister",
+    "norm": 63.5
+  },
+  "gta-6-has-an-india-connection-partly-built-by-bengaluru-deve": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "bjp|mp|star|video",
+    "norm": 61.8
+  },
+  "slain-terrorist-lateef-bhat-s-funeral-held-amid-tight-securi": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "terror|terror",
+    "norm": 57.6
+  },
+  "man-sells-house-skips-itr-amp-then-claims-capital-gains-exem": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "lakh|mp|tax",
+    "norm": 57.6
+  },
+  "-thanks-football-world-cup-champions-league-winner-juan-mata": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "mp|world cup",
+    "norm": 57.1
+  },
+  "gta-6-has-a-bengaluru-connection-tejasvi-surya-says-over-1-6": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "mp|star",
+    "norm": 53.5
+  },
+  "sfi-abvp-clash-over-rival-bookstalls-on-kolkata-s-college-st": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "clash|clash",
+    "norm": 52.4
+  },
+  "anthropic-ipo-how-can-indian-investors-buy-stock-and-is-it-w": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "investor|ipo|stock market",
+    "norm": 50.9
+  },
+  "shashi-tharoor-led-parliamentary-panel-to-discuss-india-paki": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "pakistan|parliament",
+    "norm": 50.5
+  },
+  "cisf-foils-forceful-entry-attempt-at-delhi-airport-s-termina": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "mp|video",
+    "norm": 50.2
+  },
+  "watch-man-attempts-to-enter-delhi-airport-without-documents-": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "mp|watch",
+    "norm": 50.2
+  },
+  "vincent-van-gogh-s-1890-painting-sells-for-190-4-million": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "mp|record",
+    "norm": 50.2
+  },
+  "elephant-linked-to-16-deaths-tranquilised-fitted-with-satell": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "death",
+    "norm": 48.2
+  },
+  "6-madhya-pradesh-cops-suspended-for-threatening-couple-with-": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "threat",
     "norm": 46.3
   },
-  "france-jails-3-women-for-joining-isis-in-syria": {
-    "firstSeen": "2026-11-18T21:51:14.430Z",
-    "signature": "slam",
-    "norm": 46.3
+  "mcd-schools-to-introduce-qr-code-system-move-admissions-onli": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "type-2-diabetes-is-striking-indians-before-20s-it-is-more-ag": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "poll",
+    "norm": 45.9
+  },
+  "grand-theft-auto-6-to-get-uk-release-after-13-year-wait-for-": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "mcd-plans-24-nigamshree-schools-of-excellence-to-improve-civ": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "egyptian-farmer-s-property-yields-2-statues-that-may-reveal-": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "video-man-tries-to-forcibly-enter-delhi-airport-without-docu": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "video",
+    "norm": 40.7
+  },
+  "samsung-begins-one-ui-9-5-beta-program-samsung-newsroom-mala": {
+    "firstSeen": "2026-11-19T03:15:37.276Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
