@@ -1,36 +1,231 @@
 {
-  "turkish-court-bars-jailed-istanbul-mayor-from-presidential-e": {
-    "firstSeen": "2026-11-19T21:25:20.596Z",
-    "signature": "election|election|ipl|mp|president|ruling",
-    "norm": 68
+  "kashmir-free-from-india-born-terrorists-after-35-years-amit-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "amit shah|minister|modi|modi|policy|prime minister|result|results|results|terror|terror|war",
+    "norm": 97
   },
-  "teacher-fired-over-covid-tests-wins-ruling-after-school-boar": {
-    "firstSeen": "2026-11-19T21:25:20.596Z",
-    "signature": "fire|fire|mp|ruling|supreme court",
-    "norm": 67.3
+  "dawood-ibrahim-s-aide-who-shot-dead-man-near-delhi-minister-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "dead|dead|fire|fire|killed|killed|minister",
+    "norm": 83.4
   },
-  "trump-eyes-2027-to-see-what-happens-with-iran": {
-    "firstSeen": "2026-11-19T21:25:20.596Z",
-    "signature": "iran|mp|trump|trump",
-    "norm": 65
+  "d-company-linked-gangster-accused-in-youth-s-murder-outside-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "gst|killed|killed|minister|mp|war",
+    "norm": 82.6
   },
-  "3-leopards-found-dead-in-north-kashmir-poisoning-suspected": {
-    "firstSeen": "2026-11-19T21:25:20.596Z",
-    "signature": "dead|dead",
-    "norm": 57.6
+  "3-lakh-evacuated-47-trains-cancelled-odisha-on-high-alert-as": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "alert|cyclone|evacuat|lakh|mp|war",
+    "norm": 81.2
   },
-  "unfpa-puts-india-s-population-at-1-47-bn-calls-for-investmen": {
-    "firstSeen": "2026-11-19T21:25:20.596Z",
+  "anthropic-ipo-raises-81-3-billion-stock-soars-then-slips-wha": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "bill|billion|ipo|record|row|stock market",
+    "norm": 76.8
+  },
+  "gujarat-anti-terror-agency-busts-crude-oil-theft-racket-in-a": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "lakh|mp|terror|terror",
+    "norm": 74
+  },
+  "want-an-alliance-with-sp-but-it-must-be-respectful-congress-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "alliance|congress|election|election|threat",
+    "norm": 73.6
+  },
+  "rajasthan-zila-parishad-result-2026-live-vote-counting-begin": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "bjp|congress|election|election|result|results|results|vote",
+    "norm": 73.4
+  },
+  "tamil-nadu-kodaikanal-horror-wedding-guests-minibus-falls-in": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "accident|devastat|horror|tragedy|wedding",
+    "norm": 72.2
+  },
+  "1-killed-1-injured-as-basement-of-4-storey-building-catches-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "fire|fire|injured|killed|killed",
+    "norm": 70.9
+  },
+  "canada-names-goldy-brar-as-its-most-wanted-fugitive-250-000-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "gold|gst|war",
+    "norm": 67.6
+  },
+  "naseem-durrani-accused-in-two-delhi-murders-and-linked-to-da": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "killed|killed|mp",
+    "norm": 67.6
+  },
+  "cyclone-akvan-landfall-live-updates-rough-seas-gusty-winds-l": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "cyclone|storm|war",
+    "norm": 64.5
+  },
+  "cyclone-akvan-live-landfall-process-begins-coastal-odisha-di": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "cyclone|heavy rain|war",
+    "norm": 64.5
+  },
+  "us-prosecutor-declines-charges-against-white-cop-who-killed-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "killed|killed|shooting",
+    "norm": 62.9
+  },
+  "historic-trump-xi-putin-summit-ends-with-symbolism-no-substa": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "mp|president|summit|trump|trump",
+    "norm": 62.9
+  },
+  "graca-machel-awarded-2025-indira-gandhi-prize-for-peace-disa": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "congress|parliament|vote|war",
+    "norm": 61.8
+  },
+  "-he-s-a-friend-of-mine-trump-reacts-to-musk-s-i-m-not-maga-r": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
+  },
+  "52-lakh-weddings-in-india-in-25-days-over-rs-7-lakh-crore-bu": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "crore|lakh|wedding",
+    "norm": 56.1
+  },
+  "bmc-starts-demolition-of-building-linked-to-dawood-ibrahim-i": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "anger|star",
+    "norm": 55.7
+  },
+  "hello-earth-nasa-s-voyager-1-phones-home-from-beyond-16-bill": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
     "signature": "bill|billion",
-    "norm": 53.2
+    "norm": 55
   },
-  "fir-against-two-former-bengal-ministers-over-sexual-assault-": {
-    "firstSeen": "2026-11-19T21:25:20.596Z",
-    "signature": "bjp|cabinet|mamata|minister",
-    "norm": 52.1
+  "very-heavy-rain-lashes-srikakulam-as-akvan-moves-closer-to-c": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "heavy rain|record",
+    "norm": 54.2
   },
-  "best-buy-shopper-s-600-open-box-tv-fails-court-allows-parts-": {
-    "firstSeen": "2026-11-19T21:25:20.596Z",
+  "bengal-blueprint-amit-shah-to-spend-7-days-a-month-in-up-as-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "amit shah|bjp|mp|poll",
+    "norm": 53.9
+  },
+  "florida-sets-record-with-20th-execution-of-2026-puts-71-year": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "death|record",
+    "norm": 52.4
+  },
+  "owner-who-also-runs-a-youtube-channel-held-in-building-fire-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "fire|fire",
+    "norm": 52.4
+  },
+  "gta-6-breaks-records-as-sales-top-2bn-industry-estimate": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "mp|record",
+    "norm": 52
+  },
+  "yadadri-thermal-power-plant-the-toxic-cost-of-power": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "poll|star",
+    "norm": 51.7
+  },
+  "mp-high-court-pulls-up-state-government-for-using-ai-to-cite": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "high court|mp|supreme court",
+    "norm": 50.9
+  },
+  "vizag-junior-literary-fest-where-young-minds-find-their-voic": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "war",
+    "norm": 48.2
+  },
+  "putin-rejects-talk-of-war-with-europe-as-nonsense-calls-for-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "apple-working-on-agents-who-can-do-more-than-chatgpt-muse-or": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "share-market-today-this-non-energy-company-is-betting-big-on": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "twenty-five-cos-get-nod-to-set-up-units-in-gwalior-telecom-z": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "mcd-sets-penalties-for-solid-waste-management-violations-10-": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "resignation-not-admission-of-guilt-justice-yashwant-varma-to": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "lok sabha",
+    "norm": 44
+  },
+  "live-sonowal-reviews-safety-of-9-vessels-with-indians-near-h": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "",
+    "norm": 36
+  },
+  "tukaram-mundhe-withdraws-petition-after-dragging-centre-to-t": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "",
+    "norm": 36
+  },
+  "beneficial-bug-baler-colorado-researchers-test-wasp-releases": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "2-3-cups-of-coffee-daily-linked-to-far-lower-dementia-risk": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "rannvijay-35-days-away-from-kids-tougher-than-any-roadies-ta": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "antimicrobial-makers-may-need-centre-s-nod-before-seeking-li": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "seafarers-safety-high-priority-for-government-says-hardeep-p": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "noel-chandra-visit-air-india-s-hq-in-gurugram-review-perform": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "iaf-central-sanskrit-university-sign-mou-to-provide-yoga-tra": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "show-cause-notice-issued-to-90-medical-shops-in-hyderabad-ov": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "javed-akhtar-s-take-on-patriarchy-is-just-plain-wrong": {
+    "firstSeen": "2026-11-20T03:03:14.241Z",
     "signature": "",
     "norm": 33.9
   }
