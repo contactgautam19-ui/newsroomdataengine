@@ -1,176 +1,91 @@
 {
-  "prince-william-announces-5-year-accident-coverage-for-10-000": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "accident|anger|khan|maharashtra|mp",
-    "norm": 82.3
+  "safeguards-against-abuse-of-power-essential-to-preserve-crit": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "controversy|election|election|lok sabha",
+    "norm": 70
   },
-  "kadapa-mp-avinash-reddy-s-convoy-attacked-in-pulivendula-tdp": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "attack|attack|election|election|mp",
-    "norm": 79.8
+  "following-cyclone-akvan-monsoon-rain-to-resume-over-t-n-from": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "cyclone|row|weather",
+    "norm": 69.6
   },
-  "english-club-brutally-sacks-manager-hours-after-wishing-him-": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "brutal|mp|result|results|results",
-    "norm": 73.5
+  "state-candidates-should-get-better-opportunities-in-medical-": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "chief minister|exam|minister|mp|neet",
+    "norm": 67
   },
-  "deepam-row-sc-s-one-time-nod-sparks-bjp-dmk-tvk-clash-faith-": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "bjp|clash|clash|mp|row|supreme court",
-    "norm": 72.3
+  "woman-delivers-triplets-after-non-art-treatment-at-telangana": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "hospital|ipl",
+    "norm": 59.3
   },
-  "ht-exclusive-no-takers-for-indian-wear-in-navy-officers-mess": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "minister|modi|modi|navy|prime minister",
-    "norm": 64.6
-  },
-  "supreme-court-dismisses-karnataka-appeal-against-bike-taxis": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "sharma|supreme court|tax",
-    "norm": 62.1
-  },
-  "cyclone-akvan-live-disaster-management-minister-says-no-majo": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "cyclone|disaster|minister",
-    "norm": 60.8
-  },
-  "naidu-wants-apmdc-listed-on-stock-market-by-december-2027": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "chief minister|minister|stock market",
+  "nia-writes-to-uae-seeking-access-to-suspects-in-flydubai-mid": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "attack|attack",
     "norm": 57.6
   },
-  "12th-prc-invites-representations-from-andhra-employees-till-": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "exam|mp",
+  "new-york-mayor-zohran-mamdani-injured-in-soccer-match-agains": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "injured|match",
+    "norm": 57.6
+  },
+  "infra-push-and-low-base-effect-pushes-core-sector-growth-to-": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "fuel|row",
     "norm": 57.1
   },
-  "is-your-hallmarked-gold-pure-ibja-flags-rhenium-adulteration": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "gold|mp",
-    "norm": 57.1
-  },
-  "irregularities-in-quarrying-minerals-police-search-former-dm": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "minister|war",
+  "amazon-communities-both-fear-and-coexist-with-giant-anaconda": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "deal|fear",
     "norm": 55.4
   },
-  "cauvery-water-row-supreme-court-rejects-tamil-nadu-s-pleas-f": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "row|supreme court",
-    "norm": 55.4
+  "state-govt-should-clarify-on-dismissal-of-guidance-employees": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "crore|mp",
+    "norm": 53.2
   },
-  "karnataka-high-court-allows-bike-taxies-asks-state-governmen": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "high court|tax",
-    "norm": 55
-  },
-  "4-962-acres-land-in-90-villages-need-to-be-acquired-for-201-": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "investor|summit",
-    "norm": 55
-  },
-  "last-flights-under-udan-to-take-off-from-shivamogga-today": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "fund|star",
-    "norm": 51.7
-  },
-  "rajasthan-panchayat-polls-congress-strengthens-lead-over-bjp": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "bjp|congress|poll",
-    "norm": 50.9
-  },
-  "sensex-today-stock-market-highlights-sensex-rises-897-pts-ni": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "nifty|sensex|stock market",
-    "norm": 50.9
-  },
-  "-cultures-civilisations-cut-across-boundaries-pakistan-minis": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "minister|pakistan",
-    "norm": 50.5
-  },
-  "pakistan-minister-musadik-malik-received-at-delhi-airport-un": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "minister|pakistan",
-    "norm": 48.7
-  },
-  "900-year-old-octagonal-building-found-on-japanese-island-wit": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "china|mp",
-    "norm": 48.7
-  },
-  "westward-migration-of-butterflies-in-southern-india-observed": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "war",
-    "norm": 48.2
-  },
-  "-bachelor-party-d-eux-movie-review-amal-neerad-makes-a-seque": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "film|movie",
-    "norm": 46.3
-  },
-  "gold-slips-4-silver-tanks-6-to-2026-lows-as-stronger-dollar-": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "gold",
-    "norm": 46.3
-  },
-  "excise-crackdown-in-sabarimala-96-cotpa-cases-registered": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "mp",
+  "lawyer-seeks-to-probate-will-left-behind-by-former-dgp-s-wif": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "high court",
     "norm": 45.9
   },
-  "ysrcp-accuses-nda-government-of-leaving-over-8-700-crore-in-": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "crore",
+  "tngcta-writes-to-cm-higher-education-minister-to-appoint-sen": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "minister",
     "norm": 45.9
   },
-  "murmu-urges-young-doctors-to-uphold-ethics-compassion-and-se": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
+  "investment-secrets-leaked-to-andhra-tamil-nadu-agency-breaks": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
     "signature": "mp",
     "norm": 44
   },
-  "cauvery-dispute-sc-dismisses-t-n-plea-seeking-release-of-11-": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
+  "krrs-demands-action-against-sugar-factory": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
+    "signature": "actor",
+    "norm": 42.4
+  },
+  "ijcci-to-lead-business-delegation-to-japan-from-nov-30": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
     "signature": "",
     "norm": 36
   },
-  "cheetah-brought-from-botswana-gives-birth-to-four-cubs-at-ku": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
+  "53-vendors-participate-in-atomic-energy-department-s-vendor-": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
     "signature": "",
     "norm": 36
   },
-  "pregnant-woman-dies-of-suspected-dengue-in-erode-district": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "",
-    "norm": 36
-  },
-  "farmers-body-calls-public-hearing-on-greenko-project-expansi": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "",
-    "norm": 36
-  },
-  "groundbreaking-ceremony-for-indiramma-housing-towers-over-2-": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "",
-    "norm": 36
-  },
-  "appeal-against-acquittal-brij-bhushan-files-reply-in-delhi-c": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
+  "singareni-keen-to-supply-naini-coal-to-ntpc-kaniha-plant-aft": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
     "signature": "",
     "norm": 33.9
   },
-  "a-facebook-request-brought-2-000-patches-to-a-boy-with-leuka": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
+  "eric-schmidt-s-22-6m-malibu-home-listed-for-37-5m-five-years": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
     "signature": "",
     "norm": 33.9
   },
-  "dhaka-stalling-sheikh-hasina-s-return-by-withholding-passpor": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "spicejet-gets-7-day-notice-from-dgca-over-operational-failur": {
-    "firstSeen": "2026-11-20T11:26:43.035Z",
+  "court-rejects-anticipatory-bail-pleas-of-six-in-siddaramaiah": {
+    "firstSeen": "2026-11-20T20:01:22.119Z",
     "signature": "",
     "norm": 33.9
   }
