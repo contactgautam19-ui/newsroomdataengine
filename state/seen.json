@@ -1,166 +1,101 @@
 {
-  "thousands-of-govt-staff-teachers-lay-siege-to-keralam-secret": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "mp|opposition|protest|protest|war|warning",
-    "norm": 81.6
+  "world-needs-skilled-youth-not-merely-degree-holders-says-pm-": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "killed|killed|modi|modi|mp",
+    "norm": 81.3
   },
-  "watch-pm-modi-to-inaugurate-5-500-crore-nitish-setu-in-bihar": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "crore|minister|modi|modi|mp|prime minister|watch",
-    "norm": 76.3
+  "-people-bought-less-gold-prices-fell-pm-modi-recalls-his-may": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "gold|modi|modi|price|prices",
+    "norm": 73
   },
-  "sandpapergate-khawaja-warner-pulled-from-commentary-duties-a": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "cricket|mp|storm|war",
-    "norm": 75.9
+  "-bigger-than-match-fixing-legendary-cricketer-s-explosive-sa": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "cricket|cricketer|match|mp",
+    "norm": 69.3
   },
-  "pm-modi-in-bihar-nitish-setu-inaugurated-34-470-crore-projec": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "crore|minister|modi|modi|prime minister",
-    "norm": 71.6
+  "manipur-hooch-deaths-rahul-gandhi-blames-negligence-of-bjp-g": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "bjp|death|devastat|rahul gandhi",
+    "norm": 65
   },
-  "kerala-orders-probe-as-sabarimala-bookings-stay-full-crowds-": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "crowd|match|mp|row",
-    "norm": 71.4
+  "cricketer-yuzvendra-chahal-joins-bjp-gets-role-in-obc-commit": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "bjp|cricket|cricketer",
+    "norm": 62.5
   },
-  "independent-sir-commission-asks-cm-adityanath-for-proof-of-h": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "chief minister|crore|exam|minister",
-    "norm": 69.6
+  "cricketer-yuzvendra-chahal-joins-bjp-named-special-invitee-t": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "bjp|cricket|cricketer",
+    "norm": 62.5
   },
-  "convicts-lawyer-rejects-claims-of-bilkis-bano-being-kept-in-": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "bomb|high court|war",
-    "norm": 67.6
+  "political-rivals-cinema-veterans-share-spotlight-at-anirudh-": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "actor|chief minister|minister|president|wedding",
+    "norm": 61.8
   },
-  "fbi-most-wanted-cartel-boss-captured-gunfire-at-stadium-spar": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "fire|fire|panic|video",
-    "norm": 67.6
-  },
-  "14-flights-cancelled-at-ranchi-airport-amid-cyclone-akvan-li": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "chief minister|cyclone|heavy rain|minister|mp",
-    "norm": 67
-  },
-  "nj-woman-says-trooper-cuffed-her-during-stroke-state-appeals": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "result|tragic|verdict",
-    "norm": 66
-  },
-  "after-big-hug-for-nitish-kumar-pm-modi-inaugurates-bridge-na": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "modi|modi|mp|watch",
-    "norm": 65.3
-  },
-  "14-flights-cancelled-at-ranchi-airport-due-to-bad-weather-tr": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "cyclone|khan|weather",
-    "norm": 64.6
-  },
-  "congress-vs-congress-over-siraj-party-mp-tells-imran-masood-": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "congress|election|election|mp",
-    "norm": 63.5
-  },
-  "madagascar-conservationists-carried-15-eggs-of-the-world-s-r": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "anger|rescue|rescue",
-    "norm": 63.2
-  },
-  "family-of-man-who-died-in-tamil-nadu-police-station-allowed-": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "cctv|death|died|watch",
-    "norm": 60.8
-  },
-  "pm-modi-inaugurates-nitish-setu-in-bihar-recreates-poll-vict": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "modi|modi|poll",
+  "yuzvendra-chahal-joins-bjp-as-obc-morcha-member-thanks-pm-mo": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "bjp|modi|modi",
     "norm": 59.7
   },
-  "karnataka-doctor-enters-guinness-record-after-2-777-free-sun": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "lakh|mp|record",
-    "norm": 59
+  "yuzvendra-chahal-joins-bjp-gets-role-in-party-s-obc-morcha-c": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "bjp|cricket|mp",
+    "norm": 59.7
   },
-  "-bjp-wiped-out-congress-claims-sweep-in-rajasthan-panchayat-": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "bjp|congress|poll|sharma",
-    "norm": 58.3
-  },
-  "group-of-minors-assault-man-woman-at-kurla-garden-eight-deta": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "attack|attack",
+  "amid-cold-wave-students-indefinite-strike-against-j-k-recrui": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "recruitment|scam",
     "norm": 57.6
   },
-  "-i-challenge-challenges-pm-modi-s-message-to-iit-kharagpur-s": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "modi|modi",
-    "norm": 55.4
+  "shivakumar-challenges-bjp-to-get-5-300-crore-grant-by-centre": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "bjp|crore",
+    "norm": 55
   },
-  "break-free-of-limiting-beliefs-to-achieve-new-heights-pm-mod": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "modi|modi",
-    "norm": 55.4
+  "will-work-to-resolve-fund-crunch-facing-edamalakudy-minister": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "fund|minister",
+    "norm": 55
   },
-  "rs-10-000-penalty-for-burning-garbage-delhi-mcd-s-new-waste-": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "lakh|mp",
-    "norm": 53.2
-  },
-  "karnataka-chief-minister-to-lead-delegation-to-japan-for-inv": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "chief minister|minister|mp",
-    "norm": 52.7
-  },
-  "rajasthan-panchayat-polls-bjp-s-urban-gains-fail-to-translat": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "bjp|minister|poll",
-    "norm": 52.7
-  },
-  "arunachal-police-seized-18-600-kg-of-narcotics-worth-75-cror": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "crore|khan",
-    "norm": 51.7
-  },
-  "karnataka-to-make-fresh-bid-for-st-status-for-kadugolla-and-": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "cabinet|mp",
+  "-lathi-haregi-laptop-jitega-akhilesh-coins-slogan-aimed-at-y": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "bjp|mp",
     "norm": 50.5
   },
-  "rs-98-water-bill-costs-gurgaon-restaurant-rs-31-098-in-consu": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "bill|mp",
-    "norm": 48.7
+  "is-forfeiting-copies-of-a-book-the-right-way-to-handle-objec": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "threat",
+    "norm": 48.2
   },
-  "delhi-to-kashmir-drug-racket-busted-how-a-bus-check-led-ncb-": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "war",
+  "neet-paper-leak-case-delhi-court-frames-charges-against-14-a": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "neet",
     "norm": 46.3
   },
-  "more-than-100-000-strangers-have-shared-handwritten-stories-": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
-    "signature": "anger",
-    "norm": 46.3
+  "dharwad-to-host-state-level-10k-cross-country-run-on-nov-29": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
+    "signature": "mp",
+    "norm": 45.9
   },
-  "pakistani-man-caught-by-locals-in-jammu-s-arnia-handed-over-": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
+  "mea-clears-pakistani-delegation-s-taj-mahal-visit-but-malik-": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
     "signature": "pakistan",
     "norm": 44
   },
-  "declare-cauvery-delta-drought-hit-pay-40-000-per-acre-relief": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
+  "govt-will-explore-land-allotment-for-tennis-academy-in-benga": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
     "signature": "",
     "norm": 36
   },
-  "u-s-court-sentences-indian-national-nikhil-gupta-to-235-mont": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
+  "raichur-is-a-treasure-trove-of-kannada-literature-says-rajap": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 36
   },
-  "kalpakkam-dae-centre-conducts-emergency-preparedness-drive": {
-    "firstSeen": "2026-11-21T09:39:27.003Z",
+  "taj-yelahanka-tata-group-s-400th-hotel-opens-in-bengaluru": {
+    "firstSeen": "2026-11-21T17:23:49.573Z",
     "signature": "",
     "norm": 33.9
   }
