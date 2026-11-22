@@ -1,182 +1,302 @@
 {
-  "-jewish-terrorism-gadi-eisenkot-slams-west-bank-attacks-by-i": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "attack|attack|cabinet|israel|minister|slam|slams|terror|terror",
-    "norm": 92.5
+  "trump-threatens-fresh-strikes-on-iran-after-new-year-if-talk": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "election|election|ipl|iran|mp|president|threat|trump|trump|war|warning",
+    "norm": 93
   },
-  "azam-khan-returns-can-the-sp-firebrand-blunt-the-bjp-s-polar": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "bjp|congress|fire|fire|khan|war",
-    "norm": 83.2
+  "wyoming-siblings-clash-over-ranch-held-since-1928-court-upho": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "clash|clash|hospital|result|supreme court|war",
+    "norm": 83.5
   },
-  "-india-cherishes-special-friendship-s-jaishankar-meets-nepal": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "jaishankar|minister|modi|modi|prime minister|war",
-    "norm": 74.6
+  "longest-un-climate-climate-ends-without-a-deal-over-fossil-f": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "dead|dead|deal|diplomacy|fuel|ipl|summit",
+    "norm": 82.8
   },
-  "3-killed-33-injured-after-tractor-trolley-overturns-in-madhy": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "actor|injured|khan|killed|killed",
-    "norm": 73
+  "hyderabad-police-probe-hoax-threat-email-warning-of-26-11-li": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "attack|attack|threat|war|warning",
+    "norm": 65.3
   },
-  "eight-persons-killed-two-others-injured-as-van-rams-roadside": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "accident|injured|killed|killed",
-    "norm": 67.1
+  "-nearly-50-crore-lifted-out-of-poverty-pm-modi-says-india-is": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "crore|modi|modi|row",
+    "norm": 65.2
   },
-  "watch-pakistani-minister-dodges-question-on-cut-off-hands-th": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "minister|pakistan|threat|watch",
-    "norm": 66.9
+  "driver-asleep-car-crashes-into-kerala-library-crowd-escapes-": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "crash|crash|crowd|row",
+    "norm": 62.4
   },
-  "delhi-scores-mixed-results-on-caqm-report-card": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "mp|result|results|results",
-    "norm": 65.1
+  "2-army-soldiers-killed-after-tank-runs-over-them-during-trai": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "accident|army|killed|killed",
+    "norm": 62
   },
-  "cyclonic-circulation-over-the-bay-likely-in-november-last-we": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "cyclone|war|warning",
-    "norm": 64.5
+  "mps-who-broke-away-from-mamata-banerjee-expand-their-party-n": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "bjp|election|election|ipl|mamata|mp",
+    "norm": 61
   },
-  "vijayendra-questions-appointments-to-boards-and-corporations": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "bjp|congress|fund|mp",
-    "norm": 61.4
+  "us-iran-war-live-updates-houthis-claim-strikes-on-saudi-oil-": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "injured|iran|war",
+    "norm": 61
   },
-  "centre-prioritising-border-villages-40-seeing-reverse-migrat": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "amit shah|border|crore|minister",
-    "norm": 61.4
+  "key-un-climate-talks-that-ended-in-deadlock-or-failure": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "dead|dead|summit",
+    "norm": 60.6
   },
-  "on-india-s-ties-with-israel-a-divergence-between-rahul-gandh": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
+  "iran-s-new-missile-launcher-can-fire-2-liquid-propellant-mis": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "fire|fire|footage|iran",
+    "norm": 60.6
+  },
+  "gildar-lane-building-fire-8-rescued-officer-taken-to-hospita": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "evacuat|fire|fire|hospital|rescue|rescue",
+    "norm": 59.3
+  },
+  "democrats-secure-best-general-election-results-since-1992-wi": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "election|election|result|results|results",
+    "norm": 59.3
+  },
+  "hyderabad-police-issue-alert-over-terror-threat-email-securi": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "alert|terror|terror|threat",
+    "norm": 58.9
+  },
+  "bag-with-rs-55-lakh-gold-jewellery-swapped-in-delhi-recovere": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "gold|lakh|mp",
+    "norm": 58.4
+  },
+  "258-seats-secured-us-democrats-win-largest-house-tally-since": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "election|election|match",
+    "norm": 58.2
+  },
+  "man-injured-in-crocodile-attack-near-chidambaram": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "attack|attack|injured",
+    "norm": 57.4
+  },
+  "factory-inspections-to-be-intensified-after-boy-s-death-at-p": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "actor|anger|death",
+    "norm": 56.8
+  },
+  "most-of-the-12-22-lakh-electors-removed-during-sir-yet-to-ap": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "lakh|vote|war",
+    "norm": 54.5
+  },
+  "digvijaya-singh-marches-for-religion-and-relevance": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "ayodhya|congress|mp",
+    "norm": 54.1
+  },
+  "between-nehru-and-netanyahu-rahul-gandhi-faces-an-uncomforta": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
     "signature": "defence|israel|rahul gandhi",
-    "norm": 59.7
+    "norm": 54.1
   },
-  "protest-in-kalaburagi-seeking-action-against-ravi-hanj-vishw": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "protest|protest|war",
-    "norm": 59.6
-  },
-  "meta-mayhem-bjp-s-khandelwal-targets-congress-imran-masood-h": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "bjp|congress|khan|mp",
-    "norm": 58.3
-  },
-  "-india-s-diversity-is-amazing-putin-praises-indian-civilisat": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "modi|modi",
-    "norm": 55.4
-  },
-  "street-dog-follows-funeral-of-mp-man-who-fed-him-daily-sits-": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "mp|war",
-    "norm": 55.4
-  },
-  "residents-stage-protest-opposing-merger-of-village-school-wi": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "protest|protest",
-    "norm": 54.2
-  },
-  "40-arunachal-border-villages-saw-reverse-migration-amit-shah": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "amit shah|border|mp",
+  "goldie-hawn-joins-1-700-at-atlanta-lunch-raising-1-08m-for-w": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "gold|mp",
     "norm": 52.7
   },
-  "sp-forms-four-member-team-to-negotiate-seat-sharing-with-ind": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "lok sabha|mp|poll",
-    "norm": 52.7
+  "congress-mp-imran-masood-stands-by-his-remarks-on-mohammed-s": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "congress|election|election|mp",
+    "norm": 52.3
   },
-  "death-count-in-manipur-toxic-liquor-tragedy-rises-to-17": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "death|tragedy",
-    "norm": 52.1
+  "-90-seats-one-crore-votes-revanth-reddy-sets-congress-2028-t": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "chief minister|congress|crore|minister|vote",
+    "norm": 51.2
   },
-  "no-bilateral-talks-with-pakistani-minister-on-sidelines-of-s": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "minister|pakistan",
-    "norm": 48.7
+  "us-intelligence-chief-says-putin-is-not-america-s-friend-in-": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "mp|trump|trump",
+    "norm": 50
   },
-  "manipur-adulterated-liquor-deaths-rise-to-18-1-130-people-sc": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "death",
+  "eight-killed-as-speeding-minivan-rams-into-roadside-tree-in-": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "killed|killed",
+    "norm": 47.7
+  },
+  "rahul-clarifies-after-allies-criticise-remark-on-hamas-and-i": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "israel",
     "norm": 46.3
   },
-  "new-app-offers-three-minute-telugu-audio-lessons-for-school-": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "mp",
+  "go-public-or-stay-private-tata-sons-gears-up-for-decision-th": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "rbi",
     "norm": 45.9
   },
-  "single-helpline-for-addressing-public-grievance-likely": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "minister",
+  "what-is-apple-aapl-planning-with-its-new-autonomous-ai-agent": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "aap|mp",
     "norm": 45.9
   },
-  "assam-man-arrested-after-wife-alleges-he-married-6-hindu-wom": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "mp",
-    "norm": 45.9
+  "ys-sharmila-stopped-from-visiting-brother-jagan-reddy-s-beng": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "mp|war",
+    "norm": 45.4
   },
-  "govt-to-acquire-23-acres-for-ongc-onshore-operations-in-kona": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "acquisition",
-    "norm": 45.9
-  },
-  "karimnagar-attains-saffron-hue-ahead-of-bjp-s-maha-padayatra": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "david-beckham-hails-mp-tribal-teen-who-stopped-her-marriage": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "mp",
+  "fssai-sanctions-prosecution-of-bisleri-4-other-firms": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "sanction",
     "norm": 44
   },
-  "at-least-14-people-missing-after-russian-drone-hit-building-": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "drone",
-    "norm": 40.7
+  "cm-vijay-to-hold-meeting-with-mlas-of-allies-supporting-part": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "mla|mp",
+    "norm": 42.5
   },
-  "delegates-from-16-countries-attend-national-conference-of-ai": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "",
-    "norm": 36
+  "parliament-on-hold-delimitation-hangs-between-bjp-s-3-day-pl": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "bill|bjp|congress|opposition|parliament",
+    "norm": 42.4
   },
-  "pocso-case-against-teacher-in-proddatur": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "",
-    "norm": 36
+  "helplines-qr-code-bjp-s-launches-public-outreach-for-punjab-": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "bjp|manifesto|poll|president",
+    "norm": 41.8
   },
-  "kadapa-zp-chairperson-post-a-shot-in-the-arm-for-putha-famil": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "",
-    "norm": 36
+  "18th-u-p-legislative-assembly-sits-less-than-90-days-experts": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "mla",
+    "norm": 41
   },
-  "54th-annual-conference-of-rsddi-concludes-in-bengaluru": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "",
-    "norm": 36
+  "navy-allows-marriage-for-agniveers-opting-for-2-year-service": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "navy",
+    "norm": 41
   },
-  "gvmc-new-council-to-take-oath-on-monday": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "",
-    "norm": 36
+  "congress-leaders-from-keralam-urge-aicc-to-restore-consultat": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "congress|policy|president",
+    "norm": 40.6
   },
-  "sulthan-bathery-to-host-cultural-festival-from-december-18": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "",
-    "norm": 36
+  "hc-judge-s-reference-to-harassment-of-kallakurichi-collector": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "high court|mla|mp",
+    "norm": 40.6
   },
-  "revanth-releases-telugu-book-on-indira-gandhi-s-sayings-indi": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
-    "signature": "",
-    "norm": 36
+  "congress-factional-rift-deepens-in-keralam-dissenting-leader": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "congress|lok sabha|mp",
+    "norm": 40.6
   },
-  "karnataka-police-stop-ys-sharmila-from-visiting-yelahanka-pa": {
-    "firstSeen": "2026-11-22T15:13:15.848Z",
+  "six-sent-to-juvenile-home-after-mumbai-assault-maharashtra-s": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "maharashtra",
+    "norm": 40.1
+  },
+  "-anti-hindu-bjp-on-tamil-nadu-government-s-deepam-order-revi": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "bjp|congress",
+    "norm": 38
+  },
+  "bjp-accuses-tamil-nadu-govt-of-anti-hindu-mindset-over-sc-re": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "bjp|supreme court",
+    "norm": 38
+  },
+  "over-40-group-a-posts-vacant-at-pgims-rohtak-says-former-min": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "minister",
+    "norm": 37.5
+  },
+  "cmc-honours-essay-painting-quiz-competition-winners-in-vello": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "mp",
+    "norm": 37.5
+  },
+  "india-china-hold-10-day-talks-to-ease-lac-tensions-in-arunac": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "china",
+    "norm": 37.5
+  },
+  "kasimedu-fisherfolk-withdraw-strike-after-minister-s-interve": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "minister",
+    "norm": 37.5
+  },
+  "over-4-850-buses-16-special-trains-to-run-for-karthigai-deep": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "vote",
+    "norm": 37.5
+  },
+  "takshashila-university-confers-honorary-doctorates-on-author": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "singer",
+    "norm": 35.8
+  },
+  "india-nepal-set-to-ink-pacts-on-energy-infra-tech-on-balen-s": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
     "signature": "",
     "norm": 33.9
+  },
+  "patrol-vehicles-with-dashcams-to-detect-40-types-of-defects-": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "kaiga-nuclear-unit-1-attains-criticality-again-gets-a-second": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "pattabiram-residents-urge-highways-dept-to-build-roundabouto": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "vck-chief-thirumavalavan-visits-former-ltte-chief-prabhakara": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "ohio-stepson-uses-stepmom-s-trust-for-land-and-154k-car-cour": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "palarivattom-sho-suspended-over-alleged-links-with-accused-i": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 26.7
+  },
+  "-kill-tony-to-latent-to-cockroach-club-cjp-s-next-move-in-po": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "bengal-takes-centre-stage-from-pravasi-bharatiya-divas-to-co": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "-cjp-here-to-stay-dipke-vows-to-fight-for-goa-s-land-identit": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "boy-15-climbs-on-freight-train-to-make-reels-dies-by-electro": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "bangladesh-unrest-bengal-cm-suvendu-to-write-to-eam-may-push": {
+    "firstSeen": "2026-11-22T21:42:37.359Z",
+    "signature": "",
+    "norm": 21.2
   }
 }
