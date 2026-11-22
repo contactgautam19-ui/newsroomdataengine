@@ -1,302 +1,107 @@
 {
-  "mexico-drug-cartel-leader-s-arrest-sparks-deadly-violence-in": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "dead|dead|death|killed|killed|result",
-    "norm": 75.2
+  "up-polls-2027-congress-sp-to-hold-seat-sharing-talks-joint-m": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "alliance|congress|election|election|mp|poll|row",
+    "norm": 75.1
   },
-  "eastern-ghats-on-a-slippery-slope": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "anger|cyclone|death|exam|landslide|row|threat",
-    "norm": 73
+  "-red-carpet-for-foreign-investors-congress-slams-sebi-plan-t": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "congress|investor|slam|slams",
+    "norm": 70.6
   },
-  "boy-4-crushed-to-death-by-machine-kerala-factory-ordered-shu": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "actor|death|died|exam|hospital",
-    "norm": 70.9
+  "ind-vs-nz-eight-wickets-or-90-overs-who-blinks-first-in-well": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "bumrah|ipl|mp|result",
+    "norm": 67.7
   },
-  "european-union-proposes-tax-on-big-tech-in-new-budget-draft": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "bill|billion|budget|president|slam|tax|war",
-    "norm": 70.2
-  },
-  "manipur-hooch-tragedy-death-toll-rises-to-21-nearly-600-hosp": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "death|hospital|mp|toll|tragedy",
-    "norm": 67.2
-  },
-  "pm-modi-credits-people-for-fall-in-gold-prices-links-it-to-h": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "gold|gold price|modi|modi|price|prices",
-    "norm": 66.7
-  },
-  "woman-killed-newlywed-couple-critical-as-fire-engulfs-west-d": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "fire|fire|killed|killed|rescue|rescue|smoke",
+  "tamil-nadu-draws-1-14-lakh-crore-in-investments-under-tvk-sa": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "bjp|chief minister|crore|investor|lakh|minister",
     "norm": 66
   },
-  "jailed-mp-amritpal-singh-s-party-says-his-visit-boost-ahead-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "attack|attack|mp|poll",
-    "norm": 61
+  "president-murmu-condoles-loss-of-lives-in-rajasthan-road-acc": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "accident|maharashtra|president",
+    "norm": 66
   },
-  "amid-cold-wave-students-indefinite-strike-against-j-k-recrui": {
-    "firstSeen": "2026-11-21T17:23:49.573Z",
-    "signature": "protest|protest|recruitment|scam",
-    "norm": 59.2
+  "massachusetts-father-ordered-to-pay-55-868-after-wasting-his": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "devastat|fund|mp",
+    "norm": 63.9
   },
-  "-no-takers-for-railways-in-meghalaya-chief-minister-conrad-s": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "chief minister|fund|minister|war",
-    "norm": 58.9
+  "tamil-nadu-horror-23-year-old-man-kills-16-year-old-girlfrie": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "attack|attack|horror",
+    "norm": 62.9
   },
-  "israel-govt-formation-eisenkot-invites-netanyahu-s-likud-par": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "coalition|israel|minister|parliament|prime minister",
-    "norm": 57.4
+  "gst-officer-throws-rs-1-5-lakh-bribe-into-drain-on-seeing-ac": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "gst|lakh|row",
+    "norm": 61.4
   },
-  "thousands-march-in-lisbon-as-living-costs-fuel-anger": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "anger|fuel|mp",
-    "norm": 54.5
+  "union-minister-rajiv-ranjan-singh-reviews-indigenous-cattle-": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "ipl|minister|mp",
+    "norm": 61.4
   },
-  "pm-modi-inaugurates-bridge-named-after-nitish-kumar-in-bihar": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "chief minister|governor|minister|modi|modi|mp",
-    "norm": 54
+  "-she-loves-the-baby-more-than-me-trump-on-wh-ex-press-secret": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "mp|trump|trump",
+    "norm": 59.7
   },
-  "ohio-landlord-mistakenly-removes-tenant-s-art-court-upholds-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "mp|war",
-    "norm": 52.7
+  "hemant-soren-writes-to-cji-to-urgently-appoint-jharkhand-hc-": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "cji|high court|khan",
+    "norm": 57.9
   },
-  "-india-not-a-rogue-state-wangchuk-slams-administration-over-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "mp|slam|slams",
-    "norm": 51.2
+  "jasprit-bumrah-only-third-indian-bowler-in-test-history-to-a": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "bumrah|match",
+    "norm": 53.9
   },
-  "bjp-warns-its-bengal-leaders-against-defying-party-directive": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "bjp|president|war",
-    "norm": 50
+  "minor-girls-abducted-raped-in-bhadohi-up-rescued-one-girl-re": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "rescue|rescue",
+    "norm": 52.4
   },
-  "yuzvendra-chahal-joins-bjp-gets-role-in-party-s-obc-morcha-c": {
-    "firstSeen": "2026-11-21T17:23:49.573Z",
-    "signature": "bjp|cricket|mp",
-    "norm": 50
+  "government-has-asked-us-to-reconsider-restricting-all-protes": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "protest|protest",
+    "norm": 52.4
   },
-  "-china-backed-pakistan-during-operation-sindoor-to-curb-indi": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "alliance|china|mp|pakistan",
-    "norm": 49.4
+  "police-complaint-against-wb-lop-police-officers-for-fabricat": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "congress|mamata|mp",
+    "norm": 50.9
   },
-  "cricketer-yuzvendra-chahal-joins-bjp-gets-role-in-obc-commit": {
-    "firstSeen": "2026-11-21T17:23:49.573Z",
-    "signature": "bjp|cricket|cricketer",
-    "norm": 49
+  "over-100-children-hospitalised-after-eating-chowmein-at-vill": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "hospital",
+    "norm": 48.2
   },
-  "cricketer-yuzvendra-chahal-joins-bjp-named-special-invitee-t": {
-    "firstSeen": "2026-11-21T17:23:49.573Z",
-    "signature": "bjp|cricket|cricketer",
-    "norm": 49
-  },
-  "manhattan-s-turtle-lady-helps-save-hundreds-of-turtles-from-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "injured",
+  "over-100-children-12-adults-hospitalised-after-eating-chowme": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "hospital",
     "norm": 46.3
   },
-  "china-s-support-to-pak-during-operation-sindoor-impacted-ind": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "china|mp",
+  "nda-will-win-all-panchayats-in-upcoming-polls-says-tdp-leade": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "poll",
     "norm": 45.9
   },
-  "yuzvendra-chahal-joins-bjp-as-obc-morcha-member-thanks-pm-mo": {
-    "firstSeen": "2026-11-21T17:23:49.573Z",
-    "signature": "bjp|modi|modi",
-    "norm": 45.9
+  "before-gilchrist-there-was-les-ames-eng-great-with-102-centu": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
+    "signature": "record",
+    "norm": 40.7
   },
-  "can-marriages-between-close-relatives-be-regulated-sc-flags-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "supreme court|war",
-    "norm": 45.4
-  },
-  "india-canada-wrap-up-sixth-round-of-trade-talks-ahead-of-mod": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "modi|modi",
-    "norm": 45.4
-  },
-  "france-moves-to-take-rohingya-genocide-row-to-un-security-co": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "row|verdict",
-    "norm": 45.4
-  },
-  "-one-wall-two-rivals-pakistan-minister-invokes-humayun-sher-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "minister|pakistan|video",
-    "norm": 44.6
-  },
-  "california-mom-sues-school-over-needs-respect-report-card-no": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "vote",
-    "norm": 44
-  },
-  "reflecting-on-purana-qila-s-history-pakistan-minister-invoke": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "minister|mp|pakistan",
-    "norm": 40.6
-  },
-  "alarms-ring-as-military-drone-tenders-specify-china-linked-p": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "china|drone",
-    "norm": 39.7
-  },
-  "bjp-appoints-yuzvendra-chahal-as-special-invitee-to-obc-morc": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "bjp|president",
-    "norm": 38
-  },
-  "atp-finals-final-zverev-gets-his-chance-to-silence-critics-a": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
+  "pani-project-to-connect-andaman-s-eight-islands-through-unde": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
     "signature": "",
     "norm": 36
   },
-  "commuter-injured-after-portion-of-roof-falls-on-him-at-bus-t": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "injured",
-    "norm": 35.5
-  },
-  "three-cyclones-in-three-weeks-what-s-happening-in-the-bay-of": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "cyclone",
-    "norm": 35.5
-  },
-  "4-arrested-stolen-suv-recovered-days-after-gunpoint-robbery-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "ipl",
-    "norm": 35.5
-  },
-  "hailee-steinfeld-reveals-her-dream-for-daughter-harper-amid-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "emotional",
-    "norm": 35.5
-  },
-  "school-reunion-relationship-jealousy-what-led-to-tamil-nadu-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "death",
-    "norm": 35.5
-  },
-  "municipal-staff-transfers-to-move-online-by-tamil-nadu-govt-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "mp",
-    "norm": 32.8
-  },
-  "bjp-hindu-munnani-rss-trying-to-create-communal-tension-in-t": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "bjp",
-    "norm": 32.8
-  },
-  "up-cops-mistake-asaduddin-owaisi-for-supreme-court-judge-giv": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "supreme court",
-    "norm": 32.8
-  },
-  "rlp-s-emergence-as-strong-third-force-in-rajasthan-panchayat": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "poll",
-    "norm": 32.8
-  },
-  "vice-president-urges-graduates-to-embrace-lifelong-learning-": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "president",
-    "norm": 32.8
-  },
-  "ai-generated-videos-photos-alone-don-t-amount-to-forgery-hc": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "photos|video",
-    "norm": 32.8
-  },
-  "over-10k-pg-medical-seats-in-blocked-category-govt-may-revie": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
+  "woman-seeks-half-of-6m-mansion-after-living-with-millionaire": {
+    "firstSeen": "2026-11-22T06:34:34.070Z",
     "signature": "",
-    "norm": 30.7
-  },
-  "us-denies-iranian-account-that-missile-damaged-f-16-over-gul": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "iran",
-    "norm": 30.7
-  },
-  "india-s-maize-exports-to-vietnam-surge-341-times-on-record-d": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "record",
-    "norm": 29.2
-  },
-  "mea-clears-pakistani-delegation-s-taj-mahal-visit-but-malik-": {
-    "firstSeen": "2026-11-21T17:23:49.573Z",
-    "signature": "pakistan",
-    "norm": 27.8
-  },
-  "krishna-janmabhoomi-case-allahabad-hc-dismisses-plea-challen": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "ruling",
-    "norm": 27.8
-  },
-  "vasan-urges-political-parties-to-fight-for-cauvery-water-rig": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "aipc-tamil-nadu-to-support-msmes-through-professional-networ": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "gandhi-is-the-core-ideological-enemy-of-the-sangh-parivar-ra": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "t-n-may-see-solar-energy-installations-slowing-down-say-ener": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "raja-ravi-varma-gallery-of-oleographs-and-chromo-lithographs": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "chennai-international-book-fair-2027-to-be-held-from-january": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "t-n-govt-gave-no-advance-notice-on-justice-kurian-panel-s-di": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "india-bulgaria-discuss-bilateral-ties-imec-black-sea-situati": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "woman-held-for-murder-in-ranipet": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "man-held-in-tirupattur-for-killing-two-persons": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "kerala-linked-drug-racket-busted-in-mumbai-nigerian-man-amon": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
-  },
-  "pranab-doley-confronting-the-state": {
-    "firstSeen": "2026-11-21T23:05:55.554Z",
-    "signature": "",
-    "norm": 21.2
+    "norm": 33.9
   }
 }
