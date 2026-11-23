@@ -1,66 +1,186 @@
 {
-  "trump-warns-iran-make-a-deal-or-face-us-military-action-agai": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
-    "signature": "deal|ipl|iran|mp|president|row|trump|trump|war|warning",
-    "norm": 100
+  "punjab-s-security-nightmare-guns-from-pakistan-shooters-from": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "dead|dead|defence|drone|election|election|pakistan",
+    "norm": 86.6
   },
-  "what-trump-predicted-on-iran-stocks-and-oil-before-us-midter": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
-    "signature": "backlash|election|election|iran|mp|price|prices|stocks|trump|trump",
-    "norm": 93.7
+  "i-alert-system-helps-telangana-rtc-save-1-98-lakh-litres-die": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "alert|diesel|election|election|fuel|lakh",
+    "norm": 79.8
   },
-  "bjp-nominee-loses-rajasthan-poll-and-village-its-streetlight": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
-    "signature": "anger|bjp|election|election|ipl|poll|result|results|results|sharma|vote",
-    "norm": 88.2
+  "up-shocker-liquor-flows-from-handpump-in-jhansi-village-woma": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "ipl|mp|result|shock|shock|shocker",
+    "norm": 78.8
   },
-  "el-nino-may-trigger-floods-landslides-in-hindu-kush-himalaya": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
-    "signature": "fire|fire|flood|flood|floods|landslide|war",
-    "norm": 76.3
+  "hyderabad-bomb-threat-email-sender-used-europe-based-vpn-tem": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "attack|attack|bomb|mp|threat|war",
+    "norm": 78.3
   },
-  "stock-market-live-updates-sensex-today-sensex-likely-to-open": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
-    "signature": "attack|attack|nifty|sensex|stock market",
-    "norm": 73.6
+  "pok-protests-intensify-umar-nazeer-kashmiri-warns-of-army-ac": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "army|pakistan|protest|protest|row|war",
+    "norm": 72.8
   },
-  "strong-el-ni-o-raises-snow-avalanche-amp-flood-risks-across-": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
-    "signature": "flood|flood|mp",
-    "norm": 62.8
+  "delhi-police-considered-reporter-jackets-press-ids-to-distin": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "crowd|fear|mp|protest|protest|row",
+    "norm": 71.5
   },
-  "amritsar-grenade-attack-us-based-happy-passia-8-others-decla": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
+  "crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "bill|billion|crowd|row",
+    "norm": 69.4
+  },
+  "tilak-varma-enters-unwanted-record-books-after-india-a-s-def": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "cricket|pakistan|record|star",
+    "norm": 68
+  },
+  "nepal-pm-india-visit-live-pm-modi-announces-offshore-campus-": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "crore|modi|modi|mp",
+    "norm": 68
+  },
+  "cataract-surgery-leaves-vizag-man-with-worsening-vision-hosp": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "hospital|lakh|mp",
+    "norm": 63.9
+  },
+  "two-killed-13-injured-as-bus-hits-van-near-mailam": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "injured|killed|killed",
+    "norm": 62.9
+  },
+  "-closing-browser-not-enough-government-has-whatsapp-web-warn": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "row|war|warning",
+    "norm": 62.9
+  },
+  "trisha-s-political-entry-buzz-fans-launch-young-jayalalithaa": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "actor|chief minister|fan|minister",
+    "norm": 61.4
+  },
+  "delhi-man-stabs-5-policemen-inside-police-station-shot-in-en": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
     "signature": "attack|attack",
-    "norm": 57.6
+    "norm": 59.3
   },
-  "nepal-pm-balen-shah-meets-pm-modi-is-a-new-chapter-opening-i": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
-    "signature": "modi|modi",
-    "norm": 57.1
+  "two-men-found-murdered-in-separate-incidents-in-tumakuru-dis": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "attack|attack",
+    "norm": 59.3
   },
-  "share-market-today-this-small-cap-tech-firm-s-profit-soars-4": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
-    "signature": "investor|ipo|stock market",
-    "norm": 52.7
+  "rahul-gandhi-advocates-for-votes-of-infiltrators-says-bjp-ch": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "bjp|congress|rahul gandhi|rally|rally|vote",
+    "norm": 58.5
   },
-  "9-people-shot-at-in-gang-related-shooting-in-california-1-cr": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
-    "signature": "shooting",
+  "us-army-seeks-to-proceed-with-5-tonne-chemical-blast-in-iowa": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "army|blast",
+    "norm": 55.4
+  },
+  "south-carolina-baby-found-alive-after-24-hours-buried-in-dog": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "rescue|rescue",
+    "norm": 52.4
+  },
+  "indian-cyber-crime-coordination-centre-warns-of-possible-mis": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "threat|war",
+    "norm": 52.1
+  },
+  "-stop-acting-like-baahubali-says-supreme-court-to-bihar-judi": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "cji|mp|supreme court",
+    "norm": 50.9
+  },
+  "madras-hc-seeks-clarity-on-complaint-against-tvk-mla-over-ob": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "mla|mp",
+    "norm": 50.5
+  },
+  "karnataka-ministers-mlas-should-stay-in-farmers-homes-during": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "minister|mla",
+    "norm": 50.5
+  },
+  "dhanraj-murder-case-court-convicts-three-accused-acquits-17-": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "death",
+    "norm": 48.2
+  },
+  "india-nepal-weekly-train-check-stations-timings-and-more-abo": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "ayodhya",
     "norm": 46.3
   },
-  "us-spy-chief-confirms-probe-into-nvidia-chip-network-linked-": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
-    "signature": "china",
+  "texas-homeowner-loses-case-against-state-farm-over-1-718-sto": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "storm",
+    "norm": 46.3
+  },
+  "karnataka-makes-free-sanitary-napkins-mandatory-in-schools-w": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "war",
+    "norm": 46.3
+  },
+  "t-n-bjp-chief-nainar-nagenthran-condemns-alleged-caste-discr": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "bjp",
+    "norm": 45.9
+  },
+  "centre-to-launch-fifth-edition-of-nayi-chetna-gender-campaig": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "mp",
     "norm": 44
   },
-  "over-1-000-delta-flights-delayed-in-us-after-automated-syste": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
+  "-stop-acting-like-bahubali-sc-pulls-up-bihar-judge-for-actio": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "supreme court",
+    "norm": 44
+  },
+  "150-cctv-cameras-additional-forces-security-tightened-for-jh": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "cctv",
+    "norm": 42.7
+  },
+  "delhi-police-constable-suspended-over-dowry-demand-calling-o": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "wedding",
+    "norm": 42.4
+  },
+  "street-plays-to-promote-co-existence-between-humans-and-wild": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "",
+    "norm": 36
+  },
+  "telangana-govt-seeks-12-month-gap-in-crop-loan-repayment-for": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "",
+    "norm": 36
+  },
+  "one-held-for-sexually-assaulting-minor-girl-on-train-in-kera": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
     "signature": "",
     "norm": 33.9
   },
-  "tamil-nadu-moves-sc-seeking-review-of-nov-20-karthigai-deepa": {
-    "firstSeen": "2026-11-23T02:35:51.895Z",
+  "west-bengal-to-be-renamed-paschim-banga": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "six-fall-ill-after-consuming-tea-milk-from-bakery-in-namakka": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "asean-india-maritime-conclave-in-visakhapatnam-calls-for-dee": {
+    "firstSeen": "2026-11-23T12:17:29.389Z",
     "signature": "",
     "norm": 33.9
   }
