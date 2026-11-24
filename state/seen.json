@@ -1,187 +1,302 @@
 {
-  "punjab-s-security-nightmare-guns-from-pakistan-shooters-from": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "dead|dead|defence|drone|election|election|pakistan",
-    "norm": 86.6
+  "pakistan-set-to-invite-india-to-a-series-of-sco-events-but-w": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "attack|attack|ipl|minister|modi|modi|pakistan|summit|terror|terror|unexpected",
+    "norm": 93.2
   },
-  "i-alert-system-helps-telangana-rtc-save-1-98-lakh-litres-die": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "alert|diesel|election|election|fuel|lakh",
-    "norm": 79.8
+  "us-appeals-court-gives-trump-new-pathway-to-erasing-hush-mon": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "film|mp|president|record|storm|trump|trump",
+    "norm": 85
   },
-  "up-shocker-liquor-flows-from-handpump-in-jhansi-village-woma": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "ipl|mp|result|shock|shock|shocker",
-    "norm": 78.8
+  "nvidia-under-fire-elizabeth-warren-ansari-question-trump-s-r": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "congress|fire|fire|mp|storm|trump|trump|war",
+    "norm": 83.1
   },
-  "hyderabad-bomb-threat-email-sender-used-europe-based-vpn-tem": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "attack|attack|bomb|mp|threat|war",
-    "norm": 78.3
+  "pregnant-woman-killed-after-manipur-ambulance-collides-with-": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "accident|cctv|crash|crash|footage|killed|killed|mp",
+    "norm": 80.4
   },
-  "pok-protests-intensify-umar-nazeer-kashmiri-warns-of-army-ac": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "army|pakistan|protest|protest|row|war",
-    "norm": 72.8
+  "north-korea-threatens-to-close-swiss-diplomatic-office-weeks": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "ipl|mp|sanction|threat",
+    "norm": 67.6
   },
-  "delhi-police-considered-reporter-jackets-press-ids-to-distin": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "crowd|fear|mp|protest|protest|row",
-    "norm": 71.5
+  "consequence-of-j-k-recruitment-scams-on-youth-could-be-same-": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "election|election|mp|recruitment|scam",
+    "norm": 66.2
   },
-  "crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "bill|billion|crowd|row",
-    "norm": 69.4
-  },
-  "tilak-varma-enters-unwanted-record-books-after-india-a-s-def": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "cricket|pakistan|record|star",
-    "norm": 68
-  },
-  "nepal-pm-india-visit-live-pm-modi-announces-offshore-campus-": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "crore|modi|modi|mp",
-    "norm": 68
-  },
-  "cataract-surgery-leaves-vizag-man-with-worsening-vision-hosp": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "hospital|lakh|mp",
-    "norm": 63.9
-  },
-  "two-killed-13-injured-as-bus-hits-van-near-mailam": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "injured|killed|killed",
-    "norm": 62.9
-  },
-  "-closing-browser-not-enough-government-has-whatsapp-web-warn": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "row|war|warning",
-    "norm": 62.9
-  },
-  "trisha-s-political-entry-buzz-fans-launch-young-jayalalithaa": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "actor|chief minister|fan|minister",
+  "pm-modi-meets-nepal-s-balen-shah-offers-rs-15-000-crore-econ": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "crore|modi|modi",
     "norm": 61.4
   },
-  "delhi-man-stabs-5-policemen-inside-police-station-shot-in-en": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "attack|attack",
-    "norm": 59.3
+  "-transfer-posting-racket-bjp-slams-aap-after-probe-agency-su": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "aap|bjp|president|sharma|slam|slams",
+    "norm": 61.1
   },
-  "two-men-found-murdered-in-separate-incidents-in-tumakuru-dis": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "attack|attack",
-    "norm": 59.3
+  "-a-handshake-with-jensen-huang-why-tech-fought-to-save-nvidi": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "investor|mp|president|trump|trump",
+    "norm": 61
   },
-  "rahul-gandhi-advocates-for-votes-of-infiltrators-says-bjp-ch": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "bjp|congress|rahul gandhi|rally|rally|vote",
-    "norm": 58.5
+  "tamil-nadu-deepam-row-section-144-imposed-in-madurai-as-tens": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "clash|clash|controversy|fear|mp|row",
+    "norm": 59.4
   },
-  "us-army-seeks-to-proceed-with-5-tonne-chemical-blast-in-iowa": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "army|blast",
-    "norm": 55.4
+  "manik-saha-says-party-probing-presence-of-masked-men-in-bjp-": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "bjp|election|election|rally|rally",
+    "norm": 58.2
   },
-  "south-carolina-baby-found-alive-after-24-hours-buried-in-dog": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "rescue|rescue",
-    "norm": 52.4
+  "ncp-leader-s-son-detained-after-crash-kills-two-in-maharasht": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "crash|crash|maharashtra|toll",
+    "norm": 58.2
   },
-  "indian-cyber-crime-coordination-centre-warns-of-possible-mis": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "threat|war",
-    "norm": 52.1
+  "pm-modi-is-asia-s-2nd-most-effective-leader-after-xi-says-lo": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "modi|modi",
+    "norm": 57.1
   },
-  "-stop-acting-like-baahubali-says-supreme-court-to-bihar-judi": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "cji|mp|supreme court",
-    "norm": 50.9
+  "ramayana-film-lands-in-legal-trouble-police-complaint-agains": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "controversy|film|mp|war",
+    "norm": 56.8
   },
-  "madras-hc-seeks-clarity-on-complaint-against-tvk-mla-over-ob": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "mla|mp",
-    "norm": 50.5
+  "leaked-cad-files-show-apple-s-budget-iphone-18e-borrowing-pr": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "budget|mp|row",
+    "norm": 54.5
   },
-  "karnataka-ministers-mlas-should-stay-in-farmers-homes-during": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "minister|mla",
-    "norm": 50.5
+  "delhi-cop-suspended-after-cancelling-wedding-over-rs-13-lakh": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "lakh|mp|wedding",
+    "norm": 50.8
   },
-  "dhanraj-murder-case-court-convicts-three-accused-acquits-17-": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "death",
-    "norm": 48.2
+  "us-targets-iran-s-shadow-banking-networks-in-latest-wave-of-": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "iran|mp|sanction",
+    "norm": 50
   },
-  "india-nepal-weekly-train-check-stations-timings-and-more-abo": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "ayodhya",
-    "norm": 46.3
+  "state-appeals-against-dmk-ex-minister-ponmudy-s-acquittal-in": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "crore|high court|minister",
+    "norm": 47.7
   },
-  "texas-homeowner-loses-case-against-state-farm-over-1-718-sto": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "storm",
-    "norm": 46.3
+  "nvidia-shares-jump-over-30-log-biggest-single-day-gain-since": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "mp|stocks",
+    "norm": 47.3
   },
-  "karnataka-makes-free-sanitary-napkins-mandatory-in-schools-w": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "war",
-    "norm": 46.3
+  "nvidia-shares-surge-more-than-30-after-jensen-huang-s-return": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "shock|shock",
+    "norm": 46.5
   },
-  "t-n-bjp-chief-nainar-nagenthran-condemns-alleged-caste-discr": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "bjp",
+  "s-jaishankar-holds-phone-conversation-with-russian-counterpa": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "jaishankar|minister",
     "norm": 45.9
   },
-  "centre-to-launch-fifth-edition-of-nayi-chetna-gender-campaig": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
+  "close-to-realising-pm-narendra-modi-s-dream-for-kashmir-says": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "modi|modi",
+    "norm": 45.4
+  },
+  "krushi-ows-holds-road-safety-awareness-competitions-for-scho": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "mp|war",
+    "norm": 45.4
+  },
+  "pammal-residents-want-widening-of-main-road": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "mp|storm",
+    "norm": 45.4
+  },
+  "power-outage-during-minister-s-programme-in-kannur-kseb-staf": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "minister|rally|rally",
+    "norm": 44.6
+  },
+  "22-lakh-pleas-to-include-names-in-west-bengal-rolls-top-prio": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "lakh",
+    "norm": 44
+  },
+  "chinese-official-sentenced-to-death-for-spying-leaking-natio": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "death",
+    "norm": 43.5
+  },
+  "-coward-government-cjp-s-saurav-das-says-he-was-stopped-from": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "fear|war",
+    "norm": 41.8
+  },
+  "rajasthan-women-s-varsity-signs-mou-with-brics-nations-for-g": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "brics|mp|summit",
+    "norm": 40.6
+  },
+  "bisleri-controversy-puts-industry-in-hot-water": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "controversy",
+    "norm": 40.1
+  },
+  "lop-ritabrata-banerjee-files-counter-complaint-against-mamat": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "mamata|mp",
+    "norm": 38
+  },
+  "no-winter-session-of-parliament-skipped-only-four-times-in-h": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "lok sabha|parliament",
+    "norm": 38
+  },
+  "inquiry-into-his-old-foreign-visits-based-on-false-allegatio": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "bjp|poll",
+    "norm": 38
+  },
+  "michigan-heirs-lose-chance-to-reclaim-family-land-after-2003": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
     "signature": "mp",
-    "norm": 44
+    "norm": 37.5
   },
-  "-stop-acting-like-bahubali-sc-pulls-up-bihar-judge-for-actio": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "supreme court",
-    "norm": 44
+  "save-big-on-hbo-max-apple-tv-plus-and-roku-with-black-friday": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "deal",
+    "norm": 37.5
   },
-  "150-cctv-cameras-additional-forces-security-tightened-for-jh": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "cctv",
-    "norm": 42.7
+  "violence-erupts-in-pithapuram-amid-jsp-councillors-sparring-": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "war",
+    "norm": 35.5
   },
-  "delhi-police-constable-suspended-over-dowry-demand-calling-o": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "wedding",
-    "norm": 42.4
+  "autism-lab-sleep-research-facility-inaugurated-in-iit-madras": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "hospital",
+    "norm": 35.5
   },
-  "street-plays-to-promote-co-existence-between-humans-and-wild": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "",
-    "norm": 36
+  "gatherings-banned-in-madurai-as-court-allows-deepam-on-hill-": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "row",
+    "norm": 35.5
   },
-  "telangana-govt-seeks-12-month-gap-in-crop-loan-repayment-for": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "",
-    "norm": 36
+  "-going-to-be-a-better-ceo-jensen-huang-returns-to-nvidia-hq-": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "watch",
+    "norm": 34.1
   },
-  "one-held-for-sexually-assaulting-minor-girl-on-train-in-kera": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "west-bengal-to-be-renamed-paschim-banga": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
+  "south-korea-says-suspected-north-korean-aircraft-breached-is": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
     "signature": "",
     "norm": 33.9
   },
-  "six-fall-ill-after-consuming-tea-milk-from-bakery-in-namakka": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
-    "signature": "",
-    "norm": 33.9
+  "will-bank-manager-accept-kayalvizhi-alagiri-s-apology-asks-m": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "high court",
+    "norm": 32.8
   },
-  "asean-india-maritime-conclave-in-visakhapatnam-calls-for-dee": {
-    "firstSeen": "2026-11-23T12:17:29.389Z",
+  "14-countries-acknowledge-ruling-on-rohingya-genocide": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "ruling",
+    "norm": 32.8
+  },
+  "log-out-of-whatsapp-web-on-shared-computers-to-avoid-misuse-": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "ban-on-collection-of-wild-shrimp-seed-at-sacb-proposed": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "jensen-huang-is-back-at-nvidia-but-where-is-alice-huang-": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "kolkata-doctors-flag-rising-lung-diseases-among-traffic-poli": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "mp",
+    "norm": 32.8
+  },
+  "mississippi-ex-mayor-gets-37-months-in-hotel-bribery-case-mu": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
     "signature": "",
-    "norm": 33.9
+    "norm": 30.7
+  },
+  "dad-keeps-newborn-from-grandparents-for-wife-s-postpartum-pe": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "children-are-not-toys-hear-their-voice-in-custody-battles-sa": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 30.7
+  },
+  "2-lionesses-run-over-by-passenger-train-in-gujarat-s-rajkot-": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "death",
+    "norm": 30.7
+  },
+  "telangana-to-host-india-s-largest-state-led-global-summit-in": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "summit",
+    "norm": 27.8
+  },
+  "nvidia-live-updates-mistake-corrected-elon-musk-on-jensen-hu": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 24.3
+  },
+  "cbi-facilitates-return-of-murder-accused-from-kazakhstan": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "proposal-for-extending-scholarship-to-sri-lankan-students-to": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "cjp-s-saurav-das-claims-he-was-stopped-at-delhi-airport-from": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "the-bilkis-bano-order-justice-deferred-again": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "sri-prakash-vidya-niketan-celebrates-kids-day": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 21.2
+  },
+  "gurugram-bans-smoking-tobacco-spitting-and-littering-in-publ": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 15.1
+  },
+  "how-markets-are-trading-jensen-s-return": {
+    "firstSeen": "2026-11-24T00:45:14.673Z",
+    "signature": "",
+    "norm": 15.1
   }
 }
