@@ -1,181 +1,41 @@
 {
-  "-teams-were-playing-out-bumrah-pathan-on-how-arshdeep-s-mi-a": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "acquisition|attack|attack|bumrah|ipl",
-    "norm": 83.8
+  "india-s-space-economy-projected-to-rise-to-40-45-billion-by-": {
+    "firstSeen": "2026-11-24T21:05:53.960Z",
+    "signature": "bill|billion|economy|minister|mp|row",
+    "norm": 75.5
   },
-  "-extremely-delighted-pm-modi-hails-bjp-akali-dal-alliance-fo": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "alliance|bjp|modi|modi|poll|protest|protest",
-    "norm": 78.2
+  "ohio-man-ordered-to-pay-ex-wife-101-723-over-shared-colorado": {
+    "firstSeen": "2026-11-24T21:05:53.960Z",
+    "signature": "result|ruling",
+    "norm": 55.4
   },
-  "sonia-gandhi-s-book-row-distorted-portrayal-savarkar-s-famil": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "congress|dead|dead|row",
-    "norm": 72.6
+  "coast-guard-in-keralam-s-kochi-rescues-filipino-national-who": {
+    "firstSeen": "2026-11-24T21:05:53.960Z",
+    "signature": "rescue|rescue",
+    "norm": 54.2
   },
-  "us-delays-60-patriot-missiles-for-ukraine-as-russia-intensif": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "attack|attack|fund|riot",
-    "norm": 72.6
+  "wedding-seating-row-sparks-400-000-inheritance-battle-betwee": {
+    "firstSeen": "2026-11-24T21:05:53.960Z",
+    "signature": "row|wedding",
+    "norm": 53.9
   },
-  "six-dead-10-injured-after-powerful-explosion-rips-through-re": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "dead|dead|explosion|explosion|injured",
-    "norm": 70.9
-  },
-  "police-handling-of-women-protesters-what-law-says-about-crow": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "crowd|mp|protest|protest|row",
-    "norm": 70.6
-  },
-  "thousands-protest-in-karachi-against-asim-munir-s-gamble-to-": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "minister|pakistan|president|prime minister|protest|protest",
-    "norm": 68.4
-  },
-  "bomb-threat-email-targets-diljit-dosanjh-s-bengaluru-concert": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "blast|bomb|threat",
-    "norm": 64.5
-  },
-  "tamil-nadu-police-stops-l-murugan-s-convoy-heading-towards-t": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "controversy|minister|row|war",
-    "norm": 63.4
-  },
-  "-akali-dal-bjp-alliance-stood-the-test-of-time-pm-modi-welco": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "alliance|bjp|modi|modi",
-    "norm": 61.8
-  },
-  "karnataka-chief-minister-led-delegation-visits-osaka-waste-t": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "chief minister|exam|minister",
-    "norm": 61.4
-  },
-  "thirupparankundram-deepathoon-row-live-tamil-nadu-bjp-chief-": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "bjp|mp|row",
-    "norm": 61.4
-  },
-  "video-bengaluru-woman-dies-after-boyfriend-pushes-her-during": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "threat|tragic|video|war",
-    "norm": 60.6
-  },
-  "cjp-won-t-stand-with-any-political-party-in-upcoming-up-elec": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "election|election",
-    "norm": 57.1
-  },
-  "sharad-pawar-s-likely-retirement-from-active-politics-supriy": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "rajya sabha|war",
-    "norm": 57.1
-  },
-  "fake-video-of-bjp-president-nitin-nabin-delhi-police-registe": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "bjp|mp|president|video",
-    "norm": 56.9
-  },
-  "opinion-opinion-bjp-seals-punjab-deal-with-akalis-but-what-e": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "bjp|deal",
+  "nvidia-board-under-scrutiny-after-reinstating-jensen-huang-a": {
+    "firstSeen": "2026-11-24T21:05:53.960Z",
+    "signature": "gst|mp",
     "norm": 53.2
   },
-  "tamil-nadu-bjp-chief-detained-750-leaders-under-house-arrest": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "bjp|ruling|supreme court",
-    "norm": 52.7
-  },
-  "-alliance-is-necessity-not-choice-congress-raj-kumar-verka-t": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "alliance|bjp|congress",
-    "norm": 50.9
-  },
-  "punjab-assembly-polls-bjp-sad-reunite-announce-seat-sharing-": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "alliance|bjp|poll",
-    "norm": 50.9
-  },
-  "delhi-high-court-says-pending-cases-under-juvenile-justice-a": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "high court|ruling",
-    "norm": 50.5
-  },
-  "toll-from-spurious-liquor-in-manipur-increases-to-19-nine-ac": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "toll",
-    "norm": 48.2
-  },
-  "telangana-s-agriculture-sector-npas-pegged-at-7-304-crore": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "crore",
+  "3-chinese-satellites-scanned-india-s-western-coast-during-op": {
+    "firstSeen": "2026-11-24T21:05:53.960Z",
+    "signature": "rbi",
     "norm": 45.9
   },
-  "criminal-with-previous-conviction-can-t-be-given-bail-only-o": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "supreme court",
-    "norm": 45.9
-  },
-  "stalin-eps-urge-tamil-nadu-government-to-act-against-kallaku": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "mla",
-    "norm": 45.9
-  },
-  "centre-to-strengthen-border-surveillance-expand-de-addiction": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "border",
-    "norm": 45.9
-  },
-  "priyanka-gandhi-slapped-boy-who-called-her-uncle-sanjay-gand": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "rahul gandhi",
-    "norm": 44
-  },
-  "apsche-to-hold-10-regional-workshops-on-all-india-survey-on-": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
+  "woman-s-claim-to-abandoned-philadelphia-house-she-lived-in-s": {
+    "firstSeen": "2026-11-24T21:05:53.960Z",
     "signature": "",
-    "norm": 36
+    "norm": 33.9
   },
-  "bengaluru-metro-facilitates-organ-transport-for-second-time": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "",
-    "norm": 36
-  },
-  "bengaluru-metro-facilitates-transportation-of-donor-heart-fr": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "",
-    "norm": 36
-  },
-  "security-tightened-in-madurai-for-thirupparankundram-karthig": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "",
-    "norm": 36
-  },
-  "don-t-use-language-to-divide-people": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "",
-    "norm": 36
-  },
-  "chennai-regional-passport-office-notice-led-to-cjp-s-saurav-": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "",
-    "norm": 36
-  },
-  "kerala-hc-grants-bail-to-sri-lankan-who-was-part-of-transnat": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "",
-    "norm": 36
-  },
-  "vck-chief-thirumavalavan-visits-former-ltte-chief-prabhakara": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
-    "signature": "",
-    "norm": 36
-  },
-  "-chor-hai-tera-chacha-when-priyanka-slapped-a-boy-in-school-": {
-    "firstSeen": "2026-11-24T10:50:51.433Z",
+  "north-carolina-family-protects-55-acre-farm-from-development": {
+    "firstSeen": "2026-11-24T21:05:53.960Z",
     "signature": "",
     "norm": 33.9
   }
