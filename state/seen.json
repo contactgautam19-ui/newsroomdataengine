@@ -1,212 +1,47 @@
 {
-  "michael-dell-shares-7-year-old-s-thank-you-note-for-the-250-": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "bill|billion|mp|trump|trump",
-    "norm": 70
+  "31-killed-15-injured-in-fire-in-cairo-s-densely-populated-ar": {
+    "firstSeen": "2026-11-26T00:14:09.510Z",
+    "signature": "fire|fire|hospital|injured|killed|killed",
+    "norm": 72.1
   },
-  "pune-cops-86-km-chase-after-120-second-attack-how-men-who-sh": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "attack|attack|fire|fire",
+  "30-killed-in-fire-in-cairo-s-densely-populated-area": {
+    "firstSeen": "2026-11-26T00:14:09.510Z",
+    "signature": "fire|fire|killed|killed",
     "norm": 68.4
   },
-  "exclusive-angry-congress-mp-repeats-beggar-jibe-samajwadi-le": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "congress|mp|slam|slams",
-    "norm": 65
+  "-fighting-against-bjp-or-us-congress-slams-samajwadi-party-o": {
+    "firstSeen": "2026-11-26T00:14:09.510Z",
+    "signature": "bjp|congress|mp|slam|slams",
+    "norm": 67
   },
-  "speeding-truck-rams-into-students-at-bus-stop-outside-pune-e": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "accident|dead|dead",
-    "norm": 62.9
-  },
-  "opinion-selective-green-outrage-why-do-kashmir-s-politicians": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "outrage|rally|rally",
-    "norm": 62.8
-  },
-  "sp-instructs-police-staff-to-remain-vigilant-against-malprac": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "election|election|poll",
-    "norm": 61.4
-  },
-  "congress-wins-bharatpur-zila-pramukh-poll-in-cm-bhajan-lal-s": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "bjp|congress|poll|sharma|vote",
-    "norm": 61.1
-  },
-  "us-economy-expands-at-4-3-annualised-rate-in-q3-nearly-doubl": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "economy|row|surprising",
-    "norm": 61.1
-  },
-  "after-row-over-vande-mataram-at-j-k-waqf-board-event-muslim-": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "mp|row|slam",
-    "norm": 60.8
-  },
-  "trump-announces-new-tariffs-undeterred-by-midterms-defeat": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "mp|trump|trump",
+  "coimbatore-teen-who-acted-with-rajinikanth-launches-software": {
+    "firstSeen": "2026-11-26T00:14:09.510Z",
+    "signature": "star|video|war",
     "norm": 59.7
   },
-  "delhi-pollution-crisis-6-500-lung-cancer-cases-in-6-years-is": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "mp|poll|row",
-    "norm": 59.7
-  },
-  "-hke-society-membership-process-being-carried-out-in-a-haste": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "dead|dead",
-    "norm": 59.3
-  },
-  "gujarat-teen-dies-after-collapsing-during-football-game-in-s": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "exam|hospital",
-    "norm": 59.3
-  },
-  "shifting-political-allegiance-under-guise-of-dissent-can-top": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "maharashtra|supreme court",
-    "norm": 57.1
-  },
-  "sabarimala-revenue-dip-could-hit-1-200-temples-warns-employe": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "mp|war",
-    "norm": 57.1
-  },
-  "assam-cm-lays-foundation-for-northeast-s-first-50-crore-defe": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "crore|defence",
-    "norm": 55
-  },
-  "basava-mantapa-controversy-author-skips-police-questioning-g": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "controversy|threat",
-    "norm": 53.9
-  },
-  "arkansas-widow-84-worked-to-pay-medical-bills-31k-drive-help": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "bill|fund",
+  "chemistry-most-popular-subject-after-english-for-12th-cbse-s": {
+    "firstSeen": "2026-11-26T00:14:09.510Z",
+    "signature": "lakh|mp",
     "norm": 53.2
   },
-  "two-ny-teens-turn-school-spanish-project-into-business-give-": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "fund|star",
-    "norm": 51.7
-  },
-  "india-china-military-commanders-talks-focus-on-border-manage": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "border|china|mp",
-    "norm": 50.9
-  },
-  "jacobite-church-condemns-remarks-by-orthodox-church-leadersh": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "chief minister|minister",
-    "norm": 50.5
-  },
-  "assam-to-get-two-more-advanced-data-centres-as-govt-signs-mo": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "crore|jobs",
-    "norm": 48.7
-  },
-  "microfinance-fraud-case-first-chargesheet-filed-against-vell": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "fraud",
-    "norm": 48.2
-  },
-  "5-maharashtra-districts-face-fast-building-flash-droughts-be": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "maharashtra",
+  "florida-jury-awards-6m-after-man-dies-in-neck-surgery-withou": {
+    "firstSeen": "2026-11-26T00:14:09.510Z",
+    "signature": "war",
     "norm": 46.3
   },
-  "r-b-minister-s-wife-unanimously-elected-banaganapalle-sarpan": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "minister",
-    "norm": 45.9
+  "us-clears-spacex-to-launch-1-million-satellites-for-data-cen": {
+    "firstSeen": "2026-11-26T00:14:09.510Z",
+    "signature": "star",
+    "norm": 44.3
   },
-  "youth-parliament-programme-to-familiarise-students-with-cons": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "parliament",
-    "norm": 45.9
-  },
-  "manipur-nagaland-cms-discuss-peace-uninterrupted-movement-on": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "further-action-planned-against-two-traders-in-kozhikode-afte": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "mp",
-    "norm": 45.9
-  },
-  "bjp-yuva-morcha-seeks-sainik-school-for-kalaburagi": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "bjp",
-    "norm": 45.9
-  },
-  "-no-significant-impact-on-india-meity-secretary-on-us-chip-e": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "mp",
+  "7th-high-court-posting-justice-rao-may-be-karnataka-chief-ju": {
+    "firstSeen": "2026-11-26T00:14:09.510Z",
+    "signature": "high court",
     "norm": 44
   },
-  "nasdaq-falls-3-at-the-open-as-ai-rout-intensifies": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
+  "minnesota-neighbour-posts-no-access-sign-moors-boat-court-up": {
+    "firstSeen": "2026-11-26T00:14:09.510Z",
     "signature": "mp",
     "norm": 44
-  },
-  "iit-palakkad-offers-free-drone-technology-training-for-minor": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "drone",
-    "norm": 42.7
-  },
-  "chennithala-accuses-centre-of-prioritising-ethanol-productio": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "",
-    "norm": 36
-  },
-  "operation-gaja-herds-scatter-officials-to-monitor-situation-": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "",
-    "norm": 36
-  },
-  "mukhathala-block-panchayat-launches-free-therapy-project-for": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "",
-    "norm": 36
-  },
-  "rera-penalises-three-realty-firms-for-violating-norms": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "",
-    "norm": 36
-  },
-  "on-cjp-s-saurav-das-being-stopped-at-airport-centre-cites-la": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "",
-    "norm": 36
-  },
-  "kseb-inks-pact-with-ntpc-ltd-ngel-for-green-projects": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "",
-    "norm": 36
-  },
-  "students-explore-heritage-sites-in-traditional-tongas-in-kal": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "",
-    "norm": 36
-  },
-  "upload-all-pending-quarterly-progress-reports-tnrera-instruc": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "",
-    "norm": 36
-  },
-  "tirupati-mayor-signs-first-file-to-address-drinking-water-sh": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "",
-    "norm": 36
-  },
-  "us-deported-1-700-indians-in-2026-so-far-india-says-it-oppos": {
-    "firstSeen": "2026-11-25T15:29:23.818Z",
-    "signature": "",
-    "norm": 36
   }
 }
