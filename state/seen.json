@@ -1,47 +1,207 @@
 {
-  "31-killed-15-injured-in-fire-in-cairo-s-densely-populated-ar": {
-    "firstSeen": "2026-11-26T00:14:09.510Z",
-    "signature": "fire|fire|hospital|injured|killed|killed",
-    "norm": 72.1
+  "why-viral-video-of-an-earthmover-near-kashmir-s-sheshnag-lak": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "border|protest|protest|video|viral|viral|viral|viral video",
+    "norm": 87.8
   },
-  "30-killed-in-fire-in-cairo-s-densely-populated-area": {
-    "firstSeen": "2026-11-26T00:14:09.510Z",
-    "signature": "fire|fire|killed|killed",
-    "norm": 68.4
+  "ssc-plans-to-use-indigenous-examination-devices-to-take-comp": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "cctv|defence|election|election|election commission|exam|mp|row",
+    "norm": 82.9
   },
-  "-fighting-against-bjp-or-us-congress-slams-samajwadi-party-o": {
-    "firstSeen": "2026-11-26T00:14:09.510Z",
-    "signature": "bjp|congress|mp|slam|slams",
-    "norm": 67
+  "bomb-threat-targets-amitabh-bachchan-s-jalsa-residence-mumba": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "actor|bollywood|bollywood|bomb|threat",
+    "norm": 79.4
   },
-  "coimbatore-teen-who-acted-with-rajinikanth-launches-software": {
-    "firstSeen": "2026-11-26T00:14:09.510Z",
-    "signature": "star|video|war",
+  "polling-under-way-in-23-urban-local-bodies-and-3-240-gram-pa": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "lakh|poll|vote|war",
+    "norm": 69.6
+  },
+  "hexagons-for-nutrients-sc-asks-fssai-to-tighten-front-packet": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "supreme court|war|warning",
+    "norm": 67.6
+  },
+  "-humiliation-and-backlash-why-mustafizur-rahman-is-staying-a": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "backlash|ipl|pakistan",
+    "norm": 67.6
+  },
+  "sharad-pawar-gets-hospitalised-again-supriya-sule-makes-slow": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "hospital|president|war",
+    "norm": 66
+  },
+  "gadkari-announces-1-lakh-crore-road-projects-for-bengal": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "crore|lakh|minister|mp",
+    "norm": 63.5
+  },
+  "thirupparankundram-deepathoon-row-bjp-leader-nainar-nagenthr": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "bjp|governor|mp|row",
+    "norm": 63.5
+  },
+  "large-explosion-fire-at-oil-depot-in-bangkok-nearby-resident": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "evacuat|explosion|explosion|fire|fire",
+    "norm": 63.4
+  },
+  "gang-war-or-act-of-revenge-4-shot-dead-during-dinner-at-hary": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "dead|dead|war",
+    "norm": 62.9
+  },
+  "tata-trusts-decides-to-move-bombay-high-court-challenging-n-": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "bomb|high court|mp",
     "norm": 59.7
   },
-  "chemistry-most-popular-subject-after-english-for-12th-cbse-s": {
-    "firstSeen": "2026-11-26T00:14:09.510Z",
-    "signature": "lakh|mp",
+  "supreme-court-to-hear-contempt-pleas-in-thirupparankundram-l": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "mp|row|supreme court",
+    "norm": 59.7
+  },
+  "cloud-of-smoke-after-blast-at-major-bangkok-oil-depot-reside": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "blast|evacuat|smoke",
+    "norm": 59.6
+  },
+  "-frisk-visitors-arm-staff-police-to-review-station-security-": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "attack|attack",
+    "norm": 59.3
+  },
+  "situation-in-india-china-border-areas-remain-generally-stabl": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "border|china|rally|rally",
+    "norm": 58.6
+  },
+  "sharad-pawar-admitted-to-hospital-in-south-mumbai-due-to-deh": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "hospital|war",
+    "norm": 57.6
+  },
+  "chairman-to-trustees-all-about-thirupparankundram-temple-boa": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "controversy|mp",
+    "norm": 57.1
+  },
+  "amid-wildlife-deaths-keralam-forest-dept-warns-sabarimala-pi": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "death|died|war",
+    "norm": 56.6
+  },
+  "new-jersey-replaces-116-year-old-railway-bridge-with-2-3-bil": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "bill|billion",
     "norm": 53.2
   },
-  "florida-jury-awards-6m-after-man-dies-in-neck-surgery-withou": {
-    "firstSeen": "2026-11-26T00:14:09.510Z",
-    "signature": "war",
+  "-let-us-play-bada-bhai-team-akhilesh-mp-as-congress-says-no-": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "congress|mp|president",
+    "norm": 50.9
+  },
+  "amid-rising-costs-keralam-s-aided-primary-school-headteacher": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "fund|price|prices",
+    "norm": 50.9
+  },
+  "2008-murder-case-cbi-facilitates-deportation-of-wanted-accus": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "alert",
     "norm": 46.3
   },
-  "us-clears-spacex-to-launch-1-million-satellites-for-data-cen": {
-    "firstSeen": "2026-11-26T00:14:09.510Z",
-    "signature": "star",
+  "study-of-12-209-adults-finds-two-narcissism-types-differ-in-": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "emotional",
+    "norm": 46.3
+  },
+  "tamil-nadu-introduces-15-days-of-paternity-leave-for-married": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "-are-we-partners-or-servants-tension-rises-between-sp-cong": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "mp",
+    "norm": 45.9
+  },
+  "two-kanjar-gang-members-held-in-2-crore-raipur-apple-store-t": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "crore",
+    "norm": 45.9
+  },
+  "man-falls-ill-dies-during-horse-race-at-anant-singh-s-daught": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "wedding",
     "norm": 44.3
   },
-  "7th-high-court-posting-justice-rao-may-be-karnataka-chief-ju": {
-    "firstSeen": "2026-11-26T00:14:09.510Z",
-    "signature": "high court",
+  "krishnaiah-s-daughter-welcomes-supreme-court-order-quashing-": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "supreme court",
     "norm": 44
   },
-  "minnesota-neighbour-posts-no-access-sign-moors-boat-court-up": {
-    "firstSeen": "2026-11-26T00:14:09.510Z",
+  "church-on-government-land-vandalised-in-odisha-village-peace": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
     "signature": "mp",
     "norm": 44
+  },
+  "cm-vijay-inaugurates-148-houses-for-sri-lankan-tamils-in-kri": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "zoho-founder-says-ai-is-making-people-work-harder-shares-how": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "mp",
+    "norm": 44
+  },
+  "ohio-family-wins-appeal-over-luxury-home-defects-and-delayed": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "ruling",
+    "norm": 44
+  },
+  "26-11-the-mystery-of-pak-s-major-general-sahab-who-trained-a": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "mystery",
+    "norm": 40.7
+  },
+  "12-bangladesh-nationals-held-in-aligarh-police-now-probe-who": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "",
+    "norm": 36
+  },
+  "not-bigger-homes-green-spaces-are-the-new-currency-in-luxury": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "",
+    "norm": 36
+  },
+  "world-news-today-live-updates-nvidia-halts-server-shipments-": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "",
+    "norm": 36
+  },
+  "telangana-teen-tells-father-about-love-affair-with-cousin-he": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "hyderabad-gets-its-first-apple-store-check-location-opening-": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "sundarbans-sees-simultaneous-erosion-and-land-accretion-ghor": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "who-qualifies-as-a-journalist-sc-to-ponder-question-of-prote": {
+    "firstSeen": "2026-11-26T09:25:40.457Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
