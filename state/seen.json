@@ -1,152 +1,197 @@
 {
-  "-nuclear-holocaust-risk-trump-claims-iran-missiles-can-reach": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "attack|attack|iran|israel|mp|president|trump|trump",
-    "norm": 90.1
+  "chhattisgarh-forest-dept-registers-case-against-nmdc-gm-afte": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "collapse|collapse|collapse|crore|mp",
+    "norm": 76.2
   },
-  "zakir-naik-s-irf-ban-centre-empowers-states-uts-to-seize-fun": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "fund|mp|terror|terror",
-    "norm": 74
+  "himachal-bjp-demands-re-exam-after-sikh-youth-barred-from-pa": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "bjp|congress|exam|war",
+    "norm": 71.6
   },
-  "on-what-legal-basis-has-government-blocked-a-pakistani-serie": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "pakistan|war|warning",
+  "ibm-ends-u-s-visa-green-card-sponsorship-for-most-roles-in-c": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "killed|killed|mp",
     "norm": 67.6
   },
-  "guntur-urban-local-body-polls-record-73-30-voter-turnout": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "poll|record|vote|war",
-    "norm": 66.9
+  "himachal-bjp-demands-re-exam-after-sikh-candidate-barred-ent": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "bjp|exam|war",
+    "norm": 66
   },
-  "thanksgiving-storm-batters-us-floods-power-cuts-flight-chaos": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "flood|flood|floods|storm|video",
-    "norm": 65.1
+  "akhilesh-s-aims-for-cycle-of-change-in-2027-up-poll-manifest": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "election|election|manifesto|mp|poll",
+    "norm": 64.6
   },
-  "bengaluru-creator-earns-over-rs-10-lakh-in-a-month-through-1": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "deal|lakh|mp|video",
-    "norm": 64.9
-  },
-  "fake-call-centre-164-rescued-foreigners-to-be-sent-back-to-t": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "fraud|rescue|rescue",
-    "norm": 64.9
-  },
-  "zakir-naik-s-irf-ban-extended-centre-empowers-states-to-act-": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "fund|mp|slam",
-    "norm": 63.9
-  },
-  "bjp-s-delimitation-push-2-0-dmk-s-possible-shift-pawar-s-sta": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "bill|bjp|parliament|war",
+  "thirupparankundram-deepathoon-row-bjp-leader-nainar-nagenthr": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "bjp|governor|mp|row",
     "norm": 63.5
   },
-  "-i-d-like-to-have-him-trump-says-putin-can-come-to-g20-summi": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "g20|mp|summit|trump|trump",
-    "norm": 62.9
+  "nine-day-third-session-of-16th-keralam-assembly-to-begin-on-": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "bill|cry|death",
+    "norm": 62.5
   },
-  "kallakurichi-mla-woman-ias-officer-harassment-case-in-tamil-": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "mla|opposition|row",
+  "jailed-hardliner-amritpal-singh-likely-to-contest-against-bh": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "aap|lok sabha|poll|war",
+    "norm": 61.8
+  },
+  "sc-s-deepam-order-all-devotees-can-light-lamp-crpf-to-secure": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "controversy|mp|supreme court|vote",
+    "norm": 61.8
+  },
+  "amritpal-singh-breakaway-akalis-in-alliance-talks-in-punjab-": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "alliance|election|election",
+    "norm": 61.4
+  },
+  "after-sc-s-deepathoon-order-bjp-targets-vijay-says-he-hates-": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "bjp|row|supreme court",
+    "norm": 61.4
+  },
+  "ontario-volunteer-helps-revive-trumpeter-swans-from-just-69-": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "mp|trump|trump",
     "norm": 59.7
   },
-  "heavy-rain-wind-and-flooding-play-spoilsport-at-thanksgiving": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "flood|flood|heavy rain",
-    "norm": 57.9
+  "-who-is-lying-akhilesh-questions-u-p-cm-ceo-over-conflicting": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "chief minister|crore|minister|vote",
+    "norm": 59.7
   },
-  "cong-blocking-women-quota-implementation-shah": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "amit shah|bjp|minister|mp|parliament",
+  "-willfully-disobeyed-order-supreme-court-pulls-up-tamil-nadu": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "mp|row|supreme court",
+    "norm": 59.7
+  },
+  "cjp-s-ashutosh-ranka-serves-defamation-notice-on-jitendra-si": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "fund|minister|pakistan",
+    "norm": 59.3
+  },
+  "drought-s-bitter-harvest-of-debt": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "threat|toll",
+    "norm": 59.3
+  },
+  "thirupparankundram-deepathoon-row-a-timeline-of-events": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "mp|row",
+    "norm": 57.1
+  },
+  "melbourne-man-who-endured-10-surgeries-wins-young-australian": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "hospital|mp",
+    "norm": 55.4
+  },
+  "cop31-india-welcomes-50-million-climate-fund-pledge-says-ada": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "fund|mp",
+    "norm": 55
+  },
+  "can-bjp-get-delimitation-bill-passed-with-less-than-360-vote": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "bill|bjp|mp|opposition|vote",
     "norm": 54.4
   },
-  "north-dakota-court-revives-woman-s-claim-over-water-main-flo": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "flood|flood",
-    "norm": 54.2
+  "union-cabinet-clears-delimitation-bill": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "bill|cabinet|lok sabha|mp",
+    "norm": 53.9
   },
-  "congress-mp-says-kallakurichi-mla-issue-is-a-setback-to-tvk-": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "congress|mla|mp",
+  "cannabis-worth-rs-28-lakh-seized-from-telangana-cotton-field": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "lakh|mla",
+    "norm": 53.2
+  },
+  "lokesh-asks-tdp-leaders-to-guard-against-complacency-in-rema": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "mp|poll|president",
     "norm": 52.7
   },
-  "-we-love-yogi-very-much-raut-s-praise-puts-spotlight-on-bjp-": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "bjp|yogi",
+  "court-shock-to-trinamool-rebels-ritabrata-banerjee-loses-key": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "shock|shock",
+    "norm": 52.4
+  },
+  "odisha-s-interest-must-be-protected-bjd-on-delimitation-bill": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "bill|parliament",
     "norm": 50.5
   },
-  "udhayanidhi-stalin-meets-tamil-nadu-governor-seeks-cbi-inqui": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "governor|mla",
+  "big-win-for-mamata-banerjee-calcutta-hc-quashes-ritabrata-s-": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "mamata|opposition",
+    "norm": 50.5
+  },
+  "dmk-sets-conditions-to-support-delimitation-bill": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "bill|lok sabha",
+    "norm": 50.5
+  },
+  "indiana-appeals-court-upholds-man-s-35-000-retirement-paymen": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "mp|ruling",
     "norm": 48.7
   },
-  "vchief-minister-inaugurates-care-home-for-elderly-men": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "chief minister|minister",
+  "josh-allen-vows-to-bounce-back-after-bills-ugly-win-over-chi": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "bill|mp",
     "norm": 48.7
   },
-  "overnight-sharp-spell-of-rain-drenches-hyderabad": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "weather",
-    "norm": 48.2
-  },
-  "pocso-convict-held-for-sexually-assaulting-10-year-old-girl-": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "war",
+  "joe-milton-leads-eagles-to-historic-thanksgiving-comeback-ag": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "row",
     "norm": 46.3
   },
-  "92-indonesians-72-malaysians-lured-to-delhi-forced-to-work-f": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "scam",
+  "csir-ccmb-s-lacones-g-umapathy-elected-as-fellow-of-national": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "anger",
     "norm": 46.3
   },
-  "more-women-in-judiciary-will-make-society-more-fair-presiden": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "president",
+  "hackers-breach-us-air-force-s-flagship-cloud-platform-disrup": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "air force",
     "norm": 45.9
   },
-  "kolkata-outlet-fined-rs-50-000-for-charging-rs-10-to-pack-ch": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "fund",
-    "norm": 44
-  },
-  "cpi-m-urges-tamil-nadu-government-to-act-against-kallakurich": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "mla",
-    "norm": 44
-  },
-  "india-uae-to-accelerate-joint-development-and-production-of-": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "defence",
-    "norm": 44
-  },
-  "government-has-clear-strategy-to-stall-court-proceedings-aga": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "congress",
-    "norm": 44
-  },
-  "cpi-announces-three-day-jail-bharo-andolan-from-december-1": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "tamil-nadu-introduces-15-days-of-paternity-leave-for-married": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "mp",
-    "norm": 44
-  },
-  "this-ai-linked-us-stock-beat-nvidia-apple-among-indian-inves": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
-    "signature": "investor",
-    "norm": 44
-  },
-  "delhi-continues-to-grapple-with-toxic-air-as-aqi-dips-to-273": {
-    "firstSeen": "2026-11-27T02:46:30.211Z",
+  "nudged-by-centre-tamil-nadu-begins-ration-card-data-clean-up": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
     "signature": "",
     "norm": 36
+  },
+  "even-drumsticks-are-a-luxury-in-andhra-pradesh-now": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "",
+    "norm": 36
+  },
+  "telangana-safe-discards-858-kg-spoiled-fish-prawns-at-hydera": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "",
+    "norm": 36
+  },
+  "mirwaiz-says-he-was-put-under-house-arrest-over-vande-matara": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "",
+    "norm": 36
+  },
+  "for-the-second-time-this-year-guindy-children-s-park-closed-": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "telangana-s-new-pattadar-passbooks-to-have-unique-code-land-": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "",
+    "norm": 33.9
+  },
+  "opinion-opinion-kartarpur-sahib-corridor-a-bridge-of-faith-t": {
+    "firstSeen": "2026-11-27T12:01:45.236Z",
+    "signature": "",
+    "norm": 33.9
   }
 }
