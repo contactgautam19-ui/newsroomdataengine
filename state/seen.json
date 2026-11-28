@@ -1,177 +1,62 @@
 {
-  "sari-to-salwar-switch-bjp-walks-away-with-congress-pick-wins": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "bjp|congress|war",
-    "norm": 62.5
+  "israel-says-killed-2-terrorists-working-at-doctors-without-b": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "border|israel|killed|killed|terror|terror",
+    "norm": 85.4
   },
-  "bjp-mla-questions-rs-14-cr-taxpayer-money-spent-for-constitu": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "bjp|mla|tax",
-    "norm": 60.4
+  "hamas-claims-its-chief-s-youngest-son-survived-israeli-attac": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "attack|attack|israel|mp",
+    "norm": 75.9
   },
-  "trump-backs-iraqi-pm-al-zaidi-efforts-to-assert-state-author": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "mp|trump|trump",
-    "norm": 59.7
+  "in-return-for-sharad-pawar-s-delimitation-support-cabinet-be": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "bjp|cabinet|congress|maharashtra|war",
+    "norm": 72
   },
-  "du-moves-to-protect-llb-students-from-losing-original-marks-": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "exam|mp",
+  "terror-plot-foiled-in-delhi-ncr-suspected-jem-operative-arre": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "pakistan|terror|terror",
+    "norm": 67.6
+  },
+  "keralam-govt-approves-40-lakh-for-informant-police-rewards-u": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "fan|lakh|war",
+    "norm": 64.2
+  },
+  "-sc-must-review-its-order-tn-cong-as-top-court-directs-deepa": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "congress|ipl|mp|president|supreme court",
+    "norm": 62.9
+  },
+  "delhi-court-to-deliver-judgment-in-waqf-board-case-against-a": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "aap|khan|mla|verdict",
     "norm": 58.3
   },
-  "cancer-hospitals-to-open-in-mysuru-mandya-within-3-months-sa": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "hospital|minister",
-    "norm": 58.3
+  "ahead-of-up-assembly-elections-30-ips-officers-transferred": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "election|election",
+    "norm": 57.1
   },
-  "health-minister-khader-orders-private-hospitals-to-display-t": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "hospital|minister",
-    "norm": 58.3
+  "supreme-court-extends-bail-of-two-accused-in-2020-delhi-riot": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "riot|supreme court",
+    "norm": 57.1
   },
-  "centre-proposes-freeze-on-lok-sabha-seat-proportions-for-sta": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "bill|lok sabha|mp",
-    "norm": 50.9
+  "bihar-minister-ashok-choudhary-resigns-as-assistant-professo": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "minister|row",
+    "norm": 55.4
   },
-  "cabinet-clears-bills-to-raise-lok-sabha-seats-by-50-freeze-d": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "bill|cabinet|lok sabha",
-    "norm": 50.9
+  "akash-deep-joins-zaheer-khan-ishant-sharma-in-elite-list": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
+    "signature": "khan|sharma",
+    "norm": 48.2
   },
-  "leopard-sightings-on-frequently-used-road-in-hassan-village-": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "fear",
-    "norm": 49.4
-  },
-  "karnataka-to-match-centre-nhm-incentives-for-asha-workers-cm": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "match",
-    "norm": 49.4
-  },
-  "saint-kanakadasa-fought-against-caste-system-in-society-says": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
+  "-we-gave-up-our-rs-seat-for-sharad-pawar-cong-takes-aim-at-n": {
+    "firstSeen": "2026-11-28T03:50:42.387Z",
     "signature": "war",
-    "norm": 49.4
-  },
-  "lok-sabha-seat-freeze-is-no-longer-linked-to-population-stab": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "lok sabha",
-    "norm": 47.1
-  },
-  "chikkamagaluru-farmer-group-asks-three-mlas-to-tackle-elepha": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "mla",
-    "norm": 47.1
-  },
-  "nid-ahmedabad-designs-india-cultural-pavilion-at-namaste-can": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "china",
-    "norm": 47.1
-  },
-  "taurus-horoscope-today-november-28-2026-complete-one-demandi": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "bisleri-in-fresh-trouble-after-goa-fssai-finds-bacteria-in-w": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "mp",
-    "norm": 47.1
-  },
-  "collaborative-research-partnerships-must-move-beyond-signing": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "summit",
-    "norm": 47.1
-  },
-  "former-minister-demands-proper-elephant-corridor-in-chikkama": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "minister",
-    "norm": 47.1
-  },
-  "from-her-unusual-pairing-with-kapil-sharma-in-comedy-circus-": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "sharma",
-    "norm": 45.5
-  },
-  "kallakurichi-tvk-mla-arul-vignesh-arrested-on-charges-of-har": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "mla",
-    "norm": 44
-  },
-  "senior-advocate-syed-faisal-qadri-appointed-as-j-k-s-advocat": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "high court",
-    "norm": 44
-  },
-  "punjabi-man-stranded-in-ukraine-family-pleads-for-return": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "meet-ethan-vitus-the-9-year-old-who-found-a-granola-recipe-i": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "delhi-bihar-bus-services-on-18-routes-after-inter-state-pact": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "daily-nadi-horoscope-for-28-november-2026-punarvasu-and-shuk": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "14th-national-ins-conference-to-focus-on-patient-safety-clin": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "codava-national-council-reiterates-demands-for-kodavaland-au": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "irina-rudakova-joins-shayad-yahi-hai-pyaar-as-zoe-will-her-a": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "mizkif-questions-kai-cenat-gaming-passion-after-streamer-lau": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "aries-shani-horoscope-today-28-november-2026-annapurna-vrat-": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "mirwaiz-under-house-arrest-after-sheshnag-vande-mataram-crit": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "gemini-horoscope-today-november-28-2026-review-your-savings-": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 37.4
-  },
-  "cultural-values-of-language-remain-irreplaceable-in-ai-era-a": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 36
-  },
-  "india-supported-school-hostel-inaugurated-in-nepal-mustang-d": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 33.9
-  },
-  "cbi-coordinates-return-of-wanted-fugitive-vikas-agrawal-from": {
-    "firstSeen": "2026-11-27T21:07:40.011Z",
-    "signature": "",
-    "norm": 33.9
+    "norm": 46.3
   }
 }
