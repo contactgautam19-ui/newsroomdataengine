@@ -1,62 +1,152 @@
 {
-  "israel-says-killed-2-terrorists-working-at-doctors-without-b": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "border|israel|killed|killed|terror|terror",
-    "norm": 85.4
+  "pawan-kalyan-expresses-grief-over-livestock-deaths-in-kakina": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "accident|death|fire|fire|grief|mp",
+    "norm": 82.5
   },
-  "hamas-claims-its-chief-s-youngest-son-survived-israeli-attac": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "attack|attack|israel|mp",
-    "norm": 75.9
+  "karnataka-cm-shivakumar-warns-of-delhi-chalo-protest-over-pe": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "modi|modi|protest|protest|war",
+    "norm": 77.8
   },
-  "in-return-for-sharad-pawar-s-delimitation-support-cabinet-be": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "bjp|cabinet|congress|maharashtra|war",
-    "norm": 72
+  "karthigai-deepam-row-ceremonial-lamp-lit-atop-tirupparankund": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "fire|fire|mp|row|vote",
+    "norm": 75.3
   },
-  "terror-plot-foiled-in-delhi-ncr-suspected-jem-operative-arre": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "pakistan|terror|terror",
-    "norm": 67.6
+  "delimitation-bill-live-bjp-is-rigging-elections-now-they-hav": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "bill|bjp|election|election|ruling",
+    "norm": 64.6
   },
-  "keralam-govt-approves-40-lakh-for-informant-police-rewards-u": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "fan|lakh|war",
-    "norm": 64.2
+  "pakistan-occupied-j-k-gets-mention-in-delimitation-bill-what": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "bill|election|election|election commission|pakistan",
+    "norm": 64.6
   },
-  "-sc-must-review-its-order-tn-cong-as-top-court-directs-deepa": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "congress|ipl|mp|president|supreme court",
+  "india-bloc-to-oppose-delimitation-bills-package-alleges-bjp-": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "bill|bjp|election|election|lok sabha|mp|parliament",
+    "norm": 63.7
+  },
+  "sc-clears-way-for-hockey-india-polls-on-dec-5-dilip-tirkey-u": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "election|election|poll|ruling|supreme court",
     "norm": 62.9
   },
-  "delhi-court-to-deliver-judgment-in-waqf-board-case-against-a": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "aap|khan|mla|verdict",
-    "norm": 58.3
-  },
-  "ahead-of-up-assembly-elections-30-ips-officers-transferred": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "election|election",
+  "thirupparankundram-row-live-karthigai-lamp-lit-at-deepathoon": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "mp|row",
     "norm": 57.1
   },
-  "supreme-court-extends-bail-of-two-accused-in-2020-delhi-riot": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "riot|supreme court",
-    "norm": 57.1
+  "delimitation-based-on-latest-census-will-pose-a-danger-to-ta": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "anger|bill|bjp",
+    "norm": 59.7
   },
-  "bihar-minister-ashok-choudhary-resigns-as-assistant-professo": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "minister|row",
+  "madurai-deepam-row-did-tamil-nadu-defy-the-supreme-court-ord": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "mp|row|supreme court",
+    "norm": 59.7
+  },
+  "toyota-to-study-feasibility-of-karnataka-s-invite-to-adapt-h": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "mp|poll|tax",
+    "norm": 57.6
+  },
+  "thirupparankundram-deepam-row-traditional-karthigai-deepam-l": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "row|supreme court",
     "norm": 55.4
   },
-  "akash-deep-joins-zaheer-khan-ishant-sharma-in-elite-list": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "khan|sharma",
+  "aidso-students-stage-protests-in-shahabad-and-hosapete-in-su": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "protest|protest",
+    "norm": 54.2
+  },
+  "post-delimitation-what-the-new-lok-sabha-will-look-like": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "lok sabha|minister|mp|parliament",
+    "norm": 53.9
+  },
+  "palakkad-ticket-wins-12-crore-first-prize-of-pooja-bumper-lo": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "crore|mp",
+    "norm": 53.2
+  },
+  "-session-must-run-kiren-rijiju-urges-mps-to-ensure-smooth-pa": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "mp|opposition|parliament",
+    "norm": 52.7
+  },
+  "-our-3-mps-will-vote-in-favour-brs-announces-support-for-del": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "bill|mp|president|vote",
+    "norm": 52.1
+  },
+  "in-supreme-court-appointed-judges-presence-deepam-lit-on-mad": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "mp|supreme court|vote",
+    "norm": 50.9
+  },
+  "543-to-816-govt-reveals-what-india-s-redrawn-electoral-map-c": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "lok sabha|minister|parliament",
+    "norm": 50.9
+  },
+  "rahul-kharge-akhilesh-and-mamata-to-attend-india-bloc-s-cons": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "congress|mamata",
+    "norm": 50.5
+  },
+  "ex-cbi-officer-says-he-refused-fishing-and-roving-inquiry-ag": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "scam",
     "norm": 48.2
   },
-  "-we-gave-up-our-rs-seat-for-sharad-pawar-cong-takes-aim-at-n": {
-    "firstSeen": "2026-11-28T03:50:42.387Z",
-    "signature": "war",
+  "new-delimitation-plan-caps-assembly-seats-at-650-how-up-s-di": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "row",
     "norm": 46.3
+  },
+  "tamil-nadu-library-scam-every-reader-of-a-spurious-book-beco": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "scam",
+    "norm": 46.3
+  },
+  "delimitation-bill-unscientific-will-hurt-southern-states-say": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "bill",
+    "norm": 45.9
+  },
+  "telangana-cm-revanth-reddy-rushes-to-delhi-with-delimitation": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "bill",
+    "norm": 45.9
+  },
+  "festive-demand-el-nino-may-stoke-india-s-inflation-in-coming": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "inflation",
+    "norm": 44
+  },
+  "-you-are-the-dumbest-ai-why-people-are-bullying-their-chatbo": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "tax",
+    "norm": 44
+  },
+  "calcutta-high-court-tells-west-bengal-speaker-to-appoint-lop": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "high court",
+    "norm": 44
+  },
+  "india-failed-to-build-partnerships-in-second-test-admits-bah": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "star",
+    "norm": 42.4
+  },
+  "delimitation-in-india-s-strategic-periphery-a-national-secur": {
+    "firstSeen": "2026-11-28T12:53:34.359Z",
+    "signature": "",
+    "norm": 36
   }
 }
